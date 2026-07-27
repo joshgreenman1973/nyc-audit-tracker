@@ -1,0 +1,79 @@
+{
+  "id": "review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of the Small Business Forward Initiative and Its Impact on Violations Enforcement",
+  "plain_title": "Did small business fine reforms actually reach small businesses?",
+  "agency": "Mayor's Office, Department of Small Business Services and six enforcement agencies",
+  "issued": "2026-04-07",
+  "url": "https://comptroller.nyc.gov/reports/review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/Review-of-the-Small-Business-Forward-Initiative-and-Its-Impact-on-Violations-Enforcement.pdf",
+  "what_they_audited": "This was a review, not a full audit. The comptroller's office checked the status of the 116 regulatory reforms recommended under the Small Business Forward initiative and, where possible, whether the projected savings for small businesses were actually realized.",
+  "background": "In January 2022 Mayor Eric Adams signed Executive Order 2, directing six city agencies to reform business regulations to reduce fines for small businesses; the agencies recommended changes to 116 of 232 regulations reviewed, with estimated savings of about $8.9 million a year. Many reforms were codified in Local Law 151 of 2023, and Mayor Mamdani extended the initiative in January 2026 with Executive Order 11.",
+  "findings": [
+    {
+      "plain": "The city never defined \"small business\" for the initiative, and the agencies carrying it out generally did not consider the impact on small businesses when choosing regulations to reform. No agency tracks violations by business size.",
+      "quote": "the agencies charged with implementing Small Business Forward generally did not consider the potential impact on small businesses when identifying regulations for potential reform"
+    },
+    {
+      "plain": "The claimed outreach behind the reforms, including a survey of nearly 1,000 small business owners, could not be verified. No agency produced the survey or any documentation of consultation.",
+      "quote": "none of the entities contacted during this review could substantiate that the survey or consultation with small businesses occurred"
+    },
+    {
+      "plain": "Most of the regulations picked for reform were rarely or never enforced. Only 36 of the 116 were regularly used as the basis for violations in calendar year 2021, and 59 produced no violations at all that year.",
+      "quote": "only 36 (31%) had related violations that were issued frequently during CY 2021"
+    },
+    {
+      "plain": "No one has measured the initiative's full financial impact because agencies did not collect the needed data. Using the data available, auditors estimated the reforms cut fines for all businesses of any size from $14.5 million to $12.1 million over 15 months, a 17% reduction.",
+      "quote": "went from $14.5 million (pre-adoption) to $12.1 million (post-adoption), a 17% reduction"
+    },
+    {
+      "plain": "Of the 30 regularly enforced regulations whose changes were implemented, 14 related to health and safety, such as hazardous materials and emergency exits. Auditors could not tell whether softer penalties slowed how quickly violations were fixed.",
+      "quote": "Of the 30, 14 (47%) related to health and safety issues."
+    },
+    {
+      "plain": "No single agency was put in charge of the initiative, no performance indicators were set and no impact assessment was ever conducted, even as the program was rebooted in 2025 and extended in 2026.",
+      "quote": "There appears to be no single entity responsible for overseeing the SBF initiative"
+    },
+    {
+      "plain": "The administration's projection of roughly $8.9 million in annual savings for small businesses had no documented methodology and could not be substantiated.",
+      "quote": "the SBF report’s estimated annual savings of approximately $8.9 million cannot be verified or relied upon as accurate"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "116",
+      "label": "Regulations recommended for reform under the initiative"
+    },
+    {
+      "value": "36",
+      "label": "Of those 116 regularly enforced in the year before reform"
+    },
+    {
+      "value": "17%",
+      "label": "Estimated fine reduction, January 2024 through March 2025"
+    },
+    {
+      "value": "$8.9 million",
+      "label": "Projected annual savings that could not be verified"
+    }
+  ],
+  "recommendations": [
+    "Formally designate a lead agency to oversee and coordinate the initiative, track savings and ensure it stays effective.",
+    "Publish regular public reports on the initiative's progress, realized savings for small businesses and compliance rates, with clearly defined indicators and methods.",
+    "Adopt a uniform definition of \"small business\" used by all participating agencies.",
+    "Have agencies prioritize violations and reforms based on their impact on businesses that fit that definition, not on businesses generally.",
+    "Develop a framework for monitoring both financial savings and non-financial impacts such as reduced administrative burden and time savings.",
+    "Have the six regulatory agencies consider adding a small business identifier to their systems to track violations, fine reductions, waivers and cure periods for small entities.",
+    "Create a formal, documented methodology for calculating projected and realized savings from the reforms.",
+    "Implement a formal protocol to monitor whether reduced penalties or extended cure periods affect how quickly health and safety violations are fixed.",
+    "Have the lead agency review the reforms already implemented to determine whether the financial savings actually benefited small businesses."
+  ],
+  "agency_response": "The Mayor's Office agreed with six of the nine recommendations, agreed in principle with two and did not address one, and the Department of Small Business Services deferred to the Mayor's Office. The Fire Department disagreed with the recommendation on prioritizing reforms by small business impact.",
+  "topics": [
+    "small business",
+    "money and contracts",
+    "transparency"
+  ],
+  "is_followup": false
+}

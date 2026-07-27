@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodology — The audit files</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Besley:wght@700;800;900&family=Public+Sans:wght@400;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root { --paper:#f4efe2; --ink:#1b1712; --ink-soft:#4d453a; --stamp:#a8232a; --rule:#b9ad92; }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:"Public Sans",sans-serif; background:var(--paper); color:var(--ink); line-height:1.6; }
+.wrap { max-width:760px; margin:0 auto; padding:0 20px 80px; }
+header { padding:46px 0 24px; border-bottom:3px double var(--ink); margin-bottom:30px; }
+.kicker { font-family:"Courier Prime",monospace; font-size:13px; letter-spacing:.14em; text-transform:uppercase; color:var(--stamp); font-weight:700; }
+h1 { font-family:"Besley",serif; font-weight:900; font-size:clamp(34px,6vw,54px); line-height:1; margin-top:8px; }
+h2 { font-family:"Besley",serif; font-weight:800; font-size:22px; margin:34px 0 10px; }
+p, li { color:var(--ink-soft); margin-bottom:12px; }
+ul { margin-left:22px; }
+a { color:var(--ink); }
+code { font-family:"Courier Prime",monospace; font-size:.95em; background:rgba(255,255,255,.6); padding:1px 5px; }
+.back { font-family:"Courier Prime",monospace; font-weight:700; font-size:13.5px; color:var(--ink); border:1.5px solid var(--ink); padding:9px 16px; text-decoration:none; display:inline-block; margin-top:24px; }
+.back:hover { background:var(--ink); color:var(--paper); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="kicker">The audit files</div>
+  <h1>Methodology</h1>
+</header>
+
+<h2>What this tracker covers</h2>
+<p>Audits and audit-style reviews of New York City agencies, programs and spending issued on or after January 1, 2026 by two independent offices:</p>
+<ul>
+  <li><strong>The New York City Comptroller's Office</strong>, whose Bureau of Audit examines city agencies under the City Charter. Source: the reports section of <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, filtered to the audit report type. This includes documents the office labels "audit," "follow-up audit" and "review."</li>
+  <li><strong>The Office of the New York State Comptroller</strong>, which audits New York City agencies under the state constitution and state law. Source: the state agency audit listings at <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, filtered to audits whose audited entity is a New York City government agency or a city public benefit corporation.</li>
+</ul>
+
+<h2>What counts as "New York City-related"</h2>
+<p>For state comptroller audits, an audit is included when the audited entity is a New York City agency (for example the Department of Social Services or New York City Public Schools) or a city authority such as the New York City Housing Authority. Audits of state agencies and state authorities that operate in the city, including the Metropolitan Transportation Authority, are excluded because their spending is not spending by the city. State audits of programs explicitly located outside the five boroughs, such as Mitchell-Lama developments outside New York City, are also excluded.</p>
+
+<h2>How the data is gathered</h2>
+<p>A scraper fetches both comptrollers' public listing pages, follows each audit to its official page and extracts the report text (for city audits, the full report body published in HTML; for state audits, the published objective, program description, key findings and key recommendations). Dates, titles, agencies and PDF links come directly from those pages. The scraper is built to fail loudly: if either source returns zero audits or an audit page yields no text, the update stops rather than silently publishing incomplete data.</p>
+
+<h2>How the plain-language summaries are written</h2>
+<p>Summaries are AI-assisted, written only from the text of each official audit page under rules that bar adding any fact, name or figure not present in the source. Every dollar figure shown on a card appears verbatim in the official text. Direct quotes are exact excerpts from the reports. Findings and recommendations are restatements, so wording differs from the official documents; the official report is always one click away and is the authoritative version.</p>
+
+<h2>What "findings" and "recommendations" mean here</h2>
+<p>Counts shown in the tracker are counts of items in these summaries, not official tallies. The city comptroller's reviews sometimes present "key takeaways" and suggestions rather than formal findings and recommendations; the tracker treats them the same way. Both offices' full reports contain more detail, sub-findings and formal agency response letters than any summary can carry.</p>
+
+<h2>Updates</h2>
+<p>An automated weekly check re-runs the scraper. If new audits appear, they are flagged for summarizing and added to the tracker; the "last updated" date on the front page reflects the most recent data build.</p>
+
+<h2>Limitations</h2>
+<ul>
+  <li>The tracker starts January 1, 2026. Earlier audits, including those a 2026 follow-up refers back to, are not listed but are linked from the follow-up reports themselves.</li>
+  <li>Only published audits appear. Audits in progress are not public.</li>
+  <li>Agency names follow each office's own attribution, lightly normalized to natural word order.</li>
+  <li>If a source website changes its structure, updates may pause until the scraper is fixed. The tracker will show its last good build date rather than partial data.</li>
+</ul>
+
+<a class="back" href="index.html">← Back to the files</a>
+</div>
+</body>
+</html>

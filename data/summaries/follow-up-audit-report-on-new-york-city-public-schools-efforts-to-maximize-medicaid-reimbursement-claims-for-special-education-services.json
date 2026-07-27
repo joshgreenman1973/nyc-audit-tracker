@@ -1,0 +1,74 @@
+{
+  "id": "follow-up-audit-report-on-new-york-city-public-schools-efforts-to-maximize-medicaid-reimbursement-claims-for-special-education-services",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Follow-up Audit Report on New York City Public Schools’ Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
+  "plain_title": "Schools left an estimated $431.6 million in Medicaid money unclaimed",
+  "agency": "Department of Education (New York City Public Schools)",
+  "issued": "2026-07-23",
+  "url": "https://comptroller.nyc.gov/reports/follow-up-audit-report-on-new-york-city-public-schools-efforts-to-maximize-medicaid-reimbursement-claims-for-special-education-services/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/FM25PAR20002.pdf",
+  "what_they_audited": "A follow-up to a 2021 audit that found the school system was not seeking Medicaid reimbursement it was entitled to for special education services. Auditors checked whether New York City Public Schools carried out the 30 earlier recommendations and measured how much reimbursement went unclaimed in fiscal years 2023 through 2025.",
+  "background": "Federal law requires the school system to provide the special education services spelled out in each student's individualized education program, and Medicaid reimburses school districts for 10 types of covered services delivered to Medicaid-enrolled students, with the state and city splitting the money evenly. A claim fails if even one documentation requirement is not met.",
+  "findings": [
+    {
+      "plain": "Auditors estimate the city failed to claim about $431.6 million in Medicaid reimbursement for special education services in fiscal years 2023 through 2025.",
+      "quote": "the City failed to claim approximately $431.6 million in Medicaid revenue during Fiscal Years 2023, 2024, and 2025"
+    },
+    {
+      "plain": "The school system claimed reimbursement for only 54% of the documented occupational, physical and speech therapy sessions it provided to Medicaid-enrolled students, largely because it failed to collect required paperwork. That gap cost at least $273.4 million over the three years.",
+      "quote": "NYCPS only claimed reimbursement for 54% of all documented OT, PT, and ST services provided to Medicaid-enrolled pre-K to Grade 12 students"
+    },
+    {
+      "plain": "There is no record of 16.2% of the therapy services that students' education plans required. Either children missed services considered medically necessary or the services happened but were never documented, which would add up to $132.8 million more in lost reimbursement.",
+      "quote": "NYCPS lacks any record of providing 16.2% of all OT, PT, and ST services that were mandated for eligible students with IEPs"
+    },
+    {
+      "plain": "The school system still chooses not to seek reimbursement for seven of the 10 service types Medicaid covers, including psychological counseling, evaluations, special transportation and skilled nursing. Auditors conservatively put the added cost at $25.4 million.",
+      "quote": "It is still NYCPS’ policy not to claim for seven of the 10 service types for which Medicaid reimbursement is available"
+    },
+    {
+      "plain": "Of the 30 recommendations from the 2021 audit, the school system fully implemented three, partially implemented eight and did not act on the other 19.",
+      "quote": "NYCPS has fully implemented only three recommendations and partially implemented eight others, leaving a total of 19 that were not acted upon"
+    },
+    {
+      "plain": "Cooperation with the audit was poor. The school system took 52 business days on average to hand over requested information and denied auditors direct access to its record systems.",
+      "quote": "On average, it took NYCPS 52 business days to provide requested information or documentation"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$431.6 million",
+      "label": "Estimated Medicaid money left unclaimed over three years"
+    },
+    {
+      "value": "$273.4 million",
+      "label": "Lost on therapy services provided but never claimed"
+    },
+    {
+      "value": "54%",
+      "label": "Share of documented therapy sessions actually claimed"
+    },
+    {
+      "value": "19",
+      "label": "Prior recommendations not acted on, out of 30"
+    }
+  ],
+  "recommendations": [
+    "Create an interim action plan with milestones to strengthen claim checks and cut unclaimed services while the new MedSys claiming system is being built.",
+    "Set up routine monitoring, such as sample-based reviews, so every therapy session has the required written order or referral before claims are submitted.",
+    "Periodically review the licenses and national provider identifier numbers of existing employees and promptly fix wrong or incomplete provider records.",
+    "Keep working to collect parental consent forms and add monitoring, such as sample-based reviews, to check compliance.",
+    "Record every service session in the two tracking systems, determine whether unrecorded services were delivered but not logged or never delivered, and act on what it finds.",
+    "Meet documentation and claiming requirements for all covered services for K-12 and eligible preschool students, file claims within the allowed window and resubmit correctable claims.",
+    "Do a cost-benefit analysis of expanding claiming to more of the covered services and develop a staged expansion plan.",
+    "Revisit the still-unimplemented recommendations once the Medicaid team is fully staffed and the new special education system is rolled out.",
+    "Promptly give auditors the information and documents needed to complete legally authorized audits."
+  ],
+  "agency_response": "New York City Public Schools agreed with four of the nine new recommendations, partially agreed with four and disagreed with one. It also questioned the audit's sample size, an argument the auditors rejected as inconsistent with government auditing standards.",
+  "topics": [
+    "education",
+    "money and contracts"
+  ],
+  "is_followup": true
+}

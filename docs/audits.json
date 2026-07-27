@@ -1,0 +1,835 @@
+{
+ "generated": "2026-07-27",
+ "cutoff": "2026-01-01",
+ "audits": [
+  {
+   "id": "follow-up-audit-report-on-new-york-city-public-schools-efforts-to-maximize-medicaid-reimbursement-claims-for-special-education-services",
+   "source": "nyc",
+   "auditor": "New York City Comptroller",
+   "title": "Follow-up Audit Report on New York City Public Schools’ Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
+   "plain_title": "Schools left an estimated $431.6 million in Medicaid money unclaimed",
+   "agency": "Department of Education (New York City Public Schools)",
+   "issued": "2026-07-23",
+   "url": "https://comptroller.nyc.gov/reports/follow-up-audit-report-on-new-york-city-public-schools-efforts-to-maximize-medicaid-reimbursement-claims-for-special-education-services/",
+   "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/FM25PAR20002.pdf",
+   "what_they_audited": "A follow-up to a 2021 audit that found the school system was not seeking Medicaid reimbursement it was entitled to for special education services. Auditors checked whether New York City Public Schools carried out the 30 earlier recommendations and measured how much reimbursement went unclaimed in fiscal years 2023 through 2025.",
+   "background": "Federal law requires the school system to provide the special education services spelled out in each student's individualized education program, and Medicaid reimburses school districts for 10 types of covered services delivered to Medicaid-enrolled students, with the state and city splitting the money evenly. A claim fails if even one documentation requirement is not met.",
+   "findings": [
+    {
+     "plain": "Auditors estimate the city failed to claim about $431.6 million in Medicaid reimbursement for special education services in fiscal years 2023 through 2025.",
+     "quote": "the City failed to claim approximately $431.6 million in Medicaid revenue during Fiscal Years 2023, 2024, and 2025"
+    },
+    {
+     "plain": "The school system claimed reimbursement for only 54% of the documented occupational, physical and speech therapy sessions it provided to Medicaid-enrolled students, largely because it failed to collect required paperwork. That gap cost at least $273.4 million over the three years.",
+     "quote": "NYCPS only claimed reimbursement for 54% of all documented OT, PT, and ST services provided to Medicaid-enrolled pre-K to Grade 12 students"
+    },
+    {
+     "plain": "There is no record of 16.2% of the therapy services that students' education plans required. Either children missed services considered medically necessary or the services happened but were never documented, which would add up to $132.8 million more in lost reimbursement.",
+     "quote": "NYCPS lacks any record of providing 16.2% of all OT, PT, and ST services that were mandated for eligible students with IEPs"
+    },
+    {
+     "plain": "The school system still chooses not to seek reimbursement for seven of the 10 service types Medicaid covers, including psychological counseling, evaluations, special transportation and skilled nursing. Auditors conservatively put the added cost at $25.4 million.",
+     "quote": "It is still NYCPS’ policy not to claim for seven of the 10 service types for which Medicaid reimbursement is available"
+    },
+    {
+     "plain": "Of the 30 recommendations from the 2021 audit, the school system fully implemented three, partially implemented eight and did not act on the other 19.",
+     "quote": "NYCPS has fully implemented only three recommendations and partially implemented eight others, leaving a total of 19 that were not acted upon"
+    },
+    {
+     "plain": "Cooperation with the audit was poor. The school system took 52 business days on average to hand over requested information and denied auditors direct access to its record systems.",
+     "quote": "On average, it took NYCPS 52 business days to provide requested information or documentation"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$431.6 million",
+     "label": "Estimated Medicaid money left unclaimed over three years"
+    },
+    {
+     "value": "$273.4 million",
+     "label": "Lost on therapy services provided but never claimed"
+    },
+    {
+     "value": "54%",
+     "label": "Share of documented therapy sessions actually claimed"
+    },
+    {
+     "value": "19",
+     "label": "Prior recommendations not acted on, out of 30"
+    }
+   ],
+   "recommendations": [
+    "Create an interim action plan with milestones to strengthen claim checks and cut unclaimed services while the new MedSys claiming system is being built.",
+    "Set up routine monitoring, such as sample-based reviews, so every therapy session has the required written order or referral before claims are submitted.",
+    "Periodically review the licenses and national provider identifier numbers of existing employees and promptly fix wrong or incomplete provider records.",
+    "Keep working to collect parental consent forms and add monitoring, such as sample-based reviews, to check compliance.",
+    "Record every service session in the two tracking systems, determine whether unrecorded services were delivered but not logged or never delivered, and act on what it finds.",
+    "Meet documentation and claiming requirements for all covered services for K-12 and eligible preschool students, file claims within the allowed window and resubmit correctable claims.",
+    "Do a cost-benefit analysis of expanding claiming to more of the covered services and develop a staged expansion plan.",
+    "Revisit the still-unimplemented recommendations once the Medicaid team is fully staffed and the new special education system is rolled out.",
+    "Promptly give auditors the information and documents needed to complete legally authorized audits."
+   ],
+   "agency_response": "New York City Public Schools agreed with four of the nine new recommendations, partially agreed with four and disagreed with one. It also questioned the audit's sample size, an argument the auditors rejected as inconsistent with government auditing standards.",
+   "topics": [
+    "education",
+    "money and contracts"
+   ],
+   "is_followup": true
+  },
+  {
+   "id": "elder-abuse-services-training-and-coordination",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Elder Abuse Services, Training, and Coordination",
+   "plain_title": "How the city monitors elder abuse services",
+   "agency": "New York City Department for the Aging",
+   "issued": "2026-07-22",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/07/22/elder-abuse-services-training-and-coordination",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n10.pdf",
+   "what_they_audited": "Whether the New York City Department for the Aging effectively oversees the provision of elder abuse services. The audit covered April 2019 through April 2025.",
+   "background": "The Department for the Aging's Elder Justice Program contracts with six community-based providers, at a cost of about $12.6 million for 2023 through 2025, to serve and protect people age 60 and older who have been abused by someone in a trusting relationship. Program standards set deadlines for contacting, assessing and following up with clients, with faster action required in high-risk cases.",
+   "findings": [
+    {
+     "plain": "Providers did not always meet required timelines for contacting, assessing and following up with clients. In 17 of 41 sampled cases the referral described high-risk conditions such as physical violence or no access to food, and in none of them did case workers act within the required time frame.",
+     "quote": "For all 17 cases, the case workers did not act within the required time frame to provide crucial services to clients"
+    },
+    {
+     "plain": "In one case, a 68-year-old woman who said her foster son had struck her was not treated as high risk and was not contacted for 26 days, instead of within 24 hours as required for high-risk cases.",
+     "quote": "the provider did not designate this case as high risk and did not attempt to contact the client until 26 days later"
+    },
+    {
+     "plain": "The department did not ensure direct service staff got required training in detecting, reporting and counseling on elder abuse. Fifteen of 21 workers tested, or 71%, had not completed all required training, and some providers did not know the requirements existed.",
+     "quote": "Fifteen of the 21 workers tested (71%) did not complete all the required training."
+    },
+    {
+     "plain": "The department did not enforce education and outreach requirements. It did not require providers to submit the annual outreach plans their contracts call for, and no provider submitted any during the audit period.",
+     "quote": "none of the providers submitted any annual plans to DFTA during the audit scope"
+    },
+    {
+     "plain": "Auditors also found broader oversight gaps, including a bill payer assistance program that was never evaluated, inconsistent performance metrics across records, unclear guidance to providers and unsupported expenses.",
+     "quote": "Significant deficiencies in DFTA’s oversight of the Elder Justice Program"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$12.6 million",
+     "label": "Cost of elder abuse service contracts for 2023 through 2025"
+    },
+    {
+     "value": "17",
+     "label": "High-risk sampled cases where required deadlines were missed"
+    },
+    {
+     "value": "71%",
+     "label": "Tested workers who had not completed all required training"
+    }
+   ],
+   "recommendations": [
+    "Strengthen oversight and monitoring of elder abuse cases so contracted providers deliver timely and appropriate services.",
+    "Take additional steps to make sure Elder Justice Program workers are properly trained.",
+    "Collect better documentation and step up monitoring to confirm providers hold the required number of educational presentations and outreach activities.",
+    "Enforce the requirement that providers submit annual plans and review those plans to see whether activities reach the intended people and communities with the right content.",
+    "For future programs, define what success looks like and set up monitoring and evaluation measures, including lessons learned, to guide decisions."
+   ],
+   "agency_response": "",
+   "topics": [
+    "seniors",
+    "social services"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "new-york-city-department-homeless-services-oversight-contract-expenditures-samaritan-daytop",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "New York City Department of Homeless Services – Oversight of Contract Expenditures of Samaritan Daytop Village, Inc. (Follow-Up)",
+   "plain_title": "Checkup on oversight of a homeless shelter contractor's spending",
+   "agency": "New York City Department of Social Services",
+   "issued": "2026-05-20",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/05/20/new-york-city-department-homeless-services-oversight-contract-expenditures-samaritan-daytop",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f23.pdf",
+   "what_they_audited": "How far the New York City Department of Homeless Services has gone in carrying out the six recommendations from a 2024 state audit of its contract with Samaritan Daytop Village, Inc.",
+   "background": "The Department of Homeless Services contracted with the nonprofit Samaritan Daytop Village to run the 160-bed Myrtle Avenue Men's Shelter for men with mental illness, a contract that grew to about $44 million through June 2022. The initial audit found the department was not effectively monitoring the contract and identified $566,556 in reported costs that did not comply with fiscal requirements.",
+   "findings": [
+    {
+     "plain": "The department has made some progress since the initial audit but more work remains. Of the six original recommendations, five were partially implemented and one was not implemented.",
+     "quote": "Of the initial report’s six audit recommendations, five were partially implemented and one was not implemented."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$566,556",
+     "label": "Noncompliant costs found by the initial audit"
+    },
+    {
+     "value": "$44 million",
+     "label": "Approximate aggregate cost of the shelter contract"
+    }
+   ],
+   "recommendations": [
+    "Department of Homeless Services officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+   ],
+   "agency_response": "",
+   "topics": [
+    "homelessness",
+    "money and contracts"
+   ],
+   "is_followup": true
+  },
+  {
+   "id": "housing-seniors-follow",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Housing for Seniors (Follow-Up)",
+   "plain_title": "Checkup on how senior housing units are awarded and overseen",
+   "agency": "New York City Department of Housing Preservation and Development and New York City Housing Development Corporation",
+   "issued": "2026-05-18",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/05/18/housing-seniors-follow",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f19.pdf",
+   "what_they_audited": "How far the city has gone in carrying out the six recommendations from a 2023 state audit of senior housing programs, Housing for Seniors.",
+   "background": "The Department of Housing Preservation and Development and the New York City Housing Development Corporation jointly run programs that develop and preserve housing for seniors. The initial audit found senior housing units left vacant for long periods, units not always awarded to the correct applicants and unmet requirements in a program assisting senior homeowners.",
+   "findings": [
+    {
+     "plain": "The agencies have made some progress but the Department of Housing Preservation and Development still has work to do. The Housing Development Corporation implemented its three recommendations while the department partially implemented two of its recommendations and did not implement one.",
+     "quote": "three (addressed to HDC) were implemented, two (addressed to HPD) were partially implemented, and one (also addressed to HPD) was not implemented"
+    }
+   ],
+   "numbers": [],
+   "recommendations": [
+    "Officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+   ],
+   "agency_response": "",
+   "topics": [
+    "seniors",
+    "housing"
+   ],
+   "is_followup": true
+  },
+  {
+   "id": "review-of-the-citys-animal-population-control-efforts",
+   "source": "nyc",
+   "auditor": "New York City Comptroller",
+   "title": "Review of the City’s Animal Population Control Efforts",
+   "plain_title": "City spay and neuter program is underfunded and little known",
+   "agency": "Department of Health and Mental Hygiene",
+   "issued": "2026-05-08",
+   "url": "https://comptroller.nyc.gov/reports/review-of-the-citys-animal-population-control-efforts/",
+   "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/ME25-078S-1.pdf",
+   "what_they_audited": "This was a review rather than a standard audit. The team evaluated how effectively the Department of Health and Mental Hygiene runs the city's Animal Population Control Program, which subsidizes free or low-cost spay and neuter surgeries for eligible pet owners, and looked at approaches other cities use.",
+   "background": "City law requires the health department to run a program that reduces the stray dog and cat population by offering no- or low-cost sterilization, funded by a surcharge on licenses for unsterilized dogs. To deliver the services the department contracted with the American Society for the Prevention of Cruelty to Animals (ASPCA) for up to $3 million, covering as many as 24,000 surgeries at $125 each through 2028.",
+   "findings": [
+    {
+     "plain": "The health department set up the required low-cost spay and neuter program but has not been proactive about animal population control overall, relying on a single funding source and not seeking other public or private money it is allowed to pursue.",
+     "quote": "DOHMH has not been proactive in pursuing animal population control overall"
+    },
+    {
+     "plain": "The program's sole funding source, a surcharge on licenses for unsterilized dogs, brought in $950,819 over fiscal years 2022 to 2024, well short of the $1.5 million anticipated. As a result the ASPCA performed 6,733 sterilization surgeries, 37% fewer than its 10,660-surgery target.",
+     "quote": "The ASPCA performed a total of 6,733 sterilizations during FYs 2023 to 2025, 3,927 (37%) less than the 10,660 sterilizations anticipated under the contract."
+    },
+    {
+     "plain": "Dog licensing outreach was heavily concentrated: five zip codes, about 3% of the city's more than 170, hosted 73% of the 192 licensing events held. Only about 70,000 dogs are licensed out of an estimated 500,000 pet dogs.",
+     "quote": "DOHMH concentrated its outreach and education efforts in only five (3%) of the City’s more than 170 zip codes"
+    },
+    {
+     "plain": "Oversight of the ASPCA contract is thin. The department reviews invoices but has no performance metrics, no way to verify the ASPCA's reported outreach and no record that required reports explaining the surgery shortfall were ever filed.",
+     "quote": "DOHMH provided no mechanism for verifying the reported outreach figures, stating instead that they rely on trust."
+    },
+    {
+     "plain": "The department does not publicly report any data on the program's activities or outcomes, such as how many surgeries were performed or where the recipients live.",
+     "quote": "DOHMH does not publicly report any data regarding the activities and outcomes relating to the Program"
+    },
+    {
+     "plain": "In a survey conducted by the review team, 70% of respondents did not know the free or low-cost spay and neuter program exists and 61% did not know dog licenses are mandatory.",
+     "quote": "74 (70%) stated that they were not aware that qualifying residents of the City could have their pet cats or dogs spayed or neutered free of charge or at low-cost through the Program"
+    },
+    {
+     "plain": "The city spends almost $54 million a year sheltering animals while the program meant to address a root cause of shelter crowding received an average of about $316,000 a year. Other cities use multiple funding streams and city-backed trap-neuter-return programs, which New York City does not support.",
+     "quote": "received an average of only $316,000 in each of the last three fiscal years reviewed"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$950,819",
+     "label": "Dog license surcharge revenue collected over three years"
+    },
+    {
+     "value": "6,733",
+     "label": "Sterilization surgeries performed against a 10,660 target"
+    },
+    {
+     "value": "$54 million",
+     "label": "Approximate yearly city spending on animal shelters"
+    },
+    {
+     "value": "$316,000",
+     "label": "Average yearly funding for the sterilization program"
+    }
+   ],
+   "recommendations": [
+    "Lead a re-evaluation of the city's overall approach to animal population control and develop a new strategy for reducing all major drivers of shelter intake, including what resources would cut dependence on shelter spending.",
+    "Require the shelter operator, Animal Care and Control, to track why owners give up their pets and develop strategies to reduce those surrenders.",
+    "Work on reducing community cat populations by considering new options, including a formal assessment of city-funded trap-neuter-return programs with appropriate oversight.",
+    "Improve public awareness and enforcement of the rule that free-roaming cats be sterilized, formally track enforcement activity and create a dedicated 311 complaint category for free-roaming cats.",
+    "Develop a strategic plan so dog licensing outreach and education events are spread across all five boroughs to raise awareness and licensing rates.",
+    "Explore additional funding sources for the program, including asking the City Council to add mandatory revenue streams to the Animal Population Control Fund.",
+    "Develop, formalize and carry out a monitoring plan for the ASPCA contract with clear, measurable and publicly reported performance indicators.",
+    "Make sure the ASPCA submits the required reports when it performs fewer sterilization surgeries than expected.",
+    "Consider surveying residents periodically to gauge the program's effectiveness and identify areas for improvement."
+   ],
+   "agency_response": "The health department generally agreed with two of the nine recommendations, partially agreed with one and disagreed with or called unnecessary the other six. Its written response included new information it had not shared during the review, which the team said it could not validate.",
+   "topics": [
+    "health",
+    "money and contracts",
+    "transparency"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "privacy-and-security-student-data",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Privacy and Security of Student Data",
+   "plain_title": "How well the school system protects student data",
+   "agency": "New York City Public Schools",
+   "issued": "2026-04-23",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/04/23/privacy-and-security-student-data",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n6.pdf",
+   "what_they_audited": "Whether New York City Public Schools consistently followed all laws and regulations on the privacy and security of student data. The audit covered March 2020 through September 2025.",
+   "background": "New York City Public Schools, the largest school district in the country with about 1,600 schools and over 900,000 students, holds students' personally identifiable information and must follow federal and state privacy rules, including a state requirement to adopt a data security policy aligned with the National Institute of Standards and Technology Cybersecurity Framework.",
+   "findings": [
+    {
+     "plain": "The school system's data security and privacy policy does not fully align with the national cybersecurity framework, and it lacks written policies in some fundamental areas.",
+     "quote": "NYCPS does not have written policies covering the areas of data classification, risk assessment, and backup and recovery"
+    },
+    {
+     "plain": "The school system did not always report data breaches or notify affected people on time. Of 141 breaches reviewed from January 2023 through February 2025, reporting to the State Education Department was late for 48% and notification to affected individuals and families was late for 11%.",
+     "quote": "NYCPS delayed reporting 48% (67 of 141) of breaches to SED and delayed notifying affected individuals and families about 11% (16 of 141) of breaches"
+    },
+    {
+     "plain": "There is no documented data classification policy, only an informal practice, which could slow the school system's ability to figure out what sensitive data was involved in a security incident.",
+     "quote": "NYCPS does not have a documented data classification policy."
+    },
+    {
+     "plain": "The school system does not keep a comprehensive list of the applications each school uses. Of 524 schools that answered a survey, 42% said they used at least 70 different student information system applications beyond the central systems.",
+     "quote": "Of the 524 responding schools, 218 (42%) stated they used at least 70 different SIS applications"
+    },
+    {
+     "plain": "Only 73% of employees completed required annual data privacy and security training in 2024, and the school system does not check that everyone with access to personally identifiable information has completed it.",
+     "quote": "in 2024, only 73% (117,763 of 161,337) of employees completed the training"
+    },
+    {
+     "plain": "Auditors identified weaknesses in technical controls over selected information systems, detailed in a confidential draft report.",
+     "quote": "We identified weaknesses in technical controls that need to be corrected"
+    },
+    {
+     "plain": "The audit team had trouble getting information and meetings from the school system, with some document requests taking over five months and meeting requests taking two months.",
+     "quote": "some documentation requests taking over 5 months to fulfill, and meeting requests taking 2 months to be scheduled"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "900,000",
+     "label": "Students in New York City Public Schools, over"
+    },
+    {
+     "value": "141",
+     "label": "Breaches or unauthorized data releases reviewed"
+    },
+    {
+     "value": "48%",
+     "label": "Share of breaches reported late to the state"
+    },
+    {
+     "value": "73%",
+     "label": "Employees who completed required privacy training in 2024"
+    }
+   ],
+   "recommendations": [
+    "Use the applicable national cybersecurity framework to identify gaps and improvements to the overall security posture.",
+    "Build a mechanism to ensure notifications of breaches or unauthorized releases of personal information always go out within required time frames.",
+    "Complete a written data and asset classification policy covering all systems and data, and classify all of the school system's data.",
+    "Develop a way to account for every student information system used at schools.",
+    "Put in place monitoring to ensure all employees with access to personally identifiable information complete privacy and security training every year.",
+    "Implement the technical control fixes detailed in the confidential draft report.",
+    "Cooperate more promptly with authorized state oversight inquiries."
+   ],
+   "agency_response": "",
+   "topics": [
+    "education",
+    "technology"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "implementation-selected-aspects-climate-mobilization-act",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Implementation of Selected Aspects of the Climate Mobilization Act",
+   "plain_title": "Enforcing the city's building emissions law",
+   "agency": "New York City Department of Buildings",
+   "issued": "2026-04-21",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/04/21/implementation-selected-aspects-climate-mobilization-act",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n1.pdf",
+   "what_they_audited": "Whether the Department of Buildings has taken steps to ensure private building owners comply with selected parts of the Climate Mobilization Act by the mandated deadlines. The audit covered November 2019 to June 2025.",
+   "background": "The Climate Mobilization Act, enacted in 2019, aims to cut greenhouse gas emissions from the city's largest buildings 40% by 2030 and reach net zero by 2050. Its centerpiece, Local Law 97, sets emissions limits for large private buildings starting in 2024, and the Department of Buildings oversees implementation and enforcement.",
+   "findings": [
+    {
+     "plain": "While the department has made outreach efforts, including hiring third parties, it has not closely monitored either that outreach or building owners' compliance, so there is no assurance owners will meet the law's deadlines.",
+     "quote": "it has taken a hands-off approach to monitoring its outreach efforts and the building owners’ compliance with the requirements"
+    },
+    {
+     "plain": "The department could not substantiate its own outreach letters until after the audit's closing conference, and only a quarter of the addresses it supplied were on the list of buildings actually required to comply.",
+     "quote": "only 150 of the 602 addresses (25%) were on the CBL"
+    },
+    {
+     "plain": "A 2024 phone initiative to advise owners ahead of the first reporting deadline reached only 8% of the buildings required to comply.",
+     "quote": "DOB contacted only 1,118 of 13,269 (8%) of those required to comply."
+    },
+    {
+     "plain": "In a survey auditors sent to 151 building owners, several respondents said they were unaware of the law or had never been contacted, and 20 of the letters came back undeliverable.",
+     "quote": "five respondents stated they were unaware of the CMA, seven said they were never contacted by DOB"
+    },
+    {
+     "plain": "The department refers owners to a service provider for help but does not follow up on referrals and has no documentation of what assistance the provider gave.",
+     "quote": "they do not follow up on the referrals"
+    },
+    {
+     "plain": "Auditors visited 55 buildings and found 24% had not posted the required energy efficiency label, while 31% of those that did post labels put them where the public could not see them, including one label inside a desk drawer. The department does not inspect for the labels.",
+     "quote": "found 13 (24%) did not have their energy efficiency labels posted as required"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "8%",
+     "label": "Covered buildings reached by the 2024 phone push"
+    },
+    {
+     "value": "25%",
+     "label": "Outreach letter addresses actually on the covered list"
+    },
+    {
+     "value": "24%",
+     "label": "Visited buildings missing the required energy label"
+    }
+   ],
+   "recommendations": [
+    "Contact building owners, especially those at risk of missing emissions requirements, and document that contact.",
+    "Reassess the resources assigned to contacting building owners about compliance.",
+    "Create a system to track referrals to the service provider, record what assistance was given and follow up on buildings at risk of missing emissions requirements.",
+    "Educate building owners on where energy efficiency labels must be posted.",
+    "Inspect buildings to verify a label is posted near each public entrance where the public can see it."
+   ],
+   "agency_response": "",
+   "topics": [
+    "environment"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "review-of-schools-food-donation-and-composting-efforts",
+   "source": "nyc",
+   "auditor": "New York City Comptroller",
+   "title": "Review of Schools’ Food Donation and Composting Efforts",
+   "plain_title": "How schools handle donating leftover food and composting waste",
+   "agency": "New York City Public Schools (Department of Education)",
+   "issued": "2026-04-21",
+   "url": "https://comptroller.nyc.gov/reports/review-of-schools-food-donation-and-composting-efforts/",
+   "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MH25-077S.pdf",
+   "what_they_audited": "This was a review, not a full audit. The comptroller's office examined whether New York City Public Schools tracks data on its food donation and composting programs, how it promotes those programs and what school administrators say about participating in them.",
+   "background": "New York City Public Schools, the nation's largest school system, serves about 940,000 free meals a day and spent $600 million on food in fiscal year 2025, 12% of its operations budget. Two units, the Office of Food and Nutrition Services and the Office of Energy and Sustainability, are responsible for preventing food waste.",
+   "findings": [
+    {
+     "plain": "The school system does not centrally track how many meals are prepared and discarded, so it cannot measure whether its food waste prevention efforts are working.",
+     "quote": "NYCPS has no idea how successful its overall efforts to prevent food waste are"
+    },
+    {
+     "plain": "Only 67 of 1,319 school buildings, or 4%, donated food to outside organizations in fiscal year 2025, and central management does not compile records of which organizations receive donations.",
+     "quote": "in FY2025 only 67 (4%) of NYCPS’ 1,319 school buildings donated food to outside organizations"
+    },
+    {
+     "plain": "Composting has grown dramatically. Participating schools went from 725 in fiscal year 2017 to all 1,715 in fiscal year 2024, and compostable material collected nearly quadrupled over that period.",
+     "quote": "from 6,278 tons collected in FY2017 to 24,477 tons in FY2024"
+    },
+    {
+     "plain": "Most school food waste still is not composted. A Department of Sanitation study found only about 37% of food waste generated at schools was captured for composting, and 28% of what was collected was contaminated, versus a 4% contamination rate citywide.",
+     "quote": "The study found that 28% of the organics collected from schools were contaminated, well above the citywide organics contamination rate of 4%."
+    },
+    {
+     "plain": "The school system's own sustainability survey showed low engagement. Of 1,182 schools surveyed, 15% engaged in none of six food waste prevention activities and 87% engaged in no more than three.",
+     "quote": "15% of all schools engaged in none of the six activities, and most schools—87% in total—engaged in no more than three of the six activities"
+    },
+    {
+     "plain": "In the review team's own survey of school administrators, only 33% said their schools donate uneaten leftovers and 59% said they have a food sharing table. Schools cited lack of funding and staffing as the main barriers.",
+     "quote": "Only 33% of respondents who answered the question stated that their schools donated unused food to school families, staff, or outside organizations."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$600 million",
+     "label": "Spent on food by the school system in fiscal year 2025"
+    },
+    {
+     "value": "4%",
+     "label": "Share of school buildings that donated food in fiscal 2025"
+    },
+    {
+     "value": "24,477 tons",
+     "label": "Compostable material collected from schools in fiscal 2024"
+    },
+    {
+     "value": "28%",
+     "label": "Contamination rate of school compost, versus 4% citywide"
+    }
+   ],
+   "recommendations": [
+    "Set system-wide targets for participation in composting, food donation and other food waste reduction programs.",
+    "Compile system-wide data to measure progress against those targets.",
+    "Conduct and publish a centralized assessment of progress by school and by program, identify barriers and develop strategies for improvement.",
+    "Develop system-wide training and outreach to increase participation, encourage idea sharing among sustainability coordinators, capture more food waste as compost and reduce contamination.",
+    "Visit schools to verify that recycling and composting bins are properly placed in cafeterias and classrooms.",
+    "Identify schools without appointed sustainability coordinators, fill those positions and support the new coordinators."
+   ],
+   "agency_response": "In its March 26, 2026 written response, New York City Public Schools agreed with the recommendation on sustainability coordinators, partially agreed with the recommendation on training and outreach and disagreed with the recommendations on targets, system-wide data and a centralized assessment.",
+   "topics": [
+    "education",
+    "environment"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "facilitated-programs-assist-small-businesses",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Facilitated Programs to Assist Small Businesses",
+   "plain_title": "Helping small businesses get financing",
+   "agency": "New York City Department of Small Business Services",
+   "issued": "2026-04-10",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/04/10/facilitated-programs-assist-small-businesses",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-22n4.pdf",
+   "what_they_audited": "Whether the Department of Small Business Services provided the services available under its programs to help small businesses obtain funding to open, operate and expand. The audit covered July 2019 to November 2023.",
+   "background": "The department contracts with Industrial Business Service Providers and Business Solutions Centers to help businesses analyze finances, package loan applications and get training. During the four fiscal years from 2019 to 2022, the department reported the programs facilitated about $220 million in financing.",
+   "findings": [
+    {
+     "plain": "The department monitors its contractors' expenses and outputs but does not develop or review operational data that would show how the programs are helping small businesses reach their goals.",
+     "quote": "it does not include the development and review of operational data that would enable the agency to determine how its programs are helping small businesses reach their goals"
+    },
+    {
+     "plain": "The 76 businesses auditors reviewed obtained facilitated loans of $97,363,816, but the department collected no data on what the financing accomplished, such as new jobs or stronger operations.",
+     "quote": "SBS did not collect data on the beneficial effects of this financing, such as the creation of new jobs or strengthening of the businesses’ operations"
+    },
+    {
+     "plain": "Program results such as the number and amount of facilitated loans are self-reported by vendors and the department does not verify them.",
+     "quote": "the program results are self-reported by the vendors"
+    },
+    {
+     "plain": "Contractor files were incomplete. Fifteen sampled businesses received 24 loans worth $23,113,349 with no lender proof letter on file, and three others had loan amounts that did not match their proof letters.",
+     "quote": "did not have a proof letter from the lender in Dynamics"
+    },
+    {
+     "plain": "Some loans went to businesses that may not have qualified. Auditors found 158 facilitated loans worth $10,242,747 went to businesses outside New York City or lacking documentation of a city presence.",
+     "quote": "158 of the 2,129 facilitated loans, valued at $10,242,747, were made to businesses located outside of New York City or there was no documentation to support a presence in New York City"
+    },
+    {
+     "plain": "Controls over training enrollment and attendance need improvement. Attendance records were missing for 13% of counted participants, 18% of attendees with records did not stay for at least half the session and before 2023 the department did not run post-course surveys.",
+     "quote": "we found that 173 attendees (18%) did not stay for at least half of the course/session"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$220 million",
+     "label": "Reported financing facilitated, fiscal years 2019 to 2022"
+    },
+    {
+     "value": "$97,363,816",
+     "label": "Facilitated loans obtained by the 76 reviewed businesses"
+    },
+    {
+     "value": "$10,242,747",
+     "label": "Loans to businesses outside the city or undocumented"
+    }
+   ],
+   "recommendations": [
+    "Improve monitoring so the programs align with the department's mission, including possibly expanding required reporting in future contracts to capture program outcomes.",
+    "Improve oversight of provider data so records are complete and accurate and all required fields in the department's system are filled in.",
+    "Ensure all served businesses are located in New York City or have a formal city presence.",
+    "Require Business Solutions Centers to keep better attendance records for training webinars and workshops.",
+    "Set a minimum attendance time before a participant counts as having received a contracted service.",
+    "Revisit how post-training surveys are conducted, including whether the department should run them itself."
+   ],
+   "agency_response": "",
+   "topics": [
+    "small business",
+    "money and contracts"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement",
+   "source": "nyc",
+   "auditor": "New York City Comptroller",
+   "title": "Review of the Small Business Forward Initiative and Its Impact on Violations Enforcement",
+   "plain_title": "Did small business fine reforms actually reach small businesses?",
+   "agency": "Mayor's Office, Department of Small Business Services and six enforcement agencies",
+   "issued": "2026-04-07",
+   "url": "https://comptroller.nyc.gov/reports/review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement/",
+   "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/Review-of-the-Small-Business-Forward-Initiative-and-Its-Impact-on-Violations-Enforcement.pdf",
+   "what_they_audited": "This was a review, not a full audit. The comptroller's office checked the status of the 116 regulatory reforms recommended under the Small Business Forward initiative and, where possible, whether the projected savings for small businesses were actually realized.",
+   "background": "In January 2022 Mayor Eric Adams signed Executive Order 2, directing six city agencies to reform business regulations to reduce fines for small businesses; the agencies recommended changes to 116 of 232 regulations reviewed, with estimated savings of about $8.9 million a year. Many reforms were codified in Local Law 151 of 2023, and Mayor Mamdani extended the initiative in January 2026 with Executive Order 11.",
+   "findings": [
+    {
+     "plain": "The city never defined \"small business\" for the initiative, and the agencies carrying it out generally did not consider the impact on small businesses when choosing regulations to reform. No agency tracks violations by business size.",
+     "quote": "the agencies charged with implementing Small Business Forward generally did not consider the potential impact on small businesses when identifying regulations for potential reform"
+    },
+    {
+     "plain": "The claimed outreach behind the reforms, including a survey of nearly 1,000 small business owners, could not be verified. No agency produced the survey or any documentation of consultation.",
+     "quote": "none of the entities contacted during this review could substantiate that the survey or consultation with small businesses occurred"
+    },
+    {
+     "plain": "Most of the regulations picked for reform were rarely or never enforced. Only 36 of the 116 were regularly used as the basis for violations in calendar year 2021, and 59 produced no violations at all that year.",
+     "quote": "only 36 (31%) had related violations that were issued frequently during CY 2021"
+    },
+    {
+     "plain": "No one has measured the initiative's full financial impact because agencies did not collect the needed data. Using the data available, auditors estimated the reforms cut fines for all businesses of any size from $14.5 million to $12.1 million over 15 months, a 17% reduction.",
+     "quote": "went from $14.5 million (pre-adoption) to $12.1 million (post-adoption), a 17% reduction"
+    },
+    {
+     "plain": "Of the 30 regularly enforced regulations whose changes were implemented, 14 related to health and safety, such as hazardous materials and emergency exits. Auditors could not tell whether softer penalties slowed how quickly violations were fixed.",
+     "quote": "Of the 30, 14 (47%) related to health and safety issues."
+    },
+    {
+     "plain": "No single agency was put in charge of the initiative, no performance indicators were set and no impact assessment was ever conducted, even as the program was rebooted in 2025 and extended in 2026.",
+     "quote": "There appears to be no single entity responsible for overseeing the SBF initiative"
+    },
+    {
+     "plain": "The administration's projection of roughly $8.9 million in annual savings for small businesses had no documented methodology and could not be substantiated.",
+     "quote": "the SBF report’s estimated annual savings of approximately $8.9 million cannot be verified or relied upon as accurate"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "116",
+     "label": "Regulations recommended for reform under the initiative"
+    },
+    {
+     "value": "36",
+     "label": "Of those 116 regularly enforced in the year before reform"
+    },
+    {
+     "value": "17%",
+     "label": "Estimated fine reduction, January 2024 through March 2025"
+    },
+    {
+     "value": "$8.9 million",
+     "label": "Projected annual savings that could not be verified"
+    }
+   ],
+   "recommendations": [
+    "Formally designate a lead agency to oversee and coordinate the initiative, track savings and ensure it stays effective.",
+    "Publish regular public reports on the initiative's progress, realized savings for small businesses and compliance rates, with clearly defined indicators and methods.",
+    "Adopt a uniform definition of \"small business\" used by all participating agencies.",
+    "Have agencies prioritize violations and reforms based on their impact on businesses that fit that definition, not on businesses generally.",
+    "Develop a framework for monitoring both financial savings and non-financial impacts such as reduced administrative burden and time savings.",
+    "Have the six regulatory agencies consider adding a small business identifier to their systems to track violations, fine reductions, waivers and cure periods for small entities.",
+    "Create a formal, documented methodology for calculating projected and realized savings from the reforms.",
+    "Implement a formal protocol to monitor whether reduced penalties or extended cure periods affect how quickly health and safety violations are fixed.",
+    "Have the lead agency review the reforms already implemented to determine whether the financial savings actually benefited small businesses."
+   ],
+   "agency_response": "The Mayor's Office agreed with six of the nine recommendations, agreed in principle with two and did not address one, and the Department of Small Business Services deferred to the Mayor's Office. The Fire Department disagreed with the recommendation on prioritizing reforms by small business impact.",
+   "topics": [
+    "small business",
+    "money and contracts",
+    "transparency"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "oversight-language-access-services",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Oversight of Language Access Services",
+   "plain_title": "Interpretation and translation at the health department",
+   "agency": "New York City Department of Health and Mental Hygiene",
+   "issued": "2026-03-25",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/03/25/oversight-language-access-services",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n2.pdf",
+   "what_they_audited": "Whether the Department of Health and Mental Hygiene adequately serves people with limited English proficiency, complies with state regulations and local laws and provides sufficient oversight of its language access services. The audit covered January 2019 through December 2024.",
+   "background": "An estimated 1.7 million New York City residents have limited English proficiency, and local law requires the health department to provide free language access services, including telephone interpretation in at least 100 languages and translated key documents in the top 10 citywide languages. The department's Language Services Unit creates and distributes these resources for all public-facing programs.",
+   "findings": [
+    {
+     "plain": "The department has no centralized system for recording and tracking the language services it provides, so requests may be underreported and the needs of clients with limited English proficiency may not be fully known.",
+     "quote": "DOHMH does not have a centralized system for recording and tracking LAS"
+    },
+    {
+     "plain": "Officials do not know how many calls are dropped or how often an interpreter cannot be found.",
+     "quote": "DOHMH officials are unaware of the number of dropped calls and instances where an interpreter could not be found."
+    },
+    {
+     "plain": "Some bilingual staff provide clinical services in a non-English language without passing the department's required fluency assessment, and the department reports its assessment numbers inconsistently.",
+     "quote": "there are uncertified bilingual staff providing clinical services in a non-English language"
+    },
+    {
+     "plain": "In a survey of 50 restaurants and food establishments, many owners and workers did not know about available language services or the Business Owner's Bill of Rights, which covers the right to language help during inspections.",
+     "quote": "many owners and workers were unaware of available LAS resources or the Business Owner’s Bill of Rights"
+    },
+    {
+     "plain": "When multilingual state auditors called department facilities unannounced, they hit barriers including staff not trying to connect them to interpreters, hard-to-navigate automated systems, disconnected calls, long waits and missing website translations.",
+     "quote": "DOHMH staff not attempting to connect callers to an interpreter."
+    },
+    {
+     "plain": "Visits to 10 public-facing facilities found inadequate or missing signage for giving feedback and complaints, plus delays, technical problems and apparent shortages of language access equipment at some sites.",
+     "quote": "Installation delays and technical issues with LAS equipment"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "1.7 million",
+     "label": "Estimated city residents with limited English proficiency"
+    },
+    {
+     "value": "100",
+     "label": "Minimum languages required for telephone interpretation"
+    }
+   ],
+   "recommendations": [
+    "Develop a system-wide database to collect and track clients' language preferences across all facilities and work with vendors to gather data on service delivery and unfulfilled requests.",
+    "Make sure all communications aimed at people with limited English proficiency, including automated phone systems, signage, surveys and feedback boxes, are available in the appropriate languages and always accessible.",
+    "Ensure all bilingual staff who provide interpretation complete the department's fluency assessment.",
+    "Periodically assess each program and facility's language access equipment and connection needs."
+   ],
+   "agency_response": "",
+   "topics": [
+    "health"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "physical-and-financial-conditions-selected-mitchell-lama-developments",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Physical and Financial Conditions at Selected Mitchell-Lama Developments",
+   "plain_title": "Conditions and spending at three Mitchell-Lama developments",
+   "agency": "New York City Department of Housing Preservation and Development",
+   "issued": "2026-01-15",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/01/15/physical-and-financial-conditions-selected-mitchell-lama-developments",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n4.pdf",
+   "what_they_audited": "Whether Mitchell-Lama developments supervised by the Department of Housing Preservation and Development are maintained in a way that protects residents' health and safety and whether their funds are used for intended purposes. The audit covered January 2019 through April 2025.",
+   "background": "The Mitchell-Lama program, created in 1955, provides affordable rental and co-op housing for middle-income families, and the department supervises 92 city developments with about 46,787 units. The audit sampled three developments: Clinton Towers in Manhattan, Evergreen Gardens in the Bronx and Tivoli Towers in Brooklyn.",
+   "findings": [
+    {
+     "plain": "The department needs to improve its oversight. Management at all three sampled developments failed to provide a safe and clean living environment and spent development funds on activities not directly related to operations.",
+     "quote": "Management at all three sampled developments failed to provide a safe and clean living environment"
+    },
+    {
+     "plain": "Auditors observed hazardous conditions across the three developments, including facade damage, fire doors that did not close, units with mold, water damage and peeling paint and a day care tenant with mouse droppings in classrooms.",
+     "quote": "façade damage; non-working self-closing/fire doors; units with mold, water damage, and peeling paint; and a commercial tenant (day care) with mouse droppings in classrooms"
+    },
+    {
+     "plain": "About $163,862 in transactions from 2019 through 2024 were unrelated to normal operations or inadequately supported, including $114,288 in non-mandated bonuses, holiday events and gratuities and $49,574 in expenses without invoices or canceled checks.",
+     "quote": "approximately $163,862 in transactions for the period from January 2019 through December 2024 that were either unrelated to normal operations or inadequately supported"
+    },
+    {
+     "plain": "Managing agents at Clinton and Tivoli Towers lost an estimated $327,514 in rent from units that sat vacant for more than 120 days.",
+     "quote": "managing agents were unable to collect $327,514 in unrealized rental income from units that remained vacant for more than 120 days"
+    },
+    {
+     "plain": "All three developments paid vendors more than $100,000 in aggregate without notifying the department as required, and Evergreen hired five such vendors with no department approval and no evidence of competitive bidding.",
+     "quote": "Evergreen contracted with five vendors with payments over $100,000 without receiving HPD approval and no evidence of competitive bidding."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$163,862",
+     "label": "Spending unrelated to operations or unsupported"
+    },
+    {
+     "value": "$327,514",
+     "label": "Estimated rent lost to units vacant more than 120 days"
+    },
+    {
+     "value": "46,787",
+     "label": "Units in city-supervised Mitchell-Lama developments, about"
+    }
+   ],
+   "recommendations": [
+    "Improve monitoring of the three developments, verifying that managing agents conduct annual unit inspections, complete related reports, correct deficiencies and keep self-closing fire doors working.",
+    "Ensure immediate corrective action when hazardous conditions are identified.",
+    "Develop and implement policies and procedures on bonus and gratuity payments.",
+    "Ensure managing agents operate the developments in a fiscally sound way by adequately reviewing expenses and supporting documentation during annual reviews.",
+    "Promptly fill vacant units.",
+    "Periodically review expenses to identify vendor payments that reach $100,000 in a fiscal year and confirm the department approved them and contracts were competitively bid."
+   ],
+   "agency_response": "",
+   "topics": [
+    "housing",
+    "money and contracts"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "administration-cityfheps-program-department-social-services-homebase-clients",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Administration of the CityFHEPS Program for Department of Social Services Homebase Clients",
+   "plain_title": "Running the CityFHEPS rent subsidy for Homebase clients",
+   "agency": "New York City Department of Social Services",
+   "issued": "2026-01-07",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/01/07/administration-cityfheps-program-department-social-services-homebase-clients",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n8.pdf",
+   "what_they_audited": "Whether the Department of Social Services administers the City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS) program according to the rules, helping residents served by Homebase providers secure permanent housing. The audit covered July 2021 through July 2025.",
+   "background": "CityFHEPS, launched in 2018, is a rental assistance program for New Yorkers in shelters or at risk of homelessness. Officials say it has helped 123,762 people secure permanent housing through March 2025, with costs rising from $176 million in fiscal year 2019 to $834 million in fiscal year 2024 and projected at $1.2 billion for fiscal year 2025.",
+   "findings": [
+    {
+     "plain": "Consistent with a prior audit, the department lacks adequate oversight and monitoring of CityFHEPS for people served by Homebase providers, leaving applicants exposed to hazardous apartments and eligibility and payments insufficiently supported.",
+     "quote": "program applicants were exposed to apartment units with immediately hazardous violations despite preclearance and inspection requirements"
+    },
+    {
+     "plain": "In five of 45 sampled cases the department approved units with open hazardous housing violations, including rat and roach infestations. It approved clients for buildings owned by one landlord whose properties had 110 open violations, and it has no landlord disqualification list.",
+     "quote": "DSS approved CityFHEPS clients to move into three other properties owned by the same landlord with similar issues"
+    },
+    {
+     "plain": "Thirty of 75 sampled case records had no evidence that income was verified, so there is no assurance only eligible applicants got the subsidy.",
+     "quote": "Thirty of 75 CityFHEPS case records sampled showed no evidence that income was verified"
+    },
+    {
+     "plain": "The department does not sufficiently verify landlord-broker relationships. In one case it paid $6,800 in broker's fees before finding the landlord and broker shared the same parent company.",
+     "quote": "DSS paid $6,800 in broker’s fees before later finding that the landlord and broker were both owned by the same parent company"
+    },
+    {
+     "plain": "The department could not show it tested whether rents were reasonable in any of 30 sampled Statewide CityFHEPS cases. In 11 of them the approved rent exceeded comparable units, by $525 on average and by as much as $1,647 a month.",
+     "quote": "DSS officials could not provide evidence that a rent reasonableness test was completed for any of the 30 sampled Statewide CityFHEPS cases"
+    },
+    {
+     "plain": "Because of insufficient monitoring of landlord payments and inaccurate tax forms sent to landlords, there is less assurance that accurate rent payments are reported to the Internal Revenue Service.",
+     "quote": "DSS issuing inaccurate Internal Revenue Service (IRS) Form 1099s to landlords"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$1.2 billion",
+     "label": "Projected CityFHEPS costs for fiscal year 2025"
+    },
+    {
+     "value": "123,762",
+     "label": "People the program has helped secure permanent housing"
+    },
+    {
+     "value": "$525",
+     "label": "Average excess of approved rents over comparable units"
+    }
+   ],
+   "recommendations": [
+    "Establish policies and procedures to check for all housing violations during preclearance and expand preclearance checks to all CityFHEPS cases.",
+    "Create a landlord disqualification list with written procedures for adding and removing landlords, and monitor for compliance.",
+    "Follow eligibility verification policies, including income checks for all household members 18 and older, and keep all eligibility documents.",
+    "Develop written procedures, and monitor compliance, to confirm no substantiated relationship exists between landlords, brokers and managing members and that rent payments go to the correct parties."
+   ],
+   "agency_response": "",
+   "topics": [
+    "homelessness",
+    "housing",
+    "money and contracts"
+   ],
+   "is_followup": false
+  }
+ ]
+}

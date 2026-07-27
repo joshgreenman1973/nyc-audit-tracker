@@ -1,0 +1,76 @@
+{
+  "id": "privacy-and-security-student-data",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Privacy and Security of Student Data",
+  "plain_title": "How well the school system protects student data",
+  "agency": "New York City Public Schools",
+  "issued": "2026-04-23",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2026/04/23/privacy-and-security-student-data",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n6.pdf",
+  "what_they_audited": "Whether New York City Public Schools consistently followed all laws and regulations on the privacy and security of student data. The audit covered March 2020 through September 2025.",
+  "background": "New York City Public Schools, the largest school district in the country with about 1,600 schools and over 900,000 students, holds students' personally identifiable information and must follow federal and state privacy rules, including a state requirement to adopt a data security policy aligned with the National Institute of Standards and Technology Cybersecurity Framework.",
+  "findings": [
+    {
+      "plain": "The school system's data security and privacy policy does not fully align with the national cybersecurity framework, and it lacks written policies in some fundamental areas.",
+      "quote": "NYCPS does not have written policies covering the areas of data classification, risk assessment, and backup and recovery"
+    },
+    {
+      "plain": "The school system did not always report data breaches or notify affected people on time. Of 141 breaches reviewed from January 2023 through February 2025, reporting to the State Education Department was late for 48% and notification to affected individuals and families was late for 11%.",
+      "quote": "NYCPS delayed reporting 48% (67 of 141) of breaches to SED and delayed notifying affected individuals and families about 11% (16 of 141) of breaches"
+    },
+    {
+      "plain": "There is no documented data classification policy, only an informal practice, which could slow the school system's ability to figure out what sensitive data was involved in a security incident.",
+      "quote": "NYCPS does not have a documented data classification policy."
+    },
+    {
+      "plain": "The school system does not keep a comprehensive list of the applications each school uses. Of 524 schools that answered a survey, 42% said they used at least 70 different student information system applications beyond the central systems.",
+      "quote": "Of the 524 responding schools, 218 (42%) stated they used at least 70 different SIS applications"
+    },
+    {
+      "plain": "Only 73% of employees completed required annual data privacy and security training in 2024, and the school system does not check that everyone with access to personally identifiable information has completed it.",
+      "quote": "in 2024, only 73% (117,763 of 161,337) of employees completed the training"
+    },
+    {
+      "plain": "Auditors identified weaknesses in technical controls over selected information systems, detailed in a confidential draft report.",
+      "quote": "We identified weaknesses in technical controls that need to be corrected"
+    },
+    {
+      "plain": "The audit team had trouble getting information and meetings from the school system, with some document requests taking over five months and meeting requests taking two months.",
+      "quote": "some documentation requests taking over 5 months to fulfill, and meeting requests taking 2 months to be scheduled"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "900,000",
+      "label": "Students in New York City Public Schools, over"
+    },
+    {
+      "value": "141",
+      "label": "Breaches or unauthorized data releases reviewed"
+    },
+    {
+      "value": "48%",
+      "label": "Share of breaches reported late to the state"
+    },
+    {
+      "value": "73%",
+      "label": "Employees who completed required privacy training in 2024"
+    }
+  ],
+  "recommendations": [
+    "Use the applicable national cybersecurity framework to identify gaps and improvements to the overall security posture.",
+    "Build a mechanism to ensure notifications of breaches or unauthorized releases of personal information always go out within required time frames.",
+    "Complete a written data and asset classification policy covering all systems and data, and classify all of the school system's data.",
+    "Develop a way to account for every student information system used at schools.",
+    "Put in place monitoring to ensure all employees with access to personally identifiable information complete privacy and security training every year.",
+    "Implement the technical control fixes detailed in the confidential draft report.",
+    "Cooperate more promptly with authorized state oversight inquiries."
+  ],
+  "agency_response": "",
+  "topics": [
+    "education",
+    "technology"
+  ],
+  "is_followup": false
+}

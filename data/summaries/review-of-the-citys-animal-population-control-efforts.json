@@ -1,0 +1,79 @@
+{
+  "id": "review-of-the-citys-animal-population-control-efforts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of the City’s Animal Population Control Efforts",
+  "plain_title": "City spay and neuter program is underfunded and little known",
+  "agency": "Department of Health and Mental Hygiene",
+  "issued": "2026-05-08",
+  "url": "https://comptroller.nyc.gov/reports/review-of-the-citys-animal-population-control-efforts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/ME25-078S-1.pdf",
+  "what_they_audited": "This was a review rather than a standard audit. The team evaluated how effectively the Department of Health and Mental Hygiene runs the city's Animal Population Control Program, which subsidizes free or low-cost spay and neuter surgeries for eligible pet owners, and looked at approaches other cities use.",
+  "background": "City law requires the health department to run a program that reduces the stray dog and cat population by offering no- or low-cost sterilization, funded by a surcharge on licenses for unsterilized dogs. To deliver the services the department contracted with the American Society for the Prevention of Cruelty to Animals (ASPCA) for up to $3 million, covering as many as 24,000 surgeries at $125 each through 2028.",
+  "findings": [
+    {
+      "plain": "The health department set up the required low-cost spay and neuter program but has not been proactive about animal population control overall, relying on a single funding source and not seeking other public or private money it is allowed to pursue.",
+      "quote": "DOHMH has not been proactive in pursuing animal population control overall"
+    },
+    {
+      "plain": "The program's sole funding source, a surcharge on licenses for unsterilized dogs, brought in $950,819 over fiscal years 2022 to 2024, well short of the $1.5 million anticipated. As a result the ASPCA performed 6,733 sterilization surgeries, 37% fewer than its 10,660-surgery target.",
+      "quote": "The ASPCA performed a total of 6,733 sterilizations during FYs 2023 to 2025, 3,927 (37%) less than the 10,660 sterilizations anticipated under the contract."
+    },
+    {
+      "plain": "Dog licensing outreach was heavily concentrated: five zip codes, about 3% of the city's more than 170, hosted 73% of the 192 licensing events held. Only about 70,000 dogs are licensed out of an estimated 500,000 pet dogs.",
+      "quote": "DOHMH concentrated its outreach and education efforts in only five (3%) of the City’s more than 170 zip codes"
+    },
+    {
+      "plain": "Oversight of the ASPCA contract is thin. The department reviews invoices but has no performance metrics, no way to verify the ASPCA's reported outreach and no record that required reports explaining the surgery shortfall were ever filed.",
+      "quote": "DOHMH provided no mechanism for verifying the reported outreach figures, stating instead that they rely on trust."
+    },
+    {
+      "plain": "The department does not publicly report any data on the program's activities or outcomes, such as how many surgeries were performed or where the recipients live.",
+      "quote": "DOHMH does not publicly report any data regarding the activities and outcomes relating to the Program"
+    },
+    {
+      "plain": "In a survey conducted by the review team, 70% of respondents did not know the free or low-cost spay and neuter program exists and 61% did not know dog licenses are mandatory.",
+      "quote": "74 (70%) stated that they were not aware that qualifying residents of the City could have their pet cats or dogs spayed or neutered free of charge or at low-cost through the Program"
+    },
+    {
+      "plain": "The city spends almost $54 million a year sheltering animals while the program meant to address a root cause of shelter crowding received an average of about $316,000 a year. Other cities use multiple funding streams and city-backed trap-neuter-return programs, which New York City does not support.",
+      "quote": "received an average of only $316,000 in each of the last three fiscal years reviewed"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$950,819",
+      "label": "Dog license surcharge revenue collected over three years"
+    },
+    {
+      "value": "6,733",
+      "label": "Sterilization surgeries performed against a 10,660 target"
+    },
+    {
+      "value": "$54 million",
+      "label": "Approximate yearly city spending on animal shelters"
+    },
+    {
+      "value": "$316,000",
+      "label": "Average yearly funding for the sterilization program"
+    }
+  ],
+  "recommendations": [
+    "Lead a re-evaluation of the city's overall approach to animal population control and develop a new strategy for reducing all major drivers of shelter intake, including what resources would cut dependence on shelter spending.",
+    "Require the shelter operator, Animal Care and Control, to track why owners give up their pets and develop strategies to reduce those surrenders.",
+    "Work on reducing community cat populations by considering new options, including a formal assessment of city-funded trap-neuter-return programs with appropriate oversight.",
+    "Improve public awareness and enforcement of the rule that free-roaming cats be sterilized, formally track enforcement activity and create a dedicated 311 complaint category for free-roaming cats.",
+    "Develop a strategic plan so dog licensing outreach and education events are spread across all five boroughs to raise awareness and licensing rates.",
+    "Explore additional funding sources for the program, including asking the City Council to add mandatory revenue streams to the Animal Population Control Fund.",
+    "Develop, formalize and carry out a monitoring plan for the ASPCA contract with clear, measurable and publicly reported performance indicators.",
+    "Make sure the ASPCA submits the required reports when it performs fewer sterilization surgeries than expected.",
+    "Consider surveying residents periodically to gauge the program's effectiveness and identify areas for improvement."
+  ],
+  "agency_response": "The health department generally agreed with two of the nine recommendations, partially agreed with one and disagreed with or called unnecessary the other six. Its written response included new information it had not shared during the review, which the team said it could not validate.",
+  "topics": [
+    "health",
+    "money and contracts",
+    "transparency"
+  ],
+  "is_followup": false
+}

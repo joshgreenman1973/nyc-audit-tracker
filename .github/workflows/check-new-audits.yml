@@ -1,0 +1,50 @@
+name: Weekly audit check
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"   # Mondays 12:00 UTC (~7-8am New York)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch latest audits
+        run: python3 scripts/fetch_audits.py
+      - name: Check for audits without summaries
+        id: gap
+        run: |
+          python3 - <<'EOF'
+          import json, pathlib, sys
+          raw = json.load(open("data/audits_raw.json"))
+          missing = []
+          for a in raw:
+              slug = a["url"].rstrip("/").split("/")[-1]
+              if not pathlib.Path(f"data/summaries/{slug}.json").exists():
+                  missing.append(f"- {a['issued']} {a.get('title','')} {a['url']}")
+          if missing:
+              open("missing.txt","w").write("\n".join(missing))
+              print("New audits need plain-language summaries:")
+              print("\n".join(missing))
+              sys.exit(1)
+          print("No new audits. Tracker is current.")
+          EOF
+      - name: Open issue for new audits
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f missing.txt ]; then
+            gh issue create \
+              --title "New comptroller audits need summaries ($(date +%Y-%m-%d))" \
+              --body "$(printf 'The weekly check found audits not yet in the tracker:\n\n%s\n\nRun the summarize step and rebuild docs/audits.json.' "$(cat missing.txt)")" \
+              --repo "$GITHUB_REPOSITORY"
+          fi

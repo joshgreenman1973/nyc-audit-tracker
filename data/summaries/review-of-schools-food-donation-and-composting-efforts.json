@@ -1,0 +1,71 @@
+{
+  "id": "review-of-schools-food-donation-and-composting-efforts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of Schools’ Food Donation and Composting Efforts",
+  "plain_title": "How schools handle donating leftover food and composting waste",
+  "agency": "New York City Public Schools (Department of Education)",
+  "issued": "2026-04-21",
+  "url": "https://comptroller.nyc.gov/reports/review-of-schools-food-donation-and-composting-efforts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MH25-077S.pdf",
+  "what_they_audited": "This was a review, not a full audit. The comptroller's office examined whether New York City Public Schools tracks data on its food donation and composting programs, how it promotes those programs and what school administrators say about participating in them.",
+  "background": "New York City Public Schools, the nation's largest school system, serves about 940,000 free meals a day and spent $600 million on food in fiscal year 2025, 12% of its operations budget. Two units, the Office of Food and Nutrition Services and the Office of Energy and Sustainability, are responsible for preventing food waste.",
+  "findings": [
+    {
+      "plain": "The school system does not centrally track how many meals are prepared and discarded, so it cannot measure whether its food waste prevention efforts are working.",
+      "quote": "NYCPS has no idea how successful its overall efforts to prevent food waste are"
+    },
+    {
+      "plain": "Only 67 of 1,319 school buildings, or 4%, donated food to outside organizations in fiscal year 2025, and central management does not compile records of which organizations receive donations.",
+      "quote": "in FY2025 only 67 (4%) of NYCPS’ 1,319 school buildings donated food to outside organizations"
+    },
+    {
+      "plain": "Composting has grown dramatically. Participating schools went from 725 in fiscal year 2017 to all 1,715 in fiscal year 2024, and compostable material collected nearly quadrupled over that period.",
+      "quote": "from 6,278 tons collected in FY2017 to 24,477 tons in FY2024"
+    },
+    {
+      "plain": "Most school food waste still is not composted. A Department of Sanitation study found only about 37% of food waste generated at schools was captured for composting, and 28% of what was collected was contaminated, versus a 4% contamination rate citywide.",
+      "quote": "The study found that 28% of the organics collected from schools were contaminated, well above the citywide organics contamination rate of 4%."
+    },
+    {
+      "plain": "The school system's own sustainability survey showed low engagement. Of 1,182 schools surveyed, 15% engaged in none of six food waste prevention activities and 87% engaged in no more than three.",
+      "quote": "15% of all schools engaged in none of the six activities, and most schools—87% in total—engaged in no more than three of the six activities"
+    },
+    {
+      "plain": "In the review team's own survey of school administrators, only 33% said their schools donate uneaten leftovers and 59% said they have a food sharing table. Schools cited lack of funding and staffing as the main barriers.",
+      "quote": "Only 33% of respondents who answered the question stated that their schools donated unused food to school families, staff, or outside organizations."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$600 million",
+      "label": "Spent on food by the school system in fiscal year 2025"
+    },
+    {
+      "value": "4%",
+      "label": "Share of school buildings that donated food in fiscal 2025"
+    },
+    {
+      "value": "24,477 tons",
+      "label": "Compostable material collected from schools in fiscal 2024"
+    },
+    {
+      "value": "28%",
+      "label": "Contamination rate of school compost, versus 4% citywide"
+    }
+  ],
+  "recommendations": [
+    "Set system-wide targets for participation in composting, food donation and other food waste reduction programs.",
+    "Compile system-wide data to measure progress against those targets.",
+    "Conduct and publish a centralized assessment of progress by school and by program, identify barriers and develop strategies for improvement.",
+    "Develop system-wide training and outreach to increase participation, encourage idea sharing among sustainability coordinators, capture more food waste as compost and reduce contamination.",
+    "Visit schools to verify that recycling and composting bins are properly placed in cafeterias and classrooms.",
+    "Identify schools without appointed sustainability coordinators, fill those positions and support the new coordinators."
+  ],
+  "agency_response": "In its March 26, 2026 written response, New York City Public Schools agreed with the recommendation on sustainability coordinators, partially agreed with the recommendation on training and outreach and disagreed with the recommendations on targets, system-wide data and a centralized assessment.",
+  "topics": [
+    "education",
+    "environment"
+  ],
+  "is_followup": false
+}

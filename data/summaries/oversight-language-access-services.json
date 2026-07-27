@@ -1,0 +1,60 @@
+{
+  "id": "oversight-language-access-services",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Oversight of Language Access Services",
+  "plain_title": "Interpretation and translation at the health department",
+  "agency": "New York City Department of Health and Mental Hygiene",
+  "issued": "2026-03-25",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2026/03/25/oversight-language-access-services",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n2.pdf",
+  "what_they_audited": "Whether the Department of Health and Mental Hygiene adequately serves people with limited English proficiency, complies with state regulations and local laws and provides sufficient oversight of its language access services. The audit covered January 2019 through December 2024.",
+  "background": "An estimated 1.7 million New York City residents have limited English proficiency, and local law requires the health department to provide free language access services, including telephone interpretation in at least 100 languages and translated key documents in the top 10 citywide languages. The department's Language Services Unit creates and distributes these resources for all public-facing programs.",
+  "findings": [
+    {
+      "plain": "The department has no centralized system for recording and tracking the language services it provides, so requests may be underreported and the needs of clients with limited English proficiency may not be fully known.",
+      "quote": "DOHMH does not have a centralized system for recording and tracking LAS"
+    },
+    {
+      "plain": "Officials do not know how many calls are dropped or how often an interpreter cannot be found.",
+      "quote": "DOHMH officials are unaware of the number of dropped calls and instances where an interpreter could not be found."
+    },
+    {
+      "plain": "Some bilingual staff provide clinical services in a non-English language without passing the department's required fluency assessment, and the department reports its assessment numbers inconsistently.",
+      "quote": "there are uncertified bilingual staff providing clinical services in a non-English language"
+    },
+    {
+      "plain": "In a survey of 50 restaurants and food establishments, many owners and workers did not know about available language services or the Business Owner's Bill of Rights, which covers the right to language help during inspections.",
+      "quote": "many owners and workers were unaware of available LAS resources or the Business Owner’s Bill of Rights"
+    },
+    {
+      "plain": "When multilingual state auditors called department facilities unannounced, they hit barriers including staff not trying to connect them to interpreters, hard-to-navigate automated systems, disconnected calls, long waits and missing website translations.",
+      "quote": "DOHMH staff not attempting to connect callers to an interpreter."
+    },
+    {
+      "plain": "Visits to 10 public-facing facilities found inadequate or missing signage for giving feedback and complaints, plus delays, technical problems and apparent shortages of language access equipment at some sites.",
+      "quote": "Installation delays and technical issues with LAS equipment"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1.7 million",
+      "label": "Estimated city residents with limited English proficiency"
+    },
+    {
+      "value": "100",
+      "label": "Minimum languages required for telephone interpretation"
+    }
+  ],
+  "recommendations": [
+    "Develop a system-wide database to collect and track clients' language preferences across all facilities and work with vendors to gather data on service delivery and unfulfilled requests.",
+    "Make sure all communications aimed at people with limited English proficiency, including automated phone systems, signage, surveys and feedback boxes, are available in the appropriate languages and always accessible.",
+    "Ensure all bilingual staff who provide interpretation complete the department's fluency assessment.",
+    "Periodically assess each program and facility's language access equipment and connection needs."
+  ],
+  "agency_response": "",
+  "topics": [
+    "health"
+  ],
+  "is_followup": false
+}
