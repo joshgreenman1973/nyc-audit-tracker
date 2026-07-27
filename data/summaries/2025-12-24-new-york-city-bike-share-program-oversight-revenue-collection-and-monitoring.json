@@ -1,0 +1,69 @@
+{
+ "id": "2025-12-24-new-york-city-bike-share-program-oversight-revenue-collection-and-monitoring",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "New York City Bike Share Program – Oversight of Revenue Collection and Monitoring",
+ "plain_title": "Whether the city collects and checks its Citi Bike money",
+ "agency": "New York City Department of Transportation",
+ "issued": "2025-12-24",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/12/24/new-york-city-bike-share-program-oversight-revenue-collection-and-monitoring",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n5.pdf",
+ "what_they_audited": "Whether the New York City Department of Transportation collects the revenues it is owed from the Citi Bike bike share program under its agreement with the vendor and whether it monitors the vendor's compliance with the contract. The audit covered July 2019 to October 2024.",
+ "background": "The city launched the bike share program in 2013 as a public-private partnership: a vendor operates the system while the department handles planning, outreach and oversight. The program generates revenue from rides, sponsorship and advertising, liquidated damages and a fixed $1 million a year to replace lost parking meter revenue.",
+ "findings": [
+  {
+   "plain": "The department monitors Citi Bike passively. It does not run scheduled monitoring of its own, conduct program reviews or audits, or do its own calculations to check the accuracy of what the vendor reports.",
+   "quote": "DOT takes a passive approach to monitoring the Citi Bike program."
+  },
+  {
+   "plain": "Department officials responsible for monitoring were not familiar with the vendor's reports and, despite real-time access to program information, could not explain key elements of them.",
+   "quote": "Despite having real-time access to program information, DOT officials were not able to explain key elements of the reports."
+  },
+  {
+   "plain": "Errors went unnoticed until the audit. Faulty database queries wrongly excluded 900,829 trips from the ridership count used to figure the department's share of revenue, and on all 203 days of data reviewed the daily data feed did not match the vendor's reported figures.",
+   "quote": "Errors in the queries (questions used to retrieve and analyze data from databases or information systems) resulted in the erroneous exclusion of 900,829 trips from the ridership count"
+  },
+  {
+   "plain": "The contract called for the main sponsor to pay $54.9 million in sponsorship revenue, but auditors found evidence that only $33.6 million was received, a $21.3 million gap.",
+   "quote": "we only found evidence that $33.6 million in sponsorship revenue was received—a difference of $21.3 million."
+  },
+  {
+   "plain": "The department could not show it counted $26.7 million in accelerated fees the vendor paid to extend the contract, and it had no evidence that the $1 million annual deposit of lost parking meter revenue was made for 2019, 2020, 2021 and 2024, a total of $4 million.",
+   "quote": "DOT did not provide evidence that the annual deposit of $1 million in lost parking meter revenue was deposited into the City’s bank account for 2019, 2020, 2021, and 2024—totaling $4 million."
+  },
+  {
+   "plain": "For the one year with records, the department treated the $1 million parking meter payment as a bookkeeping credit rather than a bank deposit, which could leave funds unavailable for program improvements and operating costs.",
+   "quote": "believes that creating a liability in its general ledger satisfies the requirement for the annual deposit"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "900,829",
+   "label": "Trips wrongly excluded from the ridership count"
+  },
+  {
+   "value": "$21.3 million",
+   "label": "Gap between sponsorship revenue owed and evidence of receipt"
+  },
+  {
+   "value": "$26.7 million",
+   "label": "Accelerated fees with no proof they were counted"
+  },
+  {
+   "value": "$4 million",
+   "label": "Lost parking meter deposits with no evidence for four years"
+  }
+ ],
+ "recommendations": [
+  "Verify Citi Bike data by inspecting stations and bicycles and reviewing the data received for accuracy and completeness.",
+  "Make sure payments are received according to the terms of the agreement.",
+  "Set up a process to track revenues from each source and ensure all money due to the city is deposited into the right accounts and transferred to the city's general fund as the agreement requires."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "transportation",
+  "money and contracts"
+ ],
+ "is_followup": false
+}

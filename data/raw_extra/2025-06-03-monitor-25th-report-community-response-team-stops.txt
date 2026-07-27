@@ -1,0 +1,822 @@
+ 
+ 
+ 
+ 
+ 
+Mylan L. Denerstein 
+Direct: +1 212.351.3850 
+Fax: +1 212.351.6350 
+MDenerstein@gibsondunn.com 
+  
+ 
+ 
+June 3, 2025 
+VIA ECF 
+The Honorable Analisa Torres 
+United States District Judge 
+United States District Court for the Southern District of New York 
+500 Pearl Street 
+New York, NY 10007-1312 
+Re: Floyd, et al. v. City of New York, 08-CV-1034 (AT),  
+Ligon, et al. v. City of New York, et al., 12-CV-2274 (AT), 
+Davis, et al. v. City of New York, et al., 10-CV-0699 (AT),  
+Community Liaison 
+Dear Judge Torres: 
+I am pleased to submit the Twenty -Fifth Report of the Independent Monitor.  This 
+report, which contains an executive summary, presents the Monitor’s analysis of the New York 
+Police Department’s Community Response Team  units.  More detail and discussion can be 
+found in the body of the report. 
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+Mylan L. Denerstein 
+Independent Monitor 
+ 
+Attachment:  Twenty-Fifth Report of the Independent Monitor 
+ 
+ 
+Case 1:08-cv-01034-AT     Document 963     Filed 06/03/25     Page 1 of 1
+Twenty-Fifth Report of the 
+Independent Monitor 
+ 
+The NYPD's Community Response 
+Team's Stop, Frisk, and Search 
+Practices 
+ 
+Mylan Denerstein 
+ 
+June 3, 2025 
+ 
+Floyd, et al. v. City of New York, et al. 
+ 
+ 
+Ligon, et al. v. City of New York, et al. 
+ 
+ 
+Davis, et al. v. City of New York, et al.
+ 
+ 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 1 of 27
+ 
+ 
+i 
+MONITOR TEAM 
+ 
+ 
+Mylan Denerstein 
+Monitor 
+Richard Jerome 
+Deputy Monitor 
+Anthony Braga 
+Jennifer Eberhardt 
+Rudolph Hall 
+Demosthenes Long 
+John MacDonald 
+James McCabe 
+Jane Perlov 
+James Yates 
+ 
+nypdmonitor.org  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 2 of 27
+ 
+ 
+ii 
+Table of Contents 
+I. Executive Summary...........................................................................................................1 
+II. Traffic Stops ......................................................................................................................3 
+III. Background .......................................................................................................................6 
+I V. Audit Methodology ...........................................................................................................7 
+A. BWC Review of CRT Officers .......................................................................................7 
+B. Evaluation of CRT Level 2 Investigative Encounters to Assess Underreporting of Terry 
+Stops .............................................................................................................................9 
+C. CRT Stop Reports ........................................................................................................ 10 
+V. Results ............................................................................................................................ 10 
+A. Deployment BWC Review ........................................................................................... 10 
+1. Stops and Searches................................................................................................... 11 
+2. Race of Persons Stopped and Searched ..................................................................... 12 
+B. CRT Level 2 Investigative Encounters .......................................................................... 13 
+1. Terry Stops .............................................................................................................. 13 
+2. Traffic Stops ............................................................................................................ 13 
+3. Non-Traffic Encounters ............................................................................................ 14 
+4. Race of Persons Encountered ................................................................................... 14 
+C. CRT Stop Report Assessment ....................................................................................... 14 
+VI. Discussion ....................................................................................................................... 15 
+A. Lawfulness of CRT Stops, Frisks, and Searches ............................................................ 15 
+B. CRT Traffic Stops and Searches ................................................................................... 16 
+1. Consent Searches without Founded Suspicion........................................................... 19 
+C. Race and Gender of Persons Encountered ..................................................................... 20 
+D. Supervision of CRT Activities ...................................................................................... 20 
+VII. Conclusion ...................................................................................................................... 21 
+Appendix 1 ............................................................................................................................. 23 
+ 
+  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 3 of 27
+ 
+ 
+1 
+I. Executive Summary 
+In July 2022, the New York City Police Department (“NYPD” or “Department”) 
+established the Community Response Team (“CRT”) to focus on quality -of-life issues.  Unlike 
+typical NYPD officers, CRT officers wear modified uniforms—khaki pants and blue shirts —and 
+drive in unmarked cars.  Also, unlike typical NYPD officers, including Neighborhood Safety 
+Teams (“NST”) and Public Safety Teams (“PST”), CRT officers were initially detailed to the Chief 
+of Patrol’s office from their precincts.  Today, CRT officers are assigned to the patrol boroughs.  
+The Monitor team learned of the CRT in early 2023 and requested information about the 
+purpose and organization of the CRT.  In April 2023, the NYPD advised that the CRT was 
+established as a pilot program to respond to quality- of-life conditions, that there were no specific 
+orders or NYPD Patrol Guide procedures that governed the CRT, and that the NYPD planned to 
+deploy CRTs in each patrol borough.  The NYPD explained that CRTs would be addressing specific 
+quality-of-life conditions as opposed to routinely engaging in Terry stops.
+1   
+In early 2024, the Monitor conducted a limited review of the CRT’s enforcement activities 
+to determine if they related to investigative encounters involving Terry stops.2  At that time, the 
+Monitor determined that the CRT was focused on specific Department priorities, including illegal 
+ 
+1 A “Terry stop,” colloquially understood as a “stop and frisk,” is a form of police detention.  It is named after the 
+1968 Supreme Court case Terry v. Ohio , 392 U.S. 1 (1968), which requires , as a matter of Fourth Amendment law,  
+an officer to have “reasonable suspicion” of a crime before stopping an individual and “reasonable suspicion” the 
+individual is “armed and presently dangerous” before they may be permitted to frisk them.  In New York State, the 
+Court of Appeals in People v. De Bour , 40 N.Y.2d 210 (1976), established four levels of encounters with police and 
+labeled Terry detentions as Level 3 stops.  Under the De Bour framework, in a Level 1 encounter, an officer may 
+approach someone and ask general, non-accusatory questions.  In a Level 2 encounter, the officer may ask accusatory 
+questions and request consent to search.  In a Level 3 encounter, the officer may stop someone and temporarily detain 
+that person; the officer might also, depending on the circumstances, have the legal authority to frisk or search them.  
+A Level 4 encounter is an arrest or summons .  De Bour and federal law coincide and overlap to a large degree, but to 
+the extent that De Bour’s  requirements are more protective of privacy interests than required by the United States 
+Constitution, compliance by NYPD is nonetheless mandated by the New York Constitution, Article 1, § 12.  
+2 The initial audit covered the time period from April 29, 2024, to June 23, 2024.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 4 of 27
+
+ 
+ 
+2 
+motorcycles and mopeds, demonstrations, and illegal “smoke” shops (marijuana dispensaries) and 
+not Terry stops.   
+Later, the Monitor learned of complaints received by the Community Liaison that CRTs 
+were frequently engaging in Terry stops, frisks, and searches.  In addition, there was a significant 
+expansion of CRTs and a lack of transparency, as noted in the Department of Investigations’ NYPD 
+Inspector General’s November 2024 report.
+3  CRTs were in fact engaging in stops, frisks, and 
+searches frequently.  Consequently, the Monitor conducted a second review of the CRT’s activities 
+from July to December 2024 to determine if CRTs were engaged in unconstitutional Terry  stops, 
+frisks, and searches.  
+As a result of the Monitor’s review, the key findings are: 
+• CRTs appear to be another version of NSTs or PSTs, engaging in proactive enforcement 
+rather than responding to calls for service or focusing on specific quality- of-life 
+conditions.4  
+• CRT officers are engaging in self-initiated stops (stops based on the officers’ observations 
+rather than 911 or 311 calls).  For example, 96% of stop reports prepared by CRT officers 
+in the third quarter of 2024 were self-initiated stops.   
+• Like NST and PST officers, CRT officers stopped, frisked, and searched individuals 
+unlawfully at higher rates than patrol officers.  The lawfulness of CRT encounters in this 
+audit (84% for stops, 64% for frisks, and 59% for searches) compares unfavorably t o the 
+ 
+3 New York City Department of Investigation, Office of the Inspector General for the NYPD , A Review of NYPD’s 
+Community Response Team, November 2024.     
+4 See generally Twenty-Third Report of the Independent Monitor , Floyd v. City of New York, No. 1:08-cv-010304-AT  
+(S.D.N.Y. Feb. 3, 2025), ECF No. 952 -1; Nineteenth Report of the Independent Monitor , Floyd v. City of New York, 
+No. 1:08-cv-01034-AT (S.D.N.Y. June 5, 2023), ECF No. 915-1.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 5 of 27
+
+ 
+ 
+3 
+compliance rates for patrol officers found in the Monitor’s 23rd Report (92% for stops, 
+89% for frisks, 77% for searches).5   
+• There was a lack of meaningful NYPD supervisory review of CRT stops.  NYPD reviewing 
+supervisors determined that all but one of 50 reported CRT stops had a legal basis and that 
+all of the reported frisks and searches were lawful, even though the Monitor determined 
+that there were unlawful stops, frisks, and searches. 
+• CRT officers did not properly document Terry stops; they labeled stops as Level 2 
+encounters and not Terry stops.  The audit found that in the 13 B ody-Worn Camera 
+(“BWC”) videos determined by the Monitor to be Terry stops and not Level 2 encounters, 
+only four (31%) had stop reports prepared documenting the encounters.   
+• Ninety-seven percent of the persons stopped, frisked, and searched by CRT officers during 
+Terry stops in this audit were Black and Hispanic men. 
+II. Traffic Stops 
+The majority of CRT encounters reviewed for this audit were traffic stops resulting from 
+Vehicle Traffic Law (“VTL”) violations.   Although a car stop based upon probable cause of a 
+traffic violation personally observed by the officer is legal, the Fourth Amendment would 
+nonetheless be violated if: (1) the detention is unnecessarily prolonged; (2) a frisk ensues without 
+consent or reasonable suspicion that the subject is armed or dangerous; or  (3) a search of person, 
+object, or vehicle occurs without proper cause.6  Scrutiny of these issues falls within the ambit of 
+ 
+5 Twenty-Third Report of the Independent Monitor, Floyd v. City of New York, No. 1:08-cv-010304-AT (S.D.N.Y. Feb. 
+3, 2025), ECF No. 952-1.  
+6 To search a vehicle during a routine car stop, an officer either needs to have probable cause other than the traffic 
+violation, or there must be an exception to the probable cause requirement (i.e., consent, plain view, etc.).  After the 
+car is stopped, i f an officer reasonably suspects that an occupant of the vehicle is armed and dangerous, the officer 
+may conduct a cursory search of the lunge -able/grabbable area in which the occupant was sitting.   
+ 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 6 of 27
+
+ 
+ 
+4 
+Floyd.  The fact that an initial car stop is valid does not end the Monitor’s inquiry.  After the stop, 
+the Monitor is obliged to review the scope of detention, whether an unlawful frisk occurred, 
+whether an unlawful search followed, and whether the Department’ s actions comport with the 
+Fourth Amendment.  
+Many of the traffic stops reviewed in this audit involved a search, with some of the searches 
+resulting from a request for consent to search.  To seek consent to search a person or a vehicle 
+during a traffic stop, the police need to have at least a founded suspicion7 of criminality (separate 
+from the traffic violation).  The requirement that an officer have founded suspicion before asking 
+for consent to search comes from the New York State Court of Appeals case People v. De Bour, 
+40 N.Y .2d 210 (1976).  Although this Monitorship does not monitor the NYPD’s compliance with 
+De Bour’s requirements standing alone, these standards do overlap and impact Fourth Amendment 
+compliance, the focus of this Monitorship as set forth in the Floyd liability and remedial opinions.  
+For this reason, we include discussion of traffic stops and consent searches in this report.8 
+Searches during traffic stops, including consent searches, can have both Fourth 
+Amendment and Fourteenth Amendment implications.  If an officer makes an improper consent 
+request and the consent obtained was not voluntarily given, that encounter would be a Fourth 
+Amendment violation.  Schneckloth v. Bustamonte, 412 U.S. 218, 248–249 (1973).  This can occur 
+ 
+7 “Founded suspicion” is a level of suspicion that is less than the “reasonable suspicion” needed for a Terry stop. 
+Founded suspicion of criminal activity arises when there is some present indication of criminality based on observable 
+conduct or reliable hearsay information.  In other words, the officer has sufficient information to begin to suspect the 
+person of criminal conduct.   
+8 The New York Court of Appeals has observed that, in the interest of “promoting predictability and precision in 
+judicial review of search and seizure cases and the protection of the individual rights of our citizens” and in order “to 
+provide and maintain bright line rules to guide the decisions of law enforcement and judicial personnel  . . . these 
+interests are better served by the evenhanded application of the De Bour/Hollman framework to street encounters and 
+traffic stops alike.”  People v. Garcia, 20 N.Y.3d 317, 323 (2012).  As well, under federal law, “the rule of Mimms  
+[Pennsylvania v. Mimms, 434 U.S. 106 (1977)] . . . place[s] automobile occupants in the same position as pedestrians 
+vis-à-vis police officers.”  Id.  The Court rejected a “proposed rule [that] would create disparate degrees of 
+constitutional protections based on an individual’s mode of transport.”  Id. 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 7 of 27
+
+ 
+ 
+5 
+in any number of ways, such as starting the search or frisk before or as the officer seeks consent, 
+or not waiting for the individual’s answer.  Vague language, such as “Can I check you?” or “Can 
+I check?” after an officer asks whether a person has a weapon or “anything that might hurt me?” 
+are insufficient for a valid consent request per the Right to Know Act, and may also illustrate a 
+lack of knowing and voluntary consent under the Fourth Amendment.
+9  Consent must actually be 
+voluntarily given and not just a submission to authority.  Bumper v. North Carolina, 391 U. S. 543, 
+548–549 (1968).  Further, a purported consent to search may be ineffective if tainted by an illegal 
+detention.  Florida v. Royer , 460 U.S. 491, 501 (1983). 10  Moreover, officers may not conduct 
+stops or searches, or seek consent to search, if race or ethnicity is a motivating factor in the decision 
+to make a stop or search.   
+In reviewing traffic stops as part of the Monitor’s audit of CRT activities, key findings are: 
+• Of the 119 traffic stops in the Monitor’s audit, 75 resulted in a search of the motorist, 
+passenger, or the vehicle (63%).  Of those 75 searches, contraband was recovered in only 
+two of the searches (2.7%). 
+• The audit showed that CRT officers sought consent to search without any apparent founded 
+suspicion.  In 38.3% of consent searches, there was nothing evident in the BWC footage 
+(observed or heard) that supported the consent request.      
+ 
+9 An officer conducting a frisk or search of a person without valid consent during a traffic stop would constitute a 
+Terry stop covered by the Monitorship, even if the officer has probable cause of a VTL violation during the stop.  
+10 The City raise d a concern that traffic stops and consent searches are beyond the scope of this Monitorship.  As 
+explained above, however, the Fourth Amendment applies equally to vehicle stops and pedestrian stops.  Pennsylvania 
+v. Mimms, 434 U.S. 106 (1977).  As also noted, a frisk or search without valid consent would constitute a Terry stop 
+and subject to the rules of Terry v. Ohio, 392 U.S. 1 (1968).  For this reason, it is within the Monitor’s ambit to review 
+traffic stops and consent searches to ensure compliance with the Fourth and Fourteenth Amendment.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 8 of 27
+
+ 
+ 
+6 
+III. Background 
+The NYPD implemented the CRT at some point in 2022.  Unlike the announcement of 
+NST, there was no official launch of the CRT.  In late 2022, the NYPD began posting videos and 
+summaries on Department social media accounts of CRT operations throughout the City.  Soon 
+after, news organizations began covering the activities of CRT operations, including ride -alongs 
+with CRT supervisors.  As described by the then-NYPD Deputy Commissioner of Operations on 
+social media: 
+The Community Response Team was created to address lawless behavior affecting 
+our City. . . . The CRT is a specialized team of highly trained officers whose mission 
+it is to restore order.  This work often involves addressing those quality- of-life 
+conditions that disrupt our way of life and diminish our collective safety.  Many of 
+these offenses also escalate into other, more dangerous crimes.11   
+ 
+The CRT was initially formed at the Patrol Bureau level under the Chief of Patrol.  The 
+Monitor was initially told by the NYPD that the CRT was a pilot program that had ceased 
+operations, but the Monitor later learned that CRTs were being created at the patrol borough level.  
+For that reason, the Monitor conducted a limited review of the CRT’s enforcement activities.  The 
+initial audit covered April 29, 2024, to June 23, 2024, and was designed to determine if CRT 
+officers were engaged in Terry stops.  The M onitor’s initial assessment of CRT operations 
+concluded that they were not predominantly engaged in Terry stops.  In its early stages, the CRT 
+was focused on addressing illegal motorcycles and mopeds, responding to demonstrations, and 
+supporting the NYC Sheriff’s enforcement operations regarding illegal “smoke” shops (unlicensed 
+marijuana dispensaries).  The A pril–June 2024 audit found only a small number of Terry  stops.  
+There were six verified Terry stops out of 200 (3%) incidents reviewed.  These initial  numbers 
+seemed to be consistent with routine patrol operations for officers in this type of assignment.  CRT 
+ 
+11 Kaz Doughtry (@kazdaughtry), X (Mar. 26, 2024, 1:46 PM), 
+https://x.com/kazdaughtry/status/1772681618500555251.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 9 of 27
+
+ 
+ 
+7 
+officers were on patrol and were likely to encounter crime and disorderly conditions during their 
+shifts; therefore, some Terry stop encounters should be expected. 
+Recent events, including community complaints communicated to the Monitor by the 
+Community Liaison that CRT officers were engaging more frequently in Terry  stops, frisks, and 
+searches, led to this audit.   
+IV. Audit Methodology 
+The NYPD provided the Monitor with CRT personnel rosters for October 2024.  In total, 
+the various borough-based CRTs consisted of 186 uniformed officers: 1 captain, 10 lieutenants, 23 
+sergeants, 18 detectives, and 134 police officers.  The roster was used as the foundation to select 
+BWC videos and stop reports for assessment. 
+The Monitor team used three methods to assess the lawfulness of CRT stops, frisks, and 
+searches and to understand the kinds  of stops (based on a radio run, self -initiated, or a 
+complainant/witness) and the types of crimes on which the CRT focused:  (1) a general review of 
+a sample of BWC videos to understand if there were any patterns or themes in CRT deployment; 
+(2) an assessment of BWC videos categorized as “Level 2 investigative encounters,” to explore 
+the possibility of undocumented stops and the nature  of consent searches; and (3) a review of a 
+sample of documented stop reports.   
+A. BWC Review of CRT Officers 
+The Monitor team identified a sample of 100 BWC videos selected from officers assigned 
+to NYPD CRTs over a four -week period, from October 28, 2024, to November 24, 2024.  The 
+officers were identified as members of CRT from the October 2024 personnel roster .  Since 
+personnel assignments in the NYPD are fluid, BWC video footage from each officer was inspected 
+to verify that the officer was a CRT member.  CRT personnel wear distinctive khaki-colored pants 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 10 of 27
+ 
+ 
+8 
+and are easily recognizable on video.  Any officer identified in the initial sample as a CRT officer 
+not attired in the distinctive uniform was removed from the audit. 
+1. The Monitor team selected twenty-five officers each week through random sampling.   
+a. The random selection process was done by using a random number generator in 
+Excel and sorting the sampling frames (CRT Roster and BWC metadata). 
+b. Each officer had the same probability of being selected each week.  
+c. In the event an officer did not record any videos in the selected week, the officer 
+was removed from the sample and the next officer on the list was added. 
+2. The Monitor team searched Evidence.com
+12 for all BWC videos recorded by the selected 
+CRT officers in the previous seven-day period (Monday at 12:01 AM to Sunday at 11:59 
+PM). 
+3. The Monitor team randomly selected one video from each officer every week.  In addition 
+to the sampled CRT officer’s video, the Monitor team also leveraged the multi-cam feature 
+in Evidence.com and viewed up to three additional videos to develop a more 
+comprehensive assessment of the encounter. 
+4. A member of the Monitor team coded the encounters to determine the lawfulness of the 
+encounters and whether there were any patterns or themes in CRT deployment.
+13     
+5. The Monitor team repeated this process for four weeks, which provided the 100 videos 
+used as the basis of this audit. 
+6. In total, the Monitor team reviewed videos featuring 44% of the entire assigned CRT 
+personnel.  The review captured videos of 82 different members of the CRT: 3 lieutenants, 
+ 
+12 Evidence.com is the BWC database used by the NYPD.  
+13 The list of variables coded appears in Appendix 1.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 11 of 27
+
+ 
+ 
+9 
+10 sergeants, 10 detectives, and 59 police officers.14  The videos reviewed included videos 
+from officers in every Patrol Borough and Bureau. 
+B. Evaluation of CRT Level 2 Investigative Encounters to Assess Underreporting of 
+Terry Stops 
+To evaluate the extent of undocumented Terry  stops, the assessment focused on Level 2 
+investigative encounter videos.  The Monitor has found that officers too often mislabel Terry stops 
+as Level 2 encounters.  Because officers are not required to complete a stop report for a Level 2 
+investigative encounter, stops that are mislabeled are not documented with stop reports.  BWC 
+videos for this method were selected as follows:  
+1. Officers were randomly selected from the October 2024 personnel roster that listed CRT 
+officers. 
+2. The Monitor team searched Evidence.com for all investigative encounter videos recorded 
+by the selected officers during the third quarter of 2024 (July 1, 2024, to September 30, 
+2024).
+15 
+3. One video categorized as Level 2 was randomly selected from all the officer’s Level 2 
+videos recorded in the quarter.  Fifty Level 2 videos were selected. 
+4. Two Monitor team members independently reviewed the BWC videos to determine if a 
+stop report was required. 
+5. Event data was collected utilizing an observation worksheet. 
+ 
+14 The October 2024 CRT personnel roster lists 1 captain, 10 lieutenants, 23 sergeants, 18 detectives, and 134 police 
+officers. 
+15 Many of the CRT personnel did not have any Level 2 videos in the quarter.  Forty- four CRT officers did have at 
+least one Level 2 video.  To select 50 videos, the Monitor team selected a second video from six officers.   
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 12 of 27
+
+ 
+ 
+10 
+C. CRT Stop Reports 
+The Monitor Team selected a random sample of 50 stop reports from all 408 stop reports 
+prepared by CRT officers in the third quarter of 2024. 16  These stop reports were assessed using 
+the Monitor’s standardized Stop Report Assessment worksheet ; both the stop reports and 
+associated BWC videos were reviewed to assess the legality of the stops, frisks, and searches.  Two 
+Monitor team members independently assessed the lawfulness of the encounters.  Any 
+disagreements between the two assessors were provided to the Deputy Monitor to review and 
+decide the lawfulness of the stop, frisk, or search.
+17 
+V. Results 
+A. Deployment BWC Review 
+The results of the BWC video assessment indicated a shift in the operational deployment 
+of CRT officers.  The data showed that traffic stops were now the most common form of encounter, 
+with 76% of all videos featuring traffic enforcement.  The CRT broadened its traffic enforcement 
+from illegal motorcycles and mopeds to more general traffic stops involving cars.  The table below 
+illustrates this trend: 
+  
+ 
+16 A sample of 50 from a population of 408 stops results in a confidence interval of 13.0%.  
+17 The preliminary assessment of the 50 stop reports by the two independent reviewers produced four stop reports 
+where there were disagreements on the lawfulness of the encounter.  These stop reports were sent to the Deputy 
+Monitor for review. 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 13 of 27
+
+ 
+ 
+11 
+Table 1  
+(Total Traffic Stops: 76) 
+ Motorcycle/ 
+Moped 
+% Car/SUV % 
+Total 11 14% 65 86% 
+Enforcement Action 6 55% 26 40% 
+Consent Searches18 1 9% 13 20% 
+Non-Consent Searches 2 18% 17 26% 
+ 
+In the current audit, 11 of the 76 traffic stops (14.5%) involved motorcycles or mopeds.  
+The other 65 traffic stops involved vehicles that were primarily pulled over for unlawful tinted 
+windows, covered/altered license plates or equipment violations, and offenses related to the 
+documentation of the vehicle (registration, inspection, insurance, mismatched plates, etc.).19  Very 
+few of the audited videos involved traffic offenses for hazardous violations (speeding, reckless 
+driving, disobeying signal/sign, etc.).  
+CRT officers exercised a wide degree of discretion and did not take enforcement actions in 
+many of the traffic stops.  In 44 of the 76 reported traffic stops (58%), the CRT officers did not 
+issue a citation or make an arrest.  
+1. Stops and Searches 
+When reviewing the 76 reported traffic stops, the Monitor determined that two of the traffic 
+stops required a stop report but only one of the two traffic stops was properly documented on a 
+stop report.  Of the 24 BWC videos that were street stops and not motorcycle or vehicle stops, the 
+Monitor determined that a stop report was required in four encounters.  In only one of these four 
+ 
+18 A consent search conducted after a CRT officer requested and received consent to search the person, property, or 
+vehicle of the individual asked.  
+19 The traffic stops reviewed by the Monitor team appeared to be supported by probable cause of a traffic, equipment, 
+or licensing violation.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 14 of 27
+
+ 
+ 
+12 
+instances was a stop report documenting the encounter prepared.  Thus, out of the 100 sample, a 
+stop report was prepared in two of the six identified Terry stops (33%). 
+During traffic stops, CRT officers frequently searched the car and/or its occupants.   Three 
+of the 11 motorcycle stops involved a search, and 30 of the 65 reported vehicle traffic stops (46%) 
+involved a search of the driver, a passenger, and/or the vehicl e.  In 13 of those 30 searches, the 
+officer sought and obtained consent from the driver or passenger to search (43% percent of the 
+time).  Of the 13 requests for a consent search, six (46%) appeared to be supported by founded 
+suspicion.  In seven of the 13  consent searches (54%) there was nothing readily apparent (in the 
+BWC video or audio) as a basis for founded suspicion, meaning that under New York law the CRT 
+officer had no apparent basis to seek consent and to search the car or occupants.  In the other  17 
+searches, the searches were either based on probable cause or were conducted during a Terry stop, 
+and consent was not requested or given.  Out of these 30 searches during vehicle stops, the NYPD 
+found contraband in two encounters (7%).  In one non- consent search a firearm was recovered, 
+and in one consent search, controlled substances were recovered.
+20   
+2. Race of Persons Stopped and Searched 
+The NYPD’s CRTs stopped Black and Brown men in the vast majority of the incidents 
+reviewed.  In 68 of the 76 traffic stops (89%), the motorists were Black or Hispanic persons.  In 
+29 of the 30 searches (97%), the persons were Black or Hispanic persons, and the thirtieth was a 
+Middle Eastern individual.  None of the White motorists were searched.  Of the 24 BWC videos 
+that were not vehicle stops, 18 of the 21 encounters (86%) involved Black or Hispanic individuals, 
+ 
+20 There was no contraband found in the three reported searches during motorcycle stops . 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 15 of 27
+
+ 
+ 
+13 
+and three BWC videos did not involve any members of the public (vehicle inventory searches at 
+the command). 
+B. CRT Level 2 Investigative Encounters 
+For this assessment, 50 randomly selected Level 2 investigative encounter BWC videos 
+were selected.  BWC videos that were categorized by officers as Level 2 encounters were selected 
+to assess whether officers were properly categorizing the encounters and properly documenting 
+Level 3 stops.  
+1. Terry Stops 
+The Monitor team concluded that seven of the 50 encounters were Terry stops where a stop 
+report was required.21  These stops should have been documented by a stop report instead of being 
+categorized by the officers as Level 2 encounters.  Only one of the seven encounters had a stop 
+report prepared at the time of the encounter (14% reported).  Four other stop reports were prepared 
+several months later, after the Monitor alerted the Department about the encounters. 
+2. Traffic Stops 
+Thirty-five of the randomly selected 50 Level 2 BWC videos were traffic stops.  In all 35 
+of the traffic stops (100%), officers searched the driver, motorcyclist, or passenger in the vehicle.  
+In 33 of the 35 cases (94%), the officer sought consent from the subject to be searched.  Of the 33 
+requests for consent searches, 22 (67%) requests for a consent search appeared to be supported by 
+founded suspicion (based on what was observed or heard on the BWC video), while 11 (33%) did 
+not.  None of the officers r ecovered contraband in any of the searches.  Officers issued a VTL 
+citation in 11 of the 35 traffic stops. 
+ 
+21 The Department also agreed that these encounters were Terry stops.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 16 of 27
+
+ 
+ 
+14 
+3. Non-Traffic Encounters 
+Of the 15 BWC videos that were not traffic stops, 14 appeared to be self -initiated 
+investigative encounters addressing a wide range of issues, such as drinking in public or gambling, 
+and one appeared to be a response to a call for service. 
+4. Race of Persons Encountered 
+All 35 traffic stops involved Black or Hispanic men.  All of the 15 encounters that were not 
+traffic stops involved Black or Hispanic individuals.  
+C. CRT Stop Report Assessment 
+For this assessment, the Monitor team randomly selected 50 stop reports from the 408 stop 
+reports prepared by CRT officers in the third quarter of 2024.  Below are the characteristics of this 
+sample: 
+• Forty-eight of the 50 stop reports (96%) were self -initiated Criminal Possession of a 
+Weapon (“CPW”) stops, where the officer stopped the person based on observing what the 
+officer suspected was a weapon.  This percentage is comparable to the percentage for the 
+overall population of CRT stop reports that were prepared in the third quarter of 2024, 
+which showed that 393 of the 408 stops (96.3%) were self-initiated stops.   
+• Eight of the 50 stop reports were traffic stops (16%), and seven of the eight involved 
+searches. 
+• The Monitor determined that 42 of the 50 stops (84%) were lawful.
+22 
+• Officers frisked the person stopped in 42 of the 50 stops.  The frisk was lawful in 64% of 
+the encounters. 
+ 
+22 As noted above, the Monitor’s reviews involved evaluating the stop reports and associated BWC videos.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 17 of 27
+
+ 
+ 
+15 
+• Officers searched the person stopped in 37 of the 50 stops.  The search was lawful in 59% 
+of the encounters. 
+• The person stopped was arrested in nine (18%) of the encounters.  All arrests were for 
+CPW. 
+• Black or Hispanic individuals were the subject of the stop in all 47 of the stop reports 
+(100%) where the race of the suspect was identified.  
+• CRT officers stopped men in 46 of the 48 (96%) reported stops when gender was identified.  
+• 48% of encounters had a supervisor on the scene. 
+• In all but one of the encounters (98%), the reviewing supervisor determined that the stop 
+was lawful.  In the one instance where the reviewing supervisor determined the stop was 
+unlawful, no discipline or corrective action was taken.  This stop involved an arrest for 
+CPW. 
+• The reviewing supervisor in each case determined that 100% of the frisks and searches 
+were lawful. 
+VI. Discussion   
+A. Lawfulness of CRT Stops, Frisks, and Searches 
+The use of the CRT has changed.  CRTs are now operating similar ly to NSTs and PSTs, 
+conducting self-initiated CPW stops.   This is troubling because they are stopping, frisking, and 
+searching unconstitutionally too frequently.  For experienced teams, their rate of compliance in 
+this audit was lower than patrol officers.  The table below illustrates that CRT officers had a lower 
+rate of lawful stops, frisks, and searches compared to officers on patrol, as found in the Monitor’s 
+last report on NST compliance, and their performance more closely resembles that of NST officers.  
+  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 18 of 27
+ 
+ 
+16 
+Table 2 
+ 
+  % Lawful   
+Stop Frisk Search 
+CRT 
+Audit 
+ 
+CRT  
+84%  64%  59%  
+23rd 
+Report  
+Patrol 92% 89% 77% 
+NST 75% 58% 54% 
+PST 64% 16% 62% 
+  
+NST and PST officers are assigned to a particular precinct and should be knowledgeable 
+of local crime conditions and accountable to a precinct commander who works with the community 
+being served.  By contrast, the Monitor team observed CRT officers from Staten Island making 
+stops in the Bronx and Brooklyn, and officers from the Bronx making stops in Manhattan.  CRT 
+officers that conducted self -initiated CPW stops came from all over the City and made stops in 
+boroughs different than the ones where they are assigned.  This means they are likely less familiar 
+with the area in which they are working.23   
+In addition, CRT officers misidentified BWC videos and did not properly document Terry 
+stops.  With respect to the randomly selected BWC videos (100 general BWC videos and 50 Level 
+2 videos reviewed by the Monitor team), the Monitor team determined there were 13 encounters 
+requiring a stop report, and only four stop reports were prepared at the time  of the encounter.  
+Although this is a small sample, four of these Terry stops (31%) were documented with a stop 
+report.  
+B. CRT Traffic Stops and Searches 
+CRT officers relied on traffic stops to conduct searches of vehicles or motorists.   The data 
+presented from the BWC assessment and the Level 2 encounter assessment showed that although 
+ 
+23 Constitutional compliance is not a function of neighborhood familiarity, but that familiarity and localized 
+supervision can serve other important values, including accountability.  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 19 of 27
+
+ 
+ 
+17 
+traffic enforcement was the main CRT tactic, only a small number of encounters resulted  in 
+enforcement action.  Combining the data from BWC, Level 2, and Stop Report samples (200 total 
+encounters), the Monitor observed 119 (59.5%) traffic stops , of which 45 (22.5%) involved an 
+arrest or citation.  At the same time, 75 of the 119 (63%) traffic stops involved a search.    
+To search a vehicle during a routine vehicle stop, an officer either needs to have probable 
+cause other than the traffic violation, or there must be an exception to the probable cause 
+requirement (i.e., consent, plain view, limited search, etc.).  After the vehicle is stopped, if an 
+officer reasonably suspects that an occupant of the vehicle is armed and dangerous, the officer may 
+conduct a protective search of the area in which the occupant was sitting and where a weapon 
+might have been hidden.  For an officer to ask the driver for consent to search his or her person or 
+the vehicle, or to ask a passenger for consent to search their person, the officer must have at least 
+founded suspicion of criminality (again, separate from the traffic violation).  Also, the consent for 
+a search or frisk must be given knowingly and voluntarily.   
+To understand the magnitude of searches during traffic stops, the Monitor analyzed Vehicle 
+Stop Report data posted by the NYPD on its website.  The Department posts data quarterly 
+regarding the number of vehicle reports and searches related to those traffic stops.  The data from 
+the first quarter of 2022 to the fourth quarter of 2024 are illustrated by the following figure: 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 20 of 27
+ 
+ 
+18 
+Figure 1: Searches During Traffic Stops 2022-2024 
+ 
+The orange line in the figure above shows the percentage of traffic stops that involve a 
+search of the vehicle.  In 2022, approximately 2% of the traffic stops resulted in a search.  That 
+rate increased to 2.4% in 2023 and increased again to 3.3% in 2024.  In fact, the number of searches 
+conducted during traffic stops has more than doubled from 2022 to 2024, from about 3,300 per 
+quarter in 2022 to more than 7,100 per quarter in 2024.   
+CRT appears to be part of this increase in vehicle searches.  Searching 63% of motorists or 
+vehicles during traffic stops signals that the stop is not about traffic safety.  Although the CRT 
+officers had probable cause for the VTL traffic stops in the Monitor’s audits, the officers also 
+needed to have a legal basis for the searches during those traffic stops. 24  Contraband was 
+recovered in only two of the 75 searches (2.7%).  With a recovery rate so low, it raises the question 
+ 
+24 Both federal and New Y ork law permit pretextual stops.  People v. Robinson, 97 N.Y.2d 341, 349 (2001), held that 
+probable cause for a traffic violation is an objective standard and does not rest on the subjective motivation of the 
+officer.  But it also noted that “[t]he scope, duration and intensity of the seizure, as well as any search made by the 
+police subsequent to that stop” remain subject to scrutiny.  Id. at 353 . 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 21 of 27
+
+ 
+ 
+19 
+whether these officers properly formulated the necessary level of suspicion of criminality before 
+the search.  
+1. Consent Searches without Founded Suspicion 
+As noted above, a police officer in New York must have at least a founded suspicion of 
+criminality to seek consent to search someone.  A traffic violation is not criminal conduct; 
+therefore, a request for a consent search during a traffic stop must be based  on some other factor 
+amounting to Level 2 founded suspicion.  Recovering contraband from only one of the consent 
+searches suggests the officers generally might not have had the legal basis to seek consent and the 
+searches were not just unfruitful, but also potentially unlawful. 
+The Monitor team reviewed 200 BWC videos for this audit and several thousand over the 
+course of the monitorship.  Out of the 150 encounters reviewed by the Monitor team for this audit 
+in the deployment BWC sample and the Level 2 BWC sample, there were 47 (31%) that involved 
+a request for consent to search the person or vehicle encountered.  Essentially, one -third of the 
+people encountered by CRT officers in these situations were asked for consent to search.  Of the 
+47 requests for a consent search, 29 (61.7%) requests appeared to be supported by founded 
+suspicion, while in 18 of the 47 encounters (38.3%) in which officers requested consent to search, 
+there was nothing apparent in the BWC footage (observed or heard) that provided founded 
+suspicion to support the request. 
+The Monitor’s Nineteenth Report
+25 identified traffic stop encounters in which officers 
+requested consent searches without an apparent basis of founded suspicion, which is required 
+under New York law for a consent request.  This audit again identified the same problem.  When 
+ 
+25 Nineteenth Report of the Independent Monitor , Floyd v. City of New York, No. 1:08-cv-01034-AT (S.D.N.Y. June 
+5, 2023), ECF No. 915-1.   
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 22 of 27
+
+ 
+ 
+20 
+motorists are already stopped by officers during a traffic stop, what might seem to be a routine 
+request for consent to search may not seem routine for the driver or passenger, and the response 
+might not be knowing, intelligent and voluntary.  Further, if consent is sought after unnecessarily 
+prolonged detention, i.e., beyond a brief encounter lasting no longer than needed to address the 
+traffic violation itself, consent may be deemed ineffective.
+26  It is for this reason the Monitor has 
+included the findings regarding these consent searches. 
+C. Race and Gender of Persons Encountered 
+The CRT stops, frisks, and searches reviewed in this audit impacted Black and Hispanic 
+men.  This audit relied on three separate methodologies.  In the BWC assessment, 80% of the 
+persons encountered were Black or Hispanic men.  In the Level 2 investigative encounter 
+assessment, every person encountered was a Black or Hispanic man.  And for the stop report 
+assessment, in 45 of the 47 stop reports in which race was reported, the person stopped was a Black 
+or Hispanic man.  Thus, in total, 90% of the persons encountered by CRT officers in this audit 
+were Black or Hispanic men.   
+D. Supervision of CRT Activities 
+The Monitor’s audit showed a lack of meaningful review of CRT stop reports.  Similar to 
+the findings in the Monitor’s Nineteenth and Twenty- Third Reports on NST operations, stop 
+reports were determined to be lawful by the reviewing supervisor in an overwhelming percentage 
+of stops.  Of the fifty stop reports assessed, the reviewing supervisors found all but one had a legal 
+basis for the stop, and all of the frisks and searches to be lawful.  This does not compare favorably 
+ 
+26 Florida v. Royer , supra. See also Rodriguez v. United States , 575 U.S. 348, 354 (2015) (“A seizure for a traffic 
+violation justifies a police investigation of that violation. ‘[A] relatively brief encounter,’ a routine traffic stop is ‘more 
+analogous to a so-called ‘Terry stop’ . . . than to a formal arrest. . . . Authority for the seizure thus ends when tasks tied 
+to the traffic infraction are–or reasonably should have been– completed.”).    
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 23 of 27
+
+ 
+ 
+21 
+to the Monitor’s assessment of lawfulness and demonstrates a lack of effective oversight and 
+supervision of this process. 
+VII. Conclusion  
+The CRT began operations in the early part of 2022 and the deployment of officers assigned 
+to these teams and their tactics appear to change as conditions in the City change.  The current 
+audit showed that CRT officers were largely focused on traffic stops and searches, and self-initiated 
+CPW stops.  The lawfulness of the CRT officers’ stops was less compliant than officers on regular 
+patrol and was comparable to the compliance rates of officers assigned to NSTs and PSTs.  Going 
+forward, the Monitor expects CRT officers to achieve the same level of compliance as the Monitor 
+directed for NST officers—at  least 85% by the end of the third quarter of 2025 and at least 90% 
+by the end of the year.  
+In addition, CRT officers showed a pattern of requesting consent to search the vehicle or 
+person without the requisite founded suspicion during traffic stops, which also seems to be part of 
+an evolving trend in the NYPD.  Traffic stops have increased since  the NYPD began reporting 
+vehicle stop data in the first quarter of 2022 and searches during those traffic stops more than 
+doubled since public reporting began.  With a continued focus on street stops to address crime, the 
+NYPD seems to have added consent searches during traffic stops to the crime fighting toolbox, 
+with the CRT a significant user of this tool.  As noted earlier, frisks and searches during traffic 
+stops, including consent searches, can result in Fourth Amendment violations.   The Department 
+should inform the Monitor what steps it will take to ensure that officers stay within the bounds of 
+the Fourth Amendment, including any additional training, directives, or monitoring that may be 
+required. 
+The research and the data collected for this report was intended to provide a snapshot of 
+CRT operations.  Considering that almost all of the persons subjected to these potential violations 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 24 of 27
+ 
+ 
+22 
+are Black and Hispanic men, there are Fourteenth Amendment implications as well.  As the 
+Department finalizes its Fourteenth Amendment compliance plans, it should ensure that an 
+analysis of CRT operations is included in the plan’s implementation. 
+  
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 25 of 27
+ 
+ 
+23 
+Appendix 1 
+Assessment Worksheet Variables 
+3Q2024 Stop Report Random Weekly BWC Videos 3Q2024 L2 BWC Videos 
+PCT Serial # Week# MOS RANK 
+QAD Qtr. MOS RANK MOS LAST NAME 
+Date MOS LAST NAME MOS FIRST NAME 
+Time MOS FIRST NAME MOS TAX# 
+STOP TYPE MOS TAX MOS COMMAND 
+Crime Suspected MOS COMMAND BWC Title 
+Suspect Gender DATE OF ENCOUNTER Evidence Serial Number 
+Suspect Race BWC EVIDENCE ID Encounter Type 
+Suspect Age CAT1 Level of Encounter 
+NST/PST? CAT2 Stop Report # 
+MOS Name CAT3 Stop Report Required (Y/N) 
+MOS Tax CAT4 Gender 
+MOS Command GENDER Race 
+BWC File # RACE Age 
+BWC Category AGE CAR STOP? 
+BWC Tags 1 TYPE OF ENCOUNTER RS STOP? 
+BWC Tags 2 LEVEL @ FIRST 
+ENCOUNTER 
+FRISK? 
+BWC Tags 3 MOS LEGALLY 
+APPROPRIATE? 
+SEARCH? 
+Evidence # ESCALATE ENCOUNTER? CONSENT SEARCH? 
+Monitor Stop OK? ESCALATE OK? A/S/N 
+Frisk Y/N LOCATION FORCE USED 
+Monitor Frisk OK? STOP REPORT REQUIRED? CONTRABAND? 
+Searched Y/N RS STOP? ENCOUNTER EXPLAINED 
+Monitor Search OK? FRISK? BWC NOTICE GIVEN 
+Location of Stop SEARCH? RTK CARD OFFERED 
+Time of Stop SUMMONS/ARREST RECORDED ENTIRELY 
+Duration of Stop (Min) FORCE USED FOUNDED SUSPICION FOR 
+L2 Q 
+Contraband Recovered? CONTRABAND 
+ 
+A/S/N ENCOUNTER EXPLAINED 
+ 
+Charge BWC NOTICE GIVEN 
+ 
+Encounter Explained? RTK CARD OFFERED 
+ 
+BWC Notice Given? RECORDED ENTIRELY 
+ 
+Business Card Offered? CHARGE 
+ 
+Report States Card Offere  CONSENT SEARCH 
+ 
+Record Entirely? CAR STOP? 
+ 
+Car Stop? MOTORCYCLE STOPPED? 
+ 
+Reviewer Name FOUNDED SUSPICION FOR 
+L2 Q 
+ 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 26 of 27
+ 
+ 
+24 
+3Q2024 Stop Report Random Weekly BWC Videos 3Q2024 L2 BWC Videos 
+Supervisor On Scene   
+Reviewer Stop Ok?   
+Reviewer Frisk Ok?   
+ 
+Case 1:08-cv-01034-AT     Document 963-1     Filed 06/03/25     Page 27 of 27

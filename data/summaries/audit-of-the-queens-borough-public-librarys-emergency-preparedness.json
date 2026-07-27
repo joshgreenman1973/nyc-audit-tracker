@@ -1,0 +1,58 @@
+{
+  "id": "audit-of-the-queens-borough-public-librarys-emergency-preparedness",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the Queens Borough Public Library’s Emergency Preparedness",
+  "plain_title": "How prepared the Queens library is for emergencies",
+  "agency": "Queens Borough Public Library",
+  "issued": "2025-06-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-queens-borough-public-librarys-emergency-preparedness/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/QPL-SR24-081A.pdf",
+  "what_they_audited": "In this final audit letter report, auditors examined whether the Queens Public Library is adequately prepared to plan for and respond to emergencies, keep its operations running and serve the public during major disasters and other events.",
+  "background": "The Queens Public Library is an independent nonprofit with 66 locations that served over 5.6 million visitors in fiscal year 2023. Under the federal Stafford Act, libraries can receive disaster assistance if they provide critical services during a major disaster, and the library's borough-wide reach positions it as an access point for information and services in emergencies.",
+  "findings": [
+    {
+      "plain": "The library served the public during emergencies. Open branches acted as cooling centers on all 14 days heat emergencies were declared from June through August 2024, and on freezing days auditors found seven visited branches adequately heated with working free Wi-Fi.",
+      "quote": "From June through August 2024, heat emergencies were declared on 14 days. QPL branches that were open for business served as cooling centers on those days."
+    },
+    {
+      "plain": "The library put flood protection and mitigation measures in place at two of its three branches located in the 100- and 500-year floodplains, but provided nothing showing similar protections at the Seaside branch.",
+      "quote": "QPL did not provide information or documentation indicating it implemented any flood protection and mitigation measures for Seaside."
+    },
+    {
+      "plain": "Backup generators exist at only three locations, though officials said all locations have battery backup for their information technology servers.",
+      "quote": "QPL has backup generators at three locations—the Queens Central Library, Flushing, and Hunters Point"
+    },
+    {
+      "plain": "The library's Disaster Recovery Plan has been tested and updated, but nothing formally requires testing it at least annually, and test reports noted areas for improvement such as documenting step-by-step recovery procedures.",
+      "quote": "Without a specified requirement for testing, there is potential for the Plan to go untested even if there are changes to the QPL’s procedures or communication structure."
+    },
+    {
+      "plain": "Although the library's evacuation plan requires fire drills at least twice a year, officials had no reports of any drills conducted during calendar year 2024 for the 15 branches auditors sampled.",
+      "quote": "QPL officials stated that they did not have any reports for drills conducted during Calendar Year 2024"
+    },
+    {
+      "plain": "A survey of branches revealed potential communication and training gaps: 52 of 61 open branches (85.2%) did not respond at all, and among the nine that did, some reported missing active shooter or other emergency training and three said the central office did not inform them of emergency alerts in their area.",
+      "quote": "one branch reported that they did not receive active shooter training, and four branches reported that they did not receive any other safety or emergency preparedness training"
+    }
+  ],
+  "numbers": [
+    {"value": "66", "label": "Library locations in the Queens system"},
+    {"value": "5.6 million", "label": "Visitors served in fiscal year 2023"},
+    {"value": "14", "label": "Summer 2024 heat emergency days with cooling center branches"},
+    {"value": "85.2%", "label": "Share of branches that did not answer the audit survey"}
+  ],
+  "recommendations": [
+    "Consider installing flood protection and mitigation measures at the Seaside branch because of its floodplain location.",
+    "Consider installing generators or other backup power systems at additional branches so libraries can keep operating and serve the public during emergencies.",
+    "Request that the federal Cybersecurity and Infrastructure Security Agency conduct an Infrastructure Survey Tool assessment to identify and document the library's overall security and resilience.",
+    "Ensure the Disaster Recovery Plan includes a requirement to test, review and update the plan at least annually.",
+    "Address the areas of improvement noted in Disaster Recovery Test Reports.",
+    "Ensure twice-yearly fire drills are conducted at all branches and implement a centralized process for keeping documentation of each completed drill.",
+    "Implement a centralized notification system to quickly relay information to all branch managers and staff, including local emergency updates and instructions on public health, weather or security situations."
+  ],
+  "agency_response": "The library agreed with five of the seven recommendations, partially agreed with one and did not address the recommendation about the federal security assessment, saying it already conducts its own periodic cybersecurity assessments through certified vendors.",
+  "implementation_note": "",
+  "topics": ["public safety"],
+  "is_followup": false
+}

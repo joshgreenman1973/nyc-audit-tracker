@@ -1,0 +1,65 @@
+{
+  "id": "audit-of-the-behavioral-health-emergency-assistance-response-divisions-effectiveness-in-responding-to-individuals-with-mental-health-crises-and-meeting-its-goals",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the Behavioral Health Emergency Assistance Response Division’s Effectiveness in Responding to Individuals with Mental Health Crises and Meeting Its Goals",
+  "plain_title": "Is the city's non-police mental health crisis team reaching people?",
+  "agency": "New York City Mayor's Office of Community Mental Health",
+  "issued": "2025-05-23",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-behavioral-health-emergency-assistance-response-divisions-effectiveness-in-responding-to-individuals-with-mental-health-crises-and-meeting-its-goals/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/05/MG24-060A.pdf",
+  "what_they_audited": "Auditors examined whether the Behavioral Health Emergency Assistance Response Division (B-HEARD), the pilot program that sends social workers and Emergency Medical Technicians (EMTs) instead of police officers to 911 mental health calls, is meeting its goals and effectively serving patients. The program is administered by the Mayor's Office of Community Mental Health (OCMH) and run jointly with the fire department's Emergency Medical Services, New York City Health + Hospitals and the police department.",
+  "background": "B-HEARD was established as a pilot in 2021 as a health-centered alternative to the traditional response to mental health crises, which sends New York City Police Department officers and an ambulance with two EMTs. Its goals include routing 911 mental health calls to a health-centered response, reducing unnecessary use of police resources, increasing connection to community-based care and reducing unnecessary hospital transports; its fiscal year 2024 budget was $35.9 million.",
+  "findings": [
+    {
+      "plain": "The pilot is limited in when it operates, where it operates and which calls qualify, so many people who might need a B-HEARD team instead get the traditional response of police officers and an ambulance.",
+      "quote": "The Behavioral Health Emergency Assistance Response Division (B-HEARD) pilot program is limited in its hours of operation, its geographic distribution, and in the types of calls considered eligible for a response."
+    },
+    {
+      "plain": "Because the program only runs from 9am to 1am, more than 14,000 calls that qualified for a B-HEARD team between January 2022 and September 2024 got a traditional response simply because they came in overnight.",
+      "quote": "Over 14,000 calls determined to be eligible for a B-HEARD team did not receive one because the calls were received during the overnight hours, when the pilot does not operate."
+    },
+    {
+      "plain": "Even during operating hours, about a third of qualifying calls got no B-HEARD response. OCMH does not track why, though officials said team unavailability is the most likely reason.",
+      "quote": "13,042 (35%) of the 37,113 calls determined to be eligible for B-HEARD did not receive program services."
+    },
+    {
+      "plain": "The program fields just 18 teams split across two shifts and covers only 31 of the city's 78 police precincts across four boroughs, with no coverage in Staten Island.",
+      "quote": "The B-HEARD program is currently active in 31 (40%) of the 78 precincts in the City."
+    },
+    {
+      "plain": "Of the 96,291 mental health calls received in pilot areas during program hours over fiscal years 2022 to 2024, more than 60% were counted as ineligible, a figure that includes calls that were never triaged at all, for instance because no fire department call-taker was available.",
+      "quote": "Of these, 59,178 calls (over 60%) were considered “ineligible” for a B-HEARD response by OCMH."
+    },
+    {
+      "plain": "The share of B-HEARD responses that included a mental health assessment, which teams are expected to conduct, fell from 55% in fiscal year 2022 to 25% in fiscal year 2024, and OCMH does not track the reasons assessments are not done.",
+      "quote": "During FY2022, only 55% of the calls that B-HEARD teams responded to resulted in a mental health assessment of the patient. This number decreased to 31% in FY2023 and 25% in FY2024"
+    },
+    {
+      "plain": "OCMH's data collection is too weak to tell whether the program is working. It does not track why calls are not triaged, why eligible calls get no B-HEARD response, how often police officers request a B-HEARD team or whether people receive treatment after the initial crisis intervention.",
+      "quote": "The auditors found that OCMH’s overall tracking of program and performance data is inadequate."
+    }
+  ],
+  "numbers": [
+    { "value": "96,291", "label": "Mental health 911 calls in pilot areas, fiscal 2022-2024" },
+    { "value": "37,113", "label": "Calls deemed eligible for a B-HEARD response" },
+    { "value": "13,042", "label": "Eligible calls that got no B-HEARD response" },
+    { "value": "14,200", "label": "Eligible calls received outside program hours" },
+    { "value": "18", "label": "B-HEARD teams covering two shifts" },
+    { "value": "$35.9 million", "label": "Program budget for fiscal year 2024" },
+    { "value": "25%", "label": "Responses with a mental health assessment in fiscal 2024" }
+  ],
+  "recommendations": [
+    "Formally assess the citywide need for B-HEARD mental health response teams.",
+    "Work with partner agencies to expand the program's reach and number of teams in line with established need, including covering the overnight hours.",
+    "Work with the fire department to explore additional ways, such as tuition assistance, livable wages or loan forgiveness, to recruit enough qualified EMS responders so all eligible calls are triaged and answered.",
+    "Work with partner agencies to develop performance metrics and collect the data needed to evaluate the program, including reasons calls are ineligible or untriaged, reasons eligible calls get no response, police responses caused by team unavailability and reasons assessments are not performed.",
+    "Work with the fire department to require EMS responders to consistently update the final call type on every call so eligible-call counts are accurate.",
+    "Continue developing ways to increase contact with and assessments of patients when B-HEARD teams respond.",
+    "Continue working with the New York State Office of Mental Health and Health Department to expand community-based care centers across all five boroughs."
+  ],
+  "agency_response": "OCMH agreed with three recommendations, partially agreed with three and disagreed with one, on updating final call types, calling it infeasible and outside its role. It also disputed any need for increased oversight or improved metrics and said many issues were outside its purview, positions the auditors strenuously disagreed with.",
+  "implementation_note": "",
+  "topics": ["health", "public safety"],
+  "is_followup": false
+}

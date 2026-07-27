@@ -1,0 +1,35 @@
+{
+  "id": "2025-07-14-oversight-contract-expenditures-bowery-residents-committee-follow",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Oversight of Contract Expenditures of Bowery Residents’ Committee (Follow-up)",
+  "plain_title": "Follow-up on oversight of a homeless shelter contractor",
+  "agency": "New York City Department of Social Services",
+  "issued": "2025-07-14",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/07/14/oversight-contract-expenditures-bowery-residents-committee-follow",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-24f38.pdf",
+  "what_they_audited": "How far the New York City Department of Homeless Services (DHS) has gotten in carrying out the 11 recommendations from a 2021 audit of its oversight of contract spending by the Bowery Residents' Committee (BRC), a nonprofit shelter operator.",
+  "background": "DHS contracted with BRC to run the 200-bed Jack Ryan Residence, an emergency shelter for mentally ill and chemically addicted homeless adults. The initial audit, issued in December 2021, found DHS was not effectively monitoring the contract and identified $1,428,199, or 6.05% of all reported costs over three fiscal years, that did not comply with the applicable fiscal manuals and the contract.",
+  "findings": [
+    {
+      "plain": "DHS has made some progress on the problems identified in the initial audit, but more work remains.",
+      "quote": "DHS officials have made some progress in addressing the issues we identified in the initial audit report; however, more work needs to be done."
+    },
+    {
+      "plain": "Of the 11 recommendations in the initial report, DHS implemented two, partially implemented seven and did not implement two.",
+      "quote": "Of the initial report’s 11 audit recommendations, two were implemented, seven were partially implemented, and two were not implemented."
+    }
+  ],
+  "numbers": [
+    {"value": "11", "label": "Recommendations in the initial 2021 audit"},
+    {"value": "$1,428,199", "label": "Non-compliant costs found in the initial audit"},
+    {"value": "6.05%", "label": "Share of reported costs that were non-compliant"}
+  ],
+  "recommendations": [
+    "Officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+  ],
+  "agency_response": "",
+  "implementation_note": "Of the 11 recommendations in the 2021 audit, the follow-up found 2 implemented, 7 partially implemented and 2 not implemented.",
+  "topics": ["homelessness", "money and contracts"],
+  "is_followup": true
+}

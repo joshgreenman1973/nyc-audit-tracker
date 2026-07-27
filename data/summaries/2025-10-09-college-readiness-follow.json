@@ -1,0 +1,43 @@
+{
+ "id": "2025-10-09-college-readiness-follow",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "College Readiness (Follow-Up)",
+ "plain_title": "Checkup on how city schools prepare students for college",
+ "agency": "New York City Public Schools",
+ "issued": "2025-10-09",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/10/09/college-readiness-follow",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f12.pdf",
+ "what_they_audited": "How far New York City Public Schools has gone in carrying out the four recommendations from a 2022 state audit of how well the school system prepares students for college.",
+ "background": "New York City Public Schools, the nation's largest school system, served about 900,000 students in the 2023-24 school year. The initial audit found that in a cohort of 71,210 students expected to graduate by August 2019, as many as 23% did not graduate on time, 38% did not persist in college for 6 months after enrolling and 45% of a 291-student sample were not college ready.",
+ "findings": [
+  {
+   "plain": "The school system has made significant progress since the initial audit. All four of the original recommendations have been implemented.",
+   "quote": "Of the initial report’s four audit recommendations, all four have been implemented."
+  },
+  {
+   "plain": "Graduation rates still outpace college readiness. In 2024, 83% of high school students citywide graduated while only 52% were considered college ready, and the system has since added a grade point average component and a career component to its readiness metric.",
+   "quote": "In 2024, 83% of high school students citywide graduated, while only 52% were considered college ready."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "83%",
+   "label": "High school students citywide who graduated in 2024"
+  },
+  {
+   "value": "52%",
+   "label": "Students considered college ready in 2024"
+  }
+ ],
+ "recommendations": [
+  "The report makes no formal recommendations."
+ ],
+ "agency_response": "",
+ "implementation_note": "Of the four recommendations in the 2022 audit, the follow-up found all four implemented.",
+ "topics": [
+  "education",
+  "children and youth"
+ ],
+ "is_followup": true
+}

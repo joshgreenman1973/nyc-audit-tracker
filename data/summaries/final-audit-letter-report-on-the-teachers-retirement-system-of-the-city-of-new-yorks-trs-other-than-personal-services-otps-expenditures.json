@@ -1,0 +1,59 @@
+{
+  "id": "final-audit-letter-report-on-the-teachers-retirement-system-of-the-city-of-new-yorks-trs-other-than-personal-services-otps-expenditures",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report on the Teachers’ Retirement System of the City of New York’s (TRS) Other Than Personal Services (OTPS) Expenditures",
+  "plain_title": "Teachers' pension fund spending mostly proper but poorly documented",
+  "agency": "Teachers' Retirement System of the City of New York",
+  "issued": "2025-06-30",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-teachers-retirement-system-of-the-city-of-new-yorks-trs-other-than-personal-services-otps-expenditures/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/FN24-075A.pdf",
+  "what_they_audited": "In this final audit letter report, auditors examined whether the Teachers' Retirement System's other than personal services expenditures, meaning nonsalary costs like office supplies, travel and payments to outside vendors, followed the system's policies and city rules and were necessary, reasonable and well supported by documentation. They reviewed a sample of 54 expenditures from fiscal years 2023 and 2024.",
+  "background": "The Teachers' Retirement System is one of the largest municipal public pension systems in the United States, serving over 220,000 members, retirees and beneficiaries who worked for the city's public schools, the City University of New York and participating charter schools. For fiscal year 2024 it reported approximately $132 billion in assets and $47 million in other than personal services expenditures.",
+  "findings": [
+    {
+      "plain": "Overall, the retirement system's nonsalary spending largely followed its own policies and relevant rules, and the expenses were necessary and reasonable. But auditors said the system should improve how it approves and documents this spending.",
+      "quote": "TRS’ OTPS expenditures were, for the most part, spent in accordance with internal policies and procedures and other relevant rules and regulations"
+    },
+    {
+      "plain": "The system paid 11 of 54 sampled invoices (20%) more than 30 days after the invoice date without justification, and could not produce an invoice to substantiate one payment at all.",
+      "quote": "11 (20%) of the 54 sampled OTPS invoices were paid more than 30 days after the invoice dates, without justification"
+    },
+    {
+      "plain": "For six payments to consultants totaling $35,587, the system could not provide a contract or other documentation to substantiate the rates of pay it was charged.",
+      "quote": "For six payments totaling $35,587, TRS was unable to provide documentation (such as a contract) to substantiate the consultants’ rates of pay"
+    },
+    {
+      "plain": "Despite saying after a March 2022 internal audit that it would stop, the system kept buying gift cards, purchasing an unknown number totaling $16,060 on agency credit cards in violation of a comptroller's directive.",
+      "quote": "TRS purchased an unknown number of gift cards, totaling $16,060, using agency credit cards"
+    },
+    {
+      "plain": "Most of the sampled out-of-town travel spending for fiscal year 2024, $52,427 of $77,944, was not sufficiently documented. Auditors also flagged expenses that might not be necessary or allowable, including alcoholic beverages, premium hotel rooms and meals bought when the conference already provided them.",
+      "quote": "for $52,427 (67%) of the $77,944 out-of-town travel expenses sampled for FY2024, the auditors found that some of these expenses were not sufficiently documented"
+    },
+    {
+      "plain": "The system did not enforce the directive that caps conference travel at two employees per conference and two out-of-town conferences per employee each year, and no post-travel attendance reports were provided for any sampled trip. It also could not support $31,291 of sampled fiscal year 2023 travel expenses.",
+      "quote": "TRS registered five employees to attend “2023 NCTR 101st Conference,” and allowed two employees to attend three different conferences"
+    }
+  ],
+  "numbers": [
+    {"value": "$47 million", "label": "Nonsalary spending reported for fiscal year 2024"},
+    {"value": "54", "label": "Sampled expenditures reviewed from fiscal years 2023-2024"},
+    {"value": "$35,587", "label": "Consultant payments lacking documented pay rates"},
+    {"value": "$16,060", "label": "Gift cards bought on agency credit cards"},
+    {"value": "$52,427", "label": "Fiscal 2024 travel spending not sufficiently documented"}
+  ],
+  "recommendations": [
+    "Ensure invoices are received before initiating payment and properly maintain the invoices that are received and paid.",
+    "Process payments to vendors within 30 days after receiving the invoices.",
+    "Immediately stop the practice of purchasing gift cards.",
+    "Ensure all out-of-town travel is justified and the associated costs are approved.",
+    "Request and obtain all necessary documents before processing payments and reimbursements to avoid paying unnecessary expenses.",
+    "Comply with the directive's limits on how many employees attend the same conference and how many conferences each employee attends per year.",
+    "Obtain post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits the system."
+  ],
+  "agency_response": "The Teachers' Retirement System agreed to implement three of the seven recommendations and disagreed with the other four, in several cases saying its current practices already address the findings. Auditors reiterated those recommendations, noting the system had not provided supporting evidence.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "transparency"],
+  "is_followup": false
+}

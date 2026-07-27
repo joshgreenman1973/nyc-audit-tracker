@@ -1,0 +1,843 @@
+ 
+ 
+ 
+ 
+ 
+Mylan L. Denerstein 
+Direct: +1 212.351.3850 
+Fax: +1 212.351.6350 
+MDenerstein@gibsondunn.com 
+  
+ 
+October 14, 2025 
+VIA ECF 
+Honorable Analisa Torres 
+United States District Judge 
+United States District Court 
+Southern District of New York 
+500 Pearl Street 
+New York, NY  10007-1312 
+ 
+Re: Floyd, et al. v. City of New York, 08-CV-1034 (AT),  
+Ligon, et al. v. City of New York, et al., 12-CV-2274 (AT), 
+Davis, et al. v. City of New York, et al., 10-CV-0699 (AT),  
+Twenty-Sixth Report of the Independent Monitor                                                
+Dear Judge Torres: 
+I am pleased to submit the Twenty-Sixth Report of the Independent Monitor.  This 
+report analyzes the New York Police Department’s (“NYPD”) accountability efforts, focusing 
+on the effectiveness of audits by  the NYPD’s Quality Assurance Section, Early Intervention 
+Program, and ComplianceStat.   More detail and discussion can be found in the body of the 
+report. 
+Respectfully, 
+ 
+ 
+Mylan L. Denerstein 
+Independent Monitor 
+ 
+Attachment: Twenty-Sixth Report of the Independent Monitor 
+ 
+Case 1:08-cv-01034-AT     Document 969     Filed 10/14/25     Page 1 of 1
+i 
+ 
+Twenty-Sixth Report of the 
+Independent Monitor 
+ 
+The NYPD's Accountability Efforts 
+ 
+ 
+Mylan Denerstein 
+ 
+October 14, 2025 
+ 
+Floyd, et al. v. City of New York, et al. 
+ 
+ 
+Ligon, et al. v. City of New York, et al. 
+ 
+ 
+Davis, et al. v. City of New York, et al. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 1 of 29
+ii 
+ 
+MONITOR TEAM 
+ 
+Mylan Denerstein 
+Monitor 
+ 
+Richard Jerome 
+Deputy Monitor 
+ 
+Susan Prosnitz 
+Associate Monitor 
+ 
+Anthony Braga 
+ 
+Jennifer Eberhardt 
+ 
+Rudolph Hall 
+ 
+Demosthenes Long 
+ 
+John MacDonald 
+ 
+James McCabe 
+ 
+Jane Perlov 
+ 
+James Yates 
+ 
+ 
+nypdmonitor.org   
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 2 of 29
+iii 
+ 
+Table of Contents 
+I. Executive Summary ................................................................................................................ 1 
+II. Command Responses to NYPD’s Audits ............................................................................ 6 
+III. Early Intervention Program............................................................................................... 10 
+A. Background ....................................................................................................................... 10 
+B. Audit Methodology ............................................................................................................11 
+C. Monitor Team Observations .............................................................................................. 12 
+1. Recommended Interventions..................................................................................... 12 
+2. Stop Reports .............................................................................................................. 14 
+3. BWC Categorization and Improper Frisks and Searches ......................................... 14 
+D. 2025 EIP Improvements .................................................................................................... 15 
+IV . ComplianceStat ................................................................................................................. 16 
+A. Multiple PBBS Appearances............................................................................................. 17 
+B. Recent ComplianceStat Meetings ..................................................................................... 21 
+V. Conclusion ............................................................................................................................ 24 
+ 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 3 of 29
+1 
+ 
+I. Executive Summary 
+A key to compliance with the federal court’s orders in Floyd v. City of New York, Ligon v. 
+City of New York , and Davis v. City of New York ,1 is accountability for unconstitutional stops, 
+frisks, and searches .  The New York City Police Department (“Department” or “NYPD ”) must 
+hold all its officers, sergeants, lieutenants, and command executives accountable.  The 
+Department’s remedy for unconstitutional stops has been more and more training, but that has 
+proved to be ineffective.  The Department needs to take action , including discipline at all levels 
+for officers and supervisors who consistently fail to abide by the law.  As the Monitor noted in the 
+Twenty-Third Report: “If supervisors and commands continue to fail to address unlawful stops, 
+frisks, and searches and if they fail to address undocumented stops, then the Department must hold 
+supervisors and commands accountable.  If some commands can police lawfully, then the rest can 
+do it too, and when they repeatedly do not, then there should be serious consequences.”2 
+More recently, the NYPD appears to be building systems of accountability that could 
+address its deficiencies and lead to improved compliance.  The NYPD has begun to implement a 
+more focused Eary Intervention Program (“EIP”) and is now tracking the audits by patrol boroughs 
+in preparation for ComplianceStat meetings.  Recent Department executive level action removing 
+command officers from leadership positions and disbanding of borough specialized units where 
+there are complia nce failures is a positive development.  Going forward, the NYPD will be 
+examining how commands respond to audits by its Quality Assurance Section (“QAS”) so that 
+officers and supervisors with repeat deficiencies are not simply given the same training or 
+instructions.  These steps are a hopeful sign of future accountability.  
+ 
+1 Floyd, et al. v. City of New York , 08-CV-1034 (AT); Ligon, et al. v. City of New York, et al. , 12-CV-2274 (AT);  
+Davis, et al. v. City of New York, et al., 10-CV-0699 (AT). 
+2 Twenty-Third Report of the Independent Monitor, Floyd, et al. v. City of New York, No. 1:08-cv-010304-AT (S.D.N.Y . 
+Feb. 3, 2025), ECF No. 952-1, at 44.  
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 4 of 29
+2 
+ 
+This Report focuses on the efficacy of Department audits conducted by the NYPD’s QAS, 
+the Early Intervention Program (“EIP”) and ComplianceStat.   
+• Department Audits and Command Response .  The NYPD’s QAS audits a sample of stop 
+reports from every command in the Department , to assess whether there was a sufficient 
+legal basis for the stop, frisk, and search, as appropriate.  The results of these audits are 
+then shared with the audited command, which must review the results of the QAS audit, 
+address any deficiencies identifie d, and submit a report in response to the QAS audit, 
+including corrective actions taken to improve performance.  The Monitor team r eviewed 
+the command responses to the audits in 2024 to see what actions the commands took to 
+address unconstitutional stops, frisks, and searches.  Minimal to no discipline was imposed. 
+• EIP.  The NYPD’s EIP is a type of “early warning system” ordered by the Court in 2020 to 
+identify officers engaged in stop, frisk, or search violations and correct their behavior 
+before misconduct escalates.  The NYPD was directed to systematically collect, assess, and 
+act on information regarding adverse findings related to officers’ illegal stops or illegal 
+trespass enforcement.  The Department established an Early Intervention Committee 
+(“EIC” or “Committee”) to review officers who cross specific thresholds relating to at-risk 
+behaviors.  In earlier reports, the Monitor determined that the system was ineffective in 
+changing officers’ behavior.3  In furtherance of that, the Monitor team reviewed the body-
+worn camera (“BWC”) videos of officers who were evaluated by the NYPD to see whether 
+the interventions directed by the EIC had the desired impact.  The Monitor team found that 
+they did not. 
+ 
+3 Twenty-First Report of the Independent Monitor, Floyd et al. v. City of New York, No. 1:08-cv-010304-AT (S.D.N.Y . 
+Sept. 4, 2024), ECF No. 934-1, at 37-41. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 5 of 29
+3 
+ 
+• ComplianceStat.  In January 2024, the Department implemented ComplianceStat, a system 
+of accountability intended to ensure compliance with Department policies and legal 
+mandates, including the Court Order establishing the Federal Monitor NYPD oversight.  
+At these meetings, NYPD leadership question patrol borough and command staff on their 
+compliance efforts.  The Monitor tracked the performance of one of the patrol boroughs 
+(Patrol Borough Brooklyn South, “PBBS”) and the corrective actions taken to address the 
+deficiencies identified in the ComplianceStat  process.  The Monitor team also attended 
+more recent ComplianceStat meetings for Patrol Borough Manhattan South (“PBMS”) and 
+Patrol Borough Brooklyn North (“PBBN”).  The improvements made by PBBS as a result 
+of the ComplianceStat meetings show that the NYPD can identify and remedy 
+unconstitutional Terry stops, frisks, and searches among its members if it makes the effort 
+to do so.   
+The key findings regarding the efficacy of the NYPD’s accountability efforts are below: 
+• In 2024, there were few consequences and little supervisory accountability for unreported 
+stops and improper stops, frisks, and searches .  For the four quarters reviewed by the 
+Monitor team, QAS identified over 4,000 improper stops, frisks, or searches.  In only eight 
+instances was a Command Discipline (“CD”) issued to the officer for the unconstitutional 
+action.  In another 110 instances, an officer was given a negative Cop’s Rapid Assessment 
+Feedback Tool (“CRAFT”),4 which is the lowest form of sanction for misconduct.  In the 
+other 98% of the incidents, the officer was either instructed, given training, or the violation 
+was not addressed at all.  Meaningful accountability at the command level in response to 
+ 
+4 CRAFT is a process that allows supervisors to issue a Supervisory Comment Form in the NYPD’s personnel system 
+for an officer’s positive or negative actions. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 6 of 29
+4 
+ 
+QAS audits was absent. 
+• Officers identified as engaging in multiple unlawful actions and supervisors who failed to 
+identify or address  unlawful actions of officers received only training or instructions, 
+demonstrating the inadequacy of these corrective measures where there were repeated 
+failures.   
+• Closer monitoring of individual precincts  is necessary  to identify potentially  more 
+widespread Department deficiencies in applying appropriate corrective measures  in 
+response to unlawful stops, frisks, and searches.   
+• EIP has not been effective to date, with minimum interventions directed for officers who 
+crossed the EIP thresholds relating to stops, frisks, and searches .  Often where the 
+Professional Standards Division (“PrSD”) recommended a series of available 
+interventions, the Commanding Officer (“CO”) did not recommend any interventions 
+available under the program.   When an intervention was directed by the EIC, there was 
+little to no structured follow -up to determine if directed corrective supervisory measure s 
+were implemented, and more importantly, the outcome of such measures.  
+• Moreover, EIP interventions did not impact officer behavior and thus were not effective in 
+addressing Fourth Amendment compliance, stop report documentation , and BWC usage.  
+A more intensive approach is necessary for meaningful change.  
+• PBBS went through the  ComplianceStat process three times within a four -month period 
+due to continued poor performance , including undocumented Terry stops, late activation 
+and early deactivation of officers’ BWC , inadequate supervision and little to no 
+consequences for improper actions.  By the third PBBS ComplianceStat meeting, the 
+Department’s pre -meeting audit showed significant improvements, with very few 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 7 of 29
+5 
+ 
+undocumented stops.  These improvements resulted from an intensive effort undertaken at 
+the command and borough levels to conduct their own audits to identify and correct 
+deficiencies, including identifying undocumented Terry stops.  Actions taken by PBBS 
+included removal of a precinct commander, Integrity Control Officer, and Special 
+Operations Lieutenant (“SOL”), and in another command, disbanding of the NST team for 
+failure to address these performance issues .  These were positive actions taken by the 
+command and patrol borough. 
+• The PBMN and PBBN ComplianceStat meetings revealed that several borough and 
+command executives were unprepared for the meetings and unable to answer questions 
+about the activities of their NSTs, PSTs, and CRTs.  These executives did not review a 
+sufficient number of BWC videos of their specialized teams and could not identify their 
+officers’ deficiencies or any actions taken to address those deficiencies.  In response to 
+inattention and ineffective oversight at the borough and command level, Department 
+leadership directed several immediate personnel actions, including disbanding the PBBN 
+PST, relieving the PBBN Inspector responsible for overseeing compliance of those duties, 
+and reassigning officers and executives at the command level.  If consistently undertaken, 
+such personnel actions, particularly reassignment of personnel, may be highly effective in 
+incentivizing compliance and demonstrating the Department’s commitment to this goal.   
+ComplianceStat can be an effective accountability tool to motivate command and borough 
+level supervisors and executives to identify and remedy unconstitutional practices among their 
+officers.  It is an innovative process that involves the highest level of leadership in the Department.  
+The ComplianceStat  model is the first Department initiative in which command and borough 
+supervisors are facing meaningful consequences resulting from ineffective supervision and 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 8 of 29
+6 
+ 
+executive engagement.  However, it is still too early to tell whether these meetings will result in 
+measurable improvements to command and borough level supervision of officers’ stops, frisks , 
+and searches.  The Department is moving in the right direction, but to achieve compliance, 
+accountability must be institutionalized and ComplianceStat must be taken seriously by all NYPD 
+commands at all levels.   
+II. Command Responses to NYPD’s Audits 
+The NYPD has established auditing procedures that identify unconstitutional Terry stops, 
+frisks, and searches and a mechanism for correcting them.  Each quarter, QAS selects a sample of 
+stop reports from every command in the Department and assesses if there was a sufficient legal 
+basis for the stop, frisk, and search as appropriate.  The results of these audits are then shared with 
+the audited command.  COs in the command are required to review the results of the QAS audits, 
+address any deficiencies identified, and submit a report about any corrective actions taken to 
+improve performance.   
+In the last two years, the Monitor team has found that the QAS audits have become more 
+thorough.  QAS audits have improved and are now closely aligned with the Monitor team’s audits.   
+This is a positive step towards accountability.  To achieve compliance, NYPD commands need to 
+take QAS audits seriously, address the unconstitutional behaviors identified, and make the 
+corrections necessary to improve performance.  Unfortunately, the QAS command -level audit 
+process appears to be mostly an administrative exercise, with little meaningful change occurring 
+at the command level based upon these audits. 
+The Monitor team explored the QAS audit results for a one -year period from the fourth 
+quarter of 2023 through the third quarter of 2024.  QAS audited 10,621 of the 24,006 stop reports 
+(44.2%) prepared in that 12-month period.  The table below shows the level of lawfulness assessed 
+by QAS of these encounters. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 9 of 29
+7 
+ 
+Table 1: QAS Assessment 
+  Stops Frisks Searches  
+Total Audited #Lawful %Lawful Total #Lawful %Lawful Total #Lawful %Lawful 
+4Q2023 4069 1893 1694 89% 1196 916 77% 1035 716 69% 
+1Q2024 6028 2645 2292 87% 1618 1113 69% 1489 944 63% 
+2Q2024 5862 2585 2307 89% 1545 1163 75% 1356 926 68% 
+3Q2024 6105 2705 2462 91% 1704 1254 74% 1490 1026 69%  
+22064 9828 8755 89% 6063 4446 74% 5370 3612 67% 
+ 
+The QAS assessment of  the NYPD on the lawfulness of these encounters was fairly 
+consistent.  Stop compliance range d from 87% to 91% with an average of 89%  overall.  Frisk 
+compliance ranged from 69% to 75% with an average of 71%, and search compliance ranged from 
+63% to 69% with an average of 66%.  After QAS completed its audit of a command’s stop reports, 
+the command was provided with a report of the auditor ’s findings and required to respond.  The 
+Monitor team reviewed these responses to evaluate the measures taken by the comm ands to 
+improve compliance. 
+The table below illustrates those command -level measures and indicates that there is 
+widespread leniency with respect to sanctions for unlawful stops, frisks, and searches. 
+Table 2:  Accountability for Unconstitutional Policing—4Q2023–3Q2024 
+ 
+Deficiency CRAFT CD  
+Stop Frisk Search Stop Frisk Search Stop Frisk Search 
+4Q2023 209 280 319 4 4 11 0 0 2 
+1Q2024 353 505 545 5 5 12 0 2 4 
+2Q2024 278 382 430 4 1 15 0 0 0 
+3Q2024 243 450 464 13 18 18 0 0 0 
+Sub-Total 1,083 1,617 1,758 26 28 56 0 2 6 
+Totals 
+  
+4,458 
+  
+110 
+  
+8 
+ 
+Over these four quarters, QAS identified 4,458 incidents of either an improper stop, frisk, 
+or search.  Other than training or instructions, which are not viewed by the NYPD as discipline, 
+the most common measure taken by any command in the NYPD across this 12-month period was 
+issuing a negative CRAFT report, which is the lowest form of sanction that a comma nd can take 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 10 of 29
+8 
+ 
+for misconduct.  A handful of officers were issued a CD, and no officers were issued Charges and 
+Specifications for unlawful stops, frisks, or searches.   
+Out of these 4,458 incidents, eight officers were given CDs and 110 officers were issued a 
+negative CRAFT in these incidents.  In the other 4,348 incidents (97.5%), the officer was either 
+instructed, given training, or the violation was not addressed  at all.  The command responses do 
+not report whether any of the CD’s resulted in a penalty of days or hours forfeited.  Essentially, 
+there was little to no accountability for unconstitutional policing related to the QAS audits. 
+The 46 Precinct is an example of lax accountability taken with regards to unlawful stops, 
+frisks, and searches.  The 46 Precinct is one of 78 precincts in the NYPD.  Although other precincts 
+had better responses to QAS audits, t he 46 Precinct is highlighted because it is among the more 
+active precincts.  The NYPD must closely monitor how precincts respond to unlawful stops, frisks, 
+and searches.  The table below illustrates the number of stops audited by QAS during the period 
+in question.  The data demonstrates low compliance rates of 78%, 57%, and 60% with respect to 
+stops, frisks, and searches, respectively, below the NYPD overall average.     
+Table 3: 46 Precinct—4Q2023–3Q2024 QAS Audit Results 
+ 
+Stops Frisks Searches  
+Total Audited #Lawful %Lawful Total #Lawful %Lawful Total #Lawful %Lawful 
+4Q2023 269 85 68 80% 76 48 63% 45 32 71% 
+1Q2024 233 77 53 69% 67 35 52% 41 22 54% 
+2Q2024 210 68 57 84% 61 38 62% 23 15 65% 
+3Q2024 287 99 77 78% 94 48 51% 48 25 52% 
+TOTAL 999 329 255 78% 298 169 57% 157 94 60% 
+ 
+With high volume and poor performance, the NYPD should be monitoring activity in the 
+46 Precinct very closely.  However, the command itself did little in the way of anything more than 
+instructions and training when unlawful conduct was reported by QAS.  The table below illustrates 
+the 46 Precinct’s response to the four QAS audits.  For each member , the table below reports the 
+number of times the officer was instructed for an unlawful stop, frisk, or search.  
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 11 of 29
+9 
+ 
+Table 4:  46 Precinct Stop Report Deficiencies Identified by QAS 4Q2023–3Q2024 
+  4Q2023 1Q2024 2Q2024 3Q2024 
+Rank Pseudonym 
+No. 
+Instruction or 
+Training 
+Instruction or 
+Training 
+Instruction or 
+Training 
+Instruction or 
+Training 
+PO 1 1 4 1 2 
+PO 2 5 5 1 4 
+PO 3 0 0 0 0 
+PO 4 1 0 0 0 
+PO 5 0 0 1 3 
+PO 6 0 0 0 0 
+PO 7 0 5 0 4 
+PO 8 2 4 3 5 
+PO 9 3 3 1 5 
+PO 10 0 0 3 5 
+PO 11 0 0 2 4 
+PO 12 0 0 0 0 
+PO 13 1 0 0 0 
+PO 14 0 2 1 6  
+Total 13 23 13 38 
+      
+Rank  Supervisor 
+Deficiencies 
+Supervisor 
+Deficiencies 
+Supervisor 
+Deficiencies 
+Supervisor 
+Deficiencies 
+SGT 1 0 1 1 6 
+SGT 2 8 1 6 6 
+SGT 3 0 0 0 13 
+SGT 4 3 8 8 0 
+ Total 11 10 15 25 
+ 
+Police Officer 8, for example, was instructed or referred for training 14 times in the 12 -
+month period.  The list indicates that regardless of the repeated recommendation for instruction 
+and training, the overall performance of the command did not improve.  In no circumst ances was 
+anything more severe than instructions or training reported in response to unlawful activity.   
+In addition, the table reports the number of times one of the unit supervisors was instructed 
+for failing to identify an unlawful action by a member of their team.  Sgt. 2, for example, was put 
+on notice by the precinct’s Integrity Control Officer 21 times for failing to identify unlawful 
+actions.  These numbers demonstrate that continued training and instruction is not the answer.   
+The NYPD needs to recognize that discipline and/or reassignment—both for officers and 
+supervisors—may be necessary to address poor performance.  It also needs to hold supervisors 
+accountable for identifying the unlawful actions of officers under the supervisor’s command. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 12 of 29
+10 
+ 
+III. Early Intervention Program 
+A. Background 
+In June 2020, the Court ordered the Department to develop an EIP.  The program’s goal is 
+for the NYPD to identify potential issues and at-risk behavior by officers, and to take action before 
+their misconduct escalates.   The Court ordered the NYPD to implement “a program for 
+systematically receiving and assessing information regarding adverse findings on the conduct of 
+police officers involving illegal stops or illegal trespass enforcements.”5  The Court set out several 
+thresholds that would trigger NYPD review, such as a court’s suppression decision in a case 
+involving an unlawful stop, frisk , or search, or the Law Department’s decision to deny 
+indemnification or representation of an officer in a case involving an unconstitutional stop. 6  The 
+Court ordered the Department to establish an EIC to review the record of officers who cross a 
+threshold and determine what intervention, if any, is appropriate.  An officer’s CO or other NYPD 
+units can also, in their discretion, refer an officer for EIC review.  
+The EIC first met in August 2020 and has convened regularly ever since.  The Monitor 
+team has observed each of the EIC meetings.  The EIC may choose from an array of interventions, 
+including training, mentoring, further review of the officer’s BWC videos, enhanced supervision, 
+change of assignment, and conferral with Bureau leadership .  The EIC may also decide that no 
+ 
+5 Early Intervention System Order, Floyd et al. v. City of New York, No. 1:08-cv-01034-A T (S.D.N.Y . June 2, 2020), 
+ECF No. 767, at 7-8.     
+6 The designated thresholds include: three or more declinations to prosecute in a 12-month period in certain specified 
+categories; a suppression decision in a case involving unlawful Terry stops, frisks, or searches, trespass enforcement, 
+racial profiling, or racial slurs; a court finding of non -credible testimony; a declination by the Law Department to 
+represent or indemnify the officer in a lawsuit alleging an unconstitutional stop, trespass enforcement, racial profiling, 
+or racial slur; a judgment or settlement in a lawsuit that names the officer and alleges an unconstitutional stop, an 
+unconstitutional trespass enforcement, racial profiling, or racial slurs, where evidence exists that th e police officer 
+violated an NYPD rule or regulation; and any Civilian Complaint Review Board (“CCRB”) complaint against the 
+officer involving racial profiling or a racial slur.   In addition to the Court’s order, a section of New York City’s 
+Administrative Code, NYC Administrative Code § 14 -190, added additional factors to be used as triggers for the 
+Department’s EIP. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 13 of 29
+11 
+ 
+intervention is necessary.  The EIC can also refer an officer for performance monitoring, for an 
+assessment with the Health and Wellness Section, to the Internal Affairs Bureau for potential 
+disciplinary action, or to a district attorney’s office for potential criminal investigation.  Other than 
+Health and Wellness referrals , the Monitor has not observed these types of referrals  in the EIC 
+meetings from 2020 through 2025.  
+Since 2022, the Monitor team has begun to do a deeper review on the effectiveness of the 
+EIP and provided recommendations to the Department  for improving the system .  The Monitor 
+team found that too often, the officer’s CO would recommend no intervention and would justify 
+the officer’s actions to the EIC because the officer was “an active cop ,” even though the officer 
+was an EIC candidate.  In addition, the Committee meetings were pro forma, with the PrSD 
+providing a minimal summary of over 20 officers and little to no participation by the Committee 
+members.  Because the EIP is not disciplinary, when intervention was directed, the interventions 
+were minimal, such as requiring more training, additional review of the officer’s BWC videos, or 
+command-level mentoring.  Also missing from the Department’s program was any effort to track 
+and review whether the interventions directed by the EIC resulted in any change in the officer ’s 
+behavior, so the Department was unable to evaluate the effectiveness of the EIP.      
+B. Audit Methodology 
+The Monitor team reviewed the officers assessed by the EIC in the third and fourth quarters 
+of 2023 and the first quarter of 2024.  The team identified eight officers from the third and fourth 
+quarters of 2023 and ten officers from the first quarter of 2024 who met EIC thresholds relating to 
+improper stop and frisk practices .  Thresholds for inclusion in this audit included recent Civilian 
+Complaint Review Board (“CCRB”) complaints for improper stops, frisks,  or searches;7 internal 
+ 
+7 CCRB complaints may have not been fully adjudicated at the time the officer is reviewed by EIP. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 14 of 29
+12 
+ 
+investigations for similar actions; or a prosecutor’s decision to decline to prosecute a case due to 
+a constitutional violation related to a stop and frisk incident.  The interventions directed by the EIC 
+included the following: stop and frisk training (12 officers); command-level mentoring (6 officers); 
+enhanced BWC review (4 officers); supervisory guidance (3 officers), adverse credibility training 
+(2 officers); BWC reinstruction  (2 officers); Borough interview (2 officers);  and tactical 
+communications training (1 officer).8  For four officers, no interventions were directed by the EIC.    
+For the eight officers who were reviewed by the EIC in the third and fourth quarters of 
+2023, a Monitor team member reviewed 628 BWC videos recorded by those officers for the 
+months of January, February, and March 2024 .  For the ten officers reviewed by the EIC in the 
+first quarter of 2024, a member of the Monitor team reviewed 868 BWC videos recorded by those 
+officers in May 2024.   The audit focused on any potential stop of a member of the public and 
+whether the encounter was documented with a stop report if needed, categorized appropriately  in 
+the BWC database, and whether the actions by the officer comp lied with the Fourth Amendment 
+and New York State law.9  The Monitor team also reviewed stop reports and ICAD printouts10 for 
+encounters that appeared to be Terry stops.      
+C. Monitor Team Observations 
+1. Recommended Interventions 
+For the officers in the Monitor’s audit, the interventions recommended by the PrSD and 
+those by a subject officer’s CO were not always aligned.  One officer, included in the third quarter 
+2023 EIC was placed in EIP due to an adverse credibility finding.  In 2023, he received two CCRB 
+ 
+8 The NYPD uses tactical communication training  to teach officers how to de -escalate tense situations and 
+communicate effectively during critical incidents. 
+9 People v. DeBour, 40 N.Y .2d 210 (1976). 
+10 ICAD (Intergraph Computer Aided Dispatch) is the computer-aided dispatch system used by the NPYD to help call 
+takers and dispatchers communicate with the public and the NYPD. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 15 of 29
+13 
+ 
+complaints, one alleging improper search of a vehicle and frisk  of the occupant , and the second 
+alleging an improper frisk.  His CO recommended no intervention, while PrSD recommended and 
+the EIC directed the following: 
+• BWC reinstruction by the Integrity Control Officer (“ICO”) 
+• Enhanced BWC review 
+• Tactical communication training 
+• Stop, Question, and Frisk (“SQF”) refresher training 
+• Supervisory guidance 
+• Borough Adjutant interview 
+• Adverse credibility finding training 
+This represents a significant disconnect in how the officer is perceived by his command 
+compared to PrSD.  The officer completed the NST two-day refresher training in October 2023, 
+SQF Module 5 refresher video (DeBour Levels 3 and 4) in November 2023, and the SQF Module 
+6 refresher video (Investigative Encounters summary) in January 2024.  Despite this training, the 
+Monitor’s audit found five encounters between January and March 2024, post refresher training, 
+that required stop reports, and none were prepared. 
+Another officer, identified in the  first quarter 2024 EIC, received nine CCRB complaints 
+in 2023, five of which  involved stops, frisks, and/or searches .  The officer was involved in ten 
+encounters where a stop report should have been prepared but was not.  However, neither the CO 
+nor PrSD recommended any interventions, and no intervention was directed by the EIC —a clear 
+failure of corrective action. 
+In multiple cases, COs provided no recommendations for intervention.  When COs did 
+make recommendations , they had little structured follow -up process es in place, at  least not 
+observed by the Monitor team.  For example, when a 30-day BWC review was recommended, there 
+was no requirement that an after-action report be submitted to PrSD indicating who reviewed the 
+videos, how they were selected, or what the review concluded. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 16 of 29
+14 
+ 
+2. Stop Reports 
+Of the 628 BWC videos reviewed for the eight officers from the third and fourth quarter 
+2023 EIC, 55 videos recorded encounters that appeared to be Terry stops.  Of the 55 encounters, 
+only 24 had stop reports prepared.  Thirty-one encounters were flagged to the NYPD as  possibly 
+requiring a stop report.  Of those 31, the NYPD agreed that 18 should have had a stop report 
+prepared, but did not .  Thus, of the 42  stops (24 + 18) that should have had a stop report, at 
+minimum 18 did not (43%). 
+Of the 868 BWC videos reviewed for the ten officers from the first quarter of 2024,  79 
+videos were of encounters that  appeared to have required a stop report.   Seventeen stop reports 
+were prepared for these encounters.  Sixty-two encounters were flagged to the NYPD as possibly 
+requiring a stop report.  Of those 62, the NYPD agreed that in 26 of those encounters, a stop report 
+should have been prepared but was not.  Thus, out of 43 (26 + 17) stops, only 17 had stop reports, 
+leaving a staggering 60.5% of stops missing reports. 
+3. BWC Categorization and Improper Frisks and Searches 
+The audit  also revealed that multiple officers may be unclear about how to properly 
+categorize their BWC videos.  One officer repeatedly categorized his videos as “Investigative 
+Encounters” even when  there was no interaction with a member of the public.  Another officer 
+categorized car stops as Level 1 Investigative Encounters instead of using the category “car stop.” 
+The Monitor’s review of stop reports showed that some officers used boilerplate language 
+to justify stops, but the actions observed in the BWC videos did not match the narratives.  Other 
+encounters involved improper frisks, either because the officer began the frisk before or while asking 
+for consent, or because the officer did not have reasonable suspicion that the person frisked was armed 
+and dangerous.   
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 17 of 29
+15 
+ 
+Several officers activated their BWC late or deactivated it too early.  Complete recording 
+of encounters is necessary for effective review of the circumstances of the stop by the Department 
+and the Monitor.  Supervisors on scene during Level 3 encounters often failed to ensure that a stop 
+report was prepared.  In addition, officers frequently asked for consent to search in encounters where 
+there was nothing apparent in the BWC footage (observed or heard) that provided founded 
+suspicion to support the request .  The Monitor team rarely observed  officers asking for “consent 
+to search” in compliance with the Right to Know Law.11 
+Overall, the required  interventions did not impact officer behavior and thus were  not 
+effective in addressing several concerns regarding Fourth Amendment compliance, stop report 
+documentation and BWC usage.  A more intensive Department approach is necessary to realize 
+meaningful change.  
+D. 2025 EIP Improvements 
+Beginning in May 2025, the NYPD introduced changes to various aspects of EIP, including 
+candidate identification, command engagement, data collection and analysis, meeting format, and 
+program administration.  The most significant changes are that the EIC will be meeting monthly 
+and will focus on a much smaller set of officers (between five and ten).  In addition, the EIP will 
+focus on supervisory responsibility.  The EIC will be considering whether there have been gaps in 
+supervision; for example, whether multiple officers have the same immediate supervisor  leading 
+to inadequate oversight.  In addition, the intervention plan for a subject officer will  now include 
+assigning a particular supervisor to be responsible for that officer during the intervention period.  
+The EIC will also collect data and report during a six-month look-back period, to assess whether 
+ 
+11 The Right to Know law requires that officers, when asking for consent to search, explain that searches will not be 
+conducted if a person does not provide consent to the search.  N.Y .C.C. §§ 14-173–74. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 18 of 29
+16 
+ 
+the intervention was successful.  These are all positive changes that will hopefully result in a more 
+effective program that increases accountability.   
+Even so, the EIP needs to have a strategic approach in addressing issues at the command 
+level.  The EIP approach is narrowly focused on individual officers, triggering events, and 
+remedies directed at the officer.  The recent EIP revisions call for looking at supervisors too, and 
+loosely assigns responsibility for the intervention, but the problematic behavior could also be a 
+function of the command.  COs need to take ownership of not just individual officer behavior, but 
+the command environment that foster ed problematic behavior in the first place.  When precinct 
+commanders present to the EIC, they should address not only the individual officer and the 
+intervention, but what is being done to prevent other officers from engaging in other triggering 
+events.  In addition, as the Monitor has previously noted for the NY PD, the Department should 
+track the results of EIP interventions and conduct an evaluation of the program.  
+The Monitor will continue to audit the program to evaluate whether th ese improvements 
+have been implemented and have impacted officer behavior.    
+IV. ComplianceStat   
+In January 2024, the NYPD implemented a new procedure to assess compliance, modeled 
+after the NYPD’s CompStat meetings,  that the Department calls “ComplianceStat.”  These 
+meetings are chaired by Chief of Department John Chell and Assistant Chief John Cosgrove, C O 
+of the Professional Standards Bureau , supported by a “panel” of other Department executives .  
+ComplianceStat meetings emphasize the need for a process at the borough and command levels to 
+review several compliance metrics, including Terry stops and BWC recordings of those stops  to 
+“detect and correct” deficiencies.  For example, to identify undocumented Terry stops, the Patrol 
+Services Bureau (or relevant Bureau) conducts an audit of a sample of BWC videos.  When a BWC 
+video suggests that a Terry stop occurred, the relevant database is queried to see if a stop report 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 19 of 29
+17 
+ 
+was prepared.  Deficiencies found in the audit are shared with the Patrol Borough and precinct 
+commanders prior to the ComplianceStat meeting.  Precinct commanders and their command staffs 
+are expected to explain deficiencies identified in the Bureau-level audit at the meeting.    
+To highlight the Monitor’s concern about the lack of accountability at the command and 
+borough levels, the Monitor tracked the performance of PBBS and the corrective actions taken to 
+address the deficiencies identified in the Patrol Bureau ’s audits.  PBBS was required to undergo 
+ComplianceStat scrutiny three times within a four -month period due to continued poor 
+performance. 
+A. Multiple PBBS Appearances 
+On December 4, 2024, PBBS attended a ComplianceStat meeting covering the period 
+September 30, 2024, through October 27, 2024.  The Patrol Services Bureau audited a sample of 
+200 BWC videos recorded by PBBS commands during the ComplianceStat period and identified 
+poor performance across several indicators.  Among other deficiencies, there were twenty-three 
+encounters (12%) where Patrol Services identified that a stop report or a Consent to Search may 
+have been required.  Of the 23 encounters, seven involved instances where a Terry stop occurred 
+and a stop report had not been prepared contemporaneous to the stop.  All of the officers involved 
+in the undocumented stops were assigned to PST or NST , and one was related to a  Special 
+Operations Lieutenant overseeing one of these units.  The table below lists the command level 
+actions taken in response to the seven undocumented stops. 
+  
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 20 of 29
+18 
+ 
+Table 5:  PBBS Undocumented Stops—First Appearance 
+MOS Command Incident Date Corrective Action 
+Sgt 1 69 - PST 10/2/24 Instruction, retraining and reassigned 
+PO 1 71 - NST 10/3/24 Instruction 
+Lt 1 69 - SOL 10/11/24 Instruction 
+Lt 1/Sgt 1 69 - PST 10/11/24 Instruction, retraining and reassigned 
+for Sgt 1; silent for Lt 1 
+Sgt 1  69 - PST 10/12/24 Instruction, retraining and reassigned 
+PO 2  69 - NST 10/16/24 Instruction 
+Sgt 2 69 - NST 10/19/24 Instruction 
+ 
+Instruction and retraining were the command response s to these deficiencies.  In one 
+instance, a member was removed from their special team assignment.  Due to poor performance 
+indicators across several commands, PBBS was recalled to Complianc eStat on January 28, 2025, 
+to report on  the period of December 9, 2024 through January 5, 2025.  Questions from the 
+Department executive panel centered on several poor performance indicators of the precincts and 
+the weak oversight provided by the borough.  It was noted that PBBS performance indicators were 
+worse in January 2025 than they were in December 2024.   
+Prior to the January session, the Patrol Services Bureau conducted an audit of 180 BWC 
+videos from PBBS commands recording during the ComplianceStat period and identified poor 
+performance across several indicators.  Seventeen investigative encounters (9%) were identified 
+that may have required a stop report or Consent to Search form  as required.  Of the 17, the audit 
+identified six encounters involving eleven individuals in which a Terry stop occurred; a stop report 
+had not been prepared for eight of the 11 individuals stopped.  The chart below lists the command 
+level actions taken for the six investigative encounters accounting for the eight undocumented 
+stops. 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 21 of 29
+19 
+ 
+Table 6:  PBBS Undocumented Stops—Second Appearance 
+MOS Command Incident date Corrective Action 
+PO 3 71 - PST 12/16/24 Instruction 
+POs 4, 5  67 - PST 12/18/24 Instruction 
+PO 6 71 - NST 1/1/25 Negative CRAFT 
+PO 7 186 1/1/25 Training 
+Sgt 3, PO 8 67 - NST 1/2/25 Not Noted 
+Sgt 1 69 - Special 
+Projects 
+1/2/25 Negative CRAFT 
+ 
+Again, instruction was the action most often taken, followed by retraining.  Sgt 1 had been 
+removed from his role as a PST supervisor, in part for several undocumented Terry stops.  
+Notwithstanding his removal as a PST supervisor, he continued to work with his former PST.  The 
+Patrol Bureau audit revealed that 87 of Sgt 1’s 91 BWC activations during the ComplianceStat 
+period were with members of his former PST unit.  The command level corrective action taken for 
+Sgt 1’s undocumented stops was a negative CRAFT and reassignment.  However, the action taken 
+to correct the supervisor’s deficient practices did not have the desired impact on his behavior.   
+The command and borough level performance as it related to supervision and 
+accountability was also poor.  Undocumented Terry stops were rarely identified and corrected at 
+the command and borough levels during the first two ComplianceStat periods.  PBBS also 
+struggled in several other performance areas , including late activations of officers’ BWCs .  As a 
+result, PBBS was recalled again for ComplianceStat on March 5, 2025, covering the period January 
+27, 2025 through February 23, 2025.  Prior to the meeting, the Patrol Services Bureau conducted 
+a review of 175 BWC videos recorded by PBBS commands during the ComplianceStat period to 
+identify instances where an officer failed to prepare a stop report and/or Consent to Search form.  
+The audit identified two encounters (1%) that may have required a stop report or Consent to Search 
+form, which were not completed.   
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 22 of 29
+20 
+ 
+The improvements achieved in this performance area for the third ComplianceStat period 
+resulted from an intensive effort undertaken at the command and borough levels to identify and 
+correct deficiencies, including investigative encounters which were Terry stops and for which stop 
+reports were not prepared contemporaneous to the investigative encounter.  This effort included a 
+documented borough compliance plan with  multiple, layered requirements. Among the 
+requirements are completion of  a weekly oversight r eport, assignment of BWC video review to 
+multiple supervisors, identification of corrective actions in response to deficiencies, and follow -
+up to determine if the corrective actions were undertaken.  The plan requires compliance team 
+review of all stop reports, Consent to Search Reports, Use of Force forms, and Vehicle Stop 
+Reports to identify underreporting of stops.  The borough’s plan also mandates that violators will 
+be brought to the attention of the borough commander. 
+Prior to the January 2025 ComplianceStat meeting, the PBBS compliance team consisted 
+of one sergeant overseeing thirteen commands.  After that meeting, the borough compliance team 
+was staffed with additional members.  The borough compliance plan resulted in an extraordinar y 
+amount of BWC reviews at both the command and borough levels .  During the period reviewed 
+for their third appearance at ComplianceStat, the borough command reviewed 1,091 BWC videos, 
+a significant increase over the prior period .  As a result of these efforts, 105 investigative 
+encounters were identified (52 by command-level reviews and 53 by borough-level reviews) in 
+which a stop report should have been prepared but was not prepared contemporaneous with the 
+investigative encounter.  
+The corrective actions taken to address these deficiencies included instruction, retraining, 
+negative CRAFT entries and for members with repeated failings, command discipline and removal 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 23 of 29
+21 
+ 
+from assignment .  In one command , the precinct commander, ICO, and Special Operations 
+Lieutenant were removed, and in another command, the NST team was disbanded.  
+B. Recent ComplianceStat Meetings 
+On June 10, 2025, PBMN attended a ComplianceStat meeting covering the period April 
+28, 2025, through May 25, 202 5.  Prior to the meeting , the Patrol Services Bureau conducted a 
+review of 210 BWC videos recorded by PB MN commands during the ComplianceStat period to 
+identify instances where an officer failed to prepare a stop report and/or Consent to Search form.  
+The audit identified eight encounters that may have required a stop report or Consent to Search 
+form, which were not completed.   
+The Department Chief of Patrol and other panel members expressed continued concerns 
+about failure by lieutenants and sergeants  to supervise  at the command level.  Department 
+leadership emphasized that the CRT needs to improve , not just in PBMN, but citywide , with 
+training or retraining not being a sufficient means to correct ongoing behavior.  The Department 
+leadership also pointed to continued problems with underreporting and the command’s failure to 
+identify and properly categorize Terry stops, instead categorizing them as Level 2 investigative 
+encounters.  Several p recinct commanders were unable to answer basi c questions about their 
+specialized teams’ activities in their commands.  The Chief of Department noted that BWC 
+activations across several commands were down compared to the prior ComplianceStat period. 
+One precinct executive officer was asked to explain how there can be 686 BWC activations yet 
+only one reported stop.  Th at precinct executive officer stated they watched 17 BWC videos of 
+specialized team members during the period but could not recall any deficiencies.  Generally, the 
+precinct commanders found few deficiencies after reviewing BWC videos of their specialized team 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 24 of 29
+22 
+ 
+members.  It appeared that the some of the precinct executives presenting at ComplianceStat did 
+not have a firm grasp on the performance data of their commands.  
+In contrast with some commanders who were unprepared for the rigors of ComplianceStat, 
+the Monitor’s team observed one CO who was quite knowledgeable of his command’s operations, 
+performance data, and compliance concerns.  He was queried about the number of Terry stops 
+conducted by the command’s specialized units during the compliance period.  Given the historical 
+level of violence in that precinct, the commander was asked if the number of Terry stops recorded 
+for the period made sense.  In short, Department executives were probing underreporting.  The 
+commander responded by articulating a focused approach to reducing crime and violence that did 
+not rely heavily on self-initiated investigative encounters.  It was clear from the exchanges between 
+the precinct commander and Department executives that this commander knew the precinct, its 
+compliance concerns, and had a plan to address them.   
+During the ComplianceStat meeting, individual cases were reviewed, including two cases 
+from one command involving the same SOL.  The first one inv olved a Terry stop at less than 
+reasonable suspicion and a search of that individual that was not recorded on the stop report o r 
+identified at the command level  as improper .  When questioned, the precinct commander  
+acknowledged that he had not viewed the BWC prior to attending the meeting.  The second case 
+was a PST Terry stop of an individual who was ordered to “come here” and subsequently ordered 
+to show the officer what was in his hand.  This was not documented and the SOL was on the scene 
+with the officers.  The SOL was not at the meeting, but the precinct commander advised that the 
+SOL had received a negative CRAFT.  The Chief of Department was appalled at the  inability of 
+precinct and borough executives to recognize the insufficiency of a CRAFT entry as a sanction in 
+these circumstances or to otherwise hold people accountable.   
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 25 of 29
+23 
+ 
+On July 9, 2025, PBBN attended a  ComplianceStat meeting for the period May 26, 2025  
+through June 22, 2025.   Prior to the meeting, the Patrol Services Bureau conducted a review of 
+263 BWC videos recorded by PBBN commands during the ComplianceStat period to identify 
+instances where an officer failed to prepare a stop report and/or Consent to Search form.  The audit 
+identified 23 encounters that may have required a Stop Report or Consent to Search form, which 
+were not completed.  This ComplianceStat session focused equally on the borough’s oversight and 
+compliance efforts regarding its ten precincts and the precinct s’ command staff oversight and 
+compliance efforts with respect to its officers.  While the borough identified deficiencies through 
+audits, the Borough Adjutant who was responsible for compliance oversight was unable to identify 
+either actions taken to address the deficiencies or outcomes.  For example, Department executives 
+at the meeting noted that as part of a first quarter 2025 audit of NST, one officer was identified as 
+requesting consent searches without having a legal basis for doing so.   That officer was sent to 
+retraining in May 2025.  The borough command was unable to report on whether the training was 
+effective.  In fact, the same officer was identified in a June 2025 audit asking for a consent search 
+without a legal basis for doing so.  
+Of the six borough supervisors tasked with oversight of the borough’s PST, none had 
+reviewed BWC videos from the PST sergeant and only two of the six had reviewed BWC videos 
+from the PST police officers.  The borough PST had no Terry stops reported, which the Department 
+executives found not credible.  In response, Department leadership directed that the borough PST 
+be disbanded immediately  and the officers returned to patrol .  This action underscored the 
+importance of supervisory accountability and the necessity of improvements to compliance.  The 
+panel also discussed supervisory reviews of BWC videos of precinct specialized team officers and 
+their supervisors.  The benchmark for each command is to review 33% of the team ’s BWC 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 26 of 29
+24 
+ 
+activations.  Several commands did not meet this threshold and could not explain why.  Supervisors 
+unable to explain their low number of BWC video reviews, notwithstanding direction to improve 
+following the previous ComplianceStat meeting, were removed.  
+The panel examined three cases in one precinct involving the same PST member, a 
+probationary officer who appeared to be making Terry stops without reasonable suspicion and also 
+had incidents of late BWC activation.  The officer had amassed 19 flags including four closed and 
+seven pending CCRB cases.   The CO was not aware of the number of CCRB complaints the 
+probationary officer accumulated, and the borough had not conducted a weekly CCRB inquiry, as 
+required to identify officers with three or more CCRBs lodged against them in the previous 12 
+months.  This officer should have been flagged for intervention. 
+Due to ineffective oversight at the borough and command levels , Department leadership 
+directed several personnel actions based on inattention and ineffective compliance oversight at the 
+borough and command levels , including disbanding the borough PST, relieving a Borough 
+Adjutant responsible for overseeing compliance of those duties, and reassigning officers and 
+executives at the command level.   These personnel actions send a clear message that there are 
+consequences for failed accountability.   Commands need to be fully prepared to explain 
+deficiencies at ComplianceStat meetings, and more importantly, to address these deficiencies in 
+advance.   
+V. Conclusion 
+Demonstrated commitment by the NYPD to enhanced supervisor accountability at all 
+levels of the organization is critical to ensuring the lawfulness of stops, frisks, and searches.  Recent 
+actions suggest the Department is seeking to move in the right direction.  The NYPD informed the 
+Monitor that it will begin to examine how commands respond to QAS audits so that officers with 
+repeat deficiencies are not simply given the same training or instructions.   While this is a n 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 27 of 29
+25 
+ 
+important first step, the NYPD has not yet implemented this change, including ways to  hold the 
+supervisors themselves directly responsible for failure to supervise.   
+The NYPD also acknowledged the concerns raised by the Monitor regarding the 
+effectiveness of the EIP and is implementing a set of new procedures to focus on the more 
+problematic officers and on supervisory responsibility.  With respect to ComplianceStat, each 
+patrol borough now has a compliance team in place and the Department is tracking and reporting 
+the findings of those units.  In addition, the NYPD is updating the Command Discipline database 
+to fully digitalize the Command Discipline system to allow for better tracking of discipline related 
+to improper stops, frisks, or searches issued at the command and borough level.  
+One source of improvement is the pivot towards substantive discipline for repeated 
+unconstitutional practices as outlined in the Police Commissioner’s memorandum (#2025-01-20) 
+issued on February 5, 2025, titled “Discipline in Connection with Level 3 Stop s.”  This 
+memorandum addresse d the lack of discipline imposed on officers who repeatedly engage in 
+unconstitutional practices as it relates to Terry stops.  The memorandum state d that the NYPD  
+“cannot allow officers to repeatedly make the same errors without consequence, and we cannot 
+allow reckless or deliberate misconduct.”  It further noted that the NYPD’s  “failure to impose 
+proper discipline for repeated or intentional violations of law and policy in connection with Level 
+3 stops undermines the integrity of our disciplinary system and puts the long -term independence 
+of that system at significant risk.  That failure ends with this memo.”  The actions being taken by 
+the NYPD to improve accountability are necessary to achieve compliance.  Training and policies 
+are not enough if they are not implemented.  Officers and supervisors must be held accountable 
+for failures to comply with the law.  Going forward, the Monitor team will issue regular reports on 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 28 of 29
+26 
+ 
+accountability, a cornerstone to improving NYPD compliance rates and ensuring the lawfulness of 
+stops, frisks, and searches.    
+ 
+Case 1:08-cv-01034-AT     Document 969-1     Filed 10/14/25     Page 29 of 29

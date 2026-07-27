@@ -1,0 +1,69 @@
+{
+  "id": "audit-report-of-the-new-york-city-department-of-educations-oversight-of-its-contracted-bus-services",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report of the New York City Department of Education’s Oversight of Its Contracted Bus Services",
+  "plain_title": "Schools barely police the companies running their buses",
+  "agency": "New York City Department of Education",
+  "issued": "2025-12-17",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-of-the-new-york-city-department-of-educations-oversight-of-its-contracted-bus-services/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/FM25PAR20002.pdf",
+  "what_they_audited": "Whether the Department of Education (DOE) has proper operational controls over its contracted school bus vendors to ensure that bus service is adequately provided to New York City schoolchildren and complies with laws, regulations and contract requirements.",
+  "background": "DOE's Office of Pupil Transportation coordinates busing for public, charter and nonpublic schools. In school year 2023-24 it bused about 68,742 students on stop-to-school routes and about 56,446 students on curb-to-school routes for students with disabilities, with $1.7 billion of DOE's budget dedicated to transportation.",
+  "findings": [
+    {
+      "plain": "DOE does not adequately oversee its school bus vendors or hold them accountable for poor performance. Despite having global positioning system (GPS) and complaint data, it does not proactively use it to enforce contract terms, spot problem vendors or routes or improve service.",
+      "quote": "DOE does not proactively or systematically use readily available global positioning system (GPS) or complaint data to oversee school bus vendors, enforce contract terms, identify trends and problematic vendors or routes, or improve performance."
+    },
+    {
+      "plain": "Complaints to the Office of Pupil Transportation rose nearly 82% in three years, from 84,849 in school year 2021-22 to 154,376 in 2023-24, yet DOE did not analyze the data or require any vendor to adopt a corrective action plan.",
+      "quote": "The number of complaints reported to OPT increased by nearly 82% over the three-year period between 2021 and 2024."
+    },
+    {
+      "plain": "Special education students were disproportionately hurt. Curb-to-school routes serving students with individualized education programs averaged 11.5 delays per route versus 5.6 for general education routes, accounted for 99% of \"problem run\" delays and had far more delays over an hour.",
+      "quote": "students with IEPs were disproportionately impacted by unreliable bus service."
+    },
+    {
+      "plain": "On the 10 routes with the most no-show and late-service complaints, all serving students with disabilities, DOE staff generally closed complaints after talking to vendors instead of checking GPS data, and route changes did not fix the problems. After modifications, buses still ran four minutes to 2 hours and 20 minutes late.",
+      "quote": "After modifications, delays ranged from four minutes to 2 hours and 20 minutes."
+    },
+    {
+      "plain": "DOE did not ensure practice \"dry runs\" happened before the first day of school. Nineteen vendors failed to comply, one skipped dry runs on all 24 of its routes, and DOE waived at least an estimated $268,691 in liquidated damages it could have assessed.",
+      "quote": "For SY2023–24, the audit team estimated that, at minimum, DOE failed to assess liquidated damages of $268,691."
+    },
+    {
+      "plain": "Drivers often failed to log in so parents could track buses, and DOE collected penalties in only 5.5% of 200,556 violations, leaving almost $42.6 million in damages unassessed. Roughly 11,209 pre-K students rode buses without real-time tracking devices.",
+      "quote": "This means that DOE was entitled to assess almost $42.6 million in damages but failed to do so."
+    },
+    {
+      "plain": "DOE did not hold Via Transportation, whose contracts total $51.7 million, accountable for delivering route optimization and student boarding-tracking technology that was due in December 2021 and still has not been implemented. DOE meanwhile creates special education routes with an unsupported legacy system built in 1994.",
+      "quote": "This technology was expected to be implemented in December 2021 but to date, this has not happened."
+    }
+  ],
+  "numbers": [
+    {"value": "154,376", "label": "Bus service complaints in school year 2023-24"},
+    {"value": "82%", "label": "Three-year rise in complaints to pupil transportation office"},
+    {"value": "11.5", "label": "Average delays per special education route, versus 5.6"},
+    {"value": "$42.6 million", "label": "Driver log-in penalties DOE could have assessed but did not"},
+    {"value": "$51.7 million", "label": "Combined value of Via Transportation's technology contracts"},
+    {"value": "$1.7 billion", "label": "DOE transportation budget in school year 2023-24"}
+  ],
+  "recommendations": [
+    "Assign contract managers to vendor contracts to routinely review complaint and delay data, identify problem routes and vendors, require corrective action plans and assess damages when vendors do not improve.",
+    "Review and use prior complaints as part of investigations to identify trends in vendors' poor performance.",
+    "Consistently maintain the vehicle numbers serving each route and use them to run a GPS review for every no-show or late-service complaint.",
+    "Routinely compare planned route start and end times to actual times to check compliance with contracts and individualized education programs, issuing violations and penalties as appropriate.",
+    "Consider enhanced minimum performance standards in new bus contracts, including monthly metrics for on-time performance and ride times, a tiered penalty scale, GPS-based liquidated damages and taking routes away from the poorest performers.",
+    "Collect curb-to-school route information, including pick-up and drop-off times, from vendors at the start of each school year rather than relying on vendors to keep it.",
+    "Fully enforce bus contracts and assess penalties when GPS devices are not operational while buses are in service.",
+    "Ensure DOE recovers any money paid to Via Transportation for required work that was not performed.",
+    "Establish comprehensive policies and procedures for reviewing complaints, including required supervisory review before complaints are resolved.",
+    "Provide vendors with reports comparing planned and actual route times, discuss them and document the discussions.",
+    "Formally document and keep records of all performance discussions with vendors.",
+    "Formally document amendments to Via Transportation's delivery dates and work plan and submit the amendment for registration."
+  ],
+  "agency_response": "DOE agreed with eight recommendations and partially agreed with two. It did not explicitly agree or disagree with the remaining two, saying it would take them under advisement. DOE said improving bus service is a top priority and it is shifting from a reactive to a proactive approach.",
+  "implementation_note": "",
+  "topics": ["education", "transportation", "money and contracts"],
+  "is_followup": false
+}

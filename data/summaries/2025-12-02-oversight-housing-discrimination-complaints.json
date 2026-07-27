@@ -1,0 +1,64 @@
+{
+ "id": "2025-12-02-oversight-housing-discrimination-complaints",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Oversight of Housing Discrimination Complaints",
+ "plain_title": "How the human rights agency handles housing bias complaints",
+ "agency": "New York City Commission on Human Rights",
+ "issued": "2025-12-02",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/12/02/oversight-housing-discrimination-complaints",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n3.pdf",
+ "what_they_audited": "Whether the New York City Commission on Human Rights reviewed and addressed housing discrimination complaints on time and in line with its own policies and the law. The audit covered July 2019 through March 2025.",
+ "background": "The commission enforces the New York City Human Rights Law, which bans housing discrimination based on race, source of income, disability and other protected classes. From July 2019 through July 2024 it received 51,702 housing discrimination inquiries, of which 474 had been filed as formal complaints as of July 31, 2024.",
+ "findings": [
+  {
+   "plain": "The commission does not adequately monitor how housing discrimination inquiries and complaints are handled and has no benchmarks for timeliness. In a sample of 29 cases, determinations came more than 2 years on average after complaints were filed, and where submission dates were documented, decisions took over 3 years on average, with one case lingering more than 7 years.",
+   "quote": "for the 18 inquiries where the submission date was documented, decisions took over 3 years on average—including one that lingered for more than 7 years."
+  },
+  {
+   "plain": "Staff often failed to respond to people alleging discrimination within the expected 14 days. In 12 of 25 sampled inquiries with dates recorded, the first contact attempt came about 39 days after the commission was contacted, and in one case not until 165 days later.",
+   "quote": "they did not contact the inquirer until approximately 39 days after CCHR was contacted."
+  },
+  {
+   "plain": "The commission has no policy requiring timely intake appointments. Where appointment dates were documented, intake took almost 3 months on average from submission, and in one instance almost 9 months.",
+   "quote": "LEB staff did not conduct an intake appointment for these inquiries until, on average, almost 3 months (84 days) from the day the inquiries were submitted."
+  },
+  {
+   "plain": "Guidelines say attorneys should draft a complaint within 14 days of the intake appointment, but officials did not monitor this. For the six sampled cases with dates recorded, drafts took nearly 4 months on average, and one attorney took more than 11 months.",
+   "quote": "on average, attorneys took nearly 4 months (115 days) to submit a draft complaint to their supervisor."
+  },
+  {
+   "plain": "When an assigned attorney left or was removed from a case, the commission was slow to assign a new one, taking over 11 months on average for five of 36 sampled complaints and over 2 years in one case.",
+   "quote": "it took CCHR over 11 months (348 days) to reassign a new attorney to five of 36 sampled complaints."
+  },
+  {
+   "plain": "The commission did not ensure staff documented and kept evidence that sampled housing discrimination cases were being supervised.",
+   "quote": "CCHR did not ensure its staff documented and maintained evidence of case supervision for sampled housing discrimination complaints."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "51,702",
+   "label": "Housing discrimination inquiries received over five years"
+  },
+  {
+   "value": "474",
+   "label": "Inquiries filed as formal complaints as of July 31, 2024"
+  },
+  {
+   "value": "812 days",
+   "label": "Longest wait to reassign an attorney to an open case"
+  }
+ ],
+ "recommendations": [
+  "Develop policies and procedures to reduce delays in processing housing discrimination complaints, including setting time frames for each step of intake, filing and investigation, monitoring dates in the case management system, analyzing its data and assessing resources to find bottlenecks, and strengthening policies and monitoring compliance.",
+  "Establish a procedure that prioritizes attorney reassignments to minimize disruption to investigations.",
+  "Make sure staff use available tools for thorough case management, including documenting evidence of case supervision and recording all intake and investigation activities and essential documents in the case management system."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "housing"
+ ],
+ "is_followup": false
+}

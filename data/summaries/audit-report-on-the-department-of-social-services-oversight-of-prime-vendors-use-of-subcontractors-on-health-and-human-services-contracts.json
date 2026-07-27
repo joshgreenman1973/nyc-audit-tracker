@@ -1,0 +1,63 @@
+{
+  "id": "audit-report-on-the-department-of-social-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the Department of Social Services’ Oversight of Prime Vendors’ Use of Subcontractors on Health and Human Services Contracts",
+  "plain_title": "Poor tracking of subcontractors on social services contracts",
+  "agency": "New York City Department of Social Services",
+  "issued": "2025-09-25",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-department-of-social-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/FY24-Annual-Report-on-MWBE-Procurement.pdf",
+  "what_they_audited": "Whether the Department of Social Services (DSS), which oversees the Human Resources Administration (HRA) and the Department of Homeless Services (DHS), properly oversees the subcontractors its prime contractors hire on health and human services contracts, to reduce the risk of fraud, misuse and waste of city funds.",
+  "background": "DSS is the umbrella agency for HRA, which serves over three million low-income New Yorkers through public benefit programs, and DHS, which runs the shelter system. Prime vendors on these contracts sometimes hire subcontractors, and this audit is one of a series covering five health and human services agencies prompted by a 2021 Department of Investigation report on corruption vulnerabilities in nonprofit human services contracts.",
+  "findings": [
+    {
+      "plain": "Neither HRA nor DHS made sure prime vendors recorded their subcontractors in the Payee Information Portal (PIP) on time. Recording delays ran 67 to 471 days for HRA and 34 to 305 days for DHS, and many approvals were still pending as of August 2024, with the approvals that did happen taking as long as 583 days.",
+      "quote": "For HRA, delays in the recording of the subcontractors in PIP from the sub-agreement start date ranged from 67 to 471 days."
+    },
+    {
+      "plain": "Payments to subcontractors mostly went unrecorded in city systems. For sampled HRA contracts, only $1.4 million of $9.8 million in subcontractor payments showed up in HHS Accelerator, and DHS primes failed to record $2.4 million in payments in any system.",
+      "quote": "just $1.4 million of $9.8 million in total payments made to subcontractors were reported in HHS Accelerator (no payments were recorded in PIP)"
+    },
+    {
+      "plain": "Neither agency makes sure subcontractors get paid on time. On sampled DHS contracts, 63 of 327 invoices were paid late, and on sampled HRA contracts, 41 of 101 invoices totaling $2.4 million were paid 33 to 165 days after the invoice date.",
+      "quote": "41 of the 101 sampled invoices—in total, $2.4 million of approximately $8 million—were paid late"
+    },
+    {
+      "plain": "On HRA contracts, prime vendors paid $1,683,863 to six subcontractors the agency never approved, including organizations providing housing and educational support to asylum seekers. DSS argued these were 'vendors' rather than subcontractors, but the auditors found they clearly met the city's definition of subcontractors.",
+      "quote": "the prime vendors paid $1,683,863 to unapproved subcontractors without HRA’s knowledge"
+    },
+    {
+      "plain": "HRA could not always show it vetted approved subcontractors, some approval forms were filled out incorrectly and no competitive bids were on file for any of the 11 subcontracts that required them.",
+      "quote": "The auditors found no evidence of bids for any of the 11 subcontracts, as the prime contractors did not submit them."
+    },
+    {
+      "plain": "Three of the seven recommendations the Department of Investigation (DOI) made in 2021 about agency oversight of subcontractors had not been implemented by either agency, with the Mayor's Office of Contract Services (MOCS) saying citywide policies are still being developed.",
+      "quote": "three of the seven agency-directed recommendations have not been implemented"
+    },
+    {
+      "plain": "On sampled DHS contracts, Minority and Women-Owned Business Enterprises (M/WBEs) got $22,245, or 4.32 percent, of the $514,404 paid to for-profit subcontractors, while the sampled HRA contracts used no for-profit subcontractors at all, and incomplete records made a broader analysis impossible.",
+      "quote": "Payments made to these M/WBEs during the three-year period totaled $22,245, accounting for 4.32% of the $514,404 amount paid to all four for-profit subcontractors"
+    }
+  ],
+  "numbers": [
+    {"value": "$1,683,863", "label": "Paid to unapproved subcontractors on HRA contracts"},
+    {"value": "$9.8 million", "label": "Subcontractor payments on sampled HRA contracts"},
+    {"value": "$2.4 million", "label": "DHS subcontractor payments not recorded in any system"},
+    {"value": "471 days", "label": "Longest delay recording an HRA subcontractor in PIP"},
+    {"value": "4.32%", "label": "Share of DHS for-profit subcontractor spending to M/WBEs"}
+  ],
+  "recommendations": [
+    "Prevent payments to unapproved subcontractors by carefully reviewing invoices submitted by primes, periodically reviewing prime vendors' general ledgers and requesting and reviewing subcontractors' agreements and invoices.",
+    "Make sure prime vendors submit subcontractor information, including subcontract agreements and payment information, in PASSPort as required.",
+    "Document the process of vetting proposed subcontractors and running background checks.",
+    "Make sure prime vendors use competitive bidding when selecting subcontractors.",
+    "Review subcontract agreements for prompt payment terms and make sure prime contractors pay their subcontractors according to those terms.",
+    "Implement DOI's 2021 recommendations to city agencies and comply with the policies and directives MOCS and the Mayor's Office of Risk Management and Compliance created to guide that work.",
+    "Continue to increase use of M/WBE contractors and encourage prime vendors to increase their use of M/WBE subcontractors in human services contracts."
+  ],
+  "agency_response": "DSS partially agreed with two recommendations and disagreed with five, arguing among other things that it follows existing city invoice review policy and that the unapproved organizations were vendors rather than subcontractors. The auditors urged DSS to reconsider and implement the recommendations.",
+  "implementation_note": "",
+  "topics": ["social services", "homelessness", "money and contracts"],
+  "is_followup": false
+}

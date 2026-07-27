@@ -1,0 +1,83 @@
+{
+  "id": "a-compilation-of-audits-of-agencies-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "A Compilation of Audits of Agencies’ Oversight of Prime Vendors’ Use of Subcontractors on Health and Human Services Contracts",
+  "plain_title": "Five agencies share the same subcontractor oversight gaps",
+  "agency": "New York City Administration for Children's Services, Department for the Aging, Department of Health and Mental Hygiene and Department of Social Services",
+  "issued": "2025-09-25",
+  "url": "https://comptroller.nyc.gov/reports/a-compilation-of-audits-of-agencies-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/Compilation-Report-of-Subcontractors-Audits_FP26-057S.pdf",
+  "what_they_audited": "This is an overview report compiling a series of audits of how five health and human services agencies, the Administration for Children's Services (ACS), the Department of Homeless Services (DHS), the Human Resources Administration (HRA), the Department of Health and Mental Hygiene (DOHMH) and the Department for the Aging (NYC Aging), oversee the subcontractors their prime vendors hire.",
+  "background": "City health and human services agencies deliver services like foster care, homeless shelters and senior centers through contracts with providers called prime vendors, which sometimes hire subcontractors of their own. Because the city has no direct contract with subcontractors, oversight depends on agencies watching their prime vendors, and the comptroller's office launched this audit series in August 2023 after watchdog reports found a history of unapproved and unvetted subcontractors.",
+  "findings": [
+    {
+      "plain": "Four oversight deficiencies showed up at all five agencies, including failures to record subcontractors and their payments in city systems and to ensure timely payment, indicating the problems are systemic rather than unique to any one agency.",
+      "quote": "several deficiencies were found in multiple agencies, including four that were found at all five agencies, indicating that these issues were systemic in nature"
+    },
+    {
+      "plain": "At four agencies, prime vendors paid more than $8.6 million to 25 subcontractors that were never authorized to work on those contracts, including two used on contracts where the primes reported using no subcontractors at all.",
+      "quote": "subcontractors received more than $8.6 million in payments from prime contractors on contracts for which they did not obtain authorization to perform any work"
+    },
+    {
+      "plain": "Four agencies could not consistently show that subcontractors were vetted and background checked. Across the sampled contracts, 24 of 63 subcontractors, paid a combined $13.2 million, lacked evidence of vetting.",
+      "quote": "the auditors did not find sufficient evidence to indicate that vetting and background checks were consistently conducted on subcontractors by four of the agencies"
+    },
+    {
+      "plain": "Agencies did not make sure prime vendors got competitive bids. About half of the sampled subcontracts requiring written estimates lacked evidence of them, and the Human Resources Administration had no bid evidence for any of its 11 sampled subcontracts.",
+      "quote": "HRA had no evidence that bids were obtained for any of the 11 sampled subcontractors requiring them."
+    },
+    {
+      "plain": "No agency ensured subcontractors were recorded and approved in the city's Payee Information Portal (PIP) on time. The Human Resources Administration had the worst delays, approving all of its sampled subcontractors at least 583 days after work started.",
+      "quote": "none of the five agencies ensured that all of the subcontractors on the sampled contracts were recorded and approved in PIP in a timely manner, if at all"
+    },
+    {
+      "plain": "Agencies do not monitor whether prime vendors pay subcontractors on time, and the Department for the Aging reimbursed primes $381,700 for subcontractor expenses the primes had never actually paid, surfacing only because caterers complained about nonpayment.",
+      "quote": "auditors found that NYC Aging paid primes $381,700 for subcontractor expenses that had not actually been paid"
+    },
+    {
+      "plain": "Of the $3.6 million paid to for-profit subcontractors on sampled contracts, only 4.7% went to certified Minority and Women-Owned Business Enterprises (M/WBEs), just four of the 22 for-profit firms used.",
+      "quote": "Payments made to these M/WBEs from FY2022 through FY2024 totaled $168,564—4.7% of the $3.6 million total paid to the for-profit subcontractors"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$8.6 million",
+      "label": "Paid to unauthorized subcontractors across four agencies"
+    },
+    {
+      "value": "51.6%",
+      "label": "Sampled subcontracts lacking required bid estimates"
+    },
+    {
+      "value": "583 days",
+      "label": "Shortest approval delay among HRA's sampled subcontracts"
+    },
+    {
+      "value": "$381,700",
+      "label": "Aging agency reimbursements for costs primes never paid"
+    },
+    {
+      "value": "4.7%",
+      "label": "For-profit subcontractor spending that went to M/WBEs"
+    }
+  ],
+  "recommendations": [
+    "Agencies should prevent payments to unapproved subcontractors by carefully reviewing prime vendors' invoices, periodically reviewing their general ledgers and requesting and reviewing subcontractors' agreements and invoices.",
+    "Agencies should make sure prime vendors submit subcontractor information, including agreements and payment details, in the PASSPort procurement system.",
+    "Agencies should document the process of vetting and running background checks on proposed subcontractors.",
+    "Agencies should make sure prime vendors use competitive bidding when selecting subcontractors.",
+    "Agencies should review subcontract agreements for prompt payment terms and make sure prime contractors pay subcontractors accordingly.",
+    "Agencies should make sure subcontractor costs were actually paid by prime vendors before reimbursing them, a recommendation that applied only to the Department for the Aging.",
+    "Agencies should implement the Department of Investigation's 2021 recommendations and comply with the Mayor's Office of Contract Services policies guiding their implementation.",
+    "Agencies should consider using more Minority and Women-Owned Business Enterprise contractors and encourage prime vendors to use more M/WBE subcontractors."
+  ],
+  "agency_response": "Responses varied by agency and recommendation: the Department for the Aging and DOHMH agreed with most recommendations, the Department of Social Services disagreed with several, ACS disagreed with reviewing general ledgers and did not address prompt payment, and DOHMH called two recommendations unnecessary.",
+  "implementation_note": "Of the seven 2021 Department of Investigation recommendations on subcontractor oversight directed at agencies, the audits found DOHMH had implemented all seven while the Department for the Aging had implemented one, with the other agencies in between.",
+  "topics": [
+    "money and contracts",
+    "social services",
+    "transparency"
+  ],
+  "is_followup": false
+}

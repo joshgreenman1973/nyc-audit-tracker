@@ -1,0 +1,67 @@
+{
+ "id": "2026-04-10-facilitated-programs-assist-small-businesses",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Facilitated Programs to Assist Small Businesses",
+ "plain_title": "Helping small businesses get financing",
+ "agency": "New York City Department of Small Business Services",
+ "issued": "2026-04-10",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2026/04/10/facilitated-programs-assist-small-businesses",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-22n4.pdf",
+ "what_they_audited": "Whether the Department of Small Business Services provided the services available under its programs to help small businesses obtain funding to open, operate and expand. The audit covered July 2019 to November 2023.",
+ "background": "The department contracts with Industrial Business Service Providers and Business Solutions Centers to help businesses analyze finances, package loan applications and get training. During the four fiscal years from 2019 to 2022, the department reported the programs facilitated about $220 million in financing.",
+ "findings": [
+  {
+   "plain": "The department monitors its contractors' expenses and outputs but does not develop or review operational data that would show how the programs are helping small businesses reach their goals.",
+   "quote": "it does not include the development and review of operational data that would enable the agency to determine how its programs are helping small businesses reach their goals"
+  },
+  {
+   "plain": "The 76 businesses auditors reviewed obtained facilitated loans of $97,363,816, but the department collected no data on what the financing accomplished, such as new jobs or stronger operations.",
+   "quote": "SBS did not collect data on the beneficial effects of this financing, such as the creation of new jobs or strengthening of the businesses’ operations"
+  },
+  {
+   "plain": "Program results such as the number and amount of facilitated loans are self-reported by vendors and the department does not verify them.",
+   "quote": "the program results are self-reported by the vendors"
+  },
+  {
+   "plain": "Contractor files were incomplete. Fifteen sampled businesses received 24 loans worth $23,113,349 with no lender proof letter on file, and three others had loan amounts that did not match their proof letters.",
+   "quote": "did not have a proof letter from the lender in Dynamics"
+  },
+  {
+   "plain": "Some loans went to businesses that may not have qualified. Auditors found 158 facilitated loans worth $10,242,747 went to businesses outside New York City or lacking documentation of a city presence.",
+   "quote": "158 of the 2,129 facilitated loans, valued at $10,242,747, were made to businesses located outside of New York City or there was no documentation to support a presence in New York City"
+  },
+  {
+   "plain": "Controls over training enrollment and attendance need improvement. Attendance records were missing for 13% of counted participants, 18% of attendees with records did not stay for at least half the session and before 2023 the department did not run post-course surveys.",
+   "quote": "we found that 173 attendees (18%) did not stay for at least half of the course/session"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$220 million",
+   "label": "Reported financing facilitated, fiscal years 2019 to 2022"
+  },
+  {
+   "value": "$97,363,816",
+   "label": "Facilitated loans obtained by the 76 reviewed businesses"
+  },
+  {
+   "value": "$10,242,747",
+   "label": "Loans to businesses outside the city or undocumented"
+  }
+ ],
+ "recommendations": [
+  "Improve monitoring so the programs align with the department's mission, including possibly expanding required reporting in future contracts to capture program outcomes.",
+  "Improve oversight of provider data so records are complete and accurate and all required fields in the department's system are filled in.",
+  "Ensure all served businesses are located in New York City or have a formal city presence.",
+  "Require Business Solutions Centers to keep better attendance records for training webinars and workshops.",
+  "Set a minimum attendance time before a participant counts as having received a contracted service.",
+  "Revisit how post-training surveys are conducted, including whether the department should run them itself."
+ ],
+ "agency_response": "",
+ "topics": [
+  "small business",
+  "money and contracts"
+ ],
+ "is_followup": false
+}

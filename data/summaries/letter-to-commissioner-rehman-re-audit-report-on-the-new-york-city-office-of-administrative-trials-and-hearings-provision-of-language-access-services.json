@@ -1,0 +1,62 @@
+{
+  "id": "letter-to-commissioner-rehman-re-audit-report-on-the-new-york-city-office-of-administrative-trials-and-hearings-provision-of-language-access-services",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Letter to Commissioner Rehman Re: Audit Report on the New York City Office of Administrative Trials and Hearings’ Provision of Language Access Services",
+  "plain_title": "Hearings office meets its language access obligations",
+  "agency": "New York City Office of Administrative Trials and Hearings",
+  "issued": "2025-11-12",
+  "url": "https://comptroller.nyc.gov/reports/letter-to-commissioner-rehman-re-audit-report-on-the-new-york-city-office-of-administrative-trials-and-hearings-provision-of-language-access-services/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/11/SZ26-059AL.pdf",
+  "what_they_audited": "A letter report on whether the Office of Administrative Trials and Hearings, the city's central administrative law court, provides the interpretation and translation services required by city and state language access laws. The scope ran from January 1, 2018 through October 30, 2025.",
+  "background": "Nearly one-half of all New Yorkers speak a language other than English at home and almost 25% are not proficient in English. Local Law 30 of 2017 requires city agencies that serve the public to provide language services in 10 designated citywide languages and to adopt a language access implementation plan.",
+  "findings": [
+    {
+      "plain": "The agency complies with the website translation, document translation and interpretation standards set by the relevant laws and guidelines.",
+      "quote": "OATH complies with the website translation, document translation, and in-person and telephonic interpretation standards prescribed by relevant laws, standards, and guidelines"
+    },
+    {
+      "plain": "Services generally meet the needs of residents who prefer languages other than English, who have the same access to the agency's services as English speakers.",
+      "quote": "the NELP population has the same access to government services as the English-speaking population"
+    },
+    {
+      "plain": "Its language access plan contains every key element required by Local Law 30, including a designated coordinator, telephone interpretation in over 100 languages, translated documents, staff training and complaint monitoring.",
+      "quote": "The LAIP contained all key aspects required by Local Law 30"
+    },
+    {
+      "plain": "Contracted vendors cover the required languages. The interpretation vendor offers over 250 languages and the translation vendors over 160, including the designated citywide and temporary languages.",
+      "quote": "Language Line can provide interpretation in over 250 languages including the designated citywide languages"
+    },
+    {
+      "plain": "The agency tells the public that free language services are available through signs in its offices, notices on its website and messages on its help line, and its website translates into the required languages.",
+      "quote": "OATH informs the public of the availability of free language access services by posting signs in conspicuous locations"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "3 million",
+      "label": "Foreign-born New York City residents"
+    },
+    {
+      "value": "25%",
+      "label": "City residents not proficient in English"
+    },
+    {
+      "value": "10",
+      "label": "Designated citywide languages agencies must serve"
+    },
+    {
+      "value": "250",
+      "label": "Languages available through the interpretation vendor"
+    }
+  ],
+  "recommendations": [
+    "The report makes no formal recommendations."
+  ],
+  "agency_response": "In a written response dated November 6, 2025, the Office of Administrative Trials and Hearings agreed with the audit's findings.",
+  "implementation_note": "",
+  "topics": [
+    "transparency"
+  ],
+  "is_followup": false
+}

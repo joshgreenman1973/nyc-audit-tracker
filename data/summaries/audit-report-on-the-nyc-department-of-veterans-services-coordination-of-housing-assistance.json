@@ -1,0 +1,62 @@
+{
+  "id": "audit-report-on-the-nyc-department-of-veterans-services-coordination-of-housing-assistance",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the NYC Department of Veterans’ Services’ Coordination of Housing Assistance",
+  "plain_title": "Veterans agency housed 153 people but tracked its work poorly",
+  "agency": "New York City Department of Veterans' Services",
+  "issued": "2025-12-26",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-nyc-department-of-veterans-services-coordination-of-housing-assistance/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/FP25-066A.pdf",
+  "what_they_audited": "Whether the Department of Veterans' Services (DVS) is efficiently and effectively helping veterans find housing and avoid homelessness, focusing on its housing assistance services in fiscal year 2025.",
+  "background": "New York City is home to more than 129,000 veterans. DVS was created in 2016 to connect veterans with city services including housing, and the city has cut its homeless veteran population by nearly 90%, from 4,677 in 2011 to 624 in 2024.",
+  "findings": [
+    {
+      "plain": "DVS effectively helped 153 veterans secure permanent housing in fiscal year 2025, a 21% increase over the prior year, and provided required aftercare services to veterans housed through Collaborative Case Management vouchers.",
+      "quote": "the agency effectively helped 153 veterans secure housing in FY2025."
+    },
+    {
+      "plain": "More than a quarter (27%) of veterans' housing assistance requests were not answered within the agency's five-business-day target, and 52 requests took at least 21 business days to get a first contact attempt.",
+      "quote": "DVS failed to respond to more than a quarter (27%) of veterans’ housing assistance requests within its five-business-day target."
+    },
+    {
+      "plain": "DVS lacked written standard operating procedures and formal training for its housing work, and its housing guide was outdated, referring to subsidies that have not existed since 2019. It provided a new policy manual only after the exit conference.",
+      "quote": "DVS has not developed written standard operating procedures governing its operations, including the Veteran Peer Coordinator Program and Aftercare Assistance"
+    },
+    {
+      "plain": "Tracking errors meant DVS overstated its work. Its tracker listed 1,582 housing assistance requests but 41 were duplicates, so it actually received 1,541. In a sample of 60 clients, 25 were recorded as still housed but case notes supported only 11.",
+      "quote": "although 1,582 housing assistance requests were listed in the tracker, DVS in fact received only 1,541 requests in FY2025."
+    },
+    {
+      "plain": "DVS reported in the Mayor's Management Report that it provided 509 veterans with homelessness prevention and aftercare assistance, but after removing duplicates the real number was 447. The agency acknowledged the error and asked City Hall to correct it.",
+      "quote": "After subtracting these 62 discrepancies, the actual number of veterans assisted appears to be 447."
+    },
+    {
+      "plain": "DVS gave auditors four different answers over four months about how often staff were supposed to make aftercare check-in calls, showing its internal guidance was unclear.",
+      "quote": "DVS also offered inconsistent information regarding the frequency with which staff were to make aftercare service calls."
+    },
+    {
+      "plain": "As of December 1, 2025, DVS had not filed its legally mandated annual report to the City Council since 2023 or its three most recent semiannual reports on veteran resource centers. It submitted all outstanding reports on December 15, 2025 after receiving the draft audit.",
+      "quote": "On December 15, 2025, following the issuance of the Draft Report to the agency, DVS submitted all outstanding required reports and published them on its website."
+    }
+  ],
+  "numbers": [
+    {"value": "153", "label": "Veterans DVS helped secure housing in fiscal year 2025"},
+    {"value": "27%", "label": "Housing requests not answered within five business days"},
+    {"value": "1,541", "label": "Actual housing assistance requests received"},
+    {"value": "447", "label": "Veterans actually given prevention and aftercare help"},
+    {"value": "624", "label": "Homeless veterans in New York City in 2024"}
+  ],
+  "recommendations": [
+    "Train all current and new staff on the newly created written policies and standard operating procedures, including intake, request tracking, move-out tracking, aftercare tracking and documentation protocols.",
+    "Completely and accurately transfer fiscal year 2025 data from the Master Tracker to the new VetConnectNYC system, removing duplicates and recording all dates.",
+    "Completely and accurately transfer fiscal year 2025 Aftercare Tracker data to VetConnectNYC so housing outcomes are correctly recorded.",
+    "Implement a mechanism to ensure housing assistance requests are tracked and processed within five business days.",
+    "Accurately track and report the number of veterans given homelessness prevention and aftercare help in the Mayor's Management Report, or relabel the indicator as counting requests.",
+    "Submit the annual services report and biannual veteran resource center reports on time as required by Local Laws 44 of 2019 and 215 of 2018."
+  ],
+  "agency_response": "DVS agreed with all six of the audit's recommendations.",
+  "implementation_note": "",
+  "topics": ["housing", "homelessness", "social services"],
+  "is_followup": false
+}

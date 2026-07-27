@@ -1,0 +1,49 @@
+{
+  "id": "2025-07-14-new-york-city-department-homeless-services-oversight-contract-expenditures-church-avenue",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "New York City Department of Homeless Services – Oversight of Contract Expenditures of Church Avenue Merchants Block Association, Inc.",
+  "plain_title": "Oversight of spending by a women's shelter contractor",
+  "agency": "New York City Department of Social Services",
+  "issued": "2025-07-14",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/07/14/new-york-city-department-homeless-services-oversight-contract-expenditures-church-avenue",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-23n9.pdf",
+  "what_they_audited": "Whether the New York City Department of Homeless Services (DHS) effectively monitored its contract with Church Avenue Merchants Block Association, Inc. (CAMBA) to make sure the costs the nonprofit reported were allowable, supported and related to the program. The audit covered July 2020 through June 2023.",
+  "background": "Since 2011 DHS has contracted with CAMBA, a city-based nonprofit, to run the 200-bed Magnolia House Women's Shelter, serving homeless women including those with mental illness and substance abuse disorders. Over the three fiscal years ended June 30, 2023, CAMBA claimed $27.9 million in reimbursable expenses under the contracts.",
+  "findings": [
+    {
+      "plain": "Auditors identified $4,501,692, about 16.1% of all costs CAMBA reported over three fiscal years, that did not comply with the applicable fiscal manuals and the shelter contracts.",
+      "quote": "we identified $4,501,692—accounting for approximately 16.1% of all CAMBA’s reported costs—that did not comply with the requirements"
+    },
+    {
+      "plain": "That total included $2,126,980 in salaries and fringe benefits that were not supported by staff sign-in and sign-out logs, were overallocated to the shelter contracts or were unrelated to the shelter program.",
+      "quote": "$2,126,980 in compensation costs (salaries and related fringe benefits) that were not supported by Magnolia staff sign-in/sign-out logs"
+    },
+    {
+      "plain": "It also included $1,835,545 in contracted services and other expenses that were unsupported, overallocated to the program or not reimbursable, plus $539,167 in related indirect costs.",
+      "quote": "$1,835,545 in contracted services costs and other expenses that were unsupported, overallocated to the Magnolia program, or non-reimbursable"
+    },
+    {
+      "plain": "DHS approved CAMBA's security contracts without evidence they were competitively bid, as required.",
+      "quote": "DHS approved CAMBA’s security contracts without evidence that they were competitively bid, as required"
+    },
+    {
+      "plain": "DHS did not complete required expenditure reviews or make sure year-end closeouts were done on time, a control that would improve its reviews and help recover overpayments. The auditors said the findings point to a significant deficiency in DHS' monitoring of its CAMBA contracts.",
+      "quote": "a significant deficiency in DHS’ monitoring and oversight of its contracts with CAMBA"
+    }
+  ],
+  "numbers": [
+    {"value": "$4,501,692", "label": "Reported costs that did not comply with the rules"},
+    {"value": "16.1%", "label": "Share of CAMBA's reported costs that were non-compliant"},
+    {"value": "$2,126,980", "label": "Unsupported, overallocated or unrelated compensation costs"},
+    {"value": "$27.9 million", "label": "Expenses CAMBA claimed over three fiscal years"}
+  ],
+  "recommendations": [
+    "Review and recover, as appropriate, the $4,501,692 in reported expenses that did not comply with the fiscal manuals and the shelter contracts.",
+    "Review the eligibility of claimed expenses under the fiscal manuals and providers' contracts, making sure providers such as CAMBA keep documentation to support claimed expenses, maintain required inventories and complete year-end closeouts on time."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": ["homelessness", "money and contracts"],
+  "is_followup": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "the-administration-for-childrens-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "The Administration for Children’s Services’ Oversight of Prime Vendors’ Use of Subcontractors on Health and Human Services Contracts",
+  "plain_title": "Weak oversight of subcontractors on children's services contracts",
+  "agency": "New York City Administration for Children's Services",
+  "issued": "2025-09-25",
+  "url": "https://comptroller.nyc.gov/reports/the-administration-for-childrens-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/FY24-Annual-Report-on-MWBE-Procurement.pdf",
+  "what_they_audited": "Whether the Administration for Children's Services (ACS) properly oversees the subcontractors that its prime vendors hire on health and human services contracts, which cover services like foster care, juvenile justice and early education. Auditors examined a sample of four contracts held by three prime vendors over fiscal years 2022 through 2024.",
+  "background": "ACS contracts with non-profit and for-profit providers called prime vendors, which sometimes hire subcontractors of their own, for example to run group homes for foster children outside the city. Because the city has no direct contract with subcontractors, it relies on agencies like ACS to make sure prime vendors pick competent subcontractors and manage the risks, and this audit is one of a series covering five health and human services agencies.",
+  "findings": [
+    {
+      "plain": "Prime vendors paid more than $1.8 million to subcontractors that ACS had never approved to work on the sampled contracts, in some cases without the agency's knowledge.",
+      "quote": "unauthorized subcontractors were paid over $1.8 million during the audit scope period of Fiscal Years 2022 through 2024"
+    },
+    {
+      "plain": "Although ACS policy requires vetting and background checks for subcontracts worth $20,000 or more, auditors found no documents showing that this vetting actually happened for the sampled contracts.",
+      "quote": "the auditors did not find evidence that this was conducted for the sampled contracts"
+    },
+    {
+      "plain": "ACS did not make sure subcontractors were entered and approved in the city's Payee Information Portal (PIP) on time. For two sampled subcontracts, approval came 76 to 204 days after the subcontractor had already started work.",
+      "quote": "delays in approval ranged from 76 to 204 days after the subcontract start date"
+    },
+    {
+      "plain": "None of the sampled prime vendors reported their payments to subcontractors in the Payee Information Portal as required, which made it impossible for auditors to fully analyze how subcontractors were used.",
+      "quote": "the audit found that none of the sampled prime vendors did this"
+    },
+    {
+      "plain": "ACS has no way to make sure subcontractors get paid on time. Of 13 sampled payments to subcontractors, seven were made more than 30 days after the invoice, and one subcontractor was paid as late as 216 days after invoicing.",
+      "quote": "A review of 13 payments to subcontractors on the sampled contracts found that seven (56%) were paid more than 30 days after receipt of invoices"
+    },
+    {
+      "plain": "ACS has not implemented four of the seven 2021 Department of Investigation recommendations aimed at strengthening agency oversight of subcontractors on city contracts.",
+      "quote": "The auditors found that ACS has not implemented four of the seven recommendations."
+    },
+    {
+      "plain": "Neither of the two for-profit subcontractors used on the sampled contracts was a certified Minority and Women-owned Business Enterprise (M/WBE), and poor recordkeeping made it impossible to measure M/WBE use across all of the agency's human services contracts.",
+      "quote": "none of the monies spent on sampled contracts’ for-profit subcontractors went to Minority and Women-Owned Business Enterprises"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$1.8 million",
+      "label": "Paid to unapproved subcontractors, fiscal years 2022-2024"
+    },
+    {
+      "value": "204 days",
+      "label": "Longest delay approving a subcontractor in the city portal"
+    },
+    {
+      "value": "56%",
+      "label": "Sampled subcontractor payments made late"
+    },
+    {
+      "value": "$2.03 million",
+      "label": "Total paid to seven subcontractors on sampled contracts"
+    }
+  ],
+  "recommendations": [
+    "Prevent payments to unapproved subcontractors by periodically reviewing prime vendors' general ledgers along with subcontract agreements and invoices.",
+    "Make sure prime vendors submit subcontractor information, including agreements and payment details, in the PASSPort procurement system.",
+    "Document the process of vetting and running background checks on proposed subcontractors.",
+    "Review subcontract agreements for prompt payment terms and make sure prime vendors pay their subcontractors promptly.",
+    "Implement the Department of Investigation's 2021 recommendations to city agencies and comply with related policies from the Mayor's Office of Contract Services and the Mayor's Office of Risk Management and Compliance.",
+    "Consider using more Minority and Women-owned Business Enterprise contractors and encourage prime vendors to do the same with their subcontractors."
+  ],
+  "agency_response": "ACS agreed with four recommendations, disagreed with the recommendation to review prime vendors' general ledgers, arguing it never paid unapproved subcontractors, and did not clearly address the recommendation on prompt payment.",
+  "implementation_note": "Of the seven 2021 Department of Investigation recommendations on subcontractor oversight that applied to agencies, the audit found ACS had not implemented four.",
+  "topics": [
+    "children and youth",
+    "money and contracts",
+    "transparency"
+  ],
+  "is_followup": false
+}

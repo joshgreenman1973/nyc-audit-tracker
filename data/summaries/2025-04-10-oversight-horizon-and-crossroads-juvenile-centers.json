@@ -1,0 +1,58 @@
+{
+  "id": "2025-04-10-oversight-horizon-and-crossroads-juvenile-centers",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Oversight of Horizon and Crossroads Juvenile Centers",
+  "plain_title": "How the city runs its two juvenile detention centers",
+  "agency": "New York City Administration for Children's Services",
+  "issued": "2025-04-10",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/04/10/oversight-horizon-and-crossroads-juvenile-centers",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-22n3.pdf",
+  "what_they_audited": "Whether the New York City Administration for Children's Services (ACS) adequately operates the Horizon and Crossroads juvenile detention centers for court-placed youth, meeting federal, state and city health and safety standards and providing required services. The audit covered October 2018 through December 2023.",
+  "background": "ACS runs the city's two secure juvenile detention facilities, Horizon in the Bronx and Crossroads in Brooklyn, providing medical, mental health, case management and educational services to detained youth. Between October 2018 and March 2023, 3,643 youth were admitted to the two facilities, and police data show the number of people under 18 accused of major crimes increased sharply in the city from 2021 to 2024.",
+  "findings": [
+    {
+      "plain": "ACS did not adequately make sure intake and case management services happened on time. Only 53% of sampled youth got the required initial intake interview within 24 hours, and one youth did not get an interview until 76 days after admission.",
+      "quote": "Only 53% of the youth sampled received an initial intake interview within 24 hours, as required. One youth did not receive an interview until 76 days after being admitted to the facility."
+    },
+    {
+      "plain": "Case managers often missed required check-ins: 94% of sampled youth did not get all their required daily face-to-face meetings with their case manager, some assessments were not completed and service records were incomplete or missing.",
+      "quote": "94% of the youth sampled did not receive all their daily face-to-face meetings with their case manager, as required."
+    },
+    {
+      "plain": "ACS under-reported incidents to the state Office of Children and Family Services (OCFS): 37% of 9,693 unique incidents recorded in ACS' own database were never reported to OCFS through the state's Juvenile Detention Automated System.",
+      "quote": "37% of 9,693 unique incidents at the two detention facilities were not reported to OCFS through JDAS"
+    },
+    {
+      "plain": "Serious incidents were reported late. A youth setting a garbage can on fire was not reported for 24 hours though immediate reporting is required, 14 incidents including sexual abuse and assault were reported 1 to 22 days late, and a May 2020 escape attempt at Crossroads was not reported until 2 days later.",
+      "quote": "14 incidents including sexual abuse, assault, harassment, employee misconduct, and contraband were required to be reported within 24 hours—but were reported from 1 to 22 days late."
+    },
+    {
+      "plain": "Contraband prevention is falling short. Reported contraband incidents rose from 62 in 2019 to 706 in 2023, an increase of more than 1,038%, and auditors watched an ACS official pass through security at Horizon with two cell phones despite a policy barring employees from bringing personal phones inside.",
+      "quote": "The number of reported contraband incidents increased from 62 in 2019 to 706 in 2023—over a 1,038% increase."
+    },
+    {
+      "plain": "School attendance oversight was inadequate: both facilities showed chronic absenteeism across all educational programs and ages, with 13-73% of days absent, even though classes are on site and ACS staff are responsible for walking students to class.",
+      "quote": "Both facilities exhibited chronic absenteeism levels across all educational programs and ages, ranging from 13-73% days absent."
+    }
+  ],
+  "numbers": [
+    {"value": "3,643", "label": "Youth admitted to the two facilities, October 2018 to March 2023"},
+    {"value": "53%", "label": "Sampled youth who got an intake interview within 24 hours"},
+    {"value": "94%", "label": "Sampled youth missing required daily case manager meetings"},
+    {"value": "37%", "label": "Of 9,693 incidents never reported to the state"},
+    {"value": "706", "label": "Contraband incidents in 2023, up from 62 in 2019"},
+    {"value": "13-73%", "label": "Range of school days absent across programs"}
+  ],
+  "recommendations": [
+    "Make sure ACS policies for intake, housing and case management are communicated to staff, and set up monitoring to ensure compliance.",
+    "Report all incidents in ACS' internal database to the Office of Children and Family Services through the state system, and monitor the timeliness and accuracy of that reporting.",
+    "Establish monitoring procedures and periodic reviews to make sure all incidents are entered into the state system on time and accurately.",
+    "Evaluate and strengthen, as needed, policies and practices for preventing and detecting contraband.",
+    "Work with New York City Public Schools, the Office of Children and Family Services and other stakeholders to minimize youth absenteeism from school."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": ["children and youth", "public safety"],
+  "is_followup": false
+}

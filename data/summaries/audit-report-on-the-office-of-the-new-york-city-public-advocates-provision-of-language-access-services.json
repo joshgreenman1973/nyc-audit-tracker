@@ -1,0 +1,56 @@
+{
+  "id": "audit-report-on-the-office-of-the-new-york-city-public-advocates-provision-of-language-access-services",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the Office of the New York City Public Advocate’s Provision of Language Access Services",
+  "plain_title": "Does the public advocate serve New Yorkers in their languages?",
+  "agency": "Office of the New York City Public Advocate",
+  "issued": "2025-10-10",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-office-of-the-new-york-city-public-advocates-provision-of-language-access-services/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/SZ25-075A.pdf",
+  "what_they_audited": "Whether the Office of the Public Advocate (PAO) provides services to people with a Non-English Language Preference (NELP) in the languages required by law, whether those services meet the NELP population's needs and whether NELP residents get the same access to government services as English speakers.",
+  "background": "Nearly half of all New Yorkers speak a language other than English at home and almost 25% of city residents aged five and over are not proficient in English. Local Law 30 of 2017 requires city agencies that provide direct public services to designate a Language Access Coordinator and develop a Language Access Implementation Plan.",
+  "findings": [
+    {
+      "plain": "The office generally provides the required language services, contracting with vendors for telephonic interpretation in over 240 languages and document translation in over 100 languages, and NELP residents generally get the same access as English speakers.",
+      "quote": "The language access services provided by PAO generally meet the needs of the Non-English Language Preference (NELP) population as intended, and the NELP population generally has the same access to government services as the English-speaking population."
+    },
+    {
+      "plain": "The office was not fully compliant with Local Law 30. Its website did not say free language services were available and did not list the name and title of its Language Access Coordinator.",
+      "quote": "PAO’s website did not indicate whether the agency provides free language access services..."
+    },
+    {
+      "plain": "The reports the office publishes on its website, its most commonly distributed documents, could not be translated into the city's top 10 non-English languages. Only the report summaries could be translated, and the site did not tell visitors that translations were available on request.",
+      "quote": "they are not translatable documents—only the report summaries can be translated"
+    },
+    {
+      "plain": "The office had no Language Access Implementation Plan as the law requires. Its existing procedures left out most key elements, including annual staff training, emergency preparedness and a process for handling language access complaints.",
+      "quote": "PAO had not created or implemented an LAIP in compliance with LL30 prior to this audit."
+    },
+    {
+      "plain": "When auditors first tested the website's translation feature in March 2025, the language dropdown menu showed blank options. The office fixed the bug promptly after being told, and a retest in April 2025 found it working.",
+      "quote": "the dropdown menu was not functioning properly, with language options appearing blank"
+    },
+    {
+      "plain": "By the August 2025 exit conference the office had made fixes, including creating a Language Access Implementation Plan, updating its website and documenting training for 12 staff members, and auditors assessed that it is now in compliance with Local Law 30.",
+      "quote": "Auditors confirmed that the implementations had been made and assessed that PAO is now in compliance with Local Law 30."
+    }
+  ],
+  "numbers": [
+    {"value": "25%", "label": "City residents aged five and over not proficient in English"},
+    {"value": "240 languages", "label": "Languages covered by the office's interpretation vendor"},
+    {"value": "104 languages", "label": "Languages the website translation feature can handle"},
+    {"value": "12 staff members", "label": "Staff with documented language training by August 2025"}
+  ],
+  "recommendations": [
+    "Periodically test website features to make sure they work as intended.",
+    "Going forward, make sure all frontline and managerial staff get annual language access training as Local Law 30 requires, and keep documentation such as attendance sheets and training materials.",
+    "Continue publishing reports directly on the website so the translation feature can translate them in full, or if that is not feasible, post a notice that published reports can be translated on request.",
+    "Post the newly created Language Access Implementation Plan in a conspicuous spot on the website.",
+    "Continue to keep the Language Access Coordinator's name and title posted on the website as required."
+  ],
+  "agency_response": "The Office of the Public Advocate agreed with the findings and all five recommendations, and during the audit provided documentation showing it had begun implementing them.",
+  "implementation_note": "",
+  "topics": ["transparency"],
+  "is_followup": false
+}

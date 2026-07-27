@@ -1,0 +1,69 @@
+{
+  "id": "letters-re-audit-of-the-financial-and-operating-practices-of-the-18-brooklyn-community-boards",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Letters Re: Audit of the Financial and Operating Practices of the 18 Brooklyn Community Boards",
+  "plain_title": "Leave warnings as Brooklyn community board audit is called off",
+  "agency": "Brooklyn Community Boards",
+  "issued": "2025-03-18",
+  "url": "https://comptroller.nyc.gov/reports/letters-re-audit-of-the-financial-and-operating-practices-of-the-18-brooklyn-community-boards/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/FL24-088A.pdf",
+  "what_they_audited": "This is a set of closure letters, not a full audit report. The Comptroller's office told Brooklyn community boards that a planned audit of the financial and operating practices of the borough's 18 boards was terminated, and it flagged excess annual leave balances for the district managers of Boards 6, 11, 12 and 17.",
+  "background": "Recent changes to the New York City Charter allow the Comptroller to treat all community boards as a single combined agency, so auditing one board's operations in a four-year cycle now fulfills the mandate. Before the change, the office had to audit all 59 community boards every four years.",
+  "findings": [
+    {
+      "plain": "The planned audit of the 18 Brooklyn community boards was terminated because charter changes let the Comptroller satisfy the audit mandate by examining a single board in each four-year cycle.",
+      "quote": "This decision was made based on recent changes to the New York City Charter, which allows the Comptroller to treat all Community Boards as a single combined agency."
+    },
+    {
+      "plain": "The district manager of Brooklyn Community Board 6 had banked 840 hours of annual leave as of November 25, 2024, which is 560 hours (80 days) over the two-year maximum for managers. Auditors estimated the payout on separation at $26,824.80 with a waiver to carry over the excess and $13,412.40 without one.",
+      "quote": "an annual leave balance of 840 hours, as of November 25, 2024"
+    },
+    {
+      "plain": "The district manager of Brooklyn Community Board 11 had 592.5 hours of annual leave, 214.5 hours (30.6 days) over the limit, with an estimated payout of $57,456.54 with a waiver and $49,334.98 without one, as much as 40% of the manager's salary and 24% of the board's fiscal year 2025 personal services budget.",
+      "quote": "an annual leave balance of 592.5 hours, as of November 25, 2024"
+    },
+    {
+      "plain": "The district manager of Brooklyn Community Board 12 had 934.5 hours of annual leave, 584.5 hours (83.5 days) over the limit, with an estimated payout of $89,295.99 with a waiver and $65,883.55 without one, as much as 50% of the manager's salary and 33% of the board's fiscal year 2025 personal services budget.",
+      "quote": "an annual leave balance of 934.5 hours, as of November 25, 2024"
+    },
+    {
+      "plain": "The district manager of Brooklyn Community Board 17 had 747 hours of annual leave, 369 hours (52.7 days) over the limit, with an estimated payout of $47,060.92 with a waiver and $28,887.37 without one.",
+      "quote": "an annual leave balance of 747 hours, as of November 25, 2024"
+    },
+    {
+      "plain": "Under the city personnel order, managers may only bank two years of annual leave unless the agency head grants a waiver; without one, excess leave converts to sick leave that pays out at one-third the balance. Either way, unmanaged accruals can strain a board's small budget.",
+      "quote": "a Community Board’s budget and fiscal health can be crippled if leave accruals are not effectively managed"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "934.5 hours",
+      "label": "Board 12 district manager's annual leave balance"
+    },
+    {
+      "value": "$89,295.99",
+      "label": "Estimated Board 12 payout if excess leave carries over"
+    },
+    {
+      "value": "$57,456.54",
+      "label": "Estimated Board 11 payout if excess leave carries over"
+    },
+    {
+      "value": "83.5 days",
+      "label": "Board 12 manager's leave beyond the two-year maximum"
+    }
+  ],
+  "recommendations": [
+    "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service.",
+    "Limit authorizations to carry over excess annual leave where practicable.",
+    "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": [
+    "labor",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

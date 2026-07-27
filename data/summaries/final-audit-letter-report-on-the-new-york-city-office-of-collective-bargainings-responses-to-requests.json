@@ -1,0 +1,45 @@
+{
+  "id": "final-audit-letter-report-on-the-new-york-city-office-of-collective-bargainings-responses-to-requests",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report on the New York City Office of Collective Bargaining’s Responses to Requests",
+  "plain_title": "How the collective bargaining office handles workers' inquiries",
+  "agency": "New York City Office of Collective Bargaining",
+  "issued": "2025-09-05",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-new-york-city-office-of-collective-bargainings-responses-to-requests/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MH25-070A.pdf",
+  "what_they_audited": "In this final audit letter report, auditors reviewed how the Office of Collective Bargaining receives, tracks and responds to questions and complaints from city workers about union representation, checking whether responses were timely and well documented from July 2022 through December 2024.",
+  "background": "The Office of Collective Bargaining was created in 1967 to handle issues related to public employees' union representation. It is intended to function as a neutral agency that resolves questions about union representation and adjudicates disputes over collective bargaining, retaliation and unions' duty of fair representation.",
+  "findings": [
+    {
+      "plain": "Before 2024 the office's tracking of responses was inadequate. Records showed only 54% of people who contacted the office got a follow-up from an agency attorney within the informal five business day target, and 38% had no record of any contact.",
+      "quote": "only 54% of individuals received a follow-up contact from an OCB attorney within the agency’s informal target of five business days, and 38% of people had no record of contact at all"
+    },
+    {
+      "plain": "The office also did not adequately track requests for Pro Se information packets, which go to city employees pursuing claims against their union or the city without a lawyer. Of 35 people who requested one before 2024, the log shows only 11 were sent one.",
+      "quote": "Of the 35 individuals who requested one, OCB’s Log indicates that only 11 individuals were sent one."
+    },
+    {
+      "plain": "After the office switched its tracking log from Microsoft Access to Microsoft Excel in January 2024, recordkeeping and responsiveness improved markedly. All 94 inquiries logged in calendar year 2024 got an attorney response within five business days, most within one day.",
+      "quote": "all 94 inquiries received a response from an OCB attorney within the five-day target, including 84 (89%) who were contacted within one business day"
+    },
+    {
+      "plain": "The 2024 log also shows the office became more responsive on information packets: every caller who requested a Pro Se packet that year was sent one.",
+      "quote": "according to the Log, all 40 callers who requested a Pro Se packet were sent one"
+    }
+  ],
+  "numbers": [
+    {"value": "54%", "label": "Share contacted within five business days before 2024"},
+    {"value": "38%", "label": "Share with no record of contact at all before 2024"},
+    {"value": "94", "label": "Inquiries logged in calendar year 2024, all answered on time"},
+    {"value": "89%", "label": "Share of 2024 inquiries answered within one business day"}
+  ],
+  "recommendations": [
+    "Document the office's procedures for responding to inquiries and complaints, including how calls and responses are recorded and a target timeframe for a response.",
+    "Continue to ensure that all inquiries and complaints get timely responses and that all relevant information is documented according to those procedures."
+  ],
+  "agency_response": "The Office of Collective Bargaining agreed with the audit's findings and both recommendations.",
+  "implementation_note": "",
+  "topics": ["labor", "transparency"],
+  "is_followup": false
+}

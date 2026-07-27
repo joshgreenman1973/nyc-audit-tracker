@@ -1,0 +1,60 @@
+{
+  "id": "audit-of-the-new-york-city-board-of-corrections-governance-structure-and-accessibility-of-public-meetings-and-website",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the New York City Board of Correction’s Governance Structure and Accessibility of Public Meetings and Website",
+  "plain_title": "How the jail oversight board runs its meetings and website",
+  "agency": "New York City Board of Correction",
+  "issued": "2025-12-31",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-new-york-city-board-of-corrections-governance-structure-and-accessibility-of-public-meetings-and-website/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/SR25-059A.pdf",
+  "what_they_audited": "Whether the Board of Correction, the independent agency that oversees the city's jails, has an adequate governance structure and follows the laws and rules that govern its proceedings and the accessibility of its meetings, website and communications.",
+  "background": "The Board of Correction oversees the Department of Correction and sets minimum standards for the care, custody and treatment of everyone in the department's jails. The board is supposed to have nine members serving six-year terms, with three appointed by the mayor, three by the City Council and three by the mayor on the joint nomination of state appellate judges.",
+  "findings": [
+    {
+      "plain": "The board's committees, which examine critical issues in the city's jails, met behind closed doors. None of the committee meetings were open to the public and minutes, recordings and meeting materials were not posted online as the state Open Meetings Law requires.",
+      "quote": "BOC does not make any of its committee meetings open to the public or post meeting minutes, recordings, or materials discussed at meetings on its website, as required by the Open Meetings Law."
+    },
+    {
+      "plain": "No formal rules spell out what each committee is authorized to do, what members' roles are, how often committees should meet or what records they must keep, so committee operations were inconsistent.",
+      "quote": "there are no formal rules or regulations that govern BOC committees or detail their scope of authority, roles and responsibilities of committee Chairs and members, how often they should meet, and requirements for meeting agendas, notice, and minutes."
+    },
+    {
+      "plain": "Rule changes approved in late 2024 concentrated power over committees in the hands of the board chair, who now controls which committees are created and who serves on and leads them.",
+      "quote": "the new rules gave the Board Chair more control over the establishment and composition of Board committees."
+    },
+    {
+      "plain": "One board member may have been improperly removed by the mayor. She had two appointment letters with different term end dates, and after appellate judges nominated her for reappointment she instead received a letter from the mayor ending her tenure with no explanation.",
+      "quote": "it is unclear whether the Board member was removed by the Mayor prior to the expiration of her term, and, if so, whether this was done without cause."
+    },
+    {
+      "plain": "The board has not consistently had its full slate of nine members. Seats sat vacant for roughly six to 11 months because appointing authorities did not promptly fill them, leaving the City Council and the judiciary underrepresented.",
+      "quote": "from September 2024 through November 13, 2025, the Board had seven to eight members. When Board members resigned, appointing authorities did not promptly fill vacancies, and Board member seats were vacant for approximately six to 11 months."
+    },
+    {
+      "plain": "The board falls short of federal, state and city accessibility requirements. An August 2025 test found 656 accessibility errors on its website, it never made a planned switch to a more accessible virtual meeting platform and its meeting notices omit required information for people with disabilities.",
+      "quote": "based on the audit team’s review in August 2025, the BOC website had 656 accessibility errors."
+    }
+  ],
+  "numbers": [
+    {"value": "656", "label": "Accessibility errors found on the board's website"},
+    {"value": "23", "label": "Accessibility errors on the website's own feedback form"},
+    {"value": "six to 11 months", "label": "How long board seats sat vacant"},
+    {"value": "7,044", "label": "Use-of-force incidents in city jails in fiscal year 2025"}
+  ],
+  "recommendations": [
+    "Hold board committee meetings in compliance with the state Open Meetings Law, including opening them to the public, giving advance notice and posting minutes or recordings on time.",
+    "Write formal rules for each standing and ad hoc committee covering its authority, members' roles, meeting frequency and requirements for agendas, notices and minutes.",
+    "Revisit the rules for creating committees and appointing their members and officers, and consider restoring collective decision-making by the full board.",
+    "Work with the appointing authorities to fill board vacancies promptly so each authority is equally represented.",
+    "Review digital content and coordinate with the Mayor's Office for People with Disabilities and the city's technology office to fix accessibility errors.",
+    "Immediately switch to an accessible virtual meeting platform.",
+    "Update the board's digital accessibility policy and make sure meeting notices include all legally required accessibility information, with accurate details about meeting locations.",
+    "Train staff and officials to handle calls made through Telecommunications Relay Service and periodically reassess the need for assistive listening devices.",
+    "The Mayor's Office of Appointments should share vetting results with board nominees and give them a chance to respond."
+  ],
+  "agency_response": "The board agreed with two recommendations, partially agreed with two, neither agreed nor disagreed with two and disagreed with two, arguing among other things that its committees are advisory and that appointments are outside its control. The Mayor's Office of Appointments did not respond to the recommendation directed at it.",
+  "implementation_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "letter-re-audit-of-the-financial-and-operating-practices-of-the-3-staten-island-community-boards",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Letter Re: Audit of the Financial and Operating Practices of the 3 Staten Island Community Boards",
+  "plain_title": "Leave warning as Staten Island community board audit is called off",
+  "agency": "Staten Island Community Boards",
+  "issued": "2025-03-18",
+  "url": "https://comptroller.nyc.gov/reports/letter-re-audit-of-the-financial-and-operating-practices-of-the-3-staten-island-community-boards/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/FL24-091A.pdf",
+  "what_they_audited": "This is a closure letter, not a full audit report. The Comptroller's office told Staten Island Community Board 2 that a planned audit of the financial and operating practices of the borough's three boards was terminated, and it flagged the district manager's excess annual leave balance.",
+  "background": "Recent changes to the New York City Charter allow the Comptroller to treat all community boards as a single combined agency, so auditing one board's operations in a four-year cycle now fulfills the mandate. Before the change, the office had to audit all 59 community boards every four years.",
+  "findings": [
+    {
+      "plain": "The planned audit of the three Staten Island community boards was terminated because charter changes let the Comptroller satisfy the audit mandate by examining a single board in each four-year cycle.",
+      "quote": "This decision was made based on recent changes to the New York City Charter which allows the Comptroller to treat all Community Boards as a single combined agency."
+    },
+    {
+      "plain": "The district manager of Staten Island Community Board 2 had banked 843.25 hours of annual leave as of November 25, 2024, which is 493.25 hours (70.5 days) over the two-year maximum for managers.",
+      "quote": "an annual leave balance of 843.25 hours, as of November 25, 2024"
+    },
+    {
+      "plain": "Auditors estimated the payout on separation at $61,458.19 with a waiver to carry over the excess and $42,169.57 without one, as much as 41% of the manager's salary and 23% of the board's fiscal year 2025 personal services budget.",
+      "quote": "These amounts were determined to be $61,458.19 and $42,169.57, respectively."
+    },
+    {
+      "plain": "Under the city personnel order, managers may only bank two years of annual leave unless the agency head grants a waiver; without one, excess leave converts to sick leave that pays out at one-third the balance. Either way, unmanaged accruals can strain a board's small budget.",
+      "quote": "a Community Board’s budget and fiscal health can be crippled if leave accruals are not effectively managed"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "843.25 hours",
+      "label": "Board 2 district manager's annual leave balance"
+    },
+    {
+      "value": "70.5 days",
+      "label": "Leave beyond the two-year maximum"
+    },
+    {
+      "value": "$61,458.19",
+      "label": "Estimated payout if excess leave carries over"
+    },
+    {
+      "value": "$42,169.57",
+      "label": "Estimated payout if excess leave converts to sick leave"
+    }
+  ],
+  "recommendations": [
+    "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service.",
+    "Limit authorizations to carry over excess annual leave where practicable.",
+    "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": [
+    "labor",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

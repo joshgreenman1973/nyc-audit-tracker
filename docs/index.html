@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The audit files — comptroller audits of New York City government</title>
-<meta name="description" content="Every New York City Comptroller and New York State Comptroller audit of New York City government since January 1, 2026, in plain language, with links to official sources.">
+<title>The audit files — watchdog reports on New York City government</title>
+<meta name="description" content="Every comptroller audit, Department of Investigation report and court monitor report on New York City government since January 1, 2025, in plain language, with implementation status and links to official sources.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Besley:wght@700;800;900&family=Public+Sans:wght@400;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
@@ -13,12 +13,16 @@
   --paper: #f4efe2;
   --paper-deep: #ece5d2;
   --folder: #e7d9b4;
-  --folder-edge: #cdbd92;
   --ink: #1b1712;
   --ink-soft: #4d453a;
   --stamp: #a8232a;
   --city: #1f3a67;
   --state: #1e5c46;
+  --doi: #8a4d1c;
+  --monitor: #5d2a52;
+  --ok: #1e5c46;
+  --warn: #8a6400;
+  --bad: #a8232a;
   --rule: #b9ad92;
   --highlight: #f7e9a8;
 }
@@ -37,9 +41,8 @@ body::before {
   opacity: .5;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0.42 0 0 0 0 0.38 0 0 0 0 0.30 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
 }
-.wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; position: relative; z-index: 1; }
+.wrap { max-width: 1000px; margin: 0 auto; padding: 0 20px; position: relative; z-index: 1; }
 
-/* ---------- masthead ---------- */
 header.masthead { padding: 52px 0 30px; border-bottom: 3px double var(--ink); }
 .kicker {
   font-family: "Courier Prime", monospace; font-size: 13px; letter-spacing: .14em;
@@ -49,36 +52,33 @@ h1 {
   font-family: "Besley", serif; font-weight: 900; font-size: clamp(44px, 8vw, 84px);
   line-height: .98; letter-spacing: -.01em; margin: 10px 0 18px;
 }
-.dek { font-size: clamp(16px, 2.4vw, 19px); color: var(--ink-soft); max-width: 46em; }
+.dek { font-size: clamp(16px, 2.4vw, 19px); color: var(--ink-soft); max-width: 50em; }
 .fileline {
   margin-top: 22px; font-family: "Courier Prime", monospace; font-size: 13px;
   color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 6px 22px;
 }
 .fileline b { color: var(--ink); font-weight: 700; }
 
-/* ---------- stats ---------- */
-.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 28px 0 8px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin: 28px 0 8px; }
 .stat {
   border: 1.5px solid var(--ink); background: rgba(255,255,255,.4); padding: 12px 14px 10px;
   box-shadow: 3px 3px 0 rgba(27,23,18,.14);
 }
-.stat .n { font-family: "Courier Prime", monospace; font-weight: 700; font-size: clamp(26px, 4vw, 38px); line-height: 1; }
+.stat .n { font-family: "Courier Prime", monospace; font-weight: 700; font-size: clamp(24px, 3.6vw, 36px); line-height: 1; }
 .stat .l { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); margin-top: 5px; }
-@media (max-width: 640px) { .stats { grid-template-columns: repeat(2, 1fr); } }
 
-/* ---------- controls ---------- */
 .controls { padding: 22px 0 6px; }
 .searchrow { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
 input[type="search"] {
-  flex: 1 1 300px; font-family: "Courier Prime", monospace; font-size: 16px;
+  flex: 1 1 280px; font-family: "Courier Prime", monospace; font-size: 16px;
   padding: 11px 14px; border: 1.5px solid var(--ink); background: #fffdf6; color: var(--ink);
   outline: none; border-radius: 0;
 }
 input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
-.toggle { display: flex; border: 1.5px solid var(--ink); background: #fffdf6; }
+.toggle { display: flex; flex-wrap: wrap; border: 1.5px solid var(--ink); background: #fffdf6; }
 .toggle button {
   font-family: "Public Sans", sans-serif; font-size: 13px; font-weight: 600;
-  padding: 10px 14px; border: 0; background: transparent; cursor: pointer; color: var(--ink-soft);
+  padding: 10px 13px; border: 0; background: transparent; cursor: pointer; color: var(--ink-soft);
 }
 .toggle button + button { border-left: 1.5px solid var(--ink); }
 .toggle button.on { background: var(--ink); color: var(--paper); }
@@ -88,23 +88,30 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
   border: 1.2px solid var(--ink-soft); border-radius: 999px; background: transparent; color: var(--ink-soft);
 }
 .chip.on { background: var(--stamp); border-color: var(--stamp); color: #fff; }
+.chip.special { border-style: dashed; }
 .resultline { font-family: "Courier Prime", monospace; font-size: 13px; color: var(--ink-soft); margin: 16px 0 4px; }
 
-/* ---------- cards ---------- */
+.yearrule {
+  display: flex; align-items: center; gap: 14px; margin: 34px 0 4px;
+  font-family: "Besley", serif; font-weight: 900; font-size: 30px;
+}
+.yearrule::after { content: ""; flex: 1; border-top: 1.5px dashed var(--rule); }
+
 .file { margin: 26px 0; position: relative; }
 .file-tab {
   display: inline-flex; align-items: center; gap: 10px;
   background: var(--folder); border: 1.5px solid var(--ink); border-bottom: 0;
-  padding: 6px 16px 8px; margin-left: 18px; position: relative; top: 1.5px;
+  padding: 6px 22px 8px; margin-left: 18px; position: relative; top: 1.5px;
   font-family: "Courier Prime", monospace; font-size: 12.5px; font-weight: 700;
   clip-path: polygon(0 100%, 8px 0, calc(100% - 8px) 0, 100% 100%);
-  padding-left: 22px; padding-right: 22px;
 }
 .badge {
   font-size: 10.5px; letter-spacing: .1em; padding: 2px 7px; color: #fff; font-family: "Public Sans", sans-serif; font-weight: 700;
 }
-.badge.city { background: var(--city); }
-.badge.state { background: var(--state); }
+.badge.nyc { background: var(--city); }
+.badge.osc { background: var(--state); }
+.badge.doi { background: var(--doi); }
+.badge.monitor { background: var(--monitor); }
 .file-body {
   border: 1.5px solid var(--ink); background: #fbf7ea;
   box-shadow: 4px 5px 0 rgba(27,23,18,.16);
@@ -115,11 +122,9 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
   font-family: "Besley", serif; font-weight: 800; font-size: clamp(21px, 3.4vw, 28px);
   line-height: 1.15; margin: 6px 0 10px;
 }
-.file h2 button {
-  all: inherit; cursor: pointer; display: inline; padding: 0; margin: 0;
-}
+.file h2 button { all: inherit; cursor: pointer; display: inline; padding: 0; margin: 0; }
 .file h2 button:hover { color: var(--stamp); }
-.whatline { color: var(--ink-soft); max-width: 60em; }
+.whatline { color: var(--ink-soft); max-width: 62em; }
 .numbers { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
 .num {
   border: 1.5px dashed var(--stamp); color: var(--stamp); padding: 6px 12px 5px;
@@ -133,13 +138,16 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
   color: var(--stamp); border: 2px solid var(--stamp); padding: 3px 9px; background: rgba(244,239,226,.85);
   text-transform: uppercase;
 }
+.statusline {
+  margin-top: 14px; font-family: "Courier Prime", monospace; font-size: 13px; color: var(--ink-soft);
+}
+.statusline b.ok { color: var(--ok); } .statusline b.warn { color: var(--warn); } .statusline b.bad { color: var(--bad); }
 .openbtn {
   margin-top: 16px; font-family: "Courier Prime", monospace; font-weight: 700; font-size: 13.5px;
   background: transparent; border: 1.5px solid var(--ink); padding: 8px 16px; cursor: pointer; color: var(--ink);
 }
 .openbtn:hover { background: var(--ink); color: var(--paper); }
 
-/* ---------- expanded detail ---------- */
 .detail { display: none; margin-top: 20px; border-top: 1.5px dashed var(--rule); padding-top: 18px; }
 .file.open .detail { display: block; }
 .detail h3 {
@@ -147,26 +155,38 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
   letter-spacing: .14em; text-transform: uppercase; color: var(--stamp); margin: 20px 0 10px;
 }
 .detail h3:first-child { margin-top: 0; }
-.finding { margin: 0 0 14px; padding-left: 16px; border-left: 3px solid var(--ink); max-width: 62em; }
+.finding { margin: 0 0 14px; padding-left: 16px; border-left: 3px solid var(--ink); max-width: 64em; }
 .finding .q {
   display: block; margin-top: 6px; font-family: "Courier Prime", monospace; font-size: 13.5px;
   background: var(--highlight); padding: 6px 10px; color: var(--ink);
 }
 .finding .q::before { content: "From the report: "; font-weight: 700; }
-ol.recs { margin: 0 0 6px 22px; max-width: 60em; }
-ol.recs li { margin-bottom: 8px; }
-.response { max-width: 60em; }
+ol.recs { margin: 0 0 6px 22px; max-width: 62em; }
+ol.recs li { margin-bottom: 10px; }
+.st {
+  display: inline-block; font-family: "Public Sans", sans-serif; font-size: 11px; font-weight: 700;
+  letter-spacing: .06em; text-transform: uppercase; padding: 2px 8px; margin-left: 8px;
+  border: 1.5px solid; border-radius: 2px; white-space: nowrap;
+}
+.st.imp { color: var(--ok); border-color: var(--ok); }
+.st.part { color: var(--warn); border-color: var(--warn); }
+.st.not { color: var(--bad); border-color: var(--bad); }
+.st.pend { color: var(--ink-soft); border-color: var(--ink-soft); border-style: dashed; }
+.notebox {
+  border: 1.5px solid var(--ink); background: rgba(255,255,255,.55); padding: 12px 16px;
+  max-width: 62em; margin-bottom: 6px;
+}
+.response { max-width: 62em; }
 .srclinks { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 12px; }
 .srclinks a {
   font-family: "Courier Prime", monospace; font-weight: 700; font-size: 13.5px;
   color: var(--paper); background: var(--ink); text-decoration: none; padding: 9px 16px;
 }
 .srclinks a:hover { background: var(--stamp); }
-.bg { color: var(--ink-soft); max-width: 62em; margin-bottom: 4px; }
+.bg { color: var(--ink-soft); max-width: 64em; margin-bottom: 4px; }
 
-/* ---------- footer ---------- */
 footer { margin-top: 60px; border-top: 3px double var(--ink); padding: 28px 0 60px; }
-footer p { font-size: 14px; color: var(--ink-soft); max-width: 56em; margin-bottom: 10px; }
+footer p { font-size: 14px; color: var(--ink-soft); max-width: 60em; margin-bottom: 10px; }
 footer a { color: var(--ink); }
 .footrow { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; margin: 18px 0; }
 .ai-btn {
@@ -174,7 +194,7 @@ footer a { color: var(--ink); }
   font-weight: 700; font-size: 13px; padding: 10px 16px; cursor: pointer;
 }
 .ai-pop {
-  display: none; background: #12294b; color: #eef2f9; padding: 18px 20px; max-width: 46em;
+  display: none; background: #12294b; color: #eef2f9; padding: 18px 20px; max-width: 48em;
   font-size: 14px; line-height: 1.6; margin-top: 6px;
 }
 .ai-pop.show { display: block; }
@@ -186,18 +206,17 @@ footer a { color: var(--ink); }
 }
 .methlink:hover { background: var(--ink); color: var(--paper); }
 .empty { font-family: "Courier Prime", monospace; padding: 40px 0; color: var(--ink-soft); }
-mark { background: var(--highlight); }
 </style>
 </head>
 <body>
 <div class="wrap">
 
 <header class="masthead">
-  <div class="kicker">City and state comptroller audits of New York City government</div>
+  <div class="kicker">Comptroller audits, investigations and court monitor reports on New York City government</div>
   <h1>The audit files</h1>
-  <p class="dek">New York City government gets audited constantly, by both the city comptroller and the state comptroller, but the results land in long PDFs that few people read. This tracker collects every audit of city agencies and programs since January 1, 2026 and restates what the auditors examined, what they found and what they told the agency to fix, in plain language, with links to every official source.</p>
+  <p class="dek">New York City government answers to a small army of official watchdogs: the city comptroller, the state comptroller, the Department of Investigation and federal court-appointed monitors. Their findings land in long PDFs that few people read. This tracker collects every report on city agencies and programs since January 1, 2025 and restates what the watchdogs examined, what they found, what they told the agency to fix and what has actually been fixed, in plain language, with links to every official source.</p>
   <div class="fileline">
-    <span>File opened: <b>Jan 1, 2026</b></span>
+    <span>File opened: <b>Jan 1, 2025</b></span>
     <span>Last updated: <b id="updated">—</b></span>
     <span>Status: <b>Active</b></span>
   </div>
@@ -207,43 +226,51 @@ mark { background: var(--highlight); }
 
 <section class="controls">
   <div class="searchrow">
-    <input type="search" id="q" placeholder="Search the record (agency, program, keyword...)" aria-label="Search audits">
-    <div class="toggle" id="auditorToggle" role="group" aria-label="Filter by auditor">
-      <button data-aud="all" class="on">All auditors</button>
+    <input type="search" id="q" placeholder="Search the record (agency, program, keyword...)" aria-label="Search reports">
+    <div class="toggle" id="auditorToggle" role="group" aria-label="Filter by watchdog">
+      <button data-aud="all" class="on">All watchdogs</button>
       <button data-aud="nyc">City comptroller</button>
       <button data-aud="osc">State comptroller</button>
+      <button data-aud="doi">Investigation Dept.</button>
+      <button data-aud="monitor">Court monitors</button>
     </div>
   </div>
   <div class="chips" id="topicChips" aria-label="Filter by topic"></div>
+  <div class="chips">
+    <button class="chip special" id="unimpChip">Has recommendations not implemented</button>
+    <button class="chip special" id="fuChip">Follow-ups only</button>
+  </div>
   <div class="resultline" id="resultline"></div>
 </section>
 
 <main id="list" aria-live="polite"></main>
 
 <footer>
-  <p><strong>About this tracker.</strong> Audits of New York City agencies, programs and spending issued on or after January 1, 2026 by the New York City Comptroller's Office and the Office of the New York State Comptroller. Plain-language summaries are drawn only from the text of each official audit page; every card links to the official report and PDF. Full-length reports, appendices and agency response letters live at the source links.</p>
+  <p><strong>About this tracker.</strong> Audits, investigations and monitor reports on New York City agencies, programs and spending issued on or after January 1, 2025 by the New York City Comptroller's Office, the Office of the New York State Comptroller, the New York City Department of Investigation and federal court-appointed monitors. Plain-language summaries are drawn only from the text of each official report; every card links to the official source. Implementation statuses for city comptroller audits come from the comptroller's own Audit Recommendations Tracker and are agency-reported.</p>
   <div class="footrow">
     <a class="methlink" href="methodology.html">Methodology</a>
     <button class="ai-btn" id="aiBtn">AI caution</button>
   </div>
   <div class="ai-pop" id="aiPop">
-    This tracker was built with AI assistance. The audit list, dates, agencies and source links come directly from the two comptrollers' official websites, and every summary is written from the text of the official audit pages, but AI-written summaries can contain errors of emphasis or interpretation. Before relying on any figure or finding, read the official report linked on each card.
+    This tracker was built with AI assistance. Report lists, dates, agencies, source links and implementation statuses come directly from official government websites, and every summary is written from the text of the official reports, but AI-written summaries can contain errors of emphasis or interpretation. Before relying on any figure or finding, read the official report linked on each card.
   </div>
-  <p>Built by Josh Greenman. Data from <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a> and <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>.</p>
+  <p>Built by Josh Greenman. Data from <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, <a href="https://www.nyc.gov/site/doi/newsroom/press-releases.page">nyc.gov/doi</a>, <a href="https://www.nypdmonitor.org/resources-reports/">nypdmonitor.org</a> and <a href="https://tillidgroup.com/projects/nunez-monitorship/">tillidgroup.com</a>.</p>
 </footer>
 
 </div>
 
 <script>
 let DATA = null;
-let state = { q: "", auditor: "all", topics: new Set() };
+let state = { q: "", auditor: "all", topics: new Set(), unimp: false, followup: false };
 
 const $ = s => document.querySelector(s);
 const fmtDate = iso => {
   const [y, m, d] = iso.split("-").map(Number);
   return new Date(y, m - 1, d).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 };
-const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const ST_CLASS = { "Implemented": "imp", "Partially Implemented": "part", "Not Implemented": "not", "Pending": "pend", "N/A": "pend" };
 
 fetch("audits.json").then(r => r.json()).then(d => { DATA = d; init(); });
 
@@ -265,17 +292,27 @@ function init() {
     render();
   }));
   $("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+  $("#unimpChip").addEventListener("click", () => { state.unimp = !state.unimp; $("#unimpChip").classList.toggle("on"); render(); });
+  $("#fuChip").addEventListener("click", () => { state.followup = !state.followup; $("#fuChip").classList.toggle("on"); render(); });
   $("#aiBtn").addEventListener("click", () => $("#aiPop").classList.toggle("show"));
   renderStats();
   render();
 }
 
+function hasUnimplemented(a) {
+  if ((a.rec_statuses || []).some(s => s.status === "Not Implemented")) return true;
+  return /not implemented|not acted|no.{0,20}implement/i.test(a.implementation_note || "");
+}
+
 function renderStats() {
   const A = DATA.audits;
+  const recs = A.reduce((n, a) => n + a.recommendations.length, 0);
+  const imp = A.reduce((n, a) => n + ((a.rec_statuses || []).filter(s => s.status === "Implemented").length), 0);
   const stats = [
-    [A.length, "audits on file"],
+    [A.length, "reports on file"],
     [A.reduce((n, a) => n + a.findings.length, 0), "findings"],
-    [A.reduce((n, a) => n + a.recommendations.length, 0), "recommendations"],
+    [recs, "recommendations"],
+    [imp, "marked implemented"],
     [new Set(A.map(a => a.agency)).size, "agencies examined"],
   ];
   $("#stats").innerHTML = stats.map(([n, l]) =>
@@ -283,8 +320,8 @@ function renderStats() {
 }
 
 function haystack(a) {
-  return [a.title, a.plain_title, a.agency, a.what_they_audited, a.background,
-    a.agency_response, a.topics.join(" "),
+  return [a.title, a.plain_title, a.agency, a.auditor, a.what_they_audited, a.background,
+    a.agency_response, a.implementation_note, a.compliance_note, a.topics.join(" "),
     a.findings.map(f => f.plain + " " + f.quote).join(" "),
     a.numbers.map(n => n.value + " " + n.label).join(" "),
     a.recommendations.join(" ")].join(" ").toLowerCase();
@@ -294,12 +331,20 @@ function render() {
   let rows = DATA.audits;
   if (state.auditor !== "all") rows = rows.filter(a => a.source === state.auditor);
   if (state.topics.size) rows = rows.filter(a => a.topics.some(t => state.topics.has(t)));
+  if (state.unimp) rows = rows.filter(hasUnimplemented);
+  if (state.followup) rows = rows.filter(a => a.is_followup);
   if (state.q) rows = rows.filter(a => haystack(a).includes(state.q));
   $("#resultline").textContent = rows.length === DATA.audits.length
-    ? `Showing all ${rows.length} audits, newest first`
-    : `Showing ${rows.length} of ${DATA.audits.length} audits`;
-  $("#list").innerHTML = rows.length ? rows.map(card).join("")
-    : `<div class="empty">No audits match. Clear a filter or try another term.</div>`;
+    ? `Showing all ${rows.length} reports, newest first`
+    : `Showing ${rows.length} of ${DATA.audits.length} reports`;
+  let html = "", year = "";
+  for (const a of rows) {
+    const y = a.issued.slice(0, 4);
+    if (y !== year) { html += `<div class="yearrule">${y}</div>`; year = y; }
+    html += card(a);
+  }
+  $("#list").innerHTML = rows.length ? html
+    : `<div class="empty">No reports match. Clear a filter or try another term.</div>`;
   document.querySelectorAll(".file").forEach(el => {
     const toggle = () => {
       el.classList.toggle("open");
@@ -312,38 +357,61 @@ function render() {
   });
 }
 
+const BADGE_LABEL = { nyc: "City comptroller", osc: "State comptroller", doi: "Investigation Dept.", monitor: "Court monitor" };
+
+function statusLine(a) {
+  const t = a.status_tally;
+  if (!t) return "";
+  const bits = [];
+  if (t["Implemented"]) bits.push(`<b class="ok">${t["Implemented"]} implemented</b>`);
+  if (t["Partially Implemented"]) bits.push(`<b class="warn">${t["Partially Implemented"]} partially</b>`);
+  if (t["Not Implemented"]) bits.push(`<b class="bad">${t["Not Implemented"]} not implemented</b>`);
+  if (t["Pending"]) bits.push(`${t["Pending"]} pending`);
+  if (t["N/A"]) bits.push(`${t["N/A"]} n/a`);
+  const asof = a.status_as_of ? ` (agency-reported, as of ${fmtDate(a.status_as_of)})` : " (agency-reported)";
+  return `<div class="statusline">Recommendation status: ${bits.join(" · ")}${asof}</div>`;
+}
+
 function card(a) {
-  const badge = a.source === "nyc"
-    ? `<span class="badge city">City comptroller</span>`
-    : `<span class="badge state">State comptroller</span>`;
+  const badge = `<span class="badge ${esc(a.source)}">${BADGE_LABEL[a.source] || esc(a.auditor)}</span>`;
   const nums = a.numbers.map(n =>
     `<div class="num"><div class="v">${esc(n.value)}</div><div class="k">${esc(n.label)}</div></div>`).join("");
   const findings = a.findings.map(f =>
     `<div class="finding">${esc(f.plain)}${f.quote ? `<span class="q">"${esc(f.quote)}"</span>` : ""}</div>`).join("");
-  const recs = a.recommendations.map(r => `<li>${esc(r)}</li>`).join("");
+  const stByN = {};
+  (a.rec_statuses || []).forEach(s => { if (s.n) stByN[s.n] = s; });
+  const recs = a.recommendations.map((r, i) => {
+    const s = stByN[i + 1];
+    const chip = s && ST_CLASS[s.status] ? `<span class="st ${ST_CLASS[s.status]}">${esc(s.status)}</span>` : "";
+    return `<li>${esc(r)}${chip}</li>`;
+  }).join("");
+  const auditorLine = a.source === "monitor" || a.source === "doi" ? ` · ${esc(a.auditor)}` : "";
   return `
   <article class="file" id="${esc(a.id)}">
     ${a.is_followup ? `<div class="stamp-followup">Follow-up</div>` : ""}
     <div class="file-tab">${badge}<span>${fmtDate(a.issued)}</span></div>
     <div class="file-body">
-      <div class="agencyline">${esc(a.agency)}</div>
+      <div class="agencyline">${esc(a.agency)}${auditorLine}</div>
       <h2><button aria-expanded="false">${esc(a.plain_title)}</button></h2>
       <p class="whatline">${esc(a.what_they_audited)}</p>
       ${nums ? `<div class="numbers">${nums}</div>` : ""}
+      ${statusLine(a)}
       <button class="openbtn" aria-expanded="false">Open the file +</button>
       <div class="detail">
         <h3>Background</h3>
         <p class="bg">${esc(a.background)}</p>
-        <h3>What the auditors found</h3>
+        <h3>What they found</h3>
         ${findings}
-        <h3>What they told the agency to do</h3>
+        <h3>What they said should change</h3>
         <ol class="recs">${recs}</ol>
+        ${a.implementation_note ? `<h3>Implementation</h3><div class="notebox">${esc(a.implementation_note)}</div>` : ""}
+        ${a.compliance_note ? `<h3>Compliance assessment</h3><div class="notebox">${esc(a.compliance_note)}</div>` : ""}
         ${a.agency_response ? `<h3>How the agency responded</h3><p class="response">${esc(a.agency_response)}</p>` : ""}
         <div class="srclinks">
-          <a href="${esc(a.url)}" target="_blank" rel="noopener">Official audit page ↗</a>
-          ${a.pdf ? `<a href="${esc(a.pdf)}" target="_blank" rel="noopener">Full report (PDF) ↗</a>` : ""}
+          <a href="${esc(a.url)}" target="_blank" rel="noopener">Official report page ↗</a>
+          ${a.pdf && a.pdf !== a.url ? `<a href="${esc(a.pdf)}" target="_blank" rel="noopener">Full report (PDF) ↗</a>` : ""}
         </div>
-        <p class="bg" style="margin-top:14px">Official title: ${esc(a.title)}. Issued ${fmtDate(a.issued)} by the ${esc(a.auditor)}'s office.</p>
+        <p class="bg" style="margin-top:14px">Official title: ${esc(a.title)}. Issued ${fmtDate(a.issued)} by the ${esc(a.auditor)}.</p>
       </div>
     </div>
   </article>`;

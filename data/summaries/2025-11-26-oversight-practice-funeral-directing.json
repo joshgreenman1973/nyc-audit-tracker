@@ -1,0 +1,73 @@
+{
+ "id": "2025-11-26-oversight-practice-funeral-directing",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Oversight of the Practice of Funeral Directing",
+ "plain_title": "State and city oversight of funeral directors",
+ "agency": "New York State Department of Health and New York City Department of Health and Mental Hygiene",
+ "issued": "2025-11-26",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/11/26/oversight-practice-funeral-directing",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-22s47.pdf",
+ "what_they_audited": "Whether the state Department of Health effectively oversees the practice of funeral directing under state law and whether the New York City Department of Health and Mental Hygiene effectively oversees selected aspects of the practice. The audit covered April 2019 through November 2023.",
+ "background": "Under the Public Health Law, only licensed and registered funeral directors working at registered firms may handle the care, preparation and burial or cremation of the dead. Deaths outside New York City are registered in the state's Electronic Death Registration System and deaths in the city in the city's eVital system; together the systems recorded 801,421 deaths statewide during the audit period.",
+ "findings": [
+  {
+   "plain": "Some funeral directors interviewed said they do not use the tests prescribed by regulation to verify that death has occurred, and some said they do not always label or otherwise identify the bodies in their care, raising the risk of misidentification.",
+   "quote": "some said they don’t always label or otherwise identify the bodies in their care, increasing the risk that bodies may be misidentified."
+  },
+  {
+   "plain": "The state health department has reduced or no assurance that some funeral firms met, or still meet, the required standards for their preparation rooms.",
+   "quote": "DOH has reduced or no assurance that some firms initially met or continue to meet standards for their preparation rooms."
+  },
+  {
+   "plain": "In more than 2,500 cases, deaths were registered after the bodies had already been buried or cremated, according to the two vital records systems.",
+   "quote": "There were more than 2,500 cases in which deaths were registered after the disposition of bodies"
+  },
+  {
+   "plain": "Auditors found two instances where a firm may have been practicing at an unknown or unregistered location and over 23,000 death certificates issued in the state and city systems by unregistered or unknown funeral directors or firms.",
+   "quote": "over 23,000 death certificates that were issued in both DOH and DOHMH’s systems by unregistered or unknown funeral directors and/or firms."
+  },
+  {
+   "plain": "Auditors identified 7,484 death certificates with duplicated or missing Social Security numbers, which undermines the certificates' accuracy and their usefulness in post-death arrangements.",
+   "quote": "We identified 7,484 death certificates (2,785 EDRS, 4,699 eVital) with duplicated or no SSNs"
+  },
+  {
+   "plain": "The state's practices for learning about and following up on funeral firm closures give it little assurance that it has the information needed to investigate risks.",
+   "quote": "DOH’s practices for learning about and following up on firm closures provide little assurance that it has the information it needs to investigate any risks identified."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "801,421",
+   "label": "Deaths recorded statewide during the audit period"
+  },
+  {
+   "value": "23,000",
+   "label": "Death certificates issued by unregistered or unknown directors or firms"
+  },
+  {
+   "value": "7,484",
+   "label": "Death certificates with duplicated or missing Social Security numbers"
+  },
+  {
+   "value": "2,500",
+   "label": "Deaths registered only after burial or cremation"
+  }
+ ],
+ "recommendations": [
+  "To the state Department of Health: take steps to better ensure funeral directors and firms know about and comply with required death tests and minimize the risk of misidentifying human remains.",
+  "To the state Department of Health: take action to gain greater assurance that firms meet requirements for their preparation rooms.",
+  "To the state Department of Health: work with the city health department on an approach to identify and follow up on the risk that bodies are buried or cremated before the death is registered.",
+  "To the state Department of Health: strengthen methods to identify and address unauthorized funeral directing by unregistered directors or firms or at unregistered locations, which might include better internal communication between its funeral directing and vital records bureaus.",
+  "To the state Department of Health: evaluate the benefit of inspecting funeral firms based on identified risks and document the results.",
+  "To the state Department of Health: take steps to improve assurance that closing or closed firms have actually stopped operating.",
+  "To both departments: improve interagency communication, which could include analyzing registration data and sharing results, to better identify and address unauthorized funeral directing activity.",
+  "To both departments: improve the completeness and accuracy of Social Security number information on death certificates in their respective systems."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "health"
+ ],
+ "is_followup": false
+}

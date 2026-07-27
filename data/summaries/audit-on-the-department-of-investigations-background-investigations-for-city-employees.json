@@ -1,0 +1,90 @@
+{
+  "id": "audit-on-the-department-of-investigations-background-investigations-for-city-employees",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit on the Department of Investigation’s Background Investigations for City Employees",
+  "plain_title": "City background checks lagged years behind hiring",
+  "agency": "New York City Department of Investigation",
+  "issued": "2025-12-16",
+  "url": "https://comptroller.nyc.gov/reports/audit-on-the-department-of-investigations-background-investigations-for-city-employees/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/12/MD25-055A.pdf",
+  "what_they_audited": "Whether the Department of Investigation, the city's watchdog agency, conducts background investigations of high-level and sensitive city hires well enough to identify adverse information in a timely way. The audit covered July 1, 2022 through December 31, 2024.",
+  "background": "Mayoral executive orders require the Department of Investigation to run background checks on city employees appointed to positions of responsibility, such as those earning more than $125,000 or with authority over contracts, but agencies generally hire candidates before the check is finished. By July 1, 2019 the department had accumulated a backlog of 6,479 pending investigations.",
+  "findings": [
+    {
+      "plain": "Backlogged cases took years to resolve. Backlogged investigations closed during the audit period had been pending an average of 5.7 years, with delays ranging from three to eight years.",
+      "quote": "backlogged investigations closed during the audit scope period were pending for an average of 5.7 years, with delays ranging from three to eight years"
+    },
+    {
+      "plain": "Two in five backlogged cases were closed without a completed investigation because the person had already retired or otherwise left city government.",
+      "quote": "40% of all cases closed during this period were administratively closed because the subject of the investigation had already left City service or retired"
+    },
+    {
+      "plain": "People with criminal histories or other red flags served in positions of trust while their checks sat pending. Auditors found evidence of criminal history in 27 of 30 sampled backlogged files, and those cases were pending almost six years on average.",
+      "quote": "auditors found evidence of criminal history in 27 of 30 sampled files, including petty larceny, driving while intoxicated, attempted criminal possession of a controlled substance, and aggravated unlicensed operation of a motor vehicle"
+    },
+    {
+      "plain": "The department does not advise agencies on whether a candidate is suitable and does not track what agencies do when a check turns up adverse information, which the audit calls a gap in oversight.",
+      "quote": "DOI does not track whether candidates with adverse information are retained by agencies."
+    },
+    {
+      "plain": "Case files were incomplete. Of 50 sampled files with completed investigations, 30 were missing required documents or evidence that steps such as tax checks or education verification were taken.",
+      "quote": "Of the remaining 50 sampled files, 30 (60%) were missing required documents or evidence that certain investigation steps were performed."
+    },
+    {
+      "plain": "Fingerprint records that must be destroyed within three months of closing a case were still in 31 of 75 sampled files, an issue a state review also flagged in 2021.",
+      "quote": "Fingerprint results were found in 31 (41%) of 75 sampled files."
+    },
+    {
+      "plain": "New investigations are on track. The department has prevented a new backlog from forming since July 1, 2019 and completed 99% of routine checks in under 180 days.",
+      "quote": "DOI completed 99% of the routine background investigations it received in under 180 days."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "6,479",
+      "label": "Backlogged investigations pending as of July 1, 2019"
+    },
+    {
+      "value": "5.7 years",
+      "label": "Average pendency of backlogged cases closed in the period"
+    },
+    {
+      "value": "40%",
+      "label": "Backlogged cases closed because the person had left"
+    },
+    {
+      "value": "60%",
+      "label": "Sampled case files missing documents or evidence of steps"
+    },
+    {
+      "value": "99%",
+      "label": "Routine checks completed in under 180 days"
+    },
+    {
+      "value": "22",
+      "label": "Backlog cases remaining as of October 16, 2025"
+    }
+  ],
+  "recommendations": [
+    "Assign administrative staff to check the city's Payroll Management System for remaining backlog cases and administratively close cases where the person is no longer employed.",
+    "Consider making recommendations or otherwise giving agencies guidance on how certain kinds of adverse information should affect the suitability of appointments.",
+    "Consider tracking whether candidates are retained or terminated when investigations identify adverse information.",
+    "Require the use of checklists and review forms so every applicable investigation step is conducted and documented.",
+    "Establish written timeframes for completing expedited, priority and backlog investigations.",
+    "Report separately in the Mayor's Management Report on completion timelines for routine, expedited, priority and backlog investigations.",
+    "Consider creating additional closing categories, or severity levels within the catch-all \"Other\" category.",
+    "Ensure fingerprints and results are removed from files within required timeframes and monitor compliance on a periodic sample basis.",
+    "Conduct periodic reviews to make sure agencies are submitting all required candidates for background investigations.",
+    "Consider tracking appointment dates to determine whether agencies submit applications within required timeframes.",
+    "Issue updated memos or guidance to city agencies at least every two years on their responsibilities for submitting background investigation packages.",
+    "Ensure Kaseware, the department's new case system, has adequate documentation, including a data dictionary."
+  ],
+  "agency_response": "The Department of Investigation agreed with four of the 12 recommendations and disagreed with the other eight, objecting in particular to the ideas that it should advise agencies on hiring suitability or track hiring outcomes.",
+  "implementation_note": "",
+  "topics": [
+    "transparency",
+    "labor"
+  ],
+  "is_followup": false
+}

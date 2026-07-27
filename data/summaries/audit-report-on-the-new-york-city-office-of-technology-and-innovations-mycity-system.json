@@ -1,0 +1,62 @@
+{
+  "id": "audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the New York City Office of Technology and Innovation’s MyCity System",
+  "plain_title": "What the city got for $100 million spent on the MyCity portal",
+  "agency": "New York City Office of Technology and Innovation",
+  "issued": "2025-12-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/MyCity-System-Development-Public-Final-report-12-30-25-final-copy.pdf",
+  "what_they_audited": "Whether MyCity, the online portal the Office of Technology and Innovation built to be a one-stop shop for city services and benefits, actually streamlines the delivery of services and lets the city track agency performance in real time.",
+  "background": "Mayor Adams announced MyCity in January 2022 as a single platform where New Yorkers could search and apply for city services and benefits, with a universal application, proactive benefit recommendations and a digital wallet. It was meant especially to help low-income New Yorkers who qualify for benefits but do not receive them because applications are complicated and time-consuming.",
+  "findings": [
+    {
+      "plain": "After more than four years and over $100 million, the promised one-stop shop does not exist. Users still cannot apply for city benefits through a single form or receive benefits through a digital wallet, and the office wants $81 million more.",
+      "quote": "the agency has very little else to show after spending more than four years and $100 million on the program."
+    },
+    {
+      "plain": "The office lacked a clear vision and detailed development plan. It paid a consultant $2.5 million for project plans, a roadmap and cost estimates but could not show auditors any evidence those deliverables were ever produced.",
+      "quote": "OTI has failed to produce any evidence that IBC delivered to the City a roadmap document, detailed project plans, or associated cost estimates."
+    },
+    {
+      "plain": "Most of MyCity's portals are old city websites with new paint. The benefits portal simply sends users to the preexisting ACCESS NYC site, and the jobs and business portals mainly rebrand pages that already existed.",
+      "quote": "it largely redirects users to pre-existing City websites that have been rebranded and redesigned as MyCity applications."
+    },
+    {
+      "plain": "The childcare portal, the program's most developed piece, lacks basic eligibility checks based on a child's age and household income. Nearly half of all applications submitted through it were found ineligible.",
+      "quote": "140,760 applications were submitted through MyCity since inception, of which 65,369 (46%) were ineligible (as of October 2025)."
+    },
+    {
+      "plain": "Project management and contract oversight were poor. The office spread the work across roughly 50 vendors and more than 120 agreements without documented build-versus-buy analysis or adequate records showing it oversaw deliverables.",
+      "quote": "OTI spent approximately $100 million through more than 120 agreements (including contracts, purchase orders, and delivery orders) to plan, design, develop, and implement MyCity."
+    },
+    {
+      "plain": "The portal performs badly for users, with slow page loads and response times. Scans gave the childcare voucher mobile site a score of 7 out of 100.",
+      "quote": "The new mobile site for the childcare voucher scored 7 out of 100, while the desktop version scored 9 out of 100."
+    },
+    {
+      "plain": "The MyCity artificial intelligence chatbot gives inaccurate and inconsistent answers, sometimes responding differently to the identical question, and most users who left feedback were dissatisfied. The portal also does not track city agency performance as promised.",
+      "quote": "50 out of 70 respondents (71.4%) submitted negative feedback, indicating their dissatisfaction with the Chatbot’s answers."
+    }
+  ],
+  "numbers": [
+    {"value": "$100 million", "label": "Spent on MyCity over more than four years"},
+    {"value": "$81 million", "label": "Additional funding requested in the 2026 budget"},
+    {"value": "46%", "label": "Childcare applications through the portal found ineligible"},
+    {"value": "71.4%", "label": "Chatbot feedback that was negative"}
+  ],
+  "recommendations": [
+    "Conduct a comprehensive review of the project's technical, economic, legal and operational feasibility to decide whether to continue, change scope or terminate it to minimize wasted resources.",
+    "Develop a clear, detailed project plan for MyCity's end state, with detailed functional requirements and time and cost benchmarks.",
+    "Establish a dedicated project management team responsible for meeting short and long-term goals on time and within budget.",
+    "Hold vendors accountable for expected deliverables, timelines, budgets and standards.",
+    "Build eligibility criteria into the childcare application to alert users to, or prevent submission of, applications that would be ineligible.",
+    "Make sure MyCity meets the minimum standards in the city's own policy for performance testing of public-facing applications.",
+    "Run structured testing exercises known as artificial intelligence red-teaming to find chatbot flaws such as inaccurate or inconsistent responses and improve data quality."
+  ],
+  "agency_response": "The office disagreed with all seven recommendations and with the findings on project management and contract oversight, arguing the report misstates MyCity's intent and that the platform was never meant to replace individual agency websites. It nonetheless said it welcomes a level-setting program review.",
+  "implementation_note": "",
+  "topics": ["technology", "money and contracts"],
+  "is_followup": false
+}

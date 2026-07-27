@@ -1,0 +1,50 @@
+{
+  "id": "final-audit-letter-report-on-the-office-of-administrative-tax-appeals-equitable-handling-of-appeals-of-real-property-assessment",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report on the Office of Administrative Tax Appeals’ Equitable Handling of Appeals of Real Property Assessment",
+  "plain_title": "Property tax appeals take longer in Queens and Staten Island",
+  "agency": "New York City Office of Administrative Tax Appeals",
+  "issued": "2025-12-29",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-office-of-administrative-tax-appeals-equitable-handling-of-appeals-of-real-property-assessment/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/OATA-Final-Letter-Report_12.29.25.pdf",
+  "what_they_audited": "This audit letter report looked at how the Office of Administrative Tax Appeals (OATA) handles property owners' appeals of their real property assessments, and whether it processes and reviews those appeals fairly and equitably.",
+  "background": "Real property tax is the city's largest source of tax revenue. Owners who disagree with the Department of Finance's assessment of their property value can appeal to OATA, an independent agency created by Local Law 59 of 2007; about 57,000 appeal applications were filed annually in tax years 2023-24 and 2024-25.",
+  "findings": [
+    {
+      "plain": "Once hearings are scheduled, OATA treats all applications fairly and equitably, and it conducts internal supervisory reviews to help keep decisions consistent and accurate.",
+      "quote": "The audit found that OATA treats all applications fairly and equitably once appeal hearings are scheduled."
+    },
+    {
+      "plain": "Property owners in Queens and Staten Island waited longer than owners in other boroughs. In tax year 2023-24 their appeals took an average of 198 days to process, 37 days longer than Manhattan and the Bronx, and the pattern continued in 2024-25.",
+      "quote": "property owners in Queens and Staten Island on average experienced longer wait times to receive hearings and determinations for their appeals compared to other boroughs."
+    },
+    {
+      "plain": "Because OATA schedules high-value properties first, owners of lower-value properties get hearings later in the year. In tax year 2023-24, 45% of Staten Island applicants and 42% of Queens applicants had hearings in the last quarter of the year, compared with just 18% in Manhattan.",
+      "quote": "This prioritization results in property owners in certain boroughs waiting longer for hearings, and ultimately the final determination of their applications."
+    },
+    {
+      "plain": "OATA did not keep formal workpapers documenting supervisory reviews of hearing officers' decisions. Supervisors sometimes recorded notes on informal paper slips such as Post-it Notes, so auditors could not verify the required checks happened.",
+      "quote": "OATA did not maintain formal workpapers to document the supervisory reviews conducted by supervising hearing officers"
+    },
+    {
+      "plain": "The audit identified a loophole: many owners of Class 1 homes file an appeal, then ask OATA for \"no further review\" before a decision and instead take their case to the state's Small Claims Assessment Review (SCAR), where they win far more often. Of 768 applicants who went to SCAR over two tax years, 93.4% got a reduction, versus 10.3% of Class 1 applicants who completed OATA's process.",
+      "quote": "The data suggests that property owners are using this loophole to forum shop in an effort to increase the likelihood of obtaining a reduction."
+    }
+  ],
+  "numbers": [
+    {"value": "198 days", "label": "Average appeal wait in Queens and Staten Island, 2023-24"},
+    {"value": "57,000", "label": "Approximate annual appeal applications filed"},
+    {"value": "93.4%", "label": "Share of state small claims filers who won a reduction"},
+    {"value": "10.3%", "label": "Share of Class 1 applicants offered a reduction by OATA"}
+  ],
+  "recommendations": [
+    "Consider modifying how hearings are scheduled so processing times are not delayed based on the applicant's borough.",
+    "Document supervisory reviews using standardized workpapers or templates, stored securely in a physical file or electronic system.",
+    "Consult with the Department of Finance, the Office of Management and Budget and others on whether state small claims and OATA apply consistent property tax principles, and whether to close the \"no further review\" loophole."
+  ],
+  "agency_response": "OATA agreed with two of the three recommendations. It neither agreed nor disagreed with the third, saying it has no control over the state's small claims hearing process.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "housing", "transparency"],
+  "is_followup": false
+}

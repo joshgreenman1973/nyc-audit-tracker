@@ -1,4 +1,4 @@
-name: Weekly audit check
+name: Weekly refresh and new-audit check
 
 on:
   schedule:
@@ -6,45 +6,58 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   issues: write
 
 jobs:
-  check:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch latest audits
+
+      - name: Fetch latest comptroller audits
         run: python3 scripts/fetch_audits.py
-      - name: Check for audits without summaries
-        id: gap
+
+      - name: Refresh implementation statuses from comptroller tracker
+        run: python3 scripts/fetch_rec_status.py
+
+      - name: Rebuild site data (fails if new audits lack summaries)
+        id: build
+        run: python3 scripts/build_site.py
+
+      - name: Commit refreshed data
+        if: success()
         run: |
-          python3 - <<'EOF'
-          import json, pathlib, sys
-          raw = json.load(open("data/audits_raw.json"))
-          missing = []
-          for a in raw:
-              slug = a["url"].rstrip("/").split("/")[-1]
-              if not pathlib.Path(f"data/summaries/{slug}.json").exists():
-                  missing.append(f"- {a['issued']} {a.get('title','')} {a['url']}")
-          if missing:
-              open("missing.txt","w").write("\n".join(missing))
-              print("New audits need plain-language summaries:")
-              print("\n".join(missing))
-              sys.exit(1)
-          print("No new audits. Tracker is current.")
-          EOF
-      - name: Open issue for new audits
+          git config user.name "audit-files-bot"
+          git config user.email "actions@github.com"
+          git add data/audits_raw.json data/nyc_rec_status.json docs/audits.json
+          git diff --cached --quiet || git commit -m "Weekly refresh: implementation statuses and audit list"
+          git push
+
+      - name: Open issue when new audits need summaries
         if: failure()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -f missing.txt ]; then
+          BODY=$(python3 - <<'EOF'
+          import json, pathlib, re
+          def slug_of(url):
+              u=url.rstrip("/")
+              m=re.search(r"/audits/(\d{4})/(\d\d)/(\d\d)/([a-z0-9-]+)$", u)
+              if m: return f"{m.group(1)}-{m.group(2)}-{m.group(3)}-{m.group(4)}"
+              return u.split("/")[-1]
+          raw=json.load(open("data/audits_raw.json"))
+          missing=[a for a in raw if not pathlib.Path(f"data/summaries/{slug_of(a['url'])}.json").exists()]
+          for a in missing:
+              print(f"- {a['issued']} {a.get('title','')} {a['url']}")
+          EOF
+          )
+          if [ -n "$BODY" ]; then
             gh issue create \
               --title "New comptroller audits need summaries ($(date +%Y-%m-%d))" \
-              --body "$(printf 'The weekly check found audits not yet in the tracker:\n\n%s\n\nRun the summarize step and rebuild docs/audits.json.' "$(cat missing.txt)")" \
+              --body "$(printf 'The weekly refresh found audits not yet in the tracker:\n\n%s\n\nSummarize them into data/summaries/ and rebuild.' "$BODY")" \
               --repo "$GITHUB_REPOSITORY"
           fi

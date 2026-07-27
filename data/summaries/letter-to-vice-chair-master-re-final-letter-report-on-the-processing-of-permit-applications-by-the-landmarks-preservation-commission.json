@@ -1,0 +1,60 @@
+{
+  "id": "letter-to-vice-chair-master-re-final-letter-report-on-the-processing-of-permit-applications-by-the-landmarks-preservation-commission",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Letter to Vice Chair Master Re: Final Letter Report on the Processing of Permit Applications by the Landmarks Preservation Commission",
+  "plain_title": "Landmark work permits sped up after a digital portal",
+  "agency": "New York City Landmarks Preservation Commission",
+  "issued": "2025-12-09",
+  "url": "https://comptroller.nyc.gov/reports/letter-to-vice-chair-master-re-final-letter-report-on-the-processing-of-permit-applications-by-the-landmarks-preservation-commission/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/FL25-058A.pdf",
+  "what_they_audited": "A letter report assessing how the Landmarks Preservation Commission processes applications for permits to do work on landmarked properties, covering July 1, 2022 through June 30, 2025.",
+  "background": "The commission regulates changes to more than 38,000 landmarked properties and reported receiving 12,211 permit applications in fiscal year 2023 alone. In March 2024 it launched Portico, a web portal that lets owners of landmarked buildings apply for permits and track their applications electronically.",
+  "findings": [
+    {
+      "plain": "The commission generally followed its own procedures. Of 50 sampled applications, 47 resulted in permits, and the three that did not had open violations, were withdrawn or lacked required documents.",
+      "quote": "auditors concluded that LPC satisfactorily complied with its protocols when processing permit applications and issuing permits"
+    },
+    {
+      "plain": "Processing got faster after the Portico portal launched. Average processing time for certificates of no effect dropped 33% and the share of permits issued on time rose for all four permit types reviewed.",
+      "quote": "Since the implementation of Portico, the percentage of permits issued within established timeframes for the four permit types reviewed has increased"
+    },
+    {
+      "plain": "Some targets were missed. 98% of expedited certificates of no effect were issued within two business days against a 100% target, and only 55% of certificates of appropriateness were issued within 10 business days.",
+      "quote": "Although LPC came close, it did not meet its target for issuing 100% of XCNEs within two business days."
+    },
+    {
+      "plain": "Two of the 47 sampled applications that received permits were missing the commission's required approval stamp.",
+      "quote": "all but two of the 47 sampled applications that were issued permits had LPC’s Approval Stamp"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "38,000",
+      "label": "Landmarked properties under the commission's oversight"
+    },
+    {
+      "value": "12,211",
+      "label": "Permit applications received in fiscal year 2023"
+    },
+    {
+      "value": "33%",
+      "label": "Drop in processing time for certificates of no effect"
+    },
+    {
+      "value": "55%",
+      "label": "Certificates of appropriateness issued within 10 days"
+    }
+  ],
+  "recommendations": [
+    "Ensure every permit carries the commission's approval stamp before it is issued.",
+    "Make efforts to issue certificates of appropriateness within 10 business days.",
+    "Consider setting percentage goals for issuing permits for minor work within established timeframes."
+  ],
+  "agency_response": "The commission agreed with the audit findings and all three recommendations.",
+  "implementation_note": "",
+  "topics": [
+    "housing"
+  ],
+  "is_followup": false
+}

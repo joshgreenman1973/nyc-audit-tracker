@@ -1,0 +1,59 @@
+{
+  "id": "final-audit-letter-report-on-the-new-york-city-fire-pension-funds-other-than-personal-services-expenditures",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report on the New York City Fire Pension Fund’s Other Than Personal Services Expenditures",
+  "plain_title": "Fire pension fund spending mostly proper but controls are weak",
+  "agency": "New York City Fire Pension Fund",
+  "issued": "2025-06-27",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-new-york-city-fire-pension-funds-other-than-personal-services-expenditures/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/FM24-086A.pdf",
+  "what_they_audited": "In this final audit letter report, auditors examined whether the Fire Pension Fund's other than personal services expenditures, meaning nonsalary operating costs like supplies, travel and vendor contracts, were spent during fiscal years 2023 and 2024 in accordance with its policies and other rules, and whether the spending was necessary and related to its mission.",
+  "background": "The Fire Pension Fund is one of the five New York City retirement systems, administering pension benefits for more than 28,000 active members, retirees and beneficiaries of the fire department. Its fiscal year 2024 administrative expenses totaled $11 million, including $4.4 million in other than personal services expenditures.",
+  "findings": [
+    {
+      "plain": "Overall, the fund's nonsalary spending largely followed the rules and was necessary and mission-related, but auditors found several weaknesses in the fund's controls over that spending.",
+      "quote": "FPF’s OTPS expenditures were, for the most part, spent in accordance with relevant rules and regulations, and were necessary and related to its mission"
+    },
+    {
+      "plain": "Five fund employees attended two out-of-town conferences in fiscal year 2024 at a cost of $11,195, but the fund did not provide the required justification for all five attendees.",
+      "quote": "FPF did not provide justification for all five employees who attended the conferences"
+    },
+    {
+      "plain": "The fund misreported certain expenses in its annual financial reports, counting $2.4 million of investment-related expenses and $56,991 of member-related payments as nonsalary operating spending. That overstated those expenditures and the reported gains of its investment portfolio.",
+      "quote": "FPF reported $2.4 million of investment-related expenses as OTPS expenditures in its ACFRs for FYs 2023 and 2024"
+    },
+    {
+      "plain": "The fund recorded information technology consultant costs in the wrong year, which after review of additional documentation meant its nonsalary spending was overstated in fiscal year 2023 and understated in fiscal year 2024 by $930,000.",
+      "quote": "FPF OTPS expenditures were overstated in FY2023 and understated in FY2024 by $930,000, as opposed to $303,287"
+    },
+    {
+      "plain": "The fund did not divide key financial duties among different staff, a safeguard against error or fraud. A single person issued purchase orders, assigned budget codes, prepared payment vouchers and processed payments in the banking system.",
+      "quote": "FPF designated one person to issue purchase orders, assign budget codes, prepare payment vouchers, and process checks and electronic fund transfers (EFT) in the banking system"
+    },
+    {
+      "plain": "The fund also recorded some transactions in its general ledger months late, paid three of 54 sampled invoices more than 30 days after the invoice date without justification and has no implemented policies and procedures for procurement and travel expenses.",
+      "quote": "FPF does not have policies and procedures for procurement and travel expenses."
+    }
+  ],
+  "numbers": [
+    {"value": "$4.4 million", "label": "Nonsalary spending in fiscal year 2024"},
+    {"value": "$2.4 million", "label": "Investment expenses misreported as nonsalary spending"},
+    {"value": "$930,000", "label": "Amount misstated across fiscal years 2023 and 2024"},
+    {"value": "$11,195", "label": "Cost of two conferences lacking full justification"},
+    {"value": "28,000", "label": "Active members, retirees and beneficiaries served"}
+  ],
+  "recommendations": [
+    "Obtain post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits the fund.",
+    "Stop reporting investment and member-related payments as other than personal services expenditures.",
+    "Accurately report expenditures in the period the expenses are incurred.",
+    "Segregate duties for the expenditure process or implement compensating controls such as management review and dual authorization.",
+    "Promptly record payment transactions in the general ledger.",
+    "Process payments to vendors within 30 days of receiving the invoices.",
+    "Establish and implement internal procurement and travel policies and procedures."
+  ],
+  "agency_response": "The fund agreed with two recommendations, partially agreed with one and did not explicitly agree or disagree with the remaining four, in some cases citing its small staff and plans for a new accounting system. Auditors reiterated those recommendations.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "transparency"],
+  "is_followup": false
+}

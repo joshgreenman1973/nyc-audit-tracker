@@ -1,0 +1,83 @@
+{
+ "id": "2025-11-25-oversight-language-access-services",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Oversight of Language Access Services",
+ "plain_title": "How well city hospitals serve patients with limited English",
+ "agency": "New York City Health and Hospitals Corporation",
+ "issued": "2025-11-25",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/11/25/oversight-language-access-services",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n11.pdf",
+ "what_they_audited": "Whether New York City Health + Hospitals, the city's public hospital system, adequately serves patients with limited English proficiency, complies with state regulations and local laws and provides enough oversight of its language access services. The audit covered January 2019 through December 2024.",
+ "background": "Health + Hospitals, the nation's largest municipal public health care system, serves about 1 million New Yorkers a year, and the Census Bureau estimates over 1.7 million city residents have limited English proficiency. In fiscal year 2024 the system answered 2.6 million requests for language services with 35.6 million minutes of interpretation in 255 languages and dialects at a cost of $24.1 million.",
+ "findings": [
+  {
+   "plain": "The system did not adequately oversee its language services data. Records had missing or mislabeled information, the system could not confirm that interpretation in rarer languages was actually provided and it did not reconcile the data against vendor invoices.",
+   "quote": "H+H did not reconcile LAS data with billed invoices, and there are no standard review procedures for invoices."
+  },
+  {
+   "plain": "The system has not fully met state regulatory requirements. It failed to perform required annual assessments of limited English proficiency needs for 2019 through 2023, workers at Bellevue Hospital missed 4,061 required annual training sessions and no training records were provided for Woodhull and Harlem hospitals.",
+   "quote": "H+H failed to perform required annual LEP needs assessments for years 2019–2023"
+  },
+  {
+   "plain": "There is no centralized list of qualified in-house interpreters and bilingual staff, and lists at individual facilities were missing or outdated. Some bilingual staff interpretation was never reported in the data.",
+   "quote": "H+H lacks a centralized list of qualified in-house interpreters and bilingual staff."
+  },
+  {
+   "plain": "Twenty-nine facilities or programs had no language access policies at all, and at the 21 that did, policies did not always match systemwide guidelines or actual practice.",
+   "quote": "We found 29 facilities/programs had no LAS policies."
+  },
+  {
+   "plain": "Auditors found no assurance that translations of medical records, after-visit summaries and discharge papers are managed and tracked for accuracy, and the system could not confirm that patient calls lasting 2 hours were reviewed.",
+   "quote": "We have no assurance that H+H manages and tracks translations of patient medical records, after-visit summaries, and discharge papers into different languages"
+  },
+  {
+   "plain": "Bilingual state auditors made anonymous, unannounced calls and visits and hit barriers: staff who did not try to connect them to an interpreter, hard-to-navigate automated phone systems and no language access through the system's street outreach mobile units.",
+   "quote": "Instances where H+H staff did not attempt to connect callers to an interpreter or to provide information."
+  },
+  {
+   "plain": "Contract payments were poorly managed. The system overpaid language vendors $215,879 between January 2022 and June 2024, including phone interpretation billed at higher video rates, and would have saved $8,247,840 over two fiscal years by negotiating or using vendors with lower per-minute rates.",
+   "quote": "H+H made $215,879 in overpayments to vendors for LAS."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$24.1 million",
+   "label": "Cost of interpretation services in fiscal year 2024"
+  },
+  {
+   "value": "255",
+   "label": "Languages and dialects in which interpretation was provided"
+  },
+  {
+   "value": "$215,879",
+   "label": "Overpayments to language service vendors"
+  },
+  {
+   "value": "$8,247,840",
+   "label": "Potential two-year savings from lower vendor rates"
+  },
+  {
+   "value": "4,061",
+   "label": "Required training sessions missed at Bellevue Hospital"
+  }
+ ],
+ "recommendations": [
+  "Develop procedures to ensure information for all language service requests is reported, and periodically review the data for completeness, accuracy and proof that services were delivered.",
+  "Comply with the state hospital regulation, including conducting annual assessments of limited English proficiency needs and ensuring staff complete all annual trainings.",
+  "Prepare and maintain centralized and facility-level lists of in-house interpreters and bilingual staff.",
+  "Make sure every facility and program develops language access policies or updates existing ones to match systemwide guidelines.",
+  "Ensure information in patient records is accurately translated into various languages.",
+  "Review and keep documentation for patient calls lasting over 2 hours.",
+  "Establish procedures to improve patients' experience accessing and navigating language service phone lines and mobile health units, for example through bilingual staff or phone and video interpretation.",
+  "Review records and recoup outstanding overpayments made to vendors as appropriate.",
+  "Establish procedures to select the most cost-effective language service vendors, based on negotiation or lower per-minute contract rates."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "health",
+  "money and contracts"
+ ],
+ "is_followup": false
+}

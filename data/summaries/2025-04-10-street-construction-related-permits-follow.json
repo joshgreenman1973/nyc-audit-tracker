@@ -1,0 +1,35 @@
+{
+  "id": "2025-04-10-street-construction-related-permits-follow",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Street Construction-Related Permits (Follow-Up)",
+  "plain_title": "Follow-up on oversight of street construction permits",
+  "agency": "New York City Department of Transportation",
+  "issued": "2025-04-10",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/04/10/street-construction-related-permits-follow",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-24f20.pdf",
+  "what_they_audited": "How far the New York City Department of Transportation (DOT) has gotten in carrying out the nine recommendations from a 2022 audit of how it manages street construction-related permits, which cover work such as street openings, sidewalk construction and canopy installation.",
+  "background": "DOT is responsible for more than 6,300 miles of streets and highways and issues 150 different types of sidewalk and roadway construction permits. The initial audit, issued in June 2022, found DOT did not always make sure permittees complied with permit requirements, including that 41,761 street opening permits that should have been inspected were not, that follow-up on corrective action requests lacked set time frames and documentation and that DOT did not verify insurance or restrict non-emergency work on recently resurfaced streets.",
+  "findings": [
+    {
+      "plain": "DOT has made some progress on the issues identified in the initial report.",
+      "quote": "DOT officials made some progress in addressing the issues we identified in the initial report."
+    },
+    {
+      "plain": "Of the nine recommendations in the initial report, DOT implemented two, partially implemented six and did not implement one.",
+      "quote": "Of the initial report’s nine recommendations, two were implemented, six were partially implemented, and one was not implemented."
+    }
+  ],
+  "numbers": [
+    {"value": "41,761", "label": "Uninspected street opening permits flagged in initial audit"},
+    {"value": "6,300", "label": "Miles of streets and highways DOT oversees, at minimum"},
+    {"value": "150", "label": "Types of construction permits DOT issues"}
+  ],
+  "recommendations": [
+    "DOT officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+  ],
+  "agency_response": "",
+  "implementation_note": "Of the 9 recommendations in the 2022 audit, the follow-up found 2 implemented, 6 partially implemented and 1 not implemented.",
+  "topics": ["transportation"],
+  "is_followup": true
+}

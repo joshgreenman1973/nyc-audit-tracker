@@ -1,0 +1,66 @@
+{
+  "id": "audit-of-the-new-york-city-department-of-buildings-enforcement-of-building-codes",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the New York City Department of Buildings’ Enforcement of Building Codes",
+  "plain_title": "How the buildings department enforces the building code",
+  "agency": "New York City Department of Buildings",
+  "issued": "2025-04-21",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-new-york-city-department-of-buildings-enforcement-of-building-codes/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/ME24-059A-1.pdf",
+  "what_they_audited": "Auditors examined whether the Department of Buildings (DOB) enforces building codes for one- and two-family properties in an equitable way, so that no communities are disproportionately impacted, covering calendar years 2022, 2023 and the first quarter of 2024. The audit was prompted by housing advocates' concerns that small property owners, particularly in communities of color, are hit hardest by violations and fines.",
+  "background": "DOB regulates more than 1,000,000 buildings and over 40,000 active construction sites, issuing summonses through the Office of Administrative Trials and Hearings (OATH) when properties violate the construction codes. If an immediately hazardous violation is not certified as corrected within 60 days, owners can be issued a Failure to Comply summons that repeats every 60 days, and owners who miss their hearings face default judgments with maximum penalties.",
+  "findings": [
+    {
+      "plain": "DOB's enforcement of existing one- and two-family homes is essentially driven by anonymous 311 complaints. The agency identified no other routine way of checking whether such properties comply with the code, so it cannot tell whether the most-penalized communities actually have the most violations or just the most complaints.",
+      "quote": "The audit found that the Department of Buildings (DOB) relies almost exclusively on 311 complaints for its enforcement actions, and that certain communities were disproportionately impacted by penalties that were assessed as a result."
+    },
+    {
+      "plain": "The penalties fell hardest on lower-income areas. Black households were among the two largest demographic groups in seven of the 10 community districts with the most one- and two-family properties carrying $20,000 or more in accumulated penalties.",
+      "quote": "seven of the 10 community districts with the most one- and two-family properties with high accumulated penalties had median household incomes below the Citywide median"
+    },
+    {
+      "plain": "DOB issued 13,466 OATH violations with $38.3 million in fines against one- and two-family properties in 2022 and 2023, and most of the penalty dollars came from illegal conversions and from owners who missed their hearings.",
+      "quote": "Overall, default judgments accounted for 63% ($24.3 million out of $38.3 million) of the total penalties imposed during the audit scope for one- and two-family properties"
+    },
+    {
+      "plain": "Some homeowners were fined for failing to fix violations they legally could not fix yet, because the correction plans they had submitted were still awaiting DOB approval. Three more owners were fined within 60 days of getting plan approval, leaving little time to do the work.",
+      "quote": "In four cases, homeowners still had seven plans pending with DOB when they were issued eight FTC violations with fines totaling $17,500."
+    },
+    {
+      "plain": "Plan reviews are getting much slower and vary widely by borough. In the first quarter of 2024 the citywide average from plan submission to approval for major alterations was 124 business days, ranging from an average of 100 business days in Staten Island to 175 in the Bronx, and penalties keep accruing until the violation is fixed.",
+      "quote": "the number of days taken by DOB for its plan reviews increased 80% Citywide, as the number of applications filed Citywide also increased by 106%"
+    },
+    {
+      "plain": "DOB has no time targets for completing plan reviews and, since April 2022, has stopped publicly reporting its plan review and approval times, tracking them internally only.",
+      "quote": "The audit found that DOB has not established time targets for plan reviews and permit approvals."
+    },
+    {
+      "plain": "The Homeowner Relief Program, which gives eligible owners a chance to fix problems without a summons, appears to have had limited success: of 9,167 substantiated complaints handled under the program, only 19% were confirmed corrected and most were never re-inspected at all.",
+      "quote": "5,504 (60%) remained open with no evidence of an attempted re-inspection by DOB"
+    }
+  ],
+  "numbers": [
+    { "value": "$38.3 million", "label": "Fines against one- and two-family homes, 2022-2023" },
+    { "value": "13,466", "label": "OATH violations issued to one- and two-family homes" },
+    { "value": "63%", "label": "Share of penalty dollars from default judgments" },
+    { "value": "$17,500", "label": "Fines issued while correction plans awaited DOB approval" },
+    { "value": "124 business days", "label": "Average plan approval time citywide, early 2024" },
+    { "value": "60%", "label": "Homeowner Relief Program complaints never re-inspected" }
+  ],
+  "recommendations": [
+    "Re-evaluate the total reliance on complaints to drive code enforcement and consider additional approaches.",
+    "Consider ways to track the source of complaints and other remedies to make sure the 311 complaint system is not abused to target certain communities.",
+    "Change processes so Failure to Comply summonses are not issued while correction plans are still pending DOB review, or within 60 days of DOB approving a plan.",
+    "Establish education and engagement strategies in the communities most affected by illegal conversions, emphasizing the financial impact of violations, fines and penalties.",
+    "Work with OATH to educate the public about the financial consequences of defaulting on summonses.",
+    "Restore the practice of publicly reporting service levels, including plan approval times, on the agency's website tracker.",
+    "Identify why review times vary among the boroughs, work to reduce those variances and minimize review times, and set time targets for plan reviews.",
+    "Set key performance indicators for the Homeowner Relief Program to assess its effectiveness.",
+    "Formally survey participants in homeowner-assistance initiatives about their satisfaction and possible improvements."
+  ],
+  "agency_response": "DOB agreed with three recommendations, partially agreed with two and disagreed with four, including the calls to look beyond complaints, track complaint sources, hold off on Failure to Comply summonses while plans are pending and set plan review time targets. DOB also argued the finding of disproportionate impact on lower-income districts was unfounded; the auditors responded that DOB was conflating intent with impact.",
+  "implementation_note": "",
+  "topics": ["housing", "transparency"],
+  "is_followup": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "follow-up-audit-on-the-equal-employment-practices-commissions-compliance-with-its-charter-mandate-to-audit-city-agencies",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Follow-Up Audit on the Equal Employment Practices Commission’s Compliance with Its Charter Mandate to Audit City Agencies",
+  "plain_title": "Did the equal employment watchdog fix its audit lapses?",
+  "agency": "Equal Employment Practices Commission",
+  "issued": "2025-10-02",
+  "url": "https://comptroller.nyc.gov/reports/follow-up-audit-on-the-equal-employment-practices-commissions-compliance-with-its-charter-mandate-to-audit-city-agencies/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MH25-056F.pdf",
+  "what_they_audited": "Whether the Equal Employment Practices Commission (EEPC) implemented the three recommendations from a 2020 audit and whether it is now meeting its City Charter mandate to audit every city agency's equal employment practices at least once every four years.",
+  "background": "EEPC is an independent oversight body that audits, reviews and monitors the equal employment practices of New York City government. The 2020 audit found EEPC had failed to audit 27 of the 141 city agencies under its jurisdiction during calendar years 2013 through 2016 and had erroneously claimed in annual reports that it met its mandate.",
+  "findings": [
+    {
+      "plain": "EEPC carried out all three recommendations from the 2020 audit, even though it had disagreed with two of them and never responded to the third.",
+      "quote": "the Equal Employment Practices Commission (EEPC) implemented all three recommendations made in the initial audit, despite its stated disagreement with two and non-response to the third"
+    },
+    {
+      "plain": "The commission caught up on its backlog and is meeting its mandate. It audited the 27 agencies it had skipped, completed audits of all 143 agencies under its jurisdiction for the 2018 to 2021 cycle and is on track to meet the mandate for the 2022 to 2025 cycle.",
+      "quote": "EEPC subsequently audited and evaluated the 27 City agencies that it had not audited during CYs 2013 through 2016; that it met its Charter mandate for the 2018–2021 cycle"
+    },
+    {
+      "plain": "The commission also resolved a long-running dispute over when an audit counts as done. At the auditors' urging it asked the city's Law Department, which said an audit can reasonably be considered complete when EEPC issues its final determination to an agency.",
+      "quote": "the Law Department stated that it was reasonable to interpret an audit as being completed upon EEPC’s issuance of an FD to an agency"
+    },
+    {
+      "plain": "In the current cycle EEPC issued 395 corrective actions to agencies whose equal employment programs fell short, and follow-up records showed 353 of them, or 89 percent, were satisfactorily implemented.",
+      "quote": "determined that 353 (89%) of the 395 CAs were satisfactorily implemented"
+    },
+    {
+      "plain": "A new problem: EEPC's website is badly out of date. None of the 124 final determinations auditors reviewed for the 2022 to 2025 cycle were posted online, and 10 of 40 sampled from the 2018 to 2021 cycle were also missing, undermining transparency.",
+      "quote": "none of the 124 FDs reviewed by the auditors for the 2022–2025 quadrennial cycle have been posted"
+    },
+    {
+      "plain": "Another new problem: the commission has no written policies or procedures for key audit practices, including how to create an audit plan or how to document policy changes such as its new definition of a completed audit.",
+      "quote": "There are no written policies or procedures that provide step-by-step instructions on how to create an audit plan"
+    }
+  ],
+  "numbers": [
+    {"value": "27", "label": "Previously skipped agencies that EEPC later audited"},
+    {"value": "146 FDs", "label": "Final determinations issued in the 2018-2021 cycle"},
+    {"value": "395", "label": "Corrective actions issued to agencies in the current cycle"},
+    {"value": "89%", "label": "Corrective actions satisfactorily implemented"},
+    {"value": "124", "label": "Recent final determinations reviewed, none posted online"}
+  ],
+  "recommendations": [
+    "Establish written procedures on when city agency audits open and close, in line with the Law Department's opinion.",
+    "Continue updating the website and make sure future updates happen in a timely manner.",
+    "Document all policy changes in writing and share them with the appropriate staff."
+  ],
+  "agency_response": "EEPC agreed with all three new recommendations and said it will implement them.",
+  "implementation_note": "Of the 3 recommendations in the 2020 audit, the follow-up found all 3 implemented.",
+  "topics": ["labor", "transparency"],
+  "is_followup": true
+}

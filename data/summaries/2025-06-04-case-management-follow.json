@@ -1,0 +1,40 @@
+{
+  "id": "2025-06-04-case-management-follow",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Case Management (Follow-Up)",
+  "plain_title": "Follow-up on case management services for older New Yorkers",
+  "agency": "New York City Department for the Aging",
+  "issued": "2025-06-04",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/06/04/case-management-follow",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-25f3.pdf",
+  "what_they_audited": "How far the New York City Department for the Aging (DFTA) has gotten in carrying out the eight recommendations from a 2023 audit of its case management program, which helps older people with functional impairments get the services and benefits they need to age safely at home.",
+  "background": "DFTA contracts with community-based organizations to provide case management, with more than 31,000 seniors receiving over 515,000 hours of services in the city fiscal year ended June 30, 2024. The initial audit, issued in July 2023, found DFTA did not provide adequate oversight of the program: providers did not always follow DFTA's standards, clients spent significant time on waitlists and referrals were not always prioritized so those with the greatest needs got services first.",
+  "findings": [
+    {
+      "plain": "DFTA has made some progress on the problems identified in the initial audit.",
+      "quote": "DFTA has made some progress in addressing the problems identified in our initial audit report."
+    },
+    {
+      "plain": "Of the eight recommendations in the initial report, DFTA implemented one, partially implemented four and did not implement three.",
+      "quote": "Of the initial report’s eight audit recommendations, one was implemented, four were partially implemented, and three were not implemented."
+    },
+    {
+      "plain": "Waitlists remain: as of February 2025, DFTA officials said 338 people were waiting for case management and 475 were waiting for home care.",
+      "quote": "as of February 2025, there were 338 people on the case management and 475 on the home care wait lists"
+    }
+  ],
+  "numbers": [
+    {"value": "338", "label": "People on the case management waitlist, February 2025"},
+    {"value": "475", "label": "People on the home care waitlist, February 2025"},
+    {"value": "31,000", "label": "Seniors who received case management in fiscal 2024, at minimum"},
+    {"value": "$48 million", "label": "Value of case management contracts for fiscal 2025, at minimum"}
+  ],
+  "recommendations": [
+    "DFTA officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+  ],
+  "agency_response": "",
+  "implementation_note": "Of the 8 recommendations in the 2023 audit, the follow-up found 1 implemented, 4 partially implemented and 3 not implemented.",
+  "topics": ["seniors", "social services"],
+  "is_followup": true
+}

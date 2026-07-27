@@ -1,0 +1,79 @@
+{
+  "id": "review-of-the-department-of-sanitations-commercial-waste-zone-request-for-proposals-and-carter-selection-process",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of the Department of Sanitation’s Commercial Waste Zone Request for Proposals and Carter Selection Process",
+  "plain_title": "How sanitation picked carters for commercial waste zones",
+  "agency": "New York City Department of Sanitation",
+  "issued": "2025-09-17",
+  "url": "https://comptroller.nyc.gov/reports/review-of-the-department-of-sanitations-commercial-waste-zone-request-for-proposals-and-carter-selection-process/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/FP25-065S-1.pdf",
+  "what_they_audited": "This is a review rather than a full audit. It examined whether the Department of Sanitation's (DSNY) request for proposals and selection of private carting companies for the Commercial Waste Zone program complied with Local Law 199 of 2019, and looked at the safety, labor and violation histories of the carters that were chosen.",
+  "background": "More than 90 private carting companies collect the city's commercial waste, an industry DSNY describes as disorganized and hazardous, with private garbage trucks involved in at least 43 fatalities between January 2010 and May 2019. Local Law 199 of 2019 divided the city into 20 commercial waste zones with up to three carters each, and DSNY announced 18 winning carters in January 2024, though as of January 2025 only one zone had been implemented.",
+  "findings": [
+    {
+      "plain": "On the basic legal requirements, DSNY complied: its request for proposals incorporated the 13 evaluation factors in Local Law 199, no zone got more than three carters, no carter got more than 15 zones, scoring was calculated accurately and evaluators justified their scores.",
+      "quote": "DSNY’s RFP and carter selection processes were designed to meet the requirements of LL199"
+    },
+    {
+      "plain": "The carters with the worst traffic and safety records fared well in selection. Eight of the 10 carters with the most violations were chosen, selected carters averaged 241 violations each over four years versus 73 for those not selected, and auditors found no evidence violation history significantly affected suitability.",
+      "quote": "An analysis of the 10 carters that amassed the most violations during the period reviewed by DSNY revealed that eight of them were selected for the CWZ program."
+    },
+    {
+      "plain": "DSNY awarded four zones to Cogent Waste Solutions, which holds the record for the largest payout of fines to the Business Integrity Commission, $500,000, after being charged with nearly 5,000 violation counts including overcharging customers. DSNY has since assigned an independent monitor to Cogent and a related company.",
+      "quote": "had the highest-ever recorded payout of $500,000 in fines for violations issued by BIC in January 2023"
+    },
+    {
+      "plain": "Twelve of the 15 carters proposed as subcontractors had safety violations, totaling 1,490 from February 2018 through July 2022, and three subcontractors accounted for nearly 70% of them.",
+      "quote": "a total of 1,490 violations were issued to the 15 subcontractors"
+    },
+    {
+      "plain": "Several selected carters also had labor problems and lawsuits: five awarded carters had 14 labor violations, and 12 of the 18 awarded carters faced 200 civil complaints from 2018 to 2022, mostly over vehicle accidents and injuries.",
+      "quote": "12 carters faced a total of 200 civil complaints from 2018 to 2022"
+    },
+    {
+      "plain": "Maximum prices businesses can be charged vary widely within the same zone with no explanation in the proposals. In the Staten Island zone the highest maximum monthly rate was 145% above the lowest, which conflicts with the law's goal of fair and transparent pricing.",
+      "quote": "In the Staten Island zone, the maximum price listed by one carter was more than double the price listed by another carter within that zone."
+    },
+    {
+      "plain": "The program's work is concentrated and rankings did not decide awards: four carters filled more than 70% of zone assignments, pricing carried the heaviest weight at 40 of 100 points, and the highest ranked carter won the zone in only three of 20 cases.",
+      "quote": "Of the 20 zones, the highest ranked carters were selected for only three zones."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1,924",
+      "label": "Safety violations for Action Carting, awarded 14 zones"
+    },
+    {
+      "value": "$500,000",
+      "label": "Cogent's record fine payout to the integrity commission"
+    },
+    {
+      "value": "1,490",
+      "label": "Safety violations issued to 15 proposed subcontractors"
+    },
+    {
+      "value": "145%",
+      "label": "Gap between highest and lowest max rate in Staten Island"
+    },
+    {
+      "value": "70%",
+      "label": "Share of zone assignments filled by just four carters"
+    }
+  ],
+  "recommendations": [
+    "Track indicators like vehicle miles traveled, safety violations, complaints and vehicle inspections to gauge whether the law's purposes are being met, and publish them quarterly in the Mayor's Management Report.",
+    "Investigate why prices charged by carters differ so widely within certain zones and whether the differences keep businesses from getting carting services at a reasonable rate.",
+    "Closely monitor the performance of Cogent Waste Solutions and New York Recycling to ensure compliance with the Commercial Waste Zone agreement.",
+    "Make sure the independent monitor assigned to Cogent and New York Recycling submits its required investigation reports to DSNY."
+  ],
+  "agency_response": "DSNY agreed with the two suggestions about monitoring Cogent and New York Recycling, partially agreed with quarterly public tracking, saying the law's annual reporting already covers it, and disagreed with investigating price differences, saying the law does not require carters to charge the same prices.",
+  "implementation_note": "",
+  "topics": [
+    "environment",
+    "money and contracts",
+    "small business"
+  ],
+  "is_followup": false
+}

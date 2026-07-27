@@ -1,0 +1,43 @@
+{
+ "id": "2025-11-06-new-york-city-department-homeless-services-oversight-contract-expenditures-institute",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "New York City Department of Homeless Services – Oversight of Contract Expenditures of Institute for Community Living, Inc. (Follow-Up)",
+ "plain_title": "Checkup on oversight of a women's shelter contractor's spending",
+ "agency": "New York City Department of Social Services",
+ "issued": "2025-11-06",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/11/06/new-york-city-department-homeless-services-oversight-contract-expenditures-institute",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f16.pdf",
+ "what_they_audited": "How far the New York City Department of Homeless Services has gone in carrying out the nine recommendations from a 2022 state audit of its oversight of contract spending by the Institute for Community Living, Inc.",
+ "background": "The department contracted with the nonprofit Institute for Community Living in 2014 to run the 200-bed Tillary Street Women's Shelter for women with mental illness and substance abuse disorders, a contract with an aggregate cost of about $50.8 million. The initial audit found the department was not effectively monitoring the contract and identified $2,376,462, or 9.7% of reported costs, that did not comply with fiscal requirements.",
+ "findings": [
+  {
+   "plain": "The department has made some progress since the initial audit but more work remains. Of the nine original recommendations, one was implemented, five were partially implemented and three were not implemented.",
+   "quote": "Of the initial report’s nine audit recommendations, one was implemented, five were partially implemented, and three were not implemented."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$2,376,462",
+   "label": "Noncompliant costs found by the initial audit"
+  },
+  {
+   "value": "$50.8 million",
+   "label": "Approximate aggregate cost of the shelter contract"
+  },
+  {
+   "value": "155,760",
+   "label": "Meals the initial audit estimated the contractor discarded"
+  }
+ ],
+ "recommendations": [
+  "Officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+ ],
+ "agency_response": "",
+ "implementation_note": "Of the nine recommendations in the 2022 audit, the follow-up found one implemented, five partially implemented and three not implemented.",
+ "topics": [
+  "homelessness",
+  "money and contracts"
+ ],
+ "is_followup": true
+}

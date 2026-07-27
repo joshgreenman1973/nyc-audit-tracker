@@ -1,0 +1,64 @@
+{
+ "id": "2025-12-02-enforcement-local-law-144-automated-employment-decision-tools",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Enforcement of Local Law 144 – Automated Employment Decision Tools",
+ "plain_title": "How the city enforces its law on automated hiring tools",
+ "agency": "New York City Department of Consumer and Worker Protection",
+ "issued": "2025-12-02",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2025/12/02/enforcement-local-law-144-automated-employment-decision-tools",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-24n6.pdf",
+ "what_they_audited": "Whether the New York City Department of Consumer and Worker Protection has designed and put in place an effective system to enforce Local Law 144, the city law governing automated employment decision tools. The audit covered July 2023 through June 2025.",
+ "background": "Local Law 144 of 2021 requires employers and employment agencies that use automated employment decision tools to conduct a bias audit within a year before using a tool, post a summary of the results on their website and notify candidates that a tool will be used. The department enforces the law with civil penalties of $500 to $1,500 per day and has an agreement with the city Office of Technology and Innovation for technical help.",
+ "findings": [
+  {
+   "plain": "The department's complaint process does not ensure that complaints about violations reach it, and after its initial stakeholder education it has done no further outreach. That approach will not catch employers that simply skip the law's requirements, such as posting bias audits.",
+   "quote": "DCWP’s AEDT complaint process is ineffective in ensuring that all complaints related to non-compliance with LL144 are routed to DCWP."
+  },
+  {
+   "plain": "The department received only two complaints about automated employment decision tools during the audit period but did not look into whether its complaint intake process was working.",
+   "quote": "DCWP did not investigate whether the complaint intake process worked."
+  },
+  {
+   "plain": "When the department surveyed the websites and bias audits of 32 companies it found a single compliance issue. Auditors reviewed the same companies and found at least 17 instances of potential non-compliance. The department's review skipped the formal procedures its technology partner created and did not cover all of the law's requirements.",
+   "quote": "We reviewed the same companies and identified at least 17 instances of potential non-compliance under LL144."
+  },
+  {
+   "plain": "Department officials lack the technical expertise to evaluate how these tools are used, yet they did not consult the Office of Technology and Innovation when making determinations about them.",
+   "quote": "DCWP officials did not consult with OTI when making determinations about AEDTs."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two",
+   "label": "Complaints about automated hiring tools in two years"
+  },
+  {
+   "value": "32",
+   "label": "Companies whose websites and bias audits the department surveyed"
+  },
+  {
+   "value": "at least 17",
+   "label": "Potential violations auditors found at those same companies"
+  },
+  {
+   "value": "$1,500",
+   "label": "Top daily civil penalty for violating the law"
+  }
+ ],
+ "recommendations": [
+  "Implement processes to make sure complaints about automated employment decision tools are properly handled and routed.",
+  "Implement mechanisms to make sure such complaints received by 311 are properly routed to the department.",
+  "Research and test why so few complaints about the tools come in and take steps to address those factors.",
+  "Make sure the department's bias audit reviews address all potential non-compliance, including by using existing Office of Technology and Innovation resources such as the Enforcement Workbook.",
+  "Create and implement a process to improve enforcement by identifying potential violations through research and other leads, not just complaints.",
+  "Use the Office of Technology and Innovation's expertise to evaluate the technical workings of suspected automated tools in support of enforcement."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "technology",
+  "labor"
+ ],
+ "is_followup": false
+}

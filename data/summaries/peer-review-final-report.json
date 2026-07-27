@@ -1,0 +1,35 @@
+{
+  "id": "peer-review-final-report",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Peer Review Final Report",
+  "plain_title": "Outside auditors gave the comptroller's audit bureau a pass rating",
+  "agency": "New York City Comptroller Bureau of Audit",
+  "issued": "2025-08-14",
+  "url": "https://comptroller.nyc.gov/reports/peer-review-final-report/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/Peer-Review-Final-Report.pdf",
+  "what_they_audited": "This is a peer review letter rather than a standard comptroller audit: a team from the Association of Local Government Auditors examined the New York City Comptroller Bureau of Audit's internal quality control system for the period July 1, 2022 through June 30, 2025. The reviewers came from audit offices in Virginia Beach, Hanover County and Seattle.",
+  "background": "The reviewers followed the standards and guidelines in the Peer Review Guide published by the Association of Local Government Auditors and tested whether the bureau's internal quality control system provided reasonable assurance of compliance with Government Auditing Standards issued by the Comptroller General of the United States. Organizations can receive a rating of pass, pass with deficiencies or fail.",
+  "findings": [
+    {
+      "plain": "The bureau earned the top rating on the three-level scale of pass, pass with deficiencies or fail.",
+      "quote": "The NYC Comptroller Bureau of Audit has received a rating of pass."
+    },
+    {
+      "plain": "The reviewers concluded the bureau's internal quality control system was well built and working as intended during the review period.",
+      "quote": "adequately designed and operating effectively to provide reasonable assurance of compliance with Government Auditing Standards"
+    },
+    {
+      "plain": "The reviewers singled out areas where the office excels, including organized and thorough work with a logical flow and well written reports.",
+      "quote": "Audit reports contain a succinct Executive Summary, are well written, detailed and contain well developed findings and value-added audit recommendations."
+    }
+  ],
+  "numbers": [],
+  "recommendations": [
+    "The report makes no formal recommendations."
+  ],
+  "agency_response": "In a reply letter, Deputy Comptroller for Audit Maura Hayes-Chaffe thanked the peer review team, noting this was the office's first peer review in partnership with the Association of Local Government Auditors and calling it a very positive and effective process.",
+  "implementation_note": "",
+  "topics": ["transparency"],
+  "is_followup": false
+}

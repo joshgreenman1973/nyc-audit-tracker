@@ -1,0 +1,67 @@
+{
+  "id": "audit-report-of-the-department-of-design-and-constructions-mitigation-of-delays-and-cost-overruns-on-capital-construction-projects",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report of the Department of Design and Construction’s Mitigation of Delays and Cost Overruns on Capital Construction Projects",
+  "plain_title": "Most city construction projects run years behind schedule",
+  "agency": "New York City Department of Design and Construction",
+  "issued": "2025-12-26",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-of-the-department-of-design-and-constructions-mitigation-of-delays-and-cost-overruns-on-capital-construction-projects/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2026/02/SE23-073A.pdf",
+  "what_they_audited": "How well the Department of Design and Construction (DDC), the city's lead capital construction agency, manages construction projects and whether its practices are effective in limiting time and cost overruns.",
+  "background": "DDC began operations in 1996 to centralize the construction of the city's capital projects. In partnership with over 20 city agencies, it manages the design and construction of civic facilities and maintains the city's streets, sidewalks, water mains and sewers.",
+  "findings": [
+    {
+      "plain": "80% of DDC-managed projects that reached or were projected to reach substantial completion after fiscal year 2018 were behind their original schedule, by an average of 3.5 years. At least half were behind by 2.5 years or more.",
+      "quote": "877 projects (80%) were behind the original schedule at project initiation with an average delay of 1,265 days (3.5 years) since project initiation"
+    },
+    {
+      "plain": "A random sample of 18 large-scale projects ($100 million or more) grew from $4.14 billion at construction start to $4.51 billion, a 9.1% increase. Extrapolated across all 49 large-scale projects, that would mean roughly $870 million in added costs to date.",
+      "quote": "the total cost to the City for these projects would be $10.4 billion to date, an increase of approximately $870 million or 9.1%."
+    },
+    {
+      "plain": "DDC has no system that tracks project costs from initiation to completion. It replaces the original cost estimate with updated ones as projects proceed, so it cannot readily say what share of its projects run over budget.",
+      "quote": "DDC does not have a system capable of tracking real-time project costs from initiation to completion, or for forecasting future costs across its project portfolio."
+    },
+    {
+      "plain": "DDC's public reporting understates delays. Because it rebases schedules and excludes delays it deems outside its control, the Mayor's Management Report underreported design delays by between 12% and 87% and construction delays by between 32% and 66% from fiscal years 2018 through 2024.",
+      "quote": "the MMR under-reported design delays by between 12% and 87% and construction delays by between 32% and 66% over this six-year period."
+    },
+    {
+      "plain": "DDC stopped reporting project cost against original budget in the Mayor's Management Report from fiscal year 2021 through fiscal year 2024, and the auditors found the 0.66% cost variance it reported for fiscal year 2025 not credible.",
+      "quote": "DDC did not report performance against original budgets in the MMR for FY2021 through FY2024, and only recently provided figures for FY2025."
+    },
+    {
+      "plain": "Deep dives into three delayed projects for the sanitation, environmental protection and transportation departments found delays driven by incomplete designs, poor coordination and bad information about underground utilities. A Staten Island sanitation garage ran 790 days late, with 695 of those days attributable to design errors and omissions.",
+      "quote": "The primary causes were inadequate design coordination, insufficient pre-construction utility investigations (resulting in dependence on outdated utility information), and inaccurate cost and quantity estimates."
+    },
+    {
+      "plain": "A program meant to help agencies plan complex projects up front is underutilized. The city set a goal of 20 Capital Project Scope Development studies per year, but only 11 were ordered in fiscal year 2025. The city's public capital project dashboard also had not been updated in over six months.",
+      "quote": "In FY2025, there were four Master Agreements valued at $60 million with task orders issued for only 11 CPSD projects, nine short of the goal."
+    }
+  ],
+  "numbers": [
+    {"value": "80%", "label": "DDC projects behind their original schedule"},
+    {"value": "3.5 years", "label": "Average delay from original completion date"},
+    {"value": "9.1%", "label": "Aggregate cost increase in 18 sampled large projects"},
+    {"value": "$870 million", "label": "Estimated cost growth across all 49 large-scale projects"},
+    {"value": "790 days", "label": "Delay on the Staten Island sanitation garage project"},
+    {"value": "1,092", "label": "DDC-managed projects assessed"}
+  ],
+  "recommendations": [
+    "Create a dedicated project cost management team to track and report cost overruns in the aggregate while planning system upgrades for full cost management.",
+    "Report the full extent of cost and time overruns from the first baseline in the Mayor's Management Report and categorize the causes, per project and in aggregate.",
+    "Improve the construction schedule set at project initiation, or consider not providing a completion date until the design phase ends.",
+    "Work with City Hall to get private utility companies to better document and engineer their systems during design, and support extending the Joint Bidding Law.",
+    "Launch a virtual design and construction practice, including updated building information modeling standards.",
+    "Establish record-keeping requirements for project documentation in the Benchmark system.",
+    "Continue implementing front-end planning, report its impact and compare it to non-front-end-planning project performance.",
+    "City agencies should use the funding earmarked for pre-construction planning by increasing the number of scope development studies.",
+    "City agencies should discuss using capital funds versus expense funding with the Office of Management and Budget and the incoming administration.",
+    "The Mayor's Office of Operations should comply with Local Law 37 by updating the capital project dashboard on time with all needed information."
+  ],
+  "agency_response": "DDC agreed with nine recommendations and disagreed with one, on discussing capital versus expense funding. The Mayor's Office did not respond to the recommendation directed to it.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "transparency", "transportation"],
+  "is_followup": false
+}

@@ -1,0 +1,91 @@
+{
+  "id": "review-of-the-new-york-city-police-departments-body-worn-camera-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of the New York City Police Department’s Body-Worn Camera Program",
+  "plain_title": "Police body camera footage is slow to reach the public",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-31",
+  "url": "https://comptroller.nyc.gov/reports/review-of-the-new-york-city-police-departments-body-worn-camera-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/10/MD24-071S.pdf",
+  "what_they_audited": "A review, rather than a full audit, of the police department's body-worn camera program: how the department handles public records requests for footage, whether officers activate cameras as required and how the program is overseen. The scope ran from January 1, 2020 through May 21, 2025.",
+  "background": "The 2013 federal court settlement in Floyd v. City of New York required the police department to adopt body-worn cameras to record stops and other encounters, with a federal monitor overseeing the reforms. The camera program began in April 2017 and most officers had cameras by August 2019.",
+  "findings": [
+    {
+      "plain": "Footage requests moved slowly. The department took an average of 133 business days to grant or deny Freedom of Information Law requests for camera footage, missed its own 95-day goal more than half the time and took as long as four years in one case.",
+      "quote": "On average, NYPD took 133 business days to grant or deny FOIL requests during the review period."
+    },
+    {
+      "plain": "Denials rarely held up. 97% of appeals of denied footage requests were granted, and 12 of 13 decided court challenges ended with the department providing footage or being ordered to provide it.",
+      "quote": "NYPD’s FOIL appeal process resulted in production of BWC footage 97% of the time, and footage was provided after being challenged in court 92% of the time."
+    },
+    {
+      "plain": "Footage was often missing or incomplete. In the department's own reviews of dispatched 911 calls, 36% of review determinations had no video on file, and where video existed, cameras were activated late or shut off early 18% of the time.",
+      "quote": "4,319 (36%) of 12,116 review determinations had no corresponding video on file"
+    },
+    {
+      "plain": "Required internal checks were skipped. Precincts could not produce monthly self-inspections of camera activation for more than half of the months sampled, and nobody independently reviews the inspections that are done.",
+      "quote": "NYPD was unable to provide Self-Inspections for 87—more than half—of the requested months."
+    },
+    {
+      "plain": "Department supervisors and the federal monitor reach very different conclusions about stops. Internal reviews found officers applied the law appropriately over 98% of the time, while the monitor found 11% to 14% of reviewed stops unconstitutional in 2020 through 2023.",
+      "quote": "NYPD supervisors do not assess stops correctly"
+    },
+    {
+      "plain": "Use-of-force paperwork is not ensured. In a sample of 25 substantiated excessive force complaints, the department acknowledged a Threat, Resistance, or Injury Report was required in 17 cases, but four of those had none.",
+      "quote": "for four (24%) of the 17 incidents, a TRI Report was not prepared"
+    },
+    {
+      "plain": "The department does not aggregate camera data or analyze trends, even though precincts with poor camera compliance overlapped with precincts with above-average substantiated excessive force allegations.",
+      "quote": "NYPD does not aggregate data or perform trend analyses of its Self-Inspections and ICAD reviews"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "133 business days",
+      "label": "Average time to grant or deny a footage request"
+    },
+    {
+      "value": "97%",
+      "label": "Denied footage requests granted on appeal"
+    },
+    {
+      "value": "36%",
+      "label": "Dispatch review determinations with no video on file"
+    },
+    {
+      "value": "18%",
+      "label": "Videos activated late or deactivated early"
+    },
+    {
+      "value": "53%",
+      "label": "Sampled months missing self-inspection records"
+    },
+    {
+      "value": "1,076 business days",
+      "label": "Longest time to decide a footage request"
+    }
+  ],
+  "recommendations": [
+    "Increase Legal Bureau staffing and make additional efforts to answer records requests on time.",
+    "Promptly notify requesters when a required 160.50 waiver form is missing.",
+    "Take steps to ensure all officers on patrol duty are immediately given cameras.",
+    "Formalize a policy for dispatch call audits, including the number, frequency and sampling plan, and exclude interactions that did not require recording.",
+    "Investigate why activation rates are lower in certain boroughs and precincts and keep improving them citywide.",
+    "Conduct an overall assessment of whether the camera program has improved compliance with policies, regulations and laws, including respectful interaction with the public.",
+    "Aggregate the results of the department's various camera reviews to identify anomalies or trends and address them.",
+    "Ensure monthly self-inspections of camera activation are completed as required.",
+    "Have the Professional Standards Division independently review self-inspections.",
+    "Ensure monthly stop report worksheets are completed as required.",
+    "Take additional steps to identify improper stops and ensure compliance with stop and frisk policy.",
+    "Review a sample of footage from investigative encounters to identify force that was used and check whether the required report was completed.",
+    "Ensure Threat, Resistance, or Injury Reports are completed for every use-of-force incident."
+  ],
+  "agency_response": "The police department agreed with nine recommendations, said three others reflect its current practice and said it would consider one more, while also questioning the review team's methodology and conclusions.",
+  "implementation_note": "",
+  "topics": [
+    "public safety",
+    "transparency"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "final-audit-letter-report-on-the-new-york-city-employees-retirement-systems-nycers-other-than-personal-services-otps-expenditures",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report on the New York City Employees’ Retirement System’s (NYCERS) Other Than Personal Services (OTPS) Expenditures",
+  "plain_title": "How the city employees' pension system spends its non-payroll money",
+  "agency": "New York City Employees' Retirement System",
+  "issued": "2025-06-02",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-new-york-city-employees-retirement-systems-nycers-other-than-personal-services-otps-expenditures/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/06/NYCERS_FN24-076A.pdf",
+  "what_they_audited": "In this audit letter report, auditors checked whether the New York City Employees' Retirement System (NYCERS) spent its Other Than Personal Services (OTPS) money, meaning expenses unrelated to salaries and benefits such as supplies, travel and vendor contracts, according to its own policies and city rules, and whether the spending was necessary, reasonable and well documented. They reviewed a sample of 77 OTPS expenditures from fiscal years 2023 and 2024.",
+  "background": "NYCERS is one of the five New York City retirement systems and administers pension benefits for more than 350,000 active members, retirees and beneficiaries. For fiscal year 2024 it reported about $101 billion in assets and spent $130 million on administrative expenses, of which $70 million (53.8%) was OTPS spending.",
+  "findings": [
+    {
+      "plain": "Most spending followed the rules. The auditors found the money was generally spent in line with internal policies and other regulations and that the expenses were necessary and reasonable, but NYCERS needs better procedures for approving and documenting them.",
+      "quote": "NYCERS’ OTPS expenditures were, for the most part, spent in accordance with internal policies and procedures and other relevant rules and regulations"
+    },
+    {
+      "plain": "NYCERS could not produce purchase orders or contracts for two consultants who were paid a combined $52,250, so it could not show the purchases were approved under the city's Procurement Policy Board rules for small purchases.",
+      "quote": "NYCERS did not provide purchase orders or contracts for two consultants whose payments totaled $52,250."
+    },
+    {
+      "plain": "Vendors were often paid late. City rules require payment within 30 days of receiving an invoice, but 33 of the 77 sampled invoices, or 43%, were paid later than that with no documented justification.",
+      "quote": "33 (43%) of the 77 sampled OTPS invoices were paid more than 30 days after the invoice dates, without justification"
+    },
+    {
+      "plain": "NYCERS paid the same $2,000 invoice twice, first with an incorrect purchase order and account number in September 2023 and again with the correct information in January 2024.",
+      "quote": "NYCERS officials acknowledged that this was a duplicate payment"
+    },
+    {
+      "plain": "Travel spending did not consistently follow Comptroller's Directive #6. Of 30 out-of-town trips totaling $54,906 that were reviewed, four employees attended conferences without documented justification, and NYCERS paid for expenses that appeared unnecessary such as extra-legroom seats, lodging above the GSA rate and plane tickets to Washington D.C. instead of Amtrak tickets.",
+      "quote": "NYCERS also did not provide justification for expenses that appeared to be unnecessary, such as payments for seats with extra legroom, lodging costs that exceeded the GSA rate, and plane tickets to Washington D.C., instead of Amtrak tickets."
+    },
+    {
+      "plain": "NYCERS did not appear to hold its trustees to the travel rules, saying that four trustees who attended six conferences are not required to get approval for travel or file post-conference reports.",
+      "quote": "In addition, NYCERS appeared not to enforce Directive #6 requirements for trustees who attended conferences."
+    }
+  ],
+  "numbers": [
+    { "value": "$70 million", "label": "OTPS spending in fiscal year 2024" },
+    { "value": "$52,250", "label": "Consultant payments with no purchase order or contract" },
+    { "value": "43%", "label": "Sampled invoices paid more than 30 days late" },
+    { "value": "$2,000", "label": "Invoice paid twice" },
+    { "value": "$54,906", "label": "Cost of the 30 out-of-town trips reviewed" }
+  ],
+  "recommendations": [
+    "Make sure a purchase order or contract is created for every small or micro purchase.",
+    "Pay vendors within 30 days of receiving their invoices.",
+    "Recoup the $2,000 overpayment from the vendor or have it credited to NYCERS' account.",
+    "Make sure all out-of-town travel costs are approved, including lodging that exceeds GSA rates and extra-legroom charges.",
+    "Get all necessary documents before processing payments and reimbursements to avoid paying unnecessary expenses.",
+    "Get post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits NYCERS."
+  ],
+  "agency_response": "NYCERS agreed with five of the six findings and recommendations and disagreed with one, saying its trustees are not employees and do not need formal travel approval or post-travel reports. The auditors maintained that NYCERS should still collect post-travel reports from everyone who attends conferences.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "transparency"],
+  "is_followup": false
+}

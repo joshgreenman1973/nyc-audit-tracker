@@ -19,7 +19,6 @@ h2 { font-family:"Besley",serif; font-weight:800; font-size:22px; margin:34px 0 
 p, li { color:var(--ink-soft); margin-bottom:12px; }
 ul { margin-left:22px; }
 a { color:var(--ink); }
-code { font-family:"Courier Prime",monospace; font-size:.95em; background:rgba(255,255,255,.6); padding:1px 5px; }
 .back { font-family:"Courier Prime",monospace; font-weight:700; font-size:13.5px; color:var(--ink); border:1.5px solid var(--ink); padding:9px 16px; text-decoration:none; display:inline-block; margin-top:24px; }
 .back:hover { background:var(--ink); color:var(--paper); }
 </style>
@@ -32,33 +31,48 @@ code { font-family:"Courier Prime",monospace; font-size:.95em; background:rgba(2
 </header>
 
 <h2>What this tracker covers</h2>
-<p>Audits and audit-style reviews of New York City agencies, programs and spending issued on or after January 1, 2026 by two independent offices:</p>
+<p>Audits, investigations and oversight reports on New York City agencies, programs and spending issued on or after January 1, 2025 by official watchdogs:</p>
 <ul>
-  <li><strong>The New York City Comptroller's Office</strong>, whose Bureau of Audit examines city agencies under the City Charter. Source: the reports section of <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, filtered to the audit report type. This includes documents the office labels "audit," "follow-up audit" and "review."</li>
+  <li><strong>The New York City Comptroller's Office</strong>, whose Bureau of Audit examines city agencies under the City Charter. Source: the reports section of <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, filtered to the audit report type. This includes documents the office labels "audit," "follow-up audit," "review" and "letter report." City comptroller audits are included in full, including its occasional audits of non-city entities such as the Metropolitan Transportation Authority, because the office's audit portfolio is defined by its city oversight role.</li>
   <li><strong>The Office of the New York State Comptroller</strong>, which audits New York City agencies under the state constitution and state law. Source: the state agency audit listings at <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, filtered to audits whose audited entity is a New York City government agency or a city public benefit corporation.</li>
+  <li><strong>The New York City Department of Investigation</strong>, the city's inspector general, whose investigative and policy reports carry Policy and Procedure Recommendations. Source: <a href="https://www.nyc.gov/site/doi/newsroom/press-releases.page">nyc.gov/doi</a>. Press releases announcing arrests or indictments without an accompanying report are not included.</li>
+  <li><strong>Court-appointed monitors</strong> overseeing city agencies under federal court orders and consent decrees, including the Floyd v. City of New York monitor over the Police Department's stop, question and frisk practices (<a href="https://www.nypdmonitor.org/resources-reports/">nypdmonitor.org</a>) and the Nunez v. City of New York independent monitor and remediation manager over the city's jails (<a href="https://tillidgroup.com/projects/nunez-monitorship/">tillidgroup.com</a>). Short procedural court filings are not included.</li>
 </ul>
 
 <h2>What counts as "New York City-related"</h2>
-<p>For state comptroller audits, an audit is included when the audited entity is a New York City agency (for example the Department of Social Services or New York City Public Schools) or a city authority such as the New York City Housing Authority. Audits of state agencies and state authorities that operate in the city, including the Metropolitan Transportation Authority, are excluded because their spending is not spending by the city. State audits of programs explicitly located outside the five boroughs, such as Mitchell-Lama developments outside New York City, are also excluded.</p>
+<p>For state comptroller audits, an audit is included when the audited entity is a New York City agency (for example the Department of Social Services or New York City Public Schools) or a city authority such as the New York City Housing Authority. State audits of state agencies and state authorities that operate in the city, including the Metropolitan Transportation Authority, are excluded because their spending is not spending by the city, as are state audits of programs located outside the five boroughs.</p>
+
+<h2>Why the Independent Budget Office is not here</h2>
+<p>The Independent Budget Office publishes rigorous fiscal analysis of city government, but its charter role is nonpartisan analysis rather than recommendations: its reports present findings and options without telling agencies what to do, so there is nothing to track for implementation. Its work is at <a href="https://www.ibo.nyc.gov/">ibo.nyc.gov</a>.</p>
 
 <h2>How the data is gathered</h2>
-<p>A scraper fetches both comptrollers' public listing pages, follows each audit to its official page and extracts the report text (for city audits, the full report body published in HTML; for state audits, the published objective, program description, key findings and key recommendations). Dates, titles, agencies and PDF links come directly from those pages. The scraper is built to fail loudly: if either source returns zero audits or an audit page yields no text, the update stops rather than silently publishing incomplete data.</p>
+<p>Scrapers fetch each watchdog's public listing pages, follow each report to its official page or PDF and extract the report text. Dates, titles, agencies and links come directly from those pages. The pipeline is built to fail loudly: if a source returns zero reports or a report yields no text, the update stops rather than silently publishing incomplete data.</p>
 
 <h2>How the plain-language summaries are written</h2>
-<p>Summaries are AI-assisted, written only from the text of each official audit page under rules that bar adding any fact, name or figure not present in the source. Every dollar figure shown on a card appears verbatim in the official text. Direct quotes are exact excerpts from the reports. Findings and recommendations are restatements, so wording differs from the official documents; the official report is always one click away and is the authoritative version.</p>
+<p>Summaries are AI-assisted, written only from the text of each official report under rules that bar adding any fact, name or figure not present in the source, and are verified afterward by a script that checks every quoted phrase and every dollar figure against the source text. Findings and recommendations are restatements, so wording differs from the official documents; the official report is always one click away and is the authoritative version.</p>
+
+<h2>How implementation status is tracked</h2>
+<p>Whether a recommendation was actually carried out is reported differently by each watchdog, and the tracker keeps those meanings distinct:</p>
+<ul>
+  <li><strong>City comptroller audits:</strong> per-recommendation statuses (implemented, partially implemented, not implemented, pending) come from the comptroller's official <a href="https://comptroller.nyc.gov/services/for-the-public/audit/audit-recommendations-tracker">Audit Recommendations Tracker</a>, which covers audits issued since 2022. These statuses are agency-reported to the comptroller and shown with their as-of date. Audits not yet in the tracker show no status chips.</li>
+  <li><strong>State comptroller audits:</strong> the state comptroller reports implementation through follow-up audits. Where a follow-up exists, its implementation counts appear in the card's implementation section.</li>
+  <li><strong>Court monitors:</strong> monitors assess compliance with court orders rather than tracking discrete recommendations; each monitor card carries the report's overall compliance assessment.</li>
+  <li><strong>Department of Investigation:</strong> DOI does not publish a per-recommendation status feed; acceptance or implementation is noted only when a DOI report itself states it.</li>
+</ul>
 
 <h2>What "findings" and "recommendations" mean here</h2>
-<p>Counts shown in the tracker are counts of items in these summaries, not official tallies. The city comptroller's reviews sometimes present "key takeaways" and suggestions rather than formal findings and recommendations; the tracker treats them the same way. Both offices' full reports contain more detail, sub-findings and formal agency response letters than any summary can carry.</p>
+<p>Counts shown in the tracker are counts of items in these summaries, not official tallies. Reviews and letter reports sometimes present key takeaways and suggestions rather than formal findings and recommendations; the tracker treats them the same way. Full reports contain more detail, sub-findings and formal agency response letters than any summary can carry.</p>
 
 <h2>Updates</h2>
-<p>An automated weekly check re-runs the scraper. If new audits appear, they are flagged for summarizing and added to the tracker; the "last updated" date on the front page reflects the most recent data build.</p>
+<p>An automated weekly check re-runs the comptroller scrapers. If new reports appear, they are flagged for summarizing and added; the "last updated" date on the front page reflects the most recent data build. Department of Investigation and monitor reports are added on the same cadence as they are published.</p>
 
 <h2>Limitations</h2>
 <ul>
-  <li>The tracker starts January 1, 2026. Earlier audits, including those a 2026 follow-up refers back to, are not listed but are linked from the follow-up reports themselves.</li>
-  <li>Only published audits appear. Audits in progress are not public.</li>
+  <li>The tracker starts January 1, 2025. Earlier reports, including those a follow-up refers back to, are linked from the follow-ups themselves.</li>
+  <li>Only published reports appear. Investigations and audits in progress are not public.</li>
+  <li>City comptroller implementation statuses are agency-reported and cover only audits in the comptroller's tracker; independent verification of a status is beyond this project's scope.</li>
   <li>Agency names follow each office's own attribution, lightly normalized to natural word order.</li>
-  <li>If a source website changes its structure, updates may pause until the scraper is fixed. The tracker will show its last good build date rather than partial data.</li>
+  <li>If a source website changes its structure, updates may pause until the scraper is fixed. The tracker shows its last good build date rather than partial data.</li>
 </ul>
 
 <a class="back" href="index.html">← Back to the files</a>

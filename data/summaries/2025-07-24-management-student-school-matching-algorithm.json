@@ -1,0 +1,50 @@
+{
+  "id": "2025-07-24-management-student-school-matching-algorithm",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Management of the Student-School Matching Algorithm",
+  "plain_title": "How well the city runs its high school admissions algorithm",
+  "agency": "New York City Public Schools",
+  "issued": "2025-07-24",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2025/07/24/management-student-school-matching-algorithm",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2025-22n7.pdf",
+  "what_they_audited": "Whether New York City Public Schools adequately managed the admissions process and the computer algorithm that matches students to high schools. The audit covered selected high school admissions processes for school years 2018-19 through 2024-25.",
+  "background": "New York City Public Schools, the nation's largest school district, serves about 900,000 students at about 1,600 public schools. Students apply to high school through one application listing up to 12 programs, and a deferred acceptance matching algorithm assigns offers based on student choices, seat availability, admissions priorities and a randomly assigned lottery number.",
+  "findings": [
+    {
+      "plain": "For admissions into the 2023-24 school year there were 7,000 students in temporary housing, such as homeless students, and there is no assurance they got the admissions priority they were entitled to because the algorithm does not account for both a student's current and prior address as the Chancellor's Regulations require.",
+      "quote": "there is no assurance these students were appropriately prioritized in the matching algorithm because the algorithm does not account for both the current and prior address"
+    },
+    {
+      "plain": "The district may be missing low-income students who are supposed to get priority at certain programs. In a sample of 39 students, auditors found 31 who were likely low-income because they lived with another student who was, yet the district had not identified them as low-income.",
+      "quote": "It is likely more students are low-income but have not been identified."
+    },
+    {
+      "plain": "In admissions for the 2023-24 school year, auditors found more than 200 instances where students who should have been manually placed in a school program either were not placed or were not placed appropriately under the district's own practices and business rules.",
+      "quote": "over 200 instances where students should have been manually placed in a school program but were either not manually placed or were not placed appropriately"
+    },
+    {
+      "plain": "Despite the complexity of the matching process, the district had no written policies guiding most of how the algorithm is run, which are needed to make sure it works as intended and that errors get caught and fixed.",
+      "quote": "for most of the algorithm processes, NYCPS had no written policies to guide implementation"
+    },
+    {
+      "plain": "The district did not publish legally required public reports on applications, offers and available seats on time, and it posted incomplete enrollment reports, undercutting the goals of the local law that mandated them.",
+      "quote": "NYCPS did not publish reports timely, as required by Local Law 72 of 2018"
+    }
+  ],
+  "numbers": [
+    {"value": "7,000", "label": "Students in temporary housing in 2023-24 admissions"},
+    {"value": "31", "label": "Of 39 sampled students, likely low-income but not identified"},
+    {"value": "over 200", "label": "Manual placements missed or done improperly for 2023-24"},
+    {"value": "70,000", "label": "Students applying to high school each year, at minimum"}
+  ],
+  "recommendations": [
+    "Improve management of the matching algorithm so students get the admissions priority they are entitled to, including students in temporary housing, low-income students and students who need manual placements.",
+    "Develop and implement written policies and procedures for the matching process so students are treated consistently and appropriately, in line with the Chancellor's Regulations and other requirements.",
+    "Create policies and procedures to make sure complete and timely reports are publicly posted as required by Local Law 72 of 2018."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": ["education", "transparency"],
+  "is_followup": false
+}

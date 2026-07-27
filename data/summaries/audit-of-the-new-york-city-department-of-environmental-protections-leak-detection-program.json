@@ -1,0 +1,57 @@
+{
+  "id": "audit-of-the-new-york-city-department-of-environmental-protections-leak-detection-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the New York City Department of Environmental Protection’s Leak Detection Program",
+  "plain_title": "Does the city's water leak detection program actually find leaks?",
+  "agency": "New York City Department of Environmental Protection",
+  "issued": "2025-12-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-new-york-city-department-of-environmental-protections-leak-detection-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/SE25-076A.pdf",
+  "what_they_audited": "Whether the Department of Environmental Protection's Leak Detection Program, which sends crews with acoustic listening equipment to find underground water main leaks before they become breaks, effectively identifies and repairs leaks through proactive surveys and adequate tracking systems.",
+  "background": "The department manages the city's water supply, delivering more than one billion gallons of drinking water a day, and launched the Leak Detection Program in July 2022 to catch small leaks before they escalate into water main breaks. The city is divided into survey grids, with a goal of covering roughly a third of grids a year in most of the city and all of lower Manhattan's grids annually.",
+  "findings": [
+    {
+      "plain": "The program covered only a small fraction of the city. Over three years the department surveyed just 27% of the 401 grids it was supposed to cover in the outer boroughs and upper Manhattan, often revisiting the same locations, and Staten Island got no surveys at all.",
+      "quote": "DEP surveyed only 108 of the 401 grids, leaving 293 grids (73%) uninspected during the three-year cycle."
+    },
+    {
+      "plain": "Leak detection still depends almost entirely on the public. Of 1,314 water main breaks repaired over three fiscal years, only 42 were found through the program's surveys; the rest surfaced through 311 complaints, emergencies or other work.",
+      "quote": "only 42 repairs (3%) originated from proactive detection efforts, while 1,272 repairs (97%) were initiated in response to public complaints, emergency conditions, or while other work was conducted."
+    },
+    {
+      "plain": "The program has not reduced breaks. Water main breaks rose 54% in fiscal year 2025 compared with the prior year, hitting their highest level in five years.",
+      "quote": "The number of water main breaks peaked in FY25 with 552 in total."
+    },
+    {
+      "plain": "There is no structured, risk-based process for deciding which grids to survey. Crews are sent based on staff judgment and institutional knowledge rather than measurable indicators like pipe age, leak history or proximity to critical infrastructure.",
+      "quote": "DEP has not established written criteria for selecting grids based on documented risk factors"
+    },
+    {
+      "plain": "Staffing is far too thin to meet the department's own goals. During the audit period the entire city was covered by a single survey crew and a single scan crew.",
+      "quote": "This explanation is consistent with the Program’s limited staffing: one survey crew and one scan crew."
+    },
+    {
+      "plain": "A computer system from the 1990s makes it hard to tell whether leaks found in surveys ever get repaired, leaving management without visibility into whether the program works.",
+      "quote": "the agency’s work-order management platform—IPS—was implemented in the 1990s and is now considered outdated."
+    }
+  ],
+  "numbers": [
+    {"value": "27%", "label": "Share of planned survey grids covered in three years"},
+    {"value": "3%", "label": "Share of water main break repairs found through surveys"},
+    {"value": "54%", "label": "Rise in water main breaks in fiscal year 2025"},
+    {"value": "552", "label": "Water main breaks in fiscal year 2025, a five-year peak"}
+  ],
+  "recommendations": [
+    "Develop a structured, risk-based survey planning process with written procedures for selecting grids using measurable risk indicators like the age, size and material of water mains, leak history, recent construction and proximity to critical infrastructure.",
+    "Regularly measure and report progress toward the department's goals of surveying 30% of each borough's grids annually and full coverage within three years, using quarterly performance reviews to catch shortfalls.",
+    "Create a formal process for scheduling and tracking survey coverage so work is spread across all grids, avoids unnecessary repeats and ensures every grid is inspected on schedule.",
+    "Periodically review proactive detection rates, repair times and water main break trends to assess the program's effectiveness.",
+    "Reevaluate whether current survey goals are feasible with existing staff, and consider reallocating personnel, adding training or shifts, and seeking additional funding to expand the program.",
+    "Make sure the department's computer system, whether updated or new, can trace a leak from survey to scan to repair and includes performance dashboards and reporting tools for program-level monitoring."
+  ],
+  "agency_response": "The department did not respond to each recommendation individually, stating generally that it agrees with many of the report's recommendations.",
+  "implementation_note": "",
+  "topics": ["environment", "technology"],
+  "is_followup": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "audit-on-the-effectiveness-of-the-mayors-office-of-housing-recovery-operations-build-it-back-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit on the Effectiveness of the Mayor’s Office of Housing Recovery Operations’ Build It Back Program",
+  "plain_title": "How well Build It Back rebuilt homes after Hurricane Sandy",
+  "agency": "Mayor's Office of Housing Recovery Operations",
+  "issued": "2025-10-20",
+  "url": "https://comptroller.nyc.gov/reports/audit-on-the-effectiveness-of-the-mayors-office-of-housing-recovery-operations-build-it-back-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/11/FK23-075A.pdf",
+  "what_they_audited": "Whether the Build It Back program run by the Mayor's Office of Housing Recovery Operations (HRO) achieved its goal of helping property owners affected by Hurricane Sandy repair, rebuild or relocate, and whether it made Sandy-affected New Yorkers and communities safer and more resilient.",
+  "background": "Hurricane Sandy damaged or destroyed over 17,000 homes in New York City in October 2012, and the city created HRO to coordinate recovery. HRO launched Build It Back in June 2013, with $2.3 billion in federal Community Development Block Grant Disaster Recovery funding allocated for the single-family program and a stated goal of finishing construction by the end of 2016.",
+  "findings": [
+    {
+      "plain": "The program ultimately served only about a third of the people who applied. Of 22,436 homeowners who applied, 8,131 were served, even though only a small share were found ineligible.",
+      "quote": "HRO served 36% of those applicants who initially applied to participate in the program, despite excluding only a small percentage based on eligibility."
+    },
+    {
+      "plain": "Processing was slow. It took HRO about two years on average to process a single application and roughly six more months to start construction.",
+      "quote": "HRO took two years on average to process a single application and six more months to initiate construction."
+    },
+    {
+      "plain": "The program missed its own deadline. Nearly 1,600 homes, about 40 percent, were not finished by the end-of-2016 target, and 565 homes had not even begun construction by then. The last home was finished in February 2023, more than a decade after the storm.",
+      "quote": "HRO established a construction completion deadline of 2016, but nearly 1,600 (40.1%) homes were not completed by this time."
+    },
+    {
+      "plain": "Start to finish, projects took about three years on average from the day a homeowner applied to the day construction was done, with the longest taking almost a decade.",
+      "quote": "On average, construction projects took three years to complete from the date an application was submitted to the date construction finished."
+    },
+    {
+      "plain": "Deadline policies and an acceleration initiative introduced in 2016 cut the time to start construction from 217 days to 104 days on average, but the time to complete construction rose from 164 days to 283 days, so overall completion times did not improve.",
+      "quote": "the introduction of new policies and initiatives also failed to reduce overall completion times."
+    },
+    {
+      "plain": "Slow timelines drove people away and kept others out of their homes. 11,140 applicants withdrew or were withdrawn, and of the 860 applicants who were temporarily relocated during construction, 627 were displaced longer than the program's 14-month limit, for 24 months on average, with 15 homeowners displaced for over four years.",
+      "quote": "Of the 860 applicants who were temporarily relocated, 627 were displaced from their homes for longer than 14 months."
+    },
+    {
+      "plain": "HRO's controls were weak. It did not consistently track contract completion terms in its case management system, and it had no timeframe or deadline policies in place when the program started, which likely contributed to delays.",
+      "quote": "HRO did not ensure that TPA and Home Improvement Contract terms were consistently and accurately tracked in CMS."
+    }
+  ],
+  "numbers": [
+    {"value": "$2.3 billion", "label": "Federal disaster recovery funds for single-family program"},
+    {"value": "$2,536,305,321", "label": "Total city spending on the single-family program, per OMB"},
+    {"value": "22,436", "label": "Homeowners who applied to the program"},
+    {"value": "8,131", "label": "Applicants ultimately served"},
+    {"value": "11,140", "label": "Applications withdrawn"},
+    {"value": "36%", "label": "Share of initial applicants the program served"},
+    {"value": "40.1%", "label": "Homes not completed by the 2016 deadline"},
+    {"value": "727 days", "label": "Average time to process an application"},
+    {"value": "24 months", "label": "Average displacement for relocated homeowners over the limit"}
+  ],
+  "recommendations": [
+    "For future disaster recovery programs, document timeframes and deadlines in policies and procedures at the start so staff and contractors can monitor application processing and construction and keep them on schedule.",
+    "Establish and track performance indicators in the recordkeeping system, including timeliness measures for the contractors handling application processing and construction management."
+  ],
+  "agency_response": "HRO acknowledged that Build It Back encountered significant implementation challenges and agreed with both recommendations, saying it was establishing a new standard for compliance and audit readiness for future disaster recovery programs.",
+  "implementation_note": "",
+  "topics": ["housing", "environment"],
+  "is_followup": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "audit-report-on-the-office-of-city-clerks-enforcement-of-the-lobbying-law",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the Office of City Clerk’s Enforcement of the Lobbying Law",
+  "plain_title": "Weak spots in how the city polices lobbying",
+  "agency": "New York City Office of the City Clerk",
+  "issued": "2025-12-05",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-office-of-city-clerks-enforcement-of-the-lobbying-law/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MJ25-063A.pdf",
+  "what_they_audited": "How the Office of the City Clerk administers and enforces the city's Lobbying Law, including lobbyist registration, audits of filings and investigations of unregistered lobbying. The audit covered January 1, 2022 through June 30, 2025.",
+  "background": "The office's Lobbying Bureau registers lobbyists, audits their filings and investigates unreported lobbying activity. According to the office's annual report, entities spent $138.4 million on outside lobbying in New York City in 2024, an all-time high.",
+  "findings": [
+    {
+      "plain": "The office generally meets the law's core requirements, auditing registered lobbyists each year and publishing the required annual report.",
+      "quote": "the Office of the City Clerk (OCC) generally complies with the requirements of the Lobbying Law by conducting audits of registered lobbyists and by publishing the required annual report"
+    },
+    {
+      "plain": "The burden of catching unregistered lobbying falls on the office because the law does not require city officials or employees to report contacts that may be lobbying. The office has discussed amendments with the City Council.",
+      "quote": "Instead, the burden to detect unregistered lobbying falls on OCC."
+    },
+    {
+      "plain": "Searches for unregistered lobbyists skip high-risk areas such as land use applications and non-competitive contracts. Auditors found 11 of 45 private land use applicants in 2024 were not registered, and the office's follow-up has already produced $120,480 in accumulated late filing penalties for two entities.",
+      "quote": "The audit team found that 11 (24%) of the 45 ULURP applicants during CY2024 had not registered with the Lobbying Bureau"
+    },
+    {
+      "plain": "Outreach emails to 1,863 recipients of City Council discretionary funds drew only 58 responses and produced no new registrations, and the office does not ask recipients to state whether they lobby.",
+      "quote": "OCC sent emails to 1,863 such recipients and received only 58 (3%) responses. These efforts did not result in the registration of any new lobbyists."
+    },
+    {
+      "plain": "Investigations of unreported lobbying are limited in scope. All nine closed cases auditors reviewed ended with findings of no probable cause, and files showed no evidence that staff contacted the officials who were allegedly lobbied.",
+      "quote": "the files contained no evidence that staff attempted to reach out to the City agencies or officials that were allegedly the subject of lobbying"
+    },
+    {
+      "plain": "The Lobbying Bureau lacks detailed written policies for staff and is short-staffed, with five people, three vacancies and a budget the office says does not allow new hires.",
+      "quote": "OCC has not developed written policies and procedures outlining OCC’s key requirements and responsibilities as they pertain to the Lobbying Law."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$138.4 million",
+      "label": "Spent on outside lobbying in New York City in 2024"
+    },
+    {
+      "value": "627",
+      "label": "Registered lobbyists on average, 2022 through 2024"
+    },
+    {
+      "value": "11",
+      "label": "Of 45 private land use applicants not registered in 2024"
+    },
+    {
+      "value": "$120,480",
+      "label": "Late filing penalties imposed after auditors flagged filers"
+    },
+    {
+      "value": "1,863",
+      "label": "Discretionary fund recipients emailed about registering"
+    }
+  ],
+  "recommendations": [
+    "Keep petitioning the City Council to amend the Lobbying Law to require training of city agencies and require agencies to report contacts with known or potential lobbyists, including names, meeting dates, locations and subjects discussed.",
+    "Regularly review land use applicants and vendors awarded non-competitive contracts to determine whether they lobbied, registered as lobbyists and accurately recorded their lobbying activity.",
+    "Require entities under review for possible unreported lobbying to respond to inquiries and explicitly state their lobbying or political fundraising activities, whether they met with city agencies and the purpose of those meetings.",
+    "Formally establish the steps staff must follow when investigating alleged unreported lobbying, including contacting both the subjects of complaints and the alleged lobbying targets, and document all steps, evidence and conclusions.",
+    "Establish written policies and procedures with detailed guidance for staff on carrying out their duties, including investigation steps.",
+    "Continue advocating to the Office of Management and Budget for the funding needed to hire staff to carry out its mandated duties."
+  ],
+  "agency_response": "The office agreed with all six recommendations, though the auditors noted its response appeared to narrow the scope of the written policies it committed to and urged a comprehensive policy framework.",
+  "implementation_note": "",
+  "topics": [
+    "transparency",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

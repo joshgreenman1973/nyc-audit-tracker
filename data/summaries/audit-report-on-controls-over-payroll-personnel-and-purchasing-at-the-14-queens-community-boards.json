@@ -1,0 +1,83 @@
+{
+  "id": "audit-report-on-controls-over-payroll-personnel-and-purchasing-at-the-14-queens-community-boards",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on Controls over Payroll, Personnel, and Purchasing at the 14 Queens Community Boards",
+  "plain_title": "Payroll, leave and purchasing lapses at Queens community boards",
+  "agency": "Queens Community Boards",
+  "issued": "2025-03-18",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-controls-over-payroll-personnel-and-purchasing-at-the-14-queens-community-boards/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/03/FL23-087A.pdf",
+  "what_they_audited": "Whether the 14 Queens community boards maintained adequate controls over their payroll, personnel and purchasing functions in compliance with applicable city rules, regulations and official guidance. The audit covered July 1, 2021 through March 15, 2023, with employee leave data extended to November 25, 2024.",
+  "background": "New York City is divided into 59 community districts, each served by a community board, a local advisory body created by the New York City Charter with up to 50 unsalaried volunteer members. Each board employs a district manager who runs the district office, and board operations are funded through the city budget.",
+  "findings": [
+    {
+      "plain": "Eleven of the 14 Queens community boards had at least one reportable problem, generally involving excess annual leave accruals and payroll and invoicing procedures. Boards 5, 8 and 9 had no reportable issues.",
+      "quote": "11 of the 14 Community Boards in the borough had at least one problem"
+    },
+    {
+      "plain": "Seven district managers had annual leave balances above the two-year maximum for managers as of November 25, 2024. The excess was not converted to sick leave as required and waivers to carry it over were not consistently granted. One manager had accumulated over 1,600 hours of excess leave.",
+      "quote": "One District Manager accumulated over 1,600 hours in excess leave."
+    },
+    {
+      "plain": "Those excess balances carry a real cost. Even with excess leave converted to sick leave, auditors estimated separation payouts for the seven district managers would run from over $27,000 to $66,000 each and total more than $293,000 across the borough's boards.",
+      "quote": "the total pay-out amounts for the District Managers would range today from over $27,000 to $66,000 each, and cumulatively total over $293,000"
+    },
+    {
+      "plain": "Half of the board chairpersons did not consistently approve their district managers' timesheets on time, if at all. Of 41 sampled timesheets, 17 (41%) did not comply with the approval procedure, and in 18 instances the Queens Borough President's Office approved timesheets without evidence of the chairperson's sign-off.",
+      "quote": "did not consistently approve their District Managers’ timesheets in a timely manner, if at all"
+    },
+    {
+      "plain": "Community Board 13 could not produce 11 vendor invoices covering 33% of its sampled payments, worth $12,649.24, so auditors could not confirm the goods or services were received or the payments were proper.",
+      "quote": "Community Board 13 did not provide auditors with 11 vendor invoices, amounting to 33% of the sampled payments and totaling $12,649.24"
+    },
+    {
+      "plain": "Community Boards 12 and 14 batched multiple invoices into single payments without recording every invoice number in the Financial Management System, and Board 12 paid one $826.82 invoice twice without clearly demonstrating it recouped the full double payment.",
+      "quote": "auditors found that Community Board 12 paid $826.82 for one invoice twice on the same payment"
+    },
+    {
+      "plain": "No procurement issues were found at 11 of the 14 boards, and sampled micro-purchases totaling $177,790.69 showed the boards are generally buying goods and services for legitimate business purposes.",
+      "quote": "the Community Boards are generally procuring goods and services for legitimate business purposes"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "11 of the 14",
+      "label": "Queens boards with at least one reportable problem"
+    },
+    {
+      "value": "over 1,600 hours",
+      "label": "Excess leave accumulated by one district manager"
+    },
+    {
+      "value": "over $293,000",
+      "label": "Combined estimated leave payouts for seven managers"
+    },
+    {
+      "value": "41%",
+      "label": "Sampled district manager timesheets out of compliance"
+    },
+    {
+      "value": "$12,649.24",
+      "label": "Board 13 payments not backed by vendor invoices"
+    },
+    {
+      "value": "$826.82",
+      "label": "Invoice Board 12 paid twice"
+    }
+  ],
+  "recommendations": [
+    "All Queens board chairpersons should encourage district managers and staff to use their annual leave, limit authorizations to carry over excess leave where practicable and make sure district managers' timesheets are approved on time and promptly sent to the Queens Borough President's Office.",
+    "All Queens boards should actively monitor leave accruals and require written authorization or conversion of excess annual leave to sick leave, obtain and verify vendor invoices before every payment and develop written policies for managing employee leave and purchasing.",
+    "Community Board 12 should make sure the $826.82 overpayment is fully recouped.",
+    "Community Boards 12, 13 and 14 should record each paid invoice number in the Financial Management System.",
+    "Community Board 13 should consider hiring support staff as needed to support the district office's operations."
+  ],
+  "agency_response": "Twelve of the 14 boards sent written responses between February 24 and 27, 2025; many did not directly address the recommendations but their comments implied a general sense of agreement. Community Boards 4 and 13 did not respond.",
+  "implementation_note": "",
+  "topics": [
+    "labor",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

@@ -17,7 +17,7 @@ import urllib.request
 from datetime import date
 from pathlib import Path
 
-CUTOFF = date(2026, 1, 1)
+CUTOFF = date(2025, 1, 1)
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "audits_raw.json"
 UA = {"User-Agent": "Mozilla/5.0 (audit-tracker; contact josh.greenman@gmail.com)"}
@@ -52,7 +52,7 @@ def strip_tags(s):
 def nyc_listing():
     """Walk the FacetWP-filtered listing until dates fall before CUTOFF."""
     audits = []
-    for page in range(1, 8):
+    for page in range(1, 15):
         html = get(f"https://comptroller.nyc.gov/reports/?_type=audit&_paged={page}")
         m = re.search(r"facetwp-template.*", html, re.S)
         if not m:
@@ -113,7 +113,7 @@ NYC_AGENCY_PAT = re.compile(
 def osc_listing():
     rows = []
     pages = ["https://www.osc.ny.gov/state-agencies/audits/new-releases"]
-    pages += [f"https://www.osc.ny.gov/state-agencies/audits/by-date-older?page={p}" for p in range(0, 6)]
+    pages += [f"https://www.osc.ny.gov/state-agencies/audits/by-date-older?page={p}" for p in range(0, 14)]
     stop = False
     for url in pages:
         if stop:
@@ -146,10 +146,12 @@ def osc_listing():
         if r["url"] not in seen:
             seen.add(r["url"])
             out.append(r)
-    out = [r for r in out if NYC_AGENCY_PAT.search(r["agency"]) or NYC_AGENCY_PAT.search(r["title"])]
-    # Audits of programs explicitly outside the city are out of scope even
-    # when the title mentions New York City.
-    return [r for r in out if "outside new york city" not in r["title"].lower()]
+    # In scope only when the audited ENTITY is city government: the agency
+    # field must match, and MTA entities (state authority) never qualify
+    # even though "MTA New York City Transit" contains the city's name.
+    out = [r for r in out if NYC_AGENCY_PAT.search(r["agency"])
+           and not re.search(r"Metropolitan Transportation|MTA", r["agency"])]
+    return out
 
 
 def osc_detail(a):

@@ -1,0 +1,549 @@
+ 
+ 
+ 
+ 
+ 
+Mylan L. Denerstein 
+Direct: +1 212.351.3850 
+Fax: +1 212.351.6350 
+MDenerstein@gibsondunn.com 
+  
+ 
+May 21, 2025 
+VIA ECF 
+Honorable Analisa Torres 
+United States District Judge 
+United States District Court 
+Southern District of New York 
+500 Pearl Street 
+New York, NY  10007-1312 
+ 
+Re: Floyd, et al. v. City of New York, 08-CV-1034 (AT),  
+Ligon, et al. v. City of New York, et al., 12-CV-2274 (AT), 
+Davis, et al. v. City of New York, et al., 10-CV-0699 (AT),  
+Twenty Fourth Report: Compliance Snapshot of NYPD’s Stop, Frisk and Search 
+Practices 
+Dear Judge Torres: 
+I am pleased to submit the Monitor’s Twenty-Fourth Report: Compliance Snapshot of 
+NYPD’s Stop, Frisk and Search Practices.  The report  is a visual snapshot that shows the 
+NYPD’s level of compliance with the federal court’s requirements in Floyd v. City of New  
+York, Ligon v. City of New York, and Davis v. City of New York.   
+The visual report includes graphs that portray (1) the lawfulness of stops, frisks , and 
+searches, based on the Monitor team’s most recent audits; (2) an assessment of whether NYPD 
+supervisors and the NYPD’s audit section are correcting improper stops; (3) the effectiveness 
+of NYPD stops by the arrest rate for different types of stops; and (4) underreporting of Terry 
+stops. 
+The Monitor’s audits showed an increase in compliance over the first three quarters of 
+2024, with 91% of stops, 79% of frisks, and 78% of searches being lawful in the third quarter 
+of 2024.  However, when reviewing the encounters based on how the stop was generated, the 
+audits found that compliance rates were low for stops based on an officer’s self -initiated 
+observations compared to compliance rates for stops based on a radio run initiated by a 911 or 
+311 call, or a stop based on in-person information from a witness or complainant.  For the first 
+three quarters of 2024, the compliance rates for self -initiated stops were 79% for stops, 60% 
+for frisks, and 66% for searches.   
+Case 1:08-cv-01034-AT     Document 960     Filed 05/21/25     Page 1 of 2
+ 
+Honorable Analisa Torres 
+May 21, 2025 
+Page 2 
+ 
+ 
+This snapshot compares the Monitor’s audits with the audits prepared by the Quality 
+Assurances Section, audits by the NYPD commands themselves, and reviews by the first-line 
+supervisors for the third quarter of 2024.  Audits by the Quality Assurance Section  have 
+significantly improved and align with the Monitor’s audits.  In contrast, NYPD reviewing 
+supervisors approved close to 100% of all stops, frisks, and searches, including unlawful ones, 
+suggesting inadequate supervision at the commands. 
+Underreporting of Terry stops continues to be a problem for the NYPD.  Over the past 
+three years (2022 –24), approximately 38% of stops in the Monitor’s audits have gone 
+unreported.  In the fourth quarter of 2024, officers failed to complete stop reports in 30% of 
+stops identified in the Monitor’s audit.  T his assessment does not include instances where  
+body-worn cameras were not activated, because it is not possible to accurately estimate how 
+many stops occurred when officers failed to activate their cameras.   
+This report gives the City and the public an accurate understanding of where the NYPD 
+needs to focus its efforts in order to meet the Court’s requirements.  The Department must hold 
+its supervisors and officers accountable and provide City residents with improved public safety 
+in a constitutional manner.  
+Respectfully, 
+ 
+ 
+ 
+ 
+Mylan L. Denerstein 
+Independent Monitor 
+ 
+Attachment:  Twenty-Fourth Report of the Independent Monitor 
+Case 1:08-cv-01034-AT     Document 960     Filed 05/21/25     Page 2 of 2
+Twenty-Fourth Report of the Independent Monitor
+Compliance Snapshot
+of NYPD’s Stop, Frisk, and Search Practices
+Mylan Denerstein
+May 21, 2025
+Floyd, et al. v. City of New York, et al.
+Ligon, et al. v. City of New York, et al.
+Davis, et al. v. City of New York, et al.
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 1 of 21
+Table of Contents
+1.  Lawfulness of Stops, Frisks, and Searches
+2.  NYPD Supervision
+3.  Effectiveness of Stops, Measured by Arrest Rate
+4.  Underreporting
+5.  Stops and Arrests by NYPD Housing Bureau Officers
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 2 of 21
+1.  Lawfulness of Stops, Frisks, and Searches
+• In the third quarter of 2024, the Monitor’s audits determined that 91% of reported 
+Terry stops were lawful, 79% of frisks during Terry stops were lawful, and 78% of 
+searches were lawful.
+• For the first three quarters of 2024, self-initiated stops, where a stop is based on the 
+officer’s observation rather than a 911 or 311 call, were lawful 79% of the time. 
+• In the third quarter of 2024, 46% of NYPD’s 99 commands had a compliance rate for 
+frisks greater than 85%, and 27% of commands had a compliance rate for searches 
+greater than 85%. In other words, most NYPD commands did not achieve minimum 
+levels of constitutional compliance in frisks and searches during Terry stops.
+3
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 3 of 21
+4
+The Monitor team assessed stop, frisk, and search compliance with the Fourth Amendment. This chart shows the
+Monitor team’s assessment of the lawfulness of NYPD reported stops, frisks, and searches by quarter. In the third
+quarter of 2024, 91% of stops, 79% of frisks, and 78% of searches were assessed as lawful.
+82%
+89% 91%
+62%
+75%
+79%
+67%
+77% 78%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1Q2024 2Q2024 3Q2024
+Rate of NYPD Compliance with the Law
+% Stops Lawful % Frisks Lawful % Searches Lawful
+Data Source: Monitor Audits of Stop Reports, N=100 per month
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 4 of 21
+5
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD reported stops based on whether the stop
+was initiated by a radio run from a 911 or 311 call, by in-person information from a complainant or witness, or was self-
+initiated by the officer. In the first three quarters of 2024, 93% of radio run stops were lawful, 96% of stops based on
+complainant information were lawful, and 79% of self-initiated stops were lawful.
+91% 93% 96% 93%90%
+100%
+95% 96%
+71%
+84% 85%
+79%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1Q2024 2Q2024 3Q2024 Overall For 2024
+Lawfulness of Stops Based on Type of Stop (Q1—Q3 2024)
+Radio Run Information from Complainants Self-Initiated Officer Observation
+Q1—Q3 2024
+Data Source: Monitor Audits of Stop Reports, N=100 per month
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 5 of 21
+6
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD frisks, based on how the stop was
+initiated. From January-September 2024, frisks during stops based on radio runs or information from complainants
+were deemed lawful by the Monitor in higher percentages than frisks during self-initiated stops.
+Data Source: Monitor Audits of Stop Reports, N=100 per month
+78%
+90%
+94%
+86%
+90%
+100% 100% 97%
+49%
+65%
+69%
+60%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1Q2024 2Q2024 3Q2024 Overall
+Lawfulness of Frisks by Type of Stop (Q1—Q3 2024)
+Radio Run Information from Complainants Self-Initiated Officer Observation
+Q1—Q3 2024
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 6 of 21
+7
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD searches based on how the stop was
+initiated. From January-September 2024, 79% of radio run searches were lawful, 86% of searches based on
+complainant information were lawful, but only 66% of searches based on the officers’ self-initiated observations were
+lawful.
+Data Source: Monitor Audits of Stop Reports, N=100 per month
+70%
+87%
+80% 79%
+85%
+89%
+82%
+86%
+62% 65%
+76%
+66%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1Q2024 2Q2024 3Q2024 Overall
+Lawfulness of Searches by Type of Stop (Q1—Q3 2024)
+Radio Run Information from Complainants Self-Initiated Officer Observation
+Q1—Q3 2024
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 7 of 21
+8
+The NYPD Quality Assurance Section reviews commands’ compliance with the Fourth Amendment, including Housing Bureau’s Police
+Service Areas (“PSAs”), and Transit Bureau’s Transit Districts. This chart shows the percent of commands in which the NYPD Quality
+Assurance Section has determined that at least 85% of the command’s reported stops, frisks, or searches were lawful. For the third
+quarter of 2024, only 81% of commands had a compliance rate for stops greater than 85%; only 46% of commands had a compliance
+rate for frisks greater than 85%; and only 27% of commands had a compliance rate for searches greater than 85%.
+Data Source: QAS Quarterly Citywide Report on Stop Report Monitoring Audits.
+83%
+68%
+81% 81%
+59%
+42%
+47% 46%
+38%
+21%
+28% 27%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+4Q2023 1Q2024 2Q2024 3Q2024Percentage of NYPD Commands with Lawful Compliance Rates for Stops, 
+Frisks, or Searches Greater than 85%
+Stops Frisk Search
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 8 of 21
+2. NYPD Supervision
+• NYPD supervisors repeatedly failed to identify unlawful 
+stops, frisks, and searches.
+• In the third quarter of 2024, the Monitor found that 11% of 
+the stops, 26% of the frisks, and 26% of the searches 
+reviewed were unlawful.  In the same quarter, the reviewing 
+supervisors found that 3% of stops, 1% of frisks, and 7% of 
+searches were unlawful. 
+9
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 9 of 21
+10
+This chart compares the Monitor’s audits with the NYPD Quality Assurance Section audits, audits by the NYPD commands themselves,
+and reviews by the first-line supervisors in the third quarter of 2024. Audits by QAS have significantly improved and closely mirror the
+Monitor’s findings. Reviewing supervisors, however, approved close to 100% of all stops, frisks, and searches and barely identified any
+as unlawful. This is a critical gap.
+Data Source: Monitor Audits of Stop Reports, N=100 per month
+11%
+26% 26%
+10%
+28%
+31%
+8%
+20%
+17%
+3%
+1%
+7%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Stops Frisks Searches
+Comparison of Monitor Assessments Against NYPD Assessments Regarding 
+Percentage of Stops, Frisks, and Searches Found to be Unlawful for Third 
+Quarter of 2024
+Monitor Quality Assurance Section* Self-Inspection by NYPD Reviewing NYPD Supervisor
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 10 of 21
+3.  Effectiveness of Stops by Arrest Rate
+• In Q4 2024, reported stops initiated by complainants or 
+radio runs had higher arrest rates (above 40%) compared 
+to self-initiated stops (11%).
+• The arrest rate for self-initiated stops for suspected weapon 
+possession (SI-CPW) was lower, at 7%.
+• From 2022 to 2024, the number of SI-CPW stops increased 
+while the arrest rate for those stops decreased to  less than 
+10% by the end of 2024.
+11
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 11 of 21
+12Data Source: https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page
+If a stop results in an arrest, that suggests that the stop was appropriately targeted at a suspect and that the officer making the stop
+likely had reasonable suspicion. At the same time, stops may be lawful even if they don’t result in an arrest. This chart shows the
+percent of reported stops that resulted in an arrest, broken down by quarter and how the stops were initiated. Stops initiated by a
+complainant or witness (“CW”) or a radio run (“RR”) (i.e., when an officer is responding to a 911 or 311 call) were far more effective
+than stops based only on an officer’s observation (self-initiated, or “SI”). In the fourth quarter of 2024, the arrest rate for CW stops was
+41%; the arrest rate for RR stops was 42%; the arrest rate for all SI stops was 11%; and the arrest rate for SI stops where officers
+believed a person possessed a weapon (“SI-CPW”) (Criminal Possession of a Weapon) was only 7%.
+43% 43% 44%
+41%41% 40% 41% 42%
+15% 16% 15%
+11%
+9% 10% 11%
+7%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+1Q2024 2Q2024 3Q2024 4Q2024
+Arrest Rate by Type of Stop
+Complainant Witness Arrest Rate Radio Run Arrest Rate Self-Initiated Arrest Rate Self-Initiated Stop (CPW) Arrest Rate
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 12 of 21
+13
+This chart show the volume of self-initiated CPW stops from 2022 to 2024 and the CPW arrest rate for those stops over the same
+period. The number of self-initiated CPW stops has increased significantly over the last three years. In contrast, the arrest rate resulting
+from CPW stops has declined dramatically to well below 10%.
+Data Source: Data Source: https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+80.00%
+90.00%
+100.00%
+0
+200
+400
+600
+800
+1000
+1200
+2022 Jul-
+22
+2023 Jul-
+23
+2024 Jul-
+24
+Self-Initiated CPW Stops: Number of Stops Increased; Number of Arrests Decreased
+CPW Stops %CPW Arrests
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 13 of 21
+4. Underreporting
+• In Q4 2024, for 30% of stops identified in the Monitor's 
+audit, meaning almost one-third, NYPD officers did not 
+complete a stop report when they should have.
+• Over the past three years (2022-2024), approximately 38% 
+of stops have gone unreported.
+• Underreporting has varied over the last three years.
+14
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 14 of 21
+15Data Source: Monitor Quarterly Audit of Investigative Encounter BWC videos, N=225 per quarter
+The number of T errystops for which there is no stop report has varied over the last three years. This chart shows the results of the
+Monitor team’s audits of body-worn camera (“BWC”) videos to identify stops that were not documented. In the fourth quarter of 2024,
+officers failed to complete stop reports in 30% of stops identified in the audit. This assessment does not account for instances where
+BWCs were not activated, as it is not possible to estimate how many stops occurred when officers did not activate their BWCs.
+26%
+39%
+21%
+39%
+59%
+45%
+29%
+37%
+44%
+38%
+47%
+30%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1Q2022 2Q2022 3Q2022 4Q2022 1Q2023 2Q2023 3Q2023 4Q2023 1Q2024 2Q2024 3Q2024 4Q2024
+Percentage of NYPD Stops Not Reported from 2022 to 2024 
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 15 of 21
+5.  Stops and Arrests by NYPD Housing Bureau 
+Officers
+• Compliance rates during Housing Bureau Officer 
+encounters for the first half of 2024:
+• 77% of reported stops compliant
+• 52% of frisks compliant
+• 48% of searches compliant
+• Compliance rates during trespass arrests for the first half   
+of 2024:
+• 98% had an objective credible reason for the approach
+• 99% had probable cause for the arrest
+16
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 16 of 21
+17Data Source: Monitor Quarterly Audit of NYCHA Trespass Arrests (N=50) and Stop Reports (N=50)
+This slide shows the results of the Monitor’s audits of reported stops and trespass arrests by the NYPD’s Housing Bureau officers in the
+first half of 2024. In the first six months of 2024, 77% of stops, 52% of frisks, and 48% of searches were assessed as lawful.  In that same
+period, compliance rates were high for trespass arrests in terms of both an objective credible reason to approach (98% lawful) and
+probable cause for the arrest (99%).
+76%
+53%
+46%
+98% 100%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Stop Frisk Search Objective Credible Reason to
+Approach
+Probable Cause to Arrest
+Lawfulness of NYPD Housing Bureau Encounters in First Half of 2024
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 17 of 21
+MONITOR TEAM
+Mylan Denerstein, Monitor
+Richard Jerome, Deputy Monitor
+Anthony Braga
+Jennifer Eberhardt
+Rudolph Hall
+Demosthenes Long
+John MacDonald
+James McCabe
+Jane Perlov
+James Yates
+nypdmonitor.org
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 18 of 21
+Notes for Monitor’s Twenty-Fourth Report: Compliance Snapshot  
+The Monitor’s Twenty Fourth Report is a visual snapshot that shows the New York City Police 
+Department’s (“NYPD”) level of compliance with the federal court’s requirements in the Floyd v. 
+City of New York, Ligon v. City of New York, and Davis v. City of New York stop and frisk cases. 
+This document provides information about the data reflected in each slide. 
+Slide 4  
+The Monitor team’s reviews involved an assessment of the encounters’ compliance with the Fourth 
+Amendment. This chart shows the Monitor team’s assessment of the lawfulness of NYPD reported 
+stops, frisks, and searches by quarter. In the third quarter of 2024, 91% of stops, 79% of frisks, and 
+78% of searches were assessed as lawful.  It should also be noted that the reviews do not include 
+stops that were not documented by NYPD officers.  The NYPD cannot achieve compliance with 
+the court-ordered reforms relating to Terry stops unless stops made by its members are documented 
+by the officers conducting the stops. 
+(Data Source: Monitor Audits of Stop Reports, N=100 per month) 
+Slide 5 
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD reported stops based 
+on whether the stop was initiated by a radio run from a 911 or 311 call, by in-person information 
+from a complainant or witness , or was a self-initiated stop based on the officer’s observation.  In 
+the first three quarters of 2024, 93% of radio run stops were lawful, 96% of stops based on 
+complainant information were lawful, but only  79% of stops based on the officers ’ self-initiated 
+observations were lawful.  
+(Data Source: Monitor Audits of Stop Reports, N=100 per month) 
+Slide 6 
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD frisks, based on how 
+the stop was initiated. In the first three quarters of 2024, 86% of radio run frisks were lawful, 97% 
+of frisks based on complainant information were lawful, but only  60% of frisks based on the 
+officers’ self-initiated observations were lawful.  
+(Data Source: Monitor Audits of Stop Reports, N=100 per month) 
+Slide 7 
+This chart shows the Monitor team’s assessment of the lawfulness of NYPD searches, based on 
+how the stop was initiated. In 2024, 79% of radio run searches were lawful, 86% of searches based 
+on complainant information were lawful, but only  66% of searches based on the officers ’ self-
+initiated observations were lawful.  
+(Data Source: Monitor Audits of Stop Reports, N=100 per month) 
+ 
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 19 of 21
+ 2 
+Slide 8 
+The performance of commands—precincts, Housing Bureau’s Police Service Areas (“PSAs”), and 
+Transit Bureau’s Transit Districts —vary across the City in terms of their compliance with the 
+Fourth Amendment. Th is chart shows the percent of commands in which the NYPD has 
+determined that at least 85% of their reported stops, frisks, or searches were lawful. For the third 
+quarter of 2024, only 81% of commands had a compliance rate for stops greater than 85%; only 
+46% of commands had a compliance rate for frisks greater than 85%; and only 27% of commands 
+had a compliance rate of searches greater than 85%.  
+(Data Source: QAS Quarterly Citywide Report on Stop Report Monitoring Audits) 
+Slide 10 
+This chart compares the Monitor’s audits with the audits prepared by the NYPD’s audit section, 
+the Quality Assurance Section (“QAS”), audits by the NYPD commands themselves, and reviews 
+by the first -line supervisors for the third quarter of 2024. Audits by QAS have significantly 
+improved and closely mirror the Monitor’s findings. Reviewing supervisors, however, approved 
+close to 100% of all stops, frisks, and searches, including those the Monitor found to be unlawful. 
+Adequate supervision at the commands was lacking. 
+(Data Source: Monitor Audits of Stop Reports, N=100 per month)   
+Slide 12 
+If a stop results in an arrest, that suggests that the stop was appropriately targeted at a suspect and 
+that the officer making the stop likely had reasonable suspicion.  At the same time, stops may be 
+lawful even if they do not result in an arrest. This chart shows the percent of reported stops that 
+resulted in an arrest, broken down by quarter and how the stops was initiated. Stops initiated by a 
+complainant or witness (“CW”) or a radio run (“RR”) (i.e., when an officer is responding to a 911 
+or 311 call) were far more effective than stops based only on an officer’s observation (self-initiated 
+stops, or “SI”). In the fourth quarter of 2024, the arrest rate for complainant/witness stops was  
+41%; the arrest rate for stops beginning with a radio run was 4 2%; the arrest rate for all self-
+initiated stops was 11%; and the arrest rate for self-initiated stops where officers believe a person 
+possessed a weapon ( “SI-CPW”) was only 7%. The arrests for self -initiated CPW stops in this 
+chart were for CPW (Criminal Possession of a Weapon).  
+(Data Source: https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page) 
+Slide 13 
+This chart shows the volume of self -initiated CPW stops from 20 22 to 2024 and the CPW arrest 
+rate for those stops over the same period. The number of self -initiated CPW stops has increased 
+significantly over the last three years. In contrast, the arrest rate resulting from CPW stops has 
+declined dramatically in the same period, with the arrest rate at the end of 2024 well below 10%.  
+(Data Source: https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page) 
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 20 of 21
+ 3 
+Slide 15 
+The number of Terry stops that are not being properly documented, as required, has varied over 
+the last three years. Officers are conducting stops captured on their body-worn cameras (“BWC”) 
+but they are not completing stop reports documenting the stop. This chart shows the results of the 
+Monitor team’s audits of BWC videos to identify stops that were not documented. In the fourth 
+quarter of 2024, officers failed to complete stop reports in 30% of stops identified in the Monitor’s 
+audit. Note that this asse ssment does not account for instances where BWCs were not activated, 
+as it is not possible to accurately estimate how many stops occurred when officers did not activate 
+their BWCs. 
+(Data Source: Monitor Quarterly Audit of Investigative Encounter BWC videos, N=225 per 
+quarter) 
+Slide 17 
+This slide shows the results of the Monitor’s audits of reported stops and trespass arrests by the 
+NYPD’s Housing Bureau officers in the first half of 2024. In the first six months of 2024, 77% of 
+stops, 52% of frisks, and 48% of searches were assessed as lawful. In that same period, compliance 
+rates were high for trespass arrests in terms of both an objective credible reason to approach (98% 
+lawful) and probable cause for the arrest (99%). 
+(Data Source: Monitor Quarterly Audit of NYCHA Trespass Arrests (N=50) and Stop Reports 
+(N=50)) 
+ 
+Case 1:08-cv-01034-AT     Document 960-1     Filed 05/21/25     Page 21 of 21

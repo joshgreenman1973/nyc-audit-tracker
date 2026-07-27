@@ -1,0 +1,54 @@
+{
+  "id": "audit-of-the-monitoring-of-the-citys-trade-waste-carting-industry-by-the-business-integrity-commission",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the Monitoring of the City’s Trade Waste Carting Industry by the Business Integrity Commission",
+  "plain_title": "How the city polices its private trash hauling industry",
+  "agency": "New York City Business Integrity Commission",
+  "issued": "2025-12-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-monitoring-of-the-citys-trade-waste-carting-industry-by-the-business-integrity-commission/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MG25-062A.pdf",
+  "what_they_audited": "How effectively the Business Integrity Commission monitors the city's private trash hauling industry, focusing on its inspection program, the violations it issues and how it investigates complaints.",
+  "background": "The commission was created after state and federal investigations exposed pervasive corruption, organized crime influence and price-fixing in the private carting industry, and it licenses and regulates the companies that haul commercial waste. As of September 2025 it oversaw 1,850 active carting companies, and a 2019 local law added promoting safety to its mandate.",
+  "findings": [
+    {
+      "plain": "The commission has no written standards saying when a troubled company should be audited, assigned an independent monitor or pushed toward losing its license, and it has not created internal policies to fill that gap.",
+      "quote": "the rules do not offer guidance on when BIC should refer a company for audit or when it should consider imposing a monitor or escalate toward revocation."
+    },
+    {
+      "plain": "Nearly half of the 7,641 charges the commission issued between January 2021 and December 2024 were concentrated among just 140 companies, yet almost all of those chronic violators faced nothing beyond fines. Only five got any additional oversight and only one lost its license.",
+      "quote": "Nearly half of the charges issued by BIC were concentrated among 140 companies; however, other than the issuance of fines, 96% of the companies faced no additional enforcement actions of any kind."
+    },
+    {
+      "plain": "Enforcement did not match risk. Companies with extensive crash histories and serious safety violations kept operating with no extra scrutiny while others with fewer, less severe infractions were audited or assigned monitors.",
+      "quote": "Companies posing the highest potential danger to workers and the public continued to operate with little additional scrutiny, while others with primarily administrative deficiencies were placed under enhanced oversight."
+    },
+    {
+      "plain": "Even when the commission did impose independent monitors, the fix did not stick. Companies kept racking up violations after their monitorships ended.",
+      "quote": "Three of the four companies with repeat violations continued to incur violations even after the monitorships ended"
+    },
+    {
+      "plain": "The commission's audit function barely operates. There is no audit manual, selection of companies is not based on risk and coverage is minimal, with zero audits conducted in 2023.",
+      "quote": "The unit completed only 11 audits over five years, covering less than 4% of licensees."
+    },
+    {
+      "plain": "On the positive side, the commission cleared its backlog and got much faster at processing violations and complaints, cutting average violation issuance time from 148 workdays in 2021 to 20 in 2024.",
+      "quote": "there was an 86% reduction in the average issuance time, from 148 workdays in 2021 to just 20 workdays in 2024."
+    }
+  ],
+  "numbers": [
+    {"value": "7,641", "label": "Charges issued to carting companies from 2021 through 2024"},
+    {"value": "140", "label": "Companies that accounted for nearly half of all charges"},
+    {"value": "11", "label": "Audits of carting companies completed over five years"},
+    {"value": "86%", "label": "Drop in average time to issue a violation since 2021"}
+  ],
+  "recommendations": [
+    "Develop standard operating procedures that define when and how to escalate enforcement, with clear criteria and benchmarks, such as numbers of crashes or repeated inspection failures, that trigger review for audits, monitorships or license revocation.",
+    "Adopt formal, risk-based criteria for choosing which companies to audit and write an audit procedures manual to standardize audit steps and ensure consistent quality.",
+    "Set annual audit targets focused on high-risk companies and repeat offenders, and seek enough staff and resources to expand coverage and finish audits faster."
+  ],
+  "agency_response": "The commission partially agreed with three recommendations and disagreed with the rest, arguing that formal enforcement thresholds would be incompatible with its case-by-case, quasi-judicial decision-making and that the audit's conclusions rested on incorrect assumptions. The auditors disagreed and stood by the findings.",
+  "implementation_note": "",
+  "topics": ["public safety", "environment"],
+  "is_followup": false
+}

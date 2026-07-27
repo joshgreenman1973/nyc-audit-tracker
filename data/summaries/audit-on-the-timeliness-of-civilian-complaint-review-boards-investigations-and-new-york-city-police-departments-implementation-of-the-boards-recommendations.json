@@ -1,0 +1,74 @@
+{
+  "id": "audit-on-the-timeliness-of-civilian-complaint-review-boards-investigations-and-new-york-city-police-departments-implementation-of-the-boards-recommendations",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit on the Timeliness of Civilian Complaint Review Board’s Investigations and New York City Police Department’s Implementation of the Board’s Recommendations",
+  "plain_title": "How long police misconduct cases take and what discipline follows",
+  "agency": "New York City Civilian Complaint Review Board and New York City Police Department",
+  "issued": "2025-12-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-on-the-timeliness-of-civilian-complaint-review-boards-investigations-and-new-york-city-police-departments-implementation-of-the-boards-recommendations/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/CCRB-NYPD-Final-Report-FK25PAR20005.pdf",
+  "what_they_audited": "Whether the Civilian Complaint Review Board, the independent agency that investigates complaints of police misconduct, completes its investigations on time, and how often the New York City Police Department actually implements the board's discipline recommendations.",
+  "background": "The Civilian Complaint Review Board investigates misconduct complaints against uniformed police officers and recommends discipline, but the police commissioner has final say and can accept, reject or modify any recommendation. State law generally requires disciplinary action to begin within 18 months of the misconduct.",
+  "findings": [
+    {
+      "plain": "The board met its average targets for finishing investigations, but more than half of individual cases blew past them. Over half of full investigations took more than 14 months and 62% of substantiated cases took more than the 480-day target.",
+      "quote": "it took CCRB more than 420 days (more than 14 months) to complete and close 54.9% of fully investigated civilian complaints."
+    },
+    {
+      "plain": "Because cases arrived so close to the legal deadline for discipline, the police department closed more than half of all substantiated cases during the audit period without reviewing them and without any disciplinary action.",
+      "quote": "resulted in NYPD closing 51.5% of the substantiated cases without any review and without disciplinary action."
+    },
+    {
+      "plain": "Delays had several causes: complaints jumped 67.6% from fiscal year 2021 to 2025 while staffing lagged, cases waited an average of 5.1 months just to be assigned to a board review panel and it took an average of 185 days to request and collect evidence from the police department. Budget constraints even forced the board to stop investigating certain types of complaints.",
+      "quote": "The number of complaints received by CCRB significantly increased from 3,326 in Fiscal Year 2021 to 5,575 in FY2025, an increase of 2,249 (67.6%)"
+    },
+    {
+      "plain": "The appointing authorities left board seats empty, which slowed case reviews. The board is supposed to have 15 members but operated short-handed, one City Council seat sat vacant for over two years and the board has had no permanent chair since 2022.",
+      "quote": "CCRB operated with 11 to 14 members due to unfilled vacancies."
+    },
+    {
+      "plain": "How often the police department accepted the board's discipline recommendations depended heavily on who was police commissioner. Commissioner Jessica Tisch accepted the recommended discipline in 77.8% of substantiated cases while Commissioner Edward Caban did so in only 22.9%.",
+      "quote": "Police Commissioner Jessica Tisch accepted and imposed the same level of discipline recommended by the board in 77.8% of substantiated cases, while Police Commissioner Edward Caban..."
+    },
+    {
+      "plain": "Overall the police department did not implement the board's discipline recommendations in 53.9% of substantiated non-charges cases, though it did serve charges in 86.3% of the most serious misconduct cases.",
+      "quote": "NYPD accepted CCRB’s recommendations in 541 (86.3%) of 627 cases involving the most serious charges."
+    },
+    {
+      "plain": "The police department did not consistently tell the board what discipline it actually imposed, which keeps the board from notifying victims of case outcomes as required.",
+      "quote": "NYPD did not report disciplinary actions or penalties imposed against MOS in 289 (14.5%) of 2,000 substantiated non-charges cases submitted to NYPD between January 2, 2024 and May 29, 2025."
+    }
+  ],
+  "numbers": [
+    {"value": "51.5%", "label": "Substantiated cases the police closed without any review"},
+    {"value": "77.8%", "label": "Discipline acceptance rate under Commissioner Tisch"},
+    {"value": "22.9%", "label": "Discipline acceptance rate under Commissioner Caban"},
+    {"value": "5,575", "label": "Complaints the board received in fiscal year 2025"},
+    {"value": "1,255", "label": "Cases awaiting board review as of December 2, 2025"}
+  ],
+  "recommendations": [
+    "The police department and the board should jointly enter a formal agreement setting timeframes for requesting and producing evidence other than body-worn camera footage.",
+    "The two agencies should jointly agree on deadlines for the board to submit cases to the police department.",
+    "The two agencies should jointly enter a formal agreement setting standardized protocols for reporting the police commissioner's final decisions on board cases.",
+    "The two agencies should jointly work on integrating a system for tracking what happens to cases the board sends to the police department.",
+    "The police department should write internal policies with timeframe guidelines for cases approaching the statute of limitations.",
+    "The police department should set formal internal deadlines for answering the board's requests for evidence.",
+    "The police department should step up recruiting for its Department Advocate's Office legal staff and seek funding to keep it adequately staffed.",
+    "The police department should make sure penalties match discipline determinations under its disciplinary matrix.",
+    "The police department should adopt policies requiring it to follow the City Charter and city rules and report specific officer penalties to the board.",
+    "The police department should build recordkeeping system controls that allow automated, streamlined reporting on board cases, including the commissioner's final decision.",
+    "The police department should make sure its recordkeeping system tracks compliance with city rules and the Charter when sharing case information with the board.",
+    "The board should set formal timeframes for requesting evidence from the police department to fix the bottlenecks the auditors identified.",
+    "The board should keep seeking additional funding so it can investigate every complaint in its jurisdiction and give the police time to act within the statute of limitations.",
+    "The board should adopt internal policies on how to handle cases where the police never reported final dispositions and penalties.",
+    "The appointing authorities should fill existing board vacancies and fill future ones within 60 days so the maximum number of review panels can meet each month.",
+    "The appointing authorities should fill the board chair vacancy as the Charter requires to keep operations moving and protect the board's independence.",
+    "The city should consider increasing the number of board members so more panels can meet and investigations finish faster.",
+    "The city should comply with Charter-mandated funding levels for the board given rising complaints and its expanded responsibilities."
+  ],
+  "agency_response": "Neither agency explicitly agreed or disagreed with most recommendations; both said they would work collaboratively to review timelines and practices, and the board agreed with the recommendation to keep seeking funding. The Mayor's Office did not respond to the recommendations directed at the appointing authorities or the city.",
+  "implementation_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

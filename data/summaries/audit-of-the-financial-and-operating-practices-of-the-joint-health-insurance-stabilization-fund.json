@@ -1,0 +1,60 @@
+{
+  "id": "audit-of-the-financial-and-operating-practices-of-the-joint-health-insurance-stabilization-fund",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit of the Financial and Operating Practices of the Joint Health Insurance Stabilization Fund",
+  "plain_title": "The fund meant to stabilize city health costs is insolvent",
+  "agency": "New York City Office of Labor Relations",
+  "issued": "2025-12-30",
+  "url": "https://comptroller.nyc.gov/reports/audit-of-the-financial-and-operating-practices-of-the-joint-health-insurance-stabilization-fund/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/FK24-070A.pdf",
+  "what_they_audited": "The financial condition of the Health Insurance Stabilization Fund (HISF), a reserve fund for city employee health insurance jointly managed by the Office of Labor Relations (OLR) and the Municipal Labor Committee (MLC), and whether the fund's money was used for its intended purposes.",
+  "background": "HISF was created in 1985 to help support the cost of health insurance coverage for city employees, retirees and their dependents, mainly by covering the cost difference between the city's two no-cost health plans. It is jointly administered by OLR, representing the city, and the MLC, representing municipal labor unions.",
+  "findings": [
+    {
+      "plain": "The fund is insolvent. Its reported year-end cash balance fell from nearly $1.6 billion in fiscal year 2019 to $843 million in fiscal year 2024, and once required reserves are set aside only about $3.1 million was actually available.",
+      "quote": "The audit found that HISF is insolvent , and the Office of Labor Relations (OLR) and the Municipal Labor Committee (MLC) did not take adequate steps to improve the Fund’s position."
+    },
+    {
+      "plain": "Since 2001, OLR and the MLC authorized at least $4.3 billion in lump sum payments and recurring transfers from the fund that were not consistent with its stated purpose, including $2.8 billion to the city and $1.5 billion to union-administered welfare funds to cover raises, deferred layoffs and other costs.",
+      "quote": "these lump sum payments and recurring transfers have resulted in at least $4.3 billion being transferred from HISF to the City ($2.8 billion) and welfare funds ($1.5 billion), as detailed in Tables IV and V below."
+    },
+    {
+      "plain": "Healthcare savings agreements in 2014 and 2018 let the MLC count reductions in the city's payments into the fund as \"savings.\" These offsets reduced the fund's balance by $3.3 billion and ultimately led to its insolvency in fiscal year 2022.",
+      "quote": "These offsets reduced the Fund’s balance year over year, which ultimately led to its insolvency in FY2022."
+    },
+    {
+      "plain": "OLR and the MLC knew as early as 2018 that the fund would be insolvent by fiscal year 2021 unless significant action was taken, but did not act in time. A committee created to recommend fixes never issued formal findings, the planned Medicare Advantage switch was dropped and a new health plan procurement did not start until 2022, after the fund was already insolvent.",
+      "quote": "OLR and the MLC knew as early as 2018 that the Fund would be insolvent by FY2021 unless significant action was taken, but did not take timely or effective action"
+    },
+    {
+      "plain": "The fund has accrued about $3.1 billion in liabilities it cannot pay, mostly equalization payments owed to the city, and these liabilities were never reported on the fund's annual certifications, materially underreporting its deficits since fiscal year 2022.",
+      "quote": "OLR and the MLC have been materially underreporting the Fund’s deficits since FY2022. This underreporting of deficits totals approximately $3.1 billion as of April 2025."
+    },
+    {
+      "plain": "The fund kept paying for additional benefits such as the Psychotropic, Injectable, Chemotherapy and Asthma (PICA) drug program even when money was not available. These recurring benefit expenses grew from $83.2 million in fiscal year 2020 to $166.5 million in fiscal year 2024.",
+      "quote": "These benefit expenses are paid on a monthly or quarterly basis and have increased significantly from $83.2 million in FY2020 to $166.5 million in FY2024"
+    },
+    {
+      "plain": "The fund lacks transparency and adequate governance. The joint committee that discusses it has no governing documents, keeps no meeting minutes and its monthly reports leave out the fund's large unreported liabilities.",
+      "quote": "The audit also found that HISF lacks transparency and has inadequate governance and decision-making capacity."
+    }
+  ],
+  "numbers": [
+    {"value": "$3.1 billion", "label": "Fund liabilities it is unable to pay, as of April 2025"},
+    {"value": "$4.3 billion", "label": "Transfers unrelated to the fund's stated purpose since 2001"},
+    {"value": "$3.3 billion", "label": "Offsets to equalization payments that eroded the fund"},
+    {"value": "$843 million", "label": "Reported fiscal year 2024 year-end cash balance"},
+    {"value": "$3.1 million", "label": "Cash left in fiscal year 2024 after required reserves"},
+    {"value": "$166.5 million", "label": "Fiscal year 2024 spending on additional benefits"}
+  ],
+  "recommendations": [
+    "Work with the Municipal Labor Committee to dissolve the fund and transfer carrier reserves and remaining balances to the city.",
+    "Create a new restricted account for health insurance carrier reserves.",
+    "Budget appropriately for the healthcare costs and benefits the city agrees to fund in collective bargaining."
+  ],
+  "agency_response": "OLR and the MLC disagreed with the findings, arguing the fund could be used for any mutually agreed purpose. OLR agreed with one recommendation, did not expressly agree or disagree with another and said the remaining recommendation will no longer be applicable.",
+  "implementation_note": "",
+  "topics": ["health", "money and contracts", "labor"],
+  "is_followup": false
+}

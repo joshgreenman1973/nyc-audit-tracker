@@ -1,0 +1,64 @@
+{
+  "id": "audit-report-on-the-new-york-city-department-of-health-and-mental-hygienes-oversight-of-doula-programs-in-underserved-neighborhoods",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight of Doula Programs in Underserved Neighborhoods",
+  "plain_title": "Are the city's free doula programs improving birth outcomes?",
+  "agency": "New York City Department of Health and Mental Hygiene",
+  "issued": "2025-05-09",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-department-of-health-and-mental-hygienes-oversight-of-doula-programs-in-underserved-neighborhoods/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/SZ24-063A.pdf",
+  "what_they_audited": "Auditors assessed how the Department of Health and Mental Hygiene (DOHMH) runs the Citywide Doula Initiative (CDI), which provides free doula support to people in underserved neighborhoods, shelters and foster homes, and whether the program is increasing access to doula services and reducing negative birth outcomes for clients from March 2022 through June 2024.",
+  "background": "City laws require DOHMH to expand access to doula services and to provide them at no cost to residents of marginalized neighborhoods in all five boroughs. DOHMH contracted with seven vendors to provide CDI doula services, with $4,066,429.32 approved for services and training from March 2022 through June 2024, in a city where Black non-Hispanic women accounted for 17.7% of live births in 2021 but 39.7% of pregnancy-associated deaths.",
+  "findings": [
+    {
+      "plain": "The program is reaching its target areas. All 33 neighborhoods identified as underserved by the city's Taskforce on Racial Inclusion & Equity now have access to CDI doula services, and use of the services has grown quickly.",
+      "quote": "the number of CDI doula visits conducted during the second quarters of Calendar Years 2022 through 2024 has increased an average of 75% each year"
+    },
+    {
+      "plain": "Black and Hispanic women who used CDI doulas had better birth outcomes than Black and Hispanic women citywide, with lower rates of C-sections, low birth weight and pre-term births. CDI clients also breastfed exclusively at a 53% rate versus 40.4% citywide, and no pregnancy-associated deaths were reported among CDI clients during the audit period.",
+      "quote": "among both Black and Hispanic women, CDI clients fared better than those in the general population in all three categories of negative birth outcomes relating to C-sections, low birth weights, and pre-term births"
+    },
+    {
+      "plain": "Results were weaker for Asian American/Pacific Islander (AAPI) and White clients, though far fewer of them participated in the program, so there was much less data to go on.",
+      "quote": "Birthing outcomes of White CDI clients varied when compared to citywide birth outcome rates, while birthing outcomes of AAPI CDI clients were worse than citywide birth outcome rates."
+    },
+    {
+      "plain": "Pregnant people living in homeless shelters are not getting doula services as reliably as other clients. About half of doulas surveyed said shelter clients were difficult or impossible to reach, with some shelters denying entry and others requiring caseworker approval that delays services.",
+      "quote": "Clients residing in shelters are not receiving doula services with the same level of consistency as CDI clients not residing in shelters, either because doulas are delayed waiting for case worker approvals or because some shelters outright deny doulas access to their clients."
+    },
+    {
+      "plain": "There are not enough doulas who speak languages other than English. Clients requested services in another language 321 times, and while six of the seven vendors could serve clients in Spanish, fewer than half could cover other languages.",
+      "quote": "Vendors that responded to the survey reported a need for non-English-speaking doulas."
+    },
+    {
+      "plain": "Some hospitals still get in doulas' way. In DOHMH's own survey, doulas reported being prevented from helping clients use the restroom, supporting mobility out of bed or staying with clients during delivery.",
+      "quote": "DOHMH’s assessment and the audit’s review of the Doula Assessment survey found that a significant portion of doulas were prevented from providing certain care."
+    },
+    {
+      "plain": "DOHMH stores program data across multiple datasets instead of one comprehensive one, which makes it labor intensive to analyze whether the program is achieving its goals.",
+      "quote": "However, the agency does not maintain a single comprehensive dataset containing key data (e.g., doula services provided, clients served, birth outcomes) relating to the CDI."
+    }
+  ],
+  "numbers": [
+    { "value": "33", "label": "Underserved neighborhoods with access to CDI doula services" },
+    { "value": "75%", "label": "Average yearly growth in CDI doula visits" },
+    { "value": "$4,066,429.32", "label": "Approved for CDI services and training, March 2022-June 2024" },
+    { "value": "53%", "label": "CDI live births exclusively breastfed, versus 40.4% citywide" },
+    { "value": "321", "label": "Client requests for services in a language other than English" },
+    { "value": "49%", "label": "Doulas who said shelter clients were hard or impossible to reach" }
+  ],
+  "recommendations": [
+    "Make all reasonable efforts to collect or use available provisional citywide birth outcome data so CDI client rates can be compared with citywide rates sooner.",
+    "Consolidate data collection into more efficient reporting to determine how well doula services reduce negative birth outcomes and maternal mortality.",
+    "Increase the number of doulas who speak languages other than English.",
+    "Continue working with the Department of Homeless Services to increase doula access to clients in shelters.",
+    "Continue promoting doula-friendly policies in the Maternity Hospital Quality Improvement Network hospitals and expand the incorporation of doulas into hospital birthing teams.",
+    "Build client satisfaction surveys into data collection and evaluate satisfaction by vendor, analyzing differences in practice that may affect satisfaction.",
+    "Conduct additional studies of outcomes for AAPI and White women to understand why the program appears to help them less."
+  ],
+  "agency_response": "DOHMH agreed with six of the seven recommendations and disagreed with one, on studying outcomes for AAPI and White women, saying the program's focus is Black and Hispanic birth outcomes and the sample sizes for those groups were very small. The auditors responded that the worse outcomes for those clients should not be dismissed without closer consideration.",
+  "implementation_note": "",
+  "topics": ["health", "children and youth"],
+  "is_followup": false
+}

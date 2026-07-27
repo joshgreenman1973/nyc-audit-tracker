@@ -1,0 +1,62 @@
+{
+  "id": "audit-report-on-the-new-york-city-department-of-education-school-construction-authoritys-asbestos-management-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the New York City Department of Education/School Construction Authority’s Asbestos Management Program",
+  "plain_title": "Are schools getting their required asbestos inspections?",
+  "agency": "New York City Department of Education and School Construction Authority",
+  "issued": "2025-04-09",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-department-of-education-school-construction-authoritys-asbestos-management-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/04/SE23-103A.pdf",
+  "what_they_audited": "Auditors checked whether the Department of Education (DOE) and School Construction Authority (SCA) are inspecting every public school building for asbestos hazards every three years and every six months as the federal Asbestos Hazard Emergency Response Act (AHERA) requires, and whether asbestos found in inspections is documented and management plans are kept up as mandated.",
+  "background": "Asbestos fibers, once airborne and inhaled, can cause severe diseases including asbestosis, lung cancer and mesothelioma, and AHERA was enacted in 1986 to protect students, teachers and school staff from exposure. As of March 2024, about 1,431 of the roughly 1,700 New York City school buildings, about 80%, were identified as containing asbestos containing materials (ACM) and are subject to AHERA's inspection requirements.",
+  "findings": [
+    {
+      "plain": "DOE has been out of compliance with the federal asbestos law for decades. Since 1997, across nine three-year inspection cycles, DOE conducted an average of only 11% of the required triennial inspections, with one cycle at 0%.",
+      "quote": "The audit found that DOE is not in compliance with Asbestos Hazard Emergency Response Act (AHERA) regulations and has not been for many years."
+    },
+    {
+      "plain": "In the most recent three-year cycle, from March 2021 to March 2024, just 18% of schools with known asbestos got the required triennial reinspection, leaving 1,175 buildings unassessed. DOE typically does 200 to 250 inspections every three years but needs about 480 per year to comply.",
+      "quote": "only 257 of the 1,431 buildings (18%) with identified ACM received the triennial inspection required by AHERA"
+    },
+    {
+      "plain": "The required twice-a-year surveillance inspections are also mostly not happening. From May 2023 to April 2024, only 22% of the required periodic inspections were completed, and compliance was similarly low in every borough.",
+      "quote": "a total of 620 of the required 2,862 periodic surveillance inspections were performed"
+    },
+    {
+      "plain": "DOE has no centralized system for tracking this work. It did not start tracking periodic inspections until March 2023, previously relying on outdated management plans and, in some schools, custodians who lacked the training AHERA requires.",
+      "quote": "DOE maintains no centralized recordkeeping system with reporting features to support compliance with AHERA."
+    },
+    {
+      "plain": "Evidence of mandatory asbestos training was inadequate or missing for most of 2020 through 2023, and the required annual notifications to parents, teachers and employee organizations were sent only to DOE email addresses, so auditors could not verify all stakeholders were reached.",
+      "quote": "DOE did not maintain training records during most of the period from 2020 to 2023, and while complete records exist for 2024, DOE lacked training certificates for all custodians in the previous years"
+    },
+    {
+      "plain": "Poor coordination between DOE and SCA has left 57 school buildings with asbestos status listed as to be determined, and delays in certifying buildings as asbestos-free led to unnecessary spending. One Queens school got its certification 13 years after opening, after DOE had paid for inspections it may not have needed.",
+      "quote": "In April 2022, DOE spent about $31,000 on one triennial and one periodic inspection because the ACM status had not been determined for over 10 years."
+    }
+  ],
+  "numbers": [
+    { "value": "1,431", "label": "School buildings identified as containing asbestos" },
+    { "value": "18%", "label": "Schools with a triennial inspection, March 2021-March 2024" },
+    { "value": "22%", "label": "Required six-month inspections completed, May 2023-April 2024" },
+    { "value": "11%", "label": "Average share of required triennial inspections done since 1997" },
+    { "value": "57", "label": "School buildings with asbestos status listed as to be determined" },
+    { "value": "$31,000", "label": "Spent on inspections at one school lacking asbestos-free certification" }
+  ],
+  "recommendations": [
+    "Improve awareness and understanding of AHERA compliance among school officials and the designated compliance officer.",
+    "Develop and adopt comprehensive policies and procedures for asbestos management in schools, including internal reporting and review mechanisms to ensure full compliance.",
+    "Develop a plan with specific milestones to bring triennial and periodic inspections up to date, including a historical review of inspection data, a phased plan prioritizing buildings with the longest gaps, adequate resources and consultants, and a detailed schedule covering all 1,431 buildings.",
+    "Implement a recordkeeping system with reporting features to ensure accountability and compliance.",
+    "Document ongoing inspection and management-plan efforts to minimize potential penalties and demonstrate good-faith compliance.",
+    "Make sure all custodians and asbestos handlers are adequately trained and keep evidence of that training.",
+    "Make sure all stakeholders are adequately notified of asbestos-related activities.",
+    "Develop a standard procedure for promptly determining a school's asbestos status, including timely receipt and monitoring of asbestos-free certification letters from SCA.",
+    "SCA should keep the asbestos status of all new school buildings and additions current, and investigate and address delays in providing asbestos-free certification letters to DOE."
+  ],
+  "agency_response": "DOE and SCA both agreed with every recommendation. DOE officials did not dispute the low inspection rates but asserted there was no risk of asbestos exposure given its abatement practices, a position the auditors disagreed with.",
+  "implementation_note": "",
+  "topics": ["education", "health"],
+  "is_followup": false
+}
