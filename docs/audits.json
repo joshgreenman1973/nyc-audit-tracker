@@ -20476,6 +20476,126 @@
      "text": "Ensure department information systems continuously receive updates to improve functionality and optimize workflow."
     }
    ]
+  },
+  {
+   "id": "2025-01-01-cuf-parks-ticket-surcharge",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "Enacting a Ticket Surcharge to Strengthen New York City’s Parks",
+   "plain_title": "A ticket surcharge to pay for park maintenance",
+   "agency": "New York City government",
+   "issued": "2025-01-01",
+   "url": "https://nycfuture.org/research/enacting-a-ticket-surcharge-to-strengthen-new-york-citys-parks",
+   "pdf": "",
+   "what_they_audited": "A report from the Center for an Urban Future, a New York City based think tank, working out how much money a surcharge on tickets to concerts, sporting events and Broadway shows could raise for park maintenance and what legal steps enacting one would take. It follows the group's 2024 report on ways to fund parks.",
+   "background": "The Parks Department cares for more than 30,000 acres, nearly 2,000 parks and 1,000 playgrounds. All revenue the department collects from ground leases and concessions goes into the city's General Fund under a system created by the 1975 state Financial Emergency Act, so the department has no dedicated revenue of its own.",
+   "findings": [
+    {
+     "plain": "The Parks Department's budget was cut while its repair backlog stayed large, and it is covering only a fraction of what it needs to keep facilities in good shape.",
+     "quote": "the city’s Parks Department (NYC Parks) absorbed a $20 million budget cut, and today the agency is meeting less than a third of its $725 million in state-of-good repair needs"
+    },
+    {
+     "plain": "New Yorkers and visitors bought about 33 million tickets to city events in 2023, worth roughly $3.8 billion, which is the base the group used for its estimates.",
+     "quote": "The Center for an Urban Future estimates that such a surcharge would generate anywhere from $15 million to $190 million annually"
+    },
+    {
+     "plain": "Even the smallest version of the fee would raise a meaningful sum, at about $1.20 on the average city ticket.",
+     "quote": "would generate over $38 million in recurring annual revenue"
+    },
+    {
+     "plain": "Three stadiums sit on city parkland, but the rent they pay goes into the General Fund rather than to parks.",
+     "quote": "each stadium pays a ground lease to NYC Parks, but those dollars flow back to the city’s General Fund"
+    },
+    {
+     "plain": "Parks draw tourists but capture none of the tourist spending they generate, unlike hotels through the occupancy tax.",
+     "quote": "New York City’s parks generate about $17.9 billion in tourism spending annually, but do not benefit directly from that impact"
+    },
+    {
+     "plain": "Other cities already do this. Columbus, Ohio put a 5 percent fee on ticketed events in 2018 to support cultural institutions, and Denver and Atlanta use ticket revenue for parks and public assets.",
+     "quote": "In 2023, the 5 percent fee generated $10.7 million"
+    },
+    {
+     "plain": "New York State has repeatedly created standalone entities that hold dedicated revenue outside the regular budget, including the Battery Park City Authority and the Hudson River Park Trust.",
+     "quote": "In 1998, the state passed a law to form the Hudson River Park Trust"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$725 million",
+     "label": "Parks Department state-of-good-repair needs"
+    },
+    {
+     "value": "$20 million",
+     "label": "Budget cut the Parks Department absorbed last year"
+    },
+    {
+     "value": "$190 million",
+     "label": "Top yearly estimate, 5 percent surcharge on all tickets"
+    },
+    {
+     "value": "$38 million",
+     "label": "Yearly estimate for a 1 percent surcharge"
+    },
+    {
+     "value": "$17.9 billion",
+     "label": "Yearly tourism spending the group ties to city parks"
+    },
+    {
+     "value": "33,180,737",
+     "label": "Event tickets sold in the city in 2023"
+    },
+    {
+     "value": "$10.7 million",
+     "label": "Raised by the Columbus, Ohio ticket fee in 2023"
+    }
+   ],
+   "recommendations": [
+    "Have the City Council pass a home rule resolution asking Albany to let the city collect a parks improvement surcharge on event tickets.",
+    "Have the state pass legislation authorizing the city to enact the surcharge, which the report says avoids any question of state preemption.",
+    "Have the City Council then pass a local law creating the surcharge and putting the Department of Finance in charge of collecting it, with the report favoring a 3 percent rate, exempting tickets under $30 and exempting events such as SummerStage and Celebrate Brooklyn that already raise money for parks.",
+    "Have the state create a Parks Improvement Trust that receives the surcharge money and passes it through to the Parks Department, so the revenue does not land in the General Fund.",
+    "Write flexibility into the legislation so the surcharge can be adjusted over time as inflation erodes its value.",
+    "Release Trust money only if the city keeps its own parks funding at or above a set baseline, such as the fiscal 2025 level, and give the Trust representation from the City Council, labor unions and community organizations rather than the mayoral administration alone.",
+    "Have the City Council require the Parks Department to publish an annual report showing how the surcharge money was spent and whether it reached under-resourced neighborhoods."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "environment",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Have the City Council pass a home rule resolution asking Albany to let the city collect a parks improvement surcharge on event tickets."
+    },
+    {
+     "n": 2,
+     "text": "Have the state pass legislation authorizing the city to enact the surcharge, which the report says avoids any question of state preemption."
+    },
+    {
+     "n": 3,
+     "text": "Have the City Council then pass a local law creating the surcharge and putting the Department of Finance in charge of collecting it, with the report favoring a 3 percent rate, exempting tickets under $30 and exempting events such as SummerStage and Celebrate Brooklyn that already raise money for parks."
+    },
+    {
+     "n": 4,
+     "text": "Have the state create a Parks Improvement Trust that receives the surcharge money and passes it through to the Parks Department, so the revenue does not land in the General Fund."
+    },
+    {
+     "n": 5,
+     "text": "Write flexibility into the legislation so the surcharge can be adjusted over time as inflation erodes its value."
+    },
+    {
+     "n": 6,
+     "text": "Release Trust money only if the city keeps its own parks funding at or above a set baseline, such as the fiscal 2025 level, and give the Trust representation from the City Council, labor unions and community organizations rather than the mayoral administration alone."
+    },
+    {
+     "n": 7,
+     "text": "Have the City Council require the Parks Department to publish an annual report showing how the surcharge money was spent and whether it reached under-resourced neighborhoods."
+    }
+   ]
   }
  ]
 }

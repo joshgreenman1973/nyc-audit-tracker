@@ -28,20 +28,20 @@
     "reason": "Testimony, which the outside-layer spec excludes from this collection."
   },
   {
-    "url": "https://citizensunion.org/document/2026-02-03/happy-special-election-day-the-winner-was-decided-for-you/",
     "title": "Happy Special Election Day! The Winner Was Decided for You",
+    "url": "https://citizensunion.org/document/2026-02-03/happy-special-election-day-the-winner-was-decided-for-you/",
     "publisher": "citizensunion",
     "reason": "not NYC government; the proposal is for New York State to adopt nonpartisan special elections for state legislative vacancies"
   },
   {
-    "url": "http://www.centernyc.org/reports-briefs/nyc-faces-imbalance-of-taxes-spending-with-albany-new-cnyca-cuny-study-finds",
     "title": "NYC Faces Imbalance of Taxes, Spending With Albany, New CNYCA-CUNY Study Finds",
+    "url": "http://www.centernyc.org/reports-briefs/nyc-faces-imbalance-of-taxes-spending-with-albany-new-cnyca-cuny-study-finds",
     "publisher": "cnycaffairs",
     "reason": "empirical fiscal analysis of state revenues and spending; the report states it does not assess policy reasons and makes no recommendations"
   },
   {
-    "url": "https://nycfuture.org/research/state-of-the-chains-2025",
     "title": "State of the Chains, 2025",
+    "url": "https://nycfuture.org/research/state-of-the-chains-2025",
     "publisher": "cuf",
     "reason": "annual empirical count of chain retail locations; makes no recommendations"
   },
@@ -88,123 +88,115 @@
     "reason": "not NYC government; all seven recommendations are addressed to New York State officials."
   },
   {
-    "url": "https://cbcny.org/research/risky-business-0",
     "title": "Risky Business",
+    "url": "https://cbcny.org/research/risky-business-0",
     "publisher": "cbc",
     "issued": "2026-01-28",
     "reason": "not NYC government: analyzes corporate tax rates paid by New York City businesses, but every recommendation is addressed to New York State (hold the line on taxes, review state regulations, curb state economic development tax breaks)"
   },
   {
-    "url": "https://cbcny.org/research/top-charts-3",
     "title": "Top of the Charts 3",
+    "url": "https://cbcny.org/research/top-charts-3",
     "publisher": "cbc",
     "issued": "2026-01-27",
     "reason": "not NYC government: chartbook comparing New York State and its localities with other states on taxes and spending; its proposals are addressed to New York State and its localities generally"
   },
   {
-    "url": "https://cbcny.org/research/paying-parks",
     "title": "Paying for Parks",
+    "url": "https://cbcny.org/research/paying-parks",
     "publisher": "cbc",
     "issued": "2025-10-28",
     "reason": "no recommendations: descriptive account of city parks spending from fiscal years 1970 to 2026; the conclusion says the discussion should start with budget facts but proposes no actions"
   },
   {
-    "url": "https://cbcny.org/research/hidden-cost-new-yorks-shrinking-millionaire-share",
     "title": "The Hidden Cost of New York's Shrinking Millionaire Share",
+    "url": "https://cbcny.org/research/hidden-cost-new-yorks-shrinking-millionaire-share",
     "publisher": "cbc",
     "issued": "2025-08-28",
     "reason": "no recommendations: empirical analysis of New York's falling share of the nation's millionaires and the associated personal income tax revenue"
   },
   {
-    "url": "https://cbcny.org/research/nycs-adopted-fiscal-year-2026-budget-numbers",
     "title": "NYC's Adopted Fiscal Year 2026 Budget by the Numbers",
+    "url": "https://cbcny.org/research/nycs-adopted-fiscal-year-2026-budget-numbers",
     "publisher": "cbc",
     "issued": "2025-07-01",
     "reason": "no recommendations: seven-statistic brief on the adopted budget; the only proposal referenced is one the group made in an earlier document"
   },
   {
-    "url": "https://cbcny.org/research/straight-new-yorkers-2025",
     "title": "Straight from New Yorkers 2025",
+    "url": "https://cbcny.org/research/straight-new-yorkers-2025",
     "publisher": "cbc",
     "issued": "2025-06-04",
     "reason": "no recommendations: resident opinion survey reporting ratings of quality of life, public safety and city services; the conclusion calls for improvement but lists no proposals"
   },
   {
-    "url": "https://cbcny.org/research/highest-costs-middling-marks",
     "title": "Highest Costs, Middling Marks",
+    "url": "https://cbcny.org/research/highest-costs-middling-marks",
     "publisher": "cbc",
     "issued": "2025-01-17",
     "reason": "not NYC government: examines New York State school spending and achievement statewide, and all of its proposals are addressed to New York State oversight, accountability and school aid"
   },
   {
-    "url": "https://cbcny.org/research/what-look-new-york-city-fiscal-year-2026-preliminary-budget",
     "title": "What to Look for in the New York City Fiscal Year 2026 Preliminary Budget",
+    "url": "https://cbcny.org/research/what-look-new-york-city-fiscal-year-2026-preliminary-budget",
     "publisher": "cbc",
     "issued": "2025-01-15",
     "reason": "no recommendations: budget preview framed as nine questions the group will examine when the preliminary budget is released"
   },
   {
-    "url": "https://cbcny.org/research/new-york-still-top-charts",
     "title": "New York, Still Top of the Charts",
+    "url": "https://cbcny.org/research/new-york-still-top-charts",
     "publisher": "cbc",
     "issued": "2025-01-09",
     "reason": "not NYC government: chartbook comparing New York State and its localities with other states on taxes and spending; its proposals are addressed to New York State and its localities generally"
   },
   {
     "title": "MTA Operating Budget Outlook: Short-Term Stability, Long-Term Risks",
-    "url": "https://cbcny.org/research/mta-operating-budget-outlook-short-term-stability-long-term-risks",
-    "publisher_name": "Citizens Budget Commission",
-    "why_rejected": "addressed to the Metropolitan Transportation Authority, a state authority; the tracker excludes MTA-directed work for the same reason it excludes state comptroller MTA audits"
+    "url": "https://cbcny.org/research/mta-operating-budget-outlook-short-term-stability-long-term-risks"
   },
   {
     "title": "No Fare",
-    "url": "https://cbcny.org/research/no-fare",
-    "publisher_name": "Citizens Budget Commission",
-    "why_rejected": "same, MTA-directed"
+    "url": "https://cbcny.org/research/no-fare"
   },
   {
     "title": "All Aboard",
-    "url": "https://cbcny.org/research/all-aboard",
-    "publisher_name": "Citizens Budget Commission",
-    "why_rejected": "same, MTA-directed"
+    "url": "https://cbcny.org/research/all-aboard"
   },
   {
     "title": "Citizens Union Report on Personnel Reform in New York City",
-    "url": "https://citizensunion.org/document/2026-07-17/citizens-union-report-on-personnel-reform-in-new-york-city/",
-    "publisher_name": "Citizens Union",
-    "why_rejected": "a July 1976 report posted to the organization's archive in 2026; outside the tracker's Jan 1 2025 publication window"
+    "url": "https://citizensunion.org/document/2026-07-17/citizens-union-report-on-personnel-reform-in-new-york-city/"
   },
   {
-    "url": "https://citizensunion.org/document/2025-09-24/even-year-elections-drive-dramatically-higher-turnout-for-races-all-the-way-down-the-ballot-new-report-from-citizens-union-finds/",
     "title": "Even-Year Elections Drive Dramatically Higher Turnout for Races All the Way Down the Ballot, New Report from Citizens Union Finds",
+    "url": "https://citizensunion.org/document/2025-09-24/even-year-elections-drive-dramatically-higher-turnout-for-races-all-the-way-down-the-ballot-new-report-from-citizens-union-finds/",
     "publisher": "citizensunion",
     "issued": "2025-09-24",
     "reason": "Empirical analysis of ballot drop-off and turnout; the report makes no recommendations."
   },
   {
-    "url": "https://nycfuture.org/research/sustaining-long-islands-creative-spark",
     "title": "Sustaining Long Island's Creative Spark",
+    "url": "https://nycfuture.org/research/sustaining-long-islands-creative-spark",
     "publisher": "cuf",
     "issued": "2025-09-01",
     "reason": "Not NYC government: proposals address arts and culture on Long Island."
   },
   {
-    "url": "https://citizensunion.org/document/2025-08-04/citizens-union-releases-report-on-super-pac-failures-up-and-down-the-ballot-in-2025-new-york-city-primaries/",
     "title": "Citizens Union Releases Report on Super PAC Failures Up and Down the Ballot in 2025 New York City Primaries",
+    "url": "https://citizensunion.org/document/2025-08-04/citizens-union-releases-report-on-super-pac-failures-up-and-down-the-ballot-in-2025-new-york-city-primaries/",
     "publisher": "citizensunion",
     "issued": "2025-08-04",
     "reason": "Empirical tally of independent expenditure spending and results in the 2025 primary; the report makes no recommendations."
   },
   {
-    "url": "https://nycfuture.org/research/the-emerging-financial-security-crisis-facing-long-islands-older-adults",
     "title": "The Emerging Financial Security Crisis Facing Long Island's Older Adults",
+    "url": "https://nycfuture.org/research/the-emerging-financial-security-crisis-facing-long-islands-older-adults",
     "publisher": "cuf",
     "issued": "2025-08-01",
     "reason": "Not NYC government: findings and proposals address Nassau and Suffolk counties."
   },
   {
-    "url": "https://nycfuture.org/research/closing-new-york-states-computing-education-gaps",
     "title": "Closing New York State's Computing Education Gaps",
+    "url": "https://nycfuture.org/research/closing-new-york-states-computing-education-gaps",
     "publisher": "cuf",
     "issued": "2025-08-01",
     "reason": "Not NYC government: all three recommendations are addressed to New York State leaders."
