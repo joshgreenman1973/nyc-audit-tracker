@@ -1,0 +1,741 @@
+TITLE: New York City’s 2025 Economic & Budget Outlook
+URL: http://www.centernyc.org/reports-briefs/new-york-citys-2025-economic-budget-outlook
+ISSUED: 2025-01-09
+PDF: https://www.centernyc.org/s/NYC-Outlook-Reportv4.pdf
+
+Lauren Melodia
+Mohamed Obaidy
+George Sweeting
+Prisca Agombe
+January 2025
+New York City’s 2025
+Economic & Budget Outlook
+Leaning into Local In the Face of
+Inequality and Uncertainty
+New York City’s 2025 Economic & Budget Outlook
+Acknowledgments
+We would like to acknowledge our colleagues at the Center for New York
+City Affairs, including: James Parrott and
+Kristin Morse for their thought partnership and review of this report; Lennox Dietz,
+Audrey Jenkins, and David Hayes for their quantitative and policy research support;
+Bruce Cory for editing the report; Isabella
+Wang for design and website support; and
+Taiquan Coleman and Seth Moncrease for general support.
+We gratefully acknowledge the funding for this report provided by the Robin
+Hood Foundation, the JPMorgan Chase
+Foundation, the New York Workforce
+Funders, and the New York Community Trust.
+Copyright © 2025
+The New School Center for New
+York City Affairs
+New York, NY 10011
+centernyc@newschool.edu
+www.centernyc.org
+AKNOWLEDGEMENTS
+Lauren Melodia is director of economic and fiscal policy at the
+Center for New York City Affairs at
+The New School.
+Mohamed Obaidy is senior
+quantitative analyst and
+economist at the Center for New
+York City Affairs at The New
+School.
+George Sweeting is a senior fellow for fiscal policy at the
+Center for New York City Affairs at
+The New School.
+Prisca Agombe is a budget
+analyst at the Center for New York
+City Affairs at The New School.
+New York City’s 2025 Economic & Budget Outlook
+Executive Summary..........................................................................................
+I. Economic Outlook: Key Findings ..............................................................
+A. Economic Growth and Stability .........................................................
+1. Employment and Job Growth in the City and by Industry .........
+2. Economic Growth ..........................................................................
+• Favorable Supply and Demand Conditions ..........................
+• Future Uncertainty: Stability Can Breed Instability ...............
+B. Economic Inclusion, Distribution, and Well-being ..........................
+1. Labor Market Inequality ...............................................................
+• Employment Inequality: A Persistent Feature of the City’s
+Post-Covid Economy ..............................................................
+• Wage Inequality Increased in New York City ........................
+2. Poverty and Hardship ....................................................................
+• New York City Poverty Rates Remain Elevated ....................
+• Continued, Elevated Public Assistance Enrollment .............
+I. Fiscal Policy Outlook: Key Findings ........................................................
+A. Federal .................................................................................................
+B. New York State ....................................................................................
+1. Revenue Outlook .........................................................................
+• Unprecedented State Reserves to Spend in Uncertain
+Times .......................................................................................
+• New York State Continues to Underinvest ...........................
+2. Spending Priorities and Concerns ..............................................
+C. New York City ......................................................................................
+1. Revenue Outlook ..........................................................................
+2. Spending Priorities and Concerns ...............................................
+I. Recommendations .....................................................................................
+A. How Policymakers Can Facilitate Inclusive Economic Growth ...
+B. How Policymakers Can Fund Inclusive Economic Growth ............
+TABLE OF CONTENTS
+1
+3
+5
+5
+7
+8
+9
+11
+11
+11
+13
+15
+15
+16
+18
+19
+21
+21
+24
+26
+27
+29
+29
+31
+33
+33
+35
+New York City’s 2025 Economic & Budget Outlook 1
+EXECUTIVE SUMMARY
+New York’s policymakers and advocates have entered an uncertain and very possibly troubling new year. The outlook in Washington, while still murky, is not hopeful;
+reduced federal assistance to New Yorkers seems likely. The impact on the city and state of proposed higher tariffs and threatened large-scale, aggressive deportations of undocumented workers and their families bruited by the incoming Trump administration could also prove significant and, perhaps, severe.
+State and City government nevertheless have the responsibility and capacity to at least partially offset those possible effects. In the face of federal indifference or even unfriendliness, they can make decisions that strengthen the local economy and encourage new job creation, and that also work to reduce income inequality, improve affordability of housing and other essentials, and lessen the rising poverty rate in the city.
+This report outlines an array of challenges and suggests ways to meet them. Each topical section is divided into two principal portions, leading with the “key findings”
+and then presenting the data that inform that analysis.
+We begin by surveying the current economic lay of the land in the state and city. We note our strengths, including New York City’s long climb out of the jobs recession created by the Covid-19 pandemic nearly five years ago. We also identify weaknesses, including those related to the uneven nature of that post-Covid recovery, which have in particular hindered access to jobs and income growth for low- and middle-income workers.
+Next, we evaluate the fiscal health of State and City government. Unquestionably, any deep reduction in federal funding for essential services would have seriously damaging effects, and we explore what they might look like. We also identify steps that could be taken in Albany and at City Hall to ameliorate them, starting with the adoption of the next State and City budgets.
+At the state level, years of underinvestment have been needlessly harmful in education, social welfare, and other essential areas. But if there is an upside to that ill-considered practice it is the very healthy accumulation of reserve funds now available. At some
+$20.1 billion, they are roughly twice as large as the reserves recommended by the state comptroller. The year ahead may well be the time to tap some of those reserves.
+New York City’s fiscal condition, while not as robust, is also relatively sound. The current
+City budget, covering the period through June 30th, remains comfortably in balance.
+The shortfall now estimated for the next City fiscal year falls well within normal bounds, and will also likely shrink as revenues collected in the final months of 2024 are factored
+New York City’s 2025 Economic & Budget Outlook 2 in. So, room exists for progressive local measures, even while also prudently preparing for possible economic shocks.
+With Republican majorities in both houses of Congress, an extension of the federal tax cuts enacted during the first Trump presidency seems to be in the cards, with benefits, like those in the 2017 tax measure, primarily benefitting the wealthiest. Given that likelihood, New York’s policymakers should also think long and hard about enacting local tax measures that recapture some of that lost federal revenue and put it to beneficial local use.
+New York City’s 2025 Economic & Budget Outlook 3
+Economic dynamics inform policy making in two ways. First, economic challenges, like increased unemployment and poverty, inform what policymakers should prioritize to improve well-being. Second, whether or not the economy is growing or projected to grow informs tax revenue forecasts that determine the fiscal space the State and City have to manage public services and make investments in public infrastructure. This section provides an overview of where the city’s economy stands, in the context of global, national, and state economic trends, to inform policy making.
+Key Findings
+New York City needs more high-quality job growth, but it’s uncertain how federal monetary and fiscal policy will facilitate that over the next year. The U.S. economy now boasts 4.4 percent more nonfarm payroll jobs than it did pre-pandemic, while
+New York City has only surpassed pre-pandemic nonfarm job levels by 1.1 percent.
+The U.S. recorded an average of 2.5 percent real GDP growth in the first three quarters of 2024. While that’s less than the previous year’s 3.2 percent growth, it’s also a far better outcome than the recession that was feared two years ago. However, it is too early to tell if the Federal Reserve’s easing of high interest rates will spur job growth over the next year. Furthermore, President-elect Trump’s threats to cut the Biden
+Administration’s hallmark industrial policy programs could severely undermine planned and funded public works projects in New York that are expected to boost job growth in the next few years.
+
+New Yorkers want more jobs, underscored by elevated unemployment and labor force participation rates. In November 2024, the city’s unemployment rate was 5.4 percent, continuing an upward trend in recent months. Meanwhile, the city reached its highest-ever labor force participation rate (LFPR) of 62.8 percent in September 2024, 2.9 percentage points higher than the city’s average LFPR in 2019.
+The stable macroeconomic conditions of recent years may be undermined by future federal policy decisions that increase uncertainty and potential risks for New
+York City’s economy. Consumer spending continues to drive economic growth, with personal consumption expenditures (PCE) rising by 2.2 percent in the third quarter of 2024, reflecting stronger confidence among consumers despite past inflation. However, uncertainty looms due to potential policy changes under the incoming presidentelect. Trump’s proposed measures, such as massive deportation of immigrants, the possibility of significant federal spending cuts, and increased tariffs, could disrupt economic stability and increase hardships on New Yorkers. While financial markets have positively reacted to the election, the economy could be at risk if president-elect Trump increases financial deregulation and erodes anti-trust policies. This could potentially trigger instability that could impact the city’s economy in particular, where tax revenue is heavily dependent on the financial sector.
+ECONOMIC OUTLOOK: KEY FINDINGSI.
+New York City’s 2025 Economic & Budget Outlook 4
+Mass deportation proposals could severely undermine the stability of the city’s labor market. If President-elect Trump carries out his plan to try to deport large numbers of undocumented people, it is likely to have a particularly destabilizing impact on the New York City economy, which relies heavily on the city’s estimated 500,000 undocumented residents. Even such threats increase the vulnerability and exploitation of these workers and their families.
+Men of color have experienced significant declines in their employment rates over the past four years. These workers are facing obstacles in the labor market and many have given up trying altogether, as reflected in their declining labor force participation rates. Black men still had one of the highest unemployment rates (10.7 percent) in the city in the third quarter of 2024.
+
+Young people 18 to 24 years old face the highest unemployment rate (13.6 percent) in the city and have experienced the largest increase in their unemployment rate since the beginning of 2020.
+Favorable labor market outcomes are primarily concentrated among people who are historically privileged. The white labor force has seen increases in both labor force participation and employment rates. This has been driven by white women, who have grown their employment rate by 5.2 percentage points since early 2020. The employment rate of people with a bachelor’s degree has also increased significantly, by 3.1 percentage points since early 2020.
+Wage inequality has increased in New York City. A stagnant minimum wage and weaker labor market hindered wage growth for low- and middle-income workers from 2019 to 2023. During this time, one of the greatest drivers of rising inequality was the 18.2 percent real wage growth for the top 20 percent of wage earners. This diverges from current dynamics at the national level and during the pre-pandemic decade in
+New York City, when a doubling of the minimum wage facilitated a decrease in wage inequality. The State’s paltry 2023 minimum wage law reform is unlikely to change these dynamics.
+New York City’s poverty rate is 5.7 percentage points higher than the nation’s. In 2023, 18.2 percent of New York City residents and 24.5 percent of children lived at or below the Federal Poverty Line. These poverty rates are both 2.3 percentage points higher than in 2019. Hispanic and Black New Yorkers still have the highest poverty rates of 24.8 percent and 21.7 percent, respectively. Additionally, over one-third (35.1 percent) of the city’s population lived under 200 percent of the FPL in 2023. These rates are much higher than the national poverty rate in 2023.
+
+Higher rates of poverty coincide with greater need for public assistance. The city has seen skyrocketing cash assistance enrollment. In July 2024, its enrollment was 76.2 percent higher than pre-pandemic. SNAP and Medicaid enrollment also remain elevated. By July 2024, there were approximately 21.6 percent more SNAP recipients and 15.2 percent more Medicaid recipients compared to before the pandemic.
+New York City’s 2025 Economic & Budget Outlook 5 1. EMPLOYMENT AND JOB GROWTH IN THE CITY AND BY INDUSTRY
+Job Growth and Loss
+Measured by private sector payroll jobs, New York City’s economy grew 1.5 percent from January to October 2024. This is slightly higher than the 1.2 percent growth in 2023, though growth rates in 2023 were complicated by the impact of the film industry strike from July to October 2023.1 The city’s private job growth was also slightly stronger than that of the U.S. as a whole, which experienced 0.9 percent growth in private payroll jobs from January to October 2024.2
+However, this does not make up for the city’s more severe economic shock and lagged economic recovery from the pandemic, compared to the nation as a whole. The U.S.
+economy now boosts 4.4 percent more nonfarm payroll jobs than it did pre-pandemic, while New York City has only surpassed pre-pandemic nonfarm job levels by 1.1 percent. In some ways, this is a much better outcome than had been anticipated just two years ago, when the Federal Reserve’s inflation-fighting high interest policy was widely expected to create a national recession. However, it is too early to tell if recent easing interest rates will spur job growth in the city over the next year. Furthermore,
+President-elect Trump’s threats to cut the Biden Administration’s Infrastructure
+Investment and Jobs Act (IIJA) and Inflation Reduction Act (IRA) programs could severely undermine planned and funded public works projects in New York that are expected to boost job growth in the next few years.
+Job growth in New York City continues to be concentrated in a few industries. This is distinctly different from the U.S. economy, where job growth has been broad-based across all but a few sectors. Figure 1 shows job growth and decline by industry in New
+York City and the nation, comparing February 2020 to October 2024.
+
+1. New York City Office of Management and Budget, NYC Employment Data (SA), October 2024.
+2. U.S. Bureau of Labor Statistics, All Employees, Total Private [USPRIV], retrieved from FRED, Federal Reserve Bank of St. Louis.
+ECONOMIC GROWTH AND STABILITYA.
+New York City’s 2025 Economic & Budget Outlook 6
+Figure 1
+Nationally, only two industries have experienced any job decline since the Covid-19 shock. In the city, most industries have seen a decline in the payroll jobs they provide, some by double digit percentages (construction, manufacturing, retail trade, and information). Meanwhile, significant job growth has only taken place in health care and social assistance industry, with small gains in some high-wage sectors like finance and insurance; professional; management of companies; and scientific and technical services. Health care and social assistance was already a prominent sector in the city before the pandemic, providing 17.5 percent of payroll jobs. By October 2024 that had grown to one in five payroll jobs in the city. Low-wage jobs in home health care and child care have driven this growth.
+Employment Dynamics
+The Covid-19 pandemic hit the city’s economy at the apex of its longest period of economic growth in decades. By many indicators, our economy – while still afflicted by rampant inequality – was the strongest it had ever been.
+
+The city’s average unemployment rate in 2019 was 4.0 percent, which was the
+Job Growth by Industry since the Covid Shock
+Percent change in employment from February 2020 to October 2024, seasonally adjusted
+NYC United States
+Construction −18.0% 9.1%
+Manufacturing −14.4% 0.7%
+Retail Trade −13.2% 0.9%
+Information −10.2% 3.1%
+Other Services −6.8% −0.3%
+Wholesale Trade −6.0% 5.2%
+Arts, Entertainment & Recreation −4.4% 6.3%
+Real Estate −3.4% 5.9%
+Government −3.4% 2.6%
+Administrative Services −2.5% 0.3%
+Accommodation & Food Services −2.5% −0.5%
+Private Educational Services 0.5% 2.7%
+Transportation & Warehousing 1.9% 14.5%
+Utilities 2.1% 8.1%
+Professional, Scientific & Technical 3.3% 13.7%
+Management of Companies 3.6% 3.4%
+Finance & Insurance 4.4% 3.7%
+Health Care & Social Assistance 23.9% 9.3%
+Source: CNYCA analysis of U.S. Bureau of Labor Statistics, Current Employment Statistics, seasonally adjusted by New York City Office of
+Management and Budget
+Job Growth by Industry since the Covid Shock
+Percent change in employment from February 2020 to October 2024, seasonally adjusted
+NYC United States
+Construction −18.0% 9.1%
+Manufacturing −14.4% 0.7%
+Retail Trade −13.2% 0.9%
+Information −10.2% 3.1%
+Other Services −6.8% −0.3%
+Wholesale Trade −6.0% 5.2%
+Arts, Entertainment & Recreation −4.4% 6.3%
+Real Estate −3.4% 5.9%
+Government −3.4% 2.6%
+Administrative Services −2.5% 0.3%
+Accommodation & Food Services −2.5% −0.5%
+Private Educational Services 0.5% 2.7%
+Transportation & Warehousing 1.9% 14.5%
+Utilities 2.1% 8.1%
+Professional, Scientific & Technical 3.3% 13.7%
+Management of Companies 3.6% 3.4%
+Finance & Insurance 4.4% 3.7%
+Health Care & Social Assistance 23.9% 9.3%
+Source: CNYCA analysis of U.S. Bureau of Labor Statistics, Current Employment Statistics, seasonally adjusted by New York City Office of
+Management and Budget
+New York City’s 2025 Economic & Budget Outlook 7 lowest on record.3 In November 2024, the city’s unemployment rate was 5.4 percent, continuing an upward trend in recent months.
+
+Slow and less substantial job growth is one reason the city’s unemployment rate remains high. Changes in labor force participation rates (LFPR) nationally and in the city also provide insight into labor market dynamics. Nationally, the LFPR has declined slightly by 0.5 percentage points, comparing 2019 to 2024.4 Pessimistically, one factor in historically low unemployment rates nationally may be that fewer working age people want to work. Meanwhile, the city reached its highest-ever LFPR of 62.8 percent in September 2024, 2.9 percentage points higher than in 2019.
+One dynamic that has been challenging to measure is the mismatch between payroll job growth (measured by counting jobs at firms located in New York City) and LFPR and unemployment (measured by counting people working or looking for work who are residents of New York City). In- and out-migration trends as well as the rise of hybrid and remote working options obscure whether or not city residents are benefiting from job growth. We estimate that there are approximately 392,000 fewer working age (16 and older) New York City residents, comparing February 2020 to October 2024.5
+However, with the rising LFPR and elevated unemployment rates, there were 212,000 city residents looking for work and unable to find any in a given month in 2024 – 43,000 more people per month compared to the average in 2019.6
+Greater need and competition for jobs has likely already put downward pressure on wages, exacerbating inequality and quality of life in the city. This is likely to continue with slow job growth on the horizon. It is imperative that City and State policymakers bolster and enforce labor market standards and protections within an economy where policy choices have eroded such protections for decades.
+2. ECONOMIC GROWTH
+The U.S. recorded an average of 2.5 percent real GDP growth in the first three quarters of 2024. However, this is slower than the 3.2 percent growth over the same time period in 2023.7
+
+Initial estimates show that New York State fared even better, with an average 3.1 percent real GDP growth in the first two quarters of 2024, (see Figure 2). This was an improvement over 2023, when New York State’s real GDP growth was half that of the nation’s (1.5 percent compared to 2.9 percent nationally).
+3. New York State Department of Labor, New York City Labor Force Data, November 14, 2024.
+4. U.S. Bureau of Labor Statistics, Labor Force Participation Rate [CIVPART], retrieved from FRED, Federal Reserve Bank of St. Louis.
+5. Working age population imputed by dividing resident employment by the employment-population ratio; CNYCA analysis of New
+York State Department of Labor, New York City Labor Force Data.
+6. CNYCA analysis of New York State Department of Labor, New York City Labor Force Data.
+7. CNYCA analysis of U.S. Bureau of Economic Analysis, Table 1.1.5. Gross Domestic Product.
+New York City’s 2025 Economic & Budget Outlook 8
+Figure 2
+The solid economic performance shown at the national and regional levels reflects strong conditions in both supply and demand factors.
+Favorable Supply and Demand Conditions
+On the supply side, the U.S. labor market has been very tight in the past two years.
+The monthly unemployment rate averaged 3.6 percent in 2023 and 4.0 percent in 2024, as of November.8 In contrast, New York City has had a slacker labor market, with a monthly unemployment rate averaging 5.2 percent in 2023 and 5.1 percent in 2024, as of November.9 This means that there is a need for greater fiscal policy in New York
+City to facilitate output and job creation. The current slack labor market tends to put a downward pressure on wages, which is of particular concern as our recent research on real wage growth in New York City demonstrates (see Section I-B). In 2024, U.S. private capital expenditure, or the money businesses spent on new assets, remains similar to 2022 levels (as a share of GDP). This demonstrates that U.S. businesses have stable capacity to meet demand and create additional jobs.10 8. CNYCA analysis of U.S. Bureau of Economic Analysis, Real Gross Domestic Product [GDPC1], retrieved from FRED, Federal Reserve Bank of St. Louis.
+9. New York State Department of Labor, New York City Labor Force Data.
+10. Capital accumulation is measured by the nonfinancial corporate business total capital expenditure; CNYCA analysis of Board of
+Governors of the Federal Reserve System (US), Nonfinancial Corporate Business; Total Capital Expenditures, Transactions [BOGZ- 1FA105050005Q], retrieved from FRED, Federal Reserve Bank of St. Louis.
+Quarterly Real GDP Growth in the U.S. and New York State, 2020- 2024 2021 Q1 2022 Q1 2023 Q1 2024 Q1
+−4.0
+−2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0%
+2.8%2.8%2.8%
+3.8%3.8%3.8%
+U.S. New York State
+New York State GDP quarterly data is available up to Q2 2024. New York City GDP data is only available annually through 2022.
+Source: CNYCA analysis of U.S. Bureau of Economic Analysis, Gross Domestic Product
+New York City’s 2025 Economic & Budget Outlook 9
+
+Demand factors significantly contributed to solid national economic growth over the past two years, reflecting a stable macroeconomic environment. Consumers played an important role in sustaining strong economic activity. When adjusting for inflation, growth in personal consumer expenditures (PCE), the total money households spend on goods and services, remains stronger compared to before the pandemic and despite higher inflation. As of the third quarter of 2024, real PCE nationally has increased by 2.2 percent nationally, which is higher than 1.8 percent growth in real consumer spending in 2019.11 During 2022, when inflation was the highest it has been in 40 years and consumer sentiment on current economic conditions was low, annual
+U.S. and New York State real PCE grew at 1.7 percent and 1.2 percent, respectively.12
+Federal government expenditure increased by 1.6 percent in 2023, after adjusting for inflation. The increase in government expenditure has demonstrated the crucial role fiscal policy played in sustaining strong economic growth, offsetting the Federal
+Reserve’s contractionary monetary policy. The high-interest-rate environment led to a decrease in real private investment by 0.7 percent in 2023 at the national level. In 2024, real private investment experienced a remarkable 2.7 percent growth through the third quarter.13
+The Federal Reserve maintained its federal funds effective rate at 5.3 percent until
+September 2024. It has since made three cuts to the interest rate, bringing it down to 4.4 percent while at the same time bringing down the target rate to 4.5 percent.14
+This is still substantially higher than the low rates that corresponded with strong, sustained growth before the pandemic. However, lower borrowing costs are expected to strengthen economic demand and growth in the short run.
+Future Uncertainty: Stability Can Breed Instability
+Strong traditional macroeconomic conditions coupled with the Federal Reserve’s decision to lower its federal funds effective rate are both signs of some degree of macroeconomic stability. This environment is particularly fruitful for consumer spending and investment. However, president-elect Trump may bring some uncertainty given his position on key aspects of economic performance such as trade tariffs, government expenditure, deregulation of the financial market, and anti-trust law.
+At this stage and likely related to Trump’s intention to extend federal tax cuts for highincome earners and corporations, market sentiment seems to have positively reacted to his election. After his election, the volatility index – measuring daily price volatility in the stock market and capturing the degree of uncertainty investors are facing – has 11. CNYCA analysis of U.S. Bureau of Economic Analysis, Table 1.1.5. Gross Domestic Product; U.S. Bureau of Labor Statistics, CPI-
+U-RS.
+12. CNYCA analysis of U.S. Bureau of Economic Analysis, Table 1.1.5. Gross Domestic Product; U.S. Bureau of Labor Statistics, CPI-
+U-RS.
+13. Data on private investment and government expenditures are available up to Q3 2024. CNYCA used a four-quarter average.
+CNYCA analysis of U.S. Bureau of Economic Analysis, Table 1.1.5. Gross Domestic Product.
+14. Board of Governors of the Federal Reserve System, Decisions Regarding Monetary Policy Implementation, December 19, 2024.
+New York City’s 2025 Economic & Budget Outlook 10 decreased after reaching its highest level in August since March 2020. The S&P 500 price index has also increased, another indicator of decreased uncertainty. This reflects the degree of confidence investors and lenders are having about the strength of the economy and its future prospects.
+However, as John Maynard Keynes noted, people base expectations about the future on current economic conditions – even though the future is fundamentally uncertain.15
+This can lead individuals and businesses, particularly in the financial market, to undertake risky behavior when the macroeconomic environment is stable. Investors may make risky investments through leveraging and speculative financing to ensure higher rates of returns, which puts in danger firms’ balance sheets in the real economy.16 And the incoming presidential administration brings uncertainties that could derail the current projected macroeconomic stability. For example, the presidentelect plans to massively deport undocumented immigrants while also cutting federal spending. The first measure would create severe economic, social, and psychological disruptions in New York City households and its economy. The second would curtail the crucial role federal spending plays in sustaining economic growth. It would also reduce the State and City’s ability to use fiscal policy to address challenges ahead.
+15. John M. Keynes, The General Theory of Employment, Interest, and Money, (Cambridge: Macmillan Cambridge University Press), 1936.
+16. Hyman Minsky, The Financial Instability Hypothesis: A Restatement, (London: Thames Polytechnic), 1978.
+New York City’s 2025 Economic & Budget Outlook 11
+New York City’s economy over the past year has exhibited signs of growth and stability, and economic outlooks for the near future remain positive despite uncertainty arising from the recent election. However, that growth has been unequal, especially compared to other states and cities as well as compared to the city itself before the pandemic.
+1. LABOR MARKET INEQUALITY
+
+Employment Inequality: A Persistent Feature of the City’s Post-Covid
+Economy
+Covid’s shock to the city’s economy had a disproportionate impact on more vulnerable and historically marginalized workers, like Black and Hispanic workers, young people, non-citizens, and those with less educational attainment. Many in these groups were more likely to work in face-to-face industries that shut down or curtailed business during the height of the pandemic, and that still face challenges bringing jobs back to pre-pandemic levels. To be clear, workers who are historically privileged in the labor market (white workers, people with college and/or advanced degrees) also worked in industries hard hit by the pandemic. But their unemployment rates declined more quickly, a sign that they had an easier time finding work, even if it meant switching industries or occupations.
+Table 4 disaggregates LFPR, employment rates, and unemployment rates by race, gender, immigration status, education, and age, comparing the first quarter of 2020, right before the pandemic, to the third quarter of 2024, the most recently available data.17 We find continued evidence of labor market inequality, as measured by access to paid work.
+First, and most alarming, employment rates for men of color have significantly declined and unemployment rates have climbed. In fact, many of these workers have given up trying to find jobs altogether, reflected in their declining labor force participation rates. Black men still had one of the highest unemployment rates (10.7 percent) in the city in the third quarter of 2024. Black and Hispanic women are also experiencing changes in their labor market outcomes. Hispanic women have experienced a sizable increase (2.3 percentage points) in their unemployment rate and now have the highest unemployment rate among women. Black women, on the other hand, have experienced positive growth in their labor force participation and employment rates (of 17. The racial, ethnic, gender, and other demographic categories used in this analysis are limited in two ways. First, we are limited to the categories the Bureau of Labor Statistics includes on the survey people complete, which is used to generate this data. Second, estimating labor market indicators for a population requires having a large enough “sample” of that population in the data. We, therefore, are often required to group certain racial and ethnic groups together in order to produce statistically grounded estimates.
+ECONOMIC INCLUSION,
+DISTRIBUTION, AND WELL-BEING
+B.
+New York City’s 2025 Economic & Budget Outlook 12 three percentage points or more), but still face disproportionately high unemployment among women.
+Second, young people ages 18 to 24 face the highest unemployment rate (13.6 percent) in the city and have experienced the largest increase in their unemployment rate. Non-citizens also experienced a large increase (3.4 percentage points) in their unemployment rate between 2020 and 2024.
+Favorable labor market outcomes are concentrated among people historically privileged in the labor market. The white labor force has seen increases in both labor force participation and employment rates. This has been particularly driven by white women, who have grown their employment rate by 5.2 percentage points since early 2020. People with a bachelor’s degree have also increased their employment rate significantly.
+With expected slow economic growth in the coming years, local policymakers must develop and implement active labor market policies that help connect workers in disadvantaged demographic and educational groups to meaningful, stable employment. Otherwise, labor market inequality will further contribute to racial income and wealth inequality, unequal experiences of economic insecurity and precarity, and inhibit social and economic well-being and mobility.
+Table 1
+Labor Market Outcomes Show Increasing Inequality, Comparing
+Pre-Covid to 2024
+All statistics presented in percentage (%), using a 4-quarter moving average
+Q1 2020 Q3 2024 Q1 2020 Q3 2024 Q1 2020 Q3 2024
+All New Yorkers 60.6 61.6 58.3 58.4 3.9 5.3
+Race
+White 64.2 67.5 62.6 65.3 2.4 3.2
+Black 56.9 58.2 52.7 53.1 7.4 8.7
+Hispanic 59.4 59.0 56.6 55.0 4.7 6.9
+Asian & Other 59.7 58.9 58.6 56.9 1.8 3.4
+Gender
+Male 68.3 67.2 65.6 63.4 3.9 5.7
+Female 53.8 56.6 51.8 53.9 3.8 4.8
+Immigration Status
+Native born 61.3 62.7 58.5 59.0 4.5 5.9
+Naturalized Citizen 56.9 57.5 55.3 55.8 2.9 2.9
+Non-Citizen 63.6 64.6 61.7 60.3 3.1 6.5
+Education level
+Less than High School 34.7 32.8 31.9 30.1 7.8 8.4
+High School diploma 53.9 54.4 51.1 50.1 5.2 7.8
+Some College 58.0 56.9 55.1 53.8 4.9 5.6
+Bachelor's degree 75.8 80.2 74.3 77.4 2.0 3.5
+Postgrad 75.9 77.5 74.1 74.6 2.4 3.8
+Age
+18-24 51.8 51.4 47.6 44.4 8.3 13.6 25-54 79.7 82.6 77.0 79.0 3.5 4.4 55-64 63.4 65.6 61.4 63.2 3.1 3.7 65+ 20.0 20.1 19.5 19.0 2.7 5.3
+Race and Gender
+White Male 71.2 72.1 69.4 69.3 2.6 3.8
+Black Male 61.7 60.2 56.7 53.9 8.0 10.7
+Hispanic Male 68.5 67.9 65.5 63.4 4.4 6.6
+Asian & Other Male 68.9 64.6 67.7 62.3 1.8 3.4
+White Female 57.5 62.9 56.2 61.4 2.3 2.5
+Black Female 53.2 56.6 49.6 52.6 6.7 7.0
+Hispanic Female 51.3 51.2 48.7 47.5 5.0 7.2
+Asian & Other Female 51.5 53.8 50.5 52.0 1.8 3.4
+. Labor force participation rate Employment rate Unemployment rate
+Source: CNYCA analysis of Bureau of Labor Statistics, Current Population Survey
+New York City’s 2025 Economic & Budget Outlook 13
+Labor Market Outcomes Show Increasing Inequality, Comparing
+Pre-Covid to 2024
+All statistics presented in percentage (%), using a 4-quarter moving average
+Q1 2020 Q3 2024 Q1 2020 Q3 2024 Q1 2020 Q3 2024
+All New Yorkers 60.6 61.6 58.3 58.4 3.9 5.3
+Race
+White 64.2 67.5 62.6 65.3 2.4 3.2
+Black 56.9 58.2 52.7 53.1 7.4 8.7
+Hispanic 59.4 59.0 56.6 55.0 4.7 6.9
+Asian & Other 59.7 58.9 58.6 56.9 1.8 3.4
+Gender
+Male 68.3 67.2 65.6 63.4 3.9 5.7
+Female 53.8 56.6 51.8 53.9 3.8 4.8
+Immigration Status
+Native born 61.3 62.7 58.5 59.0 4.5 5.9
+Naturalized Citizen 56.9 57.5 55.3 55.8 2.9 2.9
+Non-Citizen 63.6 64.6 61.7 60.3 3.1 6.5
+Education level
+Less than High School 34.7 32.8 31.9 30.1 7.8 8.4
+High School diploma 53.9 54.4 51.1 50.1 5.2 7.8
+Some College 58.0 56.9 55.1 53.8 4.9 5.6
+Bachelor's degree 75.8 80.2 74.3 77.4 2.0 3.5
+Postgrad 75.9 77.5 74.1 74.6 2.4 3.8
+Age
+18-24 51.8 51.4 47.6 44.4 8.3 13.6 25-54 79.7 82.6 77.0 79.0 3.5 4.4 55-64 63.4 65.6 61.4 63.2 3.1 3.7 65+ 20.0 20.1 19.5 19.0 2.7 5.3
+Race and Gender
+White Male 71.2 72.1 69.4 69.3 2.6 3.8
+Black Male 61.7 60.2 56.7 53.9 8.0 10.7
+Hispanic Male 68.5 67.9 65.5 63.4 4.4 6.6
+Asian & Other Male 68.9 64.6 67.7 62.3 1.8 3.4
+White Female 57.5 62.9 56.2 61.4 2.3 2.5
+Black Female 53.2 56.6 49.6 52.6 6.7 7.0
+Hispanic Female 51.3 51.2 48.7 47.5 5.0 7.2
+Asian & Other Female 51.5 53.8 50.5 52.0 1.8 3.4
+. Labor force participation rate Employment rate Unemployment rate
+Source: CNYCA analysis of Bureau of Labor Statistics, Current Population Survey
+Table 1, continued
+Wage Inequality Has Increased in
+New York City
+While wage inequality declined in the U.S.
+economy during the 2019-2023 period, it increased in New York City. Factors such as a stagnant minimum wage and a weaker labor market hindered wage growth in
+New York City for all but the city’s top income earners.
+Figure 3 illustrates these divergent trends.
+Driven by a combination of tight labor markets and widespread state-level minimum wage increases, the U.S. wage gap narrowed significantly.18 Meanwhile, in New York City, real wages (adjusted for inflation) grew three times faster (18.2 percent) for the top 20 percent of wage earners than for the lowest quintile (six percent) of wage earners.
+18. Mohamed Obaidy, James Parrott, and Apurva Mehrotra, “Wage Compression or Wage Divergence? Real Wage Growth
+Comparison between New York City and the U.S., 2019-2023,”
+Center for New York City Affairs, October 9, 2024.
+Labor Market Outcomes Show Increasing Inequality, Comparing
+Pre-Covid to 2024
+All statistics presented in percentage (%), using a 4-quarter moving average
+Q1 2020 Q3 2024 Q1 2020 Q3 2024 Q1 2020 Q3 2024
+All New Yorkers 60.6 61.6 58.3 58.4 3.9 5.3
+Race
+White 64.2 67.5 62.6 65.3 2.4 3.2
+Black 56.9 58.2 52.7 53.1 7.4 8.7
+Hispanic 59.4 59.0 56.6 55.0 4.7 6.9
+Asian & Other 59.7 58.9 58.6 56.9 1.8 3.4
+Gender
+Male 68.3 67.2 65.6 63.4 3.9 5.7
+Female 53.8 56.6 51.8 53.9 3.8 4.8
+Immigration Status
+Native born 61.3 62.7 58.5 59.0 4.5 5.9
+Naturalized Citizen 56.9 57.5 55.3 55.8 2.9 2.9
+Non-Citizen 63.6 64.6 61.7 60.3 3.1 6.5
+Education level
+Less than High School 34.7 32.8 31.9 30.1 7.8 8.4
+High School diploma 53.9 54.4 51.1 50.1 5.2 7.8
+Some College 58.0 56.9 55.1 53.8 4.9 5.6
+Bachelor's degree 75.8 80.2 74.3 77.4 2.0 3.5
+Postgrad 75.9 77.5 74.1 74.6 2.4 3.8
+Age
+18-24 51.8 51.4 47.6 44.4 8.3 13.6 25-54 79.7 82.6 77.0 79.0 3.5 4.4 55-64 63.4 65.6 61.4 63.2 3.1 3.7 65+ 20.0 20.1 19.5 19.0 2.7 5.3
+Race and Gender
+White Male 71.2 72.1 69.4 69.3 2.6 3.8
+Black Male 61.7 60.2 56.7 53.9 8.0 10.7
+Hispanic Male 68.5 67.9 65.5 63.4 4.4 6.6
+Asian & Other Male 68.9 64.6 67.7 62.3 1.8 3.4
+White Female 57.5 62.9 56.2 61.4 2.3 2.5
+Black Female 53.2 56.6 49.6 52.6 6.7 7.0
+Hispanic Female 51.3 51.2 48.7 47.5 5.0 7.2
+Asian & Other Female 51.5 53.8 50.5 52.0 1.8 3.4
+. Labor force participation rate Employment rate Unemployment rate
+Source: CNYCA analysis of Bureau of Labor Statistics, Current Population Survey
+Inequality has grown in NYC, driven by real wage growth of high-wage earners
+Real hourly wage growth by wage quintile, 2019-2023 5.0 10.0 15.0 20.0% 8.8% 6.0% 4.8% 3.9% 3.0% 5.4% 2.0% 6.5% 4.3% 18.2%
+Low-wage Lowermiddlewage
+Middlewage
+Uppermiddlewage
+High-wage
+U.S. NYC
+The wage distribution is divided into five groups - quintiles - according to each group's average hourly wage.
+Source: CNYCA analysis of Current Population Survey Merged Outgoing
+Rotation Group
+Figure 3
+New York City’s 2025 Economic & Budget Outlook 14
+Rising wage inequality has effectively eroding progress made in New York City during the pre-pandemic period. Figure 4 illustrates annualized real wage growth for New
+York City workers since 1996. From 2013 to 2019, low- and lower-middle wage earners experienced annualized real wage growth of 2.4 percent and 2.2 percent, respectively, which helped reduce wage inequality in the city. This was facilitated by a doubling of the minimum wage as well as a long period of economic growth. Pre-pandemic, highwage workers experienced lower annualized real wage growth compared to what they experienced from 2019 to 2023.
+Figure 4
+The divergent trend between New York City and the nation highlights the need for State and
+City policymakers to address wage disparities, particularly for low-income workers. The State’s 2023 minimum wage law reform is not sufficient to facilitate strong real wage growth for lowwage workers moving forward. In fact, it permanently erodes the City’s minimum wage, which has now fallen to second tier among large U.S. cities. Policymakers can address this by further raising the state minimum wage. They can establish sectoral wage standards for certain lowwage occupations, like child care and home health care workers, and phase out the subminimum wage for tipped restaurant workers. They can also facilitate investment projects that boost labor demand, particularly in sectors that produce high-quality jobs.
+2. POVERTY AND HARDSHIP
+NYC Real Hourly Wage Growth by Wage Quintile since 1996
+Annualized growth rate
+1.0
+2.0
+3.0
+4.0
+5.0%
+0.7%
+2.4%
+1.5%
+0.4%
+2.2%
+1.0%
+0.4%
+1.3% 1.3%
+0.7%
+1.1%
+1.6%
+0.8%
+3.4%
+4.3%
+Low-wage Lower-middle-wage Middle-wage Upper-middle-wage High-wage 1996-2013 2013-2019 2019-2023
+Source: CNYCA analysis of Current Population Survey Merged Outgoing Rotation Group.
+New York City’s 2025 Economic & Budget Outlook 15
+New York City Poverty Rates Remain Elevated
+The most recently available data (from 2023) reveals that both New York City’s and New
+York State’s poverty rates are much higher than the nation’s. From 2022 to 2023, there was no change in the city and state poverty rates of 18.2 percent and 14.2 percent, respectively.19 Furthermore, almost one-quarter (24.5 percent) of the city’s children lived in poverty in 2023. Over one-third (35.1 percent) of the city’s population lived under 200 percent of the FPL in 2023. All of these measures of poverty are higher than those pre-pandemic.
+
+Hispanic and Black New Yorkers still have the highest poverty rates, with 24.8 percent and 21.7 percent of the population living in poverty, respectively. Figure 5 illustrates how all race and ethnic groups have experienced rising poverty, comparing 2019 to 2023. White New Yorkers recorded the lowest increase – 1.4 percent – while Hispanic
+New Yorkers experienced the highest increase at 3.9 percent. Children saw their poverty rate increase by 2.3 percent.
+
+Figure 5
+During the 2019-2022 period, New York City’s GDP grew 3.2 percent while the poverty rate grew 2.3 percent. Economic growth has been non-inclusive, meaning the city’s poorest residents have not benefitted from it. The increase in the city’s poverty rate and its disproportionate impact by race and age has the potential to further push people 19. CNYCA analysis of U.S. Census Bureau, American Community Survey.
+NYC Poverty Rates by Race and for Children 5.0 10.0 15.0 20.0 25.0% 10.1% 11.5% 14.2% 16.8% 20.5% 21.7% 20.9% 24.8% 22.2% 24.5%
+White Asian Black Hispanic Children 2019 2023
+Source: CNYCA analysis of U.S. Census Bureau, American Community Survey
+New York City’s 2025 Economic & Budget Outlook 16 into a poverty trap that will be difficult to escape from. However, recent history also provides ample evidence of ways policymakers can reverse these trends. The expanded federal Child Tax Credit and New York State’s expanded unemployment benefits during the pandemic were effective in reducing poverty and would do so if implemented again.
+Continued, Elevated Public Assistance Enrollment
+Another indicator of increased economic need is the growing number of people in New
+York City reliant on public assistance. Figure 6 illustrates increased enrollment since
+February 2020 in three major public assistance programs: Medicaid, Supplemental
+Nutrition Assistance Program (SNAP), and cash assistance. All of these programs have higher enrollment today compared to before the pandemic; cash assistance enrollment has grown the most.
+In the early years of the pandemic, higher need and loosened federal rules contributed to increases in all three of these programs. Medicaid enrollment has declined in the past 18 months, as enrollees have been required to recertify their eligibility (a process suspended during the pandemic) but appears to be stabilizing in recent months at 15.2 percent higher, as of July 2024, than pre-pandemic. This higher level of need has increased the State’s costs and has opened a hole in the State budget that needs to be filled using surplus revenue or savings from elsewhere in the budget (see
+Section II-B). In July 2024, SNAP enrollment rose slightly in 2024 alongside increasing unemployment, and was 21.6 percent higher in July 2024 than pre-pandemic. These numbers are expected to remain relatively stable given uneven economic growth, in both employment and wages, and anticipated slow growth over the next year.
+
+Cash assistance enrollment, on the other hand, has continued to skyrocket over the past year. In July 2024, its enrollment was 76.2 percent higher than pre-pandemic.
+This growth was driven by enrollment in the Safety Net Assistance (SNA) Program in particular. There are two main cash assistance programs: the Temporary Assistance to
+Needy Families (TANF) (largely paid by federal funds) and SNA, a benefit fully paid by State and City revenue. SNA eligibility is broader than TANF eligibility. It can be accessed by households who are still in need after they’ve reached the five-year time limit on TANF, as well as individuals without dependent children or non-citizens. In
+July 2024 to there were approximately 50,500 additional TANF recipients and 194,700 additional SNA recipients in New York City than pre-pandemic.
+There was significant concern about public assistance resources over the past two years as asylum seekers fled to New York City. Asylum seekers are not eligible for federal benefits like SNAP , Medicaid and TANF, but are eligible for SNA. The latest data from
+New York City’s Human Resource Administration’s (HRA) shows that only four percent of SNA caseloads involve asylum-seekers or refugees, while 75 percent are U.S. citizens
+New York City’s 2025 Economic & Budget Outlook 17 and 18 percent are permanent residents.20 The rise in cash assistance enrollment, then, cannot be attributed to an influx of migrants. Rather, it reflects persistent hardship in the city. As with Medicaid and SNAP , we expect cash assistance enrollment to remain elevated in 2025, and for the same reasons.
+Figure 6
+20. New York City Department of Social Services, HRA Fact sheet, July 2024.
+NYC Cash Assistance Enrollment Continues to Rise
+Percent change in recipients relative to February 2020
+Jan ’20 Jul ’20 Jan ’21 Jul ’21 Jan ’22 Jul ’22 Jan ’23 Jul ’23 Jan ’24 Jul ’24 0 10 20 30 40 50 60 70%
+Cash
+Assitance
+Medicaid
+SNAP
+Source: CNYCA analysis of NYS Office of Temporary & Disability Assistance; NYS Department of Health data
+New York City’s 2025 Economic & Budget Outlook 18
+New York City’s economic outlook is mixed. On one hand, we will likely continue to experience steady employment and GDP growth, albeit less than in recent years.
+On the other, it is unclear if this growth will translate to the creation of new, familysustaining jobs. Without policy intervention, then, this growth is likely to exacerbate economic inequality. Furthermore, with poverty on the rise, sustained government support to households will be required. This section evaluates current and emerging fiscal policy challenges and opportunities, to determine how local policymakers can best confront these challenges.
+Key Findings
+The election of Trump and Republican majorities in both the House and Senate puts federal funding that New Yorkers rely on at risk. An estimated $100 billion annually flows from the federal government to the city. Some $87 billion goes to people directly in the form of income (like Social Security) and benefits, like
+Supplemental Nutrition Assistance Program (SNAP) and Medicaid. While it is unclear what initiatives Trump will pursue and enact in the next two years, New York is about to enter a restrictive fiscal policy environment. The State and City should anticipate reduced federal funding to support public programs and benefits at a time when needs will increase.
+State revenue forecasts increase this year, but that growth is expected to decline with a slowing economy in future years. This revenue growth is also insufficient to fund growing public assistance enrollment and school aid requirements.
+If fiscal challenges do emerge, New York State is in a good position to draw on its principal reserves. New York State has $20.1 billion in its three principal reserves, equivalent to 20 percent of the State’s General Fund, well above the 10 percent target
+State Comptroller Thomas DiNapoli recommended in 2019.
+Increased State spending is warranted and needed. While the State has chosen to prioritize building its reserves in recent years, it has been under-investing in critical infrastructure and social programs. In FY2024, the state’s operating spending was only 5.8 percent of state GDP . If that year the State had spent closer to 6.8 percent of
+State GDP (the average of its funded budget spending from 2000-2011), it would have invested $22 billion more in its operating fund.
+New York City’s fiscal condition is sound for the moment, although uncertainty abounds. FY2025 is comfortably in balance, with additional revenue expected to be recognized in the January Preliminary Budget. The FY2026 budget gap is currently projected at $5.5 billion (6.5 percent of City funds), similar in size to prior years, and
+FISCAL POLICY OUTLOOK: KEY FINDINGSII.
+New York City’s 2025 Economic & Budget Outlook 19 this outlook is likely to improve as stronger growth in the second half of 2024 gets factored in.
+The City’s financial plan still does not fully address current and anticipated spending areas. The City has not incorporated any new expenses related to Statemandated class size reductions. Also, while the City has baselined FY2025 Family
+Homelessness and Eviction Prevention Supplement (FHEPS) voucher spending to better reflect past spending levels, the program will likely exceed what has been budgeted, especially as expanded eligibility is finalized.
+The New York City Office of the Comptroller estimates that $100 billion annually flows from the federal government to the city.21 Only a small portion ($9.6 billion in the current budget) goes directly into the City’s budget, to support universal programs and infrastructure like Pre-K to 12 education, public transportation, public hospitals, and local arts and cultural organizations.22
+Most of the balance ($87 billion) goes to people directly in the form of income (like
+Social Security), benefits (like Supplemental Nutrition Assistance Program), and to provide health care coverage, (like Medicaid).23 While City employees help people to enroll in these programs, the benefits people receive are either fully paid for by the federal government or include some state and city matching funds.
+Unlike states and cities, the federal government is not required to balance its budget each year, which provides it with significant power to quickly and comprehensively address social and economic needs. The federal government has been a reliable source of emergency funds and, during the Biden administration, has also made substantial funding available to states and cities to invest in public infrastructure and climate change mitigation.
+The incoming administration puts much of this federal support at risk. While it is unclear what initiatives Trump will pursue and enact in the next two years, the
+Republican majority in Congress will greatly enable him to advance his agenda.
+New York is likely, therefore, about to enter a restrictive fiscal policy environment. The 21. Office of the New York City Comptroller, NYC’s Federal Funding Outlook: Outlook Under Trump, December 10, 2024.
+22. The Office of the New York City Comptroller estimates that an additional $5.5 billion flowed to affiliated municipal entities in
+FY2025 and that the City’s FY2025-2028 Capital Plan includes an expected $2.6 billion from federal sources.
+23. Office of the New York City Comptroller, NYC’s Federal Funding Outlook: Outlook Under Trump.
+FEDERALA.
+New York City’s 2025 Economic & Budget Outlook 20 state and city should anticipate reduced federal funding to support public programs and reduced access to benefits for New Yorkers in need. Here are some services and programs that are at risk, and which may therefore require the State and City to bolster funding:
+Climate: Trump has set his sights on dismantling the Inflation Reduction Act (IRA),
+President Biden’s signature climate bill, that provides funding to achieve goals enshrined in state and city laws. Furthermore, the Biden administration’s Justice40 initiative, part of the Infrastructure Investment and Jobs Act (IIJA), directs 40 percent of federal investments to disadvantaged communities; 60 percent of New York City census tracts qualify.24 If this component of the IIJA is removed when the bill is up for reauthorization in 2026, much of the city would potentially lose out on future climaterelated support.
+Education: The City currently relies on $2.5 billion of federal funding to support public
+K-12 and early care and education. This would be at risk if the new administration were successful in radically reducing federal support of local education. CUNY also relies on
+$1 billion annually from the federal government.25
+Health care: Trump could attempt changes that will compromise care, increase costs, and reduce insurance coverage. His administration will likely impose obstacles (like increased recertification) making it harder to enroll in and stay on Medicaid.26 He also plans to restrict the use of Medicaid for gender affirming and reproductive care.
+If enacted, these policy changes could impact the coverage and care for New York
+City’s four million Medicaid recipients.27 Federal subsidies make health insurance more affordable for people who purchase it through NY State of Health, the state’s
+Affordable Care Act (“Obamacare”) marketplace. The incoming Republican Congress has made it clear they will not extend these Biden-era subsidies when they expire in 2025.28 This passive action and proposed rule changes are expected to make health insurance less affordable for New Yorkers who currently rely on subsidized insurance plans.
+Public Transportation: The Metropolitan Transit Authority (MTA) has a $65.4 billion capital plan, which is counting on $14 billion in federal funding.29 This includes $2.3 billion the City secured through the IIJA.30 The IIJA is set to expire in 2026, at which point a Republican Congress could eliminate it altogether or reduce priority for public transportation projects, perhaps ending grant programs that the City has relied on.31 24. Office of the New York City Comptroller, Protecting New York City, November 13, 2024.
+25. Office of the New York City Comptroller, Protecting New York City.
+26. Jacob Bogage, Jeff Stein and Dan Diamond, “Trump allies eye overhauling Medicaid, food stamps in tax legislation,” The Washington Post, November 18, 2024.
+27. New York State Department of Health, NYS Medicaid Enrollment Databook by Month, September 2024.
+28. Sarah Lueck and Allison Orris, “Trump, Republican Congress Health Care Proposals Could Pose Risks to Access And Affordability,” Center on Budget and Policy Priorities, November 13, 2024.
+29. Stephen Nessen, Jon Campbell and Jessica Gould, “Here’s how Donald Trump’s promised policy changes could be felt in NYC,”
+Gothamist, November 6, 2024.
+30. New York City Mayor’s Office of Climate & Environmental Justice, Funding the Future: New York City’s Collaborative Approach to
+Maximize Federal Infrastructure Funding, October 28, 2024.
+31. Office of the New York City Comptroller, Protecting New York City.
+New York City’s 2025 Economic & Budget Outlook 21
+Moreover, Trump has claimed he will terminate the State’s congestion pricing plan, a toll on drivers entering Manhattan south of 60th Street, that, at a modified $9 toll rate, is estimated to generate $600 million annually over the next two years to help finance the MTA’s capital plan.
+Reproductive Care: New York State is already bracing to step in to cover funding shortfalls at public hospitals and health clinics likely to lose federal grants because of their commitment to provide abortion services.32 NYC Health and Hospitals (H+H), the
+New York City Department of Health and Mental Hygiene’s Sexual Health Clinics, and
+Planned Parenthood clinics in New York are some of the entities at risk of losing federal funding. That would require more State and private philanthropy to maintain services that disproportionately impact low-income and undocumented New Yorkers who rely on the public health care system.
+SNAP benefits: Trump’s advisors have discussed adding stricter work requirements to the SNAP program in order to reduce eligibility for these benefits thereby, saving the federal government money that can be used to offset the cost of extending the 2017
+Tax Cuts and Jobs Act.33 If enacted, these policy changes could make it harder for the 1.8 million city residents (adults and children) who rely on monthly SNAP benefits to maintain their benefits.34 1. REVENUE OUTLOOK
+Despite challenges like rising inequality and poverty and uncertainty related to federal programs, New York State leaders appear cautiously optimistic about the State’s fiscal position.
+The Quick Start budget meeting was the first post-election budget meeting, including representatives from Division of the Budget (DOB), the Senate and Assembly, and the
+Office of the State Comptroller. DOB Director Blake Washington highlighted expected changes in health care policy, immigration, and federal spending due to Trump’s election, though these expectations were not yet incorporated into their budget 32. Carol Lewis, “Planned Parenthood of NY was already facing financial woes. Then came the election,” Gothamist, November 18, 2024.
+33. Jacob Bogage, Jeff Stein and Dan Diamond, “Trump allies eye overhauling Medicaid, food stamps in tax legislation”, The Washington Post.
+34. New York State Office of Temporary and Disability Assistance, Supplemental Nutrition Assistance Program (SNAP) Caseloads and Expenditures.
+NEW YORK STATEB.
+New York City’s 2025 Economic & Budget Outlook 22 projections.35 They pointed to the State’s large reserves as a temporary safety net the
+State could draw on in the wake of potential extreme or rapid federal policy changes.
+
+The DOB’s Mid-Year Update, released in October, includes upward revisions of tax revenue due to stronger macroeconomic forecasts and acknowledges anticipated
+Wall Street bonus growth, both of which offset some of the weakness in New York’s employment and wage growth. The adjustments raised the state’s all-funds revenue outlook to $111.8 billion for FY2025.36 Tax revenue receipts through November were
+$1.9 billion higher than anticipated. It is likely that the state will end the year with an operating surplus. However, despite upward revisions for the calendar year 2025 outlook, growth is still expected to be slower moving forward. Therefore, all of these updated forecasts combined led the DOB to make relatively small changes in State revenue forecasts.
+With the exception of likely additional revenue from the larger-than-expected Wall
+Street profits and the anticipated bonus income that will be distributed, the DOB revenue outlook is reasonable, particularly as the outlook is muddied by an unusual number of significant uncertainties.
+Here are some of the uncertainties bearing on the state’s revenue estimates, including for the state’s three largest tax revenue sources which make up 90 percent of the state’s total tax collections.
+Federal and State tax law changes: Budget makers always confront uncertainty about the future. Changes in tax policy and laws are one source of uncertainty. This will be particularly true over the next few years. Major temporary changes in State policy are set to expire after tax year 2026, and at the federal level, parts of the Tax Cuts and
+Jobs Act (TCJA) will expire over the next two years.
+In 2021, the State enacted new temporary top rates on the personal income tax (PIT) and corporate franchise income tax to help sustain State revenues during the pandemic. The temporary rates were set to expire at the end of calendar year 2023 but were later extended — the higher PIT rates expire after tax year 2027 and the higher corporate franchise tax expires after tax year 2026. The decision to extend these rates, make them permanent, or allow them to expire will be debated over the next two years in Albany. Following standard procedure, DOB’s current revenue forecasts assume that the top rates will expire, contributing to a slowdown in tax revenue in later years of the forecast.
+Even greater uncertainty is stoked by the impending expiration at the end of December 2025 of significant parts of the federal Tax Cuts and Jobs Act (TCJA) enacted in. It included significant federal income tax and corporate tax cuts, disproportionately 35. New York State Division of the Budget, FY 2025 Quick Start Budget Meeting, November 2024.
+36. Unless otherwise noted, the All Funds figures used in this report come from DOB’s Mid-year Adjustment report released in October. The All Funds amounts are before transfers into or out of the general fund. They also exclude flows into and out of the Pass
+Through Entity Tax (PTET).
+New York City’s 2025 Economic & Budget Outlook 23 benefiting higher-income taxpayers. If they are not extended before December 31, 2025, the income tax brackets will revert to those in effect in 2017. This would largely raise federal taxes on higher-income taxpayers. Also scheduled to expire then is a provision that limits the federal deduction for state and local taxes (SALT) to $10,000, thereby raising the federal tax bill for those who pay more than that deductible in local taxes. Allowing this to expire is generally favored by representatives of states with high tax burdens, like New York. Removing the limitation on the SALT deduction will not directly affect tax revenue for the state and city, though it will shift revenue from the
+Pass Through Entity Tax (PTET) to the PIT and may also shift the timing of some tax payments from 2027 to 2028.37
+Finally, there are proposals President-elect Trump introduced during his campaign.
+These included exempting tips and overtime pay as well as some Social Security benefits from the income tax; (lower-income taxpayers are currently taxed on up to 50 percent of their benefit). Depending on how these are implemented, such exemptions could have a direct effect on state and local income taxes, most of which start with the federal definition of income. Barring legislative action at the state level, this income would then also be exempted at the state and local level. Trump also occasionally suggested that if it were possible, he would consider eliminating the federal income tax entirely and replacing it with revenue collected from tariffs. For states and cities that rely on income taxes linked to the federal system this would force a complete overhaul of state and local tax structures.
+Personal Income Tax. The Personal Income Tax (PIT) is the state’s largest source of tax revenues. In the mid-year adjustment, DOB raised the forecast for the current state fiscal year (which ends April 1, 2025) to $59.5 billion, an increase of 10.6 percent from the prior fiscal year. DOB expects slower growth in FY2026, with revenue increasing by 3.6 percent to $61.7 billion. Revenue growth accelerates to double digits in 2027 and 2028 to reach $84.0 billion, although this pace is largely the result of DOB assumptions regarding the SALT deduction limitation and PTET. Following standard procedure, DOB assumes that the SALT limitation will expire at the end of 2025 based on current law, thus eliminating the need for taxpayers to use PTET. Money that had been credited to
+PTET in recent years will now once again flow to the PIT. DOB also assumes that with the SALT deduction limit removed, taxpayers will accelerate some estimated payments into 2027 to take advantage of the end of the limitation sooner rather than later.
+The securities industry remains a major source of jobs and compensation in New York.
+Profits of firms which are members of the New York Stock Exchange vary greatly year to year, as does the portion of compensation that is paid out as bonuses, which is taxed as income. Through the third quarter of 2024, revenue had grown by 16.7 percent and profits had soared 70 percent compared to the same period last year. The total for the full calendar year could exceed $47 billion. DOB estimates that the 2024 bonus pool 37. PTET was created to allow certain taxpayers with income from partnerships, and other similar entities to avoid the SALT deduction limitation. While PTET is designed to be revenue-neutral to the state, it is not within a single year as taxpayers must apply for a credit in one year and then receive a refund in a subsequent year. PTET is counted as a business tax and money that temporarily now flows into PTET would have instead been received as PIT income.
+New York City’s 2025 Economic & Budget Outlook 24 will be 11.3 percent higher than in 2023. Notably, while the DOB discussed this Wall
+Street surge in the mid-year adjustment, it does not appear to be incorporated in the
+DOB’s tax revenue forecast.
+Sales Tax: The sales tax is the state’s second-largest source of tax revenue. Collections are expected to total $20.4 billion in FY2025, an increase of 2.4 percent from 2024. In the Mid-Year update there was virtually no change for sales tax or consumption/use tax revenue forecasts despite this increase.
+With some of the effects of the pandemic still lingering, DOB is projecting all fund sales tax growth to average 2.5 percent annually from 2024 to 2028. This increased revenue outlook draws on consumer sentiment surveys that highlight growing optimism among consumers, particularly as inflation slows. As a result, consumer spending forecasts for calendar year 2025 show 2.5 percent growth on an annualized basis.
+Business Taxes: Business income taxes are expected to total $27.1 billion this year, roughly a quarter of the state’s all funds tax revenue. This revenue category includes the PTET. Among the traditional business taxes, the corporate franchise or “Article 9A” tax is the largest, with 2025 revenue projected to total $8.9 billion. It accounts for about 15 percent of state tax revenue. DOB’s forecast assumes that the higher tax rate on high-income firms will expire on schedule. Collections are expected to fall by $1.0 billion. or 11.0 percent, from 2027 to 2028 as a result. If the higher profits reported so far this year are sustained, there could be additional tax revenue available later this fiscal year, although the volatility of Wall Street profits makes it problematic to count on such a windfall.
+Unprecedented State Reserves to Spend in Uncertain Times
+Since 2019, New York State has deposited an unprecedented $18 billion into its three principal reserves and has yet to spend any of it, although the governor has proposed to spend $500 million from the principal reserves in next year’s budget to assist local governments providing shelter and services to asylum seekers.38 This differs from other large states such as California and Texas, which have spent reserve funds in recent years to address Covid-related crises.39 By the end of FY2024, the total principal reserves amounted to $20.1 billion.40 This is equivalent to 20 percent of the State’s
+General Fund, well above the state’s pre-Covid reserves (see Figure 7) and above
+State Comptroller Thomas DiNapoli’s 2019 target for the state’s reserves to reach 10 percent of the General Fund by 2024.41 In the Mid-Year Update, the DOB earmarked an additional $38 million to deposit to the Economic Uncertainties Fund, in addition to the
+$1.5 billion already planned to be deposited into the Rainy Day Reserves Fund (RDRF)
+in the FY2025 Enacted Budget, bringing principal reserves up to a projected $21.6 billion in FY2025. 42 38. New York State Division of the Budget, FY2025 NYS Enacted Budget, April 2024.
+39. National Association of States Budget Officers, State Rainy Day Fund Balances.
+40. New York State Division of the Budget, FY2025 NYS Enacted Budget.
+41. Office of the New York State Comptroller, The Case for Building New York State’s Rainy Day Reserves, 2019.
+42. New York State Division of the Budget, FY2025 NYS Enacted Budget Financial Plan Mid-Year Update.
+New York City’s 2025 Economic & Budget Outlook 25
+Figure 7
+Because the State has chosen to prioritize the reserves in recent years, it has been under-investing in critical infrastructure and social programs (see Figure 8). However, given rising concerns about reduced federal funding needed to maintain existing infrastructure and social program spending, the State is in a good fiscal position to fill those gaps by drawing on the principal reserves. In the Mid-Year Update, the DOB projected withdrawals from the Economic Uncertainties reserve, ranging from $997 million to $2.38 billion in a given year, to address higher anticipated Medicaid, school aid, and public assistance costs.43
+However, none of these projections take into consideration changes in federal fiscal policy under a second Trump administration that may result in larger state budget gaps. If needed, the State could, in fact, spend half of the State’s reserves in the next two years and still meet Comptroller DiNapoli’s 2019 reserves target, which is consistent with the views of leading experts on this topic.44 The Economic Uncertainties reserves can technically be tapped for any purpose, though they should be limited to short-term, one-time investments. The RDRF has strict requirements making it nearly impossible to access.
+43. New York State Division of the Budget, FY2025 NYS Enacted Budget Financial Plan Mid-Year Update.
+44. Philip Joyce, “What’s so magical about five percent: a nationwide look at factors that influence the optimal size of state rainy day funds,” Public Budgeting & Finance, Summer 2001; Bo Zhao, “Saving for a rainy day: Estimating the needed size of U.S. state budget stabilization funds,” Regional Science and Economics, 2016.
+New York State has Unprecedented Principal Reserves in $ millions 5,000 10,000 15,000
+$20,000
+2018 2019 2020 2021 2022 2023 2024 2025 540540540 1,2581,2581,258 000 790790790 1,2581,2581,258 000 1,2181,2181,218 1,2581,2581,258 890890890 1,2181,2181,218 1,2581,2581,258 1,4901,4901,490 1,8841,8841,884 1,4351,4351,435 5,6655,6655,665 4,6384,6384,638 1,6181,6181,618 13,28213,28213,282 4,6384,6384,638 1,6181,6181,618 13,81213,81213,812 6,1386,1386,138 1,6181,6181,618 13,84713,84713,847 1,7981,7981,798 2,0482,0482,048 3,3663,3663,366 3,9663,9663,966 8,9848,9848,984 19,53819,53819,538 20,06820,06820,068 21,60321,60321,603
+Rainy Day Reserve Fund
+Tax Stabilization
+Economic Uncertainties Reserve
+FY25 values are projected. New York's principal reserves consist of its the statutory reserves (Rainy Day Reserve Fund and Tax Stabilization Reserve
+Fund) and the Economic Uncertainties reserve.
+Source: CNYCA analysis of New York State Division of the Budget, FY2025 NYS Enacted Budget
+New York City’s 2025 Economic & Budget Outlook 26
+Furthermore, this year the State Legislature should prioritize amending rules for accessing the RDRF. Governor Kathy Hochul’s choice to deposit reserve funds into the non-statutory Economic Uncertainties reserve instead of the statutory RDRF in recent years has been met with concern. The governor claims she has every intention of moving the money reserved in the Economic Uncertainties reserve to the RDRF once its extremely narrow rules are amended. The RDRF can currently only be approved by a super-majority of the State Legislature and used only under certain conditions, including revenue shortfalls, five months of economic decline, natural disasters, or terrorist attacks.45 The governor’s overuse of the Economic Uncertainties reserve demonstrates that the rules should be amended to enable the State to unlock reserves currently held in the RDRF given uncertainties arising from climate change federal policy reforms that would not fit the definition of uses for the RDRF.
+New York State Continues to Underinvest
+There is no agreed-upon target for how big a state’s budget should be. Because states and cities are required to balance their annual budgets, they enter budget negotiations constrained by their own revenue forecasts that determine the level of spending.
+However, over the past decade and a half, New York State’s GDP has been growing faster than the State’s annual operating budget. This is concerning, because it means that as the State’s economy grows, the public sector is not growing at the same rate needed to support it. This is a measure of under-investment, and it has been growing since the Great Recession.
+
+Figure 8 illustrates this trend. In FY2024, we estimate that the state’s operating spending is only 5.8 percent of state
+GDP , inching closer to the lowest point in nearly 25 years (which was 5.7 percent in
+FY2019). If the FY2024 figure had been 6.8 percent, (the average of the State’s funded budget spending from 2000- 2011) the State would have invested
+$22 billion more in the operating fund in
+FY2024.
+Over the next few years, the State faces significant reasons to reverse this trend, due to anticipated cuts by a second
+Trump administration empowered by a
+Republican Congress. It should work to close federal funding gaps to maintain, if not increase, the State operating budget as a share of GDP , particularly in ways that facilitate more inclusive economic growth.
+45. NY State Fin L § 92-CC (2023).
+Figure 8
+New York State's Spending Nears
+Record Low
+State Operating Funds as share of New York State GDP 2000 2003 2006 2009 2012 2015 2018 2021 2024 0 1 2 3 4 5 6 7 8 9% 5.8%5.8%5.8%
+Source: CNYCA analysis of U.S. Bureau of Economic Analysis, Gross
+Domestic Product; New York State Division of Budget data
+New York City’s 2025 Economic & Budget Outlook 27 2. SPENDING PRIORITIES AND CONCERNS
+Higher than expected revenues will likely be offset by higher costs for public assistance programs, as New York continues to face higher poverty and hardship in the coming year. While the State may be inclined to be fiscally conservative this year, in the face of uncertainty about federal programs, there are many urgent policy areas left unresolved in FY2025 that have only become more pressing. Here are a few of the areas where the
+State will be expected to take action this year:
+Inflation refund: In December, Governor Hochul proposed a large one-time program dubbed the “Inflation Refund” that would give joint income tax filers with incomes below $300,000 checks worth up to $500, and provide checks of $300 for single filers with incomes under $150,000. The State estimates that the program would cost
+$3.0 billion and benefit 8.6 million New Yorkers (3.6 million in New York City). The proposal will be considered for inclusion in the 2026 State budget. Key details about structure and eligibility have yet to be released, but preliminary analysis indicates this proposal benefits over 90 percent of tax filers. However, it would likely swallow the expected budget surplus that could be used to meet more critical economic challenges and policy priorities, while doing little to address the key drivers of inflation or its disproportionate impact on lower-income households.
+The MTA’s $15 billion funding gap: Despite its being signed into law in 2019 and receiving Federal Highway Administration approval in 2023, Governor Hochul paused implementation of the congestion pricing plan in June 2024.46 Now the governor has received approval for a modified version to go into effect in January 2025. The original plan had included a $15 toll on vehicles entering Manhattan below 60th Street during peak hours and was estimated to generate $1 billion annually, with the money to be used to back bonds financing major parts of MTA’s capital plan.47 The new plan starts with a $9 toll in 2025, increasing to $12 in 2028, and $15 by 2031. This will generate
+$400 million less annually for the MTA in the next two years and $200 million less annually through 2031 than the original plan. Either the MTA will therefore need to scale back or delay projects in the capital plan, or the State will need to produce an alternative solution to this shortfall in the upcoming legislative session.
+Housing: Policymakers went to Albany last year with ambitious plans to tackle the biggest challenge in the affordability crisis: housing. However, despite a modified version of “good cause” eviction protection and a set of tax breaks and state grants to incentivize new housing development, the enacted budget was insufficient in addressing the crisis. This fall, the governor made an advance commitment of $1 billion of the State’s FY2026 budget to the City’s “City of Yes” housing initiative.
+However, State policymakers will need to do more in Albany this year to help prevent homelessness and address housing affordability as well as supply.
+46. NY State L §1704-a (2023).
+47. Independent Budget Office, IBO Statement on Governor’s Congestion Pricing Decision, June 6, 2024.
+New York City’s 2025 Economic & Budget Outlook 28
+Asylum and immigrant services: Over the past two years, a lot of attention during State and City budget sessions has been given to the rising cost of serving recently arrived migrants and asylum seekers and how those costs should be shared. In FY2025, the State committed to withdrawing $500 million from the State’s Economic Uncertainties reserve in FY2026 to support the City’s growing expenses in this area. This promise was included in the DOB’s Mid-Year Budget Update, so there will likely be little tension regarding this in upcoming budget negotiations. However, extreme immigration measures proposed by Trump on the campaign trail suggest that the State will need to invest more funds in
+FY2026 to support New York’s entire immigrant community. This would be in the form of increased legal services, as well as to cover federal funding shortfalls in the event that the Trump administration attempts to withhold funding to states and cities that refuse to cooperative with objectionable deportation plans.
+
+School aid and the Foundation Aid formula: New York State’s FY2025 enacted budget commissioned a study of the 17-year-old Foundation Aid education formula, which determines how much funding local school districts receive from the State. The report by the Rockefeller Institute was published in December and provides ample evidence that the formula is in need of revision. Its recommendations cover many components of the formula involving total State expenses dedicated to K-12 public education and the distribution of those resources to each school district across the state. Some would have a substantial impact on school districts (including the city’s), as well as on the State’s fiscal plan. As a result, the report authors recommend policymakers should phase in high-cost or high-impact reforms over three to five years. We should expect State policymakers to make that long-term plan in FY2026.
+Early Care and Education: Making child care more affordable and accessible have also been top of mind for those working to address the affordability crisis in recent years.
+There was significant tension during last year’s budget negotiations between a legislature working to increase wages for child care workers and the governor’s office, which has been more focused on expanding access and reducing costs for parents. Efforts to establish a $1 billion permanent wage stabilization fund to guarantee better pay and full staffing to meet growing demand were not enacted last year. Additionally, two bills intended to remove bureaucratic hurdles for families who are already eligible for the
+Child Care Assistance Program (CCAP) were passed but were vetoed by the governor in
+December 2024.
+The election of Trump and Republican majorities in Congress has shifted federal spending priorities sharply away from social service and safety net programs, making it extremely unlikely that there will be new federal funding available for these initiatives in the near future. Therefore, this year the State needs to work with local social service districts to develop a multi-year revenue plan to build a universal child care system that can overcome long-standing supply and demand issues as well as prevent further decline in the existing child care supply by funding a permanent wage stabilization fund.
+New York City’s 2025 Economic & Budget Outlook 29 1. REVENUE OUTLOOK
+The City’s first quarter update (the “November Plan”) included small changes to the tax revenue outlook for the City’s current FY2025; there were no changes to the later years of the City’s financial plan for 2026-2028. Tax collections are now anticipated to total $77.2 billion in 2025, an increase of $201 million (0.3 percent) from the prior year.
+Tax revenue is forecast to total $78.0 billion in FY2026 and $83.1 billion by FY2028, with tax revenue projected to increase by an average of 3.5 percent from 2025 to 2028. These forecasts are based on updated economic forecasts, including the City’s expectation (similar to the State’s) that employment in the city will continue to grow in 2025-2027, albeit at a slower pace.
+Uncertainties: The city’s economy is subject to many of the same uncertainties that face the state, as well as others. If President Trump carries out his plan to try to deport large numbers of undocumented people, it is likely to have a particularly sharp impact on New York City, which relies heavily on the city’s undocumented population, especially in sectors such as construction, hospitality, and restaurants.
+Another specific risk for the city is the continued Covid-related high vacancy rates for commercial office buildings. While leasing and asking rents have improved somewhat, over 20 percent of office space in the city remains vacant, threatening the market valuation of much of the inventory, and ultimately, property tax revenue. So far, the office market has been more resilient than many feared and the City and State have established programs to facilitate conversion to other uses – primarily residential – which are expected to help the office sector by reducing supply.
+Real Property Tax: The real property tax is New York City’s largest single tax revenue source, accounting for 44.4 percent of total tax revenue in the City’s 2025 fiscal year.
+The November Plan added $59 million to the current year property tax forecast, bringing the full year forecast to $34.2 billion.
+At this point in the year, changes to the revenue outlook are due to estimates of delinquencies and refunds rather than new assessment data. The latter becomes available in January, when the tentative assessment roll that will be used for FY2026 tax bills is released and incorporated into the revenue outlook. The current plan from the
+City’s Office of Management and Budget (OMB) assumes growth from 2025 to 2026 of 3.7 percent, followed by slower growth of 3.0 percent for 2027 and 2.0 percent in 2028.
+OMB does not provide a breakdown of the revenue forecast by property tax class in the November Plan. There are indications that assessments, especially for commercial properties, will not slow as much as previously assumed by OMB. The commercial
+NEW YORK CITYC.
+New York City’s 2025 Economic & Budget Outlook 30 market is looking up; in the third quarter of 2024, availability in prime Manhattan shopping areas reached a nine-year low and retail asking rents have been growing as a result. The office market has not fared as well, but appears to be stabilizing. According to Cushman and Wakefield, 2024 leasing activity through September is 31.1 percent above the low level in the same period in 2023. Asking rents, particularly for prime
+Class A buildings, continue to rise. Retail and office properties combined account for 23.4 percent of the 2025 property tax levy.
+Personal Income Tax: The personal income tax is the City’s second-largest tax revenue source, accounting for $17.3 billion, or 22.3 percent of total tax revenue in FY2025.48 In the November Plan, OMB added only $59 million to the FY2025 PIT forecast from last spring. There was no indication that OMB’s November forecast incorporates the runup in Wall Street profits. If profits and bonuses maintain their high level, PIT revenue is likely to easily exceed OMB’s current forecast.
+Like the State, the City budget assumes that TCJA provisions will expire as scheduled under current law, restoring the full SALT deduction. Under that scenario, revenues that are now received through PTET will once again flow to the PIT. This would help to boost PIT revenue growth to 3.5 percent annually, exceeding the 2.5 percent average annual growth over the last 10 years. But overall, the impact will be revenue neutral.
+Looking over a shorter span from 2015 to 2021 (the last year before Covid-19 had a major effect on PIT revenues), tax revenue growth averaged 5.0 percent annually.
+Sales Tax: The sales tax is the city’s third-largest tax source, bringing in $10.3 billion in FY2025. It is a fairly steady source of revenue, growing at a little over 4.0 percent annually. Consumer confidence surveys and the PCE mentioned in Section I-A can be good predictors of sales tax revenue trends. Confidence has rebounded from the depths of the Covid recession and consumer expenditures have remained steady.
+Resurgent tourism is also strengthening sales tax collections. Tourists, particularly foreign tourists, spend more money per day than most city residents, particularly on food and accommodations. According to a report by McKinsey and Company, the number of domestic tourists visiting the city is back to 95 percent of the 2019 level.
+The number of international visitors is back to 86 percent of the 2019 level. Unless there is a large drop in tourism, sales tax revenues are likely to continue on their current trend.
+Reserves: The City’s reserves are much smaller than the State’s and have not yet met levels recommended by the City Office of the Comptroller. In FY2024, the City deposited $5.3 million in its Revenue Stabilization Fund (RSF), bringing the balance to
+$1.96 billion.49 Combined with the Retirement Health Benefit Trust (RHBT), the City’s reserves are equivalent to 9.4 percent of the City’s FY2024 tax revenues, lower than
+Comptroller Brad Lander’s recommended 16 percent level.50 48. OMB combines the PIT with the City’s PTET. PTET collections in 2025 is $1.6 billion.
+49. Office of the New York City Comptroller, Fiscal Year 2024 Annual Comprehensive Financial Report, November 1, 2024.
+50. Office of the New York State Comptroller, Preparing for the Next Fiscal Storm, May 23, 2022.
+New York City’s 2025 Economic & Budget Outlook 31
+Actions by the second Trump administration may require the City to draw on the
+RSF for temporary relief, particularly if the alternative is cutting services. The City can also access the RHBT which holds $5 billion, although withdrawals must leave sufficient funds to cover the annual cost of retiree benefits. Other small reserve sources include the so-called “general reserve” required under the City Charter and “capital stabilization reserve.” The FY2025 Adopted Budget includes $1.2 billion in the general reserve and $250 million in the capital stabilization reserve.51 Since these are appropriated funds with no assigned use, they could be used to offset emergencies whenever necessary. In most years the money is not used and is gradually drawn down to help build a surplus to be rolled into the next year.
+2. SPENDING PRIORITIES AND CONCERNS
+While the City may be inclined to be fiscally conservative this year, in the face of uncertainty about federal programs, there are many urgent policy areas. Here are a few of the areas where the City will be expected to take action this year:
+Housing: While the Mayor and City Council came to agreement on a scaled back “City of Yes” in December, housing affordability and supply will continue to be major concerns. For example, last year, the City finally baselined some of the necessary funding for the Fighting Homelessness and Eviction Prevention Supplement (FHEPS)
+housing voucher program, to $540.3 million in future years. This program has suffered from years of under-budgeting; baselining to 2023 actual expenditures was an effort to correct this problem and the impact it has on financial planning and fiscal management. However, this did not include the expanded eligibility for the program passed by the City Council in FY2024. The administration of Mayor Eric Adams has refused to implement these new laws and, in response, the Legal Aid Society brought a class action lawsuit—that the Council has now joined—to force implementation. A wide range of estimates (from $3 billion to $36 billion over five years) for the cost of the expansion have been offered by different groups, but it would also potentially save the city billions in emergency shelter costs.
+
+Fully staffing city agencies: The City is responsible for administering all of the public assistance programs residents can access, including SNAP , Medicaid, and cash assistance. Budget cuts under the Adams administration have led to reduced staff to administer these programs. And while the Mayor’s Management Report shows some improvement in timeliness in responding to applicants’ requests, there are still severe lags. In FY2024, 42.4 percent of cash assistance requests were responded to in a timely manner, compared to 95.4 percent in FY2021.52 As increased poverty in the city leads more people to be eligible for and in need of public assistance, it is critical that the City increase staffing to meet the demand.
+51. Office of the New York City Comptroller, Fiscal Year 2024 Annual Comprehensive Financial Report.
+52. New York City Mayor’s Office of Operations, Mayor’s Management Report.
+New York City’s 2025 Economic & Budget Outlook 32
+Early Care and Education: Maintaining and restoring 3-K funding was a contentious issue in budget negotiations last year. Citing low enrollment, the Adams administration cut $95 million from the program (much less than had been initially proposed, due to a strong response from City Council). The City also set aside $25 million ($9 million more than the previous year) of its own revenue for Promise NYC, which makes Child Care
+Assistance Program (CCAP) vouchers available to non-citizens otherwise ineligible for child care vouchers funded by federal dollars.
+However, many other key issues regarding child care affordability and accessibility were left unaddressed, such as low wages and slow contract payments by the City that threaten the supply of full-day, full-year child care programs for infants to five-year-olds.
+The election of Trump and Republican majorities in Congress may well shift federal spending priorities sharply away from social service and safety net programs, making it extremely unlikely that there will be new federal funding for these initiatives. Therefore, this year the City needs to work with State policymakers to develop a multi-year revenue plan for a universal child care system that can overcome longstanding supply and demand issues.
+New York City’s 2025 Economic & Budget Outlook 33
+New York City should expect another year of rising inequality and poverty given the expected slow economic growth. Potentially drastic federal policy changes also loom.
+This means that State and City policy interventions are needed.
+This section includes two types of recommendations. First, we propose a broad set of policy guidelines to facilitate inclusive economic growth. Second, we provide a list of options for the State and City to fund these priorities or address federal fiscal policy retraction.
+1. Maintain services and public assistance to people facing extreme hardship
+• Rising poverty and inequality mean there are more New Yorkers facing extreme hardship. However, these are not people’s individual problems of their own making. They are the outcome of an uneven economic recovery from Covid-19 and systemic racial and economic inequity. If unaddressed, poverty can dampen citywide economic growth. New York has a history of delivering public assistance above and beyond federal minimum requirements, from the SNA cash assistance program to the City’s sanctuary city laws. While the second Trump administration may constrain federal funding needed for programs that help lift people out of poverty, the State and City should work together to maintain funding for public assistance programs.
+• The City should fully staff agencies responsible for administering benefits programs: The City is responsible for administering all the public assistance programs residents can access, including those partially or fully funded by federal and State dollars such as SNAP , Medicaid and cash assistance. If the City continues to keep staffing below capacity, residents will face hardship and lose out on billions of dollars in federal and State public assistance resources, which could also undermine economic growth.
+• Safeguard immigrants: Whether or not Trump is successful at implementing a mass deportation plan, the threat has already stoked fear in immigrant
+RECOMMENDATIONSIII.
+HOW POLICYMAKERS CAN FACILITATE
+INCLUSIVE ECONOMIC GROWTH
+A.
+New York City’s 2025 Economic & Budget Outlook 34 households. This will have a devastating impact on those households and can severely destabilize the city’s economy. The City must uphold its sanctuary city law and be a leader again in opposing federal actions that threaten immigrants’ rights. The City must also bolster legal services and work with existing organizations in impacted communities.
+2. Protect workers. There are many harms workers face in the U.S. economy, such as workplace injury and wage theft. Passing laws to increase protections against these harms will improve workers’ livelihoods and quality of life and would not require significant public spending, aside from State and City monitoring and enforcement.
+FY2026 legislative and budget negotiations will be particularly overwhelmed by uncertainty about federal funding that may impinge on other efforts to improve labor standards. Therefore, this year the State should prioritize passing new laws to protect workers against workplace harm and increase staffing levels at the
+Department of Labor to adequately enforce those laws.
+3. Establish and enforce higher labor standards for workers in low-wage occupations. A simple way to increase the number of high-quality jobs in the city is to make existing low-wage jobs better quality. Many low-wage jobs are in health care and the social services. Because Medicaid and public contracts pay for many of those services, the burden of paying better wages and benefits will fall more on the State and City than on private employers. State and City policymakers should work together to develop a plan to improve wages and identify sustained and progressive revenue needed for those improvements. Policymakers can also improve wage standards by phasing out the subminimum wage for tipped restaurant workers and further raising the state minimum wage.
+4. New York State should make public commitments that can create high-quality jobs:
+• Identify sufficient funds to implement the MTA’s capital plan: The scaled back congestion pricing program will not generate sufficient annual funding to back $15 billion in bonds as the program was originally designed to do. If fully funded, the MTA’s capital plan would allow it to implement major expansion programs that would boost good-quality construction jobs. Maintaining and expanding the region’s public transportation programs is also essential for future economic vitality and job growth of the city and its suburbs and promotes climate-friendly commuting patterns.
+• Build 15 gigawatts of public power renewables by 2030: The Build Public
+Renewables Act was passed in 2023, which directs the New York Power
+Authority (NYPA) to build enough public renewables to ensure that New York meets its climate goals. However, NYPA’s draft strategic plan is insufficient to meet those goals. This will have dire climate change consequences and also miss the opportunity to create tens of thousands of jobs. NYPA should revise
+New York City’s 2025 Economic & Budget Outlook 35 its strategic plan, commit to building 15 gigawatts of public renewables by 2030, and site at least five gigawatts downstate, where electricity demand and job demand is greatest.53 Estimates suggest that this more ambitious approach could lead to tens of thousands of jobs and more than $50 billion in economic activity by 2030.54 1. New York City should design and implement progressive ways to increase City tax revenue. The City will need more revenue to improve services and facilitate inclusive economic growth. And with reductions in funding for safety net and other federally-funded programs expected, additional revenue will likely be needed to maintain current services. Given increased inequality, priority should be given to revenue raisers that facilitate wealth redistribution. Some options include:
+• Add one or more brackets with higher rates to the City’s income tax:
+The City’s income tax is currently not very progressive, with the top bracket beginning at $90,000 for a married couple. Restructuring the city’s income tax brackets and rates would increase progressivity by capturing some of the significant real wage growth for high-income earners in recent years. To generate roughly $1 billion in new revenue annually, the City could add two new high-income tax brackets of $1 million to $5 million and $5 million and up, with rates of 4.2 percent and 4.4 percent, respectively.
+• Rescind the Madison Square Garden property tax exemption. Ending this property tax exemption would increase City revenue annually. In Fiscal Year 2025, the City has forgone $45.1 million in revenue from this one exemption.55
+• Negotiate a payment in lieu of tax (PILOT) from private universities and hospitals that are currently exempt from property tax under state law.
+Such institutions benefit from City services that are funded in part through the property tax paid by others. We outlined a proposed PILOT in a report released in May 2024. If all of the institutions with total property holdings of $500 million or more forge agreements in line with our proposal, it could generate $483 53. Public Power New York Coalition, Powering Up: A Roadmap for Public Renewables in New York State, June 2024.
+54. J. Bozuwa et al. “A New Era of Public Power: A Vision for New York Power Authority in Pursuit of Climate Justice,” climate + community project, 2021.
+55. CNYCA analysis of New York City Department of Finance, Property Information Portal.
+HOW POLICYMAKERS CAN FUND
+INCLUSIVE ECONOMIC GROWTH
+B.
+New York City’s 2025 Economic & Budget Outlook 36 million in PILOT payments for the City for one year.56 Making this a stable and recurring revenue stream would require amending the State Constitution.
+2. New York State should make smart fiscal choices to protect services and to facilitate inclusive growth. Current DOB forecasts assume a slowdown in revenue in later years, which may lead policymakers to believe there are not sufficient resources to confront structural problems with big policy solutions. However, the revenue forecast would remain strong if State leaders make permanent the 2021 temporary PIT and corporate franchise income tax reforms. While these are not set to expire this year, new, permanent initiatives could be funded through an extension of these reforms. Additionally, the State can address critical economic challenges this year using any of the following options:
+• Draw on the State’s estimated $3 billion surplus to mitigate the affordability crisis and its disproportionate impact on low-income households, rather than an “Inflation Refund.” There are many more effective and targeted ways the State could use these funds this year to address pressing challenges that can have a meaningful impact beyond one year. These could include public infrastructure investments or program improvements that can reduce costs of basic necessities, labor standards that can increase wages for low-income workers to pay for basic necessities, or more targeted tax credits or refunds that can reduce poverty. The governor’s “Inflation Refund” proposal would be so broadly distributed that it would not have a meaningful impact on the affordability crisis faced by New Yorkers.
+• Take responsibility for funding New York City’s class size reduction mandate. This mandate has been imposed on the city, but not the rest of the state. This important initiative requires long-term planning and an estimated
+$1.6 billion in annual funding.57 The State has the resources and should provide funding commitments to enable the City to develop and implement a plan to meet this target.
+• Spend some of the State’s reserves to foster growth and stability: The
+Economic Uncertainties reserves can technically be tapped for any purpose. The
+State should utilize these reserves in the face of federal funding shortfalls or for short-term, one-time investments. The Legislature should also amend rules to enable the State to more easily access the RDRF in the future when these funds may be needed.
+56. George V . Sweeting, “Considering Payments In Lieu of Taxes (PILOTs) from Tax-Exempt Hospitals and Universities,” Center for
+New York City Affairs, May 2024.
+57. Independent Budget Office, How Would The new Limits To Class Sizes Affect New York City Schools?, July 2023.
+New York City’s 2025 Economic & Budget Outlook 37
+New York City’s 2025
+Economic & Budget Outlook
+Leaning into Local In the Face of
+Inequality and Uncertainty
+Lauren Melodia
+Mohamed Obaidy
+George Sweeting
+and Prisca Agombe
+January 2025

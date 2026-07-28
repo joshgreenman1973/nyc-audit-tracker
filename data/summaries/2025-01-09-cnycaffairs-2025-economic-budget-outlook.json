@@ -1,0 +1,65 @@
+{
+  "id": "2025-01-09-cnycaffairs-2025-economic-budget-outlook",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "New York City’s 2025 Economic & Budget Outlook",
+  "plain_title": "The 2025 outlook for the city's economy and budget",
+  "agency": "New York City government",
+  "issued": "2025-01-09",
+  "url": "http://www.centernyc.org/reports-briefs/new-york-citys-2025-economic-budget-outlook",
+  "pdf": "https://www.centernyc.org/s/NYC-Outlook-Reportv4.pdf",
+  "what_they_audited": "An annual outlook from the Center for New York City Affairs at The New School reviewing where the city's economy stands, how the city and state budgets look heading into 2025 and what policy and revenue steps the authors propose.",
+  "background": "The report was written as a new federal administration was taking office, and its authors expect reduced federal assistance to New Yorkers. It describes the current city budget as comfortably in balance, the projected next-year shortfall as within normal bounds and state reserves as roughly twice what the state comptroller recommends.",
+  "findings": [
+    {
+      "plain": "The city's job count has barely passed its pre-pandemic level while the country's has moved well past its own.",
+      "quote": "New York City has only surpassed pre-pandemic nonfarm job levels by 1.1 percent"
+    },
+    {
+      "plain": "Nearly all the city's job growth since 2020 has come from health care and social assistance, much of it in low-paid home health and child care work, while construction, manufacturing, retail and information shed jobs.",
+      "quote": "By October 2024 that had grown to one in five payroll jobs in the city."
+    },
+    {
+      "plain": "Unemployment is concentrated among young workers and Black men, and men of color have been leaving the labor force.",
+      "quote": "Young people 18 to 24 years old face the highest unemployment rate (13.6 percent) in the city"
+    },
+    {
+      "plain": "Poverty in the city is well above the national rate and higher than it was in 2019, with more than a third of residents under twice the poverty line.",
+      "quote": "In 2023, 18.2 percent of New York City residents and 24.5 percent of children lived at or below the Federal Poverty Line."
+    },
+    {
+      "plain": "Enrollment in cash assistance has climbed steeply since before the pandemic, with food stamp and Medicaid enrollment also up.",
+      "quote": "In July 2024, its enrollment was 76.2 percent higher than pre-pandemic."
+    },
+    {
+      "plain": "City agencies that administer benefits are answering far fewer requests on time than they did four years earlier, which the report links to staffing cuts.",
+      "quote": "In FY2024, 42.4 percent of cash assistance requests were responded to in a timely manner, compared to 95.4 percent in FY2021."
+    },
+    {
+      "plain": "The city's reserves sit below the level the city comptroller has recommended.",
+      "quote": "the City’s reserves are equivalent to 9.4 percent of the City’s FY2024 tax revenues"
+    }
+  ],
+  "numbers": [
+    {"value": "1.1 percent", "label": "City job count above its pre-pandemic level"},
+    {"value": "5.4 percent", "label": "City unemployment rate in November 2024"},
+    {"value": "18.2 percent", "label": "New Yorkers below the federal poverty line in 2023"},
+    {"value": "76.2 percent", "label": "Rise in cash assistance enrollment since pre-pandemic"},
+    {"value": "42.4 percent", "label": "Cash assistance requests answered on time in FY2024"},
+    {"value": "$45.1 million", "label": "Revenue forgone on the Madison Square Garden exemption"},
+    {"value": "9.4 percent", "label": "City reserves as a share of FY2024 tax revenue"}
+  ],
+  "recommendations": [
+    "Keep funding public assistance for people in extreme hardship, fully staff the city agencies that administer food stamps, Medicaid and cash assistance, uphold the sanctuary city law and expand legal services in immigrant communities.",
+    "Strengthen worker protections against workplace injury and wage theft through new state legislation, and add staff at the state Department of Labor to enforce them.",
+    "Raise labor standards in low-wage occupations, with the state and city jointly planning wage improvements and the revenue to pay for them in Medicaid- and contract-funded health and social services, phasing out the subminimum wage for tipped restaurant workers and raising the state minimum wage further.",
+    "Have the state fund commitments that create good jobs, including identifying enough money to carry out the Metropolitan Transportation Authority capital plan and having the New York Power Authority commit to 15 gigawatts of public renewable generation by 2030 with at least five gigawatts downstate.",
+    "Have the city raise revenue in progressive ways, by adding income tax brackets of $1 million to $5 million at 4.2 percent and above $5 million at 4.4 percent, ending the Madison Square Garden property tax exemption and negotiating payments in lieu of taxes from tax-exempt private universities and hospitals with large property holdings.",
+    "Have the state make the temporary 2021 personal income tax and corporate franchise tax increases permanent, spend its roughly $3 billion surplus on targeted affordability measures rather than a broad inflation refund, fund the class size reduction mandate it imposed on the city and draw on its Economic Uncertainties reserves while easing the rules for using the rainy day fund."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["money and contracts", "labor", "social services"],
+  "is_followup": false
+}

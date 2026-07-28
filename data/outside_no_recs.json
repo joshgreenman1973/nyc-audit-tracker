@@ -149,5 +149,64 @@
     "publisher": "cbc",
     "issued": "2025-01-09",
     "reason": "not NYC government: chartbook comparing New York State and its localities with other states on taxes and spending; its proposals are addressed to New York State and its localities generally"
+  },
+  {
+    "title": "MTA Operating Budget Outlook: Short-Term Stability, Long-Term Risks",
+    "url": "https://cbcny.org/research/mta-operating-budget-outlook-short-term-stability-long-term-risks",
+    "publisher_name": "Citizens Budget Commission",
+    "why_rejected": "addressed to the Metropolitan Transportation Authority, a state authority; the tracker excludes MTA-directed work for the same reason it excludes state comptroller MTA audits"
+  },
+  {
+    "title": "No Fare",
+    "url": "https://cbcny.org/research/no-fare",
+    "publisher_name": "Citizens Budget Commission",
+    "why_rejected": "same, MTA-directed"
+  },
+  {
+    "title": "All Aboard",
+    "url": "https://cbcny.org/research/all-aboard",
+    "publisher_name": "Citizens Budget Commission",
+    "why_rejected": "same, MTA-directed"
+  },
+  {
+    "title": "Citizens Union Report on Personnel Reform in New York City",
+    "url": "https://citizensunion.org/document/2026-07-17/citizens-union-report-on-personnel-reform-in-new-york-city/",
+    "publisher_name": "Citizens Union",
+    "why_rejected": "a July 1976 report posted to the organization's archive in 2026; outside the tracker's Jan 1 2025 publication window"
+  },
+  {
+    "url": "https://citizensunion.org/document/2025-09-24/even-year-elections-drive-dramatically-higher-turnout-for-races-all-the-way-down-the-ballot-new-report-from-citizens-union-finds/",
+    "title": "Even-Year Elections Drive Dramatically Higher Turnout for Races All the Way Down the Ballot, New Report from Citizens Union Finds",
+    "publisher": "citizensunion",
+    "issued": "2025-09-24",
+    "reason": "Empirical analysis of ballot drop-off and turnout; the report makes no recommendations."
+  },
+  {
+    "url": "https://nycfuture.org/research/sustaining-long-islands-creative-spark",
+    "title": "Sustaining Long Island's Creative Spark",
+    "publisher": "cuf",
+    "issued": "2025-09-01",
+    "reason": "Not NYC government: proposals address arts and culture on Long Island."
+  },
+  {
+    "url": "https://citizensunion.org/document/2025-08-04/citizens-union-releases-report-on-super-pac-failures-up-and-down-the-ballot-in-2025-new-york-city-primaries/",
+    "title": "Citizens Union Releases Report on Super PAC Failures Up and Down the Ballot in 2025 New York City Primaries",
+    "publisher": "citizensunion",
+    "issued": "2025-08-04",
+    "reason": "Empirical tally of independent expenditure spending and results in the 2025 primary; the report makes no recommendations."
+  },
+  {
+    "url": "https://nycfuture.org/research/the-emerging-financial-security-crisis-facing-long-islands-older-adults",
+    "title": "The Emerging Financial Security Crisis Facing Long Island's Older Adults",
+    "publisher": "cuf",
+    "issued": "2025-08-01",
+    "reason": "Not NYC government: findings and proposals address Nassau and Suffolk counties."
+  },
+  {
+    "url": "https://nycfuture.org/research/closing-new-york-states-computing-education-gaps",
+    "title": "Closing New York State's Computing Education Gaps",
+    "publisher": "cuf",
+    "issued": "2025-08-01",
+    "reason": "Not NYC government: all three recommendations are addressed to New York State leaders."
   }
 ]
