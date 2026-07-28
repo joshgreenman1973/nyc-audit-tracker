@@ -1,0 +1,64 @@
+{
+  "id": "2025-02-07-cnycaffairs-tlc-hvfhv-expense-model",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "Revised Expense Model for the NYC Taxi and Limousine Commission’s High-Volume For-Hire Vehicle Minimum Pay Standard",
+  "plain_title": "A new way to set the mileage pay for Uber and Lyft drivers",
+  "agency": "New York City Taxi and Limousine Commission",
+  "issued": "2025-02-07",
+  "url": "http://www.centernyc.org/reports-briefs/revised-expense-model-for-the-nyc-taxi-and-limousine-commissions-high-volume-for-hire-vehicle-minimum-pay-standard",
+  "pdf": "https://www.centernyc.org/s/CNYCA-TLC-expense-report-Dec-2024.pdf",
+  "what_they_audited": "A technical report by James A. Parrott of the Center for New York City Affairs at The New School, prepared for the Taxi and Limousine Commission, that rebuilds the model used to estimate what it costs drivers to run their vehicles. That estimate sets the per-mile part of the minimum pay standard for high-volume for-hire vehicle drivers, the drivers who work for Uber and Lyft.",
+  "background": "The pay standard, in place since 2019, pays drivers a per-minute rate for time and a per-mile rate meant to cover vehicle expenses. The fleet has changed a lot since then, with far more sport utility vehicles and electric vehicles, and the commission is phasing in a requirement that all high-volume for-hire vehicles be electric or wheelchair accessible by 2030.",
+  "findings": [
+    {
+      "plain": "The expense estimates rest on a large driver survey sent to the commission's email list of active high-volume drivers.",
+      "quote": "generating over 6,750 responses, with between 3,000-4,500 substantially completed surveys"
+    },
+    {
+      "plain": "Survey respondents were overwhelmingly male, immigrant and nonwhite, and mostly of prime working age.",
+      "quote": "95 percent of drivers are male, 91 percent were born outside the United States, and 86 percent are nonwhite"
+    },
+    {
+      "plain": "Most respondents drive full time and depend on the work entirely, which matches trip data showing three-quarters of 2023 trips came from drivers working 30 or more hours a week.",
+      "quote": "80 percent reported that driving is their sole source of income"
+    },
+    {
+      "plain": "Renting a licensed vehicle costs meaningfully more than owning one, driven by the rental sales tax, higher insurance and the cost of getting a vehicle licensed when new licenses are capped.",
+      "quote": "it costs 25-30 percent more to rent a vehicle than to own one for use in providing HV-FHV services"
+    },
+    {
+      "plain": "Electric vehicles cost more per mile to run overall despite lower maintenance, because public charging is expensive and drivers lose time waiting for it.",
+      "quote": "per mile battery charging costs were 19.6 cents compared to 13 cents for ICE vehicle fuel costs"
+    },
+    {
+      "plain": "The fleet has shifted toward larger and more expensive vehicles since the pay standard began.",
+      "quote": "There are many more SUVs of various sizes (52 percent of the total) and electric vehicles"
+    },
+    {
+      "plain": "The proposed factor would lift average driver trip pay modestly compared with simply raising the existing factors by inflation.",
+      "quote": "would raise average driver trip pay by 2.3 percent"
+    }
+  ],
+  "numbers": [
+    {"value": "$0.871", "label": "Proposed per-mile expense factor for standard trips"},
+    {"value": "$0.789", "label": "Per-mile expense factor in effect since March 1, 2024"},
+    {"value": "$1.061", "label": "Proposed per-mile factor for wheelchair-accessible trips"},
+    {"value": "10.4 percent", "label": "Rise over the current standard per-mile factor"},
+    {"value": "32,500 miles", "label": "Miles a full-time driver logs in a year"},
+    {"value": "20.875 percent", "label": "Sales tax on short-term vehicle rentals"},
+    {"value": "2.3 percent", "label": "Trip pay rise versus an inflation-only update"}
+  ],
+  "recommendations": [
+    "Build the per-mile expense factor from four vehicle categories, owned and rented gas vehicles and owned and rented electric vehicles, weighted by each category's projected share of high-volume trips, and set the wheelchair-accessible factor on a 70 percent owned and 30 percent rented split.",
+    "Include in the electric vehicle cost estimate an allowance for the time drivers spend waiting for and using public chargers, valued at the state minimum wage equivalent for independent contractors.",
+    "Set the composite per-mile expense factor for trips in vehicles that are not wheelchair accessible at $0.871, up from the $0.789 factor in effect since March 1, 2024.",
+    "Set the per-mile expense factor for wheelchair-accessible vehicle trips at $1.061, up from $1.021.",
+    "Keep the model built so commission staff can refresh it themselves as the share of electric and rented vehicles shifts or as insurance, fuel and charging costs move."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["transportation", "labor", "money and contracts"],
+  "is_followup": false
+}

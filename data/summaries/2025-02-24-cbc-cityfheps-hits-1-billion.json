@@ -1,0 +1,83 @@
+{
+  "id": "2025-02-24-cbc-cityfheps-hits-1-billion",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "CityFHEPS Hits $1 Billion",
+  "plain_title": "The city's rental voucher program now costs more than $1 billion",
+  "agency": "New York City government",
+  "issued": "2025-02-24",
+  "url": "https://cbcny.org/research/cityfheps-hits-1-billion",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_FHEPS_02242025.pdf",
+  "what_they_audited": "A Citizens Budget Commission report examining the cost, growth, effect on shelter use and public reporting of New York City's CityFHEPS rental voucher program.",
+  "background": "The City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS) rental voucher program launched in October 2018 and consolidated several city rental subsidy programs into one.",
+  "findings": [
+    {
+      "plain": "The cost of serving current voucher holders has more than doubled in two years.",
+      "quote": "Serving the 52,000 existing CityFHEPS voucher holders will cost more than $1.1 billion in fiscal year 2025, more than twice the cost in fiscal year 2023."
+    },
+    {
+      "plain": "The following year's budget for the program is far below the current year's cost.",
+      "quote": "The fiscal year 2026 CityFHEPs budget is just $519 million"
+    },
+    {
+      "plain": "Vouchers are cheaper per night than shelter but cost more over five years because they recur while shelter stays are episodic.",
+      "quote": "By the end of the fifth year, CityFHEPS will cost the City 27 percent more than shelter for the typical single adult and 64 percent more for families."
+    },
+    {
+      "plain": "Across the current caseload, the five-year cost difference runs into the billions.",
+      "quote": "For the current 52,000 voucher holders, CityFHEPS will cost $1.8 billion more than shelter over five years."
+    },
+    {
+      "plain": "As voucher numbers grew, the shelter population apart from asylum seekers did not fall.",
+      "quote": "Despite this increase, the number of individuals in shelter, excluding asylum seekers, has held steady."
+    },
+    {
+      "plain": "The city publishes no performance measures for the program, unlike the federal Section 8 vouchers it administers.",
+      "quote": "the Mayor’s Management Report (MMR) does not include a single indicator on CityFHEPS"
+    },
+    {
+      "plain": "CityFHEPS is now the second largest rental voucher program in the country.",
+      "quote": "With 52,000 active voucher holders, CityFHEPS is the second largest rental housing voucher program in the country"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$1.1 billion",
+      "label": "Fiscal 2025 cost of serving current voucher holders"
+    },
+    {
+      "value": "$519 million",
+      "label": "Fiscal 2026 budget for CityFHEPS"
+    },
+    {
+      "value": "$1.8 billion",
+      "label": "Five-year cost above shelter for current voucher holders"
+    },
+    {
+      "value": "52,000",
+      "label": "Active CityFHEPS voucher holders"
+    },
+    {
+      "value": "$54.80 per day",
+      "label": "City cost of a CityFHEPS voucher"
+    },
+    {
+      "value": "$20,000",
+      "label": "Average yearly city cost per voucher household"
+    }
+  ],
+  "recommendations": [
+    "Pause and take stock of the cost-effectiveness of CityFHEPS, including how it compares with other policies and whether its effectiveness varies across groups.",
+    "Publicly track and report how CityFHEPS is used and how the Department of Social Services administers it, using measures like those the Mayor's Management Report already carries for Section 8 vouchers.",
+    "Decide what level of CityFHEPS spending is appropriate and sustainable as part of a broader affordable housing strategy, and target vouchers to the households that will see the most benefit."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "homelessness",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

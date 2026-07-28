@@ -1,0 +1,94 @@
+{
+  "id": "2026-03-01-cuf-putting-the-rec-back",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Putting the “Rec” Back in NYC Parks & Recreation",
+  "plain_title": "Rebuilding public recreation across New York City",
+  "agency": "New York City government",
+  "issued": "2026-03-01",
+  "url": "https://nycfuture.org/research/putting-the-rec-back-in-nyc-parks-recreation",
+  "pdf": "https://www.nycfuture.org/pdf/CUF_CUNY-Rec_Report_9.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, on the long decline of public recreation in the city and 11 ideas for rebuilding it. It draws on budget, staffing, facility and programming data provided by NYC Parks and more than 75 interviews.",
+  "background": "Recreation once made up close to a third of the budget of the Department of Parks and Recreation, which shortened its public-facing name to NYC Parks in 2011. In 2025 recreation accounted for 5.3 percent of the agency's budget, about $32.8 million out of roughly $618 million.",
+  "findings": [
+    {
+      "plain": "Recreation staffing has fallen sharply over six decades. The recreation division had 1,949 workers in 1964 and 659 in 2025, a 66 percent decline.",
+      "quote": "In 1964, the NYC Parks’ recreation division had 1,949 workers. In 2025, there were only 659, a 66 percent decline."
+    },
+    {
+      "plain": "Attendance is well below pre-pandemic levels. Public pool attendance is down 43 percent, recreation center visits in 2024 were 38 percent below 2019 and attendance at recreation programs is down 19.6 percent since 2019.",
+      "quote": "the average has dropped to 929,475, or a 43 percent decrease"
+    },
+    {
+      "plain": "Programming has been cut roughly in half. NYC Parks offered nearly double the programming in 2019 that it offered in 2024, with declines of more than 60 percent on Staten Island and in the Bronx.",
+      "quote": "In 2019, NYC Parks offered nearly double the amount of programming as in 2024."
+    },
+    {
+      "plain": "Facilities are aging, with more than $400 million in known capital needs for major facilities alone and, the report says, likely hundreds of millions more not yet identified.",
+      "quote": "more than $400 million in known capital needs for major facilities alone"
+    },
+    {
+      "plain": "New York has far fewer recreation centers per resident than peer cities. Most large American cities have one center for every 50,000 residents or fewer, while New York's ratio is more than 200,000 to one.",
+      "quote": "Practically every major city in the U.S. has one recreation center per 50,000 residents or fewer; meanwhile, the ratio in New York City is more than 200,000 to 1."
+    },
+    {
+      "plain": "Access to athletic facilities is very uneven. Five community districts that together house more than 600,000 residents have only 205 athletic facilities among them, fewer than a single well-equipped district elsewhere.",
+      "quote": "these five districts are home to more than 600,000 New Yorkers but have just 205 athletic facilities combined"
+    },
+    {
+      "plain": "The variety of programming differs greatly by borough. Manhattan had 927 different kinds of classes or workshops in 2024, compared with 299 in the Bronx and 165 on Staten Island.",
+      "quote": "Manhattan had the greatest variety of programming in 2024, with 927 different kinds of classes or workshops to attend"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "5.3 percent",
+      "label": "Recreation share of the NYC Parks budget in 2025"
+    },
+    {
+      "value": "$32.8 million",
+      "label": "Recreation spending in the 2025 parks budget"
+    },
+    {
+      "value": "659",
+      "label": "Full-time recreation staff in 2025"
+    },
+    {
+      "value": "43 percent",
+      "label": "Drop in public pool attendance since before the pandemic"
+    },
+    {
+      "value": "$400 million",
+      "label": "Known capital needs for major recreation facilities"
+    },
+    {
+      "value": "200,000",
+      "label": "Residents per recreation center in New York City"
+    },
+    {
+      "value": "600,000",
+      "label": "Residents in the five districts with the fewest facilities"
+    }
+  ],
+  "recommendations": [
+    "Make a long-term commitment to recreation, meeting the mayor's pledge to spend 1 percent of the city budget on parks, setting a goal of directing 20 percent of an expanded parks budget to recreation and funding a citywide recreation master plan that maps assets, identifies gaps and includes a marketing campaign.",
+    "Activate more existing public infrastructure for recreation, using the 2026 World Cup to launch a cross-agency effort that opens school gyms and fields after hours, scales open space projects on NYCHA campuses, expands waterfront access and boating, widens Summer Streets and revives Weekend Walks, explores recreation hubs at Interborough Express stations and brings programming to senior centers.",
+    "Commit to a 10-year capital campaign to modernize every major recreation facility and build new ones, paired with a citywide facilities assessment and zoning changes that make it easier to build recreation space.",
+    "Launch Rec Pass, a partnership with the public library system modeled on Culture Pass, letting library cardholders take a set number of free classes or activities each month at recreation centers, pools and partner nonprofits.",
+    "Scale up NYC Parks summer day camps to serve at least 5,000 children a year by expanding to more recreation centers and park facilities.",
+    "Create RecRx, a multi-agency effort with the health department, Health + Hospitals, NYC Parks and insurers that lets healthcare providers prescribe recreation as preventive care.",
+    "Build a Recreation Investment Fund, potentially with the New York City Economic Development Corporation, to channel private, philanthropic and corporate dollars into programming, equipment and facility upgrades in the neighborhoods that need them most.",
+    "Reverse staffing cuts by baselining funding for the 77 programming positions cut in recent budget reductions and adding 75 more staff a year for four years, so more athletic facilities can open seven days a week.",
+    "Pilot RecCorps, a workforce pipeline into recreation careers that links CUNY campuses, career and technical education high schools and the Summer Youth Employment Program, with stipends or wages for students.",
+    "Create a trusted partner program for nonprofits that provide regular recreation services, offering multi-year permits, streamlined access to space and equipment plus basic marketing and funding support.",
+    "Bring recreation equipment directly to neighborhoods through mobile and modular amenities such as vending machines stocked with handballs or jump ropes, pop-up kiosks and mobile concessions renting gear."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "health",
+    "children and youth"
+  ],
+  "is_followup": false
+}

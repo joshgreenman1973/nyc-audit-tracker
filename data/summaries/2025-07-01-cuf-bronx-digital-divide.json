@@ -1,0 +1,94 @@
+{
+  "id": "2025-07-01-cuf-bronx-digital-divide",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Understanding and Overcoming the Bronx Digital Divide",
+  "plain_title": "Closing the Bronx gap in internet, computers and tech skills",
+  "agency": "New York City government",
+  "issued": "2025-07-01",
+  "url": "https://nycfuture.org/research/understanding-and-overcoming-the-bronx-digital-divide",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future analyzing broadband access, device ownership and digital literacy in the Bronx, and setting out what the organization says would be needed to close the gap.",
+  "background": "The analysis draws on census data, broadband availability reports, city open data and interviews with more than 20 Bronx-based leaders, and was supported by a grant from The Bronx Community Foundation.",
+  "findings": [
+    {
+      "plain": "The Bronx has the city's lowest rate of home broadband adoption, well behind Queens and Manhattan.",
+      "quote": "22.4 percent of households lack broadband at home, compared to 18 percent in Queens and just 12.5 percent in Manhattan"
+    },
+    {
+      "plain": "The borough leaned more heavily than any other on the federal Affordable Connectivity Program, a monthly internet subsidy that ended in 2024.",
+      "quote": "Fully 44 percent of Bronx households were enrolled in ACP when it ended in 2024—by far the highest share in the city."
+    },
+    {
+      "plain": "Close to a third of Bronx households have no computer at home, with rates above 35 percent in some neighborhoods.",
+      "quote": "Nearly one in three Bronx households—over 184,000 in total—does not have a computer at home"
+    },
+    {
+      "plain": "Broadband costs take a bigger bite out of household income in the Bronx than anywhere else in the city.",
+      "quote": "the Bronx has the highest Internet cost burden of any borough"
+    },
+    {
+      "plain": "Public places to get online are scarce in the borough relative to need.",
+      "quote": "With only 103 public computing centers, the Bronx has the second-fewest of any borough after Staten Island."
+    },
+    {
+      "plain": "Bronx students take computer science classes at the lowest rate in the city, and enrollment growth there has trailed the citywide pace.",
+      "quote": "just 11.5 percent of Bronx students are enrolled in a computer science class—the lowest share of any borough"
+    },
+    {
+      "plain": "Local tech training providers turn away far more applicants than they can enroll, which the report attributes to funding and capacity limits.",
+      "quote": "We had 1,000 applications last year, but we can only recruit 185"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "22.4 percent",
+      "label": "Bronx households without home broadband"
+    },
+    {
+      "value": "184,000",
+      "label": "Bronx households without a computer at home"
+    },
+    {
+      "value": "44 percent",
+      "label": "Bronx households once enrolled in the federal subsidy"
+    },
+    {
+      "value": "103",
+      "label": "Public computing centers in the Bronx"
+    },
+    {
+      "value": "11.5 percent",
+      "label": "Bronx students enrolled in a computer science class"
+    },
+    {
+      "value": "430,000",
+      "label": "Wi-Fi sessions at Bronx libraries in fiscal 2024"
+    },
+    {
+      "value": "$15 per month",
+      "label": "Low-income broadband rate required by state law"
+    }
+  ],
+  "recommendations": [
+    "Develop and fund a Bronx Digital Equity Plan covering broadband adoption, device access and digital literacy, with goals to halve the number of households lacking broadband and computers and with dedicated funding for community organizations to help design and run it.",
+    "Run a borough-wide campaign to sign up eligible households for the $15-per-month internet plans available under New York's Affordable Broadband Act, working through libraries, public housing developments, schools and community groups.",
+    "Scale up community-based broadband, including extending the Housing Preservation and Development department's Neighborhood Internet program to every Bronx branch library, supporting community-managed mesh networks, expanding the Bronx Gigabit Center and piloting home internet credits for high-need groups.",
+    "Establish a Bronx Laptop Lending Library, paired with a Recycle-a-Laptop donation drive and a refurbishment pipeline run with a Bronx CUNY campus or high school.",
+    "Extend school device lending through the summer so students keep their computers when classes are out.",
+    "Expand public computing centers, funding new hubs run by nonprofits and adding capacity at existing centers, CUNY campuses and branch libraries.",
+    "Expand the CUNY 2X Tech program to Bronx Community College and Hostos Community College.",
+    "Scale CUNY's Computing Integrated Teacher Education initiative so more future teachers can bring computing into their classrooms.",
+    "Invest in scaling proven tech training programs and pilot wraparound supports such as stipends, childcare and transportation assistance.",
+    "Expand partnerships between the New York Public Library, community organizations and affordable housing providers to bring classes, devices and internet access into neighborhoods.",
+    "Have the New York City Economic Development Corporation work with Bronx economic development groups to grow a cluster of tech-enabled businesses in the borough, starting with digital health and logistics."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "technology",
+    "education"
+  ],
+  "is_followup": false
+}

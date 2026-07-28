@@ -1,0 +1,88 @@
+{
+  "id": "2025-04-01-cuf-expanding-park-concessions",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Expanding Concession Opportunities in NYC’s Parks",
+  "plain_title": "More park cafes and restaurants to pay for park upkeep",
+  "agency": "New York City government",
+  "issued": "2025-04-01",
+  "url": "https://nycfuture.org/research/expanding-concession-opportunities-in-new-york-citys-parks",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future examining concessions in New York City parks and how the organization says a modest expansion could raise money for park maintenance.",
+  "background": "The report notes that the Department of Parks and Recreation absorbed a $20 million cut last year and met less than one-third of its $725 million in state-of-good repair needs, and that concessions are the agency's largest source of revenue.",
+  "findings": [
+    {
+      "plain": "Across more than 30,000 acres of parkland, only a handful of spaces are licensed to restaurants and cafes, and more than half of all park concessions are carts or food trucks.",
+      "quote": "the city licenses just 15 spaces to restaurants"
+    },
+    {
+      "plain": "Concessions revenue was flat for more than a decade and fell in inflation-adjusted terms, though it rose recently after renegotiated agreements and new surcharges.",
+      "quote": "flatlined around $40 million, declining 25 percent since 2012 after adjusting for inflation"
+    },
+    {
+      "plain": "Money from city-managed concessions goes to the general fund rather than back to parks, which the report says discourages the agency from pursuing new ones.",
+      "quote": "none of the revenue from concessions agreements with the agency flows back into the city’s public parks"
+    },
+    {
+      "plain": "A small number of parks run by nonprofit partners keep their concessions money, and together they earned more from concessions than the agency did citywide.",
+      "quote": "seven city parks operated by nonprofit partner organizations earned nearly $60 million from concessions in 2023"
+    },
+    {
+      "plain": "Many park buildings need repairs before a business can move in, and the cost of that work has deterred bidders.",
+      "quote": "The gap between what a prospective concessionaire is willing to invest and what the agency can afford to has become an obstacle"
+    },
+    {
+      "plain": "Terms vary park by park, which the people interviewed said makes planning difficult, alongside license lengths capped at 20 years and the city's ability to end a license at will.",
+      "quote": "there is no standardized process for concessions agreements"
+    },
+    {
+      "plain": "Large parts of the city have no park eateries at all, including much of the Bronx and Queens.",
+      "quote": "the NYC Parks website lists six eateries in parks there, three of which are limited to private events"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "just 15 spaces",
+      "label": "Park spaces licensed to restaurants citywide"
+    },
+    {
+      "value": "$52 million",
+      "label": "Parks concessions revenue in 2023"
+    },
+    {
+      "value": "nearly $60 million",
+      "label": "Concessions earned by seven nonprofit-run parks in 2023"
+    },
+    {
+      "value": "$10 million",
+      "label": "Yearly revenue the report says 20 new sites could add"
+    },
+    {
+      "value": "$725 million",
+      "label": "Parks state-of-good-repair needs"
+    },
+    {
+      "value": "$20 million",
+      "label": "Budget cut the parks department absorbed last year"
+    },
+    {
+      "value": "3,500 positions",
+      "label": "Jobs at park concessionaires, per the parks department"
+    }
+  ],
+  "recommendations": [
+    "Launch 20 new destination-worthy concessions over the next three years, with the parks department identifying high-potential sites with community input, prioritizing underused buildings such as pool houses and comfort stations and issuing requests for proposals aimed at local entrepreneurs.",
+    "Designate a trusted nonprofit partner to capture a greater share of future concessions revenue for parks, or amend the City Charter so the parks department can keep part of its revenue, while committing to hold city tax levy funding at or above a set baseline and considering an 80-20 split that sends a share to parks in underserved neighborhoods.",
+    "Launch a Concessions Investment Fund with the New York City Economic Development Corporation, possibly including a low-interest revolving loan fund, to pay for the upfront work that makes underused park buildings usable.",
+    "Pilot a pop-up parks concession program for temporary, mobile and seasonal offerings citywide, potentially with a request for proposals for an operator of mobile concessions.",
+    "Reform citywide concessions guidelines so agencies that license concessions use a common approach to agreements and revenue sharing, simplifying the process and aligning terms."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,183 @@
+TITLE: Highest Costs, Middling Marks
+URL: https://cbcny.org/research/highest-costs-middling-marks
+ISSUED: 2025-01-17
+PDF: https://cbcny.org/sites/default/files/media/files/CBCREPORT_NYS-School-Spending_01172025.pdf
+
+REPORT  EDUCATION
+Highest Costs, Middling Marks
+New York School Spending and Results
+Press Release
+Download Report
+Print
+Share
+EXPAND TABLE OF CONTENTS
+January 17, 2025
+Contents
+New York School Districts Average $36,293 Per Student, Up 21 Percent From the 2020-21 School Year
+Figure 1
+New York Per-Student All Funds Spending Growth
+Figure 2
+New York Per-Student State School Aid Growth
+New York Spends Nearly Twice the National Average Per Student
+Figure 3
+Change in School Spending Per Student from 2006 - 2007 to 2021 - 2022
+New York’s Achievement Outcomes Are Middling, Despite Highest-in-the-Nation Per-Student Spending
+Table 1
+New York and Peer State NAEP Exam Average Scores and Ranks
+New York State’s School Accountability System
+The State Should Enhance Oversight, Technical Assistance, and Accountability
+Conclusion
+Summary
+
+Elementary and secondary school spending per student in New York State is the highest in the nation and nearly double the national average. Yet, student performance in New York is middle-of-the-pack nationally and lower than neighboring states that spend less. Instead of continuing to simply add resources, New York should examine the reasons for this disconnect and consider how to improve its oversight, technical assistance, and accountability to promote the student outcomes New Yorkers deserve.
+
+Given these middling results and the $89 billion New York School districts will spend this year—with $39 billion coming from the State budget—it is disappointing that education policy reform efforts have not focused on examining and rectifying New York’s unsatisfactory performance. Instead, the debate is mostly centered on increasing State school aid even more and modestly shifting how dollars are allocated. 
+
+While test scores are imperfect and not the only measure of success, they troublingly show that many New York State students do not read, write, or do math at grade level. 
+
+The Citizens Budget Commission’s analyses of education spending in New York, U.S. Census Bureau school finance data, and National Assessment of Educational Progress (NAEP) test scores find that:
+
+Per-student spending for elementary and secondary education in New York is 91 percent above the national average and between 9 percent and 170 percent higher than neighboring and competitor states;
+New York now spends $36,293 per student, a 21 percent increase since the 2020-21 school year;
+The State’s portion of per-student school spending—including Foundation Aid, expense-based aid, and the School Tax Relief (STAR) program—has increased 29 percent over the same period;
+New York’s fourth grade students rank 32nd and 46th on reading and math NAEP exams, respectively, while eighth grade students rank 9th and 22nd; and
+New York remains in the middle of the pack after statistically adjusting for the demographic profile of New York’s students, with an average ranking of 18.5 across the four NAEP tests, according to the Urban Institute.1
+
+For years, New York has significantly increased education spending while student outcomes have generally not improved relative to other states. More money has not been the cure-all, and it would be illogical to think the next $1 billion will solve what the previous $1 billion did not. 
+
+While improving the allocation of State aid will improve equity and may have some effect on outcomes, New York needs to take this issue head-on: why is the tremendous level of dollar resources not delivering needed results, and how should New York State improve its oversight, technical assistance, and accountability systems to better improve student achievement? 
+
+The State should ramp up its efforts to examine the relationships between human and fiscal resources, curriculum, student needs, accountability systems, and achievement; enhance its support and technical assistance to promote and spread best practices; and implement better systems that hold districts accountable for results without inhibiting their ability to deliver for students.
+
+New York School Districts Average $36,293 Per Student, Up 21 Percent From the 2020-21 School Year
+
+New York’s school districts are set to spend $89 billion in the 2024-25 school year—$36,293 per student.2 Over the past four years, total spending per student has grown by 21.0 percent, or 4.9 percent annually. (See Figure 1.)
+
+Figure 1: New York Per-Student All Funds Spending Growth
+Notes
+
+Local funding is estimated based on actual local revenue from the 2022-23 Masterfile for all districts except for New York City, increased by the allowable tax levy growth factor in each subsequent year and reduced by the personal income tax credit portion of STAR. New York City local revenue is estimated based on the Fiscal Year 2025 Adopted Budget. Federal revenue is held constant at pre-COVID levels and excludes extraordinary COVID-related aid. STAR program allocations are included in State revenue. In school year 2020-21, the State used $1.1 billion in extraordinary federal aid from the Coronavirus Aid, Relief, and Economic Security (CARES) Act to offset planned State school aid, the "Pandemic Adjustment." Enrollment prior to the 2023-24 school year is based on New York State Education Department's Basic Educational Data System enrollment data. Enrollment for school years 2023-24 and 2024-25 are based on estimated enrollment in the FY 2025 Enacted Budget School Aid Files.
+
+Source
+
+CBC staff analysis of data from New York State Education Department, Fiscal Analysis & Research Unit, "Masterfile for 2022-23" (last updated June 12, 2024), "FY 2025 Enacted Budget School Aid Files" (received via email on April 22, 2024); New York State Division of the Budget, FY 2025 Enacted Budget Financial Plan (May 2024); Office of the New York State Comptroller, Inflation and Allowable Levy Growth Factors (July 2024); and City of New York, Office of Management and Budget, Fiscal Year 2025 Adopted Budget: Expense, Revenue and Contract Budget (June 30, 2024), and prior versions. 
+
+Overall spending growth has largely been driven by rapid State school aid growth as the Foundation Aid formula has been fully phased-in.3 Since school year 2020-21, total State school aid, including Foundation Aid, expense-based aids, and School Tax Relief (STAR) program spending, grew by 5.9 percent annually, for a 25.8 percent cumulative increase.4 In the eight preceding years, including those right after the Great Recession, State school aid grew 3.5 percent per year. 
+
+Per-student State aid grew even more rapidly than total State aid because Statewide enrollment has declined 7.7 percent since school year 2012-13, from 2.66 million to 2.45 million students this year.5 As a result, average per-student State school aid is $15,756 this year, an increase of $3,533, or 28.9 percent, since 2020-21. (See Figure 2.) Enrollment consistently declined, albeit slowly, from school year 2012-2013 to school year 2019-2020, before accelerating during the first two years of the COVID-19 pandemic—enrollment fell by a total of 132,532 from the 2019-20 to 2021-22 school year.
+
+Figure 2: New York Per-Student State School Aid Growth
+Notes
+
+Enrollment prior to the 2023-24 school year is based on New York State Education Department's Basic Educational Data System enrollment data. Enrollment for school years 2023-24 and 2024-25 are based on estimated enrollment in the FY 2025 Enacted Budget School Aid Files.
+
+Source
+
+New York State Division of the Budget, "New York State School Aid: Beginning School Year 1996-97" Open NY (accessed November 12, 2024); New York State Education Department, Fiscal Analysis & Research Unit "FY 2025 Enacted Budget School Aid Files" (received via email on April 22, 2024), and "NY State Public School Enrollment (2022-23)", and prior versions.
+
+New York Spends Nearly Twice the National Average Per Student
+
+In 2021-22 (the most recent year for which national data is available), New York spent $29,873 per student including local, State, and federal dollars, 91 percent more than the national average of $15,633. (See Figure 3.) New York spent between 9 percent and 170 percent more than neighboring and competitor states. (See Table 1.) New York schools have spent more per student than any other state almost every year since 2004-05.6
+
+Since 2010-11, New York’s spending has consistently exceeded the national average by at least 80 percent. Per-student spending growth has accelerated across the country—increasing by 5.1 percent annually between 2016-17 and 2021-22. Despite already being the highest spender, New York maintained the pace, increasing per-student spending by 5.3 percent each year over this period. 
+
+Prior to the Great Recession, per-student spending in New York was roughly equal to spending in New Jersey, with the states often switching places between 2001-02 to 2005-06. However, New York’s per-student spending growth has exceeded New Jersey’s since then. By 2021-22, New York spent $4,774 more per student than New Jersey.
+
+While New York’s relatively high spending is partly due to its high costs, including labor and policy choices to deliver a robust set of services, New York’s per-student spending has consistently exceeded that of other high cost-of-living and cost-of-labor states like California and Massachusetts. In 2022, for instance, New York’s average annual wage for elementary and secondary school teachers exceeded those in Massachusetts by 8.4 and 10.1 percent, respectively, but their per-student spending was 26.7 percent lower than New York’s.7 While California is the only state with higher average teacher wages than New York, its per-student spending is 42.9 percent lower than New York’s.
+
+Policy choices also play a role in New York’s higher costs, but New York’s middling achievement should provide impetus to identify which policies are worth the investment. Identifying and prioritizing the most impactful programs is an important way to ensure New York students get the results New Yorkers pay for.
+
+Figure 3: Change in School Spending Per Student from 2006 - 2007 to 2021 - 2022, New York and Peer States
+Notes
+
+Based on school district fiscal years.
+
+Source
+
+U.S. Census Bureau, "Annual Survey of School System Finances" (accessed Nov 12, 2024).
+
+New York’s Achievement Outcomes Are Middling, Despite Highest-in-the-Nation Per-Student Spending
+
+New York has long led the pack in school spending, but New York students’ academic performance has been in the middle of the pack, as measured by NAEP exam scores. New York’s middling relative performance holds true even when student demographics and needs are taken into account.
+
+While NAEP exam results are not the perfect measure of education system outcomes, they are the best available option and useful for state-by-state comparison. The exam is taken by a sample of over 100,000 students nationwide, who are representative at the national, state, and district level.8 While each state’s average is based on the performance of a few thousand students and may not perfectly reflect performance statewide, NAEP does allow for comparison across states and over time, unlike other measures of academic achievement. For example, state-level exams are not comparable across states and national college entry exams, like the ACT and SAT, are similar across states but the population of students taking these exams differs from state to state.
+
+In 2022, New York’s average scores on the fourth grade reading and math exams both fell short of the national average, ranking 32nd and 46th, respectively.9 (See Table 1.) These ranks have declined since 2013, when New York’s fourth grade average reading and math scores ranked 17th and 32nd, respectively. 
+
+On eighth grade exams, New York’s average scores fared better but not by as much as one might expect given how much New York spends. New York’s average eighth grade reading and math scores ranked 9th and 22nd, respectively, an improvement over their 2013 ranks of 30th and 31st.
+
+Table 1: New York and Peer State NAEP Exam Average Scores and Ranks
+Notes
+
+Ranks are out of 51 because the District of Columbia is included. NAEP tests are administered between January and March of the given year. For example, exams given in 2022 were given during school year 2021-2022. NY Variance is how much higher or lower NY is than the comparator state. Per-student spending is for the school district fiscal year ending in 2022.
+
+Source
+
+U.S. Department of Education, National Center for Education Statistics, "National Assessment of Educational Progress" (accessed November 12, 2024); and U.S. Census Bureau, "Annual Survey of School System Finances" (accessed Nov 12, 2024).
+
+Notably, there was significant variation in the distribution of these scores, especially for eighth grade students. New York’s top 10 percent of students performed better than the top 10 percent of students nationally, while New York’s bottom 10 percent of students performed worse than the bottom 10 percent of students nationally. In 2022, on the eighth grade reading exam, New York’s lowest-scoring ten percent of students were 16th, while the top ten percent were 11 spots higher, ranked the 5th best in the US. On the 2022 eight-grade math exam, the difference was even more stark—the top 10 percent ranked 3rd in the U.S. while the bottom 10 percent ranked 36th.
+
+NAEP scores declined dramatically across the country between 2019 and 2022, and New York’s high spending did little to shield its students from this decline. In fact, fourth grade NAEP reading and math scores in New York declined by more than the national average from 2019 to 2022. The national average reading and math scores declined by three points and five points respectively, while in New York the average scores declined by six and ten points, respectively. New York’s average eighth grade reading score was an exception, remaining constant between 2019 and 2022, while the national average score declined by three points.
+
+Students’ demographic differences are correlated with differences in academic performance and those may contribute to New York’s middling performance on NAEP exams. New York has a relatively high share of children in poverty and English Language Learners, for instance.10 A recent Urban Institute report controlled for demographic differences across states and adjusted NAEP scores based on student-level demographic characteristics.11 In this analysis, New York’s rankings improved modestly, increasing the State’s average rank across fourth and eighth grade reading and math exams from 27.25 to 18.50. This improvement, however, slightly narrowed but did not eliminate the divergence between New York’s education spending and academic outcomes.
+
+New York State’s School Accountability System
+
+New York’s school and district accountability system is based on the 2015 federal Every Student Succeeds Act (ESSA).12 ESSA required states to develop accountability systems that monitor school-level academic and non-academic performance indicators, identify schools in need of improvement, and develop improvement plans for underperforming schools. 
+
+ESSA requires states to look at holistic school performance and also to separate demographic sub-groups across race, socioeconomic status, disability, and English-learning status in order to identify and narrow gaps. But states retain flexibility on weighting indicators in school performance assessments and the interventions taken to hold poor-performing schools accountable. ESSA requirements are merely the floor for school accountability.
+
+New York’s accountability system relies on indicators similar to those used by other states, including student achievement, student-level growth in achievement, English Language Learners’ progress, chronic absenteeism, graduation rates, and post-secondary education or career readiness.13 These indicators are used to place low-performing schools in one of three possible designations established by ESSA: Targeted Support and Improvement (TSI), Additional Targeted Support and Improvement (ATSI), and Comprehensive Support and Improvement (CSI). TSI and ATSI schools show poor performance among specific sub-groups, while CSI schools have poor performance across all students.14
+
+Remedial action and intervention are based on a school’s designation. Local school districts oversee improvement plans for schools that need targeted support, while the New York State Education Department (NYSED) oversees plans for schools that need comprehensive support. At the local level, schools must conduct surveys with stakeholders, complete a needs assessment, and develop a School Comprehensive Education Plan (SCEP) that is approved by their district.15 These plans consider feedback of parents, students, teachers, and other school staff, incorporate collection and analysis of school data, and must propose evidence-based interventions. The state-level requirements are similar, but the SCEP must be approved by NYSED, rather than the school district. State rules do not specify what types of data or analysis must be involved at this stage.
+
+If schools make progress correcting deficiencies over two or three consecutive years, depending on designation, they are released from their accountability designations. Conversely, the designations remain if they fail to make such progress. CSI schools that fail to make progress over three consecutive years are placed in the State’s Receivership program.16
+
+Districts with poor-performing schools of any designation must also develop an improvement plan, approved by NYSED, with required steps similar to those in plans developed by poor-performing schools. These districts are also eligible for additional Title I grants intended specifically for supporting struggling schools.
+
+The State Should Enhance Oversight, Technical Assistance, and Accountability
+
+New York’s middling performance on standardized tests and very high per-student spending effectively demonstrate that the State is not delivering the results New York should expect and its students deserve. Mediocre academic outcomes should motivate New York to improve its technical assistance, oversight, and accountability systems.
+
+The State should conduct more rigorous analyses to identify the reasons behind New York’s lackluster student performance. The State should ramp up its efforts to examine the relationships between human and fiscal resources, curriculum, student needs, accountability systems, and achievement. Furthermore, it should examine how districts and schools allocate money to identify if any models generally improve outcomes.
+
+While demographic differences between New York and other states may contribute to the State’s relative standing, they do not fully explain the divergence in inter-state academic outcomes and why nation-leading spending does not drive nation-leading results. The large disparities in NAEP exam scores between high- and low-achieving students in New York highlight the importance of understanding student needs in New York and why some schools are not meeting them. 
+
+The State should rigorously examine and, as beneficial, reform its accountability system, including the needs assessments developed for poor-performing schools, the interventions intended to improve performance, and methods it uses to hold districts accountable to ensure results without inhibiting districts’ ability to deliver for students. The State also should identify and implement ways to enhance its support and technical assistance to promote and spread best practices.
+
+In New York, school districts oversee improvement plans for schools with poor performance among one or more groups of students, whereas the State is involved when there is poor performance across the board. The State should examine whether district-led improvement plans are as effective as those developed by NYSED.17
+
+The State may also consider whether the State’s school governance structure could be improved to better promote quality outcomes and accountability. While the structure is not necessarily different from many other states, perhaps better alignment of resource responsibility and accountability would enhance results. The State Legislature elects the members of the Board of Regents, which appoints the Commissioner of Education who is responsible for school performance. The Governor, the elected Chief Executive overseeing State government, does not oversee the Commissioner of Education. While this provides the Regents and Education Commissioner a degree of independence from the State’s Chief Executive, it functionally creates a system that decouples the responsibilities of delivering funds and delivering results: the Executive and legislative lawmakers approve funding while the Board of Regents and Commissioner oversee performance.
+
+That the accountability system could be improved does not mean that the State’s resource allocation is not significantly flawed and that other factors do not affect outcomes. Other factors—perhaps including teacher quality, teacher evaluation systems, and mandate-driven spending allocations—also contribute to student outcomes and should be examined and improved as needed. 
+
+Finally, resources should better targeted based on need. Prior CBC research highlighted that the State sends significant aid to its wealthiest school districts; in school year 2023-24, the State provided $2.8 billion to districts that fully fund a sound basic education with local and federal revenue. These funds may well be better allocated to low-wealth, poor-performing districts, or to help stabilize the State’s precarious finances.18
+
+Conclusion
+
+Despite being the highest spending state for well over a decade, New York’s schools have consistently delivered academic outcomes comparable to the national average and wide disparities between high- and low-performing students. Continuing to shovel more and more money every year to school districts without fundamentally questioning this status quo behavior will not solve this problem. It is well past time for the State to improve student outcomes and ensure that schools’ vast resources meet the needs of students by improving oversight to identify what is not working, fine-tuning interventions to ensure their effectiveness, and holding districts accountable when schools fail to deliver results.
+
+By Stevan Marcus
+
+Senior Research Associate
+Download Report
+Highest Costs, Middle Marks: New York School Spending and Results (435.68 KB)
+Footnotes
+Matthew Chingos, States’ Demographically Adjusted Performance on the 2022 Nation’s Report Card (Urban Institute, December 2024), www.urban.org/research/publication/states-demographically-adjusted-performance-2022-nations-report-card.
+Local funding is estimated based on actual local revenue from the 2022-23 Masterfile for all districts except for New York City, increased by the allowable tax levy growth factor in each subsequent year and reduced by the personal income tax credit portion of STAR. New York City local revenue is estimated based on the Fiscal Year 2025 Adopted Budget. Federal revenue is held constant at pre-COVID levels and excludes extraordinary COVID-related aid. STAR program allocations are included in State revenue. CBC staff analysis of data from New York State Education Department, Fiscal Analysis & Research Unit, "Masterfile for 2022-23" (last updated June 12, 2024), www.nysed.gov/fiscal-analysis-research/school-district-fiscal-profiles, "FY 2025 Enacted Budget School Aid Files" (received via email on April 22, 2024); New York State Division of the Budget, FY 2025 Enacted Budget Financial Plan (May 2024), www.budget.ny.gov/pubs/archive/fy25/en/fy25fp-en.pdf; Office of the New York State Comptroller, Inflation and Allowable Levy Growth Factors (July 2024), www.osc.ny.gov/files/local-government/property-tax-cap/pdf/inflation-and-allowable-levy-growth-factors.pdf; and City of New York, Office of Management and Budget, Fiscal Year 2025 Adopted Budget: Expense, Revenue and Contract Budget (June 30, 2024) and prior versions, www.nyc.gov/assets/omb/downloads/pdf/adopt24/fp6-24.pdf.
+State school aid includes Foundation Aid, expense-based aids, and STAR program expenditure.
+Foundation Aid grew more quickly during this time, offset by slower growth in expense-based aids and STAR. The State’s formula-based Foundation Aid grew 9.2 percent per year—a $5.6 billion increase from $18.4 billion in school year 2020-21 to $24.0 billion in school year 2023-24.
+New York State Education Department, “NY State Public School Enrollment (2022-23)” (accessed Nov 12, 2024), and prior years, https://data.nysed.gov/enrollment.php?year=2023&state=yes; and New York State Education Department, Fiscal Analysis & Research Unit, “FY 2025 Enacted Budget School Aid Files” (received via email on April 22, 2024).
+In 2010 New York’s per-student spending was exceeded by Washington D.C. New Jersey per-student school spending was the highest in the country in 2004. U.S. Census Bureau, "Annual Survey of School System Finances" (accessed Nov 12, 2024) www.census.gov/programs-surveys/school-finances.html.
+U.S. Department of Labor, Bureau of Labor Statistics, “Employment and average annual wage of elementary school teachers in elementary and secondary education industry, by state or jurisdiction: 2016, 2019, and 2022,” National Center for Education Statistics, (accessed December 27, 2024), https://nces.ed.gov/programs/digest/d23/tables/dt23_211.70c.asp, and “Employment and average annual wage of secondary school teachers in elementary and secondary education industry, by state or jurisdiction: 2016, 2019, and 2022,” National Center for Education Statistics, (accessed December 27, 2024), https://nces.ed.gov/programs/digest/d23/tables/dt23_211.70e.asp; and U.S. Department of Commerce, U.S. Census Bureau, "Annual Survey of School System Finances" (accessed Nov 12, 2024), www.census.gov/programs-surveys/school-finances.html.
+Because NAEP averages are based on samples, small differences between them may not be representative of the full population. The NAEP data explorer webpage includes a tool to test the statistical difference in averages between states. For example, while New York’s average on the fourth grade math exam ranked 46th nationally, it is not significantly different from 11 other states, but is significantly lower than 38 other states’ average scores. The significance of the difference differs across exams, however. On the eighth grade reading exam New York’s average score is not significantly different from 32 states, and only 3 states average score is significantly higher than New York’s. For a description of the NAEP sampling method, see U.S. Department of Education, National Center for Education Statistics, “Overview of the Nation’s Report Card” (accessed January 9, 2025), www.nationsreportcard.gov/faq.aspx.
+NAEP tests are administered between January and March of the given year. For example, exams given in 2022 were given during school year 2021-2022.
+U.S. Department of Commerce, U.S. Census Bureau, “SAIPE State and County Estimates for 2022” (accessed December 27, 2024), www.census.gov/data/datasets/2022/demo/saipe/2022-state-and-county.html, and U.S. Department of Education, National Center for Education Statistics, “English Learners in Public Schools,” National Center for Education Statistics (accessed December 27, 2024), https://nces.ed.gov/programs/coe/indicator/cgf/english-learners.
+Matthew Chingos, States’ Demographically Adjusted Performance on the 2022 Nation’s Report Card (Urban Institute, December 2024), www.urban.org/research/publication/states-demographically-adjusted-performance-2022-nations-report-card.
+U.S. Department of Education, “Every Student Succeeds Act (ESSA)” (accessed November 19, 2024), www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act.
+New York State Education Department, “Understanding the New York State Accountability System under Every Student Succeeds Act (ESSA) for 2024-25 Accountability Statuses Based on 2023-24 Results” (accessed November 19, 2024), www.nysed.gov/sites/default/files/programs/accountability/24-25-haw.pdf.
+Under ESSA, CSI schools are the 5 percent of lowest performing schools in each State.
+New York State Education Department, Revised State Template for the Consolidated State Plan: The Elementary and Secondary Education Act of 1965, as amended by the Every Student Succeeds Act (July 2024), www.nysed.gov/sites/default/files/programs/accountability/reimagine-essa-plan-redline_public-comment.pdf, and “Improvement Planning”, www.nysed.gov/accountability/improvement-planning.
+The State has also at times appointed independent fiscal and academic monitors to specific school districts. There are currently four individually appointed monitors authorized by legislation. See: New York State Education Department, “State Monitors” (accessed January 13, 2025), www.nysed.gov/innovation-school-reform/state-monitors.
+New York State Education Department, “Understanding the New York State Accountability System under the Every Student Succeeds Act (ESSA) for 2024-25 Accountability Statuses Based on 2023-24 Results” (accessed November 19, 2024), www.nysed.gov/sites/default/files/programs/accountability/24-25-haw.pdf.
+Stevan Marcus and Patrick Orecki, The Learning Ledger (Citizens Budget Commission, September 2023), https://cbcny.org/research/learning-ledger.

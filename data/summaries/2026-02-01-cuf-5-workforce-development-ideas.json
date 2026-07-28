@@ -1,0 +1,80 @@
+{
+  "id": "2026-02-01-cuf-5-workforce-development-ideas",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "5 Ideas for How Mayor Mamdani Can Bolster Workforce Development",
+  "plain_title": "Five ideas for strengthening job training in the city",
+  "agency": "New York City government",
+  "issued": "2026-02-01",
+  "url": "https://nycfuture.org/research/5-ideas-for-how-the-mamdani-administration-can-strengthen-workforce-dev",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, setting out five proposals for how city government could strengthen job training and expand access to middle-wage careers.",
+  "background": "The report describes workforce development in the city as an ecosystem spread across many agencies, with roughly 1.1 million working-age New Yorkers unemployed, underemployed or earning the minimum wage.",
+  "findings": [
+    {
+      "plain": "Entry-level hiring has fallen sharply, making it harder for New Yorkers to get a first foot in the door.",
+      "quote": "The market for entry-level jobs has plunged 37 percent since 2022"
+    },
+    {
+      "plain": "The citywide unemployment rate masks large gaps by race, with Black New Yorkers unemployed at nearly double the overall rate as of December.",
+      "quote": "an unemployment rate of 9.6 percent for Black New Yorkers as of December"
+    },
+    {
+      "plain": "Funding for job programs serving working-age adults has dropped sharply at the two agencies that run much of the system since the Bloomberg administration ended.",
+      "quote": "down 43.4 percent at the Human Resources Administration (HRA) and 28.4 percent at the Department of Small Business Services (SBS)"
+    },
+    {
+      "plain": "The city leans heavily on federal money for job training, which comes with spending limits and caps on cost per participant.",
+      "quote": "Nearly 40 percent of funding for the city’s core workforce development programs flows from Washington."
+    },
+    {
+      "plain": "Responsibility for workforce development is spread across many agencies and several deputy mayors, which the report says leaves investments siloed and accountability fragmented.",
+      "quote": "More than 21 city agencies play a role"
+    },
+    {
+      "plain": "Everyday costs such as transit fares and childcare, rather than tuition, are what stop many students and trainees from finishing.",
+      "quote": "Fewer than one in three nonprofit workforce development organizations are able to provide transit subsidies"
+    },
+    {
+      "plain": "Career outcomes at the City University of New York (CUNY) lag behind its enrollment gains, and its career success programs reach only a small share of students.",
+      "quote": "Just two-thirds of CUNY graduates are employed within a year of graduation"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1.1 million",
+      "label": "Working-age New Yorkers out of work or in low-wage jobs"
+    },
+    {
+      "value": "37 percent",
+      "label": "Drop in the entry-level job market since 2022"
+    },
+    {
+      "value": "43.4 percent",
+      "label": "Drop in adult workforce funding at social services agency"
+    },
+    {
+      "value": "9.6 percent",
+      "label": "Unemployment rate for Black New Yorkers in December"
+    },
+    {
+      "value": "40,000 hires",
+      "label": "Hires credited to the New York Jobs CEO Council so far"
+    }
+  ],
+  "recommendations": [
+    "Make a large new city investment in workforce development through a NYC Talent Development Fund, a $25 million Career Impact Bond, a Workforce AI Readiness Fund with a mayoral task force, and workforce commitments built into neighborhood rezonings.",
+    "Appoint a workforce development czar reporting to the mayor and create an Economic Mobility Cabinet in City Hall to coordinate workforce policy and funding across agencies.",
+    "Provide free unlimited OMNY cards and childcare support starting on day one to City University of New York (CUNY) undergraduates and participants in workforce training programs, and evaluate the results.",
+    "Recruit the next 100 large and mid-sized employers to build skills-based hiring pathways with CUNY and nonprofit training providers, with a goal of 100,000 more hires of lower-income New Yorkers over a decade.",
+    "Scale up CUNY's career success programs, including CUNY Beyond, the Inclusive Economy Initiative and CUNY 2X Tech, and set a target that at least 30 percent of students complete a paid internship or work-based learning before graduating."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "education"
+  ],
+  "is_followup": false
+}

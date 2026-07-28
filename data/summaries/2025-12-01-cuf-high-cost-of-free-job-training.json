@@ -1,0 +1,75 @@
+{
+  "id": "2025-12-01-cuf-high-cost-of-free-job-training",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "The High Cost of Free Job Training in NYC",
+  "plain_title": "Why people drop out of free job training programs",
+  "agency": "New York City government",
+  "issued": "2025-12-01",
+  "url": "https://nycfuture.org/research/the-high-cost-of-free-job-training-in-nyc",
+  "pdf": "https://nycfuture.org/pdf/CUF_WrapAround_Report_9.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, on the everyday costs that keep low-income New Yorkers from finishing tuition-free job training, based on interviews with 29 workforce development organizations.",
+  "background": "Most nonprofit career training programs in the city charge no tuition, but participants still face costs such as childcare, transit fares and lost wages while they train. The report calls these supports wraparound services.",
+  "findings": [
+    {
+      "plain": "Costs outside the classroom, rather than tuition, are what put training out of reach for many New Yorkers.",
+      "quote": "the everyday costs of childcare, subway rides, and groceries make even “free” programs out of reach"
+    },
+    {
+      "plain": "Few training organizations can afford to offer childcare help, stipends or transit coverage to their participants.",
+      "quote": "only three provide childcare support to their participants (10 percent)"
+    },
+    {
+      "plain": "Where programs have measured it, stipends produced sizable gains in graduation rates.",
+      "quote": "Per Scholas saw an 18 percent jump in graduation rates after offering a $1,000 stipend"
+    },
+    {
+      "plain": "One construction training program saw a large completion gap between cohorts that received stipends and those that did not.",
+      "quote": "79 percent for those with stipends versus 57 percent for those without stipends"
+    },
+    {
+      "plain": "The city's childcare voucher process can take longer than a training program lasts, so parents often cannot use it in time.",
+      "quote": "can take months to access"
+    },
+    {
+      "plain": "The report says training will matter more as automation reshapes work.",
+      "quote": "AI and automation could transform or eliminate at least one-quarter of all jobs by 2030"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "29",
+      "label": "Workforce organizations interviewed for the report"
+    },
+    {
+      "value": "18 percent",
+      "label": "Rise in graduation rates after a $1,000 stipend"
+    },
+    {
+      "value": "39 percent",
+      "label": "Rise in completions among stipend recipients at one program"
+    },
+    {
+      "value": "$1,000",
+      "label": "Stipend size the report proposes per learner"
+    }
+  ],
+  "recommendations": [
+    "Create NYC Workforce Supports, a program funding free OMNY cards, childcare vouchers and other supports for training participants, paired with a pilot that rigorously tests and evaluates which supports work.",
+    "Establish an NYC Skills Grant providing stipends of up to $1,000 per learner in evidence-backed training programs to cover nontuition costs.",
+    "Create a childcare for workforce program that lets proven training providers hand city-backed childcare vouchers directly to their learners, modeled on Promise NYC.",
+    "Launch a zero-interest workforce loan program offering up to $3,000 for living costs during training, repayable only after a participant lands a stable, well-paying job.",
+    "Build a navigator staff line and a wraparound services budget line into all new city workforce development requests for proposals.",
+    "Expand the Work Progress Program to cover adults in career training so they can receive stipends while enrolled.",
+    "Expand the CUNY Community Navigator Institute to train 50 workforce navigators and place them at training organizations across the city.",
+    "Pay for these supports through expanded paid street parking and, at the state level, a 0.05 percent employer payroll surcharge modeled on a Massachusetts training fund."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "social services"
+  ],
+  "is_followup": false
+}

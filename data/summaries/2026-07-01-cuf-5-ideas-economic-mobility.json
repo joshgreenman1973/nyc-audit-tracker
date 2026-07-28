@@ -1,0 +1,85 @@
+{
+  "id": "2026-07-01-cuf-5-ideas-economic-mobility",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "5 Ideas to Advance Economic Mobility in NYC",
+  "plain_title": "Five ideas for raising incomes and building wealth in the city",
+  "agency": "New York City government",
+  "issued": "2026-07-01",
+  "url": "https://nycfuture.org/research/5-ideas-to-advance-economic-mobility-in-nyc-2026",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, setting out five policy ideas for raising incomes and building wealth in the city. It accompanies the group's third annual NYC Economic Mobility Summit.",
+  "background": "The report says the Mamdani administration and City Council have taken steps on the cost of living, from expanding free childcare for two-year-olds to a housing plan and city-supported grocery stores, and it turns to the other side of the affordability question: raising incomes and building wealth.",
+  "findings": [
+    {
+      "plain": "Adult students are a large and growing share of the City University of New York, but they finish at lower rates. Among transfer students pursuing bachelor's degrees, 51.1 percent of those over 25 graduate within six years, compared with 65.3 percent of those under 25.",
+      "quote": "students over 25 graduate within six years at significantly lower rates than their younger peers: 51.1 percent, compared with 65.3 percent of transfer students under 25"
+    },
+    {
+      "plain": "Small businesses are closing faster than new ones open, and few have started using artificial intelligence tools. The report cites a net loss of 1,050 businesses citywide in the third quarter of 2025.",
+      "quote": "Business closures have outpaced openings in three of the last five quarters"
+    },
+    {
+      "plain": "Entry-level job postings in New York City have fallen sharply since 2022, with the steepest declines in occupations most exposed to generative artificial intelligence.",
+      "quote": "with occupations most exposed to generative AI facing the steepest declines"
+    },
+    {
+      "plain": "Homeownership gaps have widened. The number of Black homeowner households fell 14.7 percent between 2002 and 2023 even as the total number of owner-occupied units in the city rose 13 percent.",
+      "quote": "a 14.7 percent decline, even as the total number of owner-occupied units increased 13 percent"
+    },
+    {
+      "plain": "City homeownership programs are small relative to demand. HomeFirst had helped just over 3,000 households since 2004 as of December 2022, and Open Door had financed 451 units across 10 projects since 2017.",
+      "quote": "had helped just over 3,000 households secure homeownership since launching in 2004"
+    },
+    {
+      "plain": "CityFHEPS is the largest municipal housing voucher program in the country, but many voucher holders wait a long time or never find a unit. A state comptroller sample of 52 cases found an average of 292 days from the first shopping letter to shelter exit and that about 21 percent of households issued shopping letters received placements.",
+      "quote": "the average time from the first shopping letter to approval and shelter exit was 292 days, while only about 21 percent of households issued shopping letters ultimately received CityFHEPS placements"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "46,500",
+      "label": "CUNY undergraduates over the age of 24 in fall 2025"
+    },
+    {
+      "value": "37 percent",
+      "label": "Drop in city entry-level job postings since 2022"
+    },
+    {
+      "value": "1,050",
+      "label": "Net business loss citywide in the third quarter of 2025"
+    },
+    {
+      "value": "14.7 percent",
+      "label": "Decline in Black homeowner households, 2002 to 2023"
+    },
+    {
+      "value": "67,952",
+      "label": "Households served by CityFHEPS as of February 2026"
+    },
+    {
+      "value": "$1.78 billion",
+      "label": "CityFHEPS budget for fiscal year 2026"
+    },
+    {
+      "value": "292 days",
+      "label": "Average wait from shopping letter to shelter exit"
+    }
+  ],
+  "recommendations": [
+    "Partner with the City University of New York to make it the nation's leading public university system for adult learners, by making flexible course formats the norm, piloting a CUNY Flex support model for part-time adult students, launching a CUNY Fresh Start initiative to clear small unpaid balances, scaling credit for prior learning and funding an NYC Adult Learners Network of community organizations.",
+    "Create a CUNY AI Small Business Corps that pays City University of New York students to help small businesses adopt artificial intelligence tools, prioritizing lower-income neighborhoods and commercial corridors with many immigrant- and minority-owned firms.",
+    "Launch an AI Workforce Preparation Fund and a citywide AI Workforce Task Force, with the fund supporting skills training, paid work experience, retraining for workers whose jobs are changing and rapid response for displaced workers, and the task force producing a citywide plan within six months.",
+    "Expand pathways to affordable homeownership, aiming to help 5,000 lower- and moderate-income households buy a first home and 5,000 current lower-income homeowners keep theirs by the end of 2028, by scaling Open Door, HomeFirst and HomeFix, backing community land trusts, adding homeownership tools to neighborhood plans and starting a multigenerational homeownership initiative.",
+    "Strengthen CityFHEPS navigation by carrying out the administrative reforms already proposed and expanding hands-on housing navigation, helping families consider higher-opportunity neighborhoods and connecting households to college, training, childcare and other supports."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "housing",
+    "education"
+  ],
+  "is_followup": false
+}

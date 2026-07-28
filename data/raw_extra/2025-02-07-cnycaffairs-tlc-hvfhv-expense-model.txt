@@ -1,0 +1,1506 @@
+TITLE: Revised Expense Model for the NYC Taxi and Limousine Commission’s High-Volume For-Hire Vehicle Minimum Pay Standard
+URL: http://www.centernyc.org/reports-briefs/revised-expense-model-for-the-nyc-taxi-and-limousine-commissions-high-volume-for-hire-vehicle-minimum-pay-standard
+ISSUED: 2025-02-07
+PDF: https://www.centernyc.org/s/CNYCA-TLC-expense-report-Dec-2024.pdf
+
+James A. Parrott
+December 2024
+Revised Expense Model for
+the NYC Taxi and Limousine
+Commission’s High-Volume For-Hire
+Vehicle Minimum Pay Standard
+Report for the New York City Taxi and
+Limousine Commission
+Revised TLC HV-FHV Minimum Pay Standard Expense Model
+Acknowledgments
+This report was prepared by James A. Parrott for the New York City Taxi and Limousine
+Commission (TLC) under Commissioner
+David Do. Lina Moe, Adam Jutai, and
+Xingxing Yang provided research assistance.
+TLC Deputy Commissioner for Policy and
+Community Affairs James DiGiovanni,
+Director of Policy Research Russell Glynn and Policy Analyst Maya Zamek provided invaluable feedback and guidance. Prisca
+Agombe assisted with the graphics and
+Isabella Wang designed the report and provided website support. Bruce Cory edited the report, and Kristin Morse, Lauren
+Melodia, and Seth Moncrease provided general support. The author is solely responsible for any errors or omissions.
+Copyright © 2025
+The New School Center for New
+York City Affairs
+New York, NY 10011
+www.centernyc.org
+AKNOWLEDGEMENTS
+James A. Parrott
+Center for New York City Affairs at The New School
+Note: This is a designed version of the Parrott-CNYCA Dec. 2024 expense report, with a corrected Exhibit 14 (the weights used in deriving the composite non-WAV expense factor were corrected). The corrected weighted non-WAV expense factor is $0.871 (not $0.879 as in the previous version). This correction is also reflected in the Executive Summary and the Conclusion.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model
+Executive Summary ...................................................................................
+1. Updating the TLC’s HV-FHV pay standard’s expense factor ......
+2. The 2024 HV-FHV vehicle fleet .......................................................
+3. 2024 NYC HV-FHV driver survey ....................................................
+4. Rented vehicle analysis .....................................................................
+5. EVs, drivers, and EV operating and charging costs ....................
+6. Composite expense model for ICE vehicles and EVs .................
+7. WAV expense model .........................................................................
+8. Conclusion ...........................................................................................
+Appendix Exhibit 1 .....................................................................................
+Appendix Exhibit 2 .....................................................................................
+Appendix Exhibit 3 .....................................................................................
+Appendix Exhibit 4 .....................................................................................
+TABLE OF CONTENTS
+1
+4
+7
+9
+16
+18
+23
+32
+35
+37
+38
+40
+41
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 1
+EXECUTIVE SUMMARY
+The New York City Taxi and Limousine Commission’s (TLC) minimum pay standard for High-Volume (HV) For-hire Vehicle (FHV) drivers includes per-minute trip time and per mile trip distance components. Uber and Lyft drivers provide HV-FHV services as independent contractors using vehicles that they own or rent. Drivers have significant personal investment in their vehicles, and it is essential for the effective functioning of the HV-FHV market for drivers to be compensated fully for their time on the app as well as for all of the vehicle-related expenses they incur.
+The HV-FHV vehicle fleet has evolved considerably since the inception of the New York
+City pay standard in 2019. There are many more SUVs of various sizes (52 percent of the total) and electric vehicles, and the TLC is phasing in a policy that will require all
+HV-FHVs to be either electric or wheelchair-accessible vehicles (WAVs) by 2030.
+In light of these developments, the TLC commissioned this report to develop an updated method to quantify vehicle expenses and suggest appropriate modifications to the pay standard’s per mile trip distance component for HV-FHV and wheelchairaccessible trips. This report is based on an extensive survey of drivers regarding current expenses, current data on the vehicle fleet, research on the cost of charging electric vehicles (EVs), additional investigation into the costs of renting a TLC-registered vehicle, and research on vehicle-related costs.
+The TLC sent a link to an anonymized and confidential survey to its email list of 89,000
+HV drivers who provided at least 100 trips between November 2023 and May 2024.
+The survey was fielded in the early summer of 2024, generating over 6,750 responses, with between 3,000-4,500 substantially completed surveys. For key questions, the response rate was four-five percent.
+The demographics and driving characteristics of survey respondents fairly represent the universe of all HV-FHV drivers. Survey responses indicated that 95 percent of drivers are male, 91 percent were born outside the United States, and 86 percent are nonwhite. Forty percent of drivers were born in Asia, 27 percent hail from the Caribbean,
+Central or South America, and 17 percent were born in Africa or the Middle East.
+Workers tended to be prime-age (78 percent were between ages 25 and 54), with 19 percent 55 or older. Only three percent were aged 24 or younger.
+Those responding to the survey largely drive full-time for Uber or Lyft (81 percent usually drove 32 hours or more per week), have done so for years (56 percent have driven for a for-hire company for five years or more), and 80 percent reported that driving is their sole source of income). The high proportion of survey respondents who drive full-time lines up with TLC trip data showing that three-quarters of all trips in 2023 were provided by those who drive 30 or more hours weekly. The distribution of
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 2 responses by ownership status and vehicle type (internal combustion engine, hereafter referred to as “ICE”, or EV) also lined up with 2023 trip patterns.
+The driver survey was the primary source of information on driver expenses for vehicle cost or rent, insurance, and maintenance. Median and average responses were considered in tandem with other research on vehicle costs. Fuel costs for ICE vehicles were estimated using government vehicle mileage ratings and average gas costs for the previous six months. Electric vehicle charging costs were derived by using survey data on charging mode and times, electricity costs, and industry sources on charging times.
+This report recommends a composite per mile cost factor reflective of vehicle cost structures along two dimensions: owned vs. rented, and internal combustion engine (ICE) vs. electric (EV) vehicles. Cost structures reflecting acquisition (or rental) costs, insurance, maintenance, and fuel or battery charging costs were compiled for each of four vehicle categories and weighted to reflect each category’s projected share of high-volume trips for 2025. The trip weights for the composite per mile cost factor are owned ICE vehicles (.6125), rented ICEs (.2625), owned EVs (.0875), and rented EVs (.0375). Since most WAVs in current use are hybrids (there are no all-electric WAVs), the
+WAV-specific composite per mile factor is based on 70 percent of WAVs being owned and 30 percent rented.
+The expense factor is geared to full-time drivers who provide the bulk of all HV trips and who purchased or rented a vehicle for the purpose of driving for hire, as 93 percent reported in our driver survey. The average full-time driver logs 32,500 miles annually and owner-drivers typically finance the purchase of their vehicles over five years. A vehicle driven intensively providing for-hire vehicle passenger services for five years on the streets of New York City would likely be fully depreciated after five years with minimal residual resale value.
+For the 30 percent of vehicles that are rented, it costs 25-30 percent more to rent a vehicle than to own one for use in providing HV-FHV services. This differential largely stems from the 20.875 percent sales tax on short-term vehicle rentals, higher insurance costs, and a “registration rent” that is a function of the costs and administrative burden of getting a vehicle licensed by TLC and the agency’s limitation on the issuance of new vehicle licenses. An individual seeking to drive for Uber or Lyft cannot otherwise go out and purchase a vehicle and have it registered. When the TLC opened applications for EV-only FHV licenses, many new drivers took the opportunity to acquire an EV that could then be registered as an HV-FHV.
+The analysis of EV expenses factored in a nominal allowance for drivers to be paid for some of the time they spend both waiting for access to a charging station and waiting for vehicle batteries to be charged. This is necessary since most city residents live in apartments or other multi-family homes and have to rely on public charging facilities.
+While EV maintenance costs are less than for ICE vehicles, per mile battery charging costs were 19.6 cents compared to 13 cents for ICE vehicle fuel costs. Overall, per mile costs to own and operate an EV were 17 percent higher than for an ICE vehicle.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 3
+The composite $0.871 per mile factor for non-WAV trips that this report derives is 10.4 percent higher than the existing $0.789 per mile factor in effect since March 1, 2024.
+Under the existing pay standard regulation, even without a change in the underlying methodology, the expense factor would rise on March 1, 2025. This would be in accordance with the annual average change in the Consumer Price Index for Urban
+Wage Earners and Clerical Workers (CPI-W) for 2024, which averaged 3.9 percent.
+When combined with the per minute factor in determining the overall minimum pay standard, the proposed $0.871 per mile factor would raise average driver trip pay by 2.3 percent compared to simply adjusting both the per-minute and per mile factors on
+March 1, 2025, by the CPI change.
+Per mile fuel costs for WAVs were lower than for non-WAVs given the prevalence of more fuel-efficient hybrids, but the overall composite (70 percent owned, 30 percent rented) WAV per mile factor was $1.061. This is 3.9 percent higher than the current
+WAV $1.021 per mile expense factor in effect since March 1, 2024.
+The revised expense model developed in this report has been designed so that any future updates can be made by TLC staff based on changes in such parameters as the proportions of EV and rented vehicles, or industry-wide changes in insurance and fuel/ charging costs.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 4
+The New York City Taxi and Limousine Commission’s (TLC) minimum pay standard for High-Volume (HV) For-hire Vehicle (FHV) drivers includes time and distance components.1 The distance component is intended to compensate drivers for their vehicle expenses and is expressed as a per mile factor. In the initial pay standard taking effect in February 2019, the per mile factor was $0.631. Exhibit 1 shows the expense model from the January 2019 report that is the basis for the initial $0.631 per mile factor.
+Exhibit 1
+1 See the NYC Taxi and Limousine Commission “Driver Pay” webpage.” https://www.nyc.gov/site/tlc/about/driver-pay.
+page. For an analysis of the app-dispatched for hire vehicle industry and the rational for the minimum pay standard, see James A.
+Parrott and Michael Reich, An Earnings Standard for New York City’s App-based Drivers: Economic Analysis and Policy Assessment,
+Prepared for the New York City Taxi and Limousine Commission, July 2018. https://www.centernyc.org/an-earnings-standard.
+UPDATING THE TLC’S HV-FHV PAY
+STANDARD’S EXPENSE FACTOR
+1.
+2019 Initial HV - FHV Expense Model (non - WAV)
+[ based on 35,000 annual miles]
+One-Time
+TLC 24-hour course--one time $175 $35.00 $0.001
+TLC 24-hour course exam--one time $50 $10.00 $0.000
+DMV E class license--one time $113 $22.60 $0.001
+TLC fingerprinting--one time $88.50 $17.70 $0.001
+WAV sensitivity training--one time $60 $12.00 $0.000
+SubT otal $97.30 $0.003
+Recurring
+TLC driver license--$252 every 3 years $84.00 $0.002
+TLC drug test $26.00 $0.001
+Vehicle Registration $275.00 $0.008
+TLC and DMV vehicle inspection $130.00 $0.004
+DMV defensive driving course--$50 every 3 years $16.67 $0.000
+DMV new plates $5.00 $0.000
+DMV vehicle license and plate renewal $400.00 $0.011
+DMV vehicle use tax $40.00 $0.001
+DMV commercial motor vehicle tax $400.00 $0.011
+SubT otal $1,376.67 $0.039
+Operating
+Gas $3,663.64 $0.105
+Vehicle payment $9,608.75 $0.275
+Commercial insurance $4,745.74 $0.136
+Vehicle maintenance $1,659.51 $0.047
+Vehicle cleaning $936.00 $0.027
+SubT otal $20,613.64 $0.589
+TOTAL $22,087.61 $0.631
+Expense Category Specific Expenditure Item Annual Per Mile
+Source: Parrott, Reich, Rochford and Yang, The New York City App - Based Driver Pay Standard, Revised Estimates for the New Pay Requirement . Prepared for the NYC
+Taxi and Limousine Commission, Jan. 2019
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 5
+HV-FHV drivers provide individualized transportation services for passengers seeking to travel from point A to point B who are customers of the rideshare companies Uber and
+Lyft. Drivers provide these services as independent contractors using vehicles owned or rented by the drivers. Drivers have significant personal investment in their vehicles, and it is essential for the effective functioning of the HV-FHV market for drivers to be compensated fully for their time on the app as well as for all of the vehicle-related expenses they incur.
+This report is a comprehensive update of that initial expense model based on an extensive driver survey regarding current expenses, current data on the vehicle fleet, research on the cost of charging electric vehicles (EVs), additional investigation into the costs of renting a TLC-registered vehicle, and related research on vehicle-related costs.
+The pay standard regulation adopted in December 2018 included an automatic inflationary adjustment based on the change in the CPI-W. There have been adjustments to both the time and distance components since 2019 in early 2020, 2022, 2023, and 2024. Due to Covid-19, there was not an adjustment in 2021. Because vehicle and gasoline costs rose much faster than the overall CPI in 2022, the inflation index transportation component was used to adjust the distance component on March 13, 2023. As Exhibit 2 indicates, the current per minute and per mile factors effective
+March 1, 2024, are $0.338 per trip minute and $0.789 per trip mile.
+(Both factors are divided by utilization to “scale up” pay so that drivers are paid for all of the time they are on the app and available to provide services, and for all of the miles they drive during that time.)
+Exhibit 2
+As Exhibit 1 indicates, the TLC HV-FHV expense model includes three categories of expenses: one-time, recurring, and operating. The first two include fees for TLC training programs, vehicle inspections, and various driver license or vehicle registration
+NYC HV - FHV minimum pay factors (non - WAV, in - town) set by the TLC
+% ch. from prior period
+2/1/19 0.287 0.631 - -
+3/1/20 0.291 0.640 1.4% 1.4% 3/1/22 0.307 0.673 5.5% 5.2% 2/1/23 0.327 0.714 6.5% 6.1% 3/13/23 0.327 0.762 0.00% 6.7% 3/1/24 0.338 0.789 3.5% 3.5% effective date per minute per mile * per minute per mile *
+* The transportation component of the regional CPI-U series (the series utilized in the TLC March 1 2023 proposal), increased by 20.7 percent between 2018 and 2022.
+Source: NYC TLC rules
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 6 fees and taxes. These one-time and recurring expenses are a relatively minor portion of the overall per mile factor. The focus in this memo is on vehicle operating costs for fuel, maintenance, insurance, and cleaning, as well as payments (loan or rental) that give the driver access to the vehicle and represent depreciation or the wear and tear on the vehicle that erodes its value over time.
+Annual cost of living adjustments to the per mile factor do not capture structural changes that have occurred in the industry. Three significant structural changes have occurred that affect driver vehicle cost.
+• First, there has been a steady shift from sedans to mid-size SUVs to provide standard (non-premium priced) HV services.
+• Second, there has been an increase in the relative importance of Wheelchair-
+Accessible-Vehicles (WAVs) and electric vehicles (EVs), partly because these vehicles have been the only vehicle types exempt (for policy reasons) from a limitation on the issuance of new FHV licenses that has been in place since August 2018.
+• And third, as part of a broader shift on the part of the City of New York to respond to the climate crisis, the TLC adopted a Green Rides Initiative (GRI) in October 2023 that mandates that five percent of all HV-FHV rides in 2024 be in either zeroemission vehicles or WAVs. The mandate rises to 15 percent in 2025, 25 percent in 2026, 40 percent in 2027, and increases by 20 percent a year over the next three years, reaching 100 percent in 2030.
+This last factor—the GRI—has already dramatically increased the share of trips by EVs and WAVs. In August 2024, 19.7 percent of all trips were performed by EVs or WAVs, up from 8.4 percent in April 2023. In August 2024, EVs provided 11 percent of all trips and WAVs 8.4 percent—most of the growth in the combined share resulted from increased EV trips.
+This report updates vehicle costs and proposes two per mile factors: one that is a composite per mile factor for non-WAV vehicles (reflecting a combination of gas/ hybrid (or internal combustion engine, hereafter ICE) vehicles and EVs and drivers who rent as well as own); and one that is specific to WAVs (Appendix Exhibit 1 shows the initial WAV expense model implemented in February 2019). WAVs generally are larger, heavier (as are EVs), and more costly vehicles due to the conversion necessary to make the vehicle wheelchair-accessible.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 7
+To analyze the costs of operating vehicles providing HV-FHV services, it is important to understand the characteristics of the HV fleet. The TLC maintains a list of all vehicles registered to provide FHV services, a broad category of service that includes traditional livery car and limousine services as well as HV-FHV services. The FHV list includes information on Vehicle Identification Number (VIN), TLC plate number, if the vehicle is
+WAV-equipped, and ownership data. Plate numbers were matched to a file containing
+HV-FHV trip information to identify FHVs on the list that were used for HV-FHV trips for the six months through July 15, 2024. The VINs were used to determine fuel type, make, model, year, and vehicle body class. Data were also compiled on the average monthly number of HV-FHV trips performed by each vehicle for the six-month period through January 2024.
+Exhibit 3 shows the characteristics of the 86,728 FHVs actively involved in providing HV services at the beginning of 2024. Over half (52 percent) of all vehicles were either midor full-size SUVs while 36 percent were sedans and 12 percent were minivans or vans.
+For the purposes of developing non-WAV and WAV per mile expense factors, vehicles were divided into three groups based on fuel type and WAV status as shown in Exhibit 3. Internal combustion engine (ICE) non-WAV vehicles accounted for 85 percent of all vehicles, with EVs accounting for eight percent and WAVs seven percent.2 (As of July 2024, there were no electric WAVs in the vehicle registry.) Since cost and fuel charges differ between ICE vehicles and EVs, operating costs are estimated separately for non-WAVs and blended into an overall weighted average. Since about 30 percent of both EVs and non-EVs are rented rather than owned directly by the driver, the overall weighted expense factor blends EVs and ICE vehicles accordingly.
+While not shown separately in Exhibit 3, there are a little over 10,000 luxury vehicles that constitute 12.5 percent of all non-WAV vehicles.3 We identified luxury models as those that qualify for Uber’s premium-priced UberXL or Uber Black services and are model year 2019 or more recent. Passenger fares and driver payments are higher for premium-priced services. Lyft has a similar listing of vehicles for its premium-priced XL and Black services.4
+Non-luxury, non-minivan ICE vehicles total a little over 62,500 HV-FHVs and constitute the core of the current fleet providing standard Uber and Lyft services. There has been a steady growth in the use of SUVs to provide these core services over the years. This is reflected in the shifting shares of sedans and SUVs by model year. In the current core fleet, 57 percent of the model years through 2019 are sedans but this share declines to 32 percent for the 2020-24 model years. The SUV share of model years through 2019 was 40 percent, rising to 68 percent for 2020-24 model years.
+2. In this report, we refer to gas and hybrid vehicles as internal combustion engine (or ICE) vehicles.
+3. The luxury share of vehicles is based on CNYCA analysis of the July TLC HV-FHV fleet.
+4. With the exception of about 250 Mercedes Metris vehicles, luxury models are not generally used for WAV services.
+THE 2024 HV-FHV VEHICLE FLEET2.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 8
+Exhibit 3
+Within the sedan and SUV (which includes crossover or mid-size SUVs) body-class categories, there are a small number of models that provide the bulk of all trips. Using trip data for the six months through January 2024, six models were identified that provided more than three-fourths (76.5 percent) of all trips performed by model-year vehicles from the past 10 years (2015-24). Exhibit 4 shows these six common vehicle models with weights used to determine the overall gas mileage rating factored into the non-EV expense model (non-WAV).5
+Exhibit 4
+5. Reflecting the shift toward more SUVs, the 50-50 trip weighting between the sedan vs. SUV models was adjusted to a 40 percent combined weight for the two sedan models and a 60 percent combined weight for the four SUV models in Exhibit 4.
+Fuel type, body class, and WAV status of vehicles in the current HV
+- FHV fleet
+Sedan and similar 31,445 36% 30,106 1,339 0
+SUV and similar 45,245 52% 39,707 5,525 13
+Minivan and Van 10,038 12% 4,120 14 5,904
+Revised total 86,728 100% 73,933 6,878 5,917 shares of all vehicles 100% 85% 8% 7% vehicle body class All body class share Ice, non-WAV EV, non-WAV ICE WAV*
+* There were no electric WAVs as of July 2024.
+Source: Author ’ s analysis of TLC vehicle and trip data.
+Trip shares among 6 most common vehicle models providing the bulk of HV-FHV services (non-WAV)
+X.2
+Sedan-Toyota Camry
+SUV-Toyota Highlander
+SUV-Toyota RAV4
+SUV-Honda CR-V
+Sedan-Honda Accord
+SUV-Chevrolet Equinox
+0.352
+0.293
+0.212
+0.077
+0.048
+0.017
+Source: Author ’ s analysis based on TLC vehicle and trip data. The Equinox model was included based on the popularity of its 2022 and 2023 model years. For the other models, underlying weights are for the 2015 - 24 model years.
+Trip shares among 6 most common vehicle models providing the bulk of HV-FHV services (non-WAV)
+X.2
+Sedan-Toyota Camry
+SUV-Toyota Highlander
+SUV-Toyota RAV4
+SUV-Honda CR-V
+Sedan-Honda Accord
+SUV-Chevrolet Equinox
+0.352
+0.293
+0.212
+0.077
+0.048
+0.017
+Source: Author ’ s analysis based on TLC vehicle and trip data. The Equinox model was included based on the popularity of its 2022 and 2023 model years. For the other models, underlying weights are for the 2015 - 24 model years.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 9
+This study employed an anonymized and confidential driver survey. The Taxi and
+Limousine Commission emailed a survey link to 89,000 HV drivers providing at least 100 trips between November 2023 and May 2024. The survey was fielded from June 14 to August 2, 2024, and generated 6,757 responses, with between 3,000-4,500 substantially completed surveys. There were 4,288 responses to a question on the type of car owned or rented, for a response rate of 4.8 percent. Survey responses required data cleaning and the removal of outliers.6
+ Driver characteristics and driving experience
+Similar to the findings of a 2018 driver survey, HV-FHV drivers are overwhelmingly male, immigrant and rely mainly on their earnings from driving for the passenger services.
+According to the 2024 survey, 95 percent of drivers are male (compared to 97 percent in 2018), 91 percent were born outside the United States, and 86 percent are nonwhite. Forty percent of drivers were born in Asia, 27 percent hail from the Caribbean,
+Latin America or South America, and 17 percent were born in Africa or the Middle East.
+Workers tended to be prime-age (78 percent were between ages 25 and 54), with 19 percent 55 or older. Only three percent were age 24 or younger (See Exhibit 5).
+Drivers responding to the survey largely drive full-time for a for-hire company (65 percent usually drove 40 hours or more per week), have done so for years (56 percent of drivers have driven for a for-hire company for five years or more), and relied on forhire income as their main source of income. Eighty percent of drivers reported that driving is their sole source of income, and another 11 percent reported it was more than half but not all of their income (see Exhibit 6).
+ Profile of vehicle type and ownership
+Nearly two-thirds (64 percent) of HV-FHV drivers owned their vehicle, and 36 percent rented a vehicle. Eighty-four percent of respondents own or rent an ICE vehicle compared to 16 percent who own or rent an EV (see Exhibit 7). As discussed in Section 4 below, for purposes of weighting in the composite expense model, we estimated that 30 percent of drivers rented their vehicles and 70 percent owned.
+6. Generally, outliers in the top 5 percent and bottom 5 percent of most questions calling for quantitative responses were excluded, as well as responses outside the range of what would be considered reasonable (e.g., monthly vehicle payments less than $120 or greater than $2,500.
+2024 NYC HV-FHV DRIVER SURVEY3.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 10
+Exhibit 5
+Selected demographic characteristics of HV - FHV drivers 19-20 5 0% 21-24 92 3% 25-34 785 23% 35-44 1,124 33% 45-54 725 22% 55-64 469 14% 65+ 167 5%
+T otal 3,367 100%
+Gender Identification Count Percentage
+Male 3,178 95%
+Female 154 5%
+Non-binary / third gender 6 0%
+Prefer not to say 19 0%
+T otal 3,357 100%
+Race/Ethnicity Count Percentage
+Asian or Asian American 1,213 37%
+Hispanic, Latino, Latinx, or Spanish 912 28%
+White 470 14%
+Black or African American 444 13%
+Other 253 8%
+American Indian or Alaska Native 9 0%
+Native Hawaiian or Pacific Islander 4 0%
+T otal 3,305 100%
+Country of Birth Count Percentage
+Asia 1,337 40%
+Latin America or the Caribbean 723 22%
+Africa 424 13%
+United States 302 9%
+Europe, Canada or Australia 248 7%
+Middle East 137 4%
+South America 136 4%
+Mexico 30 1%
+T otal 3,337 100%
+Age Count Percentage
+Source: CNYCA - TLC Driver Survey, June - July, 2024
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 11
+Exhibit 6
+Drivers' weekly hours, longevity, and reliance on for-hire driving as a source of income
+Count Percentage
+Less than 5 hours 30 1%
+5 to less than 10 hours 304 7% 10 to less than 20 hours 202 5% 20 to less than 32 hours 290 6% 32 to less than 40 hours 719 16% 40 hours to less than 50 hours 1,342 30%
+More than 50 hours 1,575 35%
+T otal 4,462 100%
+Average (hours) 42
+Median (hours) 45
+Length of Time Working as a For-Hire Driver
+Count Percentage
+Less than 3 months 29 1%
+3 months to less than 6 months 68 1% 6 months to less than 1 year 303 7% 1 to less than 3 years 1,006 22% 3 to less than 5 years 569 13% 5 years or more 2,479 56%
+T otal 4,454 100%
+Average (months) 53
+Median (years) 5
+Importance of For-Hire Income
+Count Percentage
+It is less than 10% of income 131 3%
+It is more than 10% but less than half of my income 294 6%
+It is more than half but not all of my income 469 11%
+It is my sole source of income 3,476 80%
+T otal 4,370 100%
+Usual Hours Drive for a For-Hire Company per Week
+Source: CNYCA - TLC Driver Survey, June - July, 2024.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 12
+Exhibit 7
+Possibly as a function of the vehicle cap, survey responses indicate that a higher share of drivers who have started driving in the HV-FHV business in the past four years rent their vehicles (about half) compared to those who have been driving for five years or more (about a quarter). As noted in Exhibit 6 above, 56 percent of drivers have been driving for five years or more, according to survey responses.
+The composite HV-FHV expense model developed in this report combines expenses for the four types of vehicles and ownership status shown in Figure 7. The weighting method used in compiling the composite expense picture was based on the 70-30 owner-renter split and the ICE vehicle vs. EV shares of trips performed in 2023. Exhibit 8 shows that the trip weights are fairly similar to the survey results.
+Reflecting the high incidence of high-hour FHV drivers, survey respondents reported a median of 33,000 miles driven in the past year, with slight variation around that figure (see Exhibit 9).
+Exhibit 8
+Survey shares of vehicles by fuel and ownership status compared to weights based on trip numbers
+Own an ICE vehicle 53% 58.3%
+Own an EV 11% 8.3%
+Rent an ICE vehicle 31% 29.2%
+Rent an EV 5% 4.2%
+T otal 100% 100.0%
+Driver survey shares Weights based on # of trips
+Source: CNYCA - TLC Driver Survey, June - July, 2024.
+Driver survey responses on ownership vs. renting and ICE vs. electric vehicles
+Own an ICE vehicle 2,268 53%
+Own an EV 462 11%
+Rent an ICE vehicle 1,343 31%
+Rent an EV 215 5%
+T otal 4,288 100%
+Count Percentage
+Total own 2,730 64%
+Total rent 1,558 36%
+Total ICE vehicle (own or rent) 3,611 84%
+Total EV (own or rent) 677 16%
+Count Percentage
+Source: CNYCA - TLC Driver Survey, June - July, 2024.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 13
+Exhibit 9
+ High-hour drivers perform a disproportionate share of all trips
+The driver survey was sent to all 89,000 active HV-FHV drivers. Completion was voluntary but it is not surprising that a disproportionate share of responses came from drivers logging a high number of weekly hours. As noted in Exhibit 6, 65 percent of survey respondents reported average weekly hours of 40 or more, and another 16 percent recorded that they drove an average of 32-40 hours per week. These highhour drivers are very committed to this work and heavily rely on it as their main source of income (88 percent of those driving 40+ hours weekly rely on driving as their sole source of income).
+Data that the companies are required to provide to the TLC also demonstrate that high-hour drivers provide a disproportionate share of all trips. According to Exhibit 10, drivers averaging 40 or more weekly hours of session or on-app time during 2023 accounted for 43.4 percent of all trips, and grouping all drivers working more than 30 weekly session hours together shows that they account for 74 percent of all trips.
+Median miles driven last year by type of vehicle and owner status
+Standard (non-WAV vehicles)
+ICE vehicle owners 35,000
+EV owners 30,000
+ICE vehicle renters 35,000
+EV renters 35,000
+WAV vehicles
+ICE WAV owners 30,000
+ICE WAV renters 34,500
+EV WAV owners 45,000
+EV WAV renters 47,500
+All drivers 33,000
+Source: CNYCA - TLC Driver Survey, June - July, 2024.
+Median miles driven last year by type of vehicle and owner status
+Standard (non-WAV vehicles)
+ICE vehicle owners 35,000
+EV owners 30,000
+ICE vehicle renters 35,000
+EV renters 35,000
+WAV vehicles
+ICE WAV owners 30,000
+ICE WAV renters 34,500
+EV WAV owners 45,000
+EV WAV renters 47,500
+All drivers 33,000
+Source: CNYCA - TLC Driver Survey, June - July, 2024.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 14
+Exhibit 10
+Viewed in this light, the high-hour drivers prevalent among survey respondents do reflect drivers who provide the bulk of all trips. At the other end of the spectrum, in the survey 12 percent of respondents reported driving fewer than 20 hours a week7;
+the company data indicate that in the universe of all FHV drivers, twice that share (24 percent) falls into this category. However, these drivers account for less than eight percent of all trips. Thus, the apparent under-representation of short-hour drives in the survey should not be cause for concern, since those drivers provide so few trips and are not representative of a committed FHV driver.8
+We grouped survey respondents into three buckets by average weekly hours (less than 20, 20-40, and 40+) to examine if there were significant differences depending on the number of hours worked each week as FHV drivers. A mixed picture resulted. On the one hand, both high-hour (40+ weekly hours) and low-hour drivers (less than 20 hours)
+tended to purchase new vehicles (71 percent and 68 percent, respectively), and both groups reported that they primarily purchased their vehicles to drive for Uber or Lyft by large margins (93 percent and 87 percent, respectively). Median insurance costs were also fairly similar ($4700 annually for high-hour drivers and $4500 for low-hour drivers).
+Immigrants predominated by large margins (91 percent of high-hour drivers and 92 percent of low-hour drivers).
+One area of difference had to do with the race/ethnicity breakdown: while there were somewhat similar shares of Asians and whites among high- and low-hour drivers (37-34 percent, and 15-12 percent) Latinx drivers more heavily concentrated among low-hour drivers (32 percent) than among high-hour drivers (26 percent). One area of obvious difference was the relative importance of driving as an income source: 88 percent of high-hour drivers said it was their sole source of income while 58 percent of low-hour 7. On an un-rounded basis, the 536 drivers reporting fewer than 20 hours of usual weekly driving (see the first three rows in Exhibit 6)
+account for 12 percent of all survey respondents.
+8. It could be that some relatively new drivers log fewer hours due to restrictions in getting access to the Uber and Lyft platforms.
+While the survey found that about seven percent of all drivers drive less than 10 hours weekly, 12 percent of drivers working for less than six months drive for less than 10 hours a week.
+Company data for 2023 show that high - average weekly hour drivers account for the bulk of trips less than 10 9,487 2,617,905 9.5% 1.1% 10 to 20 14,832 15,257,231 14.8% 6.6% 20 to 30 22,325 42,848,315 22.3% 18.5% 30 to 40 25,604 70,388,101 25.6% 30.4% 40 to 50 17,831 60,826,035 17.8% 26.2% more than 50 10,072 39,807,903 10.1% 17.2%
+All drivers 100,151 231,745,490 100.0% 100.0% average weekly hours # of drivers # of trips share of all drivers share of all trips
+Source: CNYCA analysis of company data provided to the TLC
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 15 drivers responded that way. Perhaps not surprisingly, high-hour drivers who are more reliant on driving as their sole source of income spent slightly more for their vehicles than low-hour drivers ($42,000 vs. $40,000). This could reflect a desire to purchase a larger vehicle in order to qualify for premium-priced services that tend to compensate drivers more.
+ Driver expenses reported in the survey
+The active driver survey was the primary source of information on driver expenses.
+Drivers were asked about whether they were still paying for their vehicle, what their monthly loan payment was, and how much they paid for insurance and maintenance and repairs. The expense section of this report indicates the median survey responses for each of the four categories of vehicle types (ICE or electric vehicles) and owner status (own or rent).
+Two-thirds (66 percent) of respondents were still paying off their vehicle. Of these, the overwhelming majority— 93 percent— said they paid a vehicle payment monthly.
+About half of respondents who had purchased a vehicle said they had sourced a loan from a bank (48 percent), with a slightly smaller number receiving a loan from a car dealership (42 percent). Only a small number of respondents said they had received a loan from family or friends (nine percent) or a garage (one percent).
+Similar to drivers who purchased a vehicle, a large majority of drivers said they rented their vehicle primarily to drive for Uber or Lyft (79 percent), while 20 percent said they rented equally for Uber/Lyft and personal use. Fewer than two percent indicated that they rented a vehicle primarily for personal use. (Additional information on drivers renting their vehicles is included in the next section.)
+The survey asked a series of questions of EV drivers to ascertain where they charged their vehicles and the time spent waiting for access to a charger and waiting for their
+EV battery to charge. This information will be discussed in the EV section that follows the section on renting.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 16
+We estimate that approximately 30 percent of HV-FHV drivers rent their vehicles. In examining the TLC’s list of nearly 87,000 FHVs that we determined had been recently used to provide HV services, over 23,500 vehicles (more than 27 percent) were identified as having corporate or business, rather than individual, ownership. That is, ownership was in the name of a corporation, LLC, or other form of business. While some individuals register vehicles in the name of LLCs, 50 business entities were listed as the registered owner of 47 or more vehicles each, and collectively accounted for 59 percent of all vehicles registered to business owners. American United Transportation (“American”), Inc., topped the list of these business owners with nearly 4,300 vehicles, followed by Rigo Limo-Auto Corporation (owned by Fast-Track Mobility leasing), with about 2,000 vehicles.
+The driver survey indicated that about 40 percent of drivers who rent said they rented from another individual who owns a TLC license. Because such owners may not be listed as an LLC, it is possible that the number of vehicles rented exceeds 27 percent.
+While 36 percent of survey respondents indicated that they rented the vehicle they used, this likely overstates the extent of renting. For the composite expense model developed in Section 6, we assumed that 30 percent of vehicles were rented, and 70 percent were driver-owned.
+Of drivers renting from a leasing company, nearly two-thirds indicated they rented from the four largest companies: American, 23 percent; Tower, 17 percent; Buggy, 13 percent; and Fast Track, 11 percent. The remaining 36 percent who rent from a leasing company reported “other.”
+ High vehicle rental costs and registration rent
+One of the reasons that so many drivers rent their vehicles is that the limit on the issuance of new vehicle licenses that has been in place since 2018 means that drivers who do not already own a TLC-licensed FHV must either purchase a more expensive
+WAV (WAVs are exempt from the license limitation) or rent a licensed vehicle from a business or individual that owns such a vehicle. An individual seeking to drive for
+Uber or Lyft cannot otherwise go out and purchase a vehicle and have it registered.
+When the TLC opened applications for EV-only FHV licenses, many new drivers took the opportunity to acquire an EV that could then be registered as a HV-FHV. In a brief follow-up survey sent to a limited number of renting drivers, more than three-quarters of respondents indicated that renting a TLC vehicle was the only way they would be able to gain work as a FHV driver.
+FHVs are typically rented on a weekly basis rather than a three-year lease term.
+Respondents to the main driver survey who rented their ICE vehicles reported a median weekly rental payment of $525; that’s $27,300 on an annual basis. As discussed in
+RENTED VEHICLE ANALYSIS4.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 17
+Section 6 and Exhibit 13 below, factoring in all vehicle-related expenses, renting an ICE
+FHV is 31 more costly than owning, and renting an EV is 24 percent more costly to rent than to own.
+Three factors largely account for this rent vs. own differential. First, renters are charged sales tax of 20.875 percent (8.875 percent for the regular New York City sales tax, and 12 percent for a short-term New York State car rental tax). Second, itemized insurance costs for short-term rentals ranged from $125-$250 weekly, accounting for 25-50 percent of the total rental cost in a relatively small sample of rental agreements we examined. On an annualized basis, this is far greater than the insurance costs reported by owners.
+And third, a portion of the rental payment is rent for the use of a TLC registration itself, rather than payment for the use of the vehicle. This registration rent is a function of the costs and administrative burden of getting a vehicle licensed by TLC and the agency’s limitation on the issuance of new vehicle licenses. While we have not attempted to estimate this registration rent, we note that in agreements from some of the large rental companies, an “additional rent—For Hire Vehicle Permit Use” fee was listed as
+$175, or about one-third of the total weekly rental fee. In some cases, this was the fee for a 4+ year-old vehicle with over 100,000 miles on the odometer.
+While rental agreements typically include insurance costs, the general driver survey and a special survey of drivers renting their vehicles indicated that some are also required to pay for some or all maintenance and repair costs. In the survey of renting drivers, 30 percent indicated that maintenance costs were not included.9 For purposes of itemizing total rental costs in Section 6, we estimated that 20 percent of renting drivers paid a median amount of $3,500 annually.
+9. Most of those indicating that they were responsible for maintenance and repair costs rented from individuals. A higher share of renters (well over half) responding to the general survey reported a median amount of $3,500 for annual maintenance costs.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 18
+The electric vehicle market and charging infrastructure are rapidly evolving, and these changes are shaping the costs for using EVs for HV FHV transportation services. There were 11,490 EVs in use for such services in August 2024, lifting the EV share of FHVs in New York City to 13 percent. The number of monthly EV high-volume passenger trips has averaged more than two million for most of 2024, and the August 2024 level reflected a six-fold jump over the number of EV trips in August 2023. Over that period, the EV share of all trips rose from 1.8 percent to 11.0 percent.10
+Many more manufacturers are producing EVs, and while the 2024 pace of EV sales growth has slowed from 2022 and 2023, expectations are that the EV share of the market will steadily rise. The TLC’s Green Rides Initiative (GRI) ensures that there will be significant further EV growth in New York City in coming years. Forty percent of ICE vehicle owners and renters surveyed expect to be driving an EV by the end of 2026. If the survey results are an indication, that could mean an additional 20,000-25,000 EVs by the end of 2026.11
+There have also been significant investments in New York City’s EV charging infrastructure in recent years, and additional investments are in the planning stages.
+The TLC’s recent Electrification in Motion report documents ongoing efforts by the
+City Department of Transportation, the New York Power Authority, the City’s Economic
+Development Corporation, the Port Authority, and private companies such as Revel and Tesla to vastly expand charging capacity at the airports, municipal parking garages, selected curbside stations, and other locations.12 The public charging infrastructure is particularly important for the GRI since, according to the driver survey, only about onequarter of FHV drivers are able to charge at home. The TLC has convened key charging infrastructure actors and has educated drivers about their charging options, including through a new dedicated page on the TLC website.13
+The Electrification in Motion report notes several examples of government and private incentives available to drivers to reduce the cost of purchasing an EV and lower the cost of home charging.14 State and federal rebates may be worth several thousand dollars depending on the vehicle. However, there is little specific data available and there likely is great unevenness in drivers accessing these programs. The longevity 10. Trip data from the Green Rides dashboard data site accessed through the TLC’s online TLC Factbook, https://www.nyc.gov/site/ tlc/about/data-and-research.page. The calculation of EV trip shares includes WAV trips in the denominator.
+11. Of those currently renting an ICE vehicle, 56 percent indicated they plan to drive an EV (or WAV) by 2026, and of those who currently own an ICE vehicle, 31 percent expect to be driving an EV (or WAV) by 2026. It is not clear if these respondents expect EV-only licenses to become available, or if these drivers are just planning to transition to EVs when their vehicles turn over.
+12. New York City Taxi and Limousine Commission, Electrification in Motion. An Update on New York City’s Electric For-Hire Vehicle
+Fleet, September 2024. https://www.nyc.gov/assets/tlc/downloads/pdf/electrification_in_motion_report_2024.pdf 13. https://www.nyc.gov/site/tlc/about/ev-charging-faq.page#/find/nearest 14. Electrification in Motion, p. 14.
+EVS, DRIVERS, AND EV OPERATING AND
+CHARGING COSTS
+5.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 19 and value of these rebates is also not clear. Therefore, we have not factored in these potential cost reductions.
+Compared to gas/hybrid vehicles, EVs in the city’s HV fleet tend to be newer and more expensive to own or lease. According to the driver survey, 86 percent of EV owners purchased their cars new and 81 percent of new EV owners purchased them in 2023 or 2024. Of the used EVs purchased, 88 percent were acquired in 2023 or 2024.
+As the EV market has become more competitive, EV prices have come down, and as the presence of EVs in the overall market increases, a more extensive used EV market will grow in the years ahead. The U.S. Energy Information Administration reports that the average transaction price for all-electric vehicles in the U.S., not including any government incentives, declined by 1.8 percent from $57,405 in January 2024 to
+$56,371 in June 2024. While the average EV price in January 2024 was 21.1 percent higher than the overall average for all light-duty vehicle prices, by June 2024 that differential had eased to 15.9 percent.15 There are also federal and state incentives for purchasing EVs as well as incentives to encourage investments in charging stations.
+Drivers responding to the survey confirmed that while EVs tend to be more costly, they have lower maintenance costs. Median annual maintenance costs of $4,200 for EVs compared to $5,000 for gas/hybrids. EV insurance costs are slightly higher but that reflects their higher value. (Section 6 of this report will provide an itemized comparison of EV and non-EV expenses.)
+ Estimating drivers’ time spend charging EVs
+Comparison of energy costs per mile require an analysis of EV charging costs, including some allowance for the time that drivers spend waiting for a charge.
+According to survey responses, a majority of drivers usually charge their vehicles at publicly available fast chargers (65 percent), followed by those who charge at home (25 percent), and those who use a publicly available Level 2 charger (10 percent).16 Most drivers charge only one time per day (66 percent), while just over a quarter charge more than once a day (27 percent), with a small remainder charging less than once a day (seven percent).
+Survey respondents reported that EV charging station wait times were long. A majority of drivers said they had to wait more than 30 minutes to use a public or commercial charging station;(28 percent reported between 30-60 minutes, and 24 percent said they usually had to wait over an hour (see Exhibit 11). After waiting to access a charger, the majority of drivers not able to charge at home then must wait while their vehicle batteries charge. The lower panel in Exhibit 11 shows the distribution of time spent waiting while their batteries are charging. Fifty-two percent waited 30-60 minutes for their batteries to charge, 14 percent waited 1-2 hours, and seven percent waited for more than two hours.
+15. U.S. Energy Information Administration, “U.S. share of electric and hybrid vehicle sales increased in the second quarter of 2024,”
+August 26, 2024.
+16. The responses of drivers who selected “other” were excluded from the shares cited.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 20
+Exhibit 11
+Considering the rapid pace of development in building out more extensive EV charging infrastructure, waiting times are very likely to come down in the months and years ahead. As a result, we have modeled high and low estimates for both access waiting time and charging waiting time and opt to use a mid-point between these ranges to better reflect anticipated waiting times going forward. These estimates were made to provide a basis for compensating drivers for the extra time it takes to charge an EV, since three-fourths of drivers must seek out public charging facilities.
+We start with the waiting times for access to a charger from the survey as the highend estimates, and make plausible assumptions about reductions. For example, we assume that waiting times to access a charging station will decline by about two-thirds.
+(Appendix Exhibit 2 details the high and low estimates used in the charging time modeling.)
+To estimate charging times for drivers using fast-chargers, we used survey results as a high estimate, and information on Tesla Models Y and 3 fast-charging times from the
+EV-Database research group for the low estimate. (Further details on the allowances we make for the time drivers using home and Level 2 chargers spend are in Appendix 2.)
+ Estimating overall NYC EV charging costs
+Exhibit 12 details the estimation of the costs of electricity and an allowance for drivers’ time spent charging an EV. We used high and low estimates for the key parameters
+Survey responses regarding EV charging wait time.
+There is usually no wait 10% 48 15 minutes or less 16% 79 15-30 minutes 13% 66 30-60 minutes 28% 139 1-2 hours 24% 116
+I charge overnight so do not have to wait 9% 43
+T otal 100% 491
+Time it takes to charge vehicle Percentage Count 15 minutes or less 4% 18 15-30 minutes 13% 63 30-60 minutes 52% 250 1-2 hours 14% 69 2+ hours 7% 34
+I charge overnight so do not have to wait 10% 50
+T otal 100% 484
+Usual wait time to use a public or commercial charger Percentage Count
+Source: : CNYCA - TLC Driver Survey, June - July, 2024.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 21 involved in determining the cost per mile of charging an EV. In addition to driver time spent charging, they include vehicle battery capacity, kWh/per mile, and electricity costs for the three categories of charging mode (home, public Level 2, and public or private fast chargers).
+Vehicle battery capacity and kWh/per mile vary depending on EV make and model.
+Electricity costs per kWh depend on mode and provider and, for drivers charging at home, on the charging equipment used. Electricity costs for EV charging are difficult to pinpoint within this rapidly evolving charging landscape. As drivers gain experience with various charging options, they will be able to reduce both electricity costs and the time it takes to charge. That makes it reasonable to use high and low estimates to derive a midpoint estimate of likely costs.
+Some factors used in the Exhibit 12 estimates, such as assuming that drivers will only draw down an average of 80 percent of battery capacity on a given charge, or that driver time should be compensated at the independent contractor-equivalent of the minimum wage, are more certain. Therefore, they are not varied between the high and low estimates. (Appendix Exhibit 2 details the sources consulted in developing the high and low estimates cited in Exhibit 12.)
+Four steps were involved in estimating overall EV charging costs in Exhibit 12.
+First, based on the weighted kWh/mile efficiency ratings for the two main EV models (the Tesla Model Y and Model 3) and modeling high and low estimates for battery capacity, our midpoint estimate was that EVs would travel an average of 174 miles between charging events.
+Second, based on the best available data on electricity costs for the three main charging modes, and on the weights for the three forms of charging from the survey (65 percent fast charging, 25 percent home charging and 10 percent public Level 2 charging) the midpoint weighted EV electricity cost was 37.7 cents per kWh.
+Third, given the 0.25-0.28 kWh/mile average (based on the Model 3 and Model Y, respectively), the per mile electricity cost for EV charging came to 10.2 cents.
+Fourth, assuming that EVs travel 32,500 miles annually (as HV-FHVs do on average), we expressed that mileage on a monthly basis (2,708 miles). We assumed a low estimate (80 percent or 2,167 miles) and a high (120 percent or 3,250 miles). This would imply a range of 12-20 charging events per month. The midpoint for drivers’ time waiting for a charge and for charging was about 29 minutes (or 0.48 hours). Drivers should be reasonably compensated for such time. At the $17/hour State minimum wage in New
+York City that is effective January 1, 2025, and adding in the employer share of payroll taxes that independent contractor drivers are required to pay, that would result in a midpoint allowance for drivers’ time of 9.6 cents per mile.
+These two estimates (10.2 cents per mile for electricity costs and 9.6 cents per mile for drivers’ time) total 19.8 cents per mile. This compares to 13 cents per mile for fuel costs for ICE vehicles. These EV cost per mile factors are key inputs into the expense model detailed in Exhibit 13 in the next section.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 22
+Exhibit 12
+NYC EV charging costs= electricity costs + drivers'time 1
+EV charging need
+and average miles
+per charge
+Model 3 Model Y
+1.1 Useable battery
+capacity kWh 57.5 57.5
+1.2
+Assume average
+80% battery usage
+per charge
+kWh 46 46
+1.3 U.S. EPA kWh/mile
+rating kWh/mile 0.25 0.28
+1.4 Miles per average
+charge miles 184 164
+1.5 EV Database "real
+range" miles 239 208
+2
+NYC EV
+electricity
+charging costs
+survey
+weight units weighted
+cost/kWh
+weighted
+cost/kWh
+2.1 Residential rates
+for home charging 0.25 cost/kWh $0.084 $0.021 $0.299 $0.075 2.2 Public Level 2 charging 0.10 cost/kWh $0.136 $0.013 $0.340 $0.033 2.3
+Public (or private)
+DCFC (fast
+charger)
+0.65 cost/kWh $0.347 $0.226 $0.590 $0.385 2.4
+Weighted NYC EV
+electricity charging
+costs
+1.00 cost/kWh $0.261 $0.493 3
+Weighted EV
+electricty
+charging costs
+per mile
+electricty
+cost/mile $0.065 $0.138 $0.102 4
+Driver allowance
+for waiting time
+for charger access
+and charging
+units
+4.1 Total monthly
+miles traveled miles 2,167 3,250 4.2
+Number of charging
+events needed per
+month
+number 11.8 19.8
+4.3
+Weighted time
+waiting for charger
+per charging event
+hours 0.21 0.60
+4.4
+Weighted
+charging time per
+charging event
+hours 0.28 0.67
+4.5 Hourly rate for
+driver time $/hour $18.40 $18.40 4.6
+Allowance for
+driver time for
+waiting and
+charging time
+per mile $0.049 $0.142 $0.096 units low parameter ests.
+high
+parameter
+ests.
+mid-pt.
+est.
+Source: see Appendix Exhibit 2 for data sources and assumptions.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 23
+HV drivers bear the entire responsibility for providing, maintaining and operating the vehicles they use for Uber and Lyft passengers. This section explains details of vehicle acquisition and operating costs for ICE vehicles and EVs. Costs are estimated separately for ICE vehicles and EVs, and also depending on whether vehicles are owned or rented.17 Expenses for each of these four categories are itemized and then combined into a single composite expense model (non-WAV).
+The high-hour drivers well represented in the driver survey provide the overwhelming bulk of Uber and Lyft trips. According to the survey, 65 percent of drivers of gas and hybrid vehicles who own their cars purchased them new, and 35 percent acquired used vehicles. Sixty-five percent of drivers acquired their vehicles since 2020.18
+The key operating expense categories include vehicle payment, insurance, maintenance, and fuel (the cost of gas for ICE vehicles and the cost of charging for
+EVs). Vehicle cleaning costs are also estimated and included in overall operating expenses. In addition, licensing, registration, and related fees charged to TLC drivers are itemized and included in the overall expense total.
+Costs will be presented on a per mile basis assuming drivers log 32,500 miles annually, close to the median in the survey and also to the 35,000 annual miles used in the 2018 model. With increased congestion, average vehicle speeds have fallen by about 10 percent since 2018. At 32,500 miles per year, a HV vehicle will log 162,500 miles over five years, the typical length of an HV driver’s loan, and have very little residual value.
+This five-year mileage total would be on top of odometer readings that exist for drivers purchasing used vehicles. Some of the used vehicles with high mileage when acquired by an HV driver may require replacement prior to loan payoff.
+Expressing expenses on a per mile basis amortizes all vehicle and related expenses across a year’s total mileage and is applicable whether the vehicle is used for business or personal use. Incorporating this per mile expense factor into the TLC minimum pay standard ensures that drivers are fairly compensated for all of their HV-related driving.
+Uber recently commissioned the New York City-based consulting firm HR&A to prepare a report on the expense of for-hire vehicle drivers in New York City.19 Their report derives an overall per- mile expense amount that is 29 percent less than our estimate.
+17. In New York City, a driver who rents their FHV vehicles typically has a “short-term rental agreement” with an open-ended term that specifies a weekly rental cost. Such agreements are subject to a total sales tax of 20.875 percent for short-term car rentals. New
+York State defines “short-term rentals” as those that are for less than one year.
+18. The figures in this paragraph are for owners of non-WAV , non-luxury model vehicles that are exclusively used to provide standard
+Uber and Lyft services.
+19. HR&A, New York City Uber Driver Earnings and Expenses Study, Final Report, for Uber Technologies, Inc., November 4, 2024.
+This report will be referenced here as the “HR&A Uber Expense Report.”
+COMPOSITE EXPENSE MODEL FOR ICE
+VEHICLES AND EVS
+6.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 24
+The main reasons for this lower estimate are that HR&A uses lower weights for the shares of EVs and rented vehicles in deriving the composite per mile factor. They also use a flawed depreciation method to estimate vehicle costs.20
+ Per mile gas costs
+U.S. Department of Energy fuel economy data were used to determine the miles per gallon rating for city driving for the six common HV vehicles (non-luxury) identified in
+Exhibit 4.21 The composite result, derived by weighting average model mileage ratings, was 24.9 miles per gallon. According to the U.S. Energy Information Administration, the average weekly retail cost of regular gasoline in New York City for the 26 weeks through November 18, 2024, was $3.23 per gallon.22
+At $3.23 per gallon and 24.9 miles per gallon, the average fuel cost for a gas/hybrid
+ICE vehicle used for HV services is 13.0 cents per mile. The HR&A Uber report used a similar method of weighting average mileage ratings for Uber’s data on widely used vehicles. However, in part because they used a different base period (April 2023-April 2024) for gas prices, they estimated a higher per mile fuel factor of 13.7 cents per mile for ICE vehicles.
+The prior section of this report detailed the cost of charging an EV and calculated an allowance for drivers’ time spent charging an EV. As shown in Exhibit 12, we estimated a per mile EV electricity charging cost of $0.102, very close to the $0.103 amount in the HR&A Uber report. However, that report ignores the fact that most drivers utilize public charging stations where they often have to wait for access to equipment and also wait while their vehicle’s battery is charged. As noted in the previous section, our discounted allowance for waiting time at the $17 minimum wage level that will prevail in 2025 amounted to $0.096 per mile.
+Even though the HR&A Uber report ignored drivers’ waiting time for charging and they weighted EVs less than we did (3.7 percent vs. our 12.5 percent EV weight) in deriving the composite mileage factor, our $0.138 composite fuel/charging cost per mile was very close to HR&A’s $0.136 per mile fuel/charging cost.23
+ ICE vehicle owners’ expenses—vehicle payments
+As noted in Section 3, the active driver survey was the primary source of information on driver expenses, with the exception of fuel and battery charging costs. Drivers were asked whether they were still paying for their vehicle, what their monthly loan payment was, and how much they paid for insurance, maintenance, and repairs.
+20. Other differences involve the HR&A Uber report discounting interest costs that owners who have fully paid for their vehicles might have made, thus ignoring the prior investments made by 27 percent of drivers who indicated in an Uber survey that they were not actively making car payments on their vehicles; and excluding any allowance for drivers’ time spent charging their EVs (either time spent waiting for access to a public charger or waiting for their vehicles to charge). For a side-by-side comparison of the HR&A
+Uber and our expense analysis, and a comparison of each report’s composite weighting factors, see Appendix Exhibit 3.
+21. https://www.fueleconomy.gov/. The average mph rating for Honda Accords was 28.9, for Toyota Camrys, 27.3, and: Honda CRV , 27.6; Toyota Highlander, 20.4; Toyota RAV4, 25; and Chevrolet Equinox, 26.
+22. The average weekly New York City gas price for the 52 weeks through November 18, 2024, was $3.24. In its September 2024
+Short-Term Energy Outlook, the U.S. Energy Information Administration projects that retail gasoline prices, on average, will be flat in 2025 compared to 2024. https://www.eia.gov/outlooks/steo/ 23. See Appendix Exhibit 3.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 25
+As a check on the accuracy of these responses, the survey also sought information on vehicle purchase price, amount of down payment, loan duration, and interest rates. With this information, the monthly payment could be determined using an auto purchase loan calculator. For example, for ICE non-WAV vehicle owners, the median vehicle purchase price was $40,000.24 ICE vehicle drivers typically finance their vehicles over five years with a median interest rate of seven percent and a down payment of
+$5,000, according to the driver survey. With these terms, a common car loan payment calculator indicates a monthly payment of $763 (including sales tax in the amount financed). This is about four percent higher than the median value reported by drivers of $735 per month.25
+Since almost all drivers finance the purchase of their vehicles, and report a down payment, the median $5,000 down payment is amortized over 60 months. The resulting monthly amount ($83) is added to the median monthly payment drivers reported in the survey. This brought the total monthly vehicle payment for ICE vehicles to $818.
+Data from an extensive driver survey reflects what drivers are actually paying each month. Annualizing these payments (including amortizing the down payment) and dividing by 32,500 annual miles fairly represents the cost to the driver of driving forhire. These per mile amounts from vehicle payments are detailed in Exhibit 13. They include interest payments and the total purchase price. They further assume that there is negligible residual value in the vehicle after driving 32,500 miles annually for five years of intensive, full-time driving on the streets and highways of New York City with passengers getting into and out of the vehicle several times a day. The resulting wear and tear on a vehicle is substantial, leaving little likelihood of any meaningful resale value. In essence, the practical depreciation from such use is total. For EVs, the total miles accumulated over six years of financing equals 195,000. For vehicles purchased used, odometer readings from the time of purchase would further push up total mileage at the end of these financing periods.
+The method for approximating vehicle costs employed in the HR&A Uber report results in a per mile factor that is less than half the full depreciation cost method we use. The
+HR&A Uber method combines the financing costs with a very partial depreciation method. In estimating financing costs, the HR&A report uses similar factors to those we used: a five-year loan period at seven percent interest. However, they discount interest costs by 27 percent to reflect the portion of drivers who told Uber in a 2023 company survey that they were not making monthly vehicle payments. This ignores any interest payments those drivers might have previously made.
+To estimate depreciation, HR&A Uber apparently uses the difference between the manufacturer’s suggested retail price (MSRPs and the Kelley Blue Book values for five- 24. Over the past five years, according to the Bureau of Labor Statistic’s Consumer Price Index for Wage Earners for the New York metropolitan area, used vehicle prices peaked in 2022 and new car prices peaked in 2023.Thus, vehicle prices peaked when HV trip volume was rapidly rebounding from pandemic lows and drivers were returning to the Uber and Lyft platforms.
+25. The median down payment made by new and used ICE vehicle purchasers was $5,000. For EVs, a similar exercise resulted in a loan calculator monthly payment for 72 months of $1,056, 7.8 percent higher than the median value of $981 reported in the survey.
+The median purchase price for EVs was $59,900 (most were bought new).
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 26 year old versions of the commonly used vehicles they analyze. This apparently does not factor in the sort of mileage that a vehicle could be expected to have after driving five years at 33,000 miles annually (the annual mileage used to put expense on a per mile basis in the HR&A report).
+The HR&A method appears to generate a much higher sales value to the driver than the Edmunds “instant used car value and trade in value” online appraisal service.
+Entering make-model-year information for the seven most common vehicles cited in the HR&A report (page 9), we found much lower used car values based on 165,000 miles and a central Brooklyn zip code. Using the HR&A method for estimating depreciation and substituting the Edmunds resale values would increase the depreciation per mile factor by 34 percent. It may also be that the HR&A report used average values for what a buyer would pay for a used car rather than the price a driver would receive when selling or trading in the used vehicle.
+Additionally, the online appraisal services likely treat accumulated mileage as mostly highway miles rather than almost entirely city street miles that would be the case for a New York City for-hire vehicle driver. The actual wear and tear on a vehicle from city miles is significantly greater than from highway miles.26 So the resale values estimated by the online appraisal services likely overstate the actual value of a vehicle that has been intensively used for five years for for-hire vehicle services in New York City.
+Moreover, the composite 11.0 cents per mile average depreciation cost for commonly used vehicles that the HR&A Uber report uses is far less than the national average of 33 cents per mile depreciation component of the $0.70 IRS per mile allowance for 2025 for personal vehicles used for business purposes.27 The 33 cents per mile IRS depreciation factor is actually greater than the 31.2 cents per mile blended ICE-EV vehicle ownership cost that we estimated.28
+An additional factor worth noting is that our report relies on actual vehicle payment amounts reported by drivers in the survey. This includes some drivers who own or rent luxury vehicles in order to qualify for higher earnings from providing premium-priced services, like Uber Black or Lyft Black. When an Uber or Lyft driver with a luxury vehicle provides non-premium standard FHV service, they typically are under-compensated by the companies for the use of their luxury vehicle. Utilizing actual driver vehicle payments in the expense calculation partly captures some of the higher costs for luxury vehicles. One exception is that fuel and battery charging costs are based on the most common non-luxury vehicles. The companies encourage drivers to use luxury vehicles so the companies can offer the premium-priced services where fares typically average 40-60 percent higher than standard fares. The HR&A report does not acknowledge or reflect the use of, or higher costs associated with luxury vehicles.
+
+26. See, e.g., https://goodcar.com/car-ownership/city-miles-vs-highway-miles. City driving involves frequent stopping and starting, factors that put more stress on a vehicle’s engine and brakes, and city streets have more potholes and uneven surfaces that can affect suspension, tire wear and wheel alignment.
+27. See https://www.irs.gov/newsroom/irs-increases-the-standard-mileage-rate-for-business-use-in-2025-key-rate-increases-3-centsto-70-cents-per-mile, and IRS Note 2025-5, https://www.irs.gov/pub/irs-drop/n-25-05.pdf 28. See Appendix Exhibit 3.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 27
+ Insurance costs
+The median annual commercial insurance premium for ICE vehicle drivers was $4,548 based on survey responses. As insurance rates have risen for FHV drivers in recent years, many drivers have increased their deductible amounts. Generally, auto insurance costs have risen significantly around the country and in New York City over the past two years. There is the additional risk of insurance cost hikes for Uber and Lyft drivers resulting from the fallout related to the reported insolvency of American Transit
+Insurance Co., New York City’s largest taxi and FHV insurer.29
+The median $4,548 insurance cost for ICE vehicle owners translates into a per mile amount of $0.14. The per mile amount is slightly higher ($0.146) for EV owners due to higher vehicle costs. Combining all owned vehicles yields a blended $0.141 per mile, an amount very close to the $0.136 estimated insurance cost in the HR&A Uber report.30
+ Maintenance costs
+Median annual maintenance costs for ICE owners were estimated by drivers responding to the survey at $4,500. These costs reflect the high average annual mileage of New
+York City Uber and Lyft drivers and the high costs of maintenance services at local dealers and vehicle repair shops. Median maintenance costs for EV owners were $4,000 (discussed further below). The blended per mile maintenance cost for owners of ICE and electric vehicles was $0.137. Using a method based on AAA data for personal-use vehicles, HR&A estimated maintenance costs for the most common vehicles at $0.101 per mile. The differences are likely due to the fact that commercial passenger service use and mostly city mileage driving increase the need for maintenance, repairs, and such things as tire replacement, and the fact that our method relied on maintenance costs reported by New York City Uber and Lyft drivers.
+ Electric vehicle owners’ expenses
+According to the driver survey, the median cost for a new EV was $60,000, and was about $40,000 for those purchased used. Since most EVs have been purchased new, the median cost overall of an EV was also $60,000.
+Partly because average EV purchase prices have been higher than for ICE vehicles, and because the EV fleet tends to be newer (2023 was the median purchase year for EVs vs.
+2020 for ICE vehicles), the median monthly EV payment is $950, considerably higher than the $735 median for ICE vehicles. The median EV down payment was the same as for ICE vehicles: $5,000. However, the median EV loan duration is 72 months rather than 60 for ICE vehicles. This makes the amortized monthly value of the median EV down payment $69.
+Since an EV has substantially fewer moving parts than an internal combustion engine 29. See https://www.nytimes.com/2024/09/16/nyregion/american-transit-insurance-uber-lyft-nyc.html; https://www.bloomberg.com/ news/articles/2024-09-05/nyc-regulator-slams-taxi-insurer-for-decades-of-mismanagement; and https://www.bloomberg.com/news/ articles/2024-09-03/nyc-risks-taxi-uber-meltdown-as-biggest-insurer-faces-huge-losses.
+30. See Appendix Exhibit 3.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 28 car, maintenance costs generally are considerably lower. EVs have fewer fluids, such as engine oil, there is less brake wear, and the battery, motor, and associated electronics in EVs require little to no regular maintenance.31 Responses from the driver survey indicated that median annual maintenance costs for EV owners were $4,000, or 11 percent less than the $4,500 reported by ICE vehicle owners. Part of this difference results from the fact that ICE vehicles in the HV fleet are older than EVs.
+Median annual insurance costs for EV owners was reported at $4,750, slightly higher than the $4,548 cost for ICE vehicle owners (likely due to the higher median EV purchase cost).
+ ICE and electric vehicle renters’ expenses
+As noted in Section 4 above, we estimate that 30 percent of HV drivers rent their vehicles. The cost of renting a vehicle that is driven as much as most HV vehicles is considerably more than the cost of owning. In part, this reflects the need for the renter to pay a combined 20.875 percent sales tax and a “registration rent,” and in part from the fact that business and individual owners renting out vehicles seek to make a profit, adding a cost on top of depreciation costs.
+Despite the fact that there is a sizable 87,000-vehicle HV fleet, there are no economies of scale for vehicle costs in the HV-FHV business in New York City. In other vehicleintensive businesses, such as car rental companies or a company such as UPS that owns the vehicles its drivers use, there are significant economies of scale. However, because the rideshare business model requires drivers to individually procure the vehicle they use, there are few economies of scale. This near-absence of vehicle fleet economies of scale is compounded by the fact that 30 percent of drivers have to also pay a “registration rent” and New York’s double-digit sales tax on rented vehicles. There are some economies of scale regarding WAVs. WAV leasing companies obtain vehicles from converters who can modify a van for wheelchair accessibility at lower cost than can.
+The median weekly rent paid by an ICE vehicle driver was $525 and $550 for an EV renter. As discussed in Section 4 on leasing, in some cases the weekly rental payment is not all-inclusive. While insurance is typically included in the weekly vehicle rent, we estimate that 20 percent of renters need to separately pay for maintenance. From the driver survey, ICE vehicle renters paid a median of $3,500 annually for maintenance, and EV renters paid a median annual amount of $3,000 for maintenance.
+All of the annual amounts for vehicle payments (including amortized down payments), insurance, and maintenance costs for our four categories of drivers are shown in Exhibit 12. Fuel costs and EV charging costs are also itemized.
+Blending costs for ICE and electric vehicles, the per mile owner’s cost estimated by the
+HR&A Uber report was 35 percent less than our estimate, and their per mile renter’s 31. U.S. Department of Energy, Alternative Fuels Data Center, “Maintenance and Safety of Electric Vehicles,” https://afdc.energy.
+gov/vehicles/electric-maintenance.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 29 costs was 15 percent less.32 The main factor driving the difference for renters was the weekly rental payment. HR&A compiled rent offers from six major corporate rental companies and weighted them by their set of common vehicles. The weighted average weekly rent was $430 for their study period from April 2023 to April 2024. Our driver survey yielded an average weekly rent of $528 (weighted by ICE and EV shares). Part of this difference could be from higher insurance and rental costs at the time the survey was fielded compared to the HR&A study period, and part could be from the heavier weight of EVs in our analysis (EVs have higher median weekly rents vs. ICE vehicles).
+In our composite estimate, we give EVs a weight of 12.5 percent compared to the 3.7 percent weight in the HR&A Uber report. Our driver survey included drivers who rented from individual vehicle owners rather than the major corporate rental companies;
+median and average weekly rents were slightly less for the former than for the latter.
+ Vehicle cleaning costs
+Since the companies strongly encourage passengers to rate drivers, and these ratings are based in part on the cleanliness of their vehicles, it is estimated that drivers spend an average of $36 per deluxe cleaning every other week for an annual total of $936.
+Amortized over 32,500 miles, that equals $0.029 per mile.
+ TLC and DMV licensing, training, and vehicle registration costs
+Various administrative, training, and vehicle registration costs specific to driving for
+TLC-regulated services in New York should also be included in expenses borne by the driver. See Appendix Exhibit 2 for an itemization of these licensing and registrationrelated costs that result in a per mile factor of $0.043 for owners. Since renters do not separately pay the vehicle registration related costs, $0.008 per mile for licensing fees was included in the total per mile costs for renters.
+Expense results and an overall composite expense factor
+Exhibit 13 itemizes the expenses discussed above for each of the four vehicle type/ ownership status categories. The total annual expenses for an ICE vehicle owner are
+$25,405; amortized over 32,500 annual miles that equals a per mile factor of $0.782.
+Total annual electric vehicle owner expenses are $29,697 equating to a per mile factor of $0.914, 13.2 cents (or nearly 17 percent) per mile above the per mile factor for ICE vehicles.
+Informed by median rent costs reported in the survey, the ICE vehicle renters’ annual expenses were estimated at $33,406, or $1.028 per mile. The EV renters’ annual expenses were estimated at $36,825, or $1.133 per mile. The ICE vehicle per mile factor for renters is 31 percent greater than for owners, and the EV per mile factor for renters is 24 percent greater than owners’ costs. On a combined ICE and EV basis, renters’ costs are 30.4 percent greater than owners’ costs.
+32. We show blended ICE-EV cost comparisons in Appendix Exhibit 3.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 30
+Exhibit 13
+Exhib. 13 part 1
+median year
+purchased: 2020
+expense item monthly annual per mile expense item weekly annual per mile
+Gas (weighted mpg) 24.9 $4,216 $0.130 Gas (weighted 24.9 mpg) $4,216 $0.130 avg NYC gas price 6 mos. to 11/18/24 $3.230 avg NYC gas price 6 mos. to 11/18/24
+Down payment
+(amortized over 5 yrs) $5,000 $83 $1,000 Weekly rent/lease cost $525 $27,300 $0.840
+Monthly payment $735 $8,823
+Total vehicle
+payment $9,823 $0.302
+Insurance $4,548 $0.140 Insurance: (included in rental amt) $0 $0.000
+Maintenance $4,500 $0.138 Maintenance: allow 20% pay $3500 $700 $0.022
+Vehicle cleaning ($36
+every two weeks) $936 $0.029 Vehicle cleaning $936 $0.029
+TLC and DMV
+licensing and
+registration fees #
+$1,382 $0.043 Licensing costs only # $254 $0.008
+TOTAL $25,405 $0.782 TOTAL $33,406 $1.028
+ICE vehicle, owned ICE vehicle, rented
+Source: CNYCA - TLS Driver survey, June-July, 2024
+Exhib. 13 part 2
+median year purchased: 2023 expense item monthly annual per mile expense item weekly annual per mile
+EV charging cost * $3,315 $0.102 EV charging cost * $3,315 $0.102
+Driver time for charging * $3,120 $0.096
+Driver time
+for charging
+*
+$3,120 $0.096
+Down payment (amortized
+over 6 yrs) $5,000 $69 $833
+Weekly
+rent/lease
+cost
+$550 $28,600 $0.880
+Monthly payment $950 $11,400
+Total vehicle payment $12,233 $0.376
+Insurance $4,750 $0.146
+Insurance:
+(included in
+rental amt)
+$0 $0.000
+Maintenance $4,000 $0.123
+Maintenance:
+allow 20%
+pay $3000
+$600 $0.018
+Vehicle cleaning $936 $0.029 Vehicle cleaning $936 $0.029
+TLC and DMV licensing and
+registration fees # $1,343 $0.041 Licensing costs only # $254 $0.008
+TOTAL $29,697 $0.914 TOTAL $36,825 $1.133
+Electric Vehicles, owned EVs, rented
+* See Exhibit 12
+# See Appendix Exhibit 4 for itemized details
+Source: CNYCA - TLS Driver survey, June - July 2024
+Composite 2024 HV - FHV expense model (non - WAVs)
+87.5% ICE vehicles , 12.5% electric vehicles ; 70% owned, 30% leased median year purchased:
+2020
+expense
+item
+per
+mile expense item weekly annual per mile
+Gas
+(weighted
+mpg)
+24.9 $0.130
+Gas
+(weighted
+24.9 mpg)
+$4,216 $0.130
+avg NYC
+gas price 6
+mos. to
+11/18/24
+$3.230
+avg NYC gas
+price 6 mos.
+to 11/18/24
+Down
+payment
+(amortized
+over 5 yrs)
+$5,000
+Weekly
+rent/lease
+cost
+$525 $27,300 $0.840
+Monthly
+payment
+Total vehicle
+payment $0.302
+Insurance $0.140
+Insurance:
+(included in
+rental amt)
+$0 $0.000
+Maintenance $0.138
+Maintenance:
+allow 20%
+pay $3500
+$700 $0.022
+Vehicle
+cleaning
+($36 every
+two weeks)
+$0.029 Vehicle
+cleaning $936 $0.029
+TLC and
+DMV
+licensing
+and
+registration
+fees #
+$0.043 Licensing
+costs only # $254 $0.008
+TOTAL $0.782 TOTAL $33,406 $1.028
+ICE vehicle,
+owned
+ICE vehicle,
+rented
+Source: CNYCA - TLS Driver Survey, June-July, 2024.
+Composite 2024 HV - FHV expense model (non - WAVs)
+87.5% ICE vehicles , 12.5% electric vehicles ; 70% owned, 30% leased median year purchased:
+2020
+expense
+item
+per
+mile expense item weekly annual per mile
+Gas
+(weighted
+mpg)
+24.9 $0.130
+Gas
+(weighted
+24.9 mpg)
+$4,216 $0.130
+avg NYC
+gas price 6
+mos. to
+11/18/24
+$3.230
+avg NYC gas
+price 6 mos.
+to 11/18/24
+Down
+payment
+(amortized
+over 5 yrs)
+$5,000
+Weekly
+rent/lease
+cost
+$525 $27,300 $0.840
+Monthly
+payment
+Total vehicle
+payment $0.302
+Insurance $0.140
+Insurance:
+(included in
+rental amt)
+$0 $0.000
+Maintenance $0.138
+Maintenance:
+allow 20%
+pay $3500
+$700 $0.022
+Vehicle
+cleaning
+($36 every
+two weeks)
+$0.029 Vehicle
+cleaning $936 $0.029
+TLC and
+DMV
+licensing
+and
+registration
+fees #
+$0.043 Licensing
+costs only # $254 $0.008
+TOTAL $0.782 TOTAL $33,406 $1.028
+ICE vehicle,
+owned
+ICE vehicle,
+rented
+Source: CNYCA - TLS Driver Survey, June-July, 2024.
+Composite 2024 HV - FHV expense model (non - WAVs)
+87.5% ICE vehicles , 12.5% electric vehicles ; 70% owned, 30% leased median year purchased:
+2020
+expense
+item
+per
+mile expense item weekly annual per mile
+Gas
+(weighted
+mpg)
+24.9 $0.130
+Gas
+(weighted
+24.9 mpg)
+$4,216 $0.130
+avg NYC
+gas price 6
+mos. to
+11/18/24
+$3.230
+avg NYC gas
+price 6 mos.
+to 11/18/24
+Down
+payment
+(amortized
+over 5 yrs)
+$5,000
+Weekly
+rent/lease
+cost
+$525 $27,300 $0.840
+Monthly
+payment
+Total vehicle
+payment $0.302
+Insurance $0.140
+Insurance:
+(included in
+rental amt)
+$0 $0.000
+Maintenance $0.138
+Maintenance:
+allow 20%
+pay $3500
+$700 $0.022
+Vehicle
+cleaning
+($36 every
+two weeks)
+$0.029 Vehicle
+cleaning $936 $0.029
+TLC and
+DMV
+licensing
+and
+registration
+fees #
+$0.043 Licensing
+costs only # $254 $0.008
+TOTAL $0.782 TOTAL $33,406 $1.028
+ICE vehicle,
+owned
+ICE vehicle,
+rented
+Source: CNYCA - TLS Driver Survey, June-July, 2024.
+Exhib. 13 part 2
+median year
+purchased: 2023
+expense item monthly annual per mile expense item weekly annual per mile
+EV charging cost * $3,315 $0.102 EV charging cost * $3,315 $0.102
+Driver time for
+charging * $3,120 $0.096 Driver time for charging * $3,120 $0.096
+Down payment
+(amortized over 6 yrs) $5,000 $69 $833 Weekly rent/lease cost $550 $28,600 $0.880
+Monthly payment $950 $11,400
+Total vehicle
+payment $12,233 $0.376
+Insurance $4,750 $0.146 Insurance: (included in rental amt) $0 $0.000
+Maintenance $4,000 $0.123 Maintenance: allow 20% pay $3000 $600 $0.018
+Vehicle cleaning $936 $0.029 Vehicle cleaning $936 $0.029
+TLC and DMV
+licensing and
+registration fees #
+$1,343 $0.041 Licensing costs only # $254 $0.008
+TOTAL $29,697 $0.914 TOTAL $36,825 $1.133
+Electric Vehicles, owned EVs, rented
+* See Exhibit 12 #
+See Appendix Exhibit 4 for itemized details
+Source: CNYCA - TLS Driver survey, June - July 2024
+Four 2024 HV-FHW expense models, by fuel type and owned or rented status
+Based on 32,500 miles
+median year purchased: 2020 expense item per mile expense item weekly annual per mile
+Gas (weighted mpg) 24.9 $0.130 Gas (weighted 24.9 mpg) $4,216 $0.130 avg NYC gas price 6 mos. to 11/18/24 $3.230 avg NYC gas price 6 mos. to 11/18/24
+Down payment (amortized over 5 yrs) $5,000 Weekly rent/lease cost $525 $27,300 $0.840
+Monthly payment
+Total vehicle payment $0.302
+Insurance $0.140 Insurance: (included in rental amt) $0 $0.000
+Maintenance $0.138 Maintenance: allow 20% pay $3500 $700 $0.022
+Vehicle cleaning ($36 every two weeks) $0.029 Vehicle cleaning $936 $0.029
+TLC and DMV licensing and
+registration fees # $0.043 Licensing costs only
+# $254 $0.008
+TOTAL $0.782 TOTAL $33,406 $1.028
+ICE vehicle, owned ICE vehicle, rented
+Source: CNYCA - TLS Driver Survey, June-July, 2024.
+Exhib. 13 part 2
+median year purchased: 2023 expense item monthly annual per mile expense item weekly annual per mile
+EV charging cost * $3,315 $0.102 EV charging cost * $3,315 $0.102
+Driver time for charging * $3,120 $0.096
+Driver time
+for charging
+*
+$3,120 $0.096
+Down payment (amortized
+over 6 yrs) $5,000 $69 $833
+Weekly
+rent/lease
+cost
+$550 $28,600 $0.880
+Monthly payment $950 $11,400
+Total vehicle payment $12,233 $0.376
+Insurance $4,750 $0.146
+Insurance:
+(included in
+rental amt)
+$0 $0.000
+Maintenance $4,000 $0.123
+Maintenance:
+allow 20%
+pay $3000
+$600 $0.018
+Vehicle cleaning $936 $0.029 Vehicle cleaning $936 $0.029
+TLC and DMV licensing and
+registration fees # $1,343 $0.041 Licensing costs only # $254 $0.008
+TOTAL $29,697 $0.914 TOTAL $36,825 $1.133
+Electric Vehicles, owned EVs, rented
+* See Exhibit 12
+# See Appendix Exhibit 4 for itemized details
+Source: CNYCA - TLS Driver survey, June - July 2024
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 31
+Exhibit 14 brings together the expenses for the four categories of drivers into a single, composite per mile expense factor. The composite factor uses the weights indicated in the middle column (e.g., 0.6125 for ICE owned vehicles) that are based on a 12.5 percent EV share and a 70 percent-30 percent breakdown for owners compared to renters. The composite per mile expense factor is $0.871. This value is 10.4 percent greater than the current expense factor that was effective March 1, 2024.
+Exhibit 14
+Composite 2024 HV - FHV expense model (non - WAVs)
+87.5% ICE vehicles, 12.5% electric vehicles; 70% owned, 30% leased
+ICE vehicle, owned $0.782 0.6125 $0.479
+Electric Vehicle, owned $0.914 0.0875 $0.080
+ICE vehicle, rented $1.028 0.2625 $0.270
+EV , rented $1.133 0.0375 $0.042
+Composite Expense Factor $0.871
+Current Expense Factor $0.789
+Increase over current 10.40%
+Per Mile Expense Factor Weights Weighted Expense Factor
+Source: Exhibit 13
+Composite 2024 HV - FHV expense model (non - WAVs)
+87.5% ICE vehicles, 12.5% electric vehicles; 70% owned, 30% leased
+ICE vehicle, owned $0.782 0.6125 $0.479
+Electric Vehicle, owned $0.914 0.0875 $0.080
+ICE vehicle, rented $1.028 0.2625 $0.270
+EV , rented $1.133 0.0375 $0.042
+Composite Expense Factor $0.871
+Current Expense Factor $0.789
+Increase over current 10.40%
+Per Mile Expense Factor Weights Weighted Expense Factor
+Source: Exhibit 13
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 32
+Eight percent of all HV-FHV trips in 2023 were trips in wheelchair-accessible vehicles.
+Section 59C-04 of the TLC Rules details specifications for Accessible For-Hire Vehicles, and the TLC has an approved list of ADA compliant vehicle models that specifies the secondary manufacturer responsible for the conversion to an accessible vehicle.33 Most of the TLC-approved WAVs have a rear-entry wheelchair ramp.
+Since Toyota Sienna minivans account for three-quarters or more of all WAV trips, we will gear our cost estimates to rear-entry wheelchair ramp-equipped Siennas. Since 2021, Toyota has only manufactured hybrid Siennas. Since there were no electric WAVs in the HV vehicle registry, our estimates are based on an average 35 mph for a latemodel hybrid Sienna. This is a substantial increase in fuel efficiency since the 2018 expense model, when the typical vehicle model was a Chrysler Caravan with a 17-mpg rating.
+We supplemented data on payment, maintenance, and insurance costs from the driver survey with online pricing data for WAV-equipped Toyota Siennas. Most wheelchair minivan conversions cost approximately $25,000-$30,000. Costs were amortized over 32,500 annual miles. This was the median value from the survey and is greater than the 30,000 annual miles used for the 2018 expense model.
+Exhibit 15 itemizes the cost items for owned and rented WAVs. The composite WAV per mile factor, also shown in Exhibit 15, blends cost estimates for owned and rented
+WAVs based on 30 percent of WAVs being rented.34 Drawing from the survey and online prices for slightly used WAVs, the estimated monthly payment for a WAV is
+$1,212.35 Financing was based on a $15,000 down payment and a five-year loan.
+After five years of driving 32,500 miles per year providing HV-FHV services will total 162,500 miles, after which the vehicle is likely to have inconsequential resale value.
+(This is particularly true for WAVs purchased used in the first place.) Exhibit 15 uses the average survey values for WAV drivers for annal insurance and maintenance costs.
+Because of their larger size and with their additional wheelchair ramp equipment, WAV cleaning costs were estimated to be 25 percent higher than for non-WAV vehicles. As noted above, the greater fuel efficiency of the hybrid Sienna means that the per mile fuel costs were 9.7 cents, four cents per mile less than for the gas/hybrid sedans/SUVs used for non-WAV Uber and Lyft trips.
+33. https://www.nyc.gov/site/tlc/vehicles/accessible-vehicle-requirements.page 34. The survey indicated that 32 percent of WAV responses were from renters, 29 percent of WAVs in the vehicle registry were owned under a corporate or business name and those vehicles provided 32.8 percent of all WAV trips during the six-month period through January 2024.
+35. The $1,212 monthly payment (from Bankrate’s loan calculator for a 5-year loan) based on a $70,000 purchase price with NYC sales tax and a $15,000 down payment (loan amount of $61,213). The average Freedom Motors listed sale price for 10 used Sienna LE models with average mileage of 23,600 was $70,716. Of the 10 Siennas, two were 2020 models, five were 2023 models, and two were 2024 models. The monthly loan payment for a 6-year loan was $1,044, very close to the median monthly payment from the survey for those purchasing new WAVs.
+WAV EXPENSE MODEL4.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 33
+Exhibit 15
+The average and median weekly rent costs for WAVs was $600. We assumed that 20 percent of the rental agreements did not cover maintenance costs, and we used a median value of $3,500 for those drivers.36
+The per mile total costs for WAV owners was $1.037, and for WAV renters, $1.118.37
+Weighting by the 70-30 split between owners and renters, respectively, resulted in a 36. In the survey, three-fourths of WAV renters reported an annual maintenance value that averaged $4,900. Due to a limited sample (the N for WAV renters was 50), in order to not over-state the extent of renters who had to pay for their own maintenance, we scaled back the proportion of renters and used the lower median maintenance value.
+37. It is interesting to note that the renter vs. owner cost differential is less (eight percent) for WAVs than for non-WAV ICE vehicles (31 percent).
+Exhib. 15 Part 1
+assume 32,500 annual
+miles
+assume 32,500
+annual miles
+expense item monthly annual per mile expense item annual per mile
+Gas (weighted mpg) 35 $2,999 $0.092 Gas (weighted mpg) 35 $2,999 $0.092 avg NYC gas price 6 mos. to 11/18/24 $3.230 avg NYC gas price 6 mos. to 11/18/24
+$3.230
+Down payment
+(amortized over 5 yrs) $15,000 $250 $3,000 Weekly lease $600 $31,200 $0.960
+Monthly payment $1,212 $14,544
+Total vehicle payment $17,544 $0.540
+Maintenance:
+allow 20% at
+$3500
+$700 $0.022
+Insurance $5,200 $0.160
+Maintenance $5,400 $0.166
+Vehicle cleaning ($36
+every two weeks) +25% $1,170 $0.036
+Vehicle cleaning
+($36 every two
+weeks) +25%
+$1,170 $0.036
+TLC and DMV licensing
+and registration fees # $1,382 $0.043 Licensing costs only # $254 $0.008
+TOTAL $33,696 $1.037 TOTAL $36,323 $1.118
+Sienna Hybrid Rear -entry
+WAV, owned
+Sienna Hybrid Rear
+-entry WAV, leased
+Exhib. 15 Part 2
+Per Mile Expense
+Factor Weights Weighted expense factor
+Hybrid WAV, owned $1.037 0.700 $0.726
+Hybrid WAV, rented $1.118 0.300 $0.335
+Composite total expense factor $1.061 current expense factor $1.021 increase over current 3.9%
+Composite WAV expense factor
+WAV Expense Model
+Based on 32,500 annual miles assume 32,500 annual miles assume 32,500 annual miles expense item monthly annual per mile expense item annual per mile
+Gas
+(weighted
+mpg)
+35 $2,999 $0.092
+Gas
+(weighted
+mpg)
+35 $2,999 $0.092
+avg NYC gas
+price 6 mos.
+to 11/18/24
+$3.230
+avg NYC gas
+price 6 mos.
+to 11/18/24
+$3.230
+Down
+payment
+(amortized
+over 5 yrs)
+$15,000 $250 $3,000 Weekly lease $600 $31,200 $0.960
+Monthly
+payment $1,212 $14,544
+Total vehicle
+payment $17,544 $0.540
+Maintenance:
+allow 20% at
+$3500
+$700 $0.022
+Insurance $5,200 $0.160
+Maintenance $5,400 $0.166
+Vehicle
+cleaning ($36
+every two
+weeks) +25%
+$1,170 $0.036
+Vehicle
+cleaning ($36
+every two
+weeks) +25%
+$1,170 $0.036
+TLC and
+DMV
+licensing and
+registration
+fees #
+$1,382 $0.043 Licensing
+costs only # $254 $0.008
+TOTAL $33,696 $1.037 TOTAL $36,323 $1.118
+Sienna Hybrid
+Rear -entry
+WAV, owned
+Sienna Hybrid
+Rear -entry
+WAV, leased
+WAV Expense Model
+Based on 32,500 annual miles assume 32,500 annual miles assume 32,500 annual miles expense item monthly annual per mile expense item annual per mile
+Gas
+(weighted
+mpg)
+35 $2,999 $0.092
+Gas
+(weighted
+mpg)
+35 $2,999 $0.092
+avg NYC gas
+price 6 mos.
+to 11/18/24
+$3.230
+avg NYC gas
+price 6 mos.
+to 11/18/24
+$3.230
+Down
+payment
+(amortized
+over 5 yrs)
+$15,000 $250 $3,000 Weekly lease $600 $31,200 $0.960
+Monthly
+payment $1,212 $14,544
+Total vehicle
+payment $17,544 $0.540
+Maintenance:
+allow 20% at
+$3500
+$700 $0.022
+Insurance $5,200 $0.160
+Maintenance $5,400 $0.166
+Vehicle
+cleaning ($36
+every two
+weeks) +25%
+$1,170 $0.036
+Vehicle
+cleaning ($36
+every two
+weeks) +25%
+$1,170 $0.036
+TLC and
+DMV
+licensing and
+registration
+fees #
+$1,382 $0.043 Licensing
+costs only # $254 $0.008
+TOTAL $33,696 $1.037 TOTAL $36,323 $1.118
+Sienna Hybrid
+Rear -entry
+WAV, owned
+Sienna Hybrid
+Rear -entry
+WAV, leased
+# See Appendix Exhibit 1 for itemized details
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 34 composite WAV per mile factor of $1.061. That amount is 3.9 percent greater than the current $1.021 WAV per mile factor. Expressed in terms of a per trip mile basis, the new
+WAV composite expense total is $1.83 (vs. the current $1.76 per trip mile amount.)
+The differential between updated and current per mile factors for WAVs is much less than for non-WAVs. This is largely due to the much greater fuel efficiency for hybrid
+WAVs that are much more widely used today, and, to a slightly lesser extent, the change from amortizing based on 32,500 annual miles compared to 30,000 annual miles previously.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 35
+CONCLUSION8.
+Since New York City’s High Volume For-Hire Vehicle (HV-FHV) drivers are responsible for acquiring, operating, and maintaining their vehicles, they should be fairly compensated for their vehicle expenses through the per mile trip distance component of the Taxi and
+Limousine Commission’s minimum driver pay standard. The HV-FHV fleet has evolved considerably since the inception of the pay standard in 2019. There are many more
+SUVs and electric vehicles, and the TLC is phasing in a requirement for all HV-FHVs to be either electric or wheelchair-accessible vehicles (WAVs) by 2030. In light of these developments, the TLC commissioned this report to develop an updated method to quantify vehicle expenses and suggest appropriate modifications to the pay standard’s per mile trip distance component.
+This report recommends a composite per mile cost factor reflective of vehicle cost structures along two dimensions: owned vs. rented, and internal combustion engine (ICE) vs. electric (EV) vehicles. Cost structures reflecting acquisition (or rental) costs, insurance, maintenance, and fuel or battery charging costs were compiled for each of the four vehicle categories and weighted in deriving the composite measure to reflect each category’s share of high-volume trips. The trip weights for the composite per mile cost factor are: owned ICE vehicles (.6125); rented ICEs (.2625); owned EVs (.0875); and rented EVs (.0375). Since most WAVs in current use are hybrids (and there are no allelectric WAVs), the WAV-specific composite per mile factor is based on 70 percent of
+WAVs being owned and 30 percent rented.
+The expense factor is geared to full-time drivers who provide the bulk of all HV trips and who purchased or rented a vehicle for the purpose of driving for hire, as 93 percent reported in our driver survey. The average full-time driver logs 32,500 miles annually and owner-drivers typically finance the purchase of their vehicles over five years. A vehicle driven intensively providing for-hire vehicle passenger services for five years on the streets of New York City would likely be fully depreciated after five years with minimal residual value.
+For the 30 percent of vehicles that are rented, it costs 25-30 percent more to rent a vehicle than to own one for use in providing HV-FHV services. This differential largely stems from the 20.875 percent sales tax on short-term vehicle rentals, higher insurance costs, and a “registration rent” that is a function of the costs and administrative burden of getting a vehicle licensed by TLC, and of the agency’s limitation on the issuance of new vehicle licenses.
+The composite $0.871 per mile factor for non-WAV trips that this report derives is 10.4 percent higher than the existing $0.789 per mile factor in effect since March 1, 2024.
+Under the existing pay standard regulation, even without a change in the underlying methodology, the expense factor would rise on March 1, 2025, by the annual average change in the New York metro CPI-W for 2024. It averaged 3.9 percent.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 36
+When combined with the per minute factor in determining the overall minimum pay standard, the proposed $0.871 per mile factor would raise average driver trip pay by 2.3 percent compared to simply adjusting both the per minute and the per mile factors on March 1, 2025, by the CPI change.
+The revised expense model developed in this report has been designed so that any future updates can be done by TLC staff based on changes in such parameters as the proportions of EV and rented vehicles, or industry-wide changes in insurance and fuel/ charging costs.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 37
+APPENDIX
+Appendix Exhibit 1
+2019 Wheelchair-Accessible Vehicle (WAV) Expense Model 2018 Chrysler Grand Caravan, 17 mpg, 30,000 miles per year
+One-Time--all amortized
+over 5 years
+Vehicle downpayment--$3,000 $600 0.020
+TLC 24-hour course--one time $175 $35 0.001
+TLC 24-hour course exam--one time $50 $10 0.000
+DMV E class license--one time $113 $23 0.001
+TLC fingerprinting--one time $88.50 $18 0.001
+WAV sensitivity training--one time $60 $12 0.000
+SubT otal $697 0.023
+Recurring
+TLC driver license--$252 every 3 years $84 0.003
+TLC drug test $26 0.001
+Vehicle registration $275 0.009
+TLC and DMV vehicle inspection $130 0.004
+DMV defensive driving course--$50 every 3 years $17 0.001
+DMV new plates $5 0.000
+DMV vehicle license and plate renewal $400 0.013
+DMV vehicle use tax $40 0.001
+DMV commercial motor vehicle tax $400 0.013
+SubT otal $1,377 0.046
+Operating
+Gas $5,121 0.171
+Vehicle payment (includes $11,000 modification costs) $9,334 0.311
+Commercial insurance $4,790 0.160
+Vehicle maintenance $2,270 0.076
+Vehicle cleaning $936 0.031
+SubT otal $22,452 0.748
+TOTAL $24,526 0.818
+Expense Category Specific Expenditure Item Annual Per Mile
+Source: Parrott, Reich, Rochford, and Yang "The New York City App-Based Driver Pay Standard: Revised Estimates for the New Pay Requirement ,"
+Prepared for the NYC TLC, CNYCA , Jan. 2019.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 38
+Appendix Exhibit 2, page 1
+NYC EV charging costs= electricity costs + drivers'time 1
+EV charging need
+and average miles
+per charge
+Model 3 Model Y
+1.1 Useable battery
+capacity kWh 57.5 57.5
+1.2
+Assume average
+80% battery usage
+per charge
+kWh 46 46
+1.3 U.S. EPA kWh/mile
+rating kWh/mile 0.25 0.28
+1.4 Miles per average
+charge miles 184 164
+1.5 EV Database "real
+range" miles 239 208
+2
+NYC EV
+electricity
+charging costs
+survey
+weight units weighted
+cost/kWh
+weighted
+cost/kWh
+2.1 Residential rates
+for home charging 0.25 cost/kWh $0.084 $0.021 $0.299 $0.075 2.2 Public Level 2 charging 0.10 cost/kWh $0.136 $0.013 $0.340 $0.033 2.3
+Public (or private)
+DCFC (fast
+charger)
+0.65 cost/kWh $0.347 $0.226 $0.590 $0.385 2.4
+Weighted NYC EV
+electricity charging
+costs
+1.00 cost/kWh $0.261 $0.493 3
+Weighted EV
+electricty
+charging costs
+per mile
+electricty
+cost/mile $0.065 $0.138 $0.102 4
+Driver allowance
+for waiting time
+for charger access
+and charging
+units
+4.1 Total monthly
+miles traveled miles 2,167 3,250 4.2
+Number of charging
+events needed per
+month
+number 11.8 19.8
+4.3
+Weighted time
+waiting for charger
+per charging event
+hours 0.21 0.60
+4.4
+Weighted
+charging time per
+charging event
+hours 0.28 0.67
+4.5 Hourly rate for
+driver time $/hour $18.40 $18.40 4.6
+Allowance for
+driver time for
+waiting and
+charging time
+per mile $0.049 $0.142 $0.096 units low parameter ests.
+high
+parameter
+ests.
+mid-pt.
+est.
+Source: see Appendix Exhibit 2 for data sources and assumptions.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 39
+Appendix Exhibit 2, page 2
+Sources and assumptions in estimating NYC electric vehicle costs 1.0 EV charging need and average miles per charge
+Tesla Models Y, Tesla
+Model 3, Toyota bZ4X, Kia
+Niro
+Examined data for the four most comon EVs in NYC HV-FHV fleet ( TLC, July 2024, Table 2, Electrification in
+Motion, p. 15) and used Tesla Model 3 for the low parameter estimate and Tesla Model Y for the high parameter estimate.
+1.1 Useable battery capacity 57.5 kWh for both Telsa models according to EV Database, an independent non-profit seeking to provide realworld operating data on EVs. ev-database.org 1.2 Assume average 80% battery charge
+Charging speed slows as the battery gets closer to full to prevent damage to the battery. It is more cost- and time-efficient for drivers to charge until the battery reaches 80%. It can take about as long to charge the last 10% of an EV battery as the first 90%. https://www.transportation.gov/rural/ev/toolkit/ev-basics/chargingspeeds 1.3 U.S. EPA kWh/mile rating U.S. Department of Energy, www.fueleconomy.gov 1.4 Miles per average charge Multiply 80% average battery usage by kWh/mile.
+1.5 EV Database "real range" Strictly for comparison to miles per average charge, EV Database organization's estimate of range in miles in
+"real world" conditions.
+2.0 NYC EV electricity charging costs 2.1 Residential rates for home charging
+Con Ed residential rates, using off-peak rates for low parameter and peak rates for high paramenter. This modeling does not factor in any equipment costs.
+2.2 Public Level 2 charging
+NYC curbside Level 2 chargers cost $2.50/hr between 6AM and 9PM and $1 per hour overnight. EV-Database indicates the Level 2 charging time for both Tesla models is 6.25 hours. The low parameter uses the $1 overnight rate, the high parameter uses the $2.50 6AM-9PM rate. Electricity costs are the charging time multiplied by the electric rate divided by the kWh/mile rating.
+2.3 Public (or private) DCFC (fast charger)
+Low parameter is average of JFK ($0.20/kWh), DOT municipal garages ($0.39/kWh) and Revel's lower price point of $0.45/kWh). High parameter is Revel's Manhattan price point of $0.59.
+2.4 Weighted NYC EV electricity charging costs 3.0 Weighted EV electricty charging costs per mile
+Electricity charging costs per mile equal the electricity cost/kWh weighted for the three charging modes multiplied by the EPA kWh/mile rating. The midpoint of the low and high electricity costs/kWh is $0.102.
+ITEM Sources informing assumptions and estimates
+Appendix Exhibit 2 page 3
+4.0 Driver allowance for waiting time for charger access and charging 4.1 Total monthly miles traveled
+On average, HV FHV drivers log 32,500 miles annually, 2,708 monthly. Low estimate is 80 percent of the monthly average, the high estimate is 120 percent of the monthly average.
+4.2
+Number of charging
+events needed per month
+(@ miles per avg. charge)
+This equals the number of total miles traveled divided by miles per average charge.
+4.3
+Weighted time waiting for
+charger per charging
+event
+Q. 4.4 on the driver survey asked how long drivers wait for access to a charging station. We used the midpoint for each response range (e.g., 22.5 minutes for the 15-30 minute range) and derived a weighted total of 35.9 minutes (0.6 hours). Since we expect access waiting time to decline as the city's EV charging infrastructure expands, we used the survey results as the high parameter. A distribution weighted toward shorter ranges was posited to approximate a low parameter weighted value of 12.4 minutes. Expressed in hours these values, wighted by driver shares of charging mode, become 0.21 and 0.60 hours. Drivers are assumed to wait with their vehicles during this waiting time.
+4.4 Weighted charging time per charging event
+For those charging at home a nominal low-high range of 5-10 minutes is assumed to set up charging. Level 2 charging requires 6-7 hours for an 80 percent charge. It is assumed that drivers park their car at a curbside charger and leave their vehicle. We assumed that drivers will spend a low-high range of 20-40 minutes locating a curbside or other public Level 2 charging facility and tending their vehicle during charging. For the 65 percent of drivers use DCFC charging stations, our low estimate was based on the average of EV-Database estimates that Tesla Model Ys require 18 minutes to charge to 80 percent and that Model 3s take 24 minutes.
+For DCFC users, our high estimate was based on the midpoint (52.17 minutes) of survey responses. Drivers likely stay with their vehicles while using a public or private fast-charger. Weighted based on the shares by charging mode, the low range is 0.28 hours and the high range estimate is 0.67 hours (or a range of about 17- 40 minutes). As noted above, this modeling does not include the cost of any charging equipment purchased for home use.
+4.5 Hourly rate for driver time
+A minimal hourly rate for drivers' time would be $17 (the New York City minimum wage effective January 1, 2025) plus $1.40 to cover the employer share of payroll taxes on $17 that an independent contractor driver would pay.
+4.6
+Per mile allowance for
+driver time for waiting and charging time
+This calculation compensates drivers for the sum of their time waiting for a charger and the charging time as described above. Compensation is at $18.40 per hour, with the average waiting times for access and charging multipled by the number of monthly charging events, and the result divided by monthly mile traveled to put it on a per mile basis.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 40
+Appendix Exhibit 3
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Comparison of HR&A and CNYCA Expense Analyses
+Summary items, ICE and electric vehicles, per mile expense owners renters owners renters
+TLCF license $0.005 $0.005 $0.042 $0.008
+Vehicle payment $0.138 $0.312
+Down payment $0.030
+Monthly payment $0.281
+Interest $0.028
+Depreciation $0.110
+Rental cost $0.743 $0.845
+Fuel/battery charging $0.136 $0.136 $0.138 $0.138
+Insurance $0.136 $0.141
+Maintenance $0.101 $0.137 $0.021
+Vehicle cleaning $0.029 $0.029
+Unlimited data plan $0.006 $0.006
+Total costs per mile $0.522 $0.890 $0.798 $1.041
+Composite per mile factor for both owners and renters $0.616 $0.871
+Comparison of different composite expense training HR&A Uber Report CNYCA
+Share of drivers renting a vehicle 25.60% 30.00%
+Share of drivers using an EV 3.70% 12.50%
+Blended costs for ICE and electric vehicles HR&A Uber Report CNYCA
+Source: : HR&A, New York City Uber Driver Earnings and Expenses Study , Final Report, for Uber Technologies, Inc., November 4, 2024 ; see Exhibit 13 and 14 for CNYCA estimates.
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 41
+Appendix Exhibit 4
+TLC and DMV licensing and registration-related expenses
+Annual costs amortized over 32,500 miles
+One-time costs amortized over five years
+TLC 24-hour course $250.00 $50.00
+TLC 24-hour course exam $49.00 $9.80
+DMV E class license $107.50 $21.50
+TLC fingerprinting $90.25 $18.05
+WAV sensitivity training $100.00 $20.00
+DMV new plates $25.00 $5.00
+DMV commercial vehicle registration title certificate $50.00 $10.00
+Recurring costs (annual unless specified differently)
+TLC driver license--$252 every 3 years $252.00 $84.00
+TLC drug test $34.00 $34.00
+Vehicle Registration * $226.60 $226.60
+TLC and DMV vehicle inspection (TLC every 2 years) $112.00 $74.50
+DMV defensive driving course--$50 every 3 years $50.00 $16.67
+DMV commerical vehicle regis. (every 2 years) ** $194.50 $97.25
+TLC vehicle license (every two years) $550.00 $275.00
+DMV vehicle use tax $40.00 $40.00
+DMV commercial motor vehicle tax $400.00 $400.00
+Total TLC and DMV licensing and registration $1,382.37 $0.043 expense item cost annual per mile
+* Weighted average of gas/hybrid ($235.50--85%) and EV ($187.50 (15%). ** Fee for a 4,000-4,500 pound vehicle.
+
+Revised TLC HV-FHV Minimum Pay Standard Expense Model 42
+Revised Expense Model for
+the NYC Taxi and Limousine
+Commission’s High-Volume
+For-Hire Vehicle Minimum
+Pay Standard
+Report for the New York City Taxi and
+Limousine Commission
+James A. Parrott
+December 2024

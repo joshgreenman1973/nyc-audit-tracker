@@ -1,0 +1,75 @@
+{
+  "id": "2025-03-01-cuf-green-economy-opportunity",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "New York City’s Green Economy Opportunity",
+  "plain_title": "How the city could grow green jobs and open them up",
+  "agency": "New York City government",
+  "issued": "2025-03-01",
+  "url": "https://nycfuture.org/research/new-york-citys-green-economy-opportunity",
+  "pdf": "https://nycfuture.org/pdf/CUF_GreenEconomy_Report_10c.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City based think tank, on how much employment the city's green economy has actually produced so far, what is holding it back and how workforce training programs prepare New Yorkers for those jobs. It draws on more than 150 interviews and profiles the training programs that exist.",
+  "background": "The New York City Economic Development Corporation and the Mayor's Office of Talent and Workforce Development have projected that public and private climate spending will sustain 400,000 jobs in the five boroughs by 2040. The report examines how far the city is from that mark and lists 17 obstacles it says are limiting green job growth.",
+  "findings": [
+    {
+      "plain": "Core green jobs, the ones directly tied to cutting emissions and moving off fossil fuels, made up a very small share of the city's job openings in 2023 compared with health care, finance and tech.",
+      "quote": "there were just 2,184 unique jobs postings in the core green economy in New York City"
+    },
+    {
+      "plain": "Demand for green skills is growing faster outside the core green industries than inside them, in fields such as architecture and engineering, finance and higher education.",
+      "quote": "employers posted 22,070 jobs in 2023 seeking candidates with specific green skills, up from 19,566 in 2019—a 12.8 percent increase"
+    },
+    {
+      "plain": "Building electrification, which the report calls the largest source of potential green jobs, has moved slowly, judged by permits filed with the Department of Buildings.",
+      "quote": "less than 1 percent of all housing units statewide have one"
+    },
+    {
+      "plain": "Solar has been the fastest growing piece of the green economy but the report estimates it added only a few hundred jobs, and offshore wind firms in the city employ very few people locally so far.",
+      "quote": "its rapid growth has accounted for only about 750 new jobs over the past decade"
+    },
+    {
+      "plain": "The report says the penalties under Local Law 97, the city's building emissions law, cost building owners less than complying, so some owners expect to pay rather than retrofit.",
+      "quote": "Many building owners say that under current conditions, they are likely to opt for paying the penalty instead of investing in costly retrofits."
+    },
+    {
+      "plain": "Two occupations central to electrification are already short of workers, and nearly a quarter of the current workforce is 55 or older.",
+      "quote": "As of 2023, New York City was home to 25,121 HVAC installers and electricians—and 28,348 jobs in these occupations."
+    },
+    {
+      "plain": "The city's green training programs are small and depend on short-term public and philanthropic money, with many serving under 100 people a year.",
+      "quote": "their total training capacity is only around 7,900 New Yorkers per year"
+    }
+  ],
+  "numbers": [
+    {"value": "400,000 jobs", "label": "Green economy jobs projected in the city by 2040"},
+    {"value": "2,184", "label": "Core green economy job postings in the city in 2023"},
+    {"value": "22,070", "label": "2023 postings asking for specific green skills"},
+    {"value": "2,021", "label": "Heating and cooling install permits filed since 2017"},
+    {"value": "$268 per ton", "label": "Local Law 97 penalty rate for excess carbon dioxide"},
+    {"value": "621 megawatts", "label": "City solar generating capacity reached in 2024"},
+    {"value": "7,900", "label": "People a year the profiled green training programs fit"}
+  ],
+  "recommendations": [
+    "Strengthen and expand efforts to make Local Law 97 succeed, by creating a city Green Building Fund that makes low-interest retrofit loans, expanding the PACE financing program to more lenders and smaller and larger loan sizes, opening existing tax incentives to compliance projects, launching a Green Building Assistance Corps alongside NYC Accelerator and revising the penalty structure so penalties rise if compliance lags and renewable energy credits offset no more than 25 percent of a building's excess emissions.",
+    "Prepare the city's electric grid for an electrified future by speeding transmission and renewable generation projects, enacting the state Renewable Action Through Project Interconnection and Deployment Act, working with Con Edison on grid upgrades, substations and faster service upgrades and offering incentives for grid-interactive buildings.",
+    "Expand challenge-based procurement for climate technology, with the Economic Development Corporation working with the Department of Citywide Administrative Services so that start-ups can pilot products and scale into larger city contracts.",
+    "Speed up electric vehicle adoption by building out charging and micromobility infrastructure, including designating thousands of city-owned sites for chargers, enforcing Local Law 55, creating dedicated micromobility lanes, expanding bike lanes and building secure bike parking that doubles as e-bike charging.",
+    "Expand solar power by replicating the New York City Housing Authority community solar program on other city buildings with a target of 150 megawatts by 2030, targeting state incentives at lower-income communities and large commercial buildings and narrowing the exemptions in Local Laws 92 and 94 on rooftop solar and green roofs.",
+    "Use the city's zero waste goals to spur business growth by launching Reuse NYC, offering below-market land leases at a publicly owned site in each borough for reuse and recycling companies, adding a disposal surcharge on waste and requiring producers of packaging to file reduction and recycling plans.",
+    "Build the port and manufacturing infrastructure for offshore wind quickly, following through on the South Brooklyn Marine Terminal and Arthur Kill Terminal conversions and identifying places where turbine manufacturing could happen inside the five boroughs.",
+    "Have the Economic Development Corporation build and maintain a green economy data dashboard giving a quarterly view of job growth and skills demand, developed with the city's Workforce Development Council.",
+    "Make a capital investment in greening the City University of New York's roughly 300 aging buildings and put CUNY students to work on the effort as hands-on training for green careers.",
+    "Create an Electrification Careers Challenge Grant to scale up training for heating, ventilation and air conditioning technicians and electricians, including union-linked pre-apprenticeships, apprenticeships and direct-entry programs.",
+    "Create a Pay It Forward program, seeded with public and private money, that covers tuition at green training programs with strong placement records and is repaid by graduates only once they land a well-paying job.",
+    "Build green career pathways into the city's apprenticeship expansion, with more state funding for intermediaries and unions, added staff at the NYC Apprenticeship Accelerator dedicated to green apprenticeships and new requests for proposals for pre-apprenticeship onramps.",
+    "Create a Climate Tech Fellowship Program offering mentorship, networking and paid internships at climate technology start-ups to New Yorkers underrepresented in tech.",
+    "Launch an annual New York City Green Economy Opportunity Fair for middle and high school students, modeled on the city's Computer Science Opportunity Fair.",
+    "Create a Green Economy Reskilling Council of city workforce bodies, training providers, unions, trade associations and CUNY to guide investment in retraining workers whose current jobs are becoming sustainability jobs.",
+    "Pay for wraparound supports inside workforce contracts, including stipends, wage subsidies, transit cards and childcare, and help providers screen participants for benefits they qualify for."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["environment", "labor", "money and contracts"],
+  "is_followup": false
+}

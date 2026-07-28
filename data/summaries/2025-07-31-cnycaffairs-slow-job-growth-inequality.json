@@ -1,0 +1,83 @@
+{
+  "id": "2025-07-31-cnycaffairs-slow-job-growth-inequality",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "How Slow Job Growth and Trump Policies Portend Deeper Inequality in New York",
+  "plain_title": "Job growth stalls as labor gaps by race and gender widen",
+  "agency": "New York City government",
+  "issued": "2025-07-31",
+  "url": "http://www.centernyc.org/reports-briefs/how-slow-job-growth-and-trump-policies-portend-deeper-inequality-in-new-york",
+  "pdf": "",
+  "what_they_audited": "An economic update from the Center for New York City Affairs examining New York City labor market data for the first half of 2025 and how federal policy changes could affect it.",
+  "background": "New York City's seasonally adjusted unemployment rate was 4.7 percent in June 2025, down from the 5.3 percent average for 2024, and labor force participation and employment rates were steady through the first half of the year.",
+  "findings": [
+    {
+      "plain": "The report says the city's steady headline employment numbers hide differences in how workers of different races and genders are faring.",
+      "quote": "Relatively steady rates of unemployment, labor force participation, and employment in New York City mask race and gender disparities"
+    },
+    {
+      "plain": "Between January and June 2025, men of color left the labor market while most women increased their participation and employment rates, with Black women the exception.",
+      "quote": "men of color continued to drop out of the local labor market"
+    },
+    {
+      "plain": "Hispanic men saw the sharpest declines, while Hispanic women's participation rose over the same period.",
+      "quote": "Their labor force participation rate has decreased by 3.6 percentage points since the third quarter of 2024"
+    },
+    {
+      "plain": "Private sector job growth in the city was close to flat over the first six months of 2025, and lagged the national rate.",
+      "quote": "The city has added less than 1,000 private sector jobs over the first half of 2025."
+    },
+    {
+      "plain": "Health care and social assistance was the strongest growing sector in the first half of 2025, and by June it accounted for 22 percent of all payroll jobs in the city.",
+      "quote": "adding 29,000 jobs"
+    },
+    {
+      "plain": "The report says the federal One Big Beautiful Bill Act, enacted in July 2025, is expected to cut Medicaid coverage for a large share of city enrollees, which it links to demand for health care jobs.",
+      "quote": "OBBBA cuts are expected to result in 860,000 New York City residents losing Medicaid"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "4.7 percent",
+      "label": "New York City unemployment rate, June 2025"
+    },
+    {
+      "value": "less than 1,000",
+      "label": "Private sector jobs added, first half of 2025"
+    },
+    {
+      "value": "3.6 percentage points",
+      "label": "Drop in Hispanic men's labor force participation"
+    },
+    {
+      "value": "4.8 percentage points",
+      "label": "Rise in Hispanic women's labor force participation"
+    },
+    {
+      "value": "29,000 jobs",
+      "label": "Health care and social assistance jobs added in 2025"
+    },
+    {
+      "value": "860,000",
+      "label": "City residents projected to lose Medicaid coverage"
+    },
+    {
+      "value": "22 percent",
+      "label": "Share of city payroll jobs in health care, social help"
+    }
+  ],
+  "recommendations": [
+    "Put measures in place to protect immigrants, which the report describes as the most urgent and least costly step for local government.",
+    "Improve worker protections against wage theft and workplace discrimination, including gender pay inequities.",
+    "Invest in housing development and climate resiliency to stimulate job growth in fields that have a record of hiring men of color.",
+    "Stabilize public benefits to mitigate federal cuts, as a safety net for people out of work and low-wage workers."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "social services"
+  ],
+  "is_followup": false
+}

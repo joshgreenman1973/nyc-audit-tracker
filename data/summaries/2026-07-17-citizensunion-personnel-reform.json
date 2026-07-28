@@ -1,0 +1,79 @@
+{
+  "id": "2026-07-17-citizensunion-personnel-reform",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Citizens Union Report on Personnel Reform in New York City",
+  "plain_title": "A 1976 plan to remake the city's civil service system",
+  "agency": "New York City government",
+  "issued": "2026-07-17",
+  "url": "https://citizensunion.org/document/2026-07-17/citizens-union-report-on-personnel-reform-in-new-york-city/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2026/07/CU-1976-Report-Personnel-Reform-in-NYC.pdf",
+  "what_they_audited": "A Citizens Union report from July 1976, posted to the organization's online document archive in 2026, that proposes a new personnel system for New York City government. It was prepared by the group's Committee on the City Personnel System.",
+  "background": "The report was written as the city prepared to carry out charter revisions approved by voters that would move personnel functions from the central Department of Personnel to agency heads starting in January 1977. It draws on findings from the State Charter Revision Commission and the city's own Productivity Council.",
+  "findings": [
+    {
+      "plain": "The report traces weak productivity in city government mainly to how the personnel system is built rather than to individual workers, naming inflexibility, rigid personnel techniques, weak delegation of authority and rewards that are not tied to performance.",
+      "quote": "the major problem in obtaining productivity in the City derives from systcmic problems, rather than from individuals shirking from their dutiea"
+    },
+    {
+      "plain": "Narrowly drawn job titles leave work crews unable to operate when a single position is unfilled, and proposals to group jobs more broadly have stalled over the salary differences between the narrow classifications.",
+      "quote": "we can find our employees unable to work because of the lack of one person in a work crew of six or eight"
+    },
+    {
+      "plain": "Managers are generally not chosen for managerial ability, and the report says executive salaries do not match private sector levels, making it hard to recruit qualified candidates.",
+      "quote": "salaries for executives have not been consistent with those found in the private sector"
+    },
+    {
+      "plain": "The report cites a 1975 State Charter Revision Commission finding of a shortage of trained and motivated middle managers, along with weak procedures for evaluating performance and rewarding productivity.",
+      "quote": "A lack of trained and motivated middle mznagers resulting in increased costs, inefficient service,and poor productivity of employees."
+    },
+    {
+      "plain": "It also cites a report by the city's own Productivity Council finding almost no management training, few management staff and no stated management philosophy.",
+      "quote": "little or no managerial training, few management people"
+    },
+    {
+      "plain": "Employee rewards rest largely on written examinations, and the report calls for a performance appraisal system built on objectives set in consultation with employees.",
+      "quote": "Rewards based upon performance must be substituted for rewards based solely upon examinations."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "25%",
+      "label": "Share of civil service proposed for a Management Service"
+    },
+    {
+      "value": "five-year renewable contract",
+      "label": "Term proposed for City Executive Service appointees"
+    },
+    {
+      "value": "one out of every two",
+      "label": "Executive Service posts to be filled laterally at first"
+    },
+    {
+      "value": "nine members",
+      "label": "Proposed size of an independent Personnel Review Board"
+    }
+  ],
+  "recommendations": [
+    "Give managers and supervisors more flexibility in how they assign workers.",
+    "Eliminate the narrow job classifications that lock the city into rigid use of staff.",
+    "Adopt a system that ties salary increases to productivity.",
+    "Link the performance appraisal system to productivity gains for both individuals and work groups.",
+    "Base tangible and non-tangible rewards, including salary, training and work assignments, on performance.",
+    "Create a City Executive Service covering the top of the executive group, with appointees hired by the mayor on five-year renewable contracts, roughly half of the posts initially filled from outside, selection reviewed by the Personnel Department under an independent board and its own salary plan checked each year against private sector pay.",
+    "Create the Management Service called for in the charter revision, covering roughly a quarter of the civil service in managerial and supervisory positions.",
+    "Pass legislation to bring new talent into the city's managerial ranks, allow selection methods that test a candidate's capacity for the job rather than fixed procedures and make disciplinary action a usable management tool.",
+    "Amend the state Taylor Law to keep managers and executives above the lowest level of supervision from organizing, and in the meantime speed up the charter provision that separates supervisors from the unions representing the people they supervise.",
+    "Create an independent Personnel Review Board of nine unpaid members, appointed by the mayor from non-partisan nominations, to oversee the Department of Personnel, review and publicly comment on agency plans for taking over personnel functions and report periodically to the mayor and the public on how the changes are working.",
+    "Combine the city's separate labor relations and civil service personnel functions.",
+    "Establish an integrated motivation program for all city employees, starting with the management group, run by department heads with a new Personnel Department division supporting agencies, and built on shared responsibility, shared rewards, training through resources such as the Urban Academy, performance assessment of managers, a Career Planning Service and job enrichment task forces in each department."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "transparency"
+  ],
+  "is_followup": false
+}

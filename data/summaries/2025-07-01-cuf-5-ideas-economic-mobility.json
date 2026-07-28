@@ -1,0 +1,93 @@
+{
+  "id": "2025-07-01-cuf-5-ideas-economic-mobility",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "5 Ideas to Advance Economic Mobility in NYC Amid Harmful Federal Policies",
+  "plain_title": "Five proposals to help low-income New Yorkers move up",
+  "agency": "New York City government",
+  "issued": "2025-07-01",
+  "url": "https://nycfuture.org/research/5-ideas-to-advance-economic-mobility-in-nyc-2025",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future setting out five policy ideas for New York City to expand economic mobility at a time when federal anti-poverty programs face cuts.",
+  "background": "The report was released alongside the organization's second annual NYC Economic Opportunity Summit, and covers housing vouchers, the City University of New York (CUNY), job training, employer partnerships and transit costs.",
+  "findings": [
+    {
+      "plain": "CityFHEPS, the city's rental assistance program, now serves more than 52,000 households on a budget above $1.1 billion, which the report says makes it the biggest city-run voucher program in the country.",
+      "quote": "making it the largest municipal housing voucher program in the country"
+    },
+    {
+      "plain": "Children's later earnings vary sharply between blocks that are close together, according to the report's analysis of the Opportunity Atlas.",
+      "quote": "in several blocks of Brownsville, the average household income at age 35 for children from low-income families is just $18,000"
+    },
+    {
+      "plain": "In a Seattle program that paired families with housing navigators, far more families moved to higher-opportunity neighborhoods than in the control group.",
+      "quote": "Just 15 percent of families in the control group—those who received only a voucher—moved to high-opportunity neighborhoods."
+    },
+    {
+      "plain": "Unpaid balances owed to CUNY block students from registering again, and most of those balances are small.",
+      "quote": "in 2024 alone, more than 15,000 enrolled students finished the semester with an unpaid balance"
+    },
+    {
+      "plain": "The city's most effective job training programs each serve only dozens to a few hundred people a year, far short of the number of New Yorkers who need work or better work.",
+      "quote": "more than one million working-age New Yorkers are struggling with unemployment or underemployment"
+    },
+    {
+      "plain": "Roughly 30 companies in the New York Jobs CEO Council hired thousands of low-income New Yorkers into well-paying jobs in a single year.",
+      "quote": "hired more than 10,000 low-income New Yorkers into jobs paying $69,000 or more"
+    },
+    {
+      "plain": "Only a small fraction of the city's street parking spaces are metered, and meter revenue has been roughly flat for a decade after inflation.",
+      "quote": "But just 80,000 of those spaces are metered—fewer than 2.5 percent."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "more than 52,000 households",
+      "label": "Households served by CityFHEPS"
+    },
+    {
+      "value": "$1.1 billion",
+      "label": "Annual CityFHEPS budget"
+    },
+    {
+      "value": "630,000",
+      "label": "City residents 25 to 64 with some college but no degree"
+    },
+    {
+      "value": "$10 million",
+      "label": "Cost to clear balances for 10,000 CUNY students"
+    },
+    {
+      "value": "$25 million",
+      "label": "Proposed city seed money for a Career Impact Bond"
+    },
+    {
+      "value": "over 3 million street parking spaces",
+      "label": "Street parking spaces in New York City"
+    },
+    {
+      "value": "$1.21 billion",
+      "label": "Estimated added yearly revenue from metering 25 percent"
+    },
+    {
+      "value": "$275 million",
+      "label": "Yearly cost of free OMNY cards for students, trainees"
+    }
+  ],
+  "recommendations": [
+    "Add housing navigation to CityFHEPS and pilot a Seattle-style Creating Moves to Opportunity program for 2,500 families, so voucher holders get one-on-one help moving to neighborhoods linked to better outcomes for children.",
+    "Create a CUNY Fresh Start initiative that clears unpaid balances of up to $1,000 for students who left without a degree, funded by allowing a modest amount of infill housing on CUNY campuses.",
+    "Seed a $25 million NYC Career Impact Bond, a revolving outcomes-based fund with private and philanthropic matching money, to scale up training programs with proven results.",
+    "Recruit 100 more large and mid-sized employers into hiring partnerships modeled on the New York Jobs CEO Council, with measurable hiring and reporting commitments.",
+    "Provide free unlimited OMNY cards to CUNY undergraduates and workforce training participants, paid for by charging for a share of the street parking the city now gives away free."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "education",
+    "labor"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,84 @@
+{
+  "id": "2025-10-24-citizensunion-restore-public-trust-clean-city-hall",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "How to Restore Public Trust and Clean City Hall: Proposals for the Next Administration",
+  "plain_title": "Ethics and transparency proposals for the next mayor",
+  "agency": "New York City government",
+  "issued": "2025-10-24",
+  "url": "https://citizensunion.org/document/2025-10-24/how-to-restore-public-trust-and-clean-city-hall-proposals-for-the-next-administration/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2025/10/How-to-Restore-Public-Trust-and-Clean-City-Hall-%E2%80%93-Proposals-for-the-Next-Administration-CU-2025-Report.pdf",
+  "what_they_audited": "A report from Citizens Union setting out 17 proposals for the incoming mayoral administration on appointments, lobbying, oversight agencies, transparency and relations with the City Council.",
+  "background": "Citizens Union is a good government group that has worked on ethics, campaign finance and transparency in New York City for more than a century. The report was published ahead of the next mayor taking office on January 1, 2026.",
+  "findings": [
+    {
+      "plain": "The report says senior appointments under the outgoing administration reflected favoritism rather than merit, pointing to the attempted appointment of the mayor's brother as deputy police commissioner and to top officials caught up in corruption investigations.",
+      "quote": "appointment of the mayor’s brother as Deputy Police Commissioner"
+    },
+    {
+      "plain": "Incoming public servants must sever ties and divest from companies doing business with the city, but are not required to recuse themselves from matters involving former business partners, clients or employers.",
+      "quote": "clients, or employers"
+    },
+    {
+      "plain": "Lobbying oversight sits in the City Clerk's Lobbying Bureau, a small unit that reports to the City Council, the body being lobbied. The report says the Conflicts of Interest Board is a better fit.",
+      "quote": "reports to the City Council—the very body being lobbied"
+    },
+    {
+      "plain": "Oversight agencies have lost capacity. Since 2019 the Department of Investigation has lost more than a quarter of its employees and Conflicts of Interest Board staffing is down 16 percent, and the Civilian Complaint Review Board closed 1,440 complaints without full review.",
+      "quote": "closed 1,440 complaints without full review."
+    },
+    {
+      "plain": "Records requests are slow, with some agencies averaging more than 400 days to respond to a Freedom of Information Law request.",
+      "quote": "with some agencies taking over 400 days on average to respond."
+    },
+    {
+      "plain": "The report says press access has narrowed, citing fewer briefings, encrypted police radio channels, reporters barred from press conferences and attempts to move reporters out of City Hall and 1 Police Plaza.",
+      "quote": "reducing briefings, encrypting police radio channels, barring reporters from press conferences"
+    },
+    {
+      "plain": "The report says recent mayors have used their control of the Charter Revision Commission to remove ballot questions proposed by the City Council or by citizens, and that the city has no clear mechanism to remove a mayor for serious misconduct.",
+      "quote": "Commission to remove ballot questions proposed by the City Council or citizens"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1,440",
+      "label": "Complaints the CCRB closed without full review"
+    },
+    {
+      "value": "16%",
+      "label": "Reduction in Conflicts of Interest Board staff since 2019"
+    },
+    {
+      "value": "400 days",
+      "label": "Average FOIL response time at some agencies"
+    }
+  ],
+  "recommendations": [
+    "Recruit and retain senior officials on merit, experience and commitment to public service rather than personal connections.",
+    "Establish a cooling-off policy barring high-ranking incoming officials from working on matters involving former clients, employers or business interests.",
+    "Require commissioners and high-ranking City Hall officials to disclose Conflicts of Interest Board guidance, with privacy protections, when they cite it in response to public questions about apparent conflicts.",
+    "Publicly commit not to use the Law Department for legal proceedings unrelated to public duties.",
+    "Restore and strengthen a City Hall policy requiring disclosure of meetings between high-ranking officials and registered lobbyists.",
+    "Bar City Hall officials from meeting during the administration's first two years with lobbyists who worked on the mayor's campaign.",
+    "Support legislation limiting how much registered lobbyists and people doing business with the city can bundle in campaign donations.",
+    "Support moving lobbying oversight and enforcement from the City Clerk to the Conflicts of Interest Board, with funding to match.",
+    "Commit to fully funding the Conflicts of Interest Board, the Department of Investigation and the Civilian Complaint Review Board.",
+    "Commit to full cooperation with police and jail oversight bodies, including releasing materials they need for investigations on time.",
+    "Publicly commit to maintaining the independence, staffing and authority of the Campaign Finance Board.",
+    "Establish a procurement ethics and efficiency task force with the comptroller, procurement officials and ethics experts to evaluate contracting practices and recommend reforms.",
+    "Commit to cutting Freedom of Information Law response times and require all city agencies to use the OpenRecords portal.",
+    "Rebuild an open relationship with the city press corps, including regular briefings and meaningful access for reporters.",
+    "Pledge not to use mayoral authority to block ballot questions proposed by the City Council or by voters, and support reforms protecting the Charter revision process.",
+    "Publicly support creating a formal process to remove a mayor in cases of serious misconduct.",
+    "Support legislation empowering the Conflicts of Interest Board to enforce restrictions on government-funded electioneering."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

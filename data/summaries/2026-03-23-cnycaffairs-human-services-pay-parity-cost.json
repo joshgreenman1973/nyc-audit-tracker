@@ -1,0 +1,79 @@
+{
+  "id": "2026-03-23-cnycaffairs-human-services-pay-parity-cost",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "NYC Budget Cost Estimate for Closing The Human Services Pay Equity Gap",
+  "plain_title": "What pay parity for nonprofit human services workers would cost",
+  "agency": "New York City government",
+  "issued": "2026-03-23",
+  "url": "http://www.centernyc.org/reports-briefs/nyc-budget-cost-estimate-for-closing-the-human-services-pay-equity-gap",
+  "pdf": "http://www.centernyc.org/s/CNYCA-Parrott-NYC-Human-Services-Pay-Parity-Budget-Cost.pdf",
+  "what_they_audited": "A budget brief from the Center for New York City Affairs at The New School estimating what it would cost the city budget to pay nonprofit human services workers on city contracts the same as city agency employees doing comparable work.",
+  "background": "The brief builds on the center's January 2025 report, which found that the nonprofit human services workforce, which is predominantly women of color and highly educated, earns 25-30 percent less than similarly educated counterparts in city human services agencies.",
+  "findings": [
+    {
+      "plain": "The center finds pay for nonprofit human services workers on city contracts trails pay for comparable city agency employees by 25 to 30 percent.",
+      "quote": "the pay of nonprofit human services workers lags 25-30 percent behind that of comparable City human service agency employees"
+    },
+    {
+      "plain": "Closing that gap would cost an estimated $965 million to $1.35 billion, a 19 percent increase over current city-funded compensation costs at the low end and 26.7 percent at the high end.",
+      "quote": "The low-range estimate represents a 19 percent increase over the current City-funded compensation costs; the high-range estimate translates into a 26.7 percent increase."
+    },
+    {
+      "plain": "Roughly three-quarters of the cost would go to raising pay for social workers, counselors and related direct service professionals, who make up 51 percent of the 64,500 full-time equivalent contract workforce.",
+      "quote": "Roughly three-quarters of the cost would go to level up the pay for nonprofit human services professionals"
+    },
+    {
+      "plain": "The brief says the pay gap comes from city contracting practices rather than market forces, because pay in this sector is set by city budget and procurement policy.",
+      "quote": "pay for nonprofit human services workers is determined entirely by City budget and procurement policies that have historically prioritized low cost over fair compensation"
+    },
+    {
+      "plain": "The gap is largest among workers with bachelor's or master's degrees rather than the lowest-paid staff, so the brief frames parity as mainly a question of professional pay.",
+      "quote": "the most profound compensation inequities are among highly professional and experienced workers, those with a bachelor’s or master’s degree"
+    },
+    {
+      "plain": "The brief notes City Council legislation, Introduction 452, that would require city human services contracts to include enough funding to pay workers on a par with city employees with comparable education and responsibilities.",
+      "quote": "Intro. No. 452 mandates that City human services contracts include sufficient funding"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "25-30 percent",
+      "label": "Pay gap versus comparable city agency employees"
+    },
+    {
+      "value": "$965 million to $1.35 billion",
+      "label": "Estimated cost of salary parity"
+    },
+    {
+      "value": "64,500",
+      "label": "Full-time equivalent human services contract workforce"
+    },
+    {
+      "value": "19 percent",
+      "label": "Low-end increase over current city-funded compensation"
+    },
+    {
+      "value": "26.7 percent",
+      "label": "High-end increase over current city-funded compensation"
+    },
+    {
+      "value": "80 percent",
+      "label": "Share of the sector's payroll costs funded by city contracts"
+    }
+  ],
+  "recommendations": [
+    "Establish salary parity by aligning pay for nonprofit human services workers with city agency job titles and pay levels, so they are paid on a par with public sector employees doing comparable work.",
+    "Once parity is set on a job title basis, build automatic adjustments into city human services contracts based on citywide collective bargaining increases, and include future fringe benefit increases so total compensation reaches comparability with city employees.",
+    "Phase the estimated $965 million to $1.35 billion cost into the city budget over three years as service contracts are renewed."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "social services",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

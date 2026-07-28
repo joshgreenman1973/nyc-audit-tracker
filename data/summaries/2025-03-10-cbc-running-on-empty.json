@@ -1,0 +1,78 @@
+{
+  "id": "2025-03-10-cbc-running-on-empty",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "Running on Empty",
+  "plain_title": "The fiscal 2026 preliminary budget is short $3.6 billion",
+  "agency": "New York City government",
+  "issued": "2025-03-10",
+  "url": "https://cbcny.org/research/running-empty",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_NYC-FY2025-Prelim-Budget_03102025_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report analyzing Mayor Eric Adams' fiscal year 2026 preliminary budget for New York City.",
+  "background": "The budget is balanced on paper, and the city has been covering recent shortfalls with surplus funds it accumulated through fiscal year 2022.",
+  "findings": [
+    {
+      "plain": "The preliminary budget does not include enough money to pay for the services the city plans to provide.",
+      "quote": "The fiscal year 2026 preliminary budget is short $3.6 billion needed to provide planned services"
+    },
+    {
+      "plain": "In each of the two prior fiscal years the city's expenses ran ahead of its revenues.",
+      "quote": "Expenses exceeded revenues by $636.0 million in fiscal year 2023 and $1.1 billion in fiscal year 2024, adjusted for the City’s ability to shift timing of payments"
+    },
+    {
+      "plain": "The surplus the city rolls from year to year has been shrinking.",
+      "quote": "declined from $6.1 billion in fiscal year 2022 to $4.4 billion in fiscal year 2024"
+    },
+    {
+      "plain": "The practice of budgeting less than programs actually cost has grown.",
+      "quote": "the City’s habit of underbudgeting current services has grown substantially, exceeding $4.0 billion a year"
+    },
+    {
+      "plain": "During fiscal year 2025 the city had to add billions mid-year for programs the group had flagged as underbudgeted.",
+      "quote": "The City has already added $3.8 billion during fiscal year 2025 to fund programs that CBC identified as underbudgeted at the beginning of the fiscal year"
+    },
+    {
+      "plain": "Future gaps are far larger once underbudgeting, the class size mandate and asylum seeker costs are counted.",
+      "quote": "Future budget gaps are $7.8 billion, $10.1 billion, and $9.6 billion in fiscal years 2027 to 2029, respectively"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$3.6 billion",
+      "label": "Shortfall in the fiscal 2026 preliminary budget"
+    },
+    {
+      "value": "$4.0 billion",
+      "label": "Annual underbudgeting of current services"
+    },
+    {
+      "value": "$3.8 billion",
+      "label": "Added mid-year in fiscal 2025 for underbudgeted programs"
+    },
+    {
+      "value": "$7.8 billion",
+      "label": "Projected fiscal 2027 budget gap"
+    },
+    {
+      "value": "$6.1 billion",
+      "label": "Peak year-end prepayment, fiscal 2022"
+    },
+    {
+      "value": "$1.0 billion",
+      "label": "Addition to the general reserve the report proposes"
+    }
+  ],
+  "recommendations": [
+    "Present accurate, reasonable estimates of expenses and revenue in the fiscal year 2026 executive budget, as the City Charter requires.",
+    "Run a Program to Eliminate the Gap that streamlines administrative operations, raises program efficiency and scales back or ends the programs delivering the least value to residents.",
+    "Do not fund new or expanded programs in the executive budget or at adoption.",
+    "Add at least $1.0 billion to the fiscal year 2026 general reserve to help respond to potential federal cuts."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2025-12-18-cbc-mta-operating-budget-outlook",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "MTA Operating Budget Outlook: Short-Term Stability, Long-Term Risks",
+  "plain_title": "MTA budget is balanced now but has a bigger underlying gap",
+  "agency": "Metropolitan Transportation Authority",
+  "issued": "2025-12-18",
+  "url": "https://cbcny.org/research/mta-operating-budget-outlook-short-term-stability-long-term-risks",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_MTA-Operating-Budget_12182025_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report reviewing the Metropolitan Transportation Authority's (MTA's) November 2025 Financial Plan and its outlook through 2029.",
+  "background": "The plan is balanced in 2025 and 2026 and reports gaps of $160 million in 2027, $243 million in 2028 and $306 million in 2029.",
+  "findings": [
+    {
+      "plain": "The difference between the MTA's recurring revenues and recurring expenses is much larger than the gaps the plan reports.",
+      "quote": "the MTA’s underlying structural budget gap—the difference between recurring revenues and recurring expenses—is substantially larger, reaching $1.1 billion in 2029"
+    },
+    {
+      "plain": "The multi-year plan leans on one-time money, including federal disaster reimbursements and casino license fees.",
+      "quote": "the multi-year plan relies on $2.1 billion in one-time resources, including Federal Emergency Management Agency (FEMA) reimbursements and downstate casino license fees"
+    },
+    {
+      "plain": "The MTA's finances have improved substantially compared with the outlook three years earlier.",
+      "quote": "The MTA’s financial position has improved significantly since the November 2022 Financial Plan projected a $1.6 billion deficit for 2026."
+    },
+    {
+      "plain": "The plan counts on newly identified operating efficiencies by the end of the decade.",
+      "quote": "newly-planned operating efficiencies anticipated to save $250 million per year by 2029"
+    },
+    {
+      "plain": "Labor costs are a risk because negotiated raises could come in above the plan's assumption.",
+      "quote": "Collectively-bargained annual raises could exceed the 2 percent assumed in the plan."
+    },
+    {
+      "plain": "Fare evasion continues to drain revenue from the operating budget.",
+      "quote": "Continue to reduce fare evasion, which is on track to cost more than $900 million this year"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$1.1 billion",
+      "label": "Structural budget gap in 2029"
+    },
+    {
+      "value": "$2.1 billion",
+      "label": "One-time resources in the multi-year plan"
+    },
+    {
+      "value": "$250 million",
+      "label": "Planned annual operating efficiencies by 2029"
+    },
+    {
+      "value": "$160 million",
+      "label": "Gap the plan reports for 2027"
+    },
+    {
+      "value": "$306 million",
+      "label": "Gap the plan reports for 2029"
+    },
+    {
+      "value": "$900 million",
+      "label": "Projected cost of fare evasion this year"
+    }
+  ],
+  "recommendations": [
+    "Put in place more operating efficiencies with labor by changing work rules, increasing employee availability and sharing the benefits of higher productivity.",
+    "Keep reducing fare evasion by assessing the cost-effectiveness of enforcement, refining the multifaceted approach, accelerating new faregates and proof-of-payment and working with the district attorneys on serial cases.",
+    "Work with the city to improve enrollment in Fair Fares NYC, assess its cost-effectiveness and consider expanding it.",
+    "Reduce paratransit costs per trip by using the fleet and broker services strategically and considering more shared rides.",
+    "Continue biennial fare and toll increases and consider tying them to year-over-year expense growth instead of a flat 4 percent."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transportation",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

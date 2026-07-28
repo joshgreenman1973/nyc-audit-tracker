@@ -1,0 +1,90 @@
+{
+  "id": "2025-03-27-cnycaffairs-state-federal-education-policy-changes",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "State and Federal Education Policy Changes Weigh Heavily on New York City’s Education System",
+  "plain_title": "How state and federal shifts could squeeze school funding",
+  "agency": "New York City government",
+  "issued": "2025-03-27",
+  "url": "http://www.centernyc.org/reports-briefs/state-and-federal-education-policy-changes-weigh-heavily-on-new-york-citys-education-system",
+  "pdf": "",
+  "what_they_audited": "An economic update from the Center for New York City Affairs describing how state budget decisions and federal actions could affect funding for New York City's public schools.",
+  "background": "The city's Department of Education (DOE) is funded mainly by city and state revenue, with federal money averaging about seven percent of its annual budgets since 2017, and it enrolls roughly one million children from 3-K through 12th grade.",
+  "findings": [
+    {
+      "plain": "The state's share of city school funding has been shrinking, leaving the city covering more of the cost.",
+      "quote": "expects the State’s share of City DOE funding to reach an all-time low of 40 percent"
+    },
+    {
+      "plain": "Changes to the state's Foundation Aid formula proposed by the governor would reduce the city's state education funding, though the Assembly and Senate proposed softening that.",
+      "quote": "the Governor’s proposed changes to the formula would result in the City losing $347 million in State education funding in FY2026"
+    },
+    {
+      "plain": "The state's Class Size Reduction Mandate applies to the city alone and came with no state money attached.",
+      "quote": "the State has provided no additional funding to meet this mandate"
+    },
+    {
+      "plain": "The city's Independent Budget Office estimates a large teacher hiring requirement to reach full compliance by September 2028.",
+      "quote": "about 17,700 additional teachers would have to be hired"
+    },
+    {
+      "plain": "The mayor's preliminary budget falls short of what the report says is needed to hit the next class size benchmark.",
+      "quote": "the Mayor’s Preliminary Budget for FY2026 is $168 million shy of that figure"
+    },
+    {
+      "plain": "Missing an annual class size target allows the state to withhold Contract for Excellence funding in a later budget.",
+      "quote": "This could amount to a budget cut of approximately $803 million"
+    },
+    {
+      "plain": "The city expects more than a billion dollars a year from two federal education programs that the report says could be disrupted.",
+      "quote": "Together they amount to an expected $1.14 billion annually."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$347 million",
+      "label": "State aid loss under the governor's formula proposal"
+    },
+    {
+      "value": "40 percent",
+      "label": "Projected state share of school funding in FY2026"
+    },
+    {
+      "value": "17,700",
+      "label": "Extra teachers estimated for class size compliance"
+    },
+    {
+      "value": "$374.2 million",
+      "label": "Needed in FY2026 for the September 2026 class size step"
+    },
+    {
+      "value": "$168 million",
+      "label": "Gap in the mayor's preliminary budget for that step"
+    },
+    {
+      "value": "$1.24 billion",
+      "label": "Comptroller estimate of yearly cost for full compliance"
+    },
+    {
+      "value": "$1.14 billion",
+      "label": "Yearly federal ESSA and IDEA funding the city expects"
+    },
+    {
+      "value": "$803 million",
+      "label": "Contract for Excellence money at risk if targets slip"
+    }
+  ],
+  "recommendations": [
+    "Have the state either delay the Class Size Reduction Mandate or give the city money to implement it, so the city can plan around any change to the Foundation Aid formula.",
+    "Move the city's own revenue around within the education budget to fill gaps and maintain education services in the short term.",
+    "Consider new revenue-generating policy proposals to replace education funding that may be lost."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

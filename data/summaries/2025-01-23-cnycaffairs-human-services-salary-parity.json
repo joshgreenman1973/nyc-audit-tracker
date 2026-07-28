@@ -1,0 +1,62 @@
+{
+  "id": "2025-01-23-cnycaffairs-human-services-salary-parity",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "Moving Beyond Colas to Salary Parity for New York City's Nonprofit Human Service Workers",
+  "plain_title": "Closing the pay gap for nonprofit human services workers",
+  "agency": "New York City government",
+  "issued": "2025-01-23",
+  "url": "http://www.centernyc.org/reports-briefs/moving-beyond-colas-to-salary-parity-for-new-york-citys-nonprofit-human-service-workers",
+  "pdf": "https://www.centernyc.org/s/Moving-Beyond-COLAs-to-Salary-Parity-For-New-York-Citys-Nonprofit-Human-Services-Workers-FINAL-ntbw.pdf",
+  "what_they_audited": "A report by James Parrott of the Center for New York City Affairs at The New School, produced with the Institute on Race, Power and Political Economy, the Brookings Institution's Center for Community Uplift and the Human Services Council. It compares pay and benefits for nonprofit workers on city human services contracts with pay for city employees who do comparable work.",
+  "background": "The city relies on nonprofit providers to deliver human services, and the report says city contracts typically cover only about 80 percent of what it costs to run the programs. It notes two recent steps, a 2019 commitment to starting pay parity for teachers in nonprofit early childhood centers and a March 2024 commitment by the Adams administration to three years of cost-of-living increases for contracted human services workers.",
+  "findings": [
+    {
+      "plain": "City human services contracting with nonprofits is large and has grown faster than the budget overall.",
+      "quote": "The City of New York contracts $7.8 billion annually to nonprofit organizations employing about 80,000 workers"
+    },
+    {
+      "plain": "The workforce is more educated on average than the private sector workforce and is mostly women of color.",
+      "quote": "Sixty-one percent of core human services workers have at least a bachelor’s degree"
+    },
+    {
+      "plain": "Average pay in the largest part of the sector was about $37,000 in 2023, which the report places near the bottom of all city industries.",
+      "quote": "This places the sector as the third lowest-paying industry in New York City"
+    },
+    {
+      "plain": "The gap is widest for the most educated workers, measured against both private and public sector medians.",
+      "quote": "Core human services workers with bachelor’s degrees earn 33 percent less than the private sector median and 22 percent less than the public sector median for similarly educated workers."
+    },
+    {
+      "plain": "Among college-educated counselors and social workers, the gap between nonprofit and government pay is larger for workers of color than for white workers.",
+      "quote": "median pay is 23-25 percent less in core human services than in government at both education levels, while it is 13-18 percent less for white workers"
+    },
+    {
+      "plain": "A sizable share of the people delivering city-funded services are themselves near poverty.",
+      "quote": "Nearly one in six human services workers lives at or below 200 percent of the federal poverty level"
+    },
+    {
+      "plain": "Counting health insurance, pensions and other benefits widens the gap beyond wages alone.",
+      "quote": "yielding a total compensation shortfall of 31 percent when benefits are factored in"
+    }
+  ],
+  "numbers": [
+    {"value": "$7.8 billion", "label": "Yearly city human services contracting with nonprofits"},
+    {"value": "80,000", "label": "Workers at nonprofits on city human services contracts"},
+    {"value": "$36,688", "label": "Average 2023 pay in individual and family services"},
+    {"value": "61 percent", "label": "Share of the workforce with a four-year degree or more"},
+    {"value": "33 percent", "label": "Pay gap versus private sector at the same education level"},
+    {"value": "31 percent", "label": "Total compensation shortfall versus the public sector"},
+    {"value": "4,100", "label": "City human services contracts, run by about six agencies"}
+  ],
+  "recommendations": [
+    "Line up job titles and pay at nonprofits holding city contracts with the comparable titles and pay scales at city health and human services agencies, so people doing equivalent work are paid equivalently, and give nonprofits technical assistance to map their titles onto the city's.",
+    "Write automatic cost-of-living adjustments tied to citywide collective bargaining settlements, plus future increases in fringe benefits, into every city human services contract once title-by-title parity is reached.",
+    "Build racial and gender equity into the city's budgeting and procurement policies, in keeping with the 2022 charter amendments that created the Office and the Commission on Racial Equity."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["labor", "social services", "money and contracts"],
+  "is_followup": false
+}

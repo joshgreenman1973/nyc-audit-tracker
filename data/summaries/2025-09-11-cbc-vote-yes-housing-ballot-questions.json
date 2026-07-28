@@ -1,0 +1,75 @@
+{
+  "id": "2025-09-11-cbc-vote-yes-housing-ballot-questions",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "CBC Recommends Voting Yes on November Ballot Questions 2, 3, 4, and 5 to Boost Housing Production in New York",
+  "plain_title": "Group backs four ballot questions on land use and housing",
+  "agency": "New York City government",
+  "issued": "2025-09-11",
+  "url": "https://cbcny.org/advocacy/cbc-recommends-voting-yes-november-ballot-questions-2-3-4-and-5-boost-housing-production",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_CRC_09112025_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report on four November ballot questions proposed by the New York City Charter Revision Commission (CRC) dealing with land use review and the City Map.",
+  "background": "Three of the questions would change the city's land use decision-making process and one would change how the City Map is administered.",
+  "findings": [
+    {
+      "plain": "The city has a severe shortage of housing, pushing up rents and home prices.",
+      "quote": "New York City has a dire housing shortage, burdening too many New Yorkers with ever-higher rents and home prices."
+    },
+    {
+      "plain": "Private rezoning applications take years to get through the current review process.",
+      "quote": "Too long, with private rezoning application approval taking between 2 to 3 years"
+    },
+    {
+      "plain": "The group's research puts the added cost of the land use process at tens of thousands of dollars per apartment.",
+      "quote": "Too expensive, adding as much as $82,000 to the cost of each housing unit in 2025 dollars"
+    },
+    {
+      "plain": "The proposed Affordable Housing Fast Track would apply in the community districts that permitted the least affordable housing over the previous five years.",
+      "quote": "The Affordable Housing Fast Track would speed up production in the 12 Community Districts that permitted the least affordable housing over the preceding five years."
+    },
+    {
+      "plain": "Question 4 would let a three-member board overturn a City Council disapproval or modification of certain affordable housing projects.",
+      "quote": "A board consisting of the Mayor, City Council Speaker, and Borough President would be able to overturn a Council disapproval or modification by a two-thirds vote."
+    },
+    {
+      "plain": "The City Map, the official registry of streets and publicly owned land, is still kept on paper across the five borough president offices.",
+      "quote": "The Map is over 8,000 individual paper maps administered by the offices of the five Borough Presidents."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$82,000",
+      "label": "Added cost per housing unit from the land use process"
+    },
+    {
+      "value": "2 to 3 years",
+      "label": "Time for a private rezoning application approval"
+    },
+    {
+      "value": "12 Community Districts",
+      "label": "Districts covered by the Affordable Housing Fast Track"
+    },
+    {
+      "value": "8,000",
+      "label": "Paper maps making up the City Map"
+    },
+    {
+      "value": "two-thirds",
+      "label": "Vote needed to overturn a City Council land use decision"
+    }
+  ],
+  "recommendations": [
+    "Vote yes on Question 2, creating fast track reviews for affordable housing through the Board of Standards and Appeals and for mixed-income residential projects in the neighborhoods that produce the least affordable housing.",
+    "Vote yes on Question 3, creating an Expedited Land Use Review Procedure for three types of zoning proposals.",
+    "Vote yes on Question 4, creating an Affordable Housing Appeals Board.",
+    "Vote yes on Question 5, modernizing administration of the City Map."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "transparency"
+  ],
+  "is_followup": false
+}

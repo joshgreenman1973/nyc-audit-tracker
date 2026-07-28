@@ -1,0 +1,78 @@
+{
+  "id": "2026-05-06-cbc-more-aboard",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "More Aboard",
+  "plain_title": "Comparing free buses with a bigger Fair Fares discount program",
+  "agency": "New York City government",
+  "issued": "2026-05-06",
+  "url": "https://cbcny.org/research/more-aboard",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_Fair-Bus-Fares_05062026.pdf",
+  "what_they_audited": "A Citizens Budget Commission report comparing the cost and reach of eliminating New York City bus fares with expanding Fair Fares NYC, the city's half-price fare program.",
+  "background": "Fair Fares NYC uses city money to give a half-fare discount on buses and subways to people living at or below 150 percent of the federal poverty level (FPL).",
+  "findings": [
+    {
+      "plain": "Eliminating bus fares would cost the city more than $900 million in the first year, with costs rising after that.",
+      "quote": "Eliminating bus fares would cost more than $900 million in the first year, with costs rising thereafter"
+    },
+    {
+      "plain": "Most lower-income New Yorkers commute by subway, so they would get no benefit from free buses.",
+      "quote": "Nearly three out of every four New Yorkers living below 250 percent of the federal poverty level (FPL) use the subway to get to work and would not benefit from bus fare elimination."
+    },
+    {
+      "plain": "Fare-free bus programs have raised ridership but have rarely made buses faster.",
+      "quote": "Fare-free bus programs in NYC and other places have consistently increased ridership, but rarely increased speed"
+    },
+    {
+      "plain": "About a third of the people eligible for Fair Fares NYC are enrolled.",
+      "quote": "Fair Fares NYC enrolls nearly 400,000 New Yorkers, 31 percent of the 1.23 million eligible"
+    },
+    {
+      "plain": "People earning just above the current eligibility line are far more likely to be working and commuting by transit than those who now qualify.",
+      "quote": "Individuals earning just above the current Fair Fares NYC eligibility level are more likely to be employed and use public transit to commute to work than those currently eligible (71 percent, compared to 39 percent)"
+    },
+    {
+      "plain": "New York City buses are among the slowest in the country.",
+      "quote": "New York City’s buses are some of the slowest in the nation, with an average speed of 7.0 miles per hour"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$900 million",
+      "label": "First-year cost of eliminating bus fares"
+    },
+    {
+      "value": "$86 million",
+      "label": "Fair Fares NYC cost in fiscal year 2025"
+    },
+    {
+      "value": "$146 million",
+      "label": "Projected yearly cost of the proposed expansion"
+    },
+    {
+      "value": "722,000",
+      "label": "New Yorkers the proposed expansion would add"
+    },
+    {
+      "value": "7.0 miles per hour",
+      "label": "Average New York City bus speed"
+    },
+    {
+      "value": "49 percent",
+      "label": "Share of bus riders who evade the fare"
+    }
+  ],
+  "recommendations": [
+    "Raise Fair Fares NYC eligibility to 250 percent of the federal poverty level, which the report projects would add 722,000 New Yorkers at about $146 million a year.",
+    "Increase use of Fair Fares NYC through better education, outreach and simpler enrollment.",
+    "Work with the Metropolitan Transportation Authority (MTA) on infrastructure and operational changes that would make buses faster."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transportation",
+    "social services"
+  ],
+  "is_followup": false
+}

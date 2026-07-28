@@ -1,0 +1,867 @@
+5
+Revenue-Raising  
+Ideas for NYC
+FEBRUARY 2026
+
+5 Revenue-Raising Ideas for NYC is a 
+publication of the Center for an Urban Future.
+Researched and written by Eli Dvorkin, 
+Jonathan Bowles, and Alejandra Díaz-Pizarro. 
+Edited by Dorian Block. Designed by Sarah Tan.
+Center for an Urban Future (CUF) is a leading 
+think tank focused on building a stronger  and 
+more equitable economy in New York City, and 
+expanding economic opportunity for all New 
+Yorkers.
+This report was made possible thanks to the 
+Fisher Brothers Foundation and Winston C. 
+Fisher. General operating support for the 
+Center for an Urban Future has been provided 
+by The Clark Foundation and the Altman 
+Foundation. 
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+CHIEF OF STAFF
+Stephanie Arevalo
+SENIOR EDITOR
+Dorian Block
+SENIOR DATA & POLICY RESEARCHER
+Rachel Neches 
+SENIOR FELLOW FOR CLIMATE & OPPORTUNITY
+John Surico
+POLICY RESEARCHER
+Alejandra Díaz-Pizarro
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo
+BOARD OF DIRECTORS
+Gifford Miller (Chairman) 
+Margaret Anadu
+Jonathan Bowles
+Rafael E. Cestero
+Russell Dubner
+Garnesha Ezediaro
+Susan Fine
+Kyle Kimball
+Katy Knight
+Jessie Lazarus
+David Lebenstein
+Eric S. Lee 
+Josh Moskowitz
+Monisha Nariani
+Max Neukirchen
+Andrew Reicher 
+Peter Schubert
+John Siegal
+Thomas Vecchione
+Sherry Wang
+Kate Wittels
+5 Revenue-Raising  
+Ideas for NYC
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1
+1.   Develop infill housing on portions of CUNY’s campuses  
+to fund critical infrastructure and economic mobility  
+programs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+2.   Generate revenue from autonomous vehicles by  
+establishing impact fees before the market grows . . . . . 5
+3.   Generate revenue and strengthen the energy grid by  
+siting battery storage facilities on city property  . . . . . . 7
+4.   Expand paid street parking, adding more parking meters  
+and piloting new paid street parking options  . . . . . . . . 9
+5.   Expand parks concessions and sponsorship  
+opportunities to help fund quality open spaces . . . . . . 11 
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+ 
+1
+MAYOR ZOHRAN MAMDANI BEGINS HIS TERM WITH AN  
+ambitious agenda aimed at making New York City more 
+affordable. But paying for these bold new initiatives while 
+sustaining core services and programs will be challenging 
+at a time when the city and state face widening budget 
+gaps and massive cuts in federal funding. As the mayor 
+himself put it in response to Governor Kathy Hochul’s 
+State of the State address, “There is no question that New 
+York City requires additional recurring revenue.”
+The mayor has already floated ideas, including a 
+proposal to raise taxes on high earners and corporations. 
+But given that this and other ideas require approval from 
+Albany—and that Governor Hochul has ruled out tax 
+increases—city leaders would be wise to consider multiple 
+new options for generating dedicated revenue, especially 
+those that are firmly within the city’s control. 
+This report does just that. It puts forward five concrete 
+ideas to generate new recurring revenue for the city. Taken 
+together, our five ideas would raise more than $1.4 billion 
+in new revenue each year—or $5.6 billion over the next 
+four years. Importantly, each revenue idea would also 
+advance other critical policy goals at the same time.
+There’s no question that new revenues are needed. 
+Mayor Mamdani is inheriting a city budget marked by 
+persistent structural gaps and little room for creative 
+reallocation. Most of the city’s spending is already locked 
+into fixed cost categories such as employee compensation, 
+education, healthcare, and social services. In recent years, 
+the city has spent billions more than it has collected, while 
+underbudgeting current and future expenses.1 And the 
+risks only grow if and when the next economic downturn 
+hits, with just $2 billion saved in the city’s Rainy Day 
+Fund.2
+Despite better-than-expected revenues in fiscal year 
+2025, the city’s fiscal outlook remains precarious. The 
+City Comptroller projects a $4.2 billion budget gap in FY 
+2026, and city and state officials estimate that the gap 
+could widen to $10 billion by FY 2027 and $13.6 billion 
+in FY 2029. 
+Compounding these challenges are federal policy 
+changes under the Trump administration that are expected 
+to place massive new strains on the city’s budget. Federal 
+cuts to Medicaid and SNAP will add an estimated $952 
+million to New York State’s FY 2026 expenditures, and 
+billions more in the years ahead—much of which could 
+ultimately be borne by the city. 
+Raising new revenue should not be the city’s 
+only response to this budget predicament. The new 
+administration will also need to be laser-focused on 
+boosting efficiency, spending city dollars wisely, and 
+ensuring that public programs generate the maximum 
+possible impact. That includes cutting red tape that 
+inhibits entrepreneurship, small business growth, and 
+housing production, as well as investing in proven 
+economic opportunity and social mobility programs that 
+expand pathways into the middle class and strengthen the 
+city’s economic foundation. But even a more disciplined 
+approach to spending will not be sufficient on its own. 
+Navigating the challenges ahead will also require new, 
+dedicated sources of revenue.
+This report presents five practical options that city 
+leaders should consider as part of the FY 2027 budget. The 
+proposals include levying an impact fee on autonomous 
+vehicles; opening public land for battery storage to 
+strengthen the energy grid; expanding paid street 
+parking; producing new housing on CUNY campuses; 
+1
+Introduction
+2
+5 REVENUE-RAISING IDEAS FOR NYC2
+and expanding parks concessions and sponsorship 
+opportunities to help fund quality open spaces. Together, 
+these ideas are designed to boost housing supply while 
+funding economic mobility; reduce traffic, crashes, and 
+emissions; and position New York City to succeed as new 
+technologies mature.
+As these initiatives scale over the next four years, they 
+could generate approximately $5.6 billion in cumulative 
+revenue. Over the longer term, the proposals for CUNY 
+infill housing and city-sited battery storage could generate 
+more than $5 billion in total lease revenue, a portion of 
+which could be leveraged to support approximately $400 
+million to $700 million in bond financing for critical 
+capital investments. Together, these revenues would help 
+shore up the city’s finances at a moment when New York 
+will need to protect vital services, expand opportunity, 
+and keep the city strong for working- and middle-class 
+New Yorkers during a uniquely challenging time.
+Taken together, our five 
+ideas would raise more than 
+$1.4 billion in new revenue 
+each year—or $5.6 billion 
+over the next four years. 
+Importantly, each revenue 
+idea would also advance 
+other critical policy goals at 
+the same time.
+3
+1
+THOUGH IT HAS MADE A STRONG RECOVERY AFTER THE 
+pandemic, the City University of New York (CUNY)—one 
+of New York City’s most powerful engines of economic 
+mobility—continues to face steep unmet needs. These 
+range from expanding key college and career success 
+programs like CUNY ACE to modernizing the university’s 
+deteriorating infrastructure. CUNY relies on a mix of city, 
+state, and federal funding; with federal support under 
+growing threat and increasing fiscal pressure on city and 
+state budgets, New York will need new, sustainable ways 
+to support its flagship public university system.
+One promising option is to unlock underutilized 
+land on CUNY campuses for infill housing—generating 
+dedicated, recurring revenue for the university while also 
+adding much-needed homes in residential neighborhoods 
+across the city. Many CUNY campuses abut residential 
+areas and include surface parking lots or other underused 
+parcels that could be redeveloped through long-term 
+ground leases. This approach mirrors the infill housing 
+model now being deployed on NYCHA campuses, in 
+which public land is retained while generating recurring 
+revenue. This strategy could also be combined with the 
+transfer of existing, unused air rights to unlock additional 
+housing and revenue potential. All told, these steps 
+could generate between $30 million and $55 million in 
+annual lease payments—and $3.0 to $5.4 billion over a 
+99-year lease period, providing a stable revenue stream 
+that could support bond financing.
+The scale of the opportunity is significant, even with 
+conservative assumptions about how much development 
+could be unlocked without significant upzoning. Six 
+CUNY campuses exceed 40 acres in size, and collectively 
+CUNY controls more than 80 acres of surface parking.3  
+Even a modest redevelopment strategy—focused on 
+campus edges and underutilized parcels—could deliver 
+millions of dollars in recurring annual revenue and create 
+housing, while strengthening one of the city’s most 
+important assets for the long term.
+A brief survey of several campuses reveals their 
+potential. At Queens College in Flushing, 12 percent of 
+the campus area is currently used for 17 parking lots. 
+Two lots along 61st Road—15N and 15S—sit directly 
+across from residential zoning and near a larger interior 
+parking facility. With a combined area of 2.2 acres, these 
+sites could support more than 200 new homes with a 
+modest, contextual upzoning aligned with surrounding 
+development—and generate approximately $1.2 to $1.9 
+million in recurring annual revenue, while requiring 
+Queens College to give up only a small share of its 
+existing parking supply.4 Additional upzoning could more 
+than double the number of homes—and the revenue 
+potential—from the site.
+At Kingsborough Community College in Brooklyn, 
+roughly 15 percent of the campus is devoted to parking, 
+including several lots near Pembroke Street adjacent to 
+residential blocks and located within a mile of the B and 
+Q subway lines. Redeveloping just a portion of these 
+sites could add new housing and generate on the order 
+of $800,000 to $1.4 million in recurring annual revenue, 
+with minimal impact on core campus operations.
+At the College of Staten Island, which spans roughly 
+204 acres, more than 25 acres—over 10 percent of 
+the campus—is currently devoted to surface parking. 
+Develop infill housing on portions 
+of CUNY’s campuses to fund 
+critical infrastructure and 
+economic mobility programs.
+4
+5 REVENUE-RAISING IDEAS FOR NYC
+Portions of the South Campus parking areas, which abut 
+residential neighborhoods and vacant parcels, could be 
+redeveloped for infill housing. Even under conservative 
+density assumptions, redevelopment of a single five-
+acre site could generate roughly $500,000 to $900,000 
+in recurring annual revenue, while preserving the vast 
+majority of campus parking. The campus could easily 
+accommodate four of these projects, generating anywhere 
+from $2 million to $3.6 million in annual revenue.
+Similar opportunities exist at other large campuses, 
+including Lehman College, York College, Brooklyn 
+College, City College, Bronx Community College, and 
+Queensborough Community College, many of which sit 
+in residential neighborhoods with growing demand for 
+housing and underutilized campus land along their edges.
+Rather than treating infill as a series of isolated 
+pilots, city and university leaders should pursue a more 
+systematic strategy. As a starting point, redeveloping 
+roughly one-third of CUNY’s existing surface parking, 
+along with at least one additional infill site on each campus 
+larger than 30 acres—and some modest, neighborhood-
+appropriate upzoning—could generate approximately 
+$30 to $55 million annually in recurring revenue, while 
+adding thousands of new homes and preserving public 
+ownership of campus land. Actual revenues would vary 
+by site and design, but even under cautious assumptions, 
+the fiscal potential is substantial. Across a 99-year lease 
+period, these projects could generate up to $5.4 billion 
+in new revenue from lease payments alone. 
+Revenue generated through long-term ground 
+leases could be dedicated to expanding proven economic 
+mobility programs such as CUNY ASAP and CUNY ACE, 
+which have significantly improved graduation rates but 
+still serve only a minority of CUNY students. Additional 
+funds could be directed toward addressing aging campus 
+infrastructure—an especially urgent priority given 
+CUNY’s approximately $7 billion backlog in unmet 
+capital needs.5 
+The Mamdani administration has already taken one 
+key step toward realizing this opportunity by creating the 
+LIFT Task Force, with the goal of identifying city-owned 
+land that could be turned into housing.6 Pursuing infill 
+development on CUNY campuses stands out as a practical, 
+scalable opportunity that could generate meaningful 
+benefits for the colleges and the New Yorkers they serve. 
+By coordinating with CUNY and the Dormitory Authority 
+of the State of New York (DASNY), City Hall can help 
+transform underutilized campus land into a long-term, 
+income-producing asset—strengthening one of the city’s 
+most vital institutions while helping New York meet the 
+fiscal challenges ahead.
+Estimated annual revenue:
+$30–$55
+million
+Who acts: Mayor; CUNY; DASNY; City Council
+What’s required: Executive leadership to prioritize campus infill; 
+coordination with CUNY and DASNY to structure 
+long-term ground leases; targeted land-use approvals 
+for individual sites and contextual upzoning to 
+maximize housing potential
+Timeline: Near- to medium-term, with revenue ramping up as 
+projects come online
+5
+2
+Generate revenue from 
+autonomous vehicles by 
+establishing impact fees  
+before the market grows
+IT IS STILL VERY EARLY DAYS FOR AUTONOMOUS 
+vehicles in New York City. But the technology has the 
+potential to advance the city’s street safety and climate 
+goals—and, if permitted to operate here, to generate a 
+significant new revenue stream at a moment when the 
+city will urgently need it.
+Driverless ride-hailing services are already operating 
+at scale in several major U.S. cities, and state lawmakers in 
+Albany are actively considering legislation that would allow 
+autonomous vehicles to operate in New York. Waymo is 
+currently testing autonomous vehicles on New York City 
+streets under temporary permits issued last year by the 
+Department of Transportation. In January, Governor 
+Hochul announced plans to advance the next phase of 
+the state’s autonomous vehicle pilot program by allowing 
+limited commercial deployment outside New York City—
+underscoring the pace at which this technology is moving, 
+even as New York City retains separate authority over 
+whether and how autonomous vehicles operate here. 
+Unlike with ride-hailing in the early 2010s, city leaders 
+have an opportunity this time to get ahead of a major 
+transportation shift by putting a revenue framework 
+in place before the market takes off. When ride-hailing 
+services first arrived in New York, the city allowed them 
+to scale rapidly while relying largely on existing taxi 
+regulations.7 Trips grew from zero to nearly 800,000 
+per day by 2019, yet the city captured relatively little 
+revenue from the emergence of a massive new industry. 
+Autonomous vehicles present a similar inflection point, 
+but with one critical difference: city leaders now have the 
+benefit of hindsight and the chance to act earlier.
+And city leaders would be wise to do so: autonomous 
+electric vehicles have the potential to increase passenger 
+and traffic safety, reduce emissions, and close transit 
+gaps. But to realize this opportunity while mitigating the 
+risks, the city should learn from past mistakes and act 
+now to establish the rules that will shape this emerging 
+technology and its impact on New Yorkers.
+The mayor and City Council can lay the groundwork 
+by establishing clear rules for how autonomous vehicles 
+can be licensed and regulated in New York City, including 
+an autonomous vehicle impact fee—combining a per-trip 
+surcharge with annual permit fees—to ensure this new 
+technology helps fund public priorities, including electric 
+vehicle charging infrastructure, streetscape improvements, 
+and support for drivers who do these jobs today.
+If New York establishes an autonomous vehicle fee 
+structure early, the revenue potential is substantial. An 
+initial deployment of roughly 1,000 to 1,500 vehicles, 
+providing 20,000 to 25,000 rides per day, could generate 
+between $15 million and $25 million annually. This 
+estimate assumes a $2 per-trip impact fee on autonomous 
+vehicle rides and an annual permit fee of $250,000 per 
+company operating driverless ride-hailing services in the 
+city. Introducing autonomous delivery fleets could add 
+substantial additional revenue. And these fees need not 
+pose a cost burden on customers. Today, driver earnings 
+comprise about 75 percent of a typical Uber or Lyft fare, 
+before expenses. Without those costs, autonomous vehicle 
+companies should be able to keep fares consistent without 
+passing along a surcharge to the rider.
+Over time, the opportunity becomes far larger. If 
+autonomous vehicles were to capture even half of New 
+6
+5 REVENUE-RAISING IDEAS FOR NYC
+York’s current ride-hailing volume—approximately 
+650,000 daily trips—the per-trip fee alone would generate 
+roughly $237 million per year, creating a significant 
+recurring revenue stream.
+There is an increasingly compelling public-health case 
+for doing so. Independently analyzed data from Waymo’s 
+operations—covering nearly 100 million miles of driverless 
+trips across multiple U.S. cities—shows “91 percent fewer 
+serious-injury-or-worse crashes” than human drivers.8 In 
+2024 alone, TLC-licensed vehicles were involved in more 
+than 10,000 reported crashes, resulting in thousands of 
+injuries across New York City.9 In a city where vehicular 
+crashes continue to claim hundreds of lives each year, 
+autonomous vehicles could support long-standing Vision 
+Zero goals. Electric autonomous vehicle fleets could also 
+help reduce transportation-related emissions and improve 
+air quality, particularly in neighborhoods that have long 
+borne the brunt of pollution from cars and trucks.
+At the same time, the economic risks are real. Nearly 
+180,000 New Yorkers hold licenses to drive taxis, for-hire 
+vehicles, or ride-hailing cars, and thousands more drive 
+delivery vehicles—most of whom depend on this work as 
+a primary source of income. If autonomous vehicles are 
+allowed to operate in the city, a meaningful portion of 
+the resulting revenue should be dedicated to supporting 
+workers affected by the transition. 
+To do this, the city should consider establishing 
+a Driver Support Fund to help for-hire drivers access 
+career training programs, entrepreneurship support, 
+and pathways into growing fields such as electric 
+vehicle maintenance, logistics technology, and green 
+infrastructure. Revenue could also help fund electric vehicle 
+charging infrastructure, street safety improvements, and 
+public transit investments, ensuring that the benefits of 
+automation are broadly shared.
+New York should embrace a future that includes 
+autonomous electric vehicles—but it should insist on 
+getting it right. By establishing an impact fee framework 
+now, the city can harness the benefits of this emerging 
+technology while ensuring it generates meaningful 
+revenue, makes the streets more welcoming to innovation, 
+and supports New Yorkers’ economic, transportation, and 
+public-health needs.
+Estimated annual revenue:
+$15–$25
+million initially; up to $237 
+million as autonomous  
+vehicles scale
+Who acts: Mayor; City Council; NYC Department of 
+Transportation; Taxi and Limousine Commission
+What’s required: Local legislation establishing an autonomous vehicle 
+impact fee and permit structure; agency rulemaking to 
+license and regulate autonomous fleets; coordination 
+to dedicate revenue to key public priorities
+Timeline: Medium-term, aligned with state authorization and 
+early commercial deployment
+77
+NEW YORK CITY WILL NEED DOZENS OF NEW BATTERY 
+storage facilities in the decade ahead. Building out 
+this vital new energy infrastructure will be crucial to 
+meeting New York’s clean energy goals, modernizing the 
+city’s aging electrical system, and adding much-needed 
+resiliency to the grid at a time when demand for power 
+is skyrocketing from the boom in artificial intelligence 
+and the electrification of vehicles and buildings. But 
+the rollout of battery storage facilities across the five 
+boroughs has the potential to help the city in another 
+important way: providing tens of millions of dollars in 
+new revenues. 
+City leaders can reap this revenue boost by taking 
+steps to ensure some of the new battery storage facilities 
+developed in the coming years are built on city property. 
+Achieving this is not an abstract notion. In 2023, 
+the Mayor’s Office of Climate and Environmental Justice 
+(MOCEJ) concluded that there are “numerous City-
+owned locations that could provide opportunities for 
+siting battery storage throughout the city.” In fact, 
+MOCEJ identified 47 city-owned sites—including unused 
+vacant land and parking lots—that could be used to 
+deploy approximately 400 megawatts (MW) of storage, 
+about 300 MW of which has passed initial land review 
+by relevant city agencies.10
+To date, the city has not even begun to capitalize 
+on the opportunity identified by MOCEJ. Since that 
+2023 report, the Department of Citywide Administrative 
+Services (DCAS) (the agency that oversees city property) 
+has not put out a single RFP soliciting bids for energy 
+storage. 
+The potential for new revenues is not insignificant. 
+One developer working on battery storage projects in 
+the city estimated a 10,000 square foot parcel would 
+bring in around $200,000 per year in rental payments 
+to the city—or $5 million over the course of a 25-year 
+lease. Leasing the 609,000 ground square feet identified 
+by MOCEJ at lease rates on the order of $200,000 per 
+10,000 square feet would generate up to $15 million in 
+new city revenues per year.
+“Energy storage makes the city’s grid more affordable, 
+more reliable, and cleaner, and also can be a significant 
+source of revenue when located on city-owned property,” 
+says Sam Brill, vice president for strategic development 
+at NineDot Energy, one of the city’s leading developers of 
+battery storage facilities. “There are dozens of these sites 
+identified by the city as appropriate for energy storage 
+projects, and the city could earn hundreds of thousands 
+of dollars in yearly lease revenues on each of these.”
+Taking these steps would also help the city make 
+critical progress in creating a cleaner and more reliable 
+energy grid. The New York State Energy Research and 
+Development Authority (NYSERDA) has detailed a need 
+for 2 gigawatts (2,000 MW) of energy storage across the 
+five boroughs by 2030 (out of 6 gigawatts statewide). 
+The city is currently far short of those targets, with just 
+3
+Generate revenue and strengthen 
+the energy grid by siting battery 
+storage facilities on city property.
+8
+5 REVENUE-RAISING IDEAS FOR NYC8
+under 100 MW currently installed and online today. 11  
+But reaching these energy storage milestones will be key 
+to achieving the state’s lofty climate goals, which include 
+achieving 70 percent of its electricity from renewables 
+by 2030 and a zero-emission electric grid by 2040.
+Expanding energy storage would also strengthen 
+the resilience of New York City’s often strained electric 
+grid by providing a critical power reserve that can be 
+deployed during periods of peak demand—on the hottest 
+summer days when air-conditioning use spikes and in 
+winter as more households rely on electric heat pumps 
+instead of gas or oil. At the same time, battery storage can 
+reduce the need to operate gas-fired peaker plants during 
+these demand surges. Although peaker plants run only 
+intermittently, they are among the city’s dirtiest sources 
+of electricity and impose disproportionate health burdens 
+on nearby communities, which are overwhelmingly low-
+income communities of color.
+The Mamdani administration should move 
+aggressively to expedite the siting of battery storage 
+across the city. One of the clearest paths to achieve this 
+is to advance projects on city-owned lots and vacant 
+land, a step that would enable the city to make crucial 
+progress on climate goals while adding millions of dollars 
+in new revenue. Mayor Mamdani should direct DCAS to 
+issue RFPs for at least 40 of the 47 city-owned sites that 
+MOCEJ identified in its 2023 report. 
+Estimated annual revenue:
+$15
+million
+Who acts: Mayor; Department of Citywide Administrative 
+Services; Mayor’s Office of Climate and Environmental 
+Justice
+What’s required: Executive direction to issue RFPs for battery storage on 
+city-owned land; lease agreements with private 
+developers; interagency coordination to expedite siting 
+and approvals
+Timeline: Near-term, with revenue generated as projects are 
+leased and brought online
+99
+OF ALL THE OPTIONS AVAILABLE TO POLICYMAKERS that 
+do not require state action or new taxes, arguably none 
+has more potential to raise revenue than an expansion 
+of paid street parking. 
+New York City has more than 12,000 miles of curb, 
+encompassing over 3 million street parking spaces. But 
+just 80,000 of these are metered, or fewer than 2.5 
+percent. That’s a costly missed opportunity: the city’s 
+current parking meter program generates about $258 
+million in revenue annually—a figure that is essentially 
+flat over the past decade after adjusting for inflation. If 
+the city were to meter just 25 percent of existing free 
+street parking spaces, it could generate at least $1.21 
+billion in additional annual revenue—enough to close 
+roughly a quarter of the projected $4.2 billion gap in the 
+city’s budget for FY 2026.12 
+In expanding, the city could prioritize parking 
+spots along commercial corridors and major avenues, 
+where metering even a few more blocks could lead 
+to substantial increases in revenue. In Brooklyn, for 
+example, the four-block stretch on Nostrand Avenue 
+between Halsey Street and Madison Street does not have 
+metered parking, despite boasting multiple businesses 
+and being directly adjacent to the Bed-Stuy Gateway 
+BID.13  The block directly below—between Halsey and 
+Macon—is a Zone 2 metered parking area; extending it 
+just four blocks north, to Madison Street, could generate 
+roughly $300,000 annually. 
+Crucially, small businesses stand to benefit. In areas 
+with metered parking, spaces turn over more frequently 
+and drivers spend far less time searching for a spot. 
+That saves drivers time, improves customer access for 
+local businesses, and reduces greenhouse gas emissions 
+by cutting down on circling and idling. The deployment 
+could preserve free street parking in many residential areas 
+where New Yorkers depend on their vehicles for day-to-day 
+transportation, while focusing on commercial corridors 
+and denser areas with good access to public transportation.
+Riding on the success of congestion pricing, the 
+city could also implement dynamic or peak-time pricing 
+for street parking. Since 2018, parking meters citywide 
+have been priced according to a six-tier system that sets 
+hourly rates by an area’s demand for parking, and charges 
+more for each consecutive hour of parking—but without 
+differentiating between peak and off-peak times. The city 
+has tried this before: between 2008 and 2013, NYC DOT 
+piloted PARK Smart, which introduced peak/off-peak 
+pricing in five pilot areas across three boroughs. In all pilot 
+areas except the Upper East Side, the program increased 
+parking availability—18 percent more drivers were able to 
+find legal metered spaces—but the effort never got out of 
+the pilot phase.14 Amid recent proposals at the local level 
+to implement dynamic pricing, now is an opportune time 
+to revive PARK Smart.15
+NYC could follow models like Seattle and San 
+Francisco, which use meter transaction receipts to measure 
+occupancy and turnover rate, determine where parking 
+is most/least in demand, and adjust rates accordingly 
+three or four times a year. 16  In addition to revenue, 
+dynamic pricing offers tangible benefits for drivers: in 
+San Francisco, the average hourly rates outside the busiest 
+areas actually dropped during the pilot, with 17 percent 
+4
+Expand paid street parking, adding 
+more parking meters and piloting 
+new paid street parking options.
+10
+5 REVENUE-RAISING IDEAS FOR NYC10
+of meters offering hourly rates of $1 or less, and cruising 
+while looking for parking dropped 50 percent.17
+One common complaint among the city’s drivers 
+could be addressed in a way that also generates new 
+revenue: the creation of a residential parking permit 
+system. In many neighborhoods, residents struggle to 
+find on-street parking while seeing curb space taken up 
+by commercial vehicles and cars registered out of state. In 
+San Francisco, Residential Permit Parking in 31 city areas 
+charges residents $215 for an annual parking permit, 
+generating approximately $22.8 million annually. In New 
+York, implementing a $75 parking permit fee for just 10 
+percent of car-owning households could raise more than 
+$132 million dollars annually.18
+Expanding street parking offers significant revenue 
+opportunities and proven positives for residents, drivers, 
+and businesses—and can be accomplished without 
+approval from Albany. In the upcoming year, the DOT 
+could take several steps: it could identify unmetered 
+corridors and create a plan to expand metered parking 
+there; launch dynamic pricing in central business districts; 
+and pilot residential parking permits. With the enthusiasm 
+growing around the benefits of congestion pricing, the 
+mayor should leverage this moment to modernize and 
+expand paid street parking—generating substantial 
+revenue while helping to make the city more livable.
+Estimated annual revenue:
+$1.3
+billion
+Who acts: Mayor; NYC Department of Transportation; City Council
+What’s required: Local legislation to expand metered parking and 
+authorize residential permits; agency action to identify 
+unmetered corridors, implement dynamic pricing pilots, 
+and phase in new meters
+Timeline: Near-term, with phased implementation and rapid 
+revenue impact
+1111
+5
+Expand parks concessions and 
+sponsorship opportunities to  
+help fund quality open spaces.
+NEW YORK CITY’S PARKS AND PUBLIC SPACES ARE 
+seeing record levels of use. Visitation surged during 
+the pandemic and has continued to grow, as more New 
+Yorkers rely on parks, plazas, and open streets as a free, 
+communal backyard. This growing demand poses new 
+challenges: more wear and tear, rising maintenance costs, 
+and increased pressure on already-stretched budgets. 
+But it also presents an opportunity: with more people 
+spending more time in public space, the city is well-
+positioned to expand concessions and sponsorships in 
+ways that improve the visitor experience while generating 
+dedicated, recurring revenue. 
+There is significant room to expand concessions in 
+ways that enhance how New Yorkers use parks today. 
+Cafés near playgrounds could allow families to eat 
+together while children play. New recreation rentals 
+could activate waterfronts, greenways, and large parks, 
+supporting activities like biking, boating, and skating. 
+Seasonal facilities—such as bathhouses that now operate 
+only in summer—could be adapted for year-round use 
+as spas or wellness destinations. Small food halls or 
+community-oriented vendors could turn expanses of 
+asphalt into neighborhood anchors.
+Other cities offer useful examples. In recent years, 
+Minneapolis brought the James Beard Award-winning 
+restaurant Owamni to its waterfront park; Chicago 
+expanded beachside bars, eateries, and recreational 
+rentals along its lakefront; and Philadelphia found 
+success with its mobile beer garden, Parks on Tap. New 
+York City has begun to move in this direction, with recent 
+additions like McCarren Parkhouse and the Queensboro 
+Oval.
+A targeted expansion of concessions at well-chosen 
+sites could generate $15 million to $25 million in new 
+annual revenue, while expanded sponsorship agreements 
+could generate an additional $10 to $15 million annually. 
+Flexible approaches—including modular or seasonal 
+structures—would allow the city to test concepts, 
+respond to neighborhood context, and support a wider 
+range of operators.
+There is plenty of unmet need today. Across more 
+than 30,000 acres of parkland in the five boroughs, the 
+city licenses just 15 restaurant concessions—two of 
+which operate only for private events and three of which 
+are located on golf courses or at marinas—and only 
+seven cafés. More than half of all park concessions are 
+mobile carts or trucks, like pretzel or hot dog vendors, 
+and the city has added relatively few new recreational 
+concessions in recent years.
+At the same time, conservancies, nonprofit partners, 
+and neighborhood groups are playing an ever-larger role 
+in maintaining and programming public space, from 
+parks to plazas and open streets. Yet many of these 
+organizations struggle to sustain their work with city 
+dollars and grants alone. Expanding concessions and 
+sponsorships would help close this gap, strengthening 
+public spaces while making their stewardship more 
+financially sustainable over time.
+Too often, however, these efforts are constrained by 
+inconsistent rules and limited mechanisms for generating 
+recurring revenue. Organizations report wide variation 
+in what they are allowed to fund, how long sponsorships 
+can last, and what forms of recognition are permitted. 
+12
+5 REVENUE-RAISING IDEAS FOR NYC12
+Insurance requirements further complicate innovative 
+partnerships, increasing costs for nonprofit partners and 
+discouraging long-term commitments. As a result, many 
+groups willing to take on stewardship responsibilities 
+struggle to sustain their work.
+In the near term, City Hall could take several concrete 
+steps to unlock this potential. First, the mayor should 
+launch a new effort to significantly expand concessions 
+and sponsorships across parks and other public spaces, 
+with the dual goals of improving the visitor experience 
+and generating meaningful, recurring revenue. As a 
+starting point, the city should commit to creating at 
+least 20 new destination concessions in parks across 
+the five boroughs, which could generate an additional 
+$15 million or more in annual revenue while meeting 
+demand from park-goers. Sponsorship agreements—for 
+instance, a major professional sports league adopting 
+the city’s basketball courts or soccer fields—could net 
+another $10 million or more.
+To ensure that parks and public spaces retain the 
+benefits of this new revenue, city leaders should distribute 
+concession and sponsorship dollars through one or more 
+designated “trusted partners,” with funds directed 
+toward maintenance, operations, and programming 
+needs citywide—including in parks where the underlying 
+economics may not support new concessions. Building 
+on this approach, City Hall should explore launching 
+a Concessions Investment Fund, in partnership with 
+New York City Economic Development Corporation, to 
+attract private capital to help revitalize underused park 
+and public-space assets. At the same time, NYC Parks 
+could pilot more flexible concession models—including 
+prefabricated structures or mobile facilities—to lower 
+upfront costs, expand access for smaller operators, and 
+allow new concepts to be tested more quickly.
+Finally, City Hall should spearhead an effort to 
+standardize the rules governing concessions and 
+sponsorships across agencies and their nonprofit 
+partners. Clarifying what private funding can support, 
+how long agreements may last, and how revenue is shared 
+would give conservancies, BIDs, and other stewards of 
+public space clearer expectations—and make it easier to 
+scale successful models across parks, plazas, and open 
+streets citywide.
+There’s no question that public parks and open spaces 
+will require dedicated public investment to thrive. But a 
+thoughtful expansion of concessions and sponsorship 
+agreements can generate millions in recurring revenue, 
+create amenities that New Yorkers want, and help the city 
+reinvest in the green spaces that contribute to physically 
+and economically healthy communities.
+Estimated annual revenue:
+$25–$40
+million
+Who acts: Mayor; NYC Parks; NYC Economic Development 
+Corporation; nonprofit park partners
+What’s required: Executive initiative to create new destination concessions; 
+standardized rules for concessions and sponsorships; 
+creation of trusted revenue-sharing mechanisms and a 
+Concessions Investment Fund to channel private capital 
+and retain revenue for public spaces
+Timeline: Near-term, with revenue growing as concessions and 
+sponsorships scale
+5 REVENUE-RAISING IDEAS FOR NYC
+1313
+Conclusion
+Mayor Mamdani is inheriting a city budget with 
+persistent structural gaps and limited room for creative 
+reallocation. With major spending already locked into 
+core services—and with federal funding under increasing 
+threat—the need for additional, recurring revenue is 
+clear. Yet many of the most frequently discussed options 
+depend on approval from Albany, including tax increases 
+that the governor has declined to pursue.
+The five ideas in this report focus instead on revenue 
+tools that are largely within the city’s control. Each is 
+designed to generate dedicated, recurring revenue while 
+advancing other critical policy goals, from expanding 
+housing and economic mobility to improving parks and 
+public space, increasing street safety, and strengthening 
+the city’s electrical grid.
+Taken together, these proposals show that New 
+York City has practical, locally actionable options for 
+strengthening its fiscal position. Pursuing one—or all—
+of these ideas would give the new administration greater 
+flexibility to sustain core services, invest strategically, and 
+navigate a challenging fiscal landscape in the years ahead.
+Revenue Idea Estimated Annual Revenue Primary Decision-Makers Requires Albany?
+Infill housing on 
+CUNY campuses
+$30–$55 million Mayor, CUNY, DASNY,  
+City Council (land use)
+No (coordination with 
+DASNY required)
+Autonomous vehicle 
+impact fees
+$15–$25 million (near 
+term); up to $237 million as 
+AVs scale
+Mayor, City Council, DOT, 
+TLC
+No (local authority)
+Battery storage on 
+city-owned land
+$15 million Mayor, DCAS, MOCEJ No
+Expand paid street 
+parking
+$1.3+ billion Mayor, DOT, City Council No
+Expand parks 
+concessions & 
+sponsorships
+$25–$40+ million Mayor, NYC Parks, EDC No
+Ideas to Generate Dedicated, Recurring Revenue for NYC
+5 REVENUE-RAISING IDEAS FOR NYC
+14
+Endnotes 
+1  Chris Henrichson and Ana Campeny, NYC Budget Blueprint: 9 Smart Choices to Improve Stability, Preparedness, and 
+Services, Citizens Budget Commission, November 2025, https://cbcny.org/sites/default/files/media/files/CBCREPORT_Smart-
+Choices-Blueprint_11122025_0.pdf. 
+2  Office of the New York State Comptroller, Review of the Financial Plan of the City of New York, Report 18–2026, December 
+2025, https://www.osc.ny.gov/files/reports/osdc/pdf/report-18-2026.pdf. 
+3  City University of New York, “Space Usage Statistics Fall 2021,” https://www.cuny.edu/wp-content/uploads/sites/4/page-
+assets/about/administration/offices/budget-and-finance/services/capital-budget/Statistics-2021.pdf 
+4  Center for an Urban Future analysis based on a modest, contextual upzoning consistent with surrounding development and a 
+long-term ground-lease model. Recurring revenue estimates assume annual lease and PILOT-style payments of approximately 
+$5 to $8 per buildable square foot, consistent with public-land infill housing precedents in New York City. Actual revenues would 
+vary by site and project design.
+5  City University of New York, “Five Year Capital Plan FY2025-26 through FY2029-30,” https://www.cuny.edu/wp-content/
+uploads/sites/4/page-assets/about/administration/offices/fpcm/Complete-Book-Request-2.pdf
+6  New York City Office of the Mayor, “Executive Order 04,” January 1, 2026, https://www.nyc.gov/mayors-office/news/2026/01/
+executive-order-04
+7  Annie McDonough, “Could self-driving cars be on a collision course with Zohran Mamdani?,” City & State New York, 
+December 12, 2025, https://www.cityandstateny.com/policy/2025/12/could-self-driving-cars-be-collision-course-zohran-
+mamdani/410149/ 
+8  Dr. Jonathan Slotkin, “The Data on Self-Driving Cars Is Clear. We Have to Change Course.,” The New York Times, December 2, 
+2025, https://www.nytimes.com/2025/12/02/opinion/self-driving-cars.html 
+9 Center for an Urban Future analysis of Local Law 31 TLC crash data.
+10  PowerUp NYC, Mayor’s Office of Climate & Environmental Justice, “Energy Storage: Reducing Reliance on Fossil Fuel-Fired 
+Power Plants,” September 2023, https://www.nyc.gov/assets/climate/downloads/pdfs/PowerUp_ResearchandFindings-
+Memo_Energy-Storage.pdf 
+11  Center for an Urban Future analysis of data from NYSERDA, through November 30, 2025.
+12  Center for an Urban Future, “5 Ideas to Advance Economic Mobility in NYC Amid Harmful Federal Policies,” July 2025, https://
+nycfuture.org/research/5-ideas-to-advance-economic-mobility-in-nyc-2025 
+13  Data from the NYC Metered Parking Map (https://nycdot.maps.arcgis.com/apps/webappviewer/index.
+html?id=a786e79ea512421baecd3bbd1c5619d6). 
+14  U.S. Department of Transportation, Federal Highway Administration Office of Operations, “Parking Pricing,” last modified 
+February 11, 2022, https://ops.fhwa.dot.gov/congestionpricing/strategies/not_involving_tolls/parking_pricing.htm 
+15  On the UWS, Community Board 7 already recommended dynamic pricing for meters in the area in June 2024 (https://
+www.nyc.gov/html/dot/downloads/pdf/smart-curbs-upper-west-side-jun2024.pdf). A local law has been filed with the 
+City Council to establish at least one dynamic pricing zone per borough (https://legistar.council.nyc.gov/LegislationDetail.
+aspx?ID=6558077&GUID=094A6B07-B153-4DE2-A89B-4024257E3CE3).
+16  Purva Kapshikar, “PARK Smarter: Lessons in curb pricing for New York City,” UCLA Institute of Transportation Studies, June 
+2023, https://escholarship.org/content/qt58819232/qt58819232_noSplash_6aea47c666fc5a654c29c8932268accf.pdf 
+17  Adam Millard-Ball, Rachel R. Weinberger, and Robert C. Hampshire, “Is the curb 80% full or 20% empty? Assessing the 
+impacts of San Francisco’s parking pricing experiment,” Transportation Research Part A: Policy and Practice 63 (May 2014): 
+76-92, https://doi.org/10.1016/j.tra.2014.02.016. 
+18 Center for an Urban Future analysis of data from the U.S. Census American Community Survey, 2024.

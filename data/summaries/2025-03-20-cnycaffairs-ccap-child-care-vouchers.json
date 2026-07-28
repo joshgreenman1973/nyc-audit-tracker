@@ -1,0 +1,87 @@
+{
+  "id": "2025-03-20-cnycaffairs-ccap-child-care-vouchers",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "New York City Needs Additional Funds to Maintain Child Care Assistance Program (CCAP) Vouchers in State Fiscal Year 2026 and Beyond",
+  "plain_title": "What it would cost to keep child care vouchers going",
+  "agency": "New York City government",
+  "issued": "2025-03-20",
+  "url": "http://www.centernyc.org/reports-briefs/new-york-city-needs-additional-funds-to-maintain-child-care-assistance-program-ccap-vouchers-in-state-fiscal-year-2026-and-beyond",
+  "pdf": "https://www.centernyc.org/s/CNYCA_CCBG_Shortfall_brief.pdf",
+  "what_they_audited": "An issue brief from the Center for New York City Affairs giving an independent analysis of the Child Care Block Grant (CCBG) shortfall that the city's Administration for Children's Services (ACS) identified during the state budget process.",
+  "background": "The city is required to give Child Care Assistance Program (CCAP) vouchers to families on cash assistance, known in New York as Temporary Assistance (TA), and work requirements for those families that were paused during the pandemic are being reinstated.",
+  "findings": [
+    {
+      "plain": "Voucher use by families on cash assistance is projected to climb sharply once work requirements return.",
+      "quote": "The upper-bound estimate for TA monthly CCAP voucher need is 67,000 by the end of State FY2026"
+    },
+    {
+      "plain": "Because vouchers for cash assistance families are mandatory and vouchers for other low-income families are not, the brief says a shortfall would fall on the second group.",
+      "quote": "the City will be required to cut vouchers currently being used by 37,717 non-TA low-income families"
+    },
+    {
+      "plain": "The average value of a voucher has roughly doubled since 2019, which the brief attributes to state market rate increases and the collapse in legally exempt providers.",
+      "quote": "The current estimated average weekly CCAP voucher value is $301, compared to $154 in 2019."
+    },
+    {
+      "plain": "The number of legally exempt providers, where cash assistance families most often used vouchers before the pandemic, fell steeply.",
+      "quote": "In 2018, there were 10,758 LE providers in the city caring for one or more children with a CCAP voucher."
+    },
+    {
+      "plain": "Current funding covers the 2024 average level of voucher use but not the higher level reached in December 2024.",
+      "quote": "it is insufficient to continue funding CCAP voucher use (non-TA low-income and TA combined) at the level reached in December 2024 (88,911)"
+    },
+    {
+      "plain": "The brief's own cost estimate comes in somewhat below the amount ACS asked the state for.",
+      "quote": "We estimate that the City needs an additional $823 to $907 million through Federal FY2026"
+    },
+    {
+      "plain": "The brief says federal block grant funding is set by formula and rollover balances, so it will not rise to meet growing demand.",
+      "quote": "NYS should not expect to receive more TANF or CCDBG funding due to increased demand"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$823 to $907 million",
+      "label": "Added funding the brief estimates the city needs"
+    },
+    {
+      "value": "$987 million",
+      "label": "ACS's own additional funding request"
+    },
+    {
+      "value": "$301",
+      "label": "Estimated average weekly voucher value"
+    },
+    {
+      "value": "$154",
+      "label": "Average weekly voucher value in 2019"
+    },
+    {
+      "value": "37,717",
+      "label": "Non-mandated low-income vouchers at risk"
+    },
+    {
+      "value": "88,911",
+      "label": "Total vouchers in use in December 2024"
+    },
+    {
+      "value": "4,000-7,000",
+      "label": "Children ACS says would lose assistance each month"
+    }
+  ],
+  "recommendations": [
+    "Fill the funding gap so the Child Care Assistance Program can keep operating at its current eligibility level, rather than cutting vouchers already issued to low-income families.",
+    "Have the state and city work together to develop non-federal revenue streams for the program, since federal block grants will not grow with demand, and revisit the estimate once work requirements have been in effect for a year.",
+    "Improve uptake of unfilled Department of Education contracted early childhood seats, particularly among cash assistance recipients, to offset projected voucher spending."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "children and youth",
+    "social services",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

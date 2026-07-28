@@ -1,0 +1,82 @@
+{
+  "id": "2026-06-09-cbc-how-did-he-do-it",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "How Did He Do It?",
+  "plain_title": "What the fiscal 2027 executive budget does and does not fix",
+  "agency": "New York City government",
+  "issued": "2026-06-09",
+  "url": "https://cbcny.org/research/how-did-he-do-it",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_HDHDI-NYC-FY2027-Exec_06092026_1.pdf",
+  "what_they_audited": "A Citizens Budget Commission report analyzing Mayor Zohran Mamdani's fiscal year 2027 executive budget for New York City.",
+  "background": "The budget is balanced, as the law requires, and it corrects years of underbudgeting to give a fuller picture of the city's spending obligations.",
+  "findings": [
+    {
+      "plain": "Most of the actions used to balance the fiscal 2026 and 2027 budgets do not stabilize the budget over the long run, including one-shot resources and delayed payments.",
+      "quote": "Sixty-one percent of the budget balancing actions over fiscal years 2026 and 2027 do nothing to stabilize the budget long term"
+    },
+    {
+      "plain": "Projected gaps in later years grow, before accounting for employee raises or new programs.",
+      "quote": "Projected budget gaps grow from $7.1 billion in fiscal year 2028 to $9.8 billion in fiscal year 2030"
+    },
+    {
+      "plain": "Stretching out pension contributions lowers payments in the near term but raises them substantially in the 2030s.",
+      "quote": "It lowers contributions $10.7 billion through fiscal year 2032 but adds $15.6 billion in new contributions from fiscal years 2033 through 2037."
+    },
+    {
+      "plain": "The savings program under Executive Order 12 produces savings over two years, but only about a quarter of the initiatives increase efficiency.",
+      "quote": "Executive Order 12 initiatives save $1.8 billion over two years, but only 26 percent increase efficiency."
+    },
+    {
+      "plain": "Delaying the state class size reduction mandate saves money now but leaves an annual cost later.",
+      "quote": "Delaying the Class Size Reduction mandate saves money for now, but leaves the City to ultimately spend $1.4 billion annually"
+    },
+    {
+      "plain": "City headcount rises on net, as new positions outnumber eliminated vacancies.",
+      "quote": "The budget increases headcount by 869 full-time positions, with the elimination of 2,268 vacancies offset by 3,137 new positions"
+    },
+    {
+      "plain": "The budget adds new spending, part of it for administration priorities such as housing production and childcare and the rest to support existing programs.",
+      "quote": "Fully $3.5 billion in newly added spending includes $1.3 billion for administration priorities such as housing production and childcare"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$5.0 billion",
+      "label": "One-shot resources used to close the gap"
+    },
+    {
+      "value": "$1.7 billion",
+      "label": "Recurring savings in the budget, per year"
+    },
+    {
+      "value": "$7.1 billion",
+      "label": "Projected budget gap in fiscal year 2028"
+    },
+    {
+      "value": "$9.8 billion",
+      "label": "Projected budget gap in fiscal year 2030"
+    },
+    {
+      "value": "$3.5 billion",
+      "label": "Newly added spending in the budget"
+    },
+    {
+      "value": "869",
+      "label": "Net increase in full-time positions"
+    }
+  ],
+  "recommendations": [
+    "Double the Executive Order 12 savings initiatives to $2 billion in fiscal year 2027 and increase them by $1 billion each year after that.",
+    "Take further steps to cut costs in fast-growing areas including CityFHEPS housing vouchers and special education due process (Carter) cases.",
+    "Pay for additional new spending and City Council initiatives with recurring savings.",
+    "Raise the fiscal year 2027 general reserve to $500 million."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts"
+  ],
+  "is_followup": false
+}

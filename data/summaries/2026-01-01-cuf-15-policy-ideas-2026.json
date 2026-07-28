@@ -1,0 +1,91 @@
+{
+  "id": "2026-01-01-cuf-15-policy-ideas-2026",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "15 Policy Ideas for NYC to Start 2026",
+  "plain_title": "Fifteen policy ideas for the city to take up in 2026",
+  "agency": "New York City government",
+  "issued": "2026-01-01",
+  "url": "https://nycfuture.org/research/15-policy-ideas-for-nyc-to-start-2026",
+  "pdf": "",
+  "what_they_audited": "A short report from the Center for an Urban Future, a New York City think tank, collecting 15 policy ideas drawn from its 2025 research that it says the mayor and City Council should consider this year.",
+  "background": "The report frames the year ahead as one of both opportunity and strain, with a new mayoral administration taking office alongside a slowing economy, a difficult fiscal outlook and federal budget cuts.",
+  "findings": [
+    {
+      "plain": "College attainment varies sharply by race and by neighborhood across the city.",
+      "quote": "Just 24 percent of Hispanic New Yorkers and 31 percent of Black New Yorkers hold a bachelor’s degree, compared to 69 percent of white New Yorkers."
+    },
+    {
+      "plain": "Graduation rates at the City University of New York (CUNY) senior colleges lag, especially for Black, Hispanic and older students.",
+      "quote": "Today only 58 percent of full-time students at CUNY’s senior colleges graduate in six years."
+    },
+    {
+      "plain": "Hundreds of thousands of working-age New Yorkers have some college credit but no degree, and small unpaid balances can block them from returning.",
+      "quote": "more than 630,000 New York City residents between the ages of 25 and 64 have some college credits but dropped out"
+    },
+    {
+      "plain": "Poverty among older New Yorkers has risen steeply, and fewer than half of those eligible are enrolled in the city's rent freeze program for seniors.",
+      "quote": "only 42.4 percent of older adults eligible for SCRIE are enrolled in the program"
+    },
+    {
+      "plain": "Very little of the affordable housing built over the past decade has enough bedrooms for families, even as tens of thousands of homes are occupied by older adults living alone.",
+      "quote": "Just 3.4 percent of new affordable housing units built in the past decade were family-sized"
+    },
+    {
+      "plain": "The city's branch libraries face large unfunded capital needs, and many branches are too small for full programming.",
+      "quote": "the city’s 219 branch libraries face hundreds of millions of dollars in unfunded capital needs"
+    },
+    {
+      "plain": "City capital construction is expensive by comparison with private building, which the report says stretches limited infrastructure dollars thin.",
+      "quote": "A modest new bathroom costs more than $3.5 million to complete"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "58 percent",
+      "label": "Six-year graduation rate at CUNY senior colleges"
+    },
+    {
+      "value": "630,000",
+      "label": "City residents 25 to 64 with college credits but no degree"
+    },
+    {
+      "value": "42.4 percent",
+      "label": "Share of eligible older adults enrolled in the rent freeze"
+    },
+    {
+      "value": "3.4 percent",
+      "label": "Share of new affordable units that were family-sized"
+    },
+    {
+      "value": "$3.5 million",
+      "label": "Cost cited for building a modest new public bathroom"
+    }
+  ],
+  "recommendations": [
+    "Set a 10-year goal of increasing college attainment by 50 percent and fund it by scaling up CUNY ACE and piloting a similar program for part-time students.",
+    "Reduce the administrative burden the city puts on nonprofits in contracting, applications and reporting, starting by directing every contracting agency to identify three requirements it can eliminate or consolidate by July 1, 2026.",
+    "Launch a CUNY Fresh Start program that clears unpaid balances of up to $1,000 and waives application fees so working adults can reenroll.",
+    "Create a grant program for community groups and merchant associations to run neighborhood events and tours that bring shoppers to local businesses.",
+    "Enroll far more eligible older adults in the Senior Citizen Rent Increase Exemption through automatic data matching, and press Albany to raise the program's income limit.",
+    "Direct the city's lawyers to streamline agreements that let community groups raise money for and care for local parks and public spaces.",
+    "Create or free up thousands more three-bedroom apartments for families through zoning changes, development incentives and help for older adults who want to downsize.",
+    "Recruit 50 to 100 more large employers to build skills-based hiring pathways with CUNY and nonprofit training providers.",
+    "Launch a Computer Science for All 2.0 initiative that builds computing and artificial intelligence skills across every grade and subject.",
+    "Commit to at least 20 more developments that pair a rebuilt branch library with affordable housing over the next four years.",
+    "Create a capacity-building fund giving multiyear grants to community development financial institutions for staffing, technology and outreach to underbanked entrepreneurs.",
+    "Launch a portable benefits pilot for freelancers and self-employed artists, administered with a nonprofit partner and funded by employers, platforms and public dollars.",
+    "Reform the city's capital construction process, including faster interagency permits, quicker budget approvals, procurement rule changes and better front-end planning.",
+    "Launch a New York City artificial intelligence service corps, a paid six-month fellowship placing recent graduates in small businesses, nonprofits and city agencies.",
+    "Prioritize economic development that grows middle- and high-wage jobs, including emerging tech and creative industries, faster licensing and permitting, and investment in housing, parks, transit and public space."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "small business",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

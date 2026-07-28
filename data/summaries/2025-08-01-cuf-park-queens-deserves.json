@@ -1,0 +1,96 @@
+{
+  "id": "2025-08-01-cuf-park-queens-deserves",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "The Park Queens Deserves",
+  "plain_title": "Twenty ideas for Flushing Meadows Corona Park",
+  "agency": "New York City government",
+  "issued": "2025-08-01",
+  "url": "https://nycfuture.org/research/The-Park-Queens-Deserves",
+  "pdf": "https://nycfuture.org/pdf/HarnessingFlushingMeadows_v12.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future proposing 20 ideas for Flushing Meadows Corona Park in Queens, drawn from more than two dozen interviews with parks and open space experts, community leaders, park users, landscape architects, planners and local officials.",
+  "background": "Flushing Meadows Corona Park was built on a former wetland and ash dump for the 1939-1940 World's Fair and expanded for the 1964 edition, and much of its core infrastructure dates from those years. It is the city's fourth most visited park, behind Central Park, Bryant Park and Prospect Park.",
+  "findings": [
+    {
+      "plain": "Since 2012 only about $100 million in city capital money has gone into the park, and more than $56.7 million of that went to one project, partial reconstruction of the New York State Pavilion Observation Towers, which will not return those structures to public use.",
+      "quote": "than $56.7 million has been allocated to a single project—"
+    },
+    {
+      "plain": "Flooding is the park's most consequential problem. Even light rain leaves large sections unusable for days, including paths around Meadow Lake and one baseball diamond that stays submerged for much of the season.",
+      "quote": "none are as consequential as the flooding that regularly"
+    },
+    {
+      "plain": "The water mains under the park are left over from the 1939 and 1964-65 World's Fairs and break regularly. Four mains connect to Queens Theatre and only one still works.",
+      "quote": "Four water \nmains are connected to the Queens Teatre, but only one \nstill functions."
+    },
+    {
+      "plain": "Fixing the park's plumbing would likely cost $80 to $100 million and comprehensive drainage fixes hundreds of millions more. Rebuilding the Passerelle Pedestrian Bridge together with water and electrical upgrades has been estimated at a combined $650 million.",
+      "quote": "cost a combined $650 million."
+    },
+    {
+      "plain": "Money earned in the park does not stay in the park. No revenue returns to it from the ground leases for the USTA tennis center or Citi Field, and event permit fees, including a fee of over $1 million for one festival, go to the city's General Fund.",
+      "quote": "back to the city’s General Fund."
+    },
+    {
+      "plain": "Unlike Central Park and Prospect Park, which have raised large sums privately, Flushing Meadows has little fundraising capacity and depends almost entirely on city and state money split among several elected officials.",
+      "quote": "almost wholly reliant on city and state funding from"
+    },
+    {
+      "plain": "The park's layout is still an artifact of the fairgrounds. Roads and highways surround and cut through it, and former World's Fair buildings such as the Queens Museum and Queens Theatre are not well integrated with the park.",
+      "quote": "more fitting as a fairground than for open space"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$100 million",
+      "label": "City capital funds invested in the park since 2012"
+    },
+    {
+      "value": "$56.7 million",
+      "label": "Share that went to the New York State Pavilion towers"
+    },
+    {
+      "value": "$650 million",
+      "label": "Estimated cost of bridge, water and electrical work"
+    },
+    {
+      "value": "$146.2 million",
+      "label": "Committed in the capital plan for the Passerelle bridge"
+    },
+    {
+      "value": "$150 million",
+      "label": "New flooding funding the report asks the next mayor for"
+    }
+  ],
+  "recommendations": [
+    "Make a major long-term capital commitment to Flushing Meadows Corona Park so it can reverse years of inadequate attention to its core infrastructure.",
+    "Prioritize future spending on projects that address the park's persistent flooding, including at least $150 million in new funding from the next mayoral administration.",
+    "Consider a Flushing Meadows Corona Park Flood Fund that channels a share of ground lease payments and event permit fees back into climate resiliency and drainage work.",
+    "Charge the New York City Department of Environmental Protection with repairing and replacing the park's water mains and collapsed catch basins.",
+    "Develop a 10-year strategic plan for the park to guide future investment and decision-making.",
+    "Find ways to better integrate the park's member institutions.",
+    "Expand Citi Bike and the Department of Transportation's shared e-mobility pilot to the park.",
+    "Convert more of the park's open spaces to multi-purpose fields and consider year-round use of facilities.",
+    "Establish a signature event that brings visitors and attention to the park.",
+    "Cover one or more of the highways surrounding the park.",
+    "Daylight Flushing Creek to connect the park to Willets Point and the waterfront.",
+    "Reduce the amount of asphalt in the park.",
+    "Create new food options by establishing a vendor market filled with local food entrepreneurs.",
+    "Open a new full-service cafe or restaurant outside the Queens Museum.",
+    "Explore ways to make fuller use of Queens Theatre, perhaps with free outdoor performances on summer evenings.",
+    "Create an Emerald Necklace of connected parks across central and eastern Queens with Flushing Meadows at the core.",
+    "Reimagine the entrances to the park, including a bridge over Flushing Creek.",
+    "Expand the NYC Ferry system to Willets Point in exchange for pier upgrades.",
+    "Redesign the Playground for All Children.",
+    "Make better use of the area surrounding the New York State Pavilion."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "money and contracts",
+    "transportation"
+  ],
+  "is_followup": false
+}

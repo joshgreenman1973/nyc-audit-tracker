@@ -1,0 +1,91 @@
+TITLE: CBC Recommends COGE Strengthen Proposed Charter Rainy Day Fund Language
+URL: https://cbcny.org/research/cbc-recommends-coge-strengthen-proposed-charter-rainy-day-fund-language
+ISSUED: 2026-07-21
+PDF: https://cbcny.org/sites/default/files/media/files/CBC_RDF-COGE-Memo_07212026_0.pdf
+
+REPORT  CITY BUDGET
+CBC Recommends COGE Strengthen Proposed Charter Rainy Day Fund Language
+Download Report
+Print
+Share
+EXPAND TABLE OF CONTENTS
+July 21, 2026
+
+The Citizens Budget Commission greatly appreciates the Commission on Government Efficiency’s (COGE’s) focus on New York City Charter amendments to strengthen the City’s Rainy Day Fund (RDF), called the Revenue Stabilization Fund (RSF).  
+
+For the fund to truly be an effective tool to protect New Yorkers during a rainy day, the City should mandate deposits when revenues are strong. Withdrawals should only be allowed when there is a recession or severe emergency—a rainy day—and the fund’s target size should be based on historical revenue losses during recessions.
+
+To fully meet these criteria, we urge the Commission to modify its proposed Charter language.  
+
+The following six changes to COGE’s proposal would improve the City’s fund:
+
+Allow withdrawals only during a rainy day. The proposed amendment, which replicates the withdrawal rule currently in State law, would allow 50 percent of the fund to be used for any reason, and the balance to be used based on any mayor’s definition of a compelling fiscal need. That could be, for example, spending on a new program rather than a rainy day, a loophole which risks prematurely depleting the fund, making it unavailable when a true need arises.  
+
+In order to be a true RDF that provides resources when New Yorkers need them, the law or policy should limit withdrawals to a recession or severe emergency.  Specifically, the rule or policy should limit withdrawals to:
+
+A recession defined by economic indicators, or  
+A severe emergency with revenue losses or increased expenditures exceeding 1 percent of City funds; and
+No more than two-thirds of the balance in the first year.
+
+These rules are narrower than existing State law, and therefore, would not be pre-empted by it. 
+
+Apply the target size only to the RSF. The proposed language would allow the Retiree Health Benefits Trust (RHBT), General and Capital Stabilization Reserves, or other funds to be included, in effect, as rainy day reserves. They are not.  
+
+The RHBT has been used as a de-facto RDF in the past, but that was before the City had the statutory RDF. That fund should be limited to its intended purpose: to offset the City’s $100-billion-plus liability for retiree health insurance, a massive future liability for which the City should set aside financial resources.  
+
+The General and Capital Stabilization Reserves are budgetary cushions that are spent down each year, not rainy day reserves. Including these other funds in the calculation of reserves relative to the target size would leave the target for the RSF—the City’s true RDF—too small.   
+
+Require deposits based on revenue strength. The proposed language would allow the City to draft a policy that permits it to forgo deposits when, for example, a mayor wants to fund a large or expanded program with strong revenues. There will always be priorities and needs, but if they are allowed to mitigate deposits the fund will likely never be reasonably resourced.  Since a well-designed RDF smooths out revenues over the economic cycle to protect New Yorkers when times are bad, deposit rules should be based on revenues alone. Including a deposit trigger, such as inflation or 3% tax revenue growth, improves the likelihood that the policy supports the growth of the fund. 
+ 
+Increase the target size to 16 percent of tax revenues. The proposed language sets a target size of 12 percent of tax revenue in the preceding year, which is too small based on history. The target size should be 16 percent—the amount needed to cover two years’ worth of recessionary tax revenue losses.  
+ 
+Require the City Comptroller to publish an opinion as to the reasonableness and appropriateness of the RSF implementation policy. The proposed language requires Comptroller consultation, which is beneficial but not sufficient. Publication of the Comptroller’s assessment of the reasonableness and appropriateness of the proposed policy, including whether the policy would build and maintain an RDF large enough to meet the City’s needs during a recession or severe emergency, would provide the public and the City Council important independent information. 
+ 
+Set RDF’s implementation rules and definitions in law, rather than policy. The proposed amendment would set rules by policy. This would be a step forward. Still, setting the City’s RDF rules by local law is preferable because it would provide a more deliberative process that is less subject to executive prerogative which may change over time across administrations. 
+
+The following appendix provides suggested charter language to incorporate the first five of these proposals.
+
+Thank you very much for your consideration.  
+
+APPENDIX
+
+Proposed Charter Amendment: Question 5  
+
+Section 1.  Section 1528 of the New York city charter, as added by local law number 215 for the year 2019, is amended to read as follows:  
+
+§ 1528. Revenue stabilization fund. 
+
+1. The city shall may maintain a revenue stabilization fund to serve as a year-to-year reserve account, subject to the New York state financial emergency act for the city of New York as amended from time to time or any successor statute. Such fund shall be created and operated in accordance with this section and any applicable state law.  
+
+2. The target amount of moneys held in reserve, which shall consist of the sum of funds held in a revenue stabilization fund and any other reserve fund maintained by the city that is identified in the methodology described in subdivision three of this section, shall be at least twelve sixteen percent of the revenue received by the city from taxes in the preceding fiscal year. The city shall deposit money, in accordance with the methodology described in subdivision three and four of this section, to such revenue stabilization fund if the amount of moneys held in a revenue stabilization fund reserve is below twelve sixteen percent of the revenue received by the city from taxes in the preceding fiscal year.  
+
+3. No later than May 1, 2027, the city shall publish a final methodology that describes how to determine the amount of moneys held in reserve, and the required deposits into a revenue stabilization fund, as described in subdivision four of this section, when the amount of moneys held in a revenue stabilization fund reserve is less than the target amount of such moneys described in subdivision two of this section and the criteria for withdrawals, as described in subdivision five of this section. Such methodology shall take into account revenue growth trends, the amount of the city’s operating surplus, and any other factor deemed relevant for the purpose of ensuring sound fiscal management. In each fiscal year commencing on July 1, 2027, the city shall make a deposit, if any, as required by such final methodology. The city shall publish any updates to the final methodology no later than May 1, 2030, and continue to do so no less frequently than every four years thereafter.   
+
+4. The methodology shall require deposits when the common rate and base tax revenue growth from the prior year exceeds the higher of 3 percent or the Consumer Price Index for the New York-Newark-Jersey City.
+
+5. The methodology shall limit withdrawals to a recession, defined by economic indicators, or a severe emergency, which shall be limited to a temporary emergency that causes revenue loss or expenditure increase in excess of 1 percent of city funds. The methodology shall limit the first-year withdrawal, once a recession or emergency has occurred, as defined in this section, to no more than two-thirds of the balance.
+
+46. The office of management and budget, in consultation with the comptroller, shall prepare and publish the methodology required pursuant to subdivisions three, four and five of this section.
+
+a. Prior to publishing a final methodology, such office shall publish in the City Record a proposed methodology and notice for opportunity to comment and a public hearing at least thirty days prior to such public hearing. Such notice shall include the final date for receipt of written comments.  
+
+b. Such office shall make such proposed methodology available to the speaker of the council, the director of the independent budget office, the state comptroller and the New York state financial control board at least thirty days prior to publication of such proposed methodology as described in paragraph a of this subdivision.  
+
+c. The comptroller shall publish an opinion that, at a minimum, attests to the reasonableness of definitions and appropriateness of the methods for calculating mandatory deposits, permitted withdrawals, a recession and a severe emergency prior to the public hearing on the proposed methodology, as described in subsection a of this subdivision. 
+
+cd. After consideration of the relevant comments and consultations received pursuant to this subdivision, such office shall publish a final methodology in accordance with subdivisions three, four and five.  
+
+57. In each fiscal year commencing on July 1, 2027, the city shall make a deposit, if any, as required by such final methodology. Withdrawals from the revenue stabilization fund may be made by means of the procedures set forth in this charter for adoption or modification of the expense budget, as applicable, provided that no more than fifty percent of the total amount of such fund may be withdrawn in any fiscal year unless the mayor has certified that there is a compelling fiscal need, which may be based on  circumstances including, but not be limited to, a national or regional recession, a reduction in total revenues from the preceding fiscal year as projected in the financial plan, a natural or other disaster, or a declared state of emergency in the city or state.  
+
+§  2.  Section 1152 of the New York city charter is amended by adding paragraph 9 to subdivision q to read as follows:  
+
+(9) The amendment to the charter amending section 1528, as approved by the electors on November 3, 2026, shall take effect immediately upon certification that the electors have approved such amendments to the charter.  
+
+Download Memo
+CBC Recommends COGE Strengthen Rainy Day Fund Language Before Finalizing Charter (119.63 KB)
+
+By Andrew Rein
+President
+
+By Ana Champeny
+Vice President for Research

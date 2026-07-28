@@ -1,0 +1,78 @@
+{
+  "id": "2026-03-11-cbc-false-choice",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "False Choice",
+  "plain_title": "A review of the fiscal 2027 preliminary budget and its gap",
+  "agency": "New York City government",
+  "issued": "2026-03-11",
+  "url": "https://cbcny.org/research/false-choice",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_False-Choices_NYC-FY27-Prelim_03112026_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report analyzing New York City's fiscal year 2027 preliminary budget.",
+  "background": "The preliminary budget raised the revenue forecast by $7.6 billion over fiscal years 2026 and 2027 while adding $12.3 billion to the spending forecast.",
+  "findings": [
+    {
+      "plain": "City spending has grown much faster than inflation over the past decade.",
+      "quote": "Fiscal year 2026 spending is $16 billion higher than if it had grown at the rate of inflation since fiscal year 2017."
+    },
+    {
+      "plain": "Between fiscal years 2021 and 2025, city-funded spending grew faster than the tax revenue supporting it.",
+      "quote": "City funded spending (adjusted for prepayments) grew 6.8 percent annually, outpacing the 5.2 percent annual growth in tax revenues"
+    },
+    {
+      "plain": "Across four fiscal years the city's obligations are on track to exceed the revenue it collects.",
+      "quote": "The City is on track to spend $5.8 billion more than it took in over four years."
+    },
+    {
+      "plain": "After adjusting for the updated revenue and spending forecasts, the two-year budget gap is $9.4 billion.",
+      "quote": "The combined fiscal year 2026 and 2027 budget gap totals $9.4 billion"
+    },
+    {
+      "plain": "The budget draws on the rainy day fund and the Retiree Health Benefits Trust, which the report describes as one-time resources.",
+      "quote": "The proposed drawdown from the Revenue Stabilization Fund (“rainy day fund”) and Retiree Health Benefits Trust (RHBT) are one-shots..."
+    },
+    {
+      "plain": "The savings in the plan amount to a small share of annual spending.",
+      "quote": "The proposed savings are too small, just 2 percent of annual spending."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$16 billion",
+      "label": "Fiscal 2026 spending above an inflation-only path"
+    },
+    {
+      "value": "$9.4 billion",
+      "label": "Combined fiscal 2026 and 2027 budget gap"
+    },
+    {
+      "value": "$5.8 billion",
+      "label": "Four-year shortfall of revenue against obligations"
+    },
+    {
+      "value": "6.8 percent",
+      "label": "Annual growth in city-funded spending, 2021 to 2025"
+    },
+    {
+      "value": "5.2 percent",
+      "label": "Annual growth in tax revenues, 2021 to 2025"
+    },
+    {
+      "value": "$12.3 billion",
+      "label": "Added to the spending forecast in the budget"
+    }
+  ],
+  "recommendations": [
+    "Reject the tax increases under consideration.",
+    "Reduce ineffective spending and improve operational efficiency, including in education, procurement and administrative operations.",
+    "Right-size spending where demand has changed, such as adjusting school funding for declining enrollment and managing growth in the FHEPS housing voucher program.",
+    "Build and maintain reserves by leaving the rainy day fund and the Retiree Health Benefits Trust untouched, including $1 billion of in-year reserves, and by requiring deposits to the Revenue Stabilization Fund when the economy is growing while limiting withdrawals to a recession or severe emergency."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts"
+  ],
+  "is_followup": false
+}

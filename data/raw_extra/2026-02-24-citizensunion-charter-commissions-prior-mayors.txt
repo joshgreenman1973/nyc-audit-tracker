@@ -1,0 +1,192 @@
+ Q&A Regarding 
+ Charter Revision Commissions Appointed by Prior Mayors 
+ (“Lame Duck” Charter Commissions) 
+ February 24, 2026 
+ Our organizations are providing this Q&A to answer questions being asked by 
+ stakeholders and the media regarding the  Charter Revision  Commission established by 
+ former Mayor Adams on December 31, 2025  . Please also see  analysis by legal expert 
+ Stephen Louis  of New York Law School’s Center for  New York City and State Law. 
+ 1.  Can the State Legislature and Governor pass a law to disband a currently appointed 
+ city charter commission or prevent it from submitting questions to the ballot? 
+ YES.  The creation and operations of city charter revision  commissions are governed by state 
+ law. Section 36 of the New York Municipal Home Rule (MHR) Law provides mayors, city 
+ councils, or voters the power to establish a charter commission, and sets how they place 
+ questions on the ballot – the New York City Charter is silent on all these issues. In addition, the 
+ state has broad powers that allow for preemption of local law  (  DJL Rest. Corp. v. City of New 
+ York, 96 N.Y.2d 91, 95 (2001)  . 
+ Last year, the State Legislature passed a bill that would have changed how charter 
+ commissions send questions to the ballot. The legislation,  (  S590A (Krueger)/A3665A (Simone  )  , 
+ proposed eliminating the ability of mayors to block (or “bump”) ballot proposals by creating a 
+ charter commission. It was passed in June 2025 under the assumption that, if signed into law, it 
+ would impact the existing charter commissions operating in New York City at that time. While 
+ the bill was vetoed by Governor Hochul, her rationale focused on the balance of powers 
+ between municipal branches, not legal concerns. 
+ Therefore, we believe that the Legislature and Governor can amend the Municipal Home Rule 
+ (MHR) Law to address “lame duck” mayoral-appointed commissions, including commissions 
+ currently in existence. We are aware of at least two that are in operation or appointed now: in 
+ New York City  and  Buffalo  . 
+ For instance, a narrowly-tailored amendment to Municipal Home Rule Law could require a 
+ charter revision commission that is appointed by a mayor in the last six months of their term to 
+ be approved by the incoming mayor within 90 days from taking office, or it will be dissolved. 
+ (The deadline to file questions to the ballot every year is the first week of August, and best 
+ 1 
+
+ practice is for a charter revision commission to be established months in advance of that 
+ deadline to conduct a substantive, thoughtful, and open process). 
+ Lawmakers have already proposed  similar legislation  to establish that the continued existence 
+ of a mayoral charter commission created in the final months of an administration and 
+ appointments to the commission would need to be affirmed by the mayor who takes office on 
+ the first day of January of the following year. 
+ 2.  Can a  current  mayor remove charter revision commission  members appointed by a 
+ previous  mayor? 
+ POTENTIALLY IN SOME CASES, BUT IT WOULD BE INADVISABLE  and would likely be 
+ decided by the courts if going beyond the standard of removal for cause. State law and the New 
+ York City Charter do not explicitly address whether or how to remove members of charter 
+ revision commissions, but the New York City Charter  gives mayors the power to remove “  any 
+ public officer holding office by appointment from a mayor” unless it says otherwise in law. We 
+ oppose attempting to remove charter commissioners who were appointed by a previous mayor 
+ without cause because that would open the door to routine political purges  of members of 
+ charter revision commissions, which have historically operated somewhat or actually 
+ independently. 
+ Another consideration regarding the ability to remove charter commissioners depends on 
+ whether they serve fixed terms. The New York State Constitution says officers serve at the 
+ pleasure of their appointing authority unless the law defines their term in office. (Article XIII 
+ Section 2 (public officers): “When the duration of any office is not provided by this constitution it 
+ may be declared by law, and if not so declared, such office shall be held during the pleasure of 
+ the authority making the appointment.”) 
+ Section 36 of the Municipal Home Rule Law, which  authorizes  charter commissions, does not 
+ explicitly say that commissioners are appointed for a defined term of office, but it does state 
+ when their terms “expire” – without explicitly noting they are protected from removal before then. 
+ The use of “term” in this context, however, could be interpreted as requiring action within a 
+ defined time period  .  Under Section 36(6)(e) of MHR: 
+ (e) The terms of office of the members of the commission shall expire on the day of the 
+ election at which the proposed new charter or charter amendments prepared by the 
+ commission are submitted to the qualified electors of the city, or on the day of the 
+ second general election following the organization of the commission if no such 
+ questions have been submitted by that time. 
+ With no clear guidance about removal in state law, the New York City Charter could be 
+ instructive in this case. Under Charter Chapter 1, Section 6(b), "The mayor, whenever in his 
+ judgment the public interest shall so require, may remove from office any public officer holding 
+ office by appointment from a mayor of the city, except officers for whose removal other provision 
+ 2 
+ is made by law. No public officer shall hold his office for any specific term, except as otherwise 
+ provided by law." This removal authority given to a mayor applies to public officers appointed by 
+ a former mayor. 
+ Taken together, these state law and city charter provisions could support the argument that a 
+ mayor has the power to remove charter commission members, including those appointed by a 
+ former mayor, especially if they are  removed for cause  – like a neglect of their duty in the form 
+ of a failure to act or meet, in the case of an inactive lame-duck charter commission.  But such an 
+ effort would likely be accompanied by a lengthy legal fight. 
+ Regardless of whether it is legal for the mayor to remove charter commission members, it would 
+ set a precedent for removal of members of commissions that have in the past operated with 
+ independence, and is inadvisable  . 
+ 3.  Can a  current  mayor fill vacancies on the 15-member charter revision commission 
+ appointed by a  previous  mayor? 
+ YES  . State law clearly says “any vacancy in the membership  of such a [charter] commission or 
+ of its officers shall be filled by the mayor” (MHRL Sec 36(4)). In addition, mayors are able to fill 
+ vacancies on mayorally-appointed bodies – even if they were first established by a former 
+ mayor. Therefore, if a member of the charter revision commission that was appointed by the 
+ previous mayor resigns or leaves office in any other way, the current mayor could fill that 
+ vacancy. 
+ 4.  Does the existence of a mayoral charter revision commission prevent the new mayor 
+ from appointing their own parallel charter commission, which would propose separate 
+ ballot questions? 
+ LIKELY NO.  Unlike the State MHR’s provision that “bumps”  council charter commission or 
+ voter-initiated proposals (albeit only for one year in the case of voter-initiated proposals) when a 
+ mayoral commission submits proposals, there is no “bumping” provision for dueling mayoral 
+ commissions. Therefore, it is reasonable to assume a second mayoral commission could be 
+ formed by the current mayor to submit proposals for consideration to the voters on the same 
+ election as the charter commission established by the former mayor. However, this is untested 
+ as to our knowledge there have never been two mayoral charter revision commissions in 
+ operation at the same time in New York City. 
+ 5.  Is the current mayor required to support or fund a charter commission that’s 
+ established by a previous mayor? 
+ NO.  The law allows a mayor to “starve” a mayoral charter commission of government resources, 
+ including funding, access to space, legal advice, materials, and data. State law only says the 
+ mayor “may direct” city employees to assist the commission, and that the mayor “shall have the 
+ 3 
+ power”  to appropriate sums for the commission  , but there is nothing in the law  that mandates 
+ the mayor to do so (  (MHRL § 36 (6)(b) &(c))  . 
+ The law was originally written to ensure the mayor has the ability to bypass the City Council (or 
+ the Board of Estimate) if it refuses to fund the mayor’s charter commission, and it did not 
+ contemplate a scenario where a charter commission is established by one mayor against the 
+ will of the next mayor. 
+ Charter commissions typically rely on counsel from the Law Department and administrative 
+ support from city agencies, like email accounts, webcasting meetings, and access to facilities. 
+ 6.  How are charter revision commissions formally created, and how can they be 
+ dissolved/terminated? 
+ Under Section 36(4) of MHR, certificates of appointment must be filed to create the commission: 
+ “Original appointments to such a commission shall be made by the mayor by a certificate 
+ of appointment which shall specify the number of, and names of, the members to 
+ constitute the commission, which certificate shall be filed forthwith with the city clerk. 
+ The chairman, vice-chairman and secretary shall be appointed by the mayor from 
+ among the members of the commission. Any vacancy in the membership of such a 
+ commission or of its officers shall be filled by the mayor.” 
+ A charter commission could theoretically vote to cease its operations and forgo the opportunity 
+ to submit questions to the ballot (see more in the next section). As noted above, the Legislature 
+ could also pass a law dissolving a charter commission. Absent these actions, it appears that the 
+ charter revision commission would continue to be legally established until its term expires – on 
+ election day when its proposals are voted on, or on the second general election after its 
+ establishment. 
+ 7.  Are charter commissions obligated to propose a ballot question or questions? 
+ NO.  While charter revision commissions have the authority  to propose charter changes, they do 
+ not have to. Under Section 36 (5)(a) of  MHR, the Commission  may explain why it chose not to 
+ change part of the charter: 
+ “If the commission shall decide to leave a part of the existing charter unchanged, it may 
+ propose in one or more amendments a revision of the remaining parts. In such case it 
+ shall make a report to the public, accompanying its proposals, in which it shall refer 
+ specifically to such unchanged part and explain its decision to leave such part 
+ unchanged.” 
+ And as seen under prior commissions, the charge set out at the formation of the commission by 
+ the mayor does not obligate the commission to propose questions in response to that charge. 
+ 4 
+ For example, in 2002 Mayor Bloomberg appointed a charter commission to examine 
+ nonpartisan elections and change the line of succession. However, given public outcry about the 
+ commission’s process – it was a one-month commission held in August –  commissioners 
+ decided  not to place these questions on the ballot.  Instead, they deferred the issue of 
+ nonpartisan elections to another commission and only proposed a simple change to mayoral 
+ succession that shortened the timeline of a special election. (It should be noted that this also 
+ works in the reverse – commissions can look at any item in the Charter, whether or not the 
+ Mayor established them for a limited purpose.) 
+ In Yonkers, a  charter revision commission was formed  in 2022  , but neglected to propose any 
+ ballot items. Its creation continued for three years into 2025, where it continued to exist without 
+ proposing any items. 
+ 8.  Does it even matter if a charter revision commission exists without performing any 
+ work? Does it still have an impact? 
+ YES.  The mere existence of a mayoral charter revision commission introduces the threat that it 
+ could block ballot questions submitted by the City Council, a Council-created charter 
+ commission, or a voter initiative, making such efforts pointless or more cumbersome (voter 
+ initiatives can only be blocked once, but City Council proposals can be bumped indefinitely). 
+ Charter commissions are not required to operate for any minimum length of time before 
+ submitting ballot questions — their only obligation is to “conduct public hearings.” In theory, they 
+ could begin work and submit proposed ballot questions within just a few days. A charter 
+ commission could also wait to see what proposals are submitted to the November 2026 ballot, 
+ and only then begin its work, proposing conflicting questions to the November 2027 ballot. 
+ 9.  How may charter revision commissions be funded? Can they accept private 
+ contributions to fund operations? 
+ State law requires charter revision commissions to incur specific financial obligations regarding 
+ staffing. Municipal Home Rule Law Section 36(6) says that: 
+ ●  Members of a commission “shall be reimbursed” for the expenses incurred by their 
+ participation. 
+ ●  A commission “shall appoint employees and consultants and as it shall require and fix 
+ their compensation.” 
+ Regardless of whether the mayor or the City Council provide the commission appropriations and 
+ support, state law says the commission “  may accept  any services, facilities or funds and use or 
+ expend the same for its purposes.  ” (Municipal Home  Rule Law Section 36 (6)(b)) 
+ It is unclear how this section applies in the context of private contributions. City agencies have 
+ long used non-profits as vehicles to accept private contributions for their programs and 
+ activities, like the  Mayor’s Fund to Advance New York  City  or the  New York City Police 
+ 5 
+ Foundation  . These bodies are subject to disclosure requirements and report to the  Conflicts of 
+ Interest Board  (COIB). 
+ Additionally, City agencies may accept direct donations, which are  reported annually to the 
+ COIB  regarding individuals and firms that donate $5,000 or more to city agencies – including 
+ through in-kind contributions – per §1-14 of the COIB’s rules for Official Fundraising. Donations 
+ may not be solicited from individuals with matters before the public servant making the request. 
+ However, regarding direct donations, the Office of Management and Budget has discretion over 
+ the bank accounts of city agencies, and it is possible that there would be no vehicle for a charter 
+ revision commission to accept a direct donation. 
+ The acceptance of direct donations to mayoral charter revision commissions, or the 
+ creation of affiliated non-profits for charter revision commissions could be prohibited via 
+ an Executive Order. 
+ 6 

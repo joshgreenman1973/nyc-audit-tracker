@@ -1,0 +1,316 @@
+===== SOURCE: landing page =====
+
+
+City FY2027 Budget Estimate: City Must Address Child Care Budget Gap for Low-Income Families and Low-Wage Workers — Center for New York City Affairs
+
+ Home
+ 
+
+About
+
+ Contact
+ 
+
+Issues
+
+Publications
+
+ DONATE
+ 
+
+Back
+
+ Who We Are
+ 
+
+ Programs
+ 
+
+ Staff
+ 
+
+ Funders
+ 
+
+ Press
+ 
+
+Back
+
+ Economic Policy
+ 
+
+ Children, Youth, & Families
+ 
+
+ Education
+ 
+
+ Housing & Homelessness
+ 
+
+ Immigrant Voices
+ 
+
+ Inequality & Poverty
+ 
+
+ Justice
+ 
+
+ Racial Equity
+ 
+
+ Covid-19
+ 
+
+Back
+
+ Urban Matters
+ 
+
+ Reports
+ 
+
+ Economic Updates
+ 
+
+Home
+
+About
+
+Who We Are
+
+Programs
+
+Staff
+
+Funders
+
+Press
+
+Contact
+
+Issues
+
+Economic Policy
+
+Children, Youth, & Families
+
+Education
+
+Housing & Homelessness
+
+Immigrant Voices
+
+Inequality & Poverty
+
+Justice
+
+Racial Equity
+
+Covid-19
+
+Publications
+
+Urban Matters
+
+Reports
+
+Economic Updates
+
+Research. Investigation. Action. 
+
+DONATE
+
+City FY2027 Budget Estimate: City Must Address Child Care Budget Gap for Low-Income Families and Low-Wage Workers
+
+ Download PDF
+ 
+
+By Lauren Melodia, director, economic & fiscal policy, CNYCA
+June 2026
+The State Fiscal Year 2027 (SFY2027) budget was passed with a historic, $4.5 billion statewide investment in child care. These investments, however, are skewed towards expanding services to families without appropriately compensating the workforce required to deliver those services. Furthermore, while Mayor Mamdani successfully advocated for State funding increases for universal 3-K and 2-K, his administration did not succeed at securing sufficient funding for the Child Care Assistance Program (CCAP). There is a City waitlist of over 25,000 children from low-income families who need, and are eligible for, this program that child care providers are already ready to serve. 
+Given these outcomes of the State budget process, it is critical for the City government to fill these gaps in City Fiscal Year 2027 (CF2027). This entails an additional investment for: 
+Clearing half of the Child Care Assistance Program (CCAP) waitlist: $500 million
+A family child care (FCC) stabilization grant fund: $168 million
+Public programs and services often face funding constraints due to the State’s and City’s balanced budget requirements, and the Trump administration’s threats of diminished federal funding create additional challenges. Building a path to universal child care with the current fractured, mixed delivery system is also complex. The budget priorities outlined in this memo are critical for building a path to universal child care, because they also help to stabilize the City’s existing child care programs in the non-profit and family child care (FCC) sectors (“FCC” is used throughout this memo to describe both FCC and group family child care (GFCC) programs) which are necessary partners to make universal child care a reality.  
+This memo outlines the two most critical program under-funded in the State budget in need of City investment in CFY2027. Recognizing that the City also faces existing revenue constraints, this memo outlines several scenarios so that policymakers can make headway on these initiatives even if they cannot be fully funded in this budget. This memo also provides cost estimates, and their underlying assumptions and methodology, for both priorities.
+City policy history demonstrates that a failure to address these gaps now will result in a loss of child care supply. During the City’s roll-out of Pre-K and 3-K, the City did not address these gaps or provide stabilization funds and permanently lost 1,300 FCC programs with the capacity to serve 9,850 children.
+
+1. Clearing half of the CCAP waitlist: $500 million
+CNYCA estimates a $500 million City contribution to the CCAP program could provide 1 year of virtually free child care to 12,500 qualifying children, and eliminate half of the program’s waitlist.
+There are currently over 25,000 children on a waitlist to access the CCAP, which subsidizes child care for low-income families. Families on the CCAP waitlist aren’t able to utilize the City’s existing NYC Public Schools (NYCPS) programs (3-K, Pre-K, etc.), because their children do not fit into those age ranges, they work hours outside of the 9-to-5 schedule, or there are no available seats near them. While the City is expanding its universal programs it cannot abandon the low-income families and more flexible child care programs that it already offers. 
+The growth in demand for the CCAP program, as demonstrated by the rising waitlist, is consistent with 
+estimates
+ published by Children’s Agenda and CNYCA in April 2026. In that 
+April 2026 cost model
+, we found that trends from June 2025 to March 2026 demonstrate a monthly growth of 1,500 children on the CCAP waitlist. We also describe and estimate costs for a fully operational CCAP program, where all families on the waitlist receive a CCAP voucher and the program has sufficient funds to meet expected demand.
+While New York State’s FY2027 budget includes a historic $3 billion for the City’s CCAP program in federal Fiscal Year 2027 (FFY2027), this is insufficient for a fully operational CCAP program. Thousands of children will not have access to virtually free child care unless the City steps in to address this budget shortfall. 
+City budget constraints may make it challenging for the City to make the CCAP program fully operational in CFY2027, particularly given the uncertainty around federal funding and the demand of families mandated to receive CCAP vouchers due to the reinstatement of work requirements on the City’s cash assistance recipients. The Trump administration continues to threaten the future of the Child Care Development Block Grant (CCDBG) funding that undergirds the State’s CCAP program. New and reinstated work requirements on many benefits programs – for food, health insurance, and cash assistance – also make the need for CCAP vouchers in order to fulfill those requirements more imperative. 
+However, despite these challenges, the City can still make headway on meeting the needs of families on the CCAP waitlist. This memo presents a new estimate for addressing half of the CCAP waitlist in CFY2027, which would serve 12,500 children. We estimate that meeting the needs of half of the current CCAP waitlist would require an additional allocation of $500 million in the CFY2027 budget. This allocation would be in addition to the City’s current Maintenance of Effort (MOE) and requirement to access State CCBG supplemental match (see Table 2). 
+This estimate includes the following assumptions:
+ Enrollment in the income-eligible (non-cash assistance) voucher program is 85,000 children in April 2026.
+ New York City starts distributing vouchers to families on the CCAP waitlist in July 2026, after the City budget is adopted. Depending on the scenario, 1,000 to 2,000 new vouchers are distributed each month until June 2027. 
+Monthly enrollment in the cash assistance (mandatory) CCAP program increases by 2,111 from March 2026 through August 2026 and then grows by 1,200 from September 2026 through September 2027.
+ Per child spending remains constant at $1,557 monthly through September 2027.
+Table 1 presents estimates broken down to align with the different government fiscal calendars, because the program is tied to the federal CCDBG. It demonstrates that even maintaining the waitlist (“baseline”), the City will need to put additional funding into the program before the end of FFY2026. Table 1 presents three separate scenarios: (1) clearing half the waitlist, (2) clearing the full waitlist, and (3) a fully operational CCAP program. By presenting these scenarios side-by-side, it is clear there are a range of options the City has at its disposal to meet qualifying family’s needs by adding more City tax levy dollars to the program.
+
+Table 2 presents the current estimated funds for the CCAP program in more detail. These funds include the block grant allocation (“State CCBG Funds”) for the City in the SFY2026 and SFY2027 budgets, the majority of which comes from the federal CCDBG. These funds also include the Maintenance of Effort (MOE) imposed on the City by the State and the additional State dollars that will be unlocked if the City meets that MOE and match requirements. We assume the City will meet the match requirements, given that it results in additional State dollars. As Table 1 details, however, the City’s match requirements are insufficient to start addressing the CCAP waitlist.
+
+The difference between the current estimated funds and Scenario 1: clearing half the waitlist is $350 million in FFY2026 and $270 in FFY2027. Given the difference between federal, state and city calendars, as well as rules about how and when the City can spend current estimated funds, we estimate that adding an additional $500 million of City tax levy dollars for the CCAP program in the CFY2027 adopted budget will be a sufficient commitment for the Mayoral administration and agencies to finally proceed with addressing the waitlist, by clearing half of it, starting in July 2027. 
+
+2. An FCC stabilization grant fund: $168 million
+CNYCA estimates a $168 million FCC stabilization grant fund is needed to sufficiently boost take home pay while mitigating program closures due to the roll-out of 2-K and the continuation of the CCAP waitlist.
+CNYCA’s research
+ demonstrates two significant pay disparities throughout the child care industry:
+1. Between family-based, center-based and public school early care and education (ECE) educators.
+2. Between child care occupations and the median worker in the NYC economy with the same educational attainment level.
+These disparities – coupled with the complexities of an industry with a mix of public and private clients – are some of the reasons advocates are calling on New York State to establish a workforce fund, which would offer wage subsidies to child care educators to fill this gap while a universal child care system with a sector-wide salary scale is established. New York State’s FY2027 budget does not include this critical funding, so the City must step in and can target a workforce fund to address some of the most acute wage disparities in the sector. 
+Drawing on successes from other states and municipalities, the 
+State proposal for a workforce fund
+ recommends a $12,000 annual subsidy per child care worker or provider. Table 3 provides three scenarios for a City workforce fund that could be implemented by the City directly this year. These scenarios draw on Quarterly Census of Employment and Wages (QCEW) data on the size of the City’s child care workforce as well as the survey data on the FCC sector collected by CNYCA in 2024. Scenarios 1 and 2 provide a $12,000 annual subsidy per worker per the statewide recommendation. Scenario 3 provides a $24,000 annual subsidy, which is explained further below.
+
+Scenarios 2 and 3 are worth highlighting in more detail. FCC providers are the lowest paid in the sector. 
+CNYCA estimates
+ the median FCC providers earned $6.01 per hour in 2023. This low wage is linked to low enrollment (an FCC provider with “good” enrollment earned $11.20 in 2023).  
+In FY2027, the City has prioritized expanding its NYCPS programs, like 3-K and 2-K, which only 20 percent of FCC providers currently participate in (due to NYCPS’s requirement that FCC providers be network-affiliated). Meanwhile, the CCAP waitlist disproportionately impacts FCC providers, 70 percent of whom serve the low-income families who receive CCAP vouchers. The City’s decision of which child care programs to fund (and not) both put downward pressure on the take home pay of FCC providers, who do not have a wage contract and whose take home pay is directly related to enrollment. As such, FCC providers have the most acute need for a wage subsidy in CFY2027. 
+A wage subsidy not only improves take home pay for FCC providers but also makes it less likely they will shut down their businesses as the City develops ways to integrate them into NYCPS programs. Recent New York history shows that these types of grant programs work. During the Covid-19 pandemic two stabilization grants were distributed to child care programs. During this time period, the City only lost 100 licensed FCC programs. Meanwhile, from 2014 to 2019, when NYCPS rolled out the Pre-K and 3-K program, the city permanently lost 1,300 licensed FCC programs.
+As of May 12th, 2026, there were 670 Family Day Care (FCC) programs and 6,312 Group Family Day Care (GFCC) programs licensed in New York City, totaling 6,982 business owners. A $24,000 subsidy per program would equip FCC providers with the resources to navigate this transition period and make meaningful contributions to sustain their businesses, their staff and themselves.
+Based on experience from the State-administered stabilization and workforce retention grants (2021 to 2023), a flat subsidy is recommended in order to easily distribute funds to these programs without adding administrative burden on providers or City agencies. A $24,000 subsidy could increase the median take home pay for FCC providers from $15,485 to $39,485. This is still less than minimum wage ($15.33 per hour) when taking into account the long hours providers work, but a boost comparable to previous stabilization grants (i.e. the 2021 OCFS stabilization fund provided grants to FCC and GFCC providers of $25,200 and $50,400, respectively). Grants of $24,000 to each FCC or GFCC provider in the city would cost $168 million. 
+
+Families
+Seth Moncrease
+June 5, 2026
+Report
+, 
+Report2025
+
+Facebook
+0
+
+Twitter
+
+LinkedIn
+0
+
+Previous
+
+Income Polarization Redux: NYC’s Wage Gains (Again) Flow to the Top
+
+Economic Update
+Seth Moncrease
+June 9, 2026
+Economic Policy
+
+Next
+
+Using the Pension Fund to Close the City’s Budget Gap 
+
+Economic Update
+Seth Moncrease
+May 21, 2026
+Economic Policy
+
+All content © 2026 The New School | All Rights Reserved
+
+CENTER FOR NEW YORK CITY AFFAIRS
+
+72 Fifth Avenue, 6th Floor,
+
+New York, NY 10011,
+
+USA
+
+(212) 229-5418
+
+centernyc@newschool.edu
+
+
+
+===== SOURCE: report PDF =====
+City FY2027 budget estimate:
+
+City must address child care budget gap for low-income families and low-wage workers
+
+By Lauren Melodia, director, economic & fiscal policy, CNYCA
+
+June 2026
+
+The State Fiscal Year 2027 (SFY2027) budget was passed with a historic, $4.5 billion statewide investment in child care. These investments, however, are skewed towards expanding services to families without appropriately compensating the workforce required to deliver those services . Furthermore, while Mayor Mamdani successfully advocated for State funding increases for universal 3-K and 2-K, his administration did not succeed at securing sufficient funding for the Child Care Assistance Program (CCAP). There is a City waitlist of over 25,000 children from low-income families who need, and are eligible for, this program that child care providers are already ready to serve.
+
+Given these outcomes of the State budget process, it is critical for the City government to fill these gaps in City Fiscal Year 2027 (CF2027). This entails an additional investment for:
+
+1. Clearing half of the Child Care Assistance Program (CCAP) waitlist: $500 million 2. A family child care (FCC) stabilization grant fund: $168 million
+
+Public programs and services often face funding constraints due to the State’s and City’s balanced budget requirements, and the Trump administration’s threats of diminished federal funding create additional challenges. Building a path to universal child care with the current fractured, mixed delivery system is also complex. The budget priorities outlined in this memo are critical for building a path to universal child care, because they also help to stabilize the City’s existing child care programs in the non-profit and family child care (FCC) sectors (“FCC” is used throughout this memo to
+
+1
+
+describe both FCC and group family child care (GFCC) programs) which are necessary partners to make universal child care a reality.
+
+This memo outlines the two most critical program under-funded in the State budget in need of City investment in CFY2027. Recognizing that the City also faces existing revenue constraints, this memo outlines several scenarios so that policymakers can make headway on these initiatives even if they cannot be fully funded in this budget. This memo also provides cost estimates, and their underlying assumptions and methodology, for both priorities.
+
+City policy history demonstrates that a failure to address these gaps now will result in a loss of child care supply. During the City’s roll-out of Pre-K and 3-K, the City did not address these gaps or provide stabilization funds and permanently lost 1,300 FCC programs with the capacity to serve 9,850 children.
+
+1. Clearing half of the CCAP waitlist: $500 million
+
+CNYCA estimates a $500 million City contribution to the CCAP program could provide 1 year of virtually free child care to 12,500 qualifying children, and eliminate half of the program’s waitlist.
+
+There are currently over 25,000 children on a waitlist to access the CCAP, which subsidizes child care for low-income families. Families on the CCAP waitlist aren’t able to utilize the City’s existing NYC Public Schools (NYCPS) programs (3-K, Pre-K, etc.), because their children do not fit into those age ranges, they work hours outside of the 9-to-5 schedule, or there are no available seats near them. While the City is expanding its universal programs it cannot abandon the low-income families and more flexible child care programs that it already offers.
+
+The growth in demand for the CCAP program, as demonstrated by the rising waitlist, is consistent with estimates published by Children’s Agenda and CNYCA in April 2026. In that April 2026 cost model, we found that trends from June 2025 to March 2026 demonstrate a monthly growth of 1,500 children on the CCAP waitlist. W e also describe and estimate costs for a fully operational CCAP program, where all families on the waitlist receive a CCAP voucher and the program has sufficient funds to meet expected demand.
+
+2
+
+While New York State’s FY2027 budget includes a historic $3 billion for the City’s CCAP program in federal Fiscal Year 2027 (FFY2027), this is insufficient for a fully operational CCAP program. Thousands of children will not have access to virtually free child care unless the City steps in to address th is budget shortfall.
+
+City budget constraints may make it challenging for the City to make the CCAP program fully operational in CFY2027, particularly given the uncertainty around federal funding and the demand of families mandated to receive CCAP vouchers due to the reinstatement of work requirements on the City’s cash assistance recipients. The Trump administration continues to threaten the future of the Child Care Development Block Grant (CCDBG) funding that undergirds the State’s CCAP program. New and reinstated work requirements on many benefits programs – for food, health insurance, and cash assistance – also make the need for CCAP vouchers in order to fulfill those requirements more imperative.
+
+However, despite these challenges, the City can still make headway on meeting the needs of families on the CCAP waitlist. This memo presents a new estimate for addressing half of the CCAP waitlist in CFY2027, which would serve 12,500 children. We estimate that meeting the needs of half of the current CCAP waitlist would require an additional allocation of $500 million in the CFY2027 budget. This allocation would be in addition to the City’s current Maintenance of Effort (MOE) and requirement to access State CCBG supplemental match (see Table 2).
+
+This estimate includes the following assumptions:
+
+● Enrollment in the income -eligible (non-cash assistance) voucher program is 85,000 children in April 2026. ● New York City starts distributing vouchers to families on the CCAP waitlist in July 2026, after the City budget is adopted. Depending on the scenario, 1,000 to 2,000 new vouchers are distributed each month until June 2027 . ● Monthly enrollment in the cash assistance (mandatory) CCAP program increases by 2,111 from March 2026 through August 2026 and then grows by 1,200 from September 2026 through September 2027. ● Per child spending remains constant at $1,557 monthly through September 2027.
+
+Table 1 presents estimates broken down to align with the different government fiscal calendars, because the program is tied to the federal CCDBG . It demonstrates that even maintaining the waitlist (“baseline”), the City will need to put additional funding into the program before the end of FFY2026. Table 1 presents three separate
+
+3
+
+scenarios: (1) clearing half the waitlist, (2) clearing the full waitlist, and (3) a fully operational CCAP program. By presenting these scenarios side-by-side, it is clear there are a range of options the City has at its disposal to meet qualifying family’s needs by adding more City tax levy dollars to the program.
+
+Table 2 presents the current estimated funds for the CCAP program in more detail. These funds include the block grant allocation (“State CCBG Funds”) for the City in the SFY2026 and SFY2027 budgets, the majority of which comes from the federal CCDBG .
+
+4
+
+These funds also include the Maintenance of Effort (MOE) imposed on the City by the State and the additional State dollars that will be unlocked if the City meets that MOE and match requirements. We assume the City will meet the match requirements, given that it results in additional State dollars. As Table 1 details, however, the City’s match requirements are insufficient to start addressing the CCAP waitlist.
+
+The difference between the current estimated funds and Scenario 1: clearing half the waitlist is $350 million in FFY2026 and $270 in FFY2027. Given the difference between federal, state and city calendars, as well as rules about how and when the City can spend current estimated funds, we estimate that adding an additional $500 million of City tax levy dollars for the CCAP program in the CFY2027 adopted budget will be a sufficient commitment for the Mayoral administration and agencies to finally proceed with addressing the waitlist, by clearing half of it, starting in July 2027.
+
+2. An FCC stabilization grant fund: $168 million
+
+CNYCA estimates a $168 million FCC stabilization grant fund is needed to sufficiently boost take home pay while mitigating program closures due to the roll -out of 2-K and the continuation of the CCAP waitlist.
+
+CNYCA’s research demonstrates two significant pay disparities throughout the child care industry:
+
+5
+
+1. Between family-based, center-based and public school early care and education (ECE) educators. 2. Between child care occupations and the median worker in the NYC economy with the same educational attainment level.
+
+These disparities – coupled with the complexities of an industry with a mix of public and private clients – are some of the reasons advocates are calling on New York State to establish a workforce fund, which would offer wage subsidies to child care educators to fill this gap while a universal child care system with a sector-wide salary scale is established. New York State’s FY2027 budget does not include this critical funding, so the City must step in and can target a workforce fund to address some of the most acute wage disparities in the sector.
+
+Drawing on successes from other states and municipalities, the State proposal for a workforce fund recommends a $12,000 annual subsidy per child care worker or provider. Table 3 provides three scenarios for a City workforce fund that could be implemented by the City directly this year. These scenarios draw on Quarterly Census of Employment and Wages (QCEW) data on the size of the City’s child care workforce as well as the survey data on the FCC sector collected by CNYCA in 2024. Scenarios 1 and 2 provide a $12,000 annual subsidy per worker per the statewide recommendation. Scenario 3 provides a $24,000 annual subsidy, which is explained further below.
+
+6
+
+Scenarios 2 and 3 are worth highlighting in more detail. FCC providers are the lowest paid in the sector. CNYCA estimates the median FCC providers earned $6.01 per hour in 2023. This low wage is linked to low enrollment (an FCC provider with “good” enrollment earned $11.20 in 2023).
+
+In FY2027, the City has prioritized expanding its NYCPS programs, like 3-K and 2-K, which only 20 percent of FCC providers currently participate in (due to NYCPS’s requirement that FCC providers be network-affiliated). Meanwhile, the CCAP waitlist disproportionately impacts FCC providers, 70 percent of whom serve the low-income families who receive CCAP vouchers. The City’s decision of which child care programs to fund (and not) both put downward pressure on the take home pay of FCC providers, who do not have a wage contract and whose take home pay is directly related to enrollment. As such, FCC providers have the most acute need for a wage subsidy in CFY2027.
+
+A wage subsidy not only improves take home pay for FCC providers but also makes it less likely they will shut down their businesses as the City develops ways to integrate them into NYCPS programs. Recent New York history shows that these types of grant programs work. During the Covid-19 pandemic two stabilization grants were distributed to child care programs. During this time period, the City only lost 100 licensed FCC programs. Meanwhile, from 2014 to 2019, when NYCPS rolled out the Pre-K and 3-K program, the city permanently lost 1,300 licensed FCC programs.
+
+As of May 12th, 2026, there were 670 Family Day Care (FCC) programs and 6,312 Group Family Day Care (GFCC) programs licensed in New York City, totaling 6,982 business owners. A $24,000 subsidy per program would equip FCC providers with the resources to navigate this transition period and make meaningful contributions to sustain their businesses, their staff and themselves .
+
+Based on experience from the State -administered stabilization and workforce retention grants (2021 to 2023), a flat subsidy is recommended in order to easily distribute funds to these programs without adding administrative burden on providers or City agenc ies. A $24,000 subsidy could increase the median take home pay for FCC providers from $15,485 to $39,485. This is still less than minimum wage ($15.33 per hour) when taking into account the long hours providers work, but a boost comparable to previous stabilization grants (i.e. the 2021 OCFS stabilization fund provided grants to FCC and GFCC providers of $25,200 an d $50,400, respectively). Grants of $24,000 to each FCC or GFCC provider in the city would cost $168 million.
+
+7

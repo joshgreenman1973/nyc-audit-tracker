@@ -1,0 +1,82 @@
+{
+  "id": "2026-06-05-cnycaffairs-child-care-budget-gap",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "City FY2027 Budget Estimate: City Must Address Child Care Budget Gap for Low-Income Families and Low-Wage Workers",
+  "plain_title": "What it would cost the city to cut the childcare waitlist",
+  "agency": "New York City government",
+  "issued": "2026-06-05",
+  "url": "http://www.centernyc.org/reports-briefs/2026/6/4/child-care-budget-gap",
+  "pdf": "http://www.centernyc.org/s/CNYCA-Child-Care-City-Budget-Memo-June-2026.pdf",
+  "what_they_audited": "A budget memo from the Center for New York City Affairs at The New School estimating what it would cost the city, in city fiscal year 2027, to cut the waitlist for the Child Care Assistance Program and to set up a stabilization grant fund for family child care providers.",
+  "background": "The memo says the state fiscal year 2027 budget included a $4.5 billion statewide investment in child care but did not include a workforce fund, and that more than 25,000 children from low-income families are on a city waitlist for the Child Care Assistance Program, which subsidizes child care for low-income families.",
+  "findings": [
+    {
+      "plain": "More than 25,000 children are on the waitlist for the Child Care Assistance Program, and the center's earlier modeling found the waitlist growing by about 1,500 children a month between June 2025 and March 2026.",
+      "quote": "trends from June 2025 to March 2026 demonstrate a monthly growth of 1,500 children on the CCAP waitlist"
+    },
+    {
+      "plain": "Families on the waitlist generally cannot use the city's public school early education programs, because their children fall outside the age ranges, they work outside a 9-to-5 schedule or there are no seats nearby.",
+      "quote": "because their children do not fit into those age ranges, they work hours outside of the 9-to-5 schedule, or there are no available seats near them"
+    },
+    {
+      "plain": "The memo says the state budget's $3 billion for the city's Child Care Assistance Program in federal fiscal year 2027 is not enough to run the program at full capacity.",
+      "quote": "this is insufficient for a fully operational CCAP program"
+    },
+    {
+      "plain": "Family child care providers are the lowest paid part of the sector. The center estimates the median provider earned $6.01 per hour in 2023, rising to $11.20 for a provider with good enrollment.",
+      "quote": "CNYCA estimates the median FCC providers earned $6.01 per hour in 2023"
+    },
+    {
+      "plain": "Only about 20 percent of family child care providers take part in public school programs such as 3-K and 2-K, while about 70 percent serve families who use Child Care Assistance Program vouchers.",
+      "quote": "the CCAP waitlist disproportionately impacts FCC providers, 70 percent of whom serve the low-income families who receive CCAP vouchers"
+    },
+    {
+      "plain": "The memo points to earlier history: the city permanently lost 1,300 licensed family child care programs from 2014 to 2019 during the Pre-K and 3-K rollout, while losing only 100 during the pandemic years when stabilization grants were paid out.",
+      "quote": "from 2014 to 2019, when NYCPS rolled out the Pre-K and 3-K program, the city permanently lost 1,300 licensed FCC programs"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$500 million",
+      "label": "Proposed city funding to clear half the waitlist"
+    },
+    {
+      "value": "$168 million",
+      "label": "Proposed size of a family child care stabilization fund"
+    },
+    {
+      "value": "25,000",
+      "label": "Children on the Child Care Assistance Program waitlist"
+    },
+    {
+      "value": "12,500",
+      "label": "Children who would be served by clearing half the waitlist"
+    },
+    {
+      "value": "$6.01",
+      "label": "Estimated median hourly pay of family child care providers"
+    },
+    {
+      "value": "1,300",
+      "label": "Family child care programs lost from 2014 to 2019"
+    },
+    {
+      "value": "6,982",
+      "label": "Licensed family and group family child care businesses"
+    }
+  ],
+  "recommendations": [
+    "Add $500 million in city tax levy dollars to the Child Care Assistance Program in the adopted fiscal 2027 budget, enough to clear half the waitlist and provide a year of virtually free child care to about 12,500 children.",
+    "Create a $168 million family child care stabilization grant fund that pays a flat $24,000 grant to each family and group family child care provider in the city."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "children and youth",
+    "money and contracts",
+    "labor"
+  ],
+  "is_followup": false
+}

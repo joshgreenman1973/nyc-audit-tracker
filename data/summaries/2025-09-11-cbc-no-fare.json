@@ -1,0 +1,85 @@
+{
+  "id": "2025-09-11-cbc-no-fare",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "No Fare",
+  "plain_title": "Fare and toll evasion cost the MTA about $1 billion in 2024",
+  "agency": "Metropolitan Transportation Authority",
+  "issued": "2025-09-11",
+  "url": "https://cbcny.org/research/no-fare",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_Fare-Evasion_09112025.pdf",
+  "what_they_audited": "A Citizens Budget Commission report estimating the revenue the Metropolitan Transportation Authority (MTA) loses to fare and toll evasion and reviewing its enforcement and other responses.",
+  "background": "In May 2023 the MTA's Blue-Ribbon Panel on Fare Evasion recommended a four-pronged approach of enforcement, environment, education and equity.",
+  "findings": [
+    {
+      "plain": "Unpaid fares and tolls cost the transit agency roughly $1 billion in 2024.",
+      "quote": "Fare and toll evasion cost the Metropolitan Transportation Authority (MTA) approximately $1 billion in revenue in 2024."
+    },
+    {
+      "plain": "Buses accounted for the largest share of the loss, followed by subways, commuter rail and tolls.",
+      "quote": "$568 million in unpaid bus fares, $350 million in unpaid subway fares, at least $46 million in unpaid commuter rail tickets, and at least $51 million in unpaid tolls"
+    },
+    {
+      "plain": "The subway evasion rate fell over the year to the first quarter of 2025.",
+      "quote": "Between the first quarter of 2024 and the first quarter of 2025, the subway fare evasion rate declined from 14 percent to 10 percent"
+    },
+    {
+      "plain": "Bus evasion also declined but stayed far higher than subway evasion.",
+      "quote": "The bus fare evasion rate declined from 48 percent to 44 percent during that period."
+    },
+    {
+      "plain": "Civil summonses rose sharply after 2021 before falling back in early 2025, while arrests, though much rarer, increased.",
+      "quote": "The number of civil summonses increased from 13,607 in the third quarter of 2021 to a peak of 38,422 in the third quarter of 2024, before declining to 29,046 in the first quarter of 2025"
+    },
+    {
+      "plain": "The scale of evasion in 2024 amounted to hundreds of unpaid rides every minute.",
+      "quote": "every minute during 2024, 330 subway fares and 710 bus fares were evaded"
+    },
+    {
+      "plain": "If the recent trend holds, losses in 2025 would be lower but still large.",
+      "quote": "totaling approximately $900 million"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$1 billion",
+      "label": "Estimated revenue lost to evasion in 2024"
+    },
+    {
+      "value": "$568 million",
+      "label": "Unpaid bus fares in 2024"
+    },
+    {
+      "value": "$350 million",
+      "label": "Unpaid subway fares in 2024"
+    },
+    {
+      "value": "38,422",
+      "label": "Civil summonses in the peak quarter, third quarter 2024"
+    },
+    {
+      "value": "4,092",
+      "label": "Arrests in the first quarter of 2025"
+    },
+    {
+      "value": "$800 million",
+      "label": "MTA structural operating budget gap"
+    }
+  ],
+  "recommendations": [
+    "Refine and continue a multi-faceted approach to reducing fare and toll evasion covering enforcement, rider education and securing the system environment, and publish data showing how cost-effective each intervention is.",
+    "Speed up the rollout of the new faregates funded in the 2025 to 2029 Capital Plan.",
+    "Speed up the rollout of proof-of-payment so EAGLE Team inspectors can enforce fare payment on local and express buses without witnessing the evasion directly.",
+    "Publish comprehensive and regular data on fare and toll evasion, including targets, quarterly evasion and lost revenue reports, quarterly unpaid toll reports and quarterly commuter rail fare reports.",
+    "Work with the city to assess how cost-effective it is to deploy police officers to enforce fare payment.",
+    "Work with the city to assess the effectiveness of Fair Fares NYC and consider expanding it, including studying the need for fare subsidies by income band and ridership."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transportation",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

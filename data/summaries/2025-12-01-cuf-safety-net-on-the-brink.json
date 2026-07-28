@@ -1,0 +1,83 @@
+{
+ "id": "2025-12-01-cuf-safety-net-on-the-brink",
+ "source": "outside",
+ "auditor": "Center for an Urban Future",
+ "title": "NYC’s Safety Net on the Brink",
+ "plain_title": "Federal cuts and the city's social service nonprofits",
+ "agency": "New York City government",
+ "issued": "2025-12-01",
+ "url": "https://nycfuture.org/research/nycs-safety-net-on-the-brink",
+ "pdf": "",
+ "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, on how federal budget cuts and executive actions are hitting the city's human services nonprofits, based on interviews with leaders of more than 40 organizations.",
+ "background": "The report focuses on the One Big Beautiful Bill Act (OBBBA), signed in July 2025, whose largest cuts take effect in 2027, along with grant terminations and executive actions already in force.",
+ "findings": [
+  {
+   "plain": "Nonprofits surveyed for the report depend heavily on federal money, on average close to a third of their budgets.",
+   "quote": "these organizations receive, on average, 29 percent of their funding from the federal government"
+  },
+  {
+   "plain": "Food programs have already lost large amounts of federal food and grant money while demand at pantries keeps climbing.",
+   "quote": "Food Bank for New York City has received 10 million pounds fewer of food this year"
+  },
+  {
+   "plain": "Visits to pantries and soup kitchens have risen sharply over five years, before the effects of the federal shutdown.",
+   "quote": "the city’s food pantries and soup kitchens have seen a 90 percent increase in visits over the past five years"
+  },
+  {
+   "plain": "New Medicaid eligibility rules are expected to strip coverage from a large number of New Yorkers, which also cuts the reimbursements many nonprofits live on.",
+   "quote": "1.2 million New Yorkers across the state to lose health insurance coverage"
+  },
+  {
+   "plain": "Supportive housing providers expect to lose federal grants as a large share of a federal homelessness program shifts to temporary housing.",
+   "quote": "two-thirds of the funding for this permanent housing program will end January 1"
+  },
+  {
+   "plain": "Immigration enforcement and related fear have cut attendance at English classes, daycare and senior centers.",
+   "quote": "has declined by about 40 percent since the fall of 2024"
+  },
+  {
+   "plain": "The city owes nonprofits a large backlog of payments for work already done, pushing organizations to take out bridge loans.",
+   "quote": "The city currently owes more than $1 billion in unpaid invoices"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "29 percent",
+   "label": "Average federal share of surveyed nonprofits' budgets"
+  },
+  {
+   "value": "10 million pounds",
+   "label": "Federal food the city's food bank did not receive this year"
+  },
+  {
+   "value": "90 percent",
+   "label": "Rise in pantry and soup kitchen visits over five years"
+  },
+  {
+   "value": "1.2 million",
+   "label": "New Yorkers statewide expected to lose health coverage"
+  },
+  {
+   "value": "$1 billion",
+   "label": "Unpaid city invoices owed to human services providers"
+  }
+ ],
+ "recommendations": [
+  "Establish a New York City nonprofit stabilization fund, setting money aside in the January 2026 financial plan and adding to it in the adopted budget, to cover urgent gaps in 2027 and 2028.",
+  "Reduce the administrative burden of city contracting, applications and reporting, starting by directing every contracting agency to identify three requirements it can eliminate or consolidate in 2026.",
+  "Launch a citywide Keep New Yorkers Covered initiative that uses early-warning recertification systems, outreach and technical assistance to keep eligible residents enrolled in benefits.",
+  "Convene top city leaders and human services organizations early in 2026 for contingency planning on how limited resources will be allocated as federal cuts land.",
+  "Pay nonprofits within the required contract period, clear invoices more than a year old, and publish a dashboard of contract processing times and payment delays.",
+  "Mobilize pro bono legal, cybersecurity and financial planning help from private firms for nonprofits affected by federal actions, coordinated by the Mayor's Office of Nonprofit Services.",
+  "Establish a federal risk and response unit within the Office of Management and Budget to track federal changes, issue rapid impact assessments and advise nonprofits."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "compliance_note": "",
+ "topics": [
+  "social services",
+  "health",
+  "money and contracts"
+ ],
+ "is_followup": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "2025-10-27-cnycaffairs-dollars-sense-2025-mayoral-election",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "Dollars, Sense, and the 2025 Mayoral Election: Affordability, Tax Policy, and the Future of New York",
+  "plain_title": "A brief on city incomes, poverty and tax policy",
+  "agency": "New York City government",
+  "issued": "2025-10-27",
+  "url": "https://www.centernyc.org/reports-briefs/dollars-sense-and-the-2025-mayoral-election-affordability-tax-policy-and-the-future-of-new-york",
+  "pdf": "https://www.centernyc.org/s/Dollars-Sense-and-the-2025-Mayoral-Election_-Affordability-Tax-Policy-and-the-Future-of-New-York-1.pdf",
+  "what_they_audited": "A policy brief by James A. Parrott of the Center for New York City Affairs at The New School examining New York City economic trends since 2019 and two policies raised in the 2025 mayoral race: raising the minimum wage and raising city income taxes on millionaires.",
+  "background": "The brief was written during the 2025 mayoral campaign, in which affordability was a central issue. Part of it responds to an August 2025 Citizens Budget Commission report on New York's shrinking share of the nation's millionaires.",
+  "findings": [
+    {
+      "plain": "Inflation-adjusted median household income in New York City fell 4.9 percent between 2019 and 2024, the steepest drop among the nation's 10 largest cities, while nationally median household income rose slightly.",
+      "quote": "a sharp 4.9 percent falloff in real median household income"
+    },
+    {
+      "plain": "Poverty rose in New York City from 16 to 18 percent between 2019 and 2024 and child poverty rose from 22.2 percent to 24.2 percent, while poverty fell nationally over the same period.",
+      "quote": "it rose from 16 to 18 percent in New York City"
+    },
+    {
+      "plain": "The number of New York City residents receiving cash public assistance rose 85 percent between July 2019 and July 2025, the highest level this century.",
+      "quote": "rocketed upward by 85 percent, reaching"
+    },
+    {
+      "plain": "Income is heavily concentrated at the top. In 2022 city millionaires were 0.88 percent of all tax filers, held 35.3 percent of adjusted gross income and paid 40 percent of city income taxes.",
+      "quote": "paid 40 percent of city income taxes."
+    },
+    {
+      "plain": "The city's personal income tax supplies only 19 percent of total city taxes, while property and sales taxes supply nearly three times that share. In fiscal 2022 the average marginal city income tax rate for a $60,000 household was close to the rate for a millionaire household.",
+      "quote": "the New York City PIT contributes only 19 percent of total city taxes."
+    },
+    {
+      "plain": "Census data put New York City's Gini coefficient, a measure of income inequality, at 0.5563 in 2024, the highest among the 10 largest cities and above the national figure of 0.4809.",
+      "quote": "0.5563, considerably higher than the 0.4809 Gini for the U.S. overall."
+    },
+    {
+      "plain": "The average cost of child care for infants and toddlers in city family-based settings rose 79 percent between 2019 and 2024, about four times the metro area inflation rate.",
+      "quote": "jumped by 79 percent"
+    },
+    {
+      "plain": "The brief argues that New York's falling share of national millionaires tracks its slower population, labor force and economic growth, and that counting nonresident millionaire taxpayers who work in New York would put the state's share above California's.",
+      "quote": "a level that would boost New York’s share of the national total to 18.7 percent"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "4.9 percent",
+      "label": "Fall in real median household income, 2019 to 2024"
+    },
+    {
+      "value": "24.2 percent",
+      "label": "New York City child poverty rate, 2024"
+    },
+    {
+      "value": "85 percent",
+      "label": "Rise in cash assistance recipients, July 2019 to July 2025"
+    },
+    {
+      "value": "40 percent",
+      "label": "Share of city income taxes paid by millionaires, 2022"
+    },
+    {
+      "value": "19 percent",
+      "label": "Share of total city taxes from the personal income tax"
+    },
+    {
+      "value": "79 percent",
+      "label": "Rise in family-based infant and toddler care costs, 2019-24"
+    }
+  ],
+  "recommendations": [
+    "Raise the New York City minimum wage, including a phased increase toward $30 by 2030, and index it going forward so its value does not erode as it did after it reached $15 in 2019.",
+    "Raise New York City personal income taxes on millionaires to pay for public investment, rather than leaving rates where they are to defend the city's share of high earners.",
+    "Put the revenue into investments that lower living costs, including universal child care building on universal pre-kindergarten and 3-K, and steps to make housing and other necessities affordable."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "housing",
+    "children and youth"
+  ],
+  "is_followup": false
+}

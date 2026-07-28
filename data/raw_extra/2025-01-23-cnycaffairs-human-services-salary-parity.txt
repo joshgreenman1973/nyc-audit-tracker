@@ -1,0 +1,441 @@
+TITLE: Moving Beyond Colas to Salary Parity for New York City's Nonprofit Human Service Workers
+URL: http://www.centernyc.org/reports-briefs/moving-beyond-colas-to-salary-parity-for-new-york-citys-nonprofit-human-service-workers
+ISSUED: 2025-01-23
+PDF: https://www.centernyc.org/s/Moving-Beyond-COLAs-to-Salary-Parity-For-New-York-Citys-Nonprofit-Human-Services-Workers-FINAL-ntbw.pdf
+
+Moving Beyond COLAs
+to Salary Parity
+for New York City’s Nonprofit
+Human Services Workers
+By: James Parrott
+January 2025Center for New York City Affairs at The New School
+
+ACKNOWLEDGEMENTS
+This report is a collaboration between the Center for New York City Affairs (CNYCA)
+and the Institute on Race, Power and Political Economy, both public policy research institutes at The New School, the Center for Community Uplift at the Brookings
+Institution, and the Human Services Council.
+
+We are grateful to the Robin Hood Foundation for the generous funding support that made this research possible. We thank CNYCA staff including Bruce Cory for editing the report, Isabella Wang for website support, Taiquan Coleman for communications support, and Kristin Morse, Lauren Melodia, Seth Moncrease for general support.
+Thank you to Sarah Treuhaft of the Institute and Andre Perry, Xavier Briggs, and Farah
+Khan of Brookings for thoughtful feedback on the draft report.
+
+We owe a special thanks to the Human Services Council for their partnership, to
+Jennifer Diamond for designing the report, and, most of all, for the continuous guidance of HSC Executive Director Michelle Jackson.
+1
+CONTENTS
+2
+Acknowledgements...................................................................................................................................... 1
+Executive Summary...................................................................................................................................... 3
+Introduction................................................................................................................................................... 6 1. Root Causes: Chronically Underfunded City Contracts........................................................................ 7 2. New York City’s Growing Human Services Sector................................................................................. 9
+ Defining Core Human Services........................................................................................................ 10
+ Human Services Contracting by Program Area............................................................................... 10 3. A Largely Woman of Color and Highly Educated Workforce.............................................................. 12
+ Human Services Workers are Highly Educated............................................................................... 15 4. Lagging Wages for Human Services Workers are Driving Racial Inequities.................................... 17
+ Third-Lowest Pay Among All Industries in the City’s Economy...................................................... 17
+ Pay for Highly Educated Human Services Workers Trails Far Behind Both Public and
+ Private Sectors...................................................................................................................... 18
+ Human Services Pay Consistently Lags for Specific Occupations................................................. 20
+ Zeroing in on Two Key Occupations and Holding Education Level Constant................................ 23
+ Racial Pay Disparities within Human Services and the Public Sector............................................ 23
+ Human Services Workers Disproportionately Rely on Public Assistance..................................... 24
+ It’s Not Just Pay; Benefits Also Lag Compared to Other Sectors................................................... 26
+ Human Services Pay Falls Well Short of the Income Needed to Meet the New York City “True
+ Cost of Living”....................................................................................................................... 26 5. Overcoming Pay Disparities Requires Moving Beyond COLAs to Pay Equity.................................. 28
+ Starting Pay Salary Parity in Center-Based Early Childhood Education......................................... 29
+ How the City Can Achieve Salary Parity for Core Human Services Workers.................................. 30 6. Conclusion and Recommendation........................................................................................................ 32
+
+EXECUTIVE SUMMARY
+3
+Troubling racial and gender pay inequities persist in New York City as we reach the quarter century mark for the 21st century. Women of color suffer from the greatest disparities, especially those who make up the majority of workers in the growing nonprofit human services sector. These social workers and counselors providing vital services to the City’s most vulnerable are egregiously underpaid relative to their education levels and their importance in creating a New York City that works for all.
+These inequities result directly from City contracting processes that consistently underfund nonprofit service providers, typically covering only 80 percent of the cost of program delivery. Despite this sector’s critical role in addressing crises like COVID-19, the migrant influx, and homelessness, it remains underfunded and overburdened. Unlike market-driven industries, pay for nonprofit human services workers is determined by City budget and procurement policies that prioritize cost-cutting over fair compensation. Nonprofits are forced to accept underfunded contracts, perpetuating a cycle of inadequate wages and limited benefits for a workforce predominantly serving marginalized communities. While recent actions, such as the 2019 salary parity agreement in early childhood education and the 2024 cost-of-living (COLA) increases, represent progress, substantial disparities remain.
+The persistence of these disparities stands in stark contrast to the City’s commitments to equity enshrined in its charter. In 2022, New York City voters amended the City Charter, the City’s foundational governing document, to acknowledge and rectify entrenched racial and gender disparities, creating an Office as well as a Commission on Racial Equity. Together, these efforts mandate that City budgeting and procurement practices prioritize equity.
+This report documents these profound pay inequities, traces their historical roots, and provides a blueprint for the City to establish salary parity for its contracted human services workforce. Key findings include:
+• The city’s human services sector has seen tremendous growth in both contract spending and employment in recent decades: The City of New York contracts $7.8 billion annually to nonprofit organizations employing about 80,000 workers, with human services contract spending growing 60 percent faster than the overall City budget over the past decade.
+Employment in “core human services” (all traditional human services except child care and home healthcare) has also surged, growing three times faster than private sector jobs since 1990 and increasing by a third in the last five years.
+• The sector’s workforce is highly educated and skilled–more so than the private sector, on average–and predominantly women of color: Sixty-one percent of core human services workers have at least a bachelor’s degree—significantly higher than the overall private sector workforce. Two-thirds of full-time core human services workers are women, and 52 percent are women of color.
+EXECUTIVE SUMMARY
+4
+• Despite that high skill base, wages in the sector are among the lowest of any industry in the city’s economy: Despite this highly educated workforce, average annual pay for individual and family services jobs—the largest component of the core human services sector—was
+$36,688 in 2023. This places the sector as the third lowest-paying industry in New York City, trailing even the low-wage restaurant and retail sectors.
+• The most educated human services workers face the most significant pay disparities, compared to the private sector and government workforce: Core human services workers with bachelor’s degrees earn 33 percent less than the private sector median and 22 percent less than the public sector median for similarly educated workers. Those with postgraduate degrees earn 37 percent less than the private sector median and 29 percent less than the public sector median for their education level.
+• Even with a college degree or higher, workers of color face the sharpest disparities:
+For full-time counselors and social workers with at least a four-year college degree, pay disparities between core human services and overall government employment are more significant among workers of color compared with their white counterparts. For workers of color, median pay is 23-25 percent less in core human services than in government at both education levels, while it is 13-18 percent less for white workers.
+• Many human services workers, who provide vital support and guidance to some of the city’s most vulnerable, are themselves economically insecure: Nearly one in six human services workers lives at or below 200 percent of the federal poverty level, compared to just one in ten public sector workers.
+• Fringe benefits for human services workers also lag significantly behind their public sector counterparts, yielding a total compensation shortfall of 31 percent when benefits are factored in.
+The City has made important progress in recent years. A 2019 agreement established the goal of starting pay salary parity in the early childhood education sector. More recently in March 2024 the administration of Mayor Eric Adams committed to providing three years of cost-of-living (COLA)
+increases to human services contract workers that would be in line with increases that municipal workers will receive under collective bargaining agreements.
+While these actions represent significant steps forward, a substantial pay and benefit gap remains that adversely affects a highly educated workforce that is predominantly female and persons of color.
+Mayor Adams has acknowledged that human services workers “are on the frontlines solving the most pressing issues facing our city.” The COLA increases keep the pay gap from widening further, but do not close the pay gap.
+EXECUTIVE SUMMARY
+5
+Achieving salary parity for human services workers is not a matter of raising the wage floor for the lowest-paid workers. The greatest and more profound compensation inequities are among highly professional human services workers, those with a bachelor’s or master’s degree. Pay for administrative and other support staff should also rise, but the human services pay inequities are mainly a matter of making pay for the professional workforce comparable to what similarly educated and trained public sector workers performing jobs with a similar degree of professional responsibility receive.
+
+Policy Recommenda tions
+The imperative moral and fiscal response to these findings for the City is clear: the funding for human services contracts must increase so that nonprofits can make the compensation of human services workers commensurate with that of workers similarly educated and performing comparable tasks in the public sector, regardless of race or gender.
+
+This report calls for immediate action to rectify these disparities by:
+1. Align pay for human services workers with City agency job titles and compensation levels to ensure parity with public sector employees performing comparable work. The City should align job titles and pay in nonprofit contracted organizations with similar education and responsibility with job titles in the City’s health and human services agencies which are covered by long-standing collective bargaining agreements that explicitly compensate workers based on level of education and experience on the job.
+2. Include automatic cost-of-living adjustments and future fringe benefit increases in all City human services contracts to prevent widening inequities. Once salary parity on a job title basis is achieved, City human services contracts should include automatic adjustments based on city-wide collective bargaining increases and build in future fringe benefit increases to reach comparability with City employees.
+3. Incorporate racial and gender equity considerations into the City’s budgeting and procurement policies, consistent with the principles of the 2022 amendments to the City
+Charter.
+Introduction
+6
+As New York City enters the mid-21st century, troubling racial and gender pay inequities persist in the private human services sector, a critical component of the city’s social safety net. Women of color, who comprise over half of this workforce, face the harshest disparities. Despite being more highly educated on average than the general private sector workforce, human services workers earn significantly less than their counterparts in both the public and private sectors.
+The inequities in this sector are not due to market forces: they result directly from systemic underfunding in City contracts. Unlike market-driven industries, pay for nonprofit human services workers is determined by City budget and procurement policies, which prioritize cost-cutting over quality services delivered by fairly compensated professionals. This system has forced nonprofits to operate on extremely slim margins and reduces the possibility of human services workers earning wages and benefits that are at parity with comparable positions in either the public sector or elsewhere in the private sector. Nonprofits that heavily rely on government contracts to pay their staff and provide services face little choice but to accept under-funded City contracts or risk undermining longstanding relationships with the clients and communities they serve.
+
+In November 2022, New York City voters approved two amendments to the City Charter enshrining in the city’s foundational governing document the principle that such systemic inequities are not acceptable and should be rectified. The first amendment added a preamble to the City Charter that acknowledged systemic inequities ... [that] have resulted in widespread loss of economic opportunity and intergenerational wealth.” This recognition “will guide the operation of our city government and inform and shape how the city carries out the duties, obligations, and authorities, and upholds and protects the rights set out in the charter.” The second amendment established an Office of Racial
+Equity and a Commission on Racial Equity charged with working with other city agencies to develop racial equity plans for city agencies and the city overall.1
+This report documents the significant pay disparities in the sector, uncovers their historical roots, and offers the City a blueprint for achieving salary parity. It underscores the need to align human services pay with public sector counterparts and integrate equity considerations into all facets of City budgeting and contracting.
+1     One feature required of these racial equity plans is identification of historical decisions about the allocation of city resources and investments that disproportionately affect low income and New Yorkers of color in accessing economic opportunity and security. The plans should also include actions to address the consequences of such historical decisions. https://codelibrary.amlegal.com/codes/ newyorkcity/latest/NYCcharter/0-0-0-1 1. Root causes:
+chronicall y underfunded
+City contracts
+7
+Settlement houses and various religious and other charitable organizations have a long history in
+New York City of providing a range of human services to low-income communities. The provision of government-funded human services grew sharply in the wake of the Great Society anti-poverty programs in the 1960s. The scale of service provision has expanded significantly in the decades since, for a variety of reasons, and to meet a wide range of needs. To cite a few examples:
+programmatic growth occurred in response to the AIDS epidemic, the early 1990s crack epidemic, the increased number of the elderly, and the de-institutionalization of those with mental health issues.
+Federal welfare reform in 1996 pushed many mothers of young children into the paid workforce, increasing the need for child care subsidies and afterschool programs, and the Temporary Assistance to Needy Families (TANF) block grants that were part of welfare reform funded services for lowincome households. As housing affordability pressures have intensified over the past 15 years, and were exacerbated by the pandemic, New York City substantially increased its contracting for homeless shelters and services.
+Since the 1960s, publicly funded human services provision has been channeled through nonprofit organizations rather than through City government agencies. Over 30 years ago, Smith and Lipsky noted that nonprofits had become the “favored tool of public [social] service delivery.”2 Diverse factors drove this trend, including a sizable existing infrastructure of charitable service providers, a preference for community-oriented approaches to service delivery, and a concern for cost-efficiency.
+Delivering services through nonprofits kept costs down and halted the growth of a public sector workforce already expanding in response to the civil rights movement and urban unrest in the 1960s.
+In the 1970s and 1980s, the federal government devolved greater responsibility for funding human services to the states, which in turn relied on nonprofit contractors to deliver services.3 As Fabricant and Fisher have written, while federal social policies in the 1960s and early 1970s relied on contracting to overcome the limits of private charity and local and state governments, by the 1980s,
+Washington policies reoriented the federal role in order to end social welfare expansion and reduce reliance on unionized public workers.4
+Within New York, the State has tended to rely heavily on local governments, particularly New York City, to share funding responsibility for public assistance programs and the delivery of human services.
+The State provides a significant share of contract funding in certain areas, like foster care, family homeless shelters, domestic violence, and AIDS-related services, but many program areas are largely, 2     Steven Rathgeb Smith and Michael Lipsky, Nonprofits for Hire. The Welfare State in the Age of Contracting, Cambridge, MA: Harvard
+University Press, 1993, p. 11.
+3     Michael B. Fabricant and Robert Fisher, Settlement Houses Under Siege. The Struggle to Sustain Community Organizations in New
+York City, New York: Columbia University press, 2002, pp. 76-77.
+4     Fabricant and Fisher, pp. 77-78.
+8
+if not entirely, City-funded. The State directly contracts with New York City nonprofits to provide an estimated $2-3 billion in services.
+Over the years, State and City contracts generally have left New York nonprofit human services providers in a precarious financial position. Following the bankruptcy and dissolution of one of the largest citywide multi-service nonprofits – the $250 million a year Federal Employment and Guidance
+Service (FEGS) organization – a task force established by the Human Services Council reported that government contracts cover, on average, only 80 percent of each dollar of “true program delivery costs.”5 City contracts, for example, typically provide limited funding for indirect costs that include administration, information technology, and rent.6 Twenty years ago, a major nonprofit providing criminal justice services noted that while the federal government provided a 19 percent indirect rate, many City contracts allowed only 10 percent or even as little as five percent for indirect costs.7
+Several years of advocacy on the part of nonprofits were needed to get the City to finally commit in 2019 to increasing the allowance for indirect costs.8
+There have also been perennial problems with both the City and the State taking several months to reimburse nonprofits for expenses incurred in providing services, forcing nonprofits to undertake costly borrowing that is not reimbursable.9 Following years of complaints regarding chronically late contract payments, Mayor Adams and City Comptroller Brad Lander recently committed to ensuring that contracts are paid on time, and in full.10
+Most nonprofit human services providers have become heavily dependent on government contracts.
+Yet, these contracts are chronically underfunded, resulting in wages for human services workers that do not reflect current market conditions, and that create enormous government-nonprofit sector pay disparities for a predominantly women of color workforce.
+
+5     Human Services Council, New York Nonprofits in the Aftermath of FEGS: A Call to Action, 2016, p. 3.
+6     Under City service contracts, direct costs are those for staff and related expenses immediately associated with service delivery, indirect costs are those for administration and overhead costs.
+7     Fabricant and Fisher, pp. 76-77.
+8     See the City’s webpage on the implementation of the agreement to increase indirect cost funding. https://www1.nyc.gov/site/nonprofits/funded-providers/indirect-implementation.page. For a discussion of the campaign that resulted in this agreement, see James A.
+Parrott, The Road to and from Salary Parity in New York City: Nonprofits and Collective Bargaining in Early Childhood Education, Center for
+New York City Affairs at The New School, January 2020, p. 20.
+9     Joanne Page, The Trouble with City Contracts, New York Nonprofit Media, May 13, 2016.
+10     New York City Comptroller Brad Lander, NYC Mayor Eric Adams and Comptroller Brad Lander Release Five Key Actions for A Better
+Contract for New York, February 14, 2022. The press release noted: “Unfortunately, many of these partners [nonprofit service providers] wait months, and up to more than a year, to get paid for services they provide to New Yorkers. In FY22, over three-quarters of the City’s contracts with nonprofit organizations arrived at the Comptroller’s office for registration after the start date. Delays and flaws in the process of registering and paying contractors have left many nonprofits in the lurch, taking out loans to continue their essential operations while they wait for reimbursement from the City.”
+2. New York’s growing
+human services sector
+9
+City government reliance on the nonprofit human services sector has steadily grown over the past 35 years. During that time total New York City employment in the core social assistance sector rose nearly 170 percent, increasing more than four times as fast as total private sector employment.11 (See Figure 1.) “Social Assistance” is the U.S. Labor Department’s designation for the economic sector that provides human services. New York City’s core human services employment rose sharply in three periods over this span: during the 1990s, a period of prolonged high unemployment and in the wake of the crack and AIDS epidemics, in the five years before the pandemic as City contracting rose for homeless, youth, and mental health services, and in the five years since 2019 as a result of the migrant influx and the continued rise in homelessness.
+11     We define “core social assistance (or human services)” to exclude childcare and home health care services.
+New York City core social assist ance payroll employment has grown much faster than all priva te employment, particularl y over the past five years.
+Figure 1
+1990 to 2024 (168 percent vs. 40 percent)
+Source: U.S. Bureau of Labor Statistics, Current Employment Statistics (CES). The CES data includes some home health care and personal aide workers employed by social service organizations. As defined here, “core” human services excludes child care services (and the home health care industry). In the CES series, “human services” is titled “Social Assistance.” 2024 is estimated based on the change over the first 10 months of the year.
+10
+Defining core human services
+We concentrate here on Core Human Services (or Core Social Assistance). This term broadly categorizes human services programming funded by the City. The key occupations of interest include social and community service managers; social workers (child, family, mental health, and substance abuse); counselors (substance abuse, behavioral disorders, mental health, rehabilitation); and social service assistants.
+It is important to note that the analysis of contract, employment and salary data for Core Human
+Services does not include child care teachers and staff and home health or personal care aides for several reasons – even though the Labor Department classifies them in the Social Assistance sector. Home health care12 and childcare services have distinct contracting practices, and distinct wage-determination dynamics as compared with the core human services occupations examined in this report. Compensation for center-based childcare teachers is beginning to rise under an early childhood salary parity agreement involving the City and District Council 37-1707 reached in
+July 2019.13 Home health care workers are paid even less than core human services workers, so including them in our analysis would have skewed the wage distribution downward, inappropriately under-stating the wages received by most workers providing services under City of New York human services contracts.14
+In short, we have produced an “apples-to-apples” comparison that focuses on the substantial pay differential between the core human services workers we identify and comparable City government or private hospital employees.
+Leaving aside early childhood education contracts, New York City’s current budget for FY 2025 includes $7.8 billion in contracts for a range of human services. Figure 2 shows these 4,097 contracts grouped into their main program areas. These contracts are largely with nonprofit human services providers, many of which operate in multiple program areas.
+12     Most of home health care employment is classified in its own sub-industry within the Health Care sector. As of November 2024, employment in the Home Health Care sub-industry was 317,000 in New York City. Some home health and personal care aides are employed by organizations that are primarily human services providers—it is this group of workers that we separate out from “core human services.”
+13     Pay for support staff in City-funded childcare centers still lags, however. See Parrott, The Road to and from Salary Parity, 2020.
+Compensation for childcare teachers and workers is now determined by contracts handled by the City Department of Education. The pay for home-based childcare providers and workers in New York City is largely determined by New York State’s process to establish payment rates for childcare subsidies.
+14     The great majority of home health care workers have their compensation set under New York State’s policy for Medicaid reimbursements. For a detailed analysis of compensation for home care workers, see Isaac Jabola-Carolus, Stephanie Luce, and Ruth Milkman,
+The Case for Public Investment in Higher Pay for New York State Home Care Workers: Estimated Costs and Savings, City University of
+New York Graduate Center and CUNY School of Labor and Urban Studies, March 2021.
+HUMAN SERVICES CONTRACTING BY PROGRAM AREA 11
+$7.8 billion in FY 2025 New York City core human services contracts
+Figure 2
+Program Area # of Contracts $ Amts. (millions)
+Homeless services 573
+Child and family services
+Mental health services
+Youth services (except for workforce related)
+Services for seniors
+Criminal justice
+AIDS services
+Employment and workforce services
+Other services
+TOTAL – Core Human Services Contracts 431 473 753 1,399 64 117 88 199
+$3,993
+$989
+$851
+$719
+$330
+$287
+$276
+$180
+$213
+4,097 $7,837
+Source: City of New York, Office of Management and Budget, Expense, Revenue and Contract Budgets, Adopted FY 2025, June 2024.
+Includes contracts with these City agencies: Administration for Children’s Services, Department for the Aging, Human Resources
+Administration (Departments of Homeless Services and Social Services), Department of Health and Mental Health, Department of
+Youth and Community Services, Mayor’s Office of Criminal Justice, and the workforce contracts administered by the Department of
+Small Business Services.
+Total City spending on core human services contracts increased by nearly $4.6 billion from FY 2015 to FY 2025. This was largely driven by a four-fold increase in contracts for homeless services, which rose from $814 million to $4 billion over this period, reflecting the homelessness surge following the pandemic and because of the influx of migrants from 2022-24. Spending on other core human services contracts rose by $1.4 billion from FY 2015-2025, or by 57 percent. This increase was more in line with the 44 percent overall increase in total City-funded expenditures during this period. (None of the data cited here are adjusted for inflation.)
+Change in New York City core human services contracts, FY 2015-2025
+Figure 3
+Contract $ Amts. (millions)
+Homeless services
+Source: City of New York, Office of Management and Budget, Expense, Revenue and Contract Budgets, Adopted FY 2025, June 2024;
+Expense, Revenue and Contract Budgets, Adopted FY 2016, June 2015.
+TOTAL – Core Human Services
+Core minus homeless services
+$3,258
+$814
+FY 2015
+$ Amounts
+$2,444
+$ Amounts
+FY 2022
+$7,837
+$3,993
+$3,845
+$ Amts.
+$4,579
+FY 2015-2022 Change
+$3,993
+$1,400
+% Change
+141%
+391%
+57%
+3. A largel y women of
+color and highl y educa ted workforce 12
+The demographic data presented below for employees in human services areas are from the U. S.
+Census Bureau’s 2022 five-year (2018-22) American Community Survey (ACS). We refer to the time period for the ACS data as 2018/22. It is the most up to date such data available. The levels reported are averages over those five years, which include the pandemic-depressed levels for 2020 and 2021.
+According to Labor Department payroll employment data for core human services, there was a 32 percent growth in New York City employment in these jobs between the 2018/22 average and the first 11 months of 2024. However, we have no reason to believe that the core human services demographic and earnings analysis based on the ACS data described in this and the following sections are not relatively representative of current economic conditions.
+From 2000 to 2018/22, full-time core human services employment grew by 143 percent, more than four times as fast as the 33 percent growth in full-time private sector workers in the city. (See
+Figure 4.) Part-time core human services workers also grew much faster than in the private sector as a whole, although growth among part-time human services workers was not nearly as rapid as the growth of full-time workers. A higher share of core human services workers work part-time (29 percent) compared with the overall private sector workforce (21 percent).
+New York City employment change, core social assist ance and all priva te sector, 2000 to 2018/2022, by full- and parttime st a tus
+Figure 4
+Source: Authors’ analysis of 2000 Census and 2018/22 American Community Survey, IPUMS US, University of Minnesota, www.ipums.org.
+Note: Core social assistance excludes the childcare sub-industry and all home care and personal care aide occupational employment.
+13
+Total employment of full-time and part-time core human services workers was 60,100 for 2018/22.15
+These are private sector workers, and account for a little over 1.9 percent of all private sector employees working in the city. As Figures 5 and 6 indicate, women are 66 percent of all full-time core human services workers, quite a bit higher than the 46 percent female share of the city’s entire private sector workforce. While 64 percent of the full-time private sector workforce are workers of color, in core human services, workers of color constitute 77 percent of all full-time workers.
+Women of color heavily predominate in core human services, accounting for 52 percent of the total.
+That is well over one-and-a-half times the 30 percent women of color share in the broader New York
+City private sector workforce.
+White women have roughly the same (16-17 percent) representation in core human services as in the private sector overall. Men of color and white men are both under-represented. Men of color account for 25 percent of the human services workforce compared to 34 percent in the total private sector;
+white men account for only eight percent of human services and 19 percent of the private sector workforce overall.
+15     This figure is lower than that reported in our 2022 since that core human services total included workers in the personal care occupation employed by organizations in the individual and family services industry. James A. Parrott and L.K. Moe, The Case for Endling
+Poverty Wages for New York City’s Human Services Workers, Center for New York City Affairs, March 2022.
+Gender and race/ethnic characteristics of New York City priva te and core human services workers, 2018/22
+Figure 5
+Core Human
+Services
+Total Private
+Sector
+All-Both Genders 60,095
+All-female
+All-male
+All-White, Non-Hispanic Persons
+White-female
+White-male
+All-Persons of Color
+40,263
+19,832
+14,367
+9,473
+4,894
+45,728
+30,790
+3,115,683
+1,537,531
+1,578,152
+1,061,141
+514,673
+546,468
+2,054,542
+1,022,858Of color-female
+Of color-male 14,938 1,031,684
+Source: CNYCA analysis of American Community Survey data, 2018-22, full-time and part-time workers, from IPUMS.
+14
+Among workers of color, Black workers are much more heavily represented in core human services than Latinx or Asian workers. Thirty-seven percent of full-time human services workers are Black, nearly twice their 20 percent private share.16
+
+16     CNCYA analysis of American Community Survey data, 2018/22.
+Two-thirds of the full-time core human services workforce are women, and 52 percent are women of color
+Figure 6
+Source: CNYCA analysis of American Community Survey data, 2018/22, full-time workers, from IPUMS 15
+HUMAN SERVICES WORKERS ARE HIGHL Y EDUCA TED
+The city’s full-time core private human services workforce is much more highly educated than the city’s overall private workforce. Sixty-one percent of full-time human services workers have a four-year college degree or better. That’s well above the 50 percent share for the city’s private sector workforce overall. Over a quarter of human services workers have a master’s degree or better versus 19 percent for all private workers. At the other end of the education spectrum, a much lower share of full-time core human services workers has a high school education or less than for the total private sector workforce, 18 vs. 30 percent as shown in Figure 7.
+A grea ter share of full-time core human services workers has advanced degrees than in the city’s overall priva te sector workforce
+Figure 7
+Source: CNYCA analysis of American Community Survey data, 2018-22, full-time workers, from IPUMS
+In recent years, women of color working core human services have steadily increased their education attainment. Among workers in this sector with a post-graduate degree, the share who are women of color rose from 42 percent for the years 2015/17 to 56 percent for the 2020/22 period. Among those whose highest degree is a four-year college degree, the share who are women of color rose from 53 percent in the earlier period to 55 percent for the 2020/22 period.
+16
+Among the full-time core human services workforce, women of color constitute a rising share of the collegeeduca ted workforce, particularl y among those with a post-gradua te degree, 2020/22 compared to 2015/17
+Figure 8
+% Women of Color
+Source: CNYCA analysis of American Community Survey for pooled, three-year comparisons, 2015/17 and 2020/22, full-time workers, from IPUMS 4. Lagging wages for human services workers are driving racial inequities 17
+Third-lowest pay among all industries in the city’s economy
+Labor Department data on average annual pay for all sectors in the city’s economy in 2023 dramatically underscore the depressingly low pay provided to the city’s human services workers.
+This is particularly striking considering their comparatively high education level. Annual pay in the individual and family services, the largest of the detailed core human services industries, averaged only $36,688, the third-lowest-paid among the city’s 10 largest low-paying sectors.
+Home health care services was the lowest-paying at $31,861. (See Figure 9.) Individual and family services employment was better-paying than jobs in grocery stores ($32,414), but lower-paying than work in the restaurant industry ($39,564) where many jobs are pegged to the state minimum wage ($16.00 an hour as of January 1, 2024), or among security guards (investigation and security services) and janitors (building services). Individual and family services jobs in 2023 paid about
+$25,000 a year less than workers in drug stores (health and personal care retailers) and clothing stores, and $27,500 a year less than workers in nursing care facilities. Average pay for individual and family services jobs was only 38 percent of the average public (government) sector job and 31 percent of the average private sector job in 2023.
+The main core human services industry, Individual & Famil y
+Services, has the third-lowest average wage among the 10 largest, low-paying industries in NYC
+Figure 9
+Source: NYS Department of Labor, Quarterly Census of Wage and Employment, 2023. Average annual wage data analyzed for 34 4-digit industries with employment greater than 30,000.
+18
+Pay for highl y educa ted human services workers trails far behind both public and priva te sectors
+As noted in the previous section, more than three out of every five core human services workers have a four-year college degree or an advanced degree, generally a Master of Social Work (MSW). While higher education generally translates into higher pay, New York City’s human services workers with a four-year or advanced degree are at a severe disadvantage relative to their peers in other parts of the private sector. Figure 10 shows median annual salary comparisons for full-time workers by education attainment. (The median represents the worker in the exact middle of the pay distribution within any category and is more reflective of what a typical worker might receive than the average or mean.)
+Median pay for full-time core human services workers significantl y lags median pay for all NYC public sector and all priva te sector workers a t nearl y all educa tion a tt ainment levels
+Figure 10
+Source: CNYCA analysis of American Community Survey, 2018/22, IPUMS USA, Univ. of Minnesota, www.ipums.org. Median annual pay in $2022.
+In the city’s core human services sector, those with a master’s degree or higher have a median annual salary of nearly $70,000, far below the $111,300 median for all private sector workers with that level of education, workers with an advanced degree in the city’s private sector, and the $98,000 median for all public sector workers with an advanced degree.
+Similarly, the nearly $56,000 median salary for a core human services worker with a four-year degree is well below their private and public sector counterparts ($83,500 for the median private sector worker and $71,200 for the median public sector worker). In fact, the median pay for private and public sector workers with a four-year degree is greater than the pay for a human services worker with an advanced degree.
+Of the 20 broad sectors in the New York City economy, median pay for human services workers with a four-year college degree trails every single sector except for food services, a sector where those with a four-year degree or higher accounts for fewer than one in every five workers, as opposed to three out of five in core human services.17
+A slightly different pay pattern prevails for human services workers with less formal education. For those with some college or an associate’s degree, median human services pay still trails that of their private and public sector counterparts, but at these levels public sector pay exceeds the overall private sector median. For human services workers with some college, median pay is about $46,000 annually, which trails far behind the $61,500 median public sector pay and well below the $50,000-
+$53,000 pay for private sector workers overall with some college. A similar picture holds for workers with a high school degree: pay lags significantly behind public sector counterparts and trails the median private sector worker. For the much smaller group of human services workers with less than a high school education, median pay is well below a public sector counterpart but slightly better than for the private sector overall.
+When we refer to public sector workers in the ACS data, this generally means City government employees. Over two-thirds of government employees in New York City are employed by the City of
+New York or one of its subsidiary entities, such as Health + Hospitals or the New York City Housing
+Authority. Compared to the public sector, median private sector salaries are lower for those with less than a four-year college degree, but higher for those with a four-year degree or better.
+Figure 11 utilizes the median annual pay data for full-time workers from Figure 10 to show the extent to which core human services pay lags public and private sector pay. Overall, the median pay for a full-time core human services worker of $53,600 falls 14 percent below median pay for a full-time private sector worker and 28 percent lower than median full-time public sector pay.
+The core human services pay shortfall for highly educated workers (four-year college degree or better) relative to the public and private sector overall ranges from 22 to 37 percent. For human services workers with a high school diploma or some college, median pay trails the public sector by 20-30 percent and lags median pay for the private sector overall by six to 13 percent. The pay for human services workers with less than a high school education trails the public sector by 20 percent but surpasses the private sector overall by six percent.
+17     CNYCA analysis of American Community Survey data, 2018/22, from IPUMS.
+19
+20
+Core human services full-time pay significantl y lags public and all priva te sector pay
+Figure 11
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+To hone in more closely on pay comparisons for comparable workers, Figures 12 and 13 provide comparisons for three professional occupations, including one at entry-level (“social service assistants”) and two groups of nonprofessional occupations. Median full-time worker pay comparisons are made to the comparable workers in the public sector and those working in private hospitals, a sizable employer including many workers in similar occupations as in core human services. Pay gaps between human services and other sectors remain substantial for both professional and non-professional workers.
+Human services pay consistentl y lags for specific occupa tions 21
+Pay for core human services workers trails government and priva te hospit als for both professional and nonprofessional occupa tions
+Figure 12
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+Figure 13 uses the median pay data from Figure 12 to show the degree to which core human services pay lags that of comparable workers in the public sector and in private hospitals. Median annual pay for core human services social workers of $54,600 lags 23 percent behind their counterparts in the public sector, and 32 percent behind social workers employed in private hospitals.
+For example, the $47,400 annual median pay for counselors in core human services not only puts them 19-37 percent behind their counterparts in the other two sectors; it also puts their pay below median pay for office and administrative support workers in both the public sector in private hospitals, and below the pay for janitors, security guards, and food service workers in private hospitals. Mid-level social services assistants who often have a bachelor’s degree also have pay that puts them well below their public sector counterparts. While their pay is 20 percent more than workers in the same occupation in private hospitals, human services pay for these workers puts them slightly below janitors, guards, and others in private hospitals. Pay gaps among non-professional workers compared to the public sector and private hospitals range from seven to 32 percent.
+22
+Core human services pay, for specific occupa tions, lags the government sector by 20-38%, and lags priva te hospit als by 13-36%
+Figure 13
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+Figure 14 goes a step further in looking at pay comparisons for similar key professional human services occupations separately, for those with a bachelor’s degree and those with a master’s degree. For counselors, median pay for full-time workers in core human services lags pay for their counterparts with a bachelor’s degree working for government by 25 percent and by 31 percent for those with a postgraduate degree. For social workers, the pay gap ranges from 18 (bachelor’s) to 20 percent (post-graduate).
+23
+Zeroing in on two key occupa tions and holding educa tion level const ant
+Median Salaries, Full-Time Workers
+Core human
+services Gov’t
+Counselors with a B.A. degree $54,514
+Counselors with a postgraduate degree
+Social workers with a B.A. degree
+Social workers with a postgraduate degree
+$57,327
+$52,445
+$66,796
+$72,362
+$82,906
+$63,956
+$83,510
+% by which core
+human services
+pay lags gov’t
+-25%
+-31%
+-18%
+-20%
+Pay gaps between core human services and gov’t remain sizable when holding educa tion level const ant
+Figure 14
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+Pay disparities also fall along racial lines among workers in the core human services sector. Figure 15 shows median pay for full-time counselors and social workers (with the two occupations combined together) in human services and government by education level, and separately for whites and for persons of color.18 The data show that pay for white workers is much closer at both bachelor’s and master’s levels between core human services and government than it is for persons of color. For whites, the gaps are from 13 to 18 percent. However, for workers of color median pay is 23-25 percent less in core human services than in government at both education levels.
+Comparisons within sectors reveals that median pay for persons of color in core human services lags that of their white counterparts by eight percent at the bachelor’s level and 14 percent at the postgraduate level. Within the government sector, median pay is relatively close between white workers and workers of color at both education levels.
+18     Within core human services, the number of social workers is 4-5 times the number of counselors. Within the government sector, the disparity is much greater in favor of social workers. To enhance the statistical reliability of the analysis in Figure 15, we did not disaggregate this analysis by gender.
+Racial pay disparities within human services and the public sector 24
+The core human services-government pay gap is more pronounced for persons of color, and persons of color also suffer a pay gap within core human services
+Figure 15
+Source: CNYCA analysis of American Community Survey data, 2018/22, from IPUMS.
+Human services workers disproportiona tel y rel y on public assist ance
+Pay is so low for core human services workers that nearly one in five (19 percent) received
+Supplemental Nutrition Assistance Program (SNAP) benefits, commonly known as food stamps.
+(See Figure 16.) That share is considerably greater than the 11 percent of all public sector workers receiving food stamps over the 2018/22 period, and more than a third greater than the 14 percent of all private sector workers receiving such benefits.
+25
+Percent of full-time and part-time workers receiving food st amps
+Figure 16
+About one out of every six core human services workers had family incomes below 200 percent of the federal poverty threshold for 2018/22. That 16 percent share was much greater than the 10 percent share among public sector workers but lower than the 19 percent share for New York City private sector workers overall. (See Figure 17.)
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+Percent of full-time and part-time workers receiving food st amps
+Figure 17
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+26
+It’s not just pay; benefits also lag compared to other sectors
+Fringe benefits – including health insurance, health and welfare fund contributions, pension contributions, and paid time off – are also significantly higher in the public sector than in the nonprofit human services sector. Total fringe benefits amount to an estimated 36 percent of regular pay in the core nonprofit human services sector.19 This compares to about 50 percent for City of New York employees, making the nonprofit fringe rate 28 percent less than in the public sector. And of course, a 36 percent fringe rate on a relatively low salary level to begin with translates into a much smaller investment in health insurance, retirement savings, and paid time off than in the public sector for a comparable human services worker.
+19     The 36 percent estimate is based on conversations with human services nonprofit leaders. The 36 percent estimated fringe rate includes 7.65 percent FICA; UI 2.5 percent; workers comp 2.5 percent; total paid time off (vacation, holidays, personal and sick days=30)
+11.5 percent; health insurance 10 percent; retirement 1.5 percent; MTA 0.34 percent. A 2015 survey of New York City nonprofit human services organizations found that employers made retirement contributions averaging four percent for an estimated 37 percent of workers. The above estimate uses the product of these two values, .04 * .37 = .015. James A. Parrott, Promoting Better Retirement Security among Nonprofit Social Service Employees in New York City, Fiscal Policy Institute, July 2015.
+Human services pay falls well short of the income needed to meet the New York City “True
+Cost of Living”
+As noted earlier in this section, the median pay for full-time core human services workers was
+$53,600 for the 2018/22 period (in 2022 dollars). Full-time human services pay falls well short of the income a family needs to meet the “True Cost of Living” in New York City, defined as the amount of income necessary to pay for basic family budget needs of working-age families in New York City today, differentiated by family type and location within the city.
+Figure 18 provides information on the income that representative family types need to cover the costs of basic family budget needs in Brooklyn and the Bronx, the two boroughs home to the most human services workers. The True Cost of Living budgets are published by The Fund for the City of New York and the United Way of New York City and are periodically compiled using a widely accepted methodology developed by University of Washington School of Social Work. The True Cost of Living self-sufficiency budgets are based on average costs for market-rate housing, childcare, food, transportation, and miscellaneous expenses and taxes in each borough without reliance on any government assistance or subsidy from other family members. These are meant to be bare bones basic family budgets that do not provide for any vacations, or savings for college or retirement.
+The estimated 2022 median annual earnings of $53,600 for a human services worker represents only two-thirds of the income needed to support an adult with a preschooler and falls nearly $50,000 short of the $103,100 income needed to support an adult with a preschooler and a school-age child.
+It would take a little more than two human services salaries to meet the city’s True Cost of Living for a two-earner, four-person family basic family budget needs.
+27
+Basic famil y True Cost of Living budgets, Bronx and
+Brookl yn*, select famil y types
+Figure 18
+Source: CNYCA analysis of American Community Survey data, 2022 5-year sample, from IPUMS.
+Basic family self-sufficiency budgets, Bronx and Brooklyn*, select family types 2023
+*Brooklyn (excluding northwest Brooklyn)
+Source: Annie Kucklick, Sarah Brolliar, Lisa Manzer, and Alyssa Mast, The Problem of Income Inadequacy, 2023 New York State dataset,
+Center for Women’s Welfare, Univ. of Washington School of Social Work, Prepared for FPWA, The Fund for the City of New York, and
+United Way of New York City, December 2023. https://selfsufficiencystandard.org/new-york/ 5. Overcoming pay disparities requires moving beyond COLAs to pay equity 28
+New York City’s nonprofit human services pay disparities have deep roots. The disparities widened compared to City government human services professionals when the Bloomberg administration stopped providing cost of living increases (COLAs) in nonprofit contracts. Years of determined advocacy by the nonprofit sector brought COLA increases back under Mayors de Blasio and Adams and Governor Hochul.20 Most recently, in March 2024 the administration of Mayor Eric Adams committed to provide three years of cost-of-living (COLA) increases to human service contract workers that would be in line with increases that municipal workers will receive under collective bargaining agreements.21
+
+While recent COLA increases have helped to keep the pay of human services contract workers from falling further behind, COLA increases alone do nothing to close the pay gap between this workforce and the City government human services workforce. While at every level, the pay of human services contract workers lags the compensation of their public sector counterparts, the critical challenge is to raise the pay of college-educated professionals who constitute over 60 percent of the workforce and whose pay lags their government counterparts the most. These counselors and social workers serve as the all-important frontlines in providing vital services to disadvantaged populations.
+The City needs a new and comprehensive method to deliver pay equity. Living wage and prevailing wage standards that have been applied in other contexts in New York City are not suitable to close the human services pay gap. Living wage policies establish a wage floor affecting lower-paid human services workers. While higher than the New York statutory minimum wage level that applies to all workers, it would not affect the pay of the many professional workers who are currently paid above the living wage level that would be applied.
+The City has prevailing wage standards under State law for various categories of City-contracted service workers, such as building service workers (e.g., in titles such as handymen, cleaners, or elevator operators). However, these are occupations where pay and benefit provisions under union contracts can be considered market-based “prevailing wages” affecting most workers in those fields in the city.22 According to the City Comptroller’s current prevailing wage pay schedule, the 20     James A. Parrott and L.K. Moe, The Case for Ending Poverty Wages for New York City’s Human Services Workers, Center for New
+York City Affairs, March 2022, see section 6 for an overview since the 1990s of City and State policies regarding COLAs for human services contract workers. The de Blasio administration (2014-2021) raised the wage floor to $11.50 for human services contract workers beginning in 2015 and established a $15 minimum wage for City employees and City-funded human services contract workers that was effective by the end of 2018. The de Blasio administration also agreed to starting pay salary parity in center-based Early Childhood
+Education discussed later.
+21     “Mayor Adams Boosts Pay for 80,000 Human Services Workers With $741 Million Cost-of-Living Adjustment,” Press Release of the
+Office of the Mayor, March 14, 2024.
+22     Parrott and Moe (2022), see Figure 19 for selected City service contract prevailing wage and supplemental benefit rates as of
+FY 2022. For current living wage and prevailing wage pay schedules, see https://comptroller.nyc.gov/services/for-the-public/workers-rights/wage-schedules/.
+29
+City requires its service contractors to pay employees in building services blue collar occupations that do not require a four-year college degree annual wages that range as high as $70,000, with a supplemental benefit rate package valued at 47 percent of the prevailing wage. This is much greater than the current COLA-augmented pay for social workers with a bachelor’s degree and more than the pay received by many Black or Latinx social workers and counselors with a master’s degree (Figure 15). New York City building services contract workers receive a benefit package worth $33,000, while most college-educated human services contract workers have a benefit package worth $10,000 less.
+Union contracts cover a relatively small portion of all City-contracted human services workers.
+These union contracts do not have significantly higher wage and benefit levels than typically exist in the industry. To date, no labor union has achieved a sufficient degree of worker representation in this sector to wield the economic or political influence needed to get the City government to boost contracting funding levels that would make possible the negotiation of higher wage levels. Barring atypical philanthropic or other outside funding, nonprofit revenues to fund employee compensation are effectively constrained by the amount of City or other government service contracts.
+St arting pay salary parity in center-based
+Earl y Childhood Educa tion
+The City has made partial progress in recent years toward salary parity for community-based Early
+Childhood Education (ECE) center teachers. These center-based teachers are employed by nonprofit organizations funded by City service contracts that are similar to the contracts funding nonprofits providing core human services. Indeed, many multi-service nonprofits provide both early childhood education and various core human services. ECE salary parity became a front burner issue in the spring of 2014 when New York City began to implement full-day universal pre-kindergarten (UPK).
+UPK – Mayor Bill de Blasio’s signature issue – relied on ECE-contracted centers that were City-funded and operated by nonprofit organizations.
+Pay for teachers in the nonprofit sector lagged far behind pay for UPK teachers in public schools covered by the United Federation of Teachers contract. Nonprofit centers soon struggled mightily with retention and recruitment problems, as certified teachers left for the public school system. Following years of organizing, rallies, and temporary fixes, the City committed in July 2019 to phase in starting pay salary parity for certified teachers in nonprofit centers that raised pay by 30-40 percent.23 Over the past five years, further progress has been slower than anticipated but the recent contract settlement with AFSCME DC 37 Local 205, the main union local representing ECE teachers, did include provisions to boost pay for teachers working extended day or in year-round programs and for some longevitybased payments (although at rates well below contracts for public school teachers).24 23     See James A. Parrott, The Road to and from Salary Parity in New York City: Nonprofits and Collective Bargaining in Early Childhood
+Education, Center for New York City Affairs at The New School, January 2020.
+24     City of New York Mayor’s Press Release, “Mayor Adams Announces Tentative Agreement Between DC 37, Local 205, and Day Care
+Council of New York to Deliver Raises for Child Care Workers,” October 16, 2024. For an analysis of further steps needed to reach full
+ECE salary parity, see New York City Council Black, Latino and Asian Caucus and the Day Care Council of New York, Why New York City
+Must Complete the Path to Parity for the Community-Based Early Childhood Education Workforce, September 2023.
+While further steps are needed to achieve comprehensive salary parity, the ECE salary parity commitment for the center-based workforce was an historic breakthrough, with significant implications for ECE and government-funded nonprofit sector pay practices nationally. However, the
+City and the State still need to address the vastly inferior compensation practices for home-based child care providers and their employees in the 0-3 age family care that are part of ECE. The City’s 2019 ECE starting pay salary parity agreement did not extend to home-based providers.25
+As complicated as the establishment of the principle of salary parity in the ECE sector was, achieving comprehensive salary parity for contracted human services workers presents additional challenges.
+In the center-based ECE sector, there were basically just two job titles – certified teacher and assistant teacher – and they were identical between nonprofit ECE centers and public schools.
+The City contracts were through one agency, the Department of Education, and there was a longstanding union presence (AFSCME District Council 1707, absorbed into District Council 37 in 2019)
+representing the employees of ECE centers through a collective bargaining agreement that could be modified.
+The City has 4,100 human services contracts managed by a half dozen City agencies with hundreds of providers covering a dozen or more program areas. City contracts with providers that stem from particular RFPs may have common job titles, but nonprofits may also have their own job titles, and some also have State contracts (or Federal contracts, to a lesser extent) with their own unique features. To the extent that nonprofit workers are covered by union contracts, there are no master agreements establishing cross-organization pay structures.
+None of these complicating factors are insurmountable given the salary parity principle at stake and the City’s commitment to overcome racial disparities. The contracting practices of City agencies can be coordinated through the Mayor’s Office for Nonprofit Services, the Office of Management and Budget, and the Mayor’s Office of Contracts, possibly with the involvement of the Office of
+Labor Relations. On the nonprofit provider end of things, the Human Services Council is an umbrella organization representing more than 200 providers, including all the largest and other umbrella organizations such as UJA, United Neighborhood Houses, Catholic Charities, and FPWA, and has long been the liaison with City agencies for contracting issues. Significant City-nonprofit sector progress has been made in recent years on related contract issues such as establishing a uniform procedure for establishing indirect expense allocations.
+The basic idea is for the City to align job titles and pay in nonprofit organizations with similar education and responsibility with job titles in the City’s health and human services agencies. City agency titles are related to civil service standards and covered by long-standing collective bargaining agreements that explicitly compensate workers based on level of education and experience on the job. It should not be that daunting to harmonize job titles within and across organizations to align with
+City job titles. The City should provide technical assistance to the nonprofit sector for this purpose.
+25     For an updated analysis of the policy and payment challenges that must be met for home-based ECE providers, see Lauren Melodia, High Calling, Low Wages. Home-Based Early Care and Education Providers in New York City, Center for New York City Affairs at the
+New School, September 2023.
+30
+How the City can achieve salary parity for core human services workers
+Because of the entrenched society-wide pattern of under-paying workers in female dominated industries – particularly in the care sector that includes human services – there likely is some degree of pay disparity between City human services agency employees and city employees in traditionally male-dominated occupations with comparable education, experience and job responsibilities.26 But rigorous comparable worth studies are a significant undertaking and usually take considerable time.
+It would be much more expeditious to first make compensation for nonprofit professionals on par with similar City human services agency titles, and then examine the extent of cross-occupational gender-based compensation differentials.
+Once salary parity on a job title basis is achieved, City human services contracts should include automatic COLA adjustments based on city-wide collective bargaining increases and build in future fringe benefit increases to reach comparability with City employees.
+26     The Seattle Wage Equity Study: Wage Equity for Non-Profit Human Services Workers recently completed under the auspices of the
+Seattle City Council utilized a comparable worth-informed job evaluation instrument to determine equitable pay changes for human services contract workers. The Seattle study utilized the job evaluation instrument that had been developed by the National Joint
+Council (NJC) for Local Government Services in the United Kingdom a decade ago to comply with national legislation (the Equality Act of 2010) requiring “equal pay for work of equal value,” a concept similar to “comparable worth” in the United States. This job evaluation framework was designed to address gender bias by accounting for job demands and responsibilities associated with “care work” that traditionally have been under-valued in the labor market, including those related to interpersonal and communication skills, emotional demands, and knowledge and responsibilities related to child development and human behavior. The NJC job evaluation scheme uses a job evaluation questionnaire and scoring rubric developed by UK-wide local governments, unions and leading job evaluation experts. It was designed to be used across sectors to facilitate comparisons between occupations that have evolved in a “gendered” manner, e.g., human services caseworker compared to a construction worker or IT specialist.
+31
+6. Conclusion and
+recommenda tion
+32
+New York City has substantially increased the range and extent of human services it provides to assist residents in need and in crisis, deal with the nagging persistence of homelessness, respond to the sudden surge of migrants, and meet the increased demand for mental health services in a
+COVID-ravaged city. The City heavily relies on nonprofit providers to deliver such services. As a consequence, the core human services workforce has grown three times as fast as the city’s overall private workforce over the past three decades. This workforce is better educated on average than the broader City workforce, with 61 percent holding a four-year or post-graduate degree. Three out of four human services workers are persons of color, with women of color constituting 52 percent of the total.
+And yet the nonprofit human services workforce is dramatically underpaid relative to their counterparts working in government or the rest of the private sector. Core human services is the thirdlowest-paying large industry in the city’s economy, offering pay ranging from 33 to 39 percent less than earned by comparable (by education and occupation) private sector workers on average. Core human services professionals earn 22 to 29 percent less than their public sector counterparts. When health insurance, pensions and other fringes are factored in, the total compensation shortfall relative to public sector human services workers reaches 31 percent.
+City government bears responsibility for this substantial compensation disparity. The City decides on the services to be provided, and it controls the contracting process, usually with an eye toward minimizing costs – regardless of the impact on the workforce.
+To address the glaring pay and benefit disparities between nonprofit core human services workers and similar workers employed by the city, New York City should establish a wage and benefit schedule for all contracted human services workers that puts them on an equal footing with comparable City employees. These compensation benchmarks should then be incorporated into all contracts, along with the funding to support career advancement and promotion opportunities.
+Recognizing that this entails a significant commitment of budget resources, the city could phase in funding increases to achieve full compensation parity.
+The challenge facing the city’s vital human services sector is different, but not less compelling than in the early childhood education sector where the city committed to a historic starting pay salary parity agreement in 2019. City-funded human services typically support low-income households, those with special service needs, and specific vulnerable populations. The need for those essential services is well-established and widely appreciated. There should also be public support for fairly compensating the nonprofit workers providing those services. In 2022, City voters embraced by large margins two Charter amendments requiring the city to address systemic inequities such as those documented in this report regarding pay for workers providing human services under city contract.
+The frontline nonprofit human services workforce time and time again has selflessly demonstrated their tremendous commitment to helping New Yorkers in need. In return, they more than deserve equitable compensation.

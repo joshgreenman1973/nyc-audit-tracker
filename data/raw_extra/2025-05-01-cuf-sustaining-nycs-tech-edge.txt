@@ -1,0 +1,331 @@
+Sustaining NYC’s Tech Edge | Center for an Urban Future (CUF) 
+
+Innovative Ideas. Independent Policy.
+
+Home
+
+About
+
+Research
+
+Events
+
+Press
+
+Impact
+
+Support
+
+Contact
+
+Report
+- May 2025
+
+Sustaining NYC’s Tech Edge
+
+New York City's tech sector used to be celebrated for adding a bit of much-needed diversification to the city’s finance-heavy economy. Now tech is the engine driving the city’s economy forward, and is New York’s largest and most dependable source of new middle- and high-wage jobs.
+
+by Jonathan Bowles, Eli Dvorkin, and Rachel Neches
+
+Tags:
+economic growth
+economic opportunity
+tech
+workforce development
+
+View the recommendations from this report by clicking here.
+
+View the full report by clicking here.
+
+New York City's tech sector used to be celebrated for adding a bit of much-needed diversification to the city’s finance-heavy economy. Today, tech’s importance to New York’s economy has reached a new level. It’s now the engine driving the city’s economy forward, adding jobs at nearly 10 times the rate of the city’s overall economy since the start of the pandemic and accounting for a striking 14 percent of all employment growth citywide over the past decade.1 Importantly, it has also become New York’s largest—and most dependable—source of new middle- and high-wage jobs.
+
+Between 2014 and 2024, the tech sector added an average of 8,000 jobs a year across the five boroughs.2 During this time, employment in the sector surged by 64 percent, four times the rate of the city’s overall private sector job growth (16.8 percent), six times the rate of employment growth in construction (9.8 percent), and more than five times that of finance and insurance (11.4 percent) and hospitals (13.1 percent).
+
+It’s been even more critical to the city’s post-pandemic recovery, with employment in the tech sector up by 26.2 percent since 2019, nearly 10 times the growth of private sector jobs (2.7 percent). As prolific as job creation has been in the tech sector, however, these figures significantly understate the full employment contribution of tech in New York. Indeed, tech has been fueling growth in other parts of the city’s economy to an unprecedented degree. Nearly half, or 47.5 percent, of all job postings in the city in 2024 sought out candidates with tech skills, according to the Center for an Urban Future’s analysis of data from labor-market analytics firm Lightcast.3 Citywide, job postings for positions requiring tech skills increased by 82 percent between 2010 and 2024.
+
+As a testament to this shift, there are now more software developers in the city’s finance sector than bank tellers. In 2024, finance companies in the city employed 10,313 software developers (up from 4,511 in 2001) and 2,509 data scientists (up from 67 in 2001).4 It’s not just Wall Street where this is playing out. In the city’s healthcare sector, the number of job postings asking for tech skills increased from 2,672 in 2010 to 24,599 in 2024—an 821 percent leap. There was a similar spike in jobs requiring tech skills in the city’s legal services sector (891 percent, from 323 postings to 3,202), construction (307 percent, from 931 to 3,788), and retail (321 percent, from 4,345 to 18,296).
+
+“Tech is the most important industry in the city today,” says John Borthwick, the founder and CEO of Betaworks, a platform that builds, accelerates, and invests in early-stage technology companies. “It’s because tech boosts all of the city’s other industries. If you believe finance or fashion or media is critical to New York, you need to support tech. Tech is an industry in and of itself, but it’s also the electricity that’s powering all these other vital industries.”
+
+Best of all, New York is better positioned for future growth in tech than it ever has been. In 2024, the city was home to 8,750 funded tech start-ups, more than double the figure (3,772) from a decade ago, according to CUF’s analysis of data from Crunchbase.5 These growth companies are spread among an incredibly diverse set of industries—a balance that helps ensure that when one tech field is struggling, many others are roaring forward. For example, the city is home to a nation-leading 1,046 funded start-ups in digital health, as well as 870 in artificial intelligence, 644 in fintech, 310 in real estate, and 308 in wellness, to name just a few.
+
+In another important sign for New York’s future in tech, the ecosystem that supports the tech sector here has also taken several huge steps forward. In the past few years, virtually all of the big West Coast VC firms that had once shunned New York have established offices here, while private equity firms and corporations—from Fidelity to Goldman Sachs—have greatly upped their investments in New York-based start-ups. Similarly, New York has built something sorely lacking in the city’s tech ecosystem 10 or 15 years ago: a community of successful entrepreneurs who are reinvesting their wealth in—and also providing advice and mentorship to—a new generation of New York founders.
+
+The maturation of the city’s tech ecosystem is, in turn, helping New York attract a growing number of companies, founders, and even venture firms from Europe and across the globe. All of this is great news for New York. Few cities have managed to build a tech ecosystem even half the size of New York’s. Indeed, New York (with 8,750) has more than double the number of funded start-ups as Los Angeles (which has 3,997) and Boston (3,342). It even has more than San Francisco (7,787) and only trails the San Francisco Bay Area/Silicon Valley, which has 14,574.
+
+Sustaining this progress is critical to New York’s economic future.
+
+Over the past 15 years, tech has become the city’s most reliable generator of new well-paying jobs, and its lead has only grown. Indeed, a majority of the city’s recent job creation has been in low-wage fields such as home healthcare, social assistance, and restaurants. At the same time, the city’s more traditional drivers of good jobs have either had slow growth (finance, legal services, hospitals) or have been experiencing declines in employment (manufacturing, hotels, film and TV).
+
+Crucially, tech has become an increasingly vital pathway to well-paying careers for a broad base of New Yorkers. In fact, although there is still significant work to do, New York City is home to a more diverse tech sector than other major tech hubs. Black and Hispanic New Yorkers make up 24.3 percent of New York’s tech sector workforce, compared to 10.4 percent in Boston/Cambridge, 8.2 percent in the San Francisco Bay Area, and 5 percent in Seattle.6
+
+While the ingredients are in place for New York to maintain its momentum, create even more middle and high-wage jobs in tech, and expand access to tech-powered careers for more New Yorkers, this future is far from a given. The city faces more competition than ever from cities that have developed a critical mass of tech companies and are significantly more affordable than New York, including Austin, Miami, Raleigh, Atlanta, and Nashville. It’s easy to dismiss the threat from these smaller tech hubs—as well as those in Seattle, Boston, Washington, DC, and Chicago. But until a few years ago, no one would have believed that San Francisco, the biggest tech hub of them all, would bleed companies and talent, as happened between 2020 and 2023.
+
+There are two big challenges that have the potential to dampen New York’s future growth in tech, according to more than two dozen interviews with tech founders, industry leaders, and investors.
+
+The first involves housing affordability. Today, New York is increasingly the destination of choice for top engineers, data scientists, software developers, product managers, AI talent, and marketing professionals from across the country. In turn, this large talent pool is the main reason so many tech start-ups have opted to grow here—and large corporations like Amazon, Google, Meta, and Microsoft have a large presence here—in spite of New York’s considerably higher taxes, labor costs, office rents, and energy prices. But many in the industry worry that highly educated college graduates and experienced tech workers who want to come to New York can no longer afford to do so because of the city’s sky-high housing prices. At the same time, many mid-level managers in tech firms who are already here say they’re weighing a move out of New York as they start families, struggling to reconcile the sky-high cost of a family-sized apartment and child care with the desire for a workable quality of life.
+
+The second challenge is the mismatch between the tech sector’s growing importance to New York and the inadequate support it gets from city and state government. Many of the tech leaders we interviewed acknowledge the importance of well-calibrated regulation, but say the balance in New York has tipped too far—resulting in a wave of new rules that are often poorly designed, burdensome to implement, and rarely calibrated to support one of the city’s most vital engines of job creation.
+
+New York has the opportunity to overcome these and other challenges to build a larger, more sustainable, and more inclusive tech ecosystem. But it will require renewed support from city leaders.
+
+Recommendations
+
+1. BUILD A MASSIVE AMOUNT OF NEW HOUSING. The single most effective step city and state leaders can take to bolster New York’s tech sector is to address the housing affordability crisis. While tech workers are far from the most housing-burdened New Yorkers, high housing costs make it harder to attract and retain the skilled, creative, and entrepreneurial talent that drives tech innovation. Unleashing a large wave of new
+
+housing development—including middle-income, workforce, and family-sized housing—will help ensure that New York remains a place where rising tech workers can afford to build a life and career.
+
+This initiative should be coupled with new and redoubled efforts to reduce barriers to housing construction that limit supply and drive up costs, including zoning and regulatory reforms that unlock more housing in transit-rich neighborhoods, allow for greater density and accessory dwellings in low-rise areas, and streamline the approval process for multifamily developments. City and state leaders should also revisit outdated parking minimums, expand as-of-right zoning where possible, and reduce permitting and environmental review timelines—especially for affordable and middle-income housing. Without these complementary changes, even ambitious new housing targets will fall short of what’s needed to keep New York affordable for the talent the city’s economy depends on.
+
+2. PRIORITIZE INVESTMENTS THAT KEEP NYC LIVABLE AND APPEALING. Keeping New York livable, vibrant, and appealing is essential to attracting and retaining the highly educated, entrepreneurial talent that powers the city’s tech sector. Tech leaders told us that while improving public safety remains important, it is just as critical to invest in the city’s parks, cultural assets, education system, public transit, public realm, and neighborhood corridors—amenities that are central to New York’s quality of life and a major competitive advantage in today’s talent-driven economy.
+
+Strengthening core transit infrastructure should go hand-in-hand with expanding protected bike lanes, improving CitiBike access across the five boroughs, and supporting safe, reliable micromobility options. The city should fully fund parks maintenance and infrastructure, while also creating new, high-quality public spaces. The city needs to do much more to improve the quality of public schools, including addressing significant challenges with middle school options. Investments in arts and culture—including nightlife, performing arts, and public art—can help reinforce New York’s identity as a beacon of inspiration. And continued support for outdoor dining, public realm design, and streetscape improvements will ensure that neighborhood corridors remain attractive, welcoming, and full of life—places where people want to live, work, and build companies.
+
+3. UNLEASH AI INNOVATION BY UNLOCKING CITY DATA. New York has the potential to become the most sought-after place in the world for companies to design, test, and scale innovative new uses of AI in government and the public realm. But to unlock this potential for innovation—and attract and retain the most high-potential AI founders and talent—New York City will have to do much more to expand access to the city’s
+
+own data. What’s needed now is a major new NYC Open Data 2.0 effort, which would massively scale up access to city data via application programming interfaces (APIs), sensor networks, and real-time feeds,enabling AI start-ups to design solutions to many more of the city’s biggest challenges and opportunities.
+
+The next phase of the city’s open data efforts should go beyond today’s legally mandated requirements to dramatically expand access to real-time data. The city should launch procurement challenges to create APIs for dozens of additional city data feeds, bringing together the city’s Office of Technology Innovation with technologists and legal experts to develop smart privacy frameworks and open source protocols for enabling access to real-time city data. The city can expand opportunities for start-ups to test sensors that can boost real-time awareness of everything from traffic congestion and trash accumulation to infectious diseases present in wastewater. The city should do much more to expand public education around AI, fostering knowledge that can help address real concerns while dispelling knee-jerk fears. And the city should invest in building the capacity of city agencies to speed up data collection, cleaning, and release—perhaps through competitive funding for city agencies to identify and deploy new publicly available data streams and boost on-time update rates.
+
+4. NURTURE NEW YORK’S EMERGING DEEP TECH SECTOR. New York is home to many tech sub-sectors that are well positioned for future growth, but few of them could benefit from help from city economic development officials more than the deep tech sector. Deep tech is growing in New York, but it also faces real hurdles. The city’s Economic Development Corporation (NYCEDC) should develop a new, long-term effort to support deep tech companies in New York. As part of this, it should work with other city agencies to shorten the time it takes to test and deploy new technologies in the city and partner with universities to identify opportunities for deep tech start-ups to access space for prototyping and product testing.
+
+In addition, the mayor should work closely with key agencies—such as the Office of Technology and Innovation (OTI), Department of Transportation (DOT), Department of Design and Construction (DDC), Department of Parks and Recreation, NYC Health + Hospitals, and the Department of Buildings (DOB)—to identify areas where advances in deep tech could be transformative. Together with NYCEDC, these agencies should develop plans to pilot emerging technologies, expand access to procurement and R&D opportunities, facilitate site visits and real-world testing environments, and create pathways for deep tech firms to collaborate directly with the city on challenges across mobility, infrastructure, public health, energy, and the built environment.
+
+5. MAKE IT EASIER FOR START-UPS TO WIN CITY TECHNOLOGY CONTRACTS. Despite being home to the nation’s second-largest tech start-up ecosystem, New York City’s procurement system makes it extraordinarily difficult for small and mid-sized tech firms to do business with the city. Reforming this system—including simplifying RFPs, reducing contract minimums, and piloting more challenge-based procurement—would open new growth opportunities for local start-ups while helping city agencies tap into homegrown solutions.
+
+The city should also expand partnerships with organizations like the Partnership Fund for New York City and Newlab and forge new ones to better connect innovative companies with public-sector needs. Challenge-based procurement—recently authorized by the city’s Procurement Policy Board but still in its early stages—offers a promising tool to test new technologies in real-world settings, from improving street safety and accelerating building permits to strengthening the city’s social safety net and expanding access to capital. Making it easier for start-ups to compete for city work would in turn attract more founders to build here and help turn some of the city’s pressing policy challenges into platforms for innovation.
+
+6. BOLSTER K-12 COMPUTING EDUCATION BY SCALING UP TEACHER PREPARATION THROUGH CUNY’S CITE PROGRAM. Despite the growing demand for tech skills across virtually every sector of New York’s economy, just 18.2 percent of K–12 students in New York City participated in a computing education class in 2023. To prepare more New York City students for success in an economy increasingly shaped by technology, the city and state should expand access to high-quality computing education across all K–12 schools. The most effective way to achieve this is by ensuring that every future teacher is equipped to integrate computing into the classroom. CUNY’s new Computing Integrated Teacher Education (CITE) initiative offers a powerful solution. By embedding computing and digital literacy into teacher preparation programs across the city’s largest pipeline of new educators, CITE ensures that future teachers—regardless of grade level or subject area—can help students build foundational computing skills. But only a portion of CUNY education students are currently participating. With modest additional investment and stronger coordination between CUNY and the Department of Education, city leaders can scale this promising model and build the teaching workforce needed to expand high-quality computing education to all NYC students.
+
+Endnotes
+
+1. Center for an Urban Future’s measurement of the sector’s employment aggregates job totals in seven industries “in which firms use technology as their core business strategy”: Computer Manufacturing, Software Publishing, Data Processing & Hosting, Media Streaming Distribution Services, Social Networks, and Other Meida Networks and Content Providers, Web Search Portals and All Other Information Services, Computer Systems Design, and Scientific R&D Services.
+
+2. Center for an Urban Future analysis of Quarterly Census of Employment and Wages data for Q3 2014 and Q3 2024.
+
+3. Center for an Urban Future analysis of job postings data from Lightcast.
+
+4. Center for an Urban Future analysis of staffing pattern data from Lightcast.
+
+5. Center for an Urban Future analysis of data from Crunchbase.
+
+6. To examine the racial/ethnic and gender composition of employment in each city’s tech sector, we analyzed 18 tech-specific occupations, such as database administrators, web developers, and computer network architects, using data from the 2019-2023 American Community Survey 5-Year Estimates.
+
+Read the full report "Sustaining NYC's Tech Edge" here.
+
+Sustaining NYC's Tech Edge is a publication of the Center for an Urban Future. Researched and written by Jonathan Bowles, Eli Dvorkin, and Rachel Neches.
+
+Center for an Urban Future (CUF) is a leading New York City-based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy. This report was produced in partnership with Tech:NYC. General operating support for the Center for an Urban Future has been provided by The Clark Foundation and the Altman Foundation.
+
+Related Press
+
+New York’s mayoral candidates differ drastically on improving the city’s quality of life
+
+Monocle,
+by David Kaufman,
+June 23, 2025
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily,
+by Valerija I.,
+June 28, 2026
+
+Op-ed: How higher education drives New York’s tech expansion
+
+Crain's New York Business,
+by Julie Samuels,
+August 19, 2025
+
+Tech is Driving the NYC Economy, New Report Finds
+
+The City,
+by Greg David,
+May 06, 2025
+
+High costs dash New York City’s financial dominance
+
+Anadolu Agency,
+by Gökhan Ergöçün,
+November 04, 2025
+
+City’s tech jobs are growing four times faster than rest of economy, report finds
+
+Crain's New York Business,
+by Jack Grieve,
+May 19, 2025
+
+The Secret To NYC’s Tech Rise? Collaboration
+
+Forbes,
+by Kate Vitasek,
+December 23, 2025
+
+New report shows NYC’s tech sector is booming
+
+Spectrum News NY1,
+by Rocco Vertuccio,
+June 02, 2025
+
+Robots Need Offices Too: The AI Boom Comes to NYC Real Estate
+
+Bloomberg,
+by Natalie Wong and Edison Wu,
+March 19, 2026
+
+Editorial: Unleashing AI innovation to solve the city’s biggest public challenges
+
+Crain's New York Business ,
+May 23, 2025
+
+AI firms fuel rebound in Manhattan office leases — strongest year in over a decade
+
+New York Post,
+by Taylor Herzlich and Ariel Zilber,
+March 19, 2026
+
+This report was produced in partnership with Tech:NYC.
+
+ Related Publications
+
+7463|7345|7331|7261|6511|92
+
+Closing New York State’s Computing Education Gaps
+
+3 Steps New York Can Take to Unleash AI’s Full Economic Potential
+
+15 Policy Ideas for NYC to Start 2025
+
+5 Ideas to Expand Economic Mobility in New York City
+
+Tech Jobs in the City are Growing; Here’s How to Make Sure New Yorkers Can Fill Them
+
+New Tech City
+
+Related Events
+
+How to Reinvigorate 8th Avenue Between Penn Station and Times Square
+
+Related Press
+
+New York’s mayoral candidates differ drastically on improving the city’s quality of life
+
+Monocle
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily
+
+Op-ed: How higher education drives New York’s tech expansion
+
+Crain's New York Business
+
+Tech is Driving the NYC Economy, New Report Finds
+
+The City
+
+High costs dash New York City’s financial dominance
+
+Anadolu Agency
+
+View More Related Press
+
+Related Press
+
+New York’s mayoral candidates differ drastically on improving the city’s quality of life
+
+Monocle
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily
+
+Op-ed: How higher education drives New York’s tech expansion
+
+Crain's New York Business
+
+Tech is Driving the NYC Economy, New Report Finds
+
+The City
+
+High costs dash New York City’s financial dominance
+
+Anadolu Agency
+
+Search
+
+Search
+
+@nycfuture
+
+Follow @nycfuture 
+
+CUF in the News
+
+Expand Pathways To Affordable Home Ownership From Harlem And Beyond
+
+Harlem World
+
+InfluenceWatch Friday
+
+Capital Research Center
+
+NYC Housing Calendar, July 13-20
+
+City Limits
+
+Can America’s Best Engine of Social Mobility Weather a Bad Job Market?
+
+The New York Times
+
+What Today’s College Students Need That Previous Generations Didn’t
+
+The Good Men Project
+
+City Council funds free OMNY cards for over 1,000 CUNY students in city budget deal
+
+amNY
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily
+
+View More Press
+
+© All Rights Reserved.
+
+Content
+
+ReportsCommentary/Op-EdTestimonyDataEventsImpact
+
+Topics
+
+Economic GrowthEconomic OpportunityEntrepreneurshipImmigrantsBoroughsSmall BusinessHuman CapitalHigher EducationCreative EconomyTech
+
+Follow
+
+Support
+
+Internships
+
+Support the Center
+
+Contact
+
+Center for an
+
+Urban Future
+
+80 Eighth Avenue, Suite 704
+
+New York, NY 10011
+
+212-479-3344
+
+[email protected]
+
+© All Rights Reserved.
+
+Search
+
+x

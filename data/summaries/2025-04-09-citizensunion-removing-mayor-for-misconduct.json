@@ -1,0 +1,85 @@
+{
+  "id": "2025-04-09-citizensunion-removing-mayor-for-misconduct",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "How to Remove the New York City Mayor Over Misconduct",
+  "plain_title": "A proposed process for removing a mayor for misconduct",
+  "agency": "New York City government",
+  "issued": "2025-04-09",
+  "url": "https://citizensunion.org/document/2025-04-09/citizens-union-releases-report-proposing-mechanism-for-removing-the-new-york-city-mayor-for-misconduct/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2025/11/CU-Report-How-to-Remove-the-New-York-City-Mayor-Over-Misconduct-April-2025-2-1.pdf",
+  "what_they_audited": "A report from Citizens Union proposing a process for removing a New York City mayor for misconduct, and comparing removal rules in other large American cities.",
+  "background": "State Public Officers Law lets the governor remove a mayor after giving the official a copy of the charges and a chance to be heard, and the only other route, under section 10 of the City Charter, covers a mayor's inability to serve rather than misconduct.",
+  "findings": [
+    {
+      "plain": "The report says New York City has no practical, clearly defined way to remove a mayor for misconduct, which sets it apart from other large cities.",
+      "quote": "It is one of the only large cities without such a system of accountability."
+    },
+    {
+      "plain": "The governor's removal power is broad and has never been used.",
+      "quote": "This unilateral authority is so ill-defined that it has never been exercised"
+    },
+    {
+      "plain": "The City Charter's existing removal path is modeled on the 25th Amendment and is meant for incapacity, not wrongdoing.",
+      "quote": "this process is intended for cases of physical, mental, or medical incapacity rather than misconduct"
+    },
+    {
+      "plain": "Citizens Union rejects impeachment for New York City, arguing that a single-chamber City Council with an overwhelming Democratic majority would not provide enough scrutiny.",
+      "quote": "For these reasons, we do not support impeachment as a method for removing the mayor."
+    },
+    {
+      "plain": "The report also rejects recall elections, which it says would require state action and would be vulnerable to well-funded petition drives.",
+      "quote": "State law does not provide for recall of officials and does not grant that power to localities"
+    },
+    {
+      "plain": "Recall is nonetheless the most common removal route in large American cities.",
+      "quote": "Of the 30 largest U.S. cities, 22 mayors can be recalled."
+    },
+    {
+      "plain": "The report says giving the courts or a panel of other elected officials the final say would create its own problems, including conflicts of interest for officials who might succeed the mayor.",
+      "quote": "the political dynamics within New York City may introduce unwanted conflicts of interest to the decisions of such ad-hoc body"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "70%",
+      "label": "Council vote proposed to issue charges"
+    },
+    {
+      "value": "80%",
+      "label": "Council vote proposed to recommend removal"
+    },
+    {
+      "value": "67 days",
+      "label": "Maximum time proposed from charges to the vote"
+    },
+    {
+      "value": "22 mayors",
+      "label": "Mayors of the 30 largest cities subject to recall"
+    },
+    {
+      "value": "50,000 signatures",
+      "label": "Signatures needed for a charter amendment referendum"
+    }
+  ],
+  "recommendations": [
+    "Create a City Charter process allowing removal of a mayor for malfeasance, neglect of duty, violation of the oath of office or conviction of a felony related to conduct in office.",
+    "Require a vote of at least 70 percent of the City Council to issue charges by resolution, with the charges and their factual basis filed with the City Clerk, made public and served on the mayor.",
+    "Give the mayor a public hearing that begins within seven days, with the right to counsel and to present evidence, call witnesses and subpoena witnesses and evidence.",
+    "Require the Council to finish the hearing and vote on removal within 30 days.",
+    "Require an 80 percent Council vote to find misconduct and recommend removal, after which the speaker files the findings and calls a Special Removal Election held 30 days later, consolidated with a primary or general election if one falls within 30 days.",
+    "Bar judicial review of the Council's findings on the merits, while allowing court challenges to violations of the process set out in the Charter.",
+    "Put a single ballot question to voters asking whether the mayor should be removed, with wording set in the Charter and the same campaign finance disclosure rules that apply to municipal ballot proposals.",
+    "Apply the Charter's succession provisions if voters confirm removal, with the successor calling a special election that the removed mayor may not enter.",
+    "Have the current Charter Revision Commission put the removal mechanism before voters, and have the City Council adopt rules governing the process once voters approve it.",
+    "Amend Public Officers Law Section 33 so the governor may bring charges against a city chief executive only for malfeasance, neglect of duty, violation of the oath of office or a felony conviction related to the office.",
+    "Require the governor to give written, public notice of the charges, hold a public hearing beginning within seven days with the right to counsel and to present and subpoena evidence, limit the hearing to 30 days and issue a written decision."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency"
+  ],
+  "is_followup": false
+}

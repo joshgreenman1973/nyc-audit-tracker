@@ -1,0 +1,80 @@
+{
+  "id": "2025-11-12-cbc-nyc-budget-blueprint",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "NYC Budget Blueprint",
+  "plain_title": "Nine budget and management steps proposed for the new mayor",
+  "agency": "New York City government",
+  "issued": "2025-11-12",
+  "url": "https://cbcny.org/research/nyc-budget-blueprint",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_Smart-Choices-Blueprint_11122025_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report setting out nine proposals for the incoming Mamdani administration's first New York City budget.",
+  "background": "The incoming mayor must close a $6 billion to $8 billion budget gap and prepare for federal aid cuts one month into his term.",
+  "findings": [
+    {
+      "plain": "The city's own projections understate what it expects to spend in fiscal year 2027.",
+      "quote": "the City’s projections understate fiscal year 2027 spending by $4.5 billion by CBC’s estimate"
+    },
+    {
+      "plain": "Over three fiscal years the city spent more than it took in, drawing on money saved during the pandemic-era revenue surge.",
+      "quote": "Over the past three fiscal years, the City spent $2.3 billion more than it took in"
+    },
+    {
+      "plain": "The Rainy Day Fund holds far less than the report estimates would be needed to cover two years of recession-driven revenue declines.",
+      "quote": "It would need $14.0 billion to cover two years of tax revenue declines, but its Rainy Day Fund only has $2.0 billion."
+    },
+    {
+      "plain": "Few New Yorkers rate city spending or city services well in the group's resident survey.",
+      "quote": "only 11 percent of New Yorkers believe the City spends their tax dollars wisely and just 27 percent say services are good or excellent"
+    },
+    {
+      "plain": "Federal policy changes already enacted will cut aid to the city and reduce support that high-need New Yorkers receive directly.",
+      "quote": "Dramatic federal policy and budget changes already enacted will reduce aid to the City and cut support high-need New Yorkers receive directly."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$4.5 billion",
+      "label": "Understated fiscal 2027 spending, by the group's estimate"
+    },
+    {
+      "value": "$2.3 billion",
+      "label": "Spending above revenue over three fiscal years"
+    },
+    {
+      "value": "$14.0 billion",
+      "label": "Reserves needed for two years of revenue declines"
+    },
+    {
+      "value": "$2.0 billion",
+      "label": "Balance in the Rainy Day Fund"
+    },
+    {
+      "value": "11 percent",
+      "label": "Share who say the city spends tax dollars wisely"
+    },
+    {
+      "value": "$120 billion",
+      "label": "Size of the city budget"
+    }
+  ],
+  "recommendations": [
+    "Work with the Office of Management and Budget to identify the city's total spending obligations, available revenue and risks, and present accurate estimates.",
+    "Identify the impact and cost-effectiveness of each service, keep what works well and cut or shrink what does not.",
+    "Launch a citywide performance management system modeled on CompStat to drive service quality and budget decisions.",
+    "Run a savings plan that streamlines operations, reduces duplication, phases out lower-impact programs, automates manual processes and raises productivity in collaboration with labor unions.",
+    "Allocate vacant positions flexibly across agencies rather than agency by agency, eliminate excess vacancies and let agencies hire quickly.",
+    "Hold the line on taxes.",
+    "Prepare for federal cuts by realigning city funds toward affordability and the neediest New Yorkers and adding $1 billion a year to the general reserve.",
+    "Add to the Rainy Day Fund while revenues are strong and work with the City Council to pass a law setting the fund's target size, requiring deposits during expansions and limiting withdrawals to recessions and emergencies.",
+    "Use collective bargaining to turn efficiency gains into funding for wage increases."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "labor"
+  ],
+  "is_followup": false
+}

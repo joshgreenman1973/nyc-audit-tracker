@@ -1,0 +1,80 @@
+{
+  "id": "2026-01-01-cuf-artists-affordable-housing",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Integrating Artists into NYC’s Affordable Housing Strategy",
+  "plain_title": "Setting aside affordable apartments for artists",
+  "agency": "New York City Department of Housing Preservation and Development",
+  "issued": "2026-01-01",
+  "url": "https://nycfuture.org/research/integrating-artists-into-nycs-affordable-housing-strategy",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, on why no new affordable housing set aside for artists has been built in the city in more than a decade, and what city government could do about it.",
+  "background": "New York City pioneered artist housing with Westbeth Artists Housing in 1970 and Manhattan Plaza in 1977, but the report says the city has since fallen behind other cities and the rest of New York State on building housing with an artist preference.",
+  "findings": [
+    {
+      "plain": "Cities around the country have built thousands of dedicated artist housing units over the past decade, and none of them are in New York City.",
+      "quote": "U.S. cities have created more than 2,804 units of dedicated artist housing"
+    },
+    {
+      "plain": "The city's resident artist population has been shrinking since 2019, the first sustained decline in decades, with steep drops among dancers, actors and musicians.",
+      "quote": "Since 2019, the resident artist population has fallen 4.4 percent"
+    },
+    {
+      "plain": "Artists in New York City earn well below the national average once the cost of living is taken into account, and the gap has widened over a decade.",
+      "quote": "New York City’s artists earn 22.6 percent less than the national average after adjusting for the cost of living"
+    },
+    {
+      "plain": "Neighborhoods long known as artist hubs have lost large shares of their artists as rents rose.",
+      "quote": "the artist population has plunged 55.5 percent on the Lower East Side"
+    },
+    {
+      "plain": "Housing officials have held back over concerns that an artist preference could conflict with fair housing law, concerns the report traces in part to a long-running lawsuit over community board preference in the housing lottery.",
+      "quote": "The suit was ultimately settled in January 2024 for $6.4 million."
+    },
+    {
+      "plain": "The report argues that U.S. Census data undercounts artists of color because it records only a person's main income-earning occupation, and that survey data shows a more diverse artist population.",
+      "quote": "just 28.8 percent of artists surveyed in New York City identify as white"
+    },
+    {
+      "plain": "New York State Homes and Community Renewal already has an artist preference policy used on projects outside the city, which the report presents as a model the city could follow.",
+      "quote": "limited to 20 percent of non-supportive units"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "2,804 units",
+      "label": "Artist housing units built in U.S. cities over a decade"
+    },
+    {
+      "value": "4.4 percent",
+      "label": "Decline in the city's resident artist population since 2019"
+    },
+    {
+      "value": "22.6 percent",
+      "label": "How far city artists earn below the national average"
+    },
+    {
+      "value": "$6.4 million",
+      "label": "Settlement in the community preference housing lawsuit"
+    },
+    {
+      "value": "5,000",
+      "label": "Artist-preference units the report proposes by 2030"
+    }
+  ],
+  "recommendations": [
+    "Commit to building 5,000 units of artist-preference housing by 2030, spread citywide, by including an artist preference in 5 to 10 percent of affordable projects and prioritizing sites on public land and mixed-income deals.",
+    "Have the Department of Housing Preservation and Development (HPD) publish an artist preference bulletin modeled on the state's policy, covering caps, income bands, inclusive marketing, documentation and a model tenant selection plan.",
+    "Fund a biennial New York City artist survey, led by the Department of Cultural Affairs and the Economic Development Corporation, plus an annual public dashboard, to produce better data on who the city's artists are.",
+    "Create a citywide artist live/work zoning standard and pilot overlay districts so mixed-use creative housing has a clear, consistent path through city review.",
+    "Offer zoning bonuses and city financing for office-to-residential conversions that include a 5 to 10 percent artist set-aside and dedicated creative space, and allow certain nonprofit-run, time-limited artist residences to count as community facility use.",
+    "Create an Artist Housing Accelerator that makes small grants or low-cost advances covering early costs such as outreach, artist certification and shared creative space buildout."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing"
+  ],
+  "is_followup": false
+}

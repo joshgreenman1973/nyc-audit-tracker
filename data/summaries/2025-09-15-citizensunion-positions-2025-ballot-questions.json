@@ -1,0 +1,77 @@
+{
+  "id": "2025-09-15-citizensunion-positions-2025-ballot-questions",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Citizens Union's Positions on the 2025 Ballot Questions",
+  "plain_title": "Where Citizens Union stands on the 2025 ballot questions",
+  "agency": "New York City government",
+  "issued": "2025-09-15",
+  "url": "https://citizensunion.org/document/2025-09-15/citizens-unions-positions-on-the-2025-ballot-questions/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2025/09/Citizens-Unions-Positions-on-2025-Ballot-Questions.pdf",
+  "what_they_audited": "A voter guide from Citizens Union stating its position on each of the six proposals on the November 2025 ballot, including four City Charter amendments on land use and housing and one moving city elections to presidential election years.",
+  "background": "Questions 2 through 5 came from the 2025 Charter Revision Commission, which reviewed the city's planning and land use process. Question 1 was a statewide amendment on the Adirondack forest preserve and Question 6 would move city elections to even-numbered years.",
+  "findings": [
+    {
+      "plain": "Question 1 would remove 323 acres from the Adirondack forest preserve for the Mount Van Hoevenberg sports complex, and would require the state to add at least 2,500 acres of new land to the preserve in exchange.",
+      "quote": "for a total of 323 acres. In exchange, the amendment requires that"
+    },
+    {
+      "plain": "Citizens Union supports all four of the housing and land use amendments, describing them as steps that would ease structural barriers to housing production while keeping public review in place.",
+      "quote": "Citizens Union considers Questions 2 through 5 to be important steps in the right direction."
+    },
+    {
+      "plain": "Question 2 would let publicly financed affordable housing seek zoning approvals from the Board of Standards and Appeals instead of the standard Uniform Land Use Review Procedure, and would fast track Mandatory Inclusionary Housing projects in the community districts that produce the least affordable housing, removing the City Council's final say.",
+      "quote": "expediting approval timelines and removing the Council’s final"
+    },
+    {
+      "plain": "Question 3 would create an Expedited Land Use Review Procedure for certain housing, resiliency and infrastructure projects, including increases in residential capacity of up to 30 percent, with a 30-day City Planning Commission review and a final decision by the commission.",
+      "quote": "including increases in residential capacity up to 30%."
+    },
+    {
+      "plain": "Question 4 would create a three-member Affordable Housing Appeals Board made up of the mayor, the Council speaker and the relevant borough president, able to override Council decisions rejecting or changing affordable housing projects. The guide notes the borough president would often be the swing vote.",
+      "quote": "The borough president would often"
+    },
+    {
+      "plain": "Question 5 would consolidate the City Map, which now exists as over 8,000 paper maps across five borough offices, into one digital map administered by the Department of City Planning.",
+      "quote": "over 8,000 individual paper maps spread across five borough offices."
+    },
+    {
+      "plain": "Question 6 would move city primary and general elections to presidential election years when state law allows. The guide cites record-low turnout of 23 percent in the most recent city election against about 60 percent in even-year presidential elections.",
+      "quote": "the most recent election suffering from record-low turnout of just 23%."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "323 acres",
+      "label": "Adirondack preserve land Question 1 would release"
+    },
+    {
+      "value": "2,500 acres",
+      "label": "New forest land the state would add in exchange"
+    },
+    {
+      "value": "8,000",
+      "label": "Paper maps that make up the City Map today"
+    },
+    {
+      "value": "23%",
+      "label": "Turnout in the most recent city election"
+    }
+  ],
+  "recommendations": [
+    "Vote yes on Question 1, which would allow ski and trail facilities on Adirondack forest preserve land in exchange for the state adding at least 2,500 acres to the preserve.",
+    "Vote yes on Question 2, which would fast track publicly financed affordable housing and Mandatory Inclusionary Housing projects in the districts producing the least affordable housing, and monitor the Mandatory Inclusionary Housing program closely once it is written into the Charter.",
+    "Vote yes on Question 3, which would create an expedited review for modest housing and minor infrastructure projects, and staff the Department of City Planning well enough that faster reviews still allow substantive deliberation.",
+    "Vote yes on Question 4, which would create a three-member Affordable Housing Appeals Board, and pair it with ethics, transparency and pay-to-play safeguards for the new board.",
+    "Vote yes on Question 5, which would consolidate the five borough map offices into a single digital City Map at the Department of City Planning.",
+    "Vote yes on Question 6, which would move city primary and general elections to presidential election years when state law permits."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "transparency"
+  ],
+  "is_followup": false
+}

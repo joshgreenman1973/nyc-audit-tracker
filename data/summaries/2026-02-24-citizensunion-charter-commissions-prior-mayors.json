@@ -1,0 +1,65 @@
+{
+  "id": "2026-02-24-citizensunion-charter-commissions-prior-mayors",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Explainer: Charter Revision Commissions Appointed by Prior Mayors",
+  "plain_title": "What a mayor can do about a prior mayor's charter commission",
+  "agency": "New York City government",
+  "issued": "2026-02-24",
+  "url": "https://citizensunion.org/document/2026-02-24/explainer-charter-revisions-commissions-appointed-by-prior-mayors/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2026/02/QA-Regarding-Lame-Duck-Mayoral-Charter-Revision-Commissions-Citizens-Union-and-Reinvent-Albany-February-24-2026.pdf",
+  "what_they_audited": "A question-and-answer explainer by Citizens Union and Reinvent Albany, two good-government groups, on charter revision commissions appointed by a mayor on the way out of office. It was prompted by the commission former Mayor Adams established on December 31, 2025.",
+  "background": "Section 36 of the New York Municipal Home Rule Law gives mayors, city councils and voters the power to create a charter commission and sets how commissions place questions on the ballot. A charter commission can block, or bump, ballot questions submitted by the City Council or by voter initiative.",
+  "findings": [
+    {
+      "plain": "State law, not the New York City Charter, governs how charter revision commissions are created and how they put questions before voters.",
+      "quote": "commissions are governed by state"
+    },
+    {
+      "plain": "The groups write that the State Legislature and the governor could amend the Municipal Home Rule Law to deal with commissions appointed by a departing mayor, including commissions that already exist.",
+      "quote": "we believe that the Legislature and Governor can amend the Municipal Home Rule"
+    },
+    {
+      "plain": "On whether a sitting mayor can remove commissioners appointed by a predecessor, the Q&A concludes it might be possible in some cases but would likely be settled in court.",
+      "quote": "POTENTIALLY IN SOME CASES, BUT IT WOULD BE INADVISABLE"
+    },
+    {
+      "plain": "State law does let a sitting mayor fill any vacancy on a commission that a previous mayor appointed.",
+      "quote": "shall be filled by the mayor"
+    },
+    {
+      "plain": "Nothing in the law requires a mayor to fund or support a commission created by a predecessor, so a commission can be left without money, space, legal advice or data.",
+      "quote": "The law allows a mayor to “starve” a mayoral charter commission of government resources,"
+    },
+    {
+      "plain": "A commission is not required to propose any ballot questions, yet its existence alone can block questions put forward by the City Council or by voters.",
+      "quote": "The mere existence of a mayoral charter revision commission introduces the threat that it"
+    },
+    {
+      "plain": "Whether a charter commission may accept private donations is unsettled, and the Office of Management and Budget has discretion over city agency bank accounts.",
+      "quote": "It is unclear how this section applies in the context of private contributions."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "90 days",
+      "label": "Window a proposed state amendment would give a new mayor"
+    },
+    {
+      "value": "$5,000 or more",
+      "label": "Donations to agencies reported yearly to the ethics board"
+    }
+  ],
+  "recommendations": [
+    "Amend the state Municipal Home Rule Law so that a charter revision commission appointed in the last six months of a mayor's term must be affirmed by the incoming mayor within 90 days or dissolve.",
+    "Do not attempt to remove charter commissioners appointed by a previous mayor without cause, which the groups say would open the door to routine political purges of bodies that have operated independently.",
+    "Consider using an executive order to bar direct donations to mayoral charter revision commissions and the creation of affiliated nonprofits to raise money for them."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency"
+  ],
+  "is_followup": false
+}

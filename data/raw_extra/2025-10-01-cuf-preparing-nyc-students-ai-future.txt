@@ -1,0 +1,334 @@
+Preparing Every NYC Student for an AI-Powered Future | Center for an Urban Future (CUF) 
+
+Innovative Ideas. Independent Policy.
+
+Home
+
+About
+
+Research
+
+Events
+
+Press
+
+Impact
+
+Support
+
+Contact
+
+Report
+- October 2025
+
+Preparing Every NYC Student for an AI-Powered Future
+
+As AI reshapes New York's economy, city leaders will need to prepare more young New Yorkers for an AI-powered workforce. To accomplish this, the city will need to train thousands of future teachers to integrate digital and computational literacy into their curriculum.
+
+by Sophia Tumolo, Eli Dvorkin, and Rachel Neches
+
+Tags:
+tech
+higher education
+cuny
+k-12 education
+workforce development
+
+Introduction
+
+Expanding on CS4All: Major Achievements but More Progress Is Needed
+
+Expanding CITE: Strengthening the Preparation of Future Teachers to Build Computing Education Skills
+
+Snapshot: How Teachers Are Bringing Computing and Digital Literacy Into Their Classrooms
+
+Recommendations
+
+As artificial intelligence transforms the economy and disrupts entry-level career paths, New York City faces a pivotal moment for computing education. After a decade of progress expanding computer science instruction through the 10-year Computer Science for All (CS4All) initiative, the next challenge is clear: move beyond teaching coding to some, and instead ensure that all students build foundational computational fluency across every grade and subject. With short-term training programs struggling to keep pace with rapid technological change, the greatest opportunity now lies in preparing a generation of New Yorkers who can think critically, problem-solve, and work effectively alongside new technologies.
+
+Our research suggests that city leaders can take a relatively modest yet crucial step to set far more young New Yorkers on a path to full participation in an increasingly tech-powered world: training thousands more future teachers—across all grades and subjects—to integrate core computing and digital literacy concepts into their classrooms.
+
+New York City took an important step forward with the 2015 launch of Computer Science for All (CS4All). Our research finds that CS4All has achieved success in boosting the availability of computing education for public school students throughout the five boroughs. The Center for an Urban Future’s new analysis of data from New York City Public Schools finds that the share of students enrolled in computer science classes increased from 54,177 (5.5 percent) in 2016 to 193,171 (20 percent) in 2024, a significant achievement.1
+
+However, most students—many of them low-income and students of color—still do not enroll in computer science classes. No school district has more than 47 percent of its students enrolled in computer science. Just 15.6 percent of Black students and 19.1 percent of Hispanic students were taking computer science classes in 2024, compared to 27.1 percent of Asian students and 20.4 percent of white students. Whereas 28 percent of students in Staten Island and 26.1 percent in Queens were enrolled in computer science, only 14.8 percent of Bronx students and 13.7 percent of Manhattan students were. Overall, just 19 percent of schools are achieving CS4All’s equity goals, meaning the demographics of their enrolled students in computer science match the overall school population.2
+
+Education experts we interviewed emphasize that closing these persistent gaps requires ensuring all students experience computing and digital literacy education from an early age, fostering confidence and belonging that shape their paths through high school, college, and careers. These skills are now essential, as New York State requires all schools to meet Computer Science Digital Fluency Standards, adopted in 2020. Few policy options hold more promise for achieving this than expanding a little-known but highly effective initiative at the City University of New York (CUNY), known as Computing Integrated Teacher Education (CITE).
+
+Since its pilot phase was initiated in 2019, CITE has trained roughly one-third of CUNY’s teacher education faculty and reached more than 10,000 teacher education students, helping them build the skills needed to implement core computing concepts across grade levels and content areas.3 The impact is already being felt in the city’s public schools, which hire about one-third of all new teachers each year from CUNY. Equipped with CITE training, new teachers are entering classrooms across all five boroughs and making computational thinking and digital literacy a part of their students’ daily lives.
+
+As city leaders confront the challenge of preparing students for a world reshaped by AI, they face a pivotal choice: by closing a modest funding gap, the CITE initiative can expand to reach every CUNY teacher education student—building a sustainable pipeline of new city teachers prepared to integrate computing across subjects. If not, many future teachers—and their students—will miss out on these critical skills. To date, CITE has only been fully implemented in one of CUNY’s 16 colleges with education programs (York College, with just 83 students), and roughly two-thirds of all education faculty have yet to be trained.4
+
+Going forward, the mayor and City Council should work together to make CITE a fully implemented program, and help it expand to reach every one of CUNY’s education schools and all of its teachers-in-training. A modest investment of about $600,000 per year over the next three years can help maintain this momentum, and get CITE on the path to preparing every future teacher. This work can be accelerated further with an $800,000 allocation to create a new Computing Across the Curriculum credential, which would support in-service teachers to enroll in CUNY computing integration coursework and to demonstrate proficiency in computing and digital literacy education. By expanding the CITE program to reach every aspiring teacher enrolled at CUNY, the district can add more than 8,000 new educators with computing education knowledge and credentials in just five years and help prepare hundreds of thousands more young people for an increasingly technology-powered future.
+
+This report, supported by a grant from Robin Hood and the Robin Hood Learning + Technology Fund, builds on more than a decade of research by the Center for an Urban Future on policies and investments that can help create a more inclusive economy in New York City by closing opportunity gaps for tech careers—and preparing New Yorkers with the skills they need to participate fully in an increasingly tech-driven and AI-powered world.
+
+Our research finds that expanding the pipeline of public school teachers trained to integrate digital literacy and computational thinking—skills like asking questions, organizing data, and solving problems with computers—will be essential for increasing uptake of computing education in K-12 schools. In turn, this can help boost the representation of women, New Yorkers of color, and those from low-income backgrounds in elective computing programs in high school, tech degree-granting programs in college, and ultimately in the workforce.
+
+"We are now at the point where anyone can build a software application by simply prompting AI to generate the code for them. This is the equivalent of Instagram turning everyone into a photographer. As William Gibson said, ‘The future is here, it's just not very evenly distributed.’ That's where public education comes in,” says Fred Wilson, founder of CS4All and partner at Union Square Ventures, a leading venture capital firm. “We must make sure that the teachers and administrators in our public schools are prepared to teach these skills to the children that walk through the doors and into their schools.”
+
+The opportunity is clear: Over the past 15 years, employment in the city’s core tech sector has more than doubled—from 103,000 to more than 208,000 jobs—faster than any other high-wage industry.5 Tech and computing occupations are also among the fastest-growing well-paying jobs in other parts of the economy, from finance and professional services to healthcare and education, even as hiring in the core tech sector has slowed. At the same time, the tech sector has a long way to go before it reflects the city’s diversity. Just 24.3 percent of the city’s tech workforce is Black or Latino, compared to 46 percent of the city’s overall workforce, and about three-quarters of tech jobs are held by men.6
+
+As the pace of technological innovation accelerates—including the integration of AI across nearly every sector—core digital literacies and computational thinking skills will become increasingly vital for full participation in New York City’s economy and society. While AI is already reshaping and replacing some entry-level coding jobs, the demand for digital literacies across all career paths will only grow.7 New Yorkers with computational thinking skills will be better prepared to assess, adapt to, and engage critically with emerging technologies—shaping the future rather than being shaped by it.
+
+There is a lot that city officials should do to help make more progress in closing these gaps, including investments in CUNY’s tech career–focused initiatives like CUNY 2X Tech and efforts to scale up effective tech training programs for adults that consistently lead to employment. But few investments are poised for greater long-term return on investment than a commitment to continue and scale the impact of CUNY’s CITE program. That’s because, while CS4All has succeeded in many ways by boosting the availability of computing classes across the K-12 system—mobilizing private sector partners to support these efforts and enabling thousands of current teachers to experience professional development in computing education—there are still alarming K-12 computing education gaps left to close. To effectively reach every student, city leaders will have to find ways to prepare every teacher to integrate computing concepts into their classrooms—and no institution educates more of the city’s future teachers than CUNY.
+
+The remainder of this report will briefly outline the current state of computing education in New York City public schools, shine a light on the achievements of the CITE program and the work left to do, and put forward a handful of recommendations for city leaders to help prepare New Yorkers for an increasingly tech-powered future by preparing every teacher to learn and teach computing.
+
+Expanding on CS4All: Major Achievements but More Progress Is Needed
+
+The Center for an Urban Future’s new analysis of data from New York City Public Schools finds significant progress in computing education, but also the persistence of highly concerning equity and participation gaps.
+
+Since the launch of Computer Science for All in 2015, which requires every student to receive four units of computer science by the end of 12th grade, access to computing education has risen. CS4All has helped nearly quadruple the share of students enrolled in computer science classes in any given school year, from 5.5 percent in 2016 to 20 percent in 2024.8 Today, fully 93 percent of schools are reaching at least some of their students with computer science in each grade band (K-2, 3-5, 6-8 or 9-12).9 The number of computer science classes multiplied tenfold from 534 in 2016 to 5,005 in 2023.10
+
+CS4All has made important progress in growing computer science participation among students of color, female students, and low-income students. Enrollment more than quadrupled among Hispanic students (from 4.7 to 19.1 percent over the past eight years) and Black students (3.6 to 15.6 percent).11 Encouragingly, female student enrollment grew faster (5.1 to 19.5 percent) than male enrollment (5.9 to 20.5) from 2016 to 2024, although a gap persists. And the share of English language learners taking computer science classes (23.3 percent) surpassed the share of non-English language learners taking computer science classes (19.3 percent) as of 2024.
+
+At the local level, some changes were even more dramatic. For instance, District 23 (located in Brownsville and Ocean Hill)—which serves a majority Black and Hispanic student body and has a poverty rate of 92.3 percent—saw the fastest growth in computer science student enrollment of any district, rising from just 17 students in 2016 to 1,575 in 2024.12
+
+But despite these hugely important gains, notable racial and ethnic gaps remain. Just 19 percent of schools are meeting CS4All’s equity goals, meaning that Black and Hispanic students and girls are underrepresented in computer science in more than 4 in 5 schools citywide.
+
+Only 19.1 percent of Hispanic students and 15.6 percent of Black students were enrolled in computer science courses in 2024, compared to 27.1 percent of Asian students and 20.4 percent of white students. Citywide, just 20 percent of students were enrolled in computer science classes in 2024, and no school district has more than 47 percent of its students enrolled in computer science.13 Overall, only 38 percent of students have had one or more computer science experiences during their three or four year grade band (K-2, 3-5, 6-8, 9-12) and just 19 percent of schools are meeting CS4All’s equity goals, meaning that Black and Hispanic students and girls are underrepresented in computer science in more than 4 in 5 schools citywide.14
+
+At the borough level, the Bronx and Manhattan trail behind in computer science enrollment. Manhattan has the lowest share of students enrolled in computer science classes among the five boroughs at 13.7 percent, and the Bronx is the second lowest at 14.8 percent.15 The Bronx experienced the slowest growth in computer science enrollment over the past eight years, increasing 192.5 percent while citywide enrollment grew 256.7 percent.16
+
+One key challenge for building on CS4All is that the pace of training current teachers has been slow, and many teachers have left the school system after being trained. Only 3,118 teachers have received computer science-related professional learning sessions through CS4All as of 2024.17 Additionally, not all trained teachers choose to stay in their position—22 percent of teachers trained from 2016 to 2023 exited the school system.18 These dynamics underscore the value of efforts to prepare all future teachers before they’re hired into the school system, making the system as a whole less vulnerable to turnover.
+
+Ensuring that students receive culturally-responsive, age-appropriate computer science instruction before high school—when students have more say in what classes they take—is critical to creating interest and belonging in computing education for all learners. In 2023, female New York City public high school students were still 26 percent less likely to be enrolled in a computer science class than their male peers.19 Hispanic students were still 15 percent less likely than White students to be enrolled in computer science courses and 31 percent less likely than Asian students.20
+
+Computer science education directly influences what students choose to study in college—a key factor in expanding access to careers in tech. Students who took computer science during high school were over two times as likely as to become computer science majors at CUNY colleges; for Black and Hispanic students and girls this association was even stronger.21
+
+Expanding CITE: Strengthening the Preparation of Future Teachers to Build Computing Education Skills
+
+Every year, about one-third of all new teachers hired by New York City Public Schools earned their degrees from CUNY, making CUNY the institution best positioned to answer a call to action on teacher preparation. Launched as a four-year partnership between CUNY and New York City Public Schools—with public funding from New York City Public Schools and philanthropic funding from Robin Hood Learning + Technology Fund, Google, Gotham Gives, and the Siegel Family Endowment —CITE trains CUNY teacher education students to implement computing education across the K-12 curriculum. To accomplish this, CITE trains CUNY education faculty to integrate computing education into their own teaching, with the goal of institutionalizing this approach across CUNY’s 16 colleges with education programs.
+
+So far, the initiative is showing promising results. Roughly one-third of faculty from CUNY’s sixteen colleges with teacher education programs have taken part in CITE’s professional learning opportunities, signaling faculty’s interest in and commitment to the work.22 To date, more than 10,000 future teachers or “teacher candidates” have completed CITE-related pilot assignments taught by these faculty members. These teacher candidates generally agree or strongly agree that the activities they experienced are helping them learn and select appropriate digital tools for teaching, think critically about technology, and apply computational thinking to their practices—and they are highly likely to recommend CITE-infused classes to their peers.23
+
+Building on the successes of the pilot assignments, CITE is now working to support every CUNY college with a teacher education program to transform their curriculum so that every teacher candidate can go beyond just receiving a one-off assignment around computing education, and can develop their computational thinking and digital literacy skills throughout their college career.
+
+“Now the goal is to institutionalize commitments to computing and digital literacies across the teacher preparation curriculum,” says Dr. Sara Vogel, director of CITE at CUNY. “The idea is that a teacher candidate will have the opportunity to experience computing throughout their program, across multiple courses, and get to practice it in the field.”
+
+The CITE initiative’s more sustainable institutional work drives change on two levels. At the program level, faculty collaborate with CITE staff through a three-step process: first, they refine their program’s learning goals to identify the essential computational knowledge teacher education students should have by graduation. Next, they revise the curriculum to align with these goals. Finally, faculty implement the updated curriculum in their classrooms. Beyond individual programs, CITE fosters school-wide transformation by integrating computational and digital literacy into teacher performance assessments, accreditation frameworks, and other institutional structures.
+
+Thirteen of CUNY’s 16 colleges with education programs have begun integrating CITE principles into their teacher education curriculum through more sustainable program-level redesign efforts. Seven schools have at least one program in the first or second phase of this redesign process. One of those schools, and five others have at least one program beginning work in the third and final phase of redesign: implementation. Program changes have been fully designed and implemented in just one college. Overall, CITE’s deeper program-level change efforts now reach programs attended by roughly half (52% percent) of teacher education candidates today. 24
+
+However, CITE still has substantial room to grow before it reaches every teacher education student and is embedded fully in every CUNY teacher education program. Roughly two-thirds of education faculty still have yet to participate in CITE’s professional development, and CITE has been fully implemented in only one college. About half of all of CUNY’s teacher education students are in programs that have not yet been integrated into the CITE model. Two CUNY schools with teacher education programs have participated in faculty learning opportunities, but have yet to begin program-level redesign or school-of-education-wide change, and one college is new to the CITE ecosystem.
+
+A modest investment in growing CITE can offer policymakers a powerful option for boosting the number of public school teachers prepared to integrate computing into their classrooms. If CITE scales up to reach every student enrolled in CUNY’s education programs, this would provide a steady pipeline of thousands of new teachers into New York City Public Schools—more than 8,000 new computing-ready teachers over five years, once CITE is at full deployment. In a decade, more than 20 percent of all in-service teachers could be prepared by CITE and equipped to integrate computing and digital literacy principles into their classrooms.
+
+Snapshot: How Teachers Are Bringing Computing and Digital Literacy Into Their Classrooms
+
+Across New York City, new teachers trained through CITE are beginning to help students develop essential computing skills. By integrating computational thinking into their lessons, they are preparing the next generation to navigate an increasingly tech-driven world.
+
+“CITE really helped us think about what we want our children to take from this. We really want them to not passively use technology, especially as we're becoming more and more dependent on it,” says Michelle Ortiz, a Lehman College graduate and now a 5th-grade math and social studies teacher in the Bronx.
+
+While studying under CITE-trained faculty, Ortiz became familiar with a coding program she plans to introduce to her students later this year. She also developed a project on digital bias and algorithms for her 5th-grade social studies class, helping students think critically about the role of technology in their lives.
+
+Bayan Khalil, a College of Staten Island (CSI) graduate student, says CITE prepared her to integrate computing education into the classroom in meaningful ways—an experience many educators lack. “I learned better ways to incorporate [these tools]—they’re being implemented in schools but not a lot of teachers know about them,” she explains. As an undergraduate at CSI, Khalil introduced computing assignments as a student teacher and later helped train current public school teachers in coding programs they could use in their classrooms.
+
+Both Ortiz and Khalil see firsthand how early exposure to computing builds essential skills like collaboration, problem-solving, and communication. Khalil says early exposure to computing—through coding programs designed for beginners like Scratch—can open up vast career opportunities for students. “I think that it's one of those things where they can make a career out of this. I mean, I think that's the whole point of Scratch—it’s kind of like baby steps to the real thing. With computer engineering and all the jobs [it offers], this is a great beginning,” she explains.
+
+Ortiz highlights the connection between computational education and diversity in the tech workforce. “I tell my students that the percentage of Black, Brown, and Hispanic software engineers and computer scientists is very low. This work inspires them to use these tools, create things, and [see themselves] in the workforce.”
+
+Recommendations
+
+To make meaningful progress in expanding access to technology careers, New York City leaders should advocate for and advance new investments and policies that can help far more young people gain confidence and fluency in computing. To achieve this, the next mayor and City Council should champion a CS4All 2.0, redoubling efforts to boost participation and close remaining gaps—and make preparing future teachers a core part of that strategy.
+
+1. Fund CUNY’s Computing Integrated Teacher Education (CITE) Initiative to Reach Every CUNY Teacher Education Candidate. CUNY’s CITE program has made exciting progress in preparing teacher education students to integrate computer science and digital literacy skills into their curriculum. Yet, it is broadly and deeply implemented in only a fraction of CUNY’s teacher education schools. To sustain and expand CITE so that every future CUNY teacher benefits, the initiative requires an investment of roughly $1.6 million per year for at least three years, through June 2029. Although $3 million has already been secured from private sources such as Google, Gotham Gives, and the Robin Hood Learning + Technology Fund for the next three years, this funding falls short of maximizing the program’s potential. Going forward, the city should allocate an additional $564,000 annually to fully integrate CITE across all CUNY schools of education. This investment would support new college teams serving about 2,900 teacher candidates, bolster existing teams reaching 9,500 students, and ultimately equip more than 8,000 new educators with critical computing education expertise within five years.
+
+2. Create a “Computing Across the Curriculum Microcredential” for Pre-Service and In-Service Educators. Current and future educators need accessible, flexible professional development that equips them to teach computing principles in ways that are age-appropriate, sequential, and culturally responsive. Establishing a stackable microcredential would enable teachers to enroll in relevant CUNY courses for credit. Such a program would not only help educators build their capacity to integrate computing equitably into their instruction, it would also help them gain the graduate and postgraduate credits they need to qualify for salary boosts, and provide a clear signal of expertise to school and district decision-makers. The city should invest $800,000 to launch this microcredential program for aspiring teachers, in-service New York City Public Schools educators, and after-school instructors. This initiative will help ensure that all educators have the tools they need to offer comprehensive computational thinking education in their classrooms.
+
+Endnotes
+
+1. Center for an Urban Future analysis of New York City Department of Education Local Law 177 data from 2016 and 2024.
+
+2. “Expanding Computer Science Education for All: Successes, Challenges, and Implications of NYC’s CS4All Initiative,” Cheri Fancsali and June Mark, with Kathryn Hill, Xia Li, Janice Lee, Rishika Jain, and Michelle Flores, The Research Alliance for New York City Schools, December 2024, https://steinhardt.nyu.edu/research-alliance/research/expanding-computer-science-education-all.
+
+3. Data provided to CUF via interviews and sourced from CUNY CITE research.
+
+4. Ibid.
+
+5. Center for an Urban Future analysis of data from the Quarterly Census of Employment and Wages.
+
+6. To examine the racial/ethnic and gender composition of employment in each city’s tech sector, we analyzed 18 tech-specific occupations, such as database administrators, web developers, and computer network architects, using data from the 2019-2023 American Community Survey 5-Year Estimates.
+
+7. Prasanna Tambe, Aija Leiponen, Zoya Qureshi, and Peter Cappelli, “‘Generate’ the Future of Work through AI: Empirical Evidence from Online Labor Markets,” arXiv preprint, June 2024, https://arxiv.org/abs/2308.05201. National Skills Coalition and the Federal Reserve Bank of Atlanta, “Closing the Digital Skill Divide: The Payoff for Workers, Business, and the Economy,” 2023, https://nationalskillscoalition.org/wp-content/uploads/2023/02/NSC-DigitalDivide_report_Feb2023.pdf.
+
+8. Center for an Urban Future analysis of data from 2016 and 2024 New York City Department of Education Local Law 177 data.
+
+9. Fancsali et al.
+
+10. Ibid.
+
+11. Center for an Urban Future analysis of data from 2016 and 2024 New York City Department of Education Local Law 177 data.
+
+12. New York City Department of Education, Demographic Snapshot: SY 2019-20 to 2023-24, https://infohub.nyced.org/reports/students-and-schools/school-quality/information-and-data-overview.
+
+13. Center for an Urban Future analysis of data from 2016 and 2024 New York City Department of Education Local Law 177 data.
+
+14. Fancsali et al.
+
+15. Center for an Urban Future analysis of data from 2016 and 2024 New York City Department of Education Local Law 177 data.
+
+16. When analyzing borough-level data, this analysis excludes District 75.
+
+17. Fancsali et al.
+
+18. Ibid.
+
+19. Ibid.
+
+20. Ibid.
+
+21. Ibid.
+
+22. Data provided to CUF via interviews and sourced from CUNY CITE research.
+
+23. Center for an Urban Future analysis of data from 2024 CUNY CITE Student Survey.
+
+24. This number was obtained through CUNY CITE research and refers to the 6,589 students enrolled in programs where program-level change is occurring out of 12,750 total teacher candidates.
+
+Preparing New Yorkers for a Tech-Powered Future: Training Every New Teacher in Computing is a publication of the Center for an Urban Future. Written by Sophia Tumolo, Eli Dvorkin, and Rachel Neches. Edited by Dorian Block and Jonathan Bowles.
+
+Center for an Urban Future (CUF) is a leading New York City-based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy.
+
+This report was supported by a grant from Robin Hood and the Robin Hood Learning + Technology Fund. General operating support for the Center for an Urban Future has been provided by The Clark Foundation and the Altman Foundation.
+
+Related Press
+
+U.S. Schools Are Betting Big on A.I. Will New York City Be Next?
+
+The New York Times,
+by Troy Closson,
+March 02, 2026
+Department of Education rolls out preliminary guidelines for AI use in classrooms
+
+Spectrum News NY1,
+by Ayana Harry,
+March 24, 2026
+
+This report was supported by a grant from Robin Hood and the Robin Hood Learning + Technology Fund.
+
+Related Publications
+
+7075|7051|6885|6781
+
+Boosting Tech Career Success for CUNY Students: Doubling Down on CUNY 2X Tech
+
+Training NYC’s Future Teachers to Integrate Computing Education
+
+Expanding on CS4All: Training NYC’s Future Teachers to Integrate Computing Education
+
+Mayor Adams, it’s time to level up K-12 computing education across NYC
+
+Related Press
+
+U.S. Schools Are Betting Big on A.I. Will New York City Be Next?
+
+The New York Times
+
+Department of Education rolls out preliminary guidelines for AI use in classrooms
+
+Spectrum News NY1
+
+View More Related Press
+
+Related Press
+
+U.S. Schools Are Betting Big on A.I. Will New York City Be Next?
+
+The New York Times
+
+Department of Education rolls out preliminary guidelines for AI use in classrooms
+
+Spectrum News NY1
+
+Search
+
+Search
+
+@nycfuture
+
+Follow @nycfuture 
+
+CUF in the News
+
+Expand Pathways To Affordable Home Ownership From Harlem And Beyond
+
+Harlem World
+
+InfluenceWatch Friday
+
+Capital Research Center
+
+NYC Housing Calendar, July 13-20
+
+City Limits
+
+Can America’s Best Engine of Social Mobility Weather a Bad Job Market?
+
+The New York Times
+
+What Today’s College Students Need That Previous Generations Didn’t
+
+The Good Men Project
+
+City Council funds free OMNY cards for over 1,000 CUNY students in city budget deal
+
+amNY
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily
+
+View More Press
+
+© All Rights Reserved.
+
+Content
+
+Reports
+Commentary/Op-Ed
+Testimony
+Data
+Events
+Impact
+
+Topics
+
+Economic Growth
+Economic Opportunity
+Entrepreneurship
+Immigrants
+Boroughs
+Small Business
+Human Capital
+Higher Education
+Creative Economy
+Tech
+
+Follow
+
+Support
+
+Internships
+
+Support the Center
+
+Contact
+
+Center for an
+
+Urban Future
+
+80 Eighth Avenue, Suite 704
+
+New York, NY 10011
+
+212-479-3344
+
+[email protected]
+
+© All Rights Reserved.
+
+Search
+
+x

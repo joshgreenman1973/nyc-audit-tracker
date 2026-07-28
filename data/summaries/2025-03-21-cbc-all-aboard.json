@@ -1,0 +1,83 @@
+{
+  "id": "2025-03-21-cbc-all-aboard",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "All Aboard",
+  "plain_title": "A plan to close the MTA capital plan funding gap",
+  "agency": "Metropolitan Transportation Authority",
+  "issued": "2025-03-21",
+  "url": "https://cbcny.org/research/all-aboard",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBCREPORT_MTA-Financing_03212025_0.pdf",
+  "what_they_audited": "A Citizens Budget Commission report proposing how to pay for the Metropolitan Transportation Authority's (MTA's) 2025-2029 Capital Plan and what accountability measures should come with the money.",
+  "background": "The MTA's proposed 2025-2029 Capital Plan included $68.4 billion of investments over five years, of which about 95 percent supports rebuilding and improving the existing system.",
+  "findings": [
+    {
+      "plain": "The MTA identified funding for about half of its proposed capital plan, leaving a multibillion-dollar gap.",
+      "quote": "the MTA only identified $35.0 billion in funding, leaving a $33.4 billion gap"
+    },
+    {
+      "plain": "The state executive budget widened the gap by reducing planned city and state contributions.",
+      "quote": "The State Fiscal Year 2026 Executive Budget increased the financing gap to $35.4 billion by lowering the City’s and State’s contributions by $1.0 billion each"
+    },
+    {
+      "plain": "The report calls the size of the capital plan ambitious but justified by the investment the system needs.",
+      "quote": "The $68.4 billion size of the 2025-2029 Capital Plan is very ambitious but reasonable, given the investment needed"
+    },
+    {
+      "plain": "The MTA's operating budget cannot support the amount of operating-budget-backed debt the plan assumes.",
+      "quote": "The MTA’s operating budget will become increasingly precarious in the next few years and cannot support the proposed $10.0 billion of operating-budget-backed debt"
+    },
+    {
+      "plain": "The federal aid the plan assumes is in line with past support but less certain now.",
+      "quote": "The MTA’s expected $14.0 billion in federal aid to the capital plan is reasonable based on past support but is less certain under the current administration."
+    },
+    {
+      "plain": "Fare evasion losses rose sharply after the pandemic and continue to pressure the operating budget.",
+      "quote": "Fare evasion, which cost the MTA about $200 million annually prior to the COVID pandemic, saw a dramatic post-pandemic jump to $700 million in lost revenue in 2022."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$68.4 billion",
+      "label": "Size of the proposed 2025-2029 Capital Plan"
+    },
+    {
+      "value": "$35.4 billion",
+      "label": "Financing gap after the state executive budget"
+    },
+    {
+      "value": "$31.8 billion",
+      "label": "Gap after dropping expansion projects"
+    },
+    {
+      "value": "$9.0 billion",
+      "label": "Added city and state pay-as-you-go contributions proposed"
+    },
+    {
+      "value": "$16.0 billion",
+      "label": "Gap remaining after the proposed actions"
+    },
+    {
+      "value": "$500 million",
+      "label": "Recurring operating savings sought from labor flexibility"
+    }
+  ],
+  "recommendations": [
+    "Focus the capital plan only on rebuild and improve projects, which would cut the gap from $35.4 billion to $31.8 billion by dropping $3.6 billion slated for expansion.",
+    "Increase city and state pay-as-you-go contributions by $9.0 billion, including $2.0 billion in additional general appropriations from each and another $5.0 billion from the state.",
+    "Modestly increase fares, tolls and vehicle registration fees to support $6.8 billion in capital spending.",
+    "Fill the remaining $16.0 billion with sources that spread the burden across the region, which lawmakers may choose from options including further appropriations, user fees, regionalizing New York City-only MTA taxes or small increases in the payroll mobility tax or sales taxes.",
+    "Require the MTA to publish project plans, user-friendly capital project status reports, regular updates on each asset group's state of repair and a joint study comparing its capital project costs with peers.",
+    "Ensure labor provides the flexibility to generate at least $500 million in recurring operating budget savings.",
+    "Require a study identifying state or city laws and regulations that raise MTA capital costs.",
+    "Include provisions giving the district attorneys, police and the MTA tools to reduce fare evasion."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transportation",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

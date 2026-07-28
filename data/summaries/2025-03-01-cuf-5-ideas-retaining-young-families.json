@@ -1,0 +1,64 @@
+{
+  "id": "2025-03-01-cuf-5-ideas-retaining-young-families",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "5 Ideas for Retaining NYC’s Young Families",
+  "plain_title": "Five proposals to keep young families in New York City",
+  "agency": "New York City government",
+  "issued": "2025-03-01",
+  "url": "https://nycfuture.org/research/5-ideas-for-retaining-nycs-young-families",
+  "pdf": "https://nycfuture.org/pdf/RetainingYoungFamilies_v8.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City based think tank, that lays out five policy ideas for helping the city hold onto families with young children. It is the third in a series of reports the group has published on policy ideas for the post-pandemic city.",
+  "background": "The report says that between April 2020 and July 2023 the number of New York City children under age five fell 18.3 percent, and that families with young children have been leaving at more than twice the rate of households without them. It attributes much of the movement to affordability and quality of life, with movers citing housing quality and cost as their top concern.",
+  "findings": [
+    {
+      "plain": "The city lost young children faster than the country as a whole and faster than San Francisco, Los Angeles or Chicago between April 2020 and July 2023.",
+      "quote": "This was far more than the nationwide decline (-4.6 percent)"
+    },
+    {
+      "plain": "The supply of licensed childcare has shrunk, and 14 percent of the city's census tracts have a substantial child population but no licensed provider at all.",
+      "quote": "down 7.8 percent from a decade ago"
+    },
+    {
+      "plain": "Childcare work is among the lowest paid work in the city, which the report ties to the shortage of seats.",
+      "quote": "Childcare workers earn among the lowest median incomes of any worker in New York City—just $25,000 as of 2023."
+    },
+    {
+      "plain": "Apartments big enough for families are rarely built. Over the past decade, city-financed projects added 6,250 three-plus bedroom apartments out of more than 191,000 units.",
+      "quote": "the city has added only 6,250 new three-plus bedroom apartments out of more than 191,000 units"
+    },
+    {
+      "plain": "The city's 3-K program did not reach every family that applied in 2024. Of 44,000 families who submitted choices, 10 percent got offers for programs they had not applied to and 6 percent got no offer.",
+      "quote": "(2,500 families) were not given an offer at all"
+    },
+    {
+      "plain": "The Parks Department's low-cost summer day camp is far smaller than demand for it, running at fewer than half the city's 36 recreation centers.",
+      "quote": "which enrolled just 549 campers across 18 sites in the summer of 2022"
+    },
+    {
+      "plain": "The group's analysis of 2023 school performance data finds middle schools trailing elementary and high schools, and finds parents looking elsewhere at that stage.",
+      "quote": "half said they wanted an option outside their school district"
+    }
+  ],
+  "numbers": [
+    {"value": "18.3 percent", "label": "Drop in children under five, April 2020 to July 2023"},
+    {"value": "10,135", "label": "Licensed and registered childcare providers citywide"},
+    {"value": "$25,000", "label": "Median pay for a city childcare worker in 2023"},
+    {"value": "6,250", "label": "Three-plus bedroom units added in a decade of city deals"},
+    {"value": "72,403", "label": "Older adults living alone in 3-plus bedroom homes"},
+    {"value": "549", "label": "Children enrolled in Parks summer day camp in 2022"},
+    {"value": "$25 million", "label": "Proposed city seed money for a childcare fund"}
+  ],
+  "recommendations": [
+    "Start a public-private childcare fund modeled on Iowa's Childcare Solutions Fund, seeded with $25 million from the city and matched by corporate and philanthropic money, to raise caregiver wages and add seats in neighborhoods with the fewest providers.",
+    "Create or free up 10,000 three-bedroom units of affordable housing for families, by adding a family-unit bonus to subsidy term sheets, requiring family-sized units in projects on city-owned land and helping older adults who want to downsize find smaller homes.",
+    "Make 3-K and pre-kindergarten truly universal by using artificial intelligence data tools to identify and reach every eligible three- and four-year-old, and by letting that data guide how seats and money are allocated.",
+    "Scale up the Parks Department's Summer Day Camps to serve 5,000 children, expanding to most or all recreation centers and to other city-owned spaces such as schools, nature centers and pavilions.",
+    "Revamp the middle school system by closing chronically failing schools, reorganizing 50 large middle schools into smaller schools under one roof, creating 10 new K-8 or K-12 schools and expanding an overhauled Middle School Quality Initiative focused on school leadership and teacher development."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["children and youth", "housing", "education"],
+  "is_followup": false
+}

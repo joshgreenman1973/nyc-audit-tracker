@@ -1,0 +1,3359 @@
+OCTOBER 2023DECEMBER 2025
+CREATIVE  NEW YORK
+The creative sector—from performing arts  
+organizations to design firms—is more critical than 
+ever to New York City’s economy. But mounting 
+affordability challenges threaten its future.
+Creative New York 2025 is a publication of the 
+Center for an Urban Future. Researched and 
+written by Eli Dvorkin, Rachel Neches, Sophia 
+Tumolo, Andrew Bauld, Olivia Bensimon, and 
+Hannah Berman. Edited by Eli Dvorkin, Jonathan 
+Bowles, and Dorian Block. Additional research  
+by Nicholas Caruso, Madison Cheng, Udonne 
+Eke-Okoro, Dare Fitzpatrick, Zamira Frost,  
+Lina Mazioui, Ralph Osias, Makenzie Rodrigues, 
+Jay Siegel, and Samuel Weidman. Designed by 
+Stislow Design.
+Center for an Urban Future (CUF) is a leading 
+think tank focused on building a stronger  
+and more equitable economy in New York City, 
+and expanding economic opportunity for all 
+New Yorkers.
+This report was made possible thanks  
+to support from Rockefeller Brothers Fund,  
+Howard Gilman Foundation,  
+Ford Foundation, and Mellon Foundation.
+Any opinions, findings, or recommendations 
+expressed in this report are those of the  
+authors and do not necessarily reflect the views 
+of our funders.
+General operating support for the Center for an 
+Urban Future has been provided by The Clark 
+Foundation and the Altman Foundation.
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+CHIEF OF STAFF
+Stephanie Arevalo
+SENIOR EDITOR 
+Dorian Block
+SENIOR DATA & POLICY RESEARCHER
+Rachel Neches 
+SENIOR FELLOW FOR CLIMATE & OPPORTUNITY
+John Surico 
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo 
+BOARD OF DIRECTORS
+Gifford Miller (Chairman)
+Margaret Anadu 
+Jonathan Bowles 
+Rafael E. Cestero 
+Russell Dubner 
+Garnesha Ezediaro 
+Susan Fine 
+Kyle Kimball 
+Katy Knight 
+Jessie Lazarus 
+David Lebenstein 
+Eric S. Lee 
+Josh Moskowitz 
+Monisha Nariani 
+Max Neukirchen 
+Andrew Reicher 
+Peter Schubert 
+John Siegal 
+Thomas Vecchione 
+Sherry Wang 
+Kate Wittels
+Cover Photo: Ricardo Gomez Angel
+Rockefeller Brothers Fund | Visual Identity Guidelines| Revised November 2019 4
+Correct Logo Use
+Philanthropy for an Interdependent World
+Rockefeller
+Brothers Fund
+3-Color Reverse
+1-Color Positive
+Minimum Size with Tagline Minimum Size with No Tagline
+1-Color Reverse
+at least 1 1/2” wide 1 1/4” wide
+The	logotype	and	tagline	must	always	be	legible.	The	minimum	size	for	the	primary	signature	is	
+1.5”	wide.	For	smaller	placements,	use	the	no	tagline	signature.	The	logo	should	never	appear	in	
+any	signature	at	a	width	less	than	1.25”.
+On	the	web,	the	minimum	size	for	the	logo	is	180px	wide.	For	mobile	and	tablet	views,	use	the	
+no tagline signature. 
+3-Color Positive
+Access RBF logos here: https://rockefellerbrothersfund.box.com/v/grantee-comms 
+Creative New York
+Introduction: New York’s Creative Economy at a Crossroads . . . . . . . . . . . . . .  1
+Section 2: The Impact of the Arts on New York City’s Economic Future....  11
+Section 3: The Vital Role of the Arts in Times of Crisis ..................  18
+Section 4: Key Challenges Facing the Arts ............................  24
+Section 5: Key Challenges Facing the Creative Industries ...............  32
+Section 6: The Impact of AI on NYC’s Artists and Creative Economy.......  33
+Section 7: Creating a More Inclusive Creative Economy and Arts Sector ...  35
+Section 8: Progress in New York City Arts and Culture Policy 
+(2015–2025)  ....................................................  38
+Section 9: Beyond the Department for Cultural Affairs (DCLA):  
+Cross-Agency Opportunities to Support the Arts  .......................  40
+Section 10: Policy Recommendations  ...............................  43
+Table of Contents
+1
+CREATIVE NEW YORK 20251
+Creative New York
+1
+FROM BROADWAY THEATERS TO BUSHWICK STUDIOS, BRONX REHEARSAL SPACES TO QUEENS SOUND STAGES,  
+the creative sector remains one of New York City’s greatest economic engines and competitive advantages. The 
+arts and creative industries employ more than 326,000 New Yorkers, attract millions of visitors each year, power 
+the city’s global brand, and arguably serve as the city’s most important talent magnet in a talent-driven economy. 
+But after decades of steady growth in almost every part of the city’s creative economy, this vital engine is now 
+sputtering. Since the start of the pandemic, the city has seen an 18.8 percent decline in dancers, an 8 percent 
+drop in actors, and a 2.8 percent decrease in musicians. But it’s no longer just artists whose numbers are  
+dwindling: fashion designers are down 25.9 percent, film and video editors 18.5 percent, graphic designers 
+13.8 percent, and art directors 6 percent.1 
+Meanwhile, creative industries that had been among the city’s fastest growing sectors in the decade before 
+the pandemic are now lagging well behind. Between 2005 and 2020, employment in the city’s film and television 
+sector increased by 113.7 percent. But since 2020, film and TV jobs in New York City are down by 19.1 percent. 
+There has been a similar pre-and-post pandemic employment divergence in advertising (up 46.1 percent from 
+2005 to 2020, and down 15.7 percent since), architecture (+ 61.1 percent vs -9.4 percent), applied design 
+(+12.5 percent vs -14.3 percent), performing arts (+30.2 percent vs -6.4 percent), and visual arts (+95.7 percent 
+vs -1.3 percent). 
+The overall number of people working in the city’s creative economy—including jobs and self-employment in 
+more than a dozen cultural and creative industries, as well as creative jobs in fields outside the creative economy— 
+has declined by 6.1 percent since 2019. 
+The city is also beginning to lose market share. New York City’s share of all people working nationwide in the 
+creative economy has declined from 9.3 percent to 8.6 percent since 2019. There have been particularly worrisome 
+declines in the city’s share of national employment in advertising (from 11.7 percent of the nation’s jobs in 2019 
+to 10.7 in 2024), performing arts (11.5 percent to 10.7 percent), applied design (6.3 percent to 5.4 percent), film 
+and television (15.5 percent to 14.9 percent) and music production (10.8 percent to 10.2 percent). 
+Behind the numbers, the city’s arts and culture ecosystem has sustained difficult losses.2 Many nonprofit arts 
+organizations say they are more financially vulnerable than ever. And across the cultural landscape, venues are 
+vanishing: Nearly 50 theaters, music clubs, museums, and galleries have shuttered since 2020, many pointing to 
+lasting changes in audience behavior, soaring insurance costs, and other unsustainable operating pressures.
+The causes run deeper than the pandemic. New York’s broader affordability crisis—already pushing out 
+thousands of working- and middle-class residents—is hitting the creative sector especially hard. While artists 
+have long struggled to afford life in New York, today those pressures extend across the entire creative economy, 
+squeezing professionals in fields like advertising, design, and fashion. Creative workers in New York now earn 
+about 23 percent less than the national average after adjusting for the city’s high cost of living, down from 15 
+percent less a decade ago, while housing and studio rents continue to climb.
+Nonprofit and commercial venues alike face rising expenses on every front—from labor and materials to 
+insurance, which for many organizations has multiplied several-fold since 2020. While costs are up, many 
+performing arts venues have seen notable declines in revenues from ticket sales, driven by major audience 
+shifts since the pandemic—with people opting for in-home streaming over in-person attendance. At the same 
+time, creative employment is shifting toward freelance and contract work: self-employment in creative industries 
+has grown 10.3 percent since 2019, and the number of independent artists, writers, and performers is up 
+65.6 percent over the past decade, creating greater economic insecurity. Meanwhile, artists of color earn about 
+2
+37 percent less than white artists, underscoring how 
+existing inequities make the affordability crisis even 
+more acute.3
+Yet this is not a story of decline alone. Across the 
+five boroughs, nightlife remains remarkably vibrant, 
+museums are expanding, and new cultural spaces are 
+taking root—from the Bronx Music Hall and ArtBuilt in 
+Brooklyn to the reopening of the Studio Museum in 
+Harlem. Over the past few years, New York City has 
+made record investments in arts and culture, including 
+the largest-ever budget for the Department of Cultural 
+Affairs (DCLA) and new permanent baseline funding. 
+The city has expanded the Cultural Institutions Group 
+and launched initiatives like the City Artist Corps to 
+support working artists. 
+But sustaining this progress will require going  
+further. Even with public cultural funding at record 
+highs, city leaders have done too little to tackle the 
+structural pressures undermining the creative sector— 
+especially the affordability crisis that is pushing  
+artists and creative professionals out of New York.  
+Today, the forces reshaping the creative sector extend 
+well beyond arts funding. Housing and studio costs, 
+insurance, the insecurity of freelance work, and the 
+rise of AI demand a broader, cross-agency strategy—
+or New York risks losing the creative core that fuels its 
+economy and identity.
+The next administration will need to act boldly: 
+dramatically expanding affordable artist housing and 
+workspaces; stabilizing small venues by addressing 
+skyrocketing operating costs; piloting portable bene -
+fits for freelancers; launching the city’s first annual 
+five-borough cultural festival; and mobilizing agen -
+cies from housing, transportation, and parks to the 
+Economic Development Corporation to fully integrate 
+creativity into the city’s economic and civic agenda.
+New York City’s resident artist population falls in recent years 
+From 2004 to 2019, the city’s resident artist population grew 34.7 percent,  
+but has since declined by 4.4 percent
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+
+3
+CREATIVE NEW YORK 2025
+Two decades ago, the Center for an Urban Future 
+published Creative New York, the first comprehensive 
+report documenting the immense and growing  
+economic and cultural impact of New York City’s  
+artists, cultural organizations, and for-profit creative 
+industries. This third landmark edition of Creative New 
+York finds a vital sector at a defining crossroads: its 
+importance to the city’s economy and civic life has 
+never been greater, yet an intensifying affordability  
+crisis has led to stagnant job growth, an exodus of  
+artists, and a mounting challenge for the city’s next 
+generation of leaders.
+This report—supported by grants from the  
+Rockefeller Brothers Fund, Howard Gilman Founda -
+tion, Ford Foundation, and Mellon Foundation—draws 
+on more than 120 interviews with artists, cultural 
+leaders, creative entrepreneurs, community-based 
+organizations, business leaders, and policymakers 
+across the five boroughs, as well as extensive analysis 
+of employment, wage, and industry data from the 
+U.S. Census Bureau, Bureau of Labor Statistics, New 
+York State Department of Labor, Lightcast, and city, 
+state, and federal budget documents.
+Although much of this report details new challenges 
+and threats facing artists, arts organizations, and  
+creative industries, the central finding is a positive 
+one: New York City boasts more cultural and creative 
+jobs than any city in the United States, and this part of 
+the economy—while often underappreciated—is more 
+critical than ever to the city’s economic future. Overall, 
+New York City’s broader creative sector—which we  
+define to include 10 key industries: advertising, film 
+and television, broadcasting and media streaming, 
+publishing, architecture, design, music, visual arts, 
+performing arts, and independent artists—employed 
+326,093 people in 2024 (including jobs in creative 
+industries, creative jobs across the economy, and 
+self-employment). That’s 6.1 percent below its 2019 
+peak, but up a remarkable 24.6 percent since 2004 
+and 3.5 percent since 2014.
+The creative sector also provides New York with 
+what is arguably its greatest competitive advantage. 
+The city is home to 16.8 percent of the nation’s fashion 
+designers, 15 percent of all producers and directors, 
+and 12.2 percent of editors—far more than any  
+other metro area. New York is home to more than 10  
+percent of national employment in film and television 
+NYC has lost resident artists and creatives since 2019
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+
+4
+Nearly all of New York City's creative industries have not recovered to pre-pandemic levels 
+Change in jobs, 2019-2024
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+NYC's slipping share of national creative employment
+The city's share of national creative jobs has slipped in seven out of ten industries
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+New York is losing ground among creative occupations
+NYC's share of the nation's artists is declining across most fields — these fields saw the largest losses.
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+
+5
+CREATIVE NEW YORK 2025
+(14.9 percent), publishing (14.4 percent), broadcasting 
+(12.7 percent), performing arts (10.7 percent),  
+advertising (10.7 percent), and music production 
+(10.2 percent). At the same time, creative nonprofits 
+and businesses continue to put down roots here:  
+creative firms accounted for 6.9 percent of all net new 
+businesses formed over the past decade—more than 
+in healthcare or education, and behind only technology 
+and restaurants. The number of cultural nonprofits 
+has also risen 32.1 percent since 2014, including an 
+18.9 percent increase since the pandemic, reaching a 
+record 5,523 organizations.4 And New York is leading 
+the globe in the emerging creator economy: the five  
+boroughs are home to seven of the top 25 creators on 
+Rolling Stone’s 2025 list—more than any other city.
+The city’s unmatched cultural and creative  
+ecosystem—powered by world-class institutions and 
+thousands of small and mid-sized nonprofits with no 
+parallel elsewhere—also anchors an immense tourism 
+economy and serves as one of the most important 
+draws for the talent that fuels industries from finance 
+to tech. Indeed, the city’s unmatched creative edge 
+may be the single most important asset that helps 
+New York counteract the many negatives of living here, 
+including the city’s astronomical cost of living. 
+But unlike in previous decades, New York is  
+now losing share to cities across the country. Other 
+regions—including many with significantly lower costs 
+of living—have seen their creative workforces flourish 
+since 2019, Nashville (+17.4 percent), Dallas (+14.3 
+percent), and Miami (+12.3 percent). 5 Although New 
+York City’s creative workforce is still larger than the 
+combined totals for the Chicago, San Francisco, and 
+Atlanta metro areas, the city’s share of national  
+creative jobs has slipped in seven out of ten industries, 
+including film and television, advertising, music pro -
+duction, performing arts, and applied design.
+Likewise, artists are relocating in record numbers 
+to more affordable cities and towns, while arts organi-
+zations—large and small alike—find themselves on  
+increasingly shaky financial ground. These losses are 
+reverberating across the city. And while New York  
+remains the nation’s undisputed cultural capital, its 
+creative foundation has rarely felt more fragile.
+Or as Powerhouse Arts CEO Eric Shiner puts it, “If 
+artists and creatives and actors and everyone else 
+can’t afford to live here anymore, then the magic dies.” 
+The pandemic drove artists out—  
+affordability is keeping them away
+Affording life in New York has never been easy for  
+artists. But since the pandemic, something funda -
+mental has shifted. Work dried up, costs soared, and 
+incomes failed to keep pace—pushing many artists 
+past the breaking point and extending those same 
+pressures across the broader creative economy.  
+Now, the affordability crisis that once hit hardest for  
+early-career strivers is squeezing established artists 
+and creative professionals alike. The result is visible 
+across nearly every discipline, from dance and theater 
+to design, film, and the visual arts: artists left during 
+the pandemic, and many haven’t come back.
+“We all know tons of artists that have moved  
+upstate, moved out of the city, and don’t really have 
+plans to come back,” says Lisa Gold, executive director 
+of the Asian American Arts Alliance. “And it’s not just 
+the artists—it’s the art handlers, the curators, the  
+preparators. It’s a whole economy.”
+Artist Kahlil Robert Irving, known for his tactile, 
+immersive sculptures and installations, had gained 
+national recognition through exhibitions at the Walker 
+Art Center and the Museum of Modern Art (MoMA). 
+Yet by 2020, New York City had grown increasingly 
+inhospitable, despite his rising success.
+“Trying to survive and sustain in New York, the hustle 
+gets complicated,” Irving says. “How much of yourself 
+may you have to lose just to continue to participate?”
+Ultimately, Irving chose to return to St. Louis, 
+where his family lives. Freed from New York’s crushing 
+costs, he was able to purchase a 13,000-square-foot 
+warehouse studio—space and tools he could never 
+have afforded in the city.
+Irving is just one of thousands of artists who left 
+New York since 2020 and have not returned. South 
+Korea–born painter GaHee Park moved to Montreal  
+in late 2020, citing diminished cultural vibrancy, the 
+burden of renewing artist visas, and the appeal of more 
+affordable studio and living space. Gregory Dolbashian, 
+a New York–born dancer and choreographer, relocated 
+his company, Dash Ensemble, to Dallas that same 
+year, where he now runs a training program for young 
+dancers. Even acclaimed novelist Zadie Smith left 
+New York after more than a decade, returning to London 
+in 2020.
+6
+Many assume New York has been losing artists 
+and creatives for decades, but resident worker data 
+reveals the real decline began only in the past five 
+years. Between 2004 and 2019, the city’s resident 
+artist population increased by 34.7 percent—from 
+92,383 in 2004 to 111,760 in 2014 and 124,484 in 
+2019. But from 2019 to 2024, the city’s artist popula-
+tion has declined by 4.4 percent (to 118,959). 
+The pre- and post-pandemic shifts are even starker 
+in several creative professions. The number of fashion 
+designers living in the city rose 38.4 percent from 
+2004 to 2019, but has since fallen 25.9 percent.  
+Architects increased by 13.9 percent over the same 
+fifteen-year span, but declined 4.6 percent from 2019 
+to 2024. The city’s editor population grew 41.6 per -
+cent from 2004 to 2019, then dropped 13.2 percent; 
+and the number of art directors rose 28.8 percent  
+before 2019 but has since fallen 6 percent.
+Organizations are shedding jobs  
+or simply shutting down 
+Since 2020, arts organizations across the city have 
+closed their doors or scaled back operations, shedding 
+jobs and audiences in the process. These closures are 
+stark warnings that business and funding models 
+which sustained the arts for decades are faltering in a 
+post-pandemic world.
+CUF’s research identified more than two dozen 
+galleries that have shuttered in just the past two years, 
+from stalwarts like Cheim & Read, Betty Cunningham, 
+Jack Hanley Gallery, and Mitchell-Innes & Nash to 
+younger spaces that championed emerging artists,  
+including Deli Gallery, Fortnight Institute, Queer 
+Thoughts, and DorDor.
+Rising rents and uneven sales play a role, but  
+gallerists also cite a deeper shift: the growing  
+dominance of online sales and a diminishing need for 
+physical space—changes with profound consequences 
+for New York’s creative ecosystem. “The pandemic hit 
+a lot of small- to medium-sized galleries, and the after-
+effects hit even more,” says Eric Shiner of Powerhouse 
+Arts. “So, a lot of smaller galleries are closing.”
+It’s not just galleries. Small museums are buckling 
+under economic pressures: Chelsea’s Rubin Museum 
+of Art and SoHo’s Center for Italian Modern Art both 
+closed in 2024, while museum employment overall  
+is down 8.6 percent since 2019. Major institutions  
+including The Guggenheim Museum and the Brooklyn 
+Museum, have announced layoffs.6
+Presenting organizations located in lower-income 
+communities faced especially steep challenges during 
+the pandemic. Fully 25 percent of arts groups in low -
+er-income zip codes reported losing their sole physical 
+space during the pandemic, compared to under 12 
+percent of organizations located in other areas.
+Other pillars of New York City’s cultural infrastructure 
+are beginning to fall as well. More than 20 music,  
+performance, and nightlife venues have shuttered 
+since the pandemic—including jazz clubs like Jazz 
+Standard and 55 Bar, legendary drag venue Pyramid 
+Club, and theaters such as The Secret Theatre and 
+Playhouse 46. 
+Creative industry employment  
+has declined since 2019
+It’s not just nonprofit arts venues and institutions that 
+are struggling. The fortunes of the city’s for-profit cre-
+ative industries have taken a U-turn since the pandemic. 
+One key finding from the previous edition of  
+Creative New York (2015) was that “several creative 
+industries have been among the fastest growing seg -
+ments of the city’s economy.” Indeed, employment in 
+six different key creative industries outpaced the city’s 
+12 percent overall employment growth over the  
+decade leading up to 2015—including film and televi -
+sion (growing by 53 percent over the prior decade), 
+architecture (up by 33 percent), performing arts  
+(26 percent), advertising (24 percent), visual arts (24 
+percent), and applied design (17 percent). 
+Most of these creative industries continued to add 
+jobs at a brisk pace until 2020. But while the pandemic 
+induced significant job losses in virtually every sector, 
+employment in many creative industries has remained 
+below pre-pandemic totals even as the city’s overall 
+economy has more than recovered. From the first 
+quarter of 2020 to the first quarter of 2025, total city 
+employment is up 4.6 percent but down notably in film 
+and TV (-19.1 percent), advertising (-15.7 percent), 
+applied design (-14.3 percent), publishing (-11.7  
+percent), architecture (-9.4 percent), performing arts 
+(-6.4 percent), music production (-3 percent), and  
+visual arts (-1.3 percent). 
+7
+CREATIVE NEW YORK 2025
+These losses threaten what had been an encour -
+aging development in the city’s economy: the emergence 
+of a reliable new source of middle-class jobs. Behind 
+the decline are major changes in how creative work is 
+made and where it happens. The pandemic upended 
+production models and accelerated a shift toward  
+flexible, remote, and contract-based employment. As 
+companies adapted to hybrid operations, many  
+replaced full-time roles with freelance and project-based 
+work. By 2025, just 45 percent of media workers  
+report being in the office every day—the lowest share 
+of any major industry. At the same time, companies 
+have increasingly realized they can hire talent in other 
+creative hubs—from Denver to Atlanta, and in cities 
+around the world—where workers can plug into distrib-
+uted teams and earn a good living at a fraction of a 
+New York salary.
+“It’s about how hard it is for young people in New 
+York to live on salaries they earn in a lot of creative 
+businesses,” says Andrew Robertson, chairman of 
+BBDO Worldwide, a global creative agency headquar -
+tered in New York City. “These are cool jobs, but they 
+don’t get paid a lot. At the same time, other cities are 
+opening up as creative centers. If you were going into 
+advertising ten years ago, you were going to New York, 
+Chicago, Los Angeles, or San Francisco. That was kind 
+of it. Now, you have the option of getting a good job in 
+a decent agency in Atlanta, Austin, and other places. 
+That’s a seismic shift that wasn’t there 10 years ago.”
+It’s no coincidence that one of the only creative 
+industries to grow since 2019 is independent artists, 
+up 22.6 percent. That growth reflects the rise of free -
+lance and self-employed creative workers—a shift that 
+has brought greater flexibility but also deepened chal-
+lenges around financial stability, health insurance, 
+and other essential benefits.
+Meanwhile, rising costs in New York are colliding 
+with growing competition elsewhere. Cities like Atlanta, 
+as well as international hubs such as London and  
+Budapest, have become increasingly attractive for film 
+and television production, offering lower costs, robust 
+local talent, and strong public incentives. As New York’s 
+affordability crisis worsens, more creative workers 
+and companies are choosing to build careers and 
+businesses elsewhere, or shift more of their buying 
+and spending to other places.
+New York’s arts ecosystem faces 
+new and growing threats
+New York’s arts ecosystem is inseparable from the 
+city’s identity and essential to its civic life. It animates 
+neighborhoods, brings people together across lines of 
+difference, and strengthens local economies—from 
+filling restaurants and hotels to supporting thousands 
+of small creative businesses in every borough. But  
+after years of mounting costs, uneven audiences,  
+and intensifying competition, this ecosystem is under 
+serious strain. Without new solutions, these challenges 
+will erode not just the city’s cultural vitality but a key 
+pillar of its civic and economic resilience.
+The affordability crisis for artists  
+has reached a breaking point.
+New York’s affordability crisis has reached a breaking 
+point for the city’s creative workforce. Even though 
+creative economy workers here earn higher nominal 
+wages than their peers elsewhere, after adjusting for 
+the cost of living they earn about 22.6 percent less 
+than the national average—a gap that has widened 
+from 15 percent a decade ago. 7 Meanwhile, asking 
+rents have surged nearly 40 percent across Brooklyn, 
+Queens, and the Bronx since 2019—forcing many  
+artists to choose between housing and studio space.8 
+To afford market rents in the Bronx, residents would 
+need to earn more than $120,000 a year, more than 
+double the typical artist’s income.
+Neighborhoods that long anchored the city’s  
+creative life are now losing artists at alarming rates. 
+Since 2018, the artist population has fallen 5 percent 
+in Bushwick, 17 percent in Harlem, and 18 percent in 
+Chelsea and Hell’s Kitchen, as median asking rents 
+have jumped more than 30 percent.9 Some neighbor-
+hoods have seen even steeper declines over the past 
+decade: the artist population on the Upper West Side 
+has fallen by nearly one-third, and on the Lower East 
+Side it has plunged 55 percent while rents rose 46 
+percent. Meanwhile, over the past decade, U.S. cities 
+have created more than 2,800 units of dedicated  
+artist housing—with another 1,200 approved or under 
+construction—and not a single one is in New York City.
+At the same time, cities like Austin, Nashville, and 
+Atlanta now offer something new: real opportunities in 
+thriving creative sectors, paired with far lower costs of 
+living. For many artists and creative professionals, 
+8
+Creatives shift towards freelance work
+While workers employed in businesses in creative industries decline post-pandemic, 
+self-employment and independent artists surge
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+Adjusted for NYC's high costs, creative workers earn less than the U.S. median
+Creative workers in New York now earn 23 percent less than the national hourly  
+median wage, down from 15 percent less a decade ago
+ 
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. The figures above represent the weighted average of median 
+hourly wages of creative occupations. This calculation was based on Brooklyn's cost of living. Created with Datawrapper
+
+9
+CREATIVE NEW YORK 2025
+that combination has become impossible to ignore—
+and New York is feeling the consequences. “We need 
+New York to be a place that people want to come and 
+build,” says Ben Lerer, managing partner of VC firm 
+Lerer Hippeau. “The pain of living in New York needs to 
+be outweighed by the value of community and the  
+cultural richness of living here. It’s about safety and 
+affordability, but also keeping the city interesting, fun, 
+and cool, where diversity is celebrated.”
+Audience habits have changed, and  
+the pandemic recovery remains uneven.
+Even before COVID-19, streaming and shifting leisure 
+habits were reshaping how New Yorkers engage with 
+culture. The pandemic dramatically accelerated those 
+changes—and five years later, many organizations are 
+still feeling the effects. Broadway attendance has  
+returned roughly to pre-pandemic levels, but other  
+institutions continue to face volatility. The Guggenheim 
+Museum welcomed 766,000 visitors in 2024—down 
+one-third from 2019. And while the 39 members of 
+the city’s Cultural Institutions Group saw record atten-
+dance in FY2024, overall visits still fell 9 percent  
+last year, reflecting the broader instability that many 
+organizations are experiencing.
+At the same time, high ticket prices—often neces -
+sary to offset rising production and operating costs—
+are straining audiences as New Yorkers grapple  
+with day-to-day affordability challenges. It’s not just  
+Broadway or Madison Square Garden: at small venues 
+in Bushwick or Greenpoint, a ticket to see a new band 
+that cost $15 before the pandemic might now be $35, 
+and an intimate off-Broadway performance can easily 
+top $100. For many residents, live performance has 
+shifted from a regular part of city life to an occasional 
+luxury—with significant consequences for venues and 
+presenting organizations of all sizes.
+Costs for venues and organizations have  
+gone through the roof—led by insurance.
+It has always been hard to survive as an arts and  
+culture organization in New York City, but today the 
+costs of staying open are spiraling out of control. From 
+insurance and wages to rent and utilities, expenses 
+have surged since the pandemic. “New York is just  
+so freaking expensive,” says Sade Lythcott, CEO of  
+the National Black Theatre. “It’s more expensive to  
+produce shows. It’s more expensive to retain staff. 
+And the city in general—with inflation and cost of living 
+increases across the board—is more expensive to live in.”
+Insurance premiums, in particular, have become 
+punishing. At Barbès, the beloved Brooklyn music  
+venue, annual insurance costs have jumped from 
+$4,000 to $22,000 over the past decade. Others have 
+faced even steeper hikes: TBA Brooklyn, a now-closed 
+Williamsburg club, saw its premiums soar from 
+$25,000 to $125,000 before shutting its doors. 10 
+New York’s high cost of insurance is driven in part by 
+the city’s unusually high volume of lawsuits and liability 
+claims. The Partnership for New York City reports that 
+premiums here average about 15 percent higher than 
+the national rate, with liability claim costs more than 
+six times the U.S. average. Survey data shows that  
+insurance has become the second-biggest cost  
+concern for bars and restaurants—just behind labor—  
+a challenge all too familiar to nightlife venues, concert 
+halls, and other performance spaces.
+Funding isn’t keeping up—and too often,  
+it’s not arriving on time.
+While costs are rising and revenues are down, public 
+and philanthropic funding has not kept pace. The New 
+York State Council on the Arts’ FY2025 budget for 
+general operating grants—the most flexible and vital 
+form of aid—is about $87 million, up from 2019 but 
+still down 35.9 percent from its 1990 peak after  
+adjusting for inflation. At the same time, New York City 
+is home to a record 5,523 cultural nonprofits—up  
+32 percent over the past decade—meaning far more 
+organizations are competing for a relatively flat pool of 
+public and private dollars.
+While the Department of Cultural Affairs has 
+achieved historic gains, including a record $246.5  
+million in support for arts organizations and a perma -
+nent baseline increase, it still accounts for less than 
+one-quarter of one percent of the city’s budget and 
+cannot alone address the structural challenges  
+reshaping the sector. Federal support is also eroding. 
+The National Endowment for the Arts awarded $15.7 
+million to 446 New York City groups in 2024, but many 
+have since lost funding as the Trump administration 
+moves to dismantle arts and culture programs—  
+continuing a 48.4 percent decline in federal arts  
+funding to the region over the past 15 years.
+Meanwhile, philanthropic priorities are shifting as 
+major foundations redirect resources toward social 
+10
+services and shoring up the safety net in response to 
+federal cuts. This shift has left the arts especially  
+vulnerable—once again struggling to be seen as  
+essential to the city’s well-being, even though the  
+pandemic proved how vital culture is to recovery and 
+resilience. “We are starting to see the erosion of foun-
+dation funding available to the arts, more drastically  
+in the last two years,” says Lucy Sexton, executive  
+director of New Yorkers for Culture and Arts.
+Compounding these challenges, many arts non -
+profits simply aren’t getting paid on time. While late 
+payments to human services organizations have drawn 
+long-overdue attention, arts organizations face the 
+same problem—often with even less visibility. The  
+city comptroller reports at least $1 billion in unpaid 
+invoices across human services agencies, but that  
+figure excludes the Department of Education, where 
+many arts groups experience some of the longest  
+delays, as well as the Department of Cultural Affairs, 
+whose contracts are not included in those tallies. 11 
+When payments are held up, smaller organizations 
+that depend on city contracts are forced to take on 
+debt, cut staff, or scale back programs just to stay 
+open. “It’s really devastating to smaller groups,” says 
+Risa Shoup, co–executive director of the Alliance of 
+Resident Theatres/New York. “They rely disproportion-
+ately on public funding because they don’t meet the 
+threshold for private philanthropic support—and they 
+need those contracts to come through quickly.”
+Federal threats and culture-war politics are 
+adding new uncertainty. 
+After weathering the pandemic, New York’s arts and 
+creative sector now faces new threats from Washington. 
+The Trump administration has begun slashing federal 
+funding for arts and culture, putting at risk a vital 
+source of support for hundreds of city institutions. The 
+National Endowment for the Arts (NEA) has already 
+pulled grants from organizations including the Classical 
+Theatre of Harlem ($60,000) and the Trisha Brown 
+Dance Company ($40,000).12 These cuts are the latest 
+in a decade-long decline in federal arts funding, and 
+the entire NEA budget is now under threat.
+At the same time, a new federal policy requiring 
+NEA applicants to be reviewed for compliance with the 
+president’s executive order on so-called “gender ideology” 
+poses specific risks for LGBTQ+ arts organizations  
+and raises broader concerns about free speech and 
+artistic expression (though a recent federal court ruling 
+found the restriction unconstitutional, a decision the 
+government could still appeal). At the same time, a new 
+federal policy requiring NEA applicants to be reviewed 
+for compliance with the president’s executive order on 
+so-called “gender ideology” poses specific risks for 
+LGBTQ+ arts organizations and raises broader concerns 
+about free speech and artistic expression. And the  
+impact extends beyond funding: federal actions have 
+dampened international tourism, including a sharp drop 
+in visitors from Canada—one of New York’s largest 
+tourist markets—and made it harder for foreign artists 
+to secure visas or feel safe traveling to the U.S. 13  
+Together, these developments threaten not only  
+the city’s arts institutions but the broader creative 
+economy that depends on cultural exchange and  
+global engagement.
+New York City’s creative industries 
+are also at risk 
+New York’s for-profit creative sectors—film and televi-
+sion, advertising, design, fashion, architecture, and 
+more—have been hit hard by pandemic-era disruptions 
+and are now grappling with deeper structural shifts. 
+While jobs have partly rebounded, many industries  
+remain under severe strain as costs rise, technologies 
+evolve, and competition intensifies.
+Rising costs are squeezing firms at every level—
+but the biggest pressure point is people. 
+The cost of hiring and retaining creative talent has 
+soared as rents, childcare, and everyday expenses 
+make it harder for workers to stay in New York, even 
+on solid salaries. Employers say they are losing mid-ca-
+reer staff to more affordable markets, from Atlanta 
+and Denver to Philadelphia and Austin, while rising 
+compensation expectations make it difficult to expand 
+payrolls or invest in new projects. Facing both higher 
+labor costs and clients demanding leaner budgets, 
+many firms are rethinking where they hire—and where 
+they grow.
+Technological change is  
+transforming the landscape. 
+Automation and AI tools are upending traditional  
+creative roles, particularly in advertising and design, 
+11
+CREATIVE NEW YORK 2025
+where influencer-driven content and algorithmic 
+branding have replaced many labor-intensive campaigns. 
+Streaming has also reshaped film and television,  
+reducing the number of large-scale productions that 
+once anchored local crews.
+Global and domestic competition is intensifying. 
+Cities like Atlanta, Austin, and Los Angeles are investing 
+heavily in creative infrastructure, offering tax incen -
+tives and lower costs to lure production. Internationally, 
+Seoul, Shanghai, and Copenhagen have emerged as 
+new fashion powerhouses, while Toronto, Vancouver, 
+Budapest, and Prague are booming as production hubs. 
+New York’s creative dominance is no longer guaranteed.
+Nowhere are the stakes higher than  
+in the rise of artificial intelligence. 
+No city is more exposed to AI’s impact on creative 
+work than New York, home to both the nation’s largest 
+concentration of artists and a rapidly growing AI sector. 
+Generative AI is cutting costs but also threatening jobs 
+as companies automate tasks once handled by writers, 
+designers, and musicians. Yet it is also fueling new 
+creative frontiers—from Marc da Costa’s interactive  
+installation The Golden Key at the Brooklyn Academy 
+of Music (BAM) to Eunsu Kang’s AI-driven visual  
+experiments and exhibitions at the Museum of  
+Modern Art (MoMA), the Guggenheim, and the Whitney 
+Museum of American Art. The challenge for New York is 
+to ensure that these breakthroughs spark new creative 
+possibilities rather than hollow out the city’s creative 
+middle class. 
+Renewing New York City’s  
+creative spark
+New York’s creative sector stands at a crossroads. 
+Without bold, coordinated action, the city risks losing 
+the artists, organizations, and creative businesses 
+that help power its economy and define its identity.
+To realize this vision, city and state policymakers 
+will need to go further—integrating the arts into eco -
+nomic development, transportation, and public space 
+initiatives. That means expanding creative placemaking 
+through New York City Department of Transportation 
+(NYC DOT) plazas, growing public art partnerships with 
+Parks, ensuring affordable arts spaces through New 
+York City Economic Development Corporation (NYCEDC) 
+projects, resourcing the promising Create in Place  
+program, and fully implementing the city’s Percent for 
+Art law across its vast capital program.
+This report lays out a series of recommendations 
+to help artists not just survive but thrive in New York 
+City over the next decade. To do so, city government 
+should invest in and build deeply needed housing to 
+improve overall affordability, while integrating an artist 
+preference into affordable housing programs. It should 
+partner with nonprofits to raise wages for arts workers, 
+expand access to health coverage, and pilot portable 
+benefits for freelancers and independent artists.  
+At the same time, the city should launch a pooled  
+insurance program to help small cultural venues  
+and nonprofit theaters manage soaring costs, while 
+directing agencies beyond DCLA—including NYCEDC, 
+NYC DOT, NYC Parks, and Small Business Services—  
+to fully integrate the arts into their economic develop-
+ment, transportation, and public space work. Finally, 
+New York should launch the city’s first-ever five-borough 
+cultural festival to celebrate local talent, while expanding 
+public art and cultural programming in schools, libraries, 
+parks, subway stations, and senior centers.
+Together, these actions would move New York  
+beyond recovery—toward a stronger, more equitable 
+creative future in which artists, cultural organizations, 
+and creative businesses are recognized not as  
+amenities, but as essential infrastructure for the city’s 
+continued vitality.
+12
+Section 2: Creativity as a Catalyst  
+for New York’s Economic Future
+DESPITE MOUNTING CHALLENGES, THE CREATIVE  
+sector remains one of the largest and most important 
+parts of New York City’s economy. It accounts for more 
+than 7 percent of all private sector employment in the 
+five boroughs, but even that greatly undercounts its 
+vital role in today’s economy. No other industry has 
+more of a catalytic effect: the cultural and creative 
+sector serves as a key driver of the city’s now-massive 
+tourism economy, it sparks the in-migration of highly 
+educated workers and entrepreneurs in fields from  
+finance to tech, and it has helped spark equitable  
+economic growth in communities from East Flatbush 
+to Jamaica. And no other part of the economy contrib-
+utes more to the city’s vibrancy and unique identity, 
+helping New York stay steps ahead of other cities even 
+as several factors—from the city’s rising cost of living 
+to the growth in chain retail—threaten to chip away at 
+New York’s advantages over other places. 
+The size and scope  
+of NYC’s creative sector
+Our analysis shows that the city’s creative workforce 
+totaled 326,093 in 2024. This includes 241,735 
+workers employed at businesses and nonprofits in the 
+ten industries that make up New York’s creative core 
+(performing arts, visual arts, independent artists,  
+advertising, applied design, architecture, film and tele-
+vision, media streaming and broadcasting, music  
+production and publishing), 46,065 self-employed 
+workers in creative industries, and 38,293 creative 
+workers employed in non-creative industries. 
+While a single industry—film and television—  
+accounts for nearly a third of all jobs in LA’s creative 
+sector, New York City’s is marked by an astounding  
+diversity of creative fields. Nine of the ten industries 
+that make up the city’s creative economy have at least 
+18,000 jobs here, led by film and television (47,453), 
+media streaming (46,520), and advertising (44,830). 
+New York boasts unparalleled occupational diver-
+sity in its creative sector. In 2024, the city was home 
+to 15,203 people employed as editors, 13,765 graphic 
+designers, 10,394 writers and authors, 9,325 musicians 
+and singers, 8,231 art directors, 7,972 architects, 
+6,453 photographers, 6,399 actors, 5,309 fashion 
+designers, 4,888 interior designers, 4,629 fine artists, 
+2,094 craft artists, and 1,236 dancers.
+A vibrant sector that is  
+expanding in innovative ways
+This report documents a number of serious challenges 
+and threats facing the creative sector, but there is also 
+tremendous growth and momentum. Across the five 
+boroughs, new cultural spaces are opening, creative 
+businesses are expanding, and artists continue to  
+define what’s possible in the city that has long  
+inspired them—while once again bringing New Yorkers 
+together in the face of adversity.
+The energy is visible nearly everywhere. The Bronx 
+Music Hall—the borough’s first major independently 
+owned cultural venue in more than 50 years—opened 
+its doors alongside a surge of new micro-galleries 
+from the South Bronx to Chinatown and Bushwick. 
+Ridgewood now boasts its first new movie theater in 
+decades, launched by documentarian John Wilson. 
+Electronic music is booming again, with the number 
+of working DJs doubling citywide as venues like  
+Nowadays, Public Records, and Basement have  
+fueled a nightlife resurgence. Meanwhile, ArtBuilt has 
+created more than 50,000 square feet of below-mar -
+ket studio space at the Brooklyn Army Terminal, the 
+People’s Theatre Project has broken ground on a new 
+multidisciplinary arts center in Inwood, and the  
+Studio Museum in Harlem has reopened after an 
+eight-year renovation.
+The creative economy is also expanding and diver-
+sifying geographically. Over the past decade, cultural 
+nonprofits have grown 73.8 percent in Queens, 67.5 
+percent in the Bronx, and 55 percent in Brooklyn, 
+while the number of creative businesses in Brooklyn 
+alone has more than doubled. Altogether, the city is 
+13
+CREATIVE NEW YORK 2025
+Total Workers in NYC's Creative Industries
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+NYC's Creative Workforce: 2004 – 2024
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+
+14
+Total Workers in NYC's Creative Sub-Industries 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+
+15
+CREATIVE NEW YORK 2025
+now home to a record 16,911 creative business loca-
+tions—up 6 percent since 2019 and 13.4 percent over 
+the past decade, outpacing overall business growth.
+Brooklyn alone now has 60,201 artists who call 
+the borough home. That’s more than the total for  
+Seattle (58,298) and San Francisco (41,012), nearly 
+double the number of artists living in Austin (30,754), 
+and well over twice the number living in Nashville 
+(26,312), Portland (21,404), and Philadelphia (20,701). 
+Even factoring in job losses since the pandemic, 
+New York City’s creative workforce has grown 24.6 per-
+cent over the past 20 years, far outpacing employment 
+growth in many of the city’s other leading industries, 
+including finance and insurance (which grew by 12.9 
+percent), retail (which increased by 7.5 percent), and 
+legal services (which was unchanged).
+Some of the strongest gains have come in fields 
+tied to new media and creative technology. Music  
+production jobs are up 16.4 percent since 2015,  
+reflecting both the city’s unparalleled concentration 
+of recording studios and the growing demand from 
+podcasting, content creation, and digital media. The 
+number of DJs has increased by 14.1 percent since 
+2019, and by 106.8 percent over the past decade, 
+fueled by the city’s vibrant nightlife scene. The city 
+has also seen increases in the number of fine artists 
+(up 13.5 percent since 2019), special effects artists 
+and animators (8.3 percent), and authors and writers 
+(1.9 percent). 
+There are also several emerging areas of growth 
+across the city’s creative sector, including:
+Podcast Production
+New York has become a national hub for audio story -
+telling and podcast production. Leading companies 
+like WNYC Studios, Pushkin Industries, Gotham  
+Productions, and Blue Chalk produce some of the 
+most popular and acclaimed podcasts globally. In the 
+first quarter of 2025, New York–based producers were 
+responsible for 22 percent of the shows on Edison  
+Research’s Top 50 Podcasts in the U.S. , including  
+The Daily, This American Life, Radiolab, and Serial.14 
+While the podcasting industry has gone through a  
+period of consolidation and layoffs at major media 
+firms, New York City remains its creative and technical 
+epicenter—sustained by a deep pool of production  
+talent, studios, and global media connections.15
+Maker Economy
+Since Etsy’s founding 20 years ago, New York City’s 
+maker economy has flourished—spanning everything 
+from handmade crafts and small-batch manufacturing 
+to artisanal food products and design goods. Over the 
+past decade, employment among craft artists has 
+surged by 62.5 percent, one of the fastest growth 
+rates of any creative occupation.
+Today’s New York–based makers are building 
+global brands while maintaining roots in the city’s arts 
+community and broader creative economy. Brooklyn-  
+founded APOTHEKE—launched by Chrissy Fichtl, an 
+FIT graduate who began experimenting with soap-mak-
+ing in her Brooklyn kitchen—sold 100,000 candles in 
+2022 and is now carried by more than 600 major  
+retailers worldwide.16 She’s joined by a growing cohort 
+of artist- and designer-led studios shaping the city’s 
+maker economy—like Franca NYC, a Brooklyn ceramics 
+studio whose hand-built pieces are now stocked by  
+retailers nationwide, and Cold Picnic, a Queens- and 
+Brooklyn–based textile design duo whose small-batch 
+rugs and home goods have developed a cult following. 
+Across the five boroughs, local vendors showcase 
+their work at a growing number of markets like the 
+Renegade Craft Fair, the Queens Craft Brigade—which 
+just celebrated its eighth anniversary—and Cottage 
+Row Curiosities in Staten Island’s Snug Harbor, 
+launched in 2021.17
+Creator Economy 
+The creator economy—made up of social media influ -
+encers and online content creators who turn clicks 
+and views into income—is a relatively new addition to 
+New York City’s creative ecosystem. According to Influ-
+encity, 1.2 million influencers lived in New York State 
+in 2022—second only to California’s 2.1 million—but 
+the gap has narrowed sharply in recent years as  
+creators continue to flock to the Big Apple.18 Seven of 
+the top 25 creators on Rolling Stone’s 2025 list live in 
+New York City—matching California’s total.19
+As the landscape of work and marketing contin -
+ues to evolve, the creator economy is becoming an  
+increasingly important part of New York’s broader  
+creative ecosystem—one that has the potential to  
+support neighborhood businesses and local culture, 
+and provide new income streams for artists and entre-
+preneurs alike. 
+16
+Cultural nonprofits grow by a third over the last decade
+Including a 13 percent increase since 2019
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+NYC's biggest competitive edge
+The creative sector in New York City has a bigger share of national jobs  
+than most other major industries
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+17
+CREATIVE NEW YORK 2025
+Culture Sparks Lasting  
+Economic Growth
+Key to New York City’s tourism economy 
+Arts and culture are the backbone of New York City’s 
+$74 billion tourism economy—and one of its most 
+powerful sources of tax revenue and job growth. In 
+2024, the city welcomed nearly 64 million visitors, 
+nearly matching the pre-pandemic record, with tour -
+ism expected to surpass 68 million in 2025. Driving 
+that recovery is New York’s unmatched cultural land-
+scape: 29 million visitors attended a museum, gallery, 
+theater, or other cultural site last year, and nearly 
+three-quarters of international travelers said they 
+came specifically for arts and culture.
+That cultural pull has helped revive surrounding 
+industries—hotels, restaurants, retail, and nightlife—
+that together sustain hundreds of thousands of jobs. 
+“Culture is really a major draw for tourists to New York 
+City,” says Julie Coker, president and CEO or NYC  
+Tourism + Conventions. 
+Beyond the city’s many museums and theaters, 
+the city’s creative vibrancy animates neighborhoods—
+from music festivals in the Bronx to galleries in  
+Ridgewood and dance venues in Harlem—ensuring 
+that the benefits of tourism ripple far beyond Midtown  
+and Manhattan.
+A magnet for talent and  
+a vital competitive advantage
+In today’s mobile, talent-driven economy, New York’s 
+arts and culture ecosystem is one of the city’s great -
+est competitive advantages. As remote work gives 
+more people the freedom to live anywhere—and  
+as the cost of living continues to rise—it’s the city’s  
+creative energy and unmatched ecosystem of cultural 
+assets that enables New York to continue attracting 
+people from across the country and around the 
+globe—and keeps people from leaving. From its  
+theaters and galleries to its nightlife and design 
+scene, the creative ecosystem is an outsized part of 
+what makes New York worth the struggle.
+A 2023 Partnership for New York City survey found 
+that nearly two-thirds of private-sector employees 
+ranked arts and entertainment among the top reasons 
+they want to stay in New York—second only to the city’s 
+restaurants. “Young people want to work at a cool 
+company, but mostly it's the dynamic and constantly 
+changing cultural and entertainment offerings of the 
+city,” says Merrill Pond, executive vice president for  
+research and policy at the Partnership. "Talented young 
+workers can choose placements almost anywhere in 
+the world. And New York is always the number one 
+pick.”
+Increasingly, workers aren’t just seeking jobs—
+they’re seeking communities where life and work  
+intersect. “If you think of Brooklyn as the quintessential 
+live–work–play model, the arts community is what 
+makes much of the ‘play’ possible,” says Brooklyn 
+Chamber of Commerce president and CEO Randy Peers.
+Arts colleges as economic engines 
+New York’s world-class art and design schools don’t just 
+educate artists—they power the city’s creative economy. 
+These institutions attract talent from around the world, 
+create thousands of jobs, and sustain a steady pipeline 
+of creative workers for the city’s industries.
+No other place matches New York’s concentration 
+of art schools. In fact, New York City boasts five colleges 
+and universities among the nation’s 30 best graduate 
+schools for fine arts, according to U.S. News and World 
+Report: Columbia University (#10), New School—Par -
+sons School of Design (#15), Pratt Institute (#15), 
+School of Visual Arts (#23), and CUNY—Hunter College 
+(#23). Los Angeles is the only other city with more 
+than one school in the top 30 (it has two). 
+Employment at New York City’s art schools has 
+grown 23.2 percent over the past decade—from 7,620 
+to 9,387—and now supports more jobs than the city’s 
+entire graphic design or newspaper industries. Mean-
+while, demand keeps rising: Pratt Institute enrolled its 
+largest-ever painting and drawing classes last fall—
+both with waiting lists—and applications to Parsons School 
+of Design have jumped 64 percent since 2016.20
+Graduates of these programs are helping to sus -
+tain and diversify New York’s creative ecosystem—
+from exhibiting fine art to launching tattoo studios, 
+galleries, fashion brands, and design firms. At LaGuardia 
+Community College, students are taught not only to 
+hone their craft but to navigate the realities of New 
+York’s creative economy and think entrepreneurially. 
+“Students know the quantity of opportunity is greater 
+here, even though the hustle is harder,” says Dahlia 
+Elsayed, director of LaGuardia’s fine arts program
+18
+Export powerhouse, global brand
+New York may be the world’s financial capital, but its 
+most influential exports come from the creative economy. 
+From fashion and film to publishing, advertising, and 
+design, the city’s creative industries shape culture—
+and drive commerce—on a global scale.
+In 2023, art exports from the New York metropoli-
+tan area totaled roughly $8 billion, making it the city’s 
+second-largest export by value after jewelry and  
+precious gems, according to the U.S. International 
+Trade Administration. From Chelsea galleries and  
+Midtown auction houses to independent studios in 
+Brooklyn and the Bronx, New York’s creative output 
+reaches every corner of the world.
+These industries aren’t just exporting culture, 
+they’re fueling growth at home. Creative businesses 
+have been central to Brooklyn’s economic renais -
+sance, adding more than 2,100 new firms since 2014. 
+“We’re facilitating the creative economy in our own 
+way,” says Randy Peers, president of the Brooklyn 
+Chamber of Commerce. “Visitors from across the 
+country and around the world want to experience 
+Brooklyn—it’s become a brand in itself.” 
+That global brand power extends citywide. From 
+the I Love New York logo to skylines immortalized on 
+screen and the sounds that have shaped genera -
+tions—from hip hop and salsa to electronic cumbia 
+and drill—the city’s creative output has defined New 
+York’s image for decades. Even for those who have 
+never set foot here, “New York” signals imagination, 
+hustle, and reinvention—an identity inextricably tied to 
+its creative sector.
+Scene from HILDEGARD by Sarah Kirkland Snider, directed by Elkhanah Pulitzer which will premiere in NYC in 2026 at the PROTOTYPE Festival. 
+Photo by Angel Origgi
+19
+CREATIVE NEW YORK 2025
+Section 3: NYC’s Artists and the Arts  
+Confront Major Challenges 
+Costs are rising much faster than wages, 
+squeezing artists out
+Artists in New York have long struggled to achieve  
+financial security. But by working a part-time job as  
+a waiter, editor, substitute teacher or some other side 
+gig, many artists were able to devote sufficient time  
+to their art while earning enough to make ends meet. 
+Over the past few years, artists say, the calculus has 
+shifted in New York—costs have far outpaced artist  
+income. Many have had to take on second or third 
+jobs just to afford the city’s skyrocketing costs, leaving 
+scant time to dedicate to their art. 
+“ I think there is a bit of back-of-the-envelope  
+math that every artist here does,” says Moe Yousuf,  
+president and CEO of the Lower Manhattan Cultural 
+Council. “‘How long can I do this before I need to get a 
+full-time job?’ Or, ‘I’m working five jobs right now—how 
+long before my artistic practice stops being fundamental, 
+Brooklyn is home to the most working artists in the city
+Employed artists
+Source: Center for an Urban Future analysis of data from the 2023 American Community Survey 5-Year Estimates.  
+Created with Datawrapper
+
+20
+and I need to leave New York City?’ There are so many 
+talented artists who stop making work because of that.”
+Roughly a decade ago, creative workers in New 
+York earned 15 percent less than national average. 
+Today, thanks to the city’s fast-rising cost of living and 
+flat incomes, they make 23 percent less. The median 
+hourly wage for musicians and singers in the city is 
+$10.28 less than the national average. For dancers, it 
+is $6.63 less. For actors, it is $3.75 less. 
+Across dozens of interviews, artists described the 
+rough calculations that dictate their lives—and how  
+increasing costs, stagnant arts-related income, and 
+diminishing institutional support have pushed even 
+the most resourceful to a breaking point. 
+“If any one of those funding pipelines is slow or 
+atrophies, your livelihood is at risk,” says Rasu Jilani, 
+executive director of the Brooklyn Arts Council. “That 
+is a reality for most artists in the ecosystem. They are 
+walking the tightrope of affordability and livability in 
+New York City.”
+Soon after Jesús Benavente moved to New York City 
+in 2013 after earning an MFA at Rutgers University, he 
+realized that piecing together income would become a 
+full-time job in itself. That challenge has become nearly 
+impossible as costs have soared. His practice of 
+rasquachismo—“cobbling things together to make it 
+work” in the Chicano way—extends beyond his art into 
+how he earns a living. He teaches a class once a week 
+(about $300), works as an art handler, picks up jobs 
+on TaskRabbit, and applies for grants and residencies 
+whenever he can. But this constant hustle is no longer 
+adding up.
+“Before, I was like, ‘If I live really cheaply, cut all 
+the corners, I can get away with $2,000 a month.’  
+I would be okay enough to survive. But inflation really 
+messed up the game plan,” Benavente says. “It’s just 
+no longer the case. Now I need $3,500 a month.”
+When faced with potential financial shortfalls,  
+artists feel pressured to accept any gig or project. 
+Many have expressed the need to work more—what 
+was once a part-time hustle has now become a full-time 
+job—to earn enough money to live and create.
+After finishing graduate school, Zalika Azim, 34, a 
+Brooklyn-born multimedia artist, “daisy-chained” a  
+series of adjunct teaching positions at art schools to 
+make money. Those adjunct roles—paying between 
+$9,000 and $12,000 per semester—were nowhere 
+near enough to cover rent, living expenses, and studio 
+costs in New York. She took a full-time job to offset 
+that gap. “My days are usually 5 a.m. to 11 p.m.,” she 
+said, completing studio admin before her 9-to-5 and 
+working on a six-month residency after hours. “I do 
+feel like that’s really, deeply impacted my ability to be 
+present in my practice.”
+Those who want to stay in New York and continue 
+making their art describe their lives as a series of 
+compromises and sacrifices. David Kennedy-Cutler, 
+45, credits his ability to live in the city to the relative 
+stability of his long-term lease in East Williamsburg 
+and his independent art-installation business. “The 
+reality is that I have to do something else to cover those 
+expenses,” he says. He estimates that 80 percent of 
+his income comes from art handling and 20 percent 
+from selling his art. For Kennedy-Cutler and his wife, 
+who also works in the arts, the trade-off is clear: 
+“There’s no chance, really, for us—with the money that 
+we make every year—to raise a family and also continue 
+to do the jobs that we do.”
+It’s little wonder, then, that New York City’s resi -
+dent artist population is declining. Kahlil Robert Irving, 
+32, is among those who’ve left. He moved back home 
+to St. Louis, Missouri, in 2020 for personal reasons 
+and because rent had become untenable—despite a 
+series of professional successes, including works  
+exhibited at the Museum of Modern Art (MoMA),  
+the New Museum Triennial, and the Whitney Museum 
+of American Art. The move brought peace of mind,  
+he says, but also distance from the networks and  
+institutions that once fueled his career.
+Housing is the biggest challenge, by far
+New York City’s housing crisis is no secret—but its  
+impacts are especially severe for the creative workforce, 
+whose incomes have failed to keep up with the city’s 
+skyrocketing rents. Over the past decade, median 
+household rent in New York City increased 42 percent, 
+while the median income for workers in creative indus-
+tries grew just 25 percent—far below the citywide gain 
+of 44 percent.21
+The gap is even wider for artists. According to an 
+analysis of data from a statewide survey conducted by 
+Creatives Rebuild New York, nearly 90 percent of New 
+York City artists earned less than $50,000 in 2022—
+well below the city’s $57,000 median income.22 
+“Artists can’t afford an average median rent  
+because there isn’t enough investment in the New York 
+City arts economy to achieve an average median  
+21
+CREATIVE NEW YORK 2025
+Creatives shift towards freelance work
+While workers employed in businesses in creative industries decline post-pandemic, 
+self-employment and independent artists surge
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+Adjusted for NYC's high costs, creative workers earn less than the U.S. median
+Creative workers in New York now earn 23 percent less than the national hourly  
+median wage, down from 15 percent less a decade ago
+ 
+ 
+Source: Center for an Urban Future analysis of data from Lightcast. The figures above represent the weighted average of median 
+hourly wages of creative occupations. This calculation was based on Brooklyn's cost of living. Created with Datawrapper
+
+22
+New York City's wage gap
+When adjusted for the city's high cost of living, the median hourly wage for creative workers 
+in NYC is less than the median for the country for every creative occupation analyzed
+ 
+ 
+ 
+ 
+This calculation was based on Brooklyn's cost of living. 
+Source: Center for an Urban Future analysis of data from Lightcast. Created with Datawrapper
+At the same time, creative employment is shifting  
+toward freelance and contract work: self-employment  
+in creative industries has grown 10.3 percent since  
+2019, and the number of independent artists, writers,  
+and performers is up 65.6 percent over the past  
+decade, creating greater economic insecurity
+23
+CREATIVE NEW YORK 2025
+Resident Artists by Neighborhood 
+ 
+ 
+ 
+ 
+ 
+ 
+Resident artists defined as those whose occupations include: Artists and related workers, Actors, Producers and  
+directors, Dancers and choreographers, Music directors and composers, Musicians and singers, Disc jockeys,  
+except radio, Editors, Writers and authors, Photographers
+Source: Center for an Urban Future analysis of data from the 2023 and 2013 American Community Survey 5-Year  
+Estimates. Created with Datawrapper
+
+24
+salary,” says Karesia Batan, founder of the Queensboro 
+Dance Festival.
+The result is visible across the city: fewer artists are 
+able to stay. “Over the years, as the cost of living goes 
+up here, more and more artists leave because they 
+can’t survive,” says Judith Insell, professional musician 
+and executive director of Bronx Arts Ensemble.
+ Sade Lythcott, CEO of the National Black Theatre, 
+puts it bluntly: “Without New York City bringing  
+back true affordable housing—bringing back the  
+artists preference, creating affordable workspaces  
+for artists—there really is no way for artists to maintain 
+a livelihood here.”
+Other cities have tackled this problem head-on. 
+Since 2015, cities across the U.S. have built more 
+than 4,000 new affordable artist housing units—but 
+New York has built zero. That’s a striking reversal from 
+the 1970s, when the city pioneered affordable artist 
+housing with Westbeth and Manhattan Plaza, two 
+models that remain iconic examples of how artist 
+housing can stabilize creative communities and revi -
+talize neighborhoods.
+That failure has ripple effects across the eco -
+system, especially for organizations serving under -
+represented artists. 
+“Keeping artists of color in the city and close to 
+each other has been key to their ability to create,” says 
+Lythcott. “No one can imagine a more innovative,  
+vibrant future than the artists. And if the artists can’t 
+live here, then this is no longer a city that’s viable for 
+all the reasons it’s unique and singular in the world.”
+Audiences have returned to New York’s 
+stages—but not in the same way. 
+Theaters, music venues, and cultural institutions have 
+seen their costs increase in recent years—for labor,  
+insurance, electricity, and other things. But at the 
+same time, revenues from ticket sales have taken a 
+big hit due to fundamental shifts in who is attending 
+live performances since the pandemic. The combination 
+of higher costs and lower earned revenue has left many 
+arts organizations financially vulnerable.
+“Post pandemic, audiences are unpredictable,” 
+says Alyssa Alpine, director of the CUNY Dance Initiative. 
+“It’s harder to get people to come out to see a live show 
+and you are counting on less earned revenue than you 
+did in the past.”
+ “Audiences are not returning to in-person programs 
+at the levels before the pandemic,” adds Sami Abu 
+Shumays, deputy director of Flushing Town Hall. 
+At the Nuyorican Poets Cafe, executive director 
+Caridad De la Luz recalls that in the 1990s, “the place 
+was packed,” but since the pandemic, “there’s only 
+been very few moments that that has happened.”
+Even before COVID-19, many organizations were 
+already seeing their “typical, reliable audience member 
+kind of aging out,” notes Sade Lythcott, CEO of the  
+National Black Theatre. “They’re not being replenished 
+at the same rate—and that’s been exacerbated 
+through the pandemic and growing incidents and  
+concerns around public safety.” The result is a younger 
+but far less predictable audience, reflecting both New 
+York’s affordability crisis and broader changes in how 
+people spend their time and money.
+At The Billie Holiday Theatre in Bed-Stuy, executive 
+director Shadawn Smith has seen those shifts first -
+hand. “Yesterday’s economy is not today’s economy,” 
+she says. “Yesterday’s price is not today’s price.” Long-
+time patrons—often older residents—expect ticket 
+prices to remain around $25, even as production 
+costs soar. A newer audience, largely in their 20s and 
+30s, is willing to pay more but expects an immersive 
+experience: music, drinks, and community. But with 
+higher production values, the gap between revenue 
+and expenses only grows. 
+“We’re seeing larger gaps in terms of our costs 
+and what folks are willing to pay,” says Smith. “And 
+with the instability and insecurity around institutional 
+funding, whether it’s from government or from philan-
+thropy, everybody is struggling and reevaluating.”
+Changing audience behavior has also disrupted 
+the economics of live performance. “Young people 
+don’t drink as much, which is very good—but not good 
+for an economy that is based on liquor sales,” says 
+Olivier Conan, founder of Barbès, a performance 
+space in Park Slope that opened in 2002. Meanwhile, 
+subscription models have faltered. “The challenge  
+today is getting people to commit,” says Michael Royce, 
+executive director of the New York Foundation for the 
+Arts. “People may decide not to go to a play, a symphony, 
+a ballet—they may decide to watch something on their 
+screen. Young people especially don’t want any controls 
+on their culture.”
+For many performing arts organizations, that  
+unpredictability makes planning nearly impossible. “If 
+people no longer wish to go out in the way they used 
+25
+CREATIVE NEW YORK 2025
+to, the vulnerability of putting together a dance piece 
+for one night becomes even more vulnerable,” Royce 
+adds. “Dancers and choreographers find it harder and 
+harder to do their work simply because they just don’t 
+know if anyone will show up.”
+At the same time, demand for cultural connection 
+has not disappeared—it has simply shifted. Toya Lillard, 
+executive director of 651 Arts, a hub for Black artists 
+in Fort Greene, points to overwhelming demand for 
+free and low-cost events. “BAM [has] a free music  
+series and they had 1,200 RSVPs for 300 spots,” she 
+says. “People do want the option to just not come, not 
+show up, and have no stakes involved.” Yet 651 Arts’ 
+own performances have been packed since opening 
+its new space in January 2025. “Our audiences, 
+they’re desperate for a reason to gather,” she says.
+Some organizations are responding by dropping 
+ticketing altogether, with the aim of replacing the  
+revenue with public and philanthropic funding. At Bronx 
+Arts Ensemble, executive director Judith Insell says 
+they realized they could serve Bronxites far better by 
+eliminating admission fees entirely. “It became very 
+clear that we had to get rid of the ticket to actually 
+serve the community. So our concerts are free.”
+But for many institutions, this new reality has  
+exposed longstanding fragilities. “It’s not a big secret 
+that COVID made a sector that was already unstable, 
+even more unstable,” says Leonard Jacobs, executive 
+director of the Jamaica Center for Arts and Learning. 
+“What it really revealed is the lack of sustainability in 
+the field.”
+Costs for performance venues and cultural 
+nonprofits have gone through the roof—led  
+by insurance
+Even as the challenges of the pandemic receded, the 
+economics of running a small venue or performing 
+arts organization have become nearly impossible.  
+Insurance costs, rent, wages, materials, and utilities 
+have all surged since the pandemic, and with audiences 
+still uneven, many organizations are caught in a losing 
+equation—spending more just to bring in less.
+For Dianna Mora, co-founder of the Brooklyn  
+music venue Friends and Lovers, every week is a  
+balancing act. Weeknight crowds have thinned, and 
+even weekend audiences are leaving earlier, forcing 
+her to add a third Saturday event just to stay afloat. 
+She still owes roughly $50,000 in back rent from the 
+shutdown years, and her insurance costs have tripled 
+since opening a decade ago.
+At Barbès, the beloved Park Slope bar and perfor-
+mance space, co-founder Olivier Conan says insurance 
+premiums have grown from $4,000 to $22,000 a 
+year—just one example of how expenses have spiraled.
+New data from ArtsPool—an organization that  
+provides workforce administration and financial  
+management support to small and mid-sized arts  
+nonprofits—underscores the widening gap: from 2019 
+to 2024, member organizations saw median revenue 
+rise only 2.2 percent while median operating expenses 
+climbed an astonishing 64 percent.
+Some venues have already buckled under the 
+pressure. Our Wicked Lady, a Bushwick music venue 
+that opened in 2015, recently closed its doors after 
+insurance costs more than doubled since before the 
+pandemic. Co-founders Keith Hamilton and Zach Glass 
+even scaled back programming in an attempt to man-
+age expenses, cutting youth events that would have 
+added roughly $50,000 in annual insurance costs.
+But insurance is just one piece of the problem.  
+“It costs about 50 percent more to put on a show  
+today than before the pandemic,” says Beth Morrison,  
+President and Creative Producer of Beth Morrison 
+Projects. “But with so many in our audience struggling 
+to afford this city, really everyone is suffering. So I really 
+feel there needs to be a massive intervention by the 
+city and the state.”
+While costs are rising and revenues are down, 
+public and philanthropic funding hasn’t filled  
+the gap 
+Given the widening gap between revenues and  
+expenses, public and philanthropic funding is more 
+vital than ever for New York City’s arts ecosystem. But 
+public funding has struggled to keep pace with an  
+expanding cultural landscape and growing needs—
+and philanthropic funding is shifting away from the 
+arts amid rising economic pressures and federal cuts 
+to social programs.
+While funding has grown at both the state and city 
+level, it has not kept up with the demands of a rapidly 
+expanding sector. The New York State Council on the 
+Arts (NYSCA), for instance, has a budget of about $87 
+million for operating grants—a critical source of gener-
+al operating support for cultural nonprofits statewide. 
+But even as funding has increased since 2020, NY -
+SCA’s operating grant budget has declined 35.9 per -
+cent since 1990 after adjusting for inflation.
+26
+At the city level, New York City’s FY2025 budget 
+includes $59.3 million for the Cultural Development 
+Fund, which provides operating grants to hundreds of 
+nonprofit arts groups. Yet these public dollars have 
+not kept up with the rapid growth in the number of  
+organizations. There are now more than 5,500 cultural 
+nonprofits citywide, and hundreds—if not thousands—
+of additional community groups without formal nonprofit 
+status. The number of cultural nonprofits has increased 
+32 percent citywide since 2014, including 55 percent 
+in Brooklyn, 68 percent in the Bronx, and 74 percent 
+in Queens.
+Even when grants are awarded, many arrive late or 
+inconsistently. “In the 20 years that I’ve directed, this is 
+the most variable and unreliable that I’ve seen in the 
+city,” says one executive director of a dance company. 
+Meanwhile, major private funders have begun to 
+scale back or shift priorities away from the arts—redi -
+recting resources toward social services, basic needs, 
+and other purposes in response to federal cuts. “We’re 
+actually losing funding for the arts , and we feel it 
+acutely,” says Karesia Batan, founder of the Queensboro 
+Dance Festival. “Funders are turning away from arts 
+and culture and funding other sectors—not in addition 
+to the arts, it’s instead of the arts. So that’s been  
+a looming problem that just continues to get a little  
+bit bigger.”
+Fortunately, some funders are stepping up  
+resources for the arts. For instance, the Howard  
+Gilman Foundation—New York City’s largest performing 
+arts funder—increased its grantmaking budget by $5 
+million in 2025. However, many other philanthropic 
+foundations are acting cautiously as they await the full 
+toll of federal funding cuts to New York’s social safety 
+net over the next 12 to 18 months. 
+With public and philanthropic dollars falling short 
+and arriving late, even established organizations are 
+operating on thin margins. For smaller arts groups,  
+especially those serving communities of color and 
+low-income neighborhoods, the loss of a single grant 
+can mean cutting programs—or closing altogether.
+It’s not just human services organizations that 
+are struggling to get paid on time by government—
+arts organizations aren’t getting paid, either. 
+New York City’s failure to pay nonprofits on time has 
+long plagued the human services sector, with at  
+least $1 billion in unpaid invoices owed to providers  
+contracted with just seven city agencies. But arts  
+organizations are facing the same problem—often 
+with even less visibility.
+“The city has notoriously not gotten out award  
+letters before December,” says Gail Nathan, former  
+executive director of the Bronx River Art Center. “That’s 
+half a year into the fiscal year. Not only do we not have 
+any money coming down the pike from the city to do all 
+our programming that we have to do starting July 1,  
+but we don’t even know what we’re going to get until 
+December.” She adds that payments can take months 
+after that: “Sometimes it’s in June—the end of the  
+fiscal year—and we still haven’t received the 80  
+percent upfront for the grants we were awarded the 
+previous July.”
+For smaller organizations that rely on city funding, 
+the consequences can be devastating. “Our contracts 
+are small, and especially in the scheme of New York 
+City, we shouldn’t have to wait months and months 
+and months to get the money,” says Risa Shoup,  
+co–executive director of the Alliance of Resident The -
+atres/New York. “It’s really devastating to smaller 
+groups, and smaller groups rely disproportionately on 
+public funding, because they don’t meet the threshold 
+for budget size for private philanthropic institutions, 
+and so they really need those public contracts to come 
+through and come through quickly.”
+The delays ripple across the ecosystem—from  
+artists waiting for grant checks to organizations  
+struggling to meet payroll. “It delays money to all of the 
+different artists, individuals that art supports, and 
+many organizations like myself that really depend on 
+these more accessible redistribution grants because 
+of the bureaucracy of applying for DCLA money,” says 
+STooPS Art & Community Founder/Director Kendra J. 
+Ross. “These delays are causing lots of uncertainty 
+and chaos. As a founder and director, how am I going 
+to pay my team? How am I going to pay myself?”
+The problem extends well beyond the Department 
+of Cultural Affairs. “Once you become a vendor [with 
+the Department of Education], you still have to go 
+through a bidding process,” says the executive director 
+of one dance company. “If you ask the Department of 
+27
+Education how long it takes, they tell you six months 
+from beginning to end. We’ve been at it for a year, and 
+we’re still not done with the price negotiation.”
+Other city agencies have also contributed to the  
+financial strain. “The Department of Transportation 
+said, no, you should invoice us after your final event,” 
+says Emily Vartanian of General Mischief Dance Theater, 
+which has hosted a series of free public performances 
+and movement lessons. “That means that, if we do 
+multiple events spread over four months, we are  
+expected carry that payroll for seven months or longer 
+before we receive payment which is not sustainable for 
+most small businesses, especially nonprofits.”
+“Agency contracts have been super late in recent 
+years,” adds Sami Abu Shumays, deputy director of 
+Flushing Town Hall. “That’s affecting a lot of organiza-
+tions in the city. So there are costs associated with 
+late contracts—people are fronting money that they 
+didn’t have to before.”
+Each delay forces arts organizations—many already 
+operating on shoestring budgets—to front payroll, take 
+on debt, or pause programs just to deliver the services 
+the city has contracted them to provide. For smaller 
+groups in particular, these chronic delays can mean 
+the difference between survival and closure.
+The actions of the Trump administration pose 
+unique threats to NYC’s creative sector
+An already difficult environment for New York City’s 
+creative community is being compounded by the  
+actions and policies of the Trump administration. 
+Sharp cuts to the National Endowment for the Arts, 
+rising hostility toward immigrants, and new barriers to 
+international travel all threaten to weaken the city’s 
+cultural ecosystem and global standing.
+In May 2025, arts organizations across the country 
+began receiving notices that their NEA funding would 
+be canceled or withdrawn. 23 The NEA had awarded 
+544 grants in New York State for FY2024, totaling 
+$15.8 million—at least 446 of them to New York City 
+organizations.24 A crowdsourced tracker maintained 
+by theater director Annie Dorsen estimates roughly  
+$6 million in NEA grants rescinded in the New York 
+area alone. (Fortunately, some organizations have 
+been able to spend down previously allocated funds or  
+petition for grants to be reinstated, although major 
+threats still loom on the horizon.) Cuts hit every corner 
+of the arts landscape, from literary magazines and 
+performing arts companies to education programs, 
+residencies, and flagship institutions like Central Park 
+SummerStage and the New York City Ballet.
+While larger organizations may be able to weather 
+the loss, smaller ones face existential consequences. 
+Triangle Arts Association, an artist residency active 
+since the 1980s, lost a $35,000 grant—17.5 percent 
+of its annual budget.25 The Trisha Brown Dance Com-
+pany lost $40,000 for a production set to premiere 
+weeks later. “We’re already working on this project,” 
+says executive director Kirstin Kapustik. “This money, to 
+my mind, had already been spent.”26 Leigh Mickelson 
+of Dances for a Variable Population, which also lost a 
+$40,000 grant, put it bluntly: “Nonprofits are used to 
+being scrappy. But this is kind of existential.”27
+At the same time, the administration’s punitive 
+immigration policies are making it harder for interna -
+tional artists to work in New York. Even before new  
+policies take full effect, legal fees and visa costs are 
+rising sharply. “Progressive changes were made in  
+artist immigration policy over the years of the Biden 
+Administration," says Matthew Covey, co-founder of 
+Tamizdat, a nonprofit that provides pro bono legal aid 
+to international artists. “Since the Trump administra -
+tion came into office, we are seeing their policies  
+consistently making the artist visa process harder, 
+more expensive, less reliable, and less equitable.”
+The situation is even more precarious for undocu-
+mented artists amid a surge in ICE arrests in New York 
+City.28 Some have withdrawn from public exhibitions or 
+performances entirely. At BronxArtSpace’s ¡Te Amo 
+Porque S.O.S. Pueblo!  exhibition this spring, several 
+invited immigrant artists declined to participate over 
+safety concerns, while organizers omitted last names 
+from credits to protect others. “We invited more than 
+45 artists and some of them did express a concern, 
+and that’s why they decided not to participate,” says 
+co-organizer Blanka Amezkua. Andrew Colwell of the 
+Center for Traditional Music and Dance recalled that a 
+community organizer he knew was stopped by ICE at 
+Port Authority: “There [are] people who don’t want to 
+even take the train [from Brooklyn] to go to Queens 
+because they’re afraid of being detained.”
+For many, this growing fear undermines the very 
+foundation of New York’s identity as a global capital of 
+culture. “It would be tasteless,” says artist Saavedra 
+when asked what New York would be like without immi-
+grant artists. “Who could live here if we’re not here?”
+CREATIVE NEW YORK 2025
+The same climate is discouraging international 
+performers and audiences. While no major wave of 
+visa denials has yet been recorded, Covey warns that 
+new travel bans could further limit mobility. “Protec -
+tionism is obviously not useful in [the cultural sector],” 
+he says, noting that New York stands to lose enor -
+mously if artists choose to perform elsewhere. Already, 
+Hungarian-British pianist András Schiff canceled  
+a performance with the New York Philharmonic, one  
+of several European artists boycotting the U.S. over 
+what he called Trump’s “brutal takeover” of the  
+Kennedy Center. 29
+International tourism is also taking a hit. New York 
+City Tourism + Conventions recently cut its 2025 fore-
+castby three million visitors, projecting 12.31 million 
+international travelers—down from 12.913 million the 
+year before and 13.5 million in 2019. 30 Those 13  
+million visitors accounted for nearly half of all tourist 
+spending across the five boroughs, even though they 
+represented only one-fifth of total visitors.31
+The decline is especially steep from Canada, the 
+city’s second-largest international market. Just 
+months into Trump’s second term, summer bookings 
+between major Canadian cities and U.S. destinations 
+dropped nearly 20 percent compared to the previous 
+year. At JFK Airport, arrivals from Canada fell 18.8  
+percent.32 Nationwide, New York lost nearly 25,000 
+airline seats from Canada in the second quarter of 2025 
+after Canada issued, then only partially softened, a 
+travel advisory warning its citizens to exercise “normal 
+security precautions” when visiting the United States.33
+These declines are not abstract. International 
+tourists are disproportionately important to New York’s 
+creative economy: they account for roughly 21 percent 
+of Broadway audiences 34 and help sustain 60 to 65 
+percent of jobs in the arts and entertainment sector.35 
+With production costs up roughly 50 percent since  
+before the pandemic, the loss of even a small share of 
+international spending could have significant conse -
+quences for venues, theaters, and cultural institutions 
+across the city.36
+Nuyorican Poets Cafe before its $24-million renovation project, currently underway.
+29
+CREATIVE NEW YORK 2025
+Section 4: NYC’s Creative Industries  
+Facing New Threats
+IN THE YEARS LEADING UP TO THE PANDEMIC,  
+creative industries were among New York City’s  
+fastest-growing sectors. While overall city employment 
+increased 31 percent from 2004 to 2019, jobs in film 
+and television more than doubled, jobs in architecture 
+grew 56.1 percent, industrial design 55 percent,  
+advertising 41.2 percent, and fashion 33.2 percent. 
+But today, several of them are struggling, raising  
+concerns about whether this vital part of the city’s 
+economy can regain its footing. 
+Each creative sector faces its own set of challenges, 
+some that were already underway before the pandemic 
+and others that emerged in its wake. National eco -
+nomic pressures are also pushing companies to cut 
+costs—and in one of the country’s most expensive  
+labor markets, those consequences are being felt 
+downstream. At the same time, other creative centers 
+are growing across the country and overseas. Together, 
+these forces threaten New York’s long-standing posi-
+tion as the premier global creative capital. 
+Film and Television
+Just three years ago, New York City’s film and television 
+industry was riding high, with jobs in the city’s motion 
+picture and sound recording industries reaching a  
+record 57,200 in July 2022, nearly double its total 
+from 2004 (33,400 jobs). 37 The industry had even  
+regained all the jobs lost during the pandemic. But  
+today, employment in the city’s film and TV sector  
+is 17 percent below that 2022 peak (with 47,500 jobs 
+in August 2025) and is facing an array of challenges—
+from a slowdown in new streaming programming  
+to the now widespread use of cheaper production  
+facilities in Europe—that could make it difficult for New 
+York to fully recover. 
+Following nearly two decades of sustained growth, 
+the city’s film and TV sector suffered a sudden slow -
+down in 2023 mainly due to the prolonged strike by 
+the actors’ and writers’ unions and industry-wide cut-
+backs in production. In that one year, employment in 
+the city’s film and TV sector declined by nearly 20,000. 
+“My studio was at 100 percent occupancy for the 
+last several years, prior to business just falling off the 
+cliff,” says Doug Steiner, chairman of Steiner Studios, 
+the largest production complex in the country outside 
+of Hollywood. “My workforce has contracted over the 
+last year and a half. Prior to that it was only growing.”
+The problems are not unique to New York. Indeed, 
+Hollywood has suffered even greater losses during 
+this period. 
+The rise of streaming transformed the industry in 
+the 2010s, with Netflix, Hulu, and Amazon pouring  
+billions into original content while traditional studios 
+scrambled to keep up. The pandemic supercharged 
+demand, driving employment to record highs, but soon 
+the market became oversaturated. By the early 2020s, 
+streaming giants and studios began scaling back,  
+ordering fewer shows and producing shorter seasons. 
+Then, back-to-back writers’ and actors’ strikes brought 
+production to a near standstill. At the same time, the 
+pandemic caused the biggest attendance drop in 
+movie history, and with film revenues still below that of 
+2019 studios are making fewer films. 
+“Companies are spending less, the overall num -
+ber of productions is down, and they are producing 
+fewer episodes per series,” Steiner says. “All of that 
+comes as traditional studios are still finding their way 
+to compete in streaming—and most of all, with Netflix.” 
+While film and TV production is down globally, the 
+combination of rising costs, lagging revenues, and 
+competitive tax incentives have pushed more American 
+productions overseas to countries like the UK, Canada, 
+Hungary, Australia, and beyond. “The business has 
+offshored in a significant way,” says Steiner. “Notwith-
+standing the hassle of shooting overseas, offshoring 
+shoots is providing enough savings to make it worth it. 
+These cities [overseas] are equipped with tax credits 
+and have seen their film talent pools grow more skilled 
+and educated in recent years, making production  
+even easier.”
+There are reasons for optimism. Over the past two 
+years, New York has recovered a decent portion of the 
+jobs lost in 2023, and during this period employment 
+30
+in the city’s film and TV sector has grown faster than 
+nearly every other film hub across the country.
+Nationwide, the film and TV sector is still down 
+10.4 percent from 2022. But in the past year, New 
+York has pulled ahead of other cities in terms of job 
+growth: jobs in the city grew 7.9 percent.38 During the 
+same period, film and TV jobs grew by just 0.3 percent 
+in Atlanta, by 0.1 percent in San Francisco and by 1.7 
+percent in Atlanta. Some hubs, including Chicago (-1.8 
+percent), declined. 
+Advertising
+For decades, New York City has been the undisputed 
+center of the nation’s advertising industry. Indeed, 
+New York accounts for 12.1 percent of all advertising 
+jobs nationwide and employs more workers in this  
+industry than the advertising hubs of Los Angeles,  
+Chicago, and Dallas combined. In the years leading up 
+to the pandemic, advertising was also one of the city’s 
+fastest growing industries, with employment surging 
+by a remarkable 56 percent in the fifteen years leading 
+up to the pandemic, from 47,300 jobs in August 2004 
+to 73,900 in August 2019.39 
+But over the past three years, employment in the 
+city’s advertising sector has declined by 10 percent, 
+from 75,000 jobs in August 2022 to 67,500 in August 
+2025. There are fewer jobs in the city’s advertising 
+sector today than there were in 2014. 
+The pandemic dealt a major blow, but the sector 
+recovered to pre-pandemic job levels in 2022 before 
+shedding 5,100 jobs in 2023 and another 1,600 jobs 
+in 2024. Industry experts cite the adoption of new 
+technologies, including AI, as well as increasing com -
+petition from where costs are cheaper have contributed 
+to the employment losses.
+Advertising was already well-suited to remote work 
+even before the pandemic, with global clients and 
+computer-based tasks making online meetings routine. 
+But the acceleration of remote work following the pan-
+demic revealed to employers just how much more of 
+the job could be done from anywhere.
+“There’s no question that New York is still the 
+center of gravity, but New York is now not the only city,” 
+says Andrew J. Robertson , CEO of BBDO Worldwide, 
+a global advertising agency headquartered in New 
+York City.
+NYC film and TV sector losing jobs after 15 years of gains
+ 
+ 
+ 
+ 
+ 
+Q1 2005 - Q1 2025 
+Source: Center for an Urban Future analysis of data from the Quarterly Cenuss of Employment & Wages. Created with Datawrapper
+
+31
+CREATIVE NEW YORK 2025
+In the past, individuals pursuing careers in  
+advertising primarily headed to New York, Chicago,  
+Los Angeles, and San Francisco. Now, opportunities 
+are more plentiful in several other cities, many of which 
+have been attracting creative workers with their com -
+paratively lower housing costs. In Miami, advertising 
+jobs have increased by 2,054 (+20 percent) over the 
+past decade—from 10,484 in 2014 to 12,538 in 2024— 
+and by 1,583 since 2019 (+14 percent). 40 Since the 
+pandemic, advertising jobs have also increased in 
+Houston (+23 percent, up 1,180 jobs), Austin (+21 
+percent, up 1,007 jobs), Dallas (+16 percent, up 2,142 
+jobs), and Washington DC (+9 percent, up 798).
+“These other cities are now emerging and taking 
+some of [New York’s market share],” says Robertson. 
+“I don’t believe New York is going to disappear as a 
+creative center. It’s just losing its absolute stranglehold. 
+We should be worried. I just don’t know how worried.”
+It’s not just that several other cities now have a 
+critical mass of creative workers that they lacked 10 
+or 15 years ago. Employers can reap substantial sav -
+ings by shifting some of their work from New York to 
+these cheaper locales. Factoring in taxes, healthcare, 
+and real estate, Robertson estimates the cost of each 
+desk in Dallas at $8,000 compared to $20,000 in 
+New York. At the same time, more firms are getting 
+comfortable with having offices all over the world:  
+Colombia, India, and South Africa have become hotbeds 
+for advertising work at a fraction of local costs. 
+AI and other new technologies may also be con -
+tributing to the industry’s job losses in New York. In a 
+recent book, Sam Altman, CEO of OpenAI, is quoted as 
+saying, “95 percent of what marketers use agencies, 
+strategists, and creative professionals for today will 
+easily, nearly instantly, and at almost no cost be han -
+dled by AI.” While the true impact of AI on advertising 
+jobs remains unclear, it is already changing workflows 
+in significant ways.
+To be sure, AI also has the potential to dramatically 
+boost productivity, enabling agencies to create more 
+campaigns in less time. But it could also mean pro -
+ducing that work with fewer people. The net effect on 
+hiring is still unknown.
+Despite the pressures reshaping the industry, 
+New York still has an unmatched concentration of  
+talent in advertising. “As markets grow more competi-
+tive, capturing consumer attention and building a  
+distinctive brand has never been more critical,” says 
+Sam Appelbaum, Executive Vice President at WITHIN, 
+a brand agency in Long Island City. “New York offers 
+the environment that enables us to channel this energy 
+into the ideas that make this possible.”
+After a decade of growth, advertising tumbles during the pandemic - and continues to fall
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future analysis of data from the Quarterly Census of Empoyment and Wages.  
+Created with Datawrapper
+
+32
+Design
+The diversity, energy, and creativity of design industries 
+here in New York is not at the same level anywhere else”, 
+says Eileen Shaw, Executive Director of NYCxDesign, a 
+week-long festival championing New York City’s design 
+sector. “But I worry about the shrinking pie.”
+Disciplines from all ends of design are struggling. 
+Graphic design has been hit the hardest, shedding 
+nearly a third of its jobs over the course of the  
+decade—from 8,740 in 2014 to 5,946 in 2024. 41  
+Employment in industrial design, which grew in the 
+years leading to the pandemic, has dropped 29.9  
+percent from 2019. Even interior design, initially faring 
+better by increased demand from the shutdown,  
+remains 2 percent below 2019 employment levels. 
+Since the pandemic, New York City’s share of all 
+industrial design jobs in the nation declined from 4.2 
+percent to 2.9 percent, its share of graphic design 
+jobs declined from 5.7 percent to 4.7 percent, and its 
+share of interior design jobs declined from 6.4 percent 
+to 5.7 percent. What was once a stronghold for design 
+talent is losing ground to other regions.
+Our analysis of occupational employment data 
+confirms these troubling trends. Overall, there are 
+nearly 5,500 fewer designers in New York today  
+than in 2019. Indeed, while the number of designers 
+increased by 24.1 percent from 2004 to 2019—reaching 
+an all-time high of 39,266 in 2019—the number has 
+since shrunk by 13.9 percent, to 33,811 in 2024. 
+During this same five-year period, the number of 
+graphic designers decreased by 13.5 percent, from 
+15,800 in 2019 to 13,667 in 2024; commercial and 
+industrial designers fell by a third, from 1,499 to 
+1,012; and set and exhibit designers plunged by nearly 
+half, from 2,907 to 1,586. 
+The sharp decline in designers in New York runs 
+counter to national trends. Indeed, nationwide the 
+number of designers has grown by 9.5 percent since 
+2019, increasing from 692,316 designers in 2019 to 
+757,871 in 2024. The result is that New York is losing 
+some of its competitive advantage. As recently as 2019, 
+New York City accounted for 5.7 percent of all designers 
+in the nation; by 2024 the city’s share was down to 
+4.5 percent. Similarly, five years ago, the city accounted 
+for 9.2 percent of all set and exhibit designers; today 
+it’s just 5.9 percent. Its share of graphic designers fell 
+from 5.7 percent to 4.9 percent, and its share of com-
+mercial and industrial designers fell from 4.2 percent 
+to 3.2 percent. 
+Design disciplines struggle to recover to pre-pandemic levels
+Change in jobs, 2019-2024
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future anaysis fo data from Lightcast. Created with Datawrapper
+
+33
+CREATIVE NEW YORK 2025
+Our research suggests a mix of pressures is  
+reshaping the field. Design has always had to adapt to 
+new technologies, but recent advances—from the rise 
+of AI to cheaper, more accessible design software—
+can make it easier to produce more work with less  
+labor. In January 2025, the World Economic Forum 
+predicted that graphic design will be among the fast -
+est-declining jobs by 2030 due to advances in AI and 
+broadening digital access.42
+David Rhodes, president of the School of Visual 
+Arts (SVA), observed that employers seem to be more 
+cautious amid economic uncertainty and less willing 
+to take chances on untested talent. And as routine 
+tasks become more automated, the first rungs of the 
+career ladder are becoming harder to climb. “There is 
+a feeling among our recent graduates that they are 
+entering a more challenged job market,” says Rhodes. 
+“Right now, it’s harder for younger talent to break into 
+the industry.”
+Fashion
+Few industries are as closely tied to New York’s identity 
+as fashion. But that legacy is under threat today. 
+“There is a huge recognition that the fashion landscape 
+in New York is different from even five years ago,” says 
+Tessa Maffucci, assistant chair of the fashion depart -
+ment at Pratt Institute.
+Employment in the city’s fashion sector has 
+steadily eroded over the last decade, declining by 
+16.2 percent, from nearly 5,000 jobs in 2014 to 
+4,180 in 2024. 43 And according to our analysis of  
+occupational data, the number of fashion designers 
+working in the city has shrunk by almost one-quarter 
+in just five years. In total, there are now just over 5,200 
+fashion designers working in New York, compared with 
+more than 7,000 in 2019. 
+The shrinking pool is not just about total job losses, 
+but also New York’s diminishing national influence. 
+Ten years ago, nearly one in four fashion designers in 
+the United States worked in New York (24.3 percent). 
+Today, that share has slipped to fewer than one in six 
+(16.8 percent). 
+A 2024 study by the Partnership for New York 
+pointed to several key factors contributing to the decline: 
+the rise of e-commerce and direct-to-consumer sales, 
+which have reduced demand for in-person retail and 
+showroom jobs; the closure of iconic specialty stores 
+like Barneys and Henri Bendel, which once served as 
+launching pads for emerging designers; significant 
+consolidation among European-based fashion conglom-
+erates; and the high cost of living and doing business 
+in New York.44
+At the same time, the city is losing ground to other 
+hubs. “The fashion capitals used to just be Paris and 
+New York—now, there’s also Shanghai and Seoul,” 
+says David Rhodes of SVA. “These are not just big 
+markets, but globally influential cultural forces.” The 
+shift of fashion’s center of gravity from New York to 
+other fast-growing markets are attracting away young 
+talent and businesses that would otherwise find 
+home in the city.
+34
+Once a leader, New York City's creative workforce growth has stalled  
+Percent change in creative workforces by city
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future anaysis fo data from Lightcast. Created with Datawrapper
+
+35
+CREATIVE NEW YORK 2025
+Section 5: The Vital Role of the Arts  
+in Times of Crisis
+No part of New York’s economy was hit harder by 
+the pandemic than the arts. Theaters went dark, galleries 
+closed, and venues that doubled as workplaces for 
+thousands of artists and creative workers shut down 
+overnight. Yet even as artists lost jobs, gigs, and spaces, 
+they became catalysts of recovery—helping New Yorkers 
+heal, reconnect, and reimagine community life when 
+the city needed it most.
+With little official guidance in the pandemic’s early 
+days, individual artists mobilized through mutual aid. 
+Out-of-work Broadway costumers joined the Broadway 
+Relief Project, sewing more than two million protective 
+gowns for city hospitals. Artists staffed many of the 
+grassroots relief operations that sprang up across the 
+city, from Bushwick Mutual Aid to South Bronx Mutual 
+Aid. In Queens, the collective Little Manila responded to 
+the crisis at Elmhurst Hospital—the epicenter of the city’s 
+pandemic response—by organizing meal deliveries for 
+Filipino nurses and painting a bold mural reading 
+“Mabuhay”—“long live!” in Tagalog—a message of soli-
+darity and resilience in the city’s hardest-hit neighborhood.
+As streets emptied, murals and installations became 
+New York’s most visible form of civic expression. Across 
+Chinatown, SoHo, and the Bronx, artists covered 
+boarded-up storefronts with messages of solidarity 
+and protest. One Chinatown mural—bright koi circling 
+the phrase “Stop Discriminasian”—became a rallying 
+symbol against anti-Asian violence.45 Later that summer, 
+artists filled entire city blocks with Black Lives Matter 
+murals, transforming public space into a canvas for 
+justice and collective mourning. “That’s what artists 
+have always done,” says artist Sophia Victor, who  
+designed a portion of the Foley Square Black Lives 
+Matter mural. “The world stood still, but art kept moving.”
+Artists also drew attention to invisible crises. The 
+Confined Arts, a nonprofit supporting incarcerated art-
+ists, collaborated with Brooklyn theater company The 
+24 Hour Plays to dramatize the spread of COVID inside 
+prisons. Their online monologues, written from inter -
+views with incarcerated New Yorkers, gave audiences 
+a rare glimpse of life behind bars during the outbreak—
+and reminded the public who was being left behind.
+As the city cautiously reopened, performers 
+helped restore the social fabric. The NY Phil Bandwag-
+on brought classical musicians to every borough in a 
+repurposed pickup truck, staging 81 free outdoor con-
+certs. “People needed a way to connect, to feel again,” 
+says founder Anthony Roth Costanzo, an opera singer. 
+These performances—part concert, part civic ritual—
+helped reintroduce live art to a city struggling to imag-
+ine a future beyond day-to-day survival mode.
+In 2021, City Hall formally recognized the arts’ 
+role in rebuilding with the launch of City Artist Corps: 
+$25 million in grants to 3,000 local artists to create 
+and present public work.46 The results were as varied 
+as the city itself—from We the People , a dance film 
+about resilience by ZCO Dance Project founder  
+Zazel-Chavah O’Garra, to Freak the Creek, an ecological 
+art festival along Queens’s Flushing Creek. Artists  
+presented concerts in public parks, art exhibitions in 
+empty storefronts, and public potlucks in closed-off 
+streets—bringing communities together after months 
+of shutdowns and isolation. It was the largest direct 
+investment in artists since the Works Progress  
+Administration and a model for how future administrations 
+can integrate creative labor into broader strategies to 
+drive civic engagement and local economic activity.
+36
+Section 6: The Impact of AI on  
+NYC’s Artists and Creative Economy
+Already a global arts capital, New York City has 
+emerged as a major center for the intersection of AI 
+and art over the past decade. As early as 2019—  
+before AI-generated art entered the mainstream—New 
+York Live Arts hosted an AI x Art Symposium as part of 
+its Live Ideas series.47 That same year, ARTECHOUSE 
+opened its Chelsea Market location, quickly becoming 
+a destination for tourists and digital art enthusiasts.
+The city’s flagship institutions have since followed 
+suit. The Museum of Modern Art (MoMA) has featured 
+installations by two rising stars of the AI art world—Re-
+fik Anadol in 2022 and Sasha Stiles in 2025—that use 
+AI models to reimagine the museum’s collection on its 
+digital wall.48 In spring 2024, the Whitney Museum of 
+American Art opened an exhibit centered on Harold 
+Cohen’s AARON, the earliest AI artmaking program, 
+accompanied by a live discussion among artists 
+across disciplines—including a composer, an Oscar-  
+nominated director, and a visual artist—about AI’s role 
+in their practice. 49 Smaller institutions across the  
+boroughs are also engaging with the medium: in 2025, 
+artist Lu Yang presented separate AI-influenced exhibits 
+at the Queens Museum of the Moving Image and at 
+Amant in Brooklyn.50 For better or worse, AI art is here 
+to stay—and New York City stands to both benefit from 
+its promise and grapple with its risks.
+AI tools offer dizzying creative possibilities, and 
+many artists are finding innovative ways to use them. 
+One is multimedia artist Marc da Costa, whose digital 
+video installation The Golden Key —a collaboration 
+with director Matthew Niederhauser—was on view at 
+the Brooklyn Academy of Music (BAM) in January 
+2025. Visitors spoke into a microphone, and da Costa’s 
+AI model responded by generating visuals and a  
+storyline in real time, mythologizing audience input. 
+He described the work as “an exploration of myth,  
+mythology, and the mythic elements of AI,” simultane-
+ously using and interrogating the new medium.
+AI-inspired projects like The Golden Key also allow 
+artists to engage audiences with urgent social ques -
+tions. At an October 2025 workshop at Asia Art Archive 
+in America, the researcher–artist duo zzyw led partici-
+The diversity deficit: creative industries
+Source: Center for an Urban Future analysis of data from the 2023 American Community Survey 5-Year Estimates.  
+Created with Datawrapper
+
+37
+CREATIVE NEW YORK 2025
+pants through Mountain of Many Voices, an interactive 
+model that lets viewers collaboratively build a world in 
+real time. The project aimed to “lay the groundwork for 
+deeper discussions about resisting computational 
+control,” followed by a presentation of the artists’  
+critical research on autonomous AI.51
+Growing interest in AI across industries has also 
+translated into new funding opportunities for artists using 
+the technology. In 2023, the Guggenheim announced 
+a five-year partnership with LG to launch the LG  
+Guggenheim Art and Technology Initiative, which includes 
+an annual $100,000 unrestricted award for a ground-
+breaking artist in technology-based art.52 The inaugural 
+recipient was Brooklyn-based AI artist Stephanie Dinkins, 
+whose work reached wider audiences through the 
+partnership. Funding opportunities extend beyond 
+the visual arts: in 2024, the Doris Duke Foundation 
+launched its Performing Arts Technologies Lab , a 
+first-of-its-kind accelerator supporting digital innovation 
+in the performing arts. Of the 20 inaugural grantees, 
+eight were New York City–based artists—more than 
+from any other state—spanning ballet, jazz, lighting 
+and sound design, and arts accessibility. 53
+Beyond the arts, creative industries such as adver-
+tising are also adapting AI tools to reimagine workflows. 
+“Generative tools have quickly become a standby for 
+us,” says Lawrence O’Toole, head of creative innova-
+tion at The Working Assembly, a boutique agency that 
+uses AI to visualize ad concepts on tight deadlines.
+But just as AI can make creative work easier, it 
+can also threaten it. One major concern is the use of 
+AI to replace creative labor. Grammy-nominated pro -
+ducer Bill Meade was recently hired to assemble a 
+soundtrack and asked to use AI to generate back -
+ground instruments to save money. “I’ve been using AI 
+tools for the last few years, but I [had] never been  
+specifically asked to basically lose people,” he says. Now 
+chair of the AI Committee for the American Federation 
+of Musicians (AFM) Local 802, Meade is advocating 
+for industry-wide guidelines to protect artists.
+In response to these concerns, Governor Kathy 
+Hochul signed Senate Bill S7676B in December 2024, 
+requiring contracts to secure an actor’s consent  
+before using their voice or likeness in AI-generated 
+content. “That has been the basis of everything  
+we’ve done in this space,” says Rebecca Damon, 
+SAG-AFTRA’s New York executive director. “Not to be 
+against AI, but to be figuring out how it works, and 
+what the future of work looks like in light of it.”
+Equally troubling are AI’s implications for copyright 
+and intellectual property. Several lawsuits have been filed 
+against AI companies that trained image-generation 
+models on artists’ work without permission.54 Although 
+no landmark ruling has yet been issued, Amelia Brankov, 
+a New York–based art law and copyright attorney,  
+believes the cases have merit: “When you’re using a 
+creative work to create another creative work that 
+competes with the original, I think there is a strong 
+argument that it’s copyright infringement—or if it’s not, 
+then maybe the law should be changed to prevent 
+that.” Even creatives who use AI regularly remain cautious: 
+O’Toole’s agency, for example, prohibits presenting 
+AI-generated material as original content because of 
+its legal uncertainty.
+These intellectual property concerns are fueling a 
+growing backlash. When Christie’s New York announced 
+a February 2025 auction of AI-generated works, more 
+than 5,700 artists signed an open letter demanding 
+its cancellation. They cited the use of “AI models that 
+are known to be trained on copyrighted work without a 
+license,” arguing that the sale would implicate Christie’s 
+in “AI companies’ mass theft of human artists’ work.”55 
+Composer Ed Newton-Rex, CEO of the nonprofit Fairly 
+Trained, wrote on X that “at least nine or so” of the 
+pieces likely relied on copyrighted data.56 Despite the 
+protests, the auction went forward, with total sales of 
+$728,784.57
+Facing economic precarity, many artists are exper-
+imenting with AI as a means of survival or innovation, 
+while others remain deeply skeptical. “There’s this  
+asteroid that’s coming to hit us,” Meade warns. “Some 
+people are paying attention, some people aren’t, but 
+it’s still going to come whether you like it or not.” With 
+more creatives per capita than any other city, New 
+York is uniquely poised to benefit from AI’s possibili -
+ties—but also especially vulnerable to the disruptions 
+it brings. It represents one of the most profound shifts 
+in the city’s cultural landscape in decades, and its full 
+ramifications are only beginning to come into view.
+38
+Counting the Uncounted
+While New York City is home to more than 129,129 working artists, this figure doesn’t reflect the full breadth 
+of the city’s arts community. Many artists are unable to financially sustain themselves through their creative 
+work alone and instead rely on day jobs or seasonal employment to make ends meet. 
+“At least 90 percent of the artists we work with are not making the majority of their living on arts,” says 
+Pete Rushefsky, executive director of the Center for Traditional Music and Dance, a nonprofit that supports 
+performing arts traditions in immigrant communities. “But I wouldn’t call them hobbyists. These are serious, 
+serious artists.”
+These artists—those who do not make the majority of their income through their artistic practice—aren’t 
+counted under the Census label of artist and do not appear in the Bureau of Labor Statistics (BLS) artist  
+occupation category. In practice, this means that Census and BLS data offer a distorted picture of New York 
+City’s artists—one that overstates Manhattan residency and greatly exaggerates how white and high-income 
+the artist community is compared with reality. 
+While New York artists have always had to take day jobs to make ends meet—the playwright who’s also a 
+bartender, the photographer who’s also a delivery driver—our research suggests that more than ever before, 
+the uncounted artist population exceeds the number of counted artists. The pandemic and the city’s rising 
+unaffordability have only widened this gap.
+The pandemic destabilizes the careers of many full-time artists, pushing some to stop making art full-time 
+and to find other jobs to support themselves. Yawuza, a choreographer from Ghana, is one of New York City’s 
+newly uncounted artists, passionately creating art in the face of the city’s challenges. Before the pandemic, he 
+worked nearly full-time as the founder of the African dance group the Wuza Wuza Ensemble, booking  
+performances twice a week and even going on tour around the state. Now, he only books gigs once a month 
+or once every few months. Months behind on rent, affordability is a huge barrier to sustaining a full-time 
+artistic career. “I had to go and find other jobs . . . I have no choice,” he says.
+Those jobs, while they help keep the lights on, leave artists like Yawuza physically worn out and with fewer 
+hours to work on their craft. He currently works as a security guard, standing on his feet for hours a day. Willie, 
+a musician specializing in Afro-Venezuelan drumming and the director of the musical group Tambor y Caña, 
+spends hours in the blazing sun in the summer as a lifeguard and sometimes sells art on the street, when not 
+being the primary caregiver for his child. 
+“Dancers are constantly grinding to find ways to survive in New York City while keeping their creative 
+practice alive,” says Karesia Batan, founder of the Queensboro Arts Festival. “They are gig workers, freelancers 
+with sometimes four or five jobs at once, or have fulltime positions in a completely different sector and can 
+only dance in their off time.”
+On top of juggling multiple jobs, many artists are on their own when it comes to managing their artistic 
+practice and paying for space. During the cold winter months, when rehearsing outdoors is no longer an option, 
+Willie pays $25 to $30 per hour to rent a practice space for his band of 15 to 20 people—a cost he absorbs 
+almost entirely himself. Yawuza pays nearly $200 a month for a small 10x5 storage space for his instruments.
+Yawuza and Willie make it clear that they don’t want to just survive in New York City but to be active 
+contributors to its arts and culture sector. “New York City’s exciting art scene is what makes it attractive to 
+the rest of the world,” Yawuza says. “We want to be part of that.”
+While the city’s uncounted artists aren’t represented as artists in data from the Census or the  
+Bureau of Labor Statistics, they are vital to the city’s creative ecosystem. They are more racially, geographically, 
+and economically diverse than the artists reflected in federal datasets, meaning that traditional data sources 
+are missing huge swaths of the city’s true cultural community.
+39
+CREATIVE NEW YORK 2025
+Section 7: Creating a More Inclusive  
+Creative Economy and Arts Sector
+ALTHOUGH NEW YORK CITY’S CREATIVE ECONOMY  
+has become a vital source of middle-wage jobs over 
+the past two decades, the sector still has a long way to 
+go before it reflects the diversity of the city—and to 
+close glaring wage disparities.
+Overall, this report finds that white workers make 
+up 61.5 percent of creative industry jobs, compared 
+with 14.1 percent Hispanic, 11.8 percent Black, and 
+11.8 percent Asian workers. 58 This stands in sharp 
+contrast to the city’s overall workforce, which is 37.7 
+percent white, 26.6 percent Hispanic, 21.4 percent 
+Black, and 15.3 percent Asian.
+Across nearly all creative fields, New Yorkers of 
+color remain underrepresented. In the least diverse 
+field—performing arts—just 5.9 percent of workers  
+are Asian, 11.1 percent are Black, and 14.2 percent 
+are Hispanic, compared with 70.5 percent white. In 
+film and television, 8 percent of workers are Asian,  
+11.7 percent Black, 15.3 percent Hispanic, and 65.2 
+percent white. In advertising, only 9.3 percent of work-
+ers are Black, 13.4 percent Hispanic, 13.5 percent 
+Asian, and 62.2 percent white. In architecture, the 
+workforce remains 58.7 percent white. Only the visual 
+arts industry approaches the city’s demographic mix, 
+with 44 percent white, 24.3 percent Hispanic, 23.6 
+percent Black, and 9 percent Asian workers.
+Despite numerous diversity pledges over the 
+years, the overall racial makeup of the creative indus-
+tries has barely changed in a decade. The share of 
+Black workers in the creative sector actually declined 
+by 1.9 percentage points from 2013 to 2023, while 
+the share of Hispanic and Asian workers rose by only 
+0.7 and 1.8 points, respectively. (In the creative sectors, 
+as in the economy overall, workers who identify as 
+multiracial have notably increased.) A few industries 
+bucked this trend—music production saw a 7.3 per -
+centage point increase in Black workers, and Hispanic 
+representation in architecture rose 3.6 points—but in 
+most fields, the gaps remain entrenched.
+These inequities extend beyond representation to 
+pay. The median wage for white creative workers 
+($82,592) is 34.6 percent higher than for Black workers, 
+27.1 percent higher than for Hispanic workers, and 7.3 
+percent higher than for Asian workers. In architecture, 
+DCLA's budget nearly doubles over the last decade 
+ 
+CDF 's budget shown here is from FY24, the most recent data available 
+Source: Center for an Urban Future analysis of data from the New York City Department of Cultural Affairs.  
+Created with Datawrapper
+
+40
+white workers earn $87,465—nearly 50 percent more 
+than Black workers and 21.5 percent more than  
+Hispanic workers. In advertising, the median white 
+worker earns $104,125, 39 percent higher than Black 
+workers and 28 percent higher than Hispanic workers. 
+In publishing, white workers earn $81,036, 31 percent 
+higher than Black peers and 20 percent higher than 
+Hispanic peers.
+Artists of color living in financial precarity
+New York’s arts scene may be unmatched in scope 
+and vitality, but its artists remain far less diverse than 
+the city itself. Among full- and part-time artists, 67 per-
+cent are white, compared with 11.6 percent Hispanic, 
+10.3 percent Black, and 8.5 percent Asian.
+White workers make up at least half of every artistic 
+discipline. The least diverse include music directors 
+and composers (77.5 percent white), editors (75  
+percent), and writers and authors (73.3 percent).
+Artists of color also face stark wage inequities in 
+an already low-paying field. White artists earn an  
+average of $61,121—37.1 percent more than nonwhite 
+artists, who earn just $44,586 on average. These gaps 
+persist across nearly every discipline:
+  White dancers and choreographers earn  
+43 percent more than their nonwhite peers.
+  White producers and directors  
+earn 34.3 percent more.
+  White photographers earn 33.4 percent more.
+  White musicians and singers  
+earn 30.2 percent more.
+  White writers and authors  
+ earn 28.4 percent more.
+  White editors earn 16.5 percent more.
+Top-paying creative careers also tend to be the least 
+diverse. Producers and directors, with mean earnings 
+of $87,363, are 70.3 percent white; editors, earning 
+$77,110, are 75 percent white. In contrast, DJs, one 
+of the most racially diverse occupations (22.6 percent 
+Black, 28.5 percent Hispanic), earn just $16,792  
+on average. Dancers, too, show greater diversity  
+(26 percent Black, 16.6 percent Hispanic) yet earn  
+a modest $38,644.
+BIPOC-led arts organizations have faced renewed 
+challenges since the pandemic
+Artists of color are not the only ones facing inequities. 
+Arts organizations led by and serving BIPOC communities 
+continue to struggle disproportionately—with smaller 
+budgets, fewer resources, and deeper pandemic losses.
+A 2021 CUF analysis of 643 community-based 
+arts organizations, using data from Americans for the 
+Arts, found that in lower-income NYC ZIP codes—where 
+most organizations are BIPOC-led—one in four lost  
+access to their sole physical space during the pandemic, 
+compared with just 12 percent of organizations in 
+higher-income areas.59
+Smaller organizations, often operating with limited 
+reserves and without endowments, remain especially 
+vulnerable. “A lot of the organizations that are rooted 
+in communities of color and run by people of color are 
+working with smaller budgets,” says Pia Agrawal,  
+former executive director of Staten Island Arts and 
+current executive director of the Leeway Foundation. 
+“If an organization’s budget is $100,000 a year, for 
+example, and they don't get $40,000 in grants they 
+were relying on, it could shut an organization down. 
+Without any longer-term financial commitment… [you 
+lose] that ability to plan for the future.”
+As Museum Hue’s Brown Paper  notes, these  
+organizations are vital cultural anchors in their neigh-
+borhoods—yet most operate without the stability of 
+owning their own spaces—contributing to vulnerability 
+in times of crisis like the pandemic, or when rents rise 
+quickly. The report finds that the majority of POC-led 
+arts entities in New York City rent space, operate  
+online, or work from home offices, “often out of  
+necessity, not choice,” limiting their ability to build 
+long-term roots in the communities they serve.60
+41
+CREATIVE NEW YORK 2025
+Section 8: Progress in New York City Arts 
+and Culture Policy: A Ten-Year Snapshot
+Boosts in Funding for DCLA, CDF, and CIG
+New York City has the largest cultural affairs budget in 
+the country, with the city’s Department of Cultural  
+Affairs (DCLA) having more funds at its disposal than 
+even the National Endowment for the Arts. And over the 
+past decade—since the publication of the 2015 edition 
+of our Creative New York report, the city has poured 
+substantially more funding into the agency while estab-
+lishing new programs focused on diversity and space.
+Both DCLA and the Cultural Development Fund 
+(CDF) have seen significant increases in funding. From 
+FY15 to FY26, DCLA’s budget rose by 89.8 percent 
+(48 percent after adjusting for inflation). 61 Funding  
+for the CDF—which provides more than 1,000 grants 
+each year to cultural nonprofits and nonprofits that  
+incorporate culture into their mission—has also grown 
+substantially, by 45.7 percent from FY15 to FY24 
+(13.6 percent in inflation-adjusted dollars). 62 The 
+number of CDF grants awarded annually increased 
+16.8 percent, and the median award amount more 
+than doubled, rising 110 percent from FY15 to FY24 
+(63.8 percent in inflation-adjusted dollars).
+In FY23, DCLA undertook a series of reforms to 
+make the CDF application and award process more 
+equitable. Changes included raising the minimum 
+award amount from $5,000 to $10,000 and revising 
+application criteria to elevate organizations in margin-
+alized communities.63 In the first year they were imple-
+mented, organizations with smaller operating budgets 
+saw a notable increase in their award size, and  
+a majority of POC-led or POC-founded organizations  
+received higher baseline awards.64
+The Cultural Institutions Group (CIG)—a coalition 
+of 39 cultural organizations operating in city-owned 
+facilities and on parkland—saw a more modest  
+increase. CIG operational funding noticeably declined 
+when adjusted for inflation from FY15 to FY24, but 
+has now rebounded by 40 percent (9.1 percent in  
+inflation-adjusted dollars) from FY15 to FY25. 65  
+Visitors to CIG institutions have surpassed pre-pan -
+demic levels, increasing 21 percent from FY15 (21.6 
+million) to FY24 (26.1 million). Six new institutions 
+were invited to join the CIG in recent years, including 
+the Weeksville Heritage Center in 2020 and BRIC, 
+the Bronx Children’s Museum, the Louis Armstrong 
+House Museum, the Noble Maritime Collection, and 
+Pregones/Puerto Rican Traveling Theater in 2025. 66
+City Programs: A Focus on Space and Diversity
+Over the past decade, New York City has launched  
+a series of ambitious initiatives to strengthen its 
+creative ecosystem—expanding access to space, 
+deepening equity, and better integrating the arts 
+into city government.
+In 2017, New York City released its first-ever cultural 
+plan, CreateNYC, which surveyed the city’s arts and 
+culture landscape and identified key needs and priori-
+ties. The plan laid critical groundwork for many of the 
+policies and investments that followed, although its 
+enormous breadth made it difficult for city officials to 
+prioritize among issues—and too many elements were 
+left to DCLA to manage without sufficient funding or 
+leadership from City Hall.67
+The city has long recognized that access to afford-
+able, stable space remains one of the biggest challenges 
+facing artists and cultural organizations. Launched by 
+DCLA and NYCEDC in 2018, the Affordable Real Estate 
+for Artists (AREA) initiative was conceived to seed new 
+affordable artist housing and workspaces in city-owned 
+buildings. The city issued an RFEI and set aside capital 
+to advance projects, but progress has been far slower 
+than envisioned, with none of the promised housing 
+units delivered and only a portion of the 500 planned 
+workspaces materializing.
+That same year, the city established the Mayor’s 
+Office of Nightlife, following in the footsteps of cities 
+like Berlin and Paris. The office serves as a vital hub of 
+support and resources for nightlife businesses, which 
+contribute nearly 300,000 jobs and $35 billion in  
+annual economic impact.68 It helps maintain productive 
+relationships between venues and surrounding  
+communities while working to streamline permitting 
+and improve safety
+42
+In the wake of the pandemic, the city took innova-
+tive steps to shore up vulnerable cultural organizations 
+and strengthen the arts sector. To support artists hit 
+hardest by the pandemic, DCLA launched City Artist 
+Corps (CAC) in 2021, a $25 million initiative that  
+provided 3,000 grants of $5,000 each to working  
+artists.69 The program funded community workshops, 
+performances, and exhibitions in every borough, while 
+also supporting artists who created murals in public 
+schools, artworks in NYCHA developments, and instal-
+lations for the citywide People’s Festival.
+NYC Create in Place, launched in 2024, coordi -
+nates interagency support for creative space retention, 
+provides one-on-one casework for organizations at risk 
+of displacement, and maintains a centralized online hub 
+of technical and financial resources. The initiative has 
+been effective in mobilizing agency support, including 
+help from the Department of Small Business Services 
+in response to a devastating fire in Red Hook that  
+destroyed dozens of artists’ studios and archives. Early 
+activity has demonstrated strong demand for its  
+services—but meaningful impact will depend on securing 
+dedicated funding to act on the space numerous chal-
+lenges the program has surfaced.70
+DCLA has also expanded programs that embed art-
+ists directly into civic life. The Public Artists in Residence 
+(PAIR) program, launched in 2015, pairs artists with 
+city agencies to collaboratively design creative responses 
+to public challenges.71 Artists receive $40,000 to work 
+alongside agency staff for at least a year, developing 
+projects that engage New Yorkers and reimagine how 
+government interacts with the public.72
+Other programs aim to activate public space 
+through art. City Canvas, launched in partnership with 
+the Department of Buildings, allows property owners 
+to transform construction sheds and scaffolding with 
+temporary art installations. The program provides a 
+pathway for artists to secure paid commissions while 
+brightening the city’s streetscape.73
+DCLA has also invested in programs designed to 
+diversify the city’s cultural workforce. The CUNY Cultural 
+Corps, launched in 2016 with Rockefeller Foundation 
+support, connects CUNY students—among the most  
+diverse higher education populations in the country—
+with paid internships at nearly 90 cultural organizations.74 
+In FY20, it became a permanent line item in the DCLA 
+budget.75 For mid-career professionals, the CreateNYC 
+Leadership Accelerator provided professional develop-
+ment and networking opportunities for emerging leaders 
+from underrepresented backgrounds.
+At the state level, policymakers have begun  
+integrating artists more directly into government and  
+economic development. The FY25 state budget allocated 
+$500,000 to launch the first-ever artist residency  
+program within state agencies. That same year, the 
+state’s Regional Economic Development Councils 
+dedicated a record 10 percent of all funding to arts 
+and culture projects—up from just 3.7 percent in 
+2021—reflecting growing recognition of the sector’s 
+role in driving inclusive economic growth. 76
+Bronx Arts Ensemble Strings (Jorge Ávila, Violin; Evelyn Petcher Brandes, violin; Eliot Bailen, cello; Sally Shumway, viola). Photo by Hector Olivieri
+43
+CREATIVE NEW YORK 2025
+Section 9: Beyond DCLA: Cross-Agency 
+Opportunities to Support the Arts 
+EVEN THOUGH NEW YORK CITY HAS INVESTED MORE 
+in the arts since 2015, it doesn’t always feel like it. 
+The number of arts organizations has surged across 
+the five boroughs, stretching funding thinner than 
+ever, and many individual artists and cultural nonprof-
+its have yet to fully recover from the pandemic. With 
+DCLA representing just 0.26 percent of the city’s 
+$116 billion budget, the agency’s resources alone 
+can’t ensure a sustainable rebound for the arts—or 
+the vitality of the city’s creative economy. Supporting 
+artists and cultural organizations will require a broader, 
+cross-agency commitment that embeds arts policy 
+across the fabric of city government.
+NYC DOT Arts: Getting Art Out  
+of Galleries and Into the Streets
+NYC DOT’s Arts Program plays a crucial role in bringing 
+art out of museums and into the public realm—trans -
+forming sidewalks, plazas, archways, and other urban 
+structures into canvases. The agency runs several  
+programs that commission temporary and permanent 
+public artworks across all five boroughs, often in  
+partnership with community-based organizations 
+(CBOs) and business improvement districts (BIDs). 
+Through its NYC DOT Art Partners program, local 
+groups can collaborate with artists to create tempo -
+rary installations on DOT-approved sites, helping bring 
+more color and creativity to the city’s streets.
+Since 2015, NYC DOT Arts Partners has helped 
+realize more than 190 installations citywide, according 
+to data shared by DOT on NYCOpenData. Yet access 
+remains uneven. A disproportionate number of projects 
+have clustered in wealthier, better-resourced neigh -
+borhoods like Downtown Brooklyn and Fort Greene 
+(49 installations), Midtown and Flatiron (46), and the 
+Financial District and Greenwich Village (22). Mean -
+while, areas such as Jackson Heights and East Elmhurst 
+have seen just one, and Staten Island only two, over 
+the same period.
+The program’s lengthy and complex application 
+process has also proven a barrier for many groups. “If 
+you’re coming at it for the first time, it’s really hard; 
+and it creates a lot of barriers to actually get these 
+projects done,” says one leader of an organization 
+that manages public space. Applicants often face a 
+90-day window between submission and installation, 
+multiple rounds of agency review, and overlapping per-
+mitting requirements that deter smaller organizations.
+Funding is another challenge. NYC DOT Art Part -
+ners does not provide financial support to community 
+partners, leaving them to cover costs such as artist 
+fees, insurance, and staffing. “It’s just so expensive to 
+bring these installations to New York City. It costs tens 
+of thousands of dollars per installation. Funding  
+support would be great,” says the leader of the organi-
+zation that manages public space. Well-resourced 
+BIDs find the process costly, and smaller groups  
+with limited capacity are effectively shut out. Easing  
+administrative burdens and dedicating matching 
+funds could help expand the program’s reach to more 
+neighborhoods across the city.
+Public Art in NYC Parks:  
+Expanding the City’s Open-Air Museum
+NYC Parks manages what is arguably New York’s largest 
+art gallery: more than 800 permanent monuments, 
+including 250 sculptures, plus roughly 150 temporary 
+art installations on view each year. 77 These range  
+from murals painted on basketball courts to fiber 
+sculptures installed in meadows and plazas—like the 
+Richmond Hill Art Hub in Lieutenant Frank McConnell 
+Park, which doubles as a stage, seating area, and little 
+free library.
+Despite its scale, the temporary public art program 
+—largely responsive to applications for art installations 
+from individual artists, museums, galleries, nonprofits 
+—operates with only two full-time staff members  
+responsible for reviewing applications, ensuring  
+44
+safety compliance, and coordinating logistics. Their 
+dedication has helped Parks increase temporary  
+exhibitions by 76.5 percent since 2015 78, but the 
+department lacks the capacity and resources to 
+proactively commission new work— especially outside 
+Manhattan, which hosts an average of 76 installations 
+per year and is the borough most often preferred by 
+applicants, compared to 29 in Brooklyn, 27 in Queens, 
+10 in the Bronx, and just three in Staten Island.
+Bringing art to more communities will require  
+additional investment. “I think we would like to do 
+more to support emerging artists… or artists who 
+don’t have access to certain levels of funding,” says 
+Elizabeth Masella, senior public art coordinator at NYC 
+Parks. “I think having the funding would entice artists 
+to maybe think about those neighborhoods or give  
+artists who may not otherwise have the opportunity 
+the [chance] to do these types of things.” Insurance 
+costs—typically $1,200 to $2,000 per project—also  
+remain a major barrier for individual artists.
+Beyond sculpture and installations, NYC Parks 
+oversees dozens of amphitheaters and bandshells 
+that host musical performances but are vastly  
+underutilized. The Seuffert Bandshell in Forest Park, 
+for example, hosts only six summer concerts per 
+year—four of them tribute acts. Expanding program -
+ming at these public venues could bring new cultural 
+life to parks citywide and help make the arts a more 
+regular feature of neighborhood life.79
+NYCEDC: Boosting Support for Individual Artists
+As the city’s main economic development agency,  
+NYCEDC plays a critical role in shaping the future of 
+New York’s creative economy. While not an arts agency, 
+NYCEDC’s investments in cultural infrastructure—from 
+soundstages to studio space—help sustain the indus -
+tries that make New York a global creative capital.  
+In recent years, NYCEDC has supported the film and 
+television industry, digital gaming, and fashion through 
+initiatives like the Game Design Future Lab and the 
+development of MADE Bush Terminal, which will house 
+space for artisans and workforce programs in the  
+entertainment sector.
+NYCEDC also oversees major capital projects for 
+cultural institutions, such as the renovation of The 
+Bronx Museum, and helped deliver 26 artist studios 
+through the Spofford Redevelopment Project. Yet to 
+truly keep artists in New York, NYCEDC will need to 
+expand its focus on individual creative workers—espe-
+cially when it comes to space.
+Through the Affordable Real Estate for Artists 
+(AREA) initiative, NYCEDC and DCLA once set a goal of 
+developing 500 artist studios and 1,500 affordable 
+housing units for cultural workers by 2025. While the 
+program delivered 50,000 square feet of affordable 
+studio space at the Brooklyn Army Terminal and 293 
+individual studio spaces, it fell short of its ambitious 
+targets.80 Future NYCEDC-led redevelopment projects—
+like the ongoing transformation of Gansevoort Square, 
+which will include 600 housing units, half of them  
+affordable—could help correct that. 81 Designating a 
+portion of those affordable apartments as artist housing 
+would both honor the area’s creative legacy and ensure 
+that artists can continue to live and work in the neigh-
+borhoods that define the city’s cultural identity.
+EDC has also experimented with integrating artists 
+directly into its work. In 2017, it hosted three Artists in 
+Residence who collaborated with residents of Hunts Point 
+and the South Bronx on climate resiliency projects. 82 
+Replicating this model across more NYCEDC initiatives 
+could bring new perspectives to urban design, deepen 
+community engagement, and infuse creativity into the 
+agency’s public projects. NYCEDC could also strengthen 
+its commitment by dedicating one percent of all 
+capital spending to public art—making the existing 
+“Percent for Art” program the gold standard across all 
+NYCEDC-managed capital projects.
+PAIR Program: Artists Inside City Agencies
+The Department of Cultural Affairs’ Public Artists in 
+Residence (PAIR) program demonstrates how embed-
+ding artists within city agencies can generate public 
+value well beyond the arts sector.83 Launched in 2015 
+and inspired by artist Mierle Laderman Ukeles’s de -
+cades-long residency at the Department of Sanitation, 
+PAIR has placed 27 artists across 20 city agencies.84
+Residents receive $40,000 and desk space to collabo-
+rate with public servants for at least one year on civic 
+challenges, engaging communities through creativity.
+Recent PAIR projects have reimagined public archives, 
+illuminated hidden histories, and fostered civic pride. 
+Brooklyn-based artist Kameron Neal, who completed 
+his residency with the Department of Records and  
+Information Services, created Down the Barrel (of a 
+Lens)—a video installation built from digitized NYPD 
+surveillance films that examined policing in New York 
+between the 1960s and 1980s. After debuting at the 
+Brooklyn Army Terminal in 2023, it went on view at 
+Lincoln Center.
+45
+CREATIVE NEW YORK 2025
+Other PAIR projects have tackled timely social  
+issues. Artist Amanda Phingbodhipakkiya, working 
+with the Commission on Human Rights, launched a 
+powerful public art campaign confronting anti-Asian 
+hate during the pandemic, displayed on bus shelters 
+and subway stations citywide. Artist sTo Len, in  
+residence at the Department of Sanitation, invited 
+New Yorkers to reconsider their relationship to waste 
+through workshops and participatory art.
+Now entering its second decade, PAIR remains 
+one of the most inventive cross-agency arts programs 
+in the country—but it could grow even further.  
+Major agencies like Buildings, City Planning, Housing  
+Preservation and Development, and Youth and  
+Community Development have never hosted a  
+resident, yet their work shapes New Yorkers’ daily 
+lives. Embedding artists there could spark new  
+forms of civic engagement and help reimagine how 
+government connects with residents.
+To fully harness the potential of this model, the city 
+could create permanent, full-time artist-in-residence 
+positions within select agencies—allowing artists’  
+insights to take root and generate long-term impact. 
+These creative collaborations show that when city  
+government makes space for art, it makes space for 
+innovation, empathy, and community at every level.
+Courtesy of the American Dance Festival Travelogue (1977), Performers: Catherine Kirk, Savannah Gaillard, Jennifer Payán, Burr Johnson, 
+Claude CJ Johnson, Ashley Merker, Spencer Weidi; Photo by © Ben McKeown
+46
+CREATIVE NEW YORK 2025
+WITHOUT BOLD, COORDINATED ACTION FROM CITY AND STATE POLICYMAKERS, THE CITY RISKS LOSING THE  
+artists, organizations, and creative businesses that help power its economy and define its identity. The following 
+series of recommendations will ensure artists not just survive but thrive in New York City over the next decade.
+1. Make New York more affordable—for artists and everyone
+The single most effective step city and state leaders can take to sustain New York’s creative sector is to tackle 
+the affordability crisis head-on. Soaring housing costs have made it nearly impossible for many artists and cre-
+ative professionals to live and work here. Reversing this trend will require a massive increase in housing produc-
+tion citywide—including deeply affordable, workforce, and middle-income units—paired with reforms to unlock 
+more supply in every borough. The City of Yes for Housing Opportunity is an important step forward, but far more 
+will be needed to meaningfully expand the city’s housing supply. Policymakers should build on City of Yes by 
+extending as-of-right zoning to more transit-rich areas, fully eliminating remaining parking minimums, streamlin-
+ing permitting and environmental review processes that continue to delay projects, legalizing accessory dwell -
+ings more broadly across low-rise neighborhoods, expanding opportunities for small-site and missing-middle 
+infill, establishing a viable financing framework to support new rental housing production, and strengthening 
+preservation tools to stabilize the city’s existing affordable housing stock. Without these changes, ambitious 
+new housing targets will fall short—and New York risks losing the creative core that powers its economy and 
+civic life.
+2. Create 5,000 artist-preference housing units by 2030
+New York City has fallen behind the rest of the state—and the nation—when it comes to developing affordable 
+housing for artists. To reverse this, the city should commit to building or designating 5,000 artist-preference 
+units by 2030, achieved through modest set-asides in citywide affordable housing projects, prioritized on public 
+land and in mixed-income developments. HPD should issue clear guidance on artist-preference policy modeled 
+on state standards to ensure equitable, transparent implementation. The city should also create a biennial NYC 
+Artist Survey and dashboard to collect better data on artists’ housing and space needs. In parallel, policymakers 
+should develop a citywide “Artist Live/Work Standard” that establishes zoning and code models for safe,  
+practical mixed-use housing. Artist-preference units should also be incorporated into office-to-residential  
+conversions, and a new Artist Housing Accelerator should help fund early-stage costs for projects serving this 
+vital but vulnerable workforce.
+Section 10: Policy Recommendations
+47
+3. Launch NYC’s first five-borough cultural festival
+New York is home to a rich array of annual cultural events—from Lunar New Year celebrations and the West  
+Indian Day Parade to the Tribeca Film Festival and the Armory Show. But the city still lacks a signature, citywide 
+festival on the scale of Austin’s SXSW, the Venice Biennale, or the Edinburgh Fringe, which generates more than 
+3 million ticket sales and $630 million in economic impact for a much smaller city. A Five Borough Cultural  
+Festival—coordinated by the city and designed to build on and amplify the many festivals and programs already 
+happening throughout the year—would give residents and visitors a powerful new reason to explore the city’s 
+creative landscape.
+With strong mayoral leadership, the festival would enlist hundreds of venues and organizations across all five 
+boroughs and open streets, plazas, parks, historic buildings, and city-owned properties for music, dance, 
+theater, visual art, open studios, and immersive experiences—while significantly easing red tape for outdoor 
+cultural programming. The first iteration need not be prohibitively complex; simply identifying a week in the 
+calendar, rallying existing partners, and putting the mayor’s support behind a unified cultural moment  
+could go a long way toward making this a reality. Over time, sponsorships, ticketed events, and festival passes 
+could offset much of the cost, while the city focuses on coordination, access to public space, streamlined 
+permitting, and resilience planning.
+4. Launch a portable benefits pilot for freelancers and self-employed artists
+Nearly one-third of New York’s creative workers are freelancers, independent contractors, or self-employed—and 
+they’re part of a rapidly growing independent workforce citywide. Yet most lack access to the basic safety nets 
+that full-time employees rely on: health insurance subsidies, paid leave, retirement savings, and unemployment 
+support. To make creative work more sustainable and address deep inequities facing creative workers of color, 
+the next mayor should launch a portable benefits system that allows independent workers to accrue and keep 
+essential benefits as they move between gigs, employers, or sectors. Rather than building a new public agency, 
+the city should partner with a trusted nonprofit like Freelancers Union to administer portable accounts, with 
+proportional contributions from employers, platforms, and public funding.
+A streamlined, universally accessible portable benefits system would reduce economic precarity across the arts 
+while strengthening the broader freelance and gig workforce. Benefits should follow the worker—not the job—
+and include options such as health-insurance subsidies, paid leave, and retirement savings. By pooling  
+contributions and simplifying enrollment, New York can ensure that independent workers receive meaningful, 
+durable support without adding administrative burdens. This approach would help stabilize creative careers, 
+boost equity, and keep more artists and freelancers in the city for the long term.
+48
+CREATIVE NEW YORK 2025
+5. Establish a pooled insurance program for venues and cultural nonprofits
+Insurance costs have become one of the most punishing—and destabilizing—expenses facing New York City’s 
+arts organizations and small venues, with premiums doubling or tripling since the pandemic. To prevent further 
+closures, the next mayor should launch a city-facilitated pooled insurance program that allows cultural organizations 
+to access affordable coverage through collective purchasing power. The city should partner with NYCEDC or SBS 
+and a trusted nonprofit intermediary to negotiate discounted group rates for liability, property, event, and venue 
+insurance, with additional subsidies for organizations under $1 million in annual revenue.
+The pooled program could function similarly to group health purchasing alliances: organizations join voluntarily, 
+the city helps secure better prices and stronger underwriting, and a nonprofit administrator handles enrollment 
+and compliance. Over time, the city should commission a feasibility study on establishing a captive insurance 
+entity or risk retention mechanism specifically for the arts and nightlife sector—creating a long-term, self-sustaining 
+solution. In the near term, however, a collective purchasing pool would provide immediate relief, freeing up 
+scarce organizational dollars for programming, staff, and community engagement—and helping small venues 
+survive in every borough
+6. Help cultural organizations build long-term stability  
+and increase flexibility
+For many small and mid-sized arts organizations, the rising cost of space has become a fundamental barrier to 
+stability. While ownership is not the right solution for every group—particularly those without the balance sheet, 
+staffing capacity, or financial cushion to manage a building—preserving existing cultural spaces and supporting the 
+subset of organizations that are prepared to take on ownership can be essential to ensuring long-term community 
+cultural assets. The city and state should launch a Cultural Ownership Fund focused on helping mission-driven 
+cultural organizations retain space already in the sector and supporting those with the capacity to responsibly  
+acquire or co-locate in permanent homes, with priority for groups rooted in lower-income communities.
+At the same time, any ownership strategy must be paired with policies that help organizations keep their  
+operations strong and adaptable. This includes scaling shared back-office services—such as accounting, payroll, 
+HR, and benefits—by expanding cooperative models like ArtsPool, and supporting shared-space arrangements 
+that allow multiple organizations to co-locate, program jointly, or share rehearsal, performance, and fabrication 
+facilities. Flexibility is just as important as stability, which is why the city should also reform its overly cumbersome 
+Temporary Place of Assembly permitting process so that arts and culture producers can more easily activate 
+unused spaces for performances, exhibitions, and concerts.
+49
+7. Scale up NYCEDC’s support for the creative economy
+NYCEDC already plays a role in supporting the city’s creative economy, but its focus and resources remain far 
+smaller than those devoted to sectors like life sciences, green tech, or manufacturing. To meet the scale of  
+the challenge, NYCEDC should elevate and expand its Creative Industries work into a core pillar of the  
+agency’s economic strategy, on par with other growth sectors. That means dedicating new staff and funding to 
+coordinate investments across design, advertising, music, fashion, and film; embedding creative industry goals 
+in every NYCEDC capital project; and integrating creative workforce development into the agency’s training  
+and entrepreneurship programs.
+NYCEDC should commit to dedicating at least 1 percent of capital budgets to public art or creative placemaking in 
+every capital project—building on the existing Percent for Art law but applying it more consistently and intentionally 
+across EDC-managed developments. By involving artists much earlier in the design process, EDC can  
+move beyond end-stage murals or sculptures and integrate creative elements from the start, from outdoor  
+performance spaces to artist work areas or artist-designed architectural features, ensuring capital investments 
+strengthen the city’s cultural vitality. The agency should also expand shared production hubs for music,  
+podcasting, and small creative businesses and launch signature initiatives such as Independent Film Week  
+and a global NYC Music Summit to cement the city’s standing as a creative capital. At the same time, NYCEDC 
+should partner with industry leaders to stabilize struggling sectors—including advertising, design, and film—
+through business incubators, export assistance, and targeted workspace incentives.
+8. Embed artists across city government
+New York’s Public Artists in Residence (PAIR) program has already shown the power of integrating artists into 
+city agencies—but its reach remains limited, touching only a small share of the government. The next mayor 
+should expand PAIR tenfold and create full-time civic artist positions embedded within high-impact agencies such 
+as Housing Preservation and Development (HPD), Transportation (DOT), Youth and Community Development 
+(DYCD), City Planning (DCP), and Buildings (DOB)—none of which have ever hosted a PAIR artist, despite their 
+central role in shaping daily life. Each agency should develop a “+Art” initiative—DOT + Art, Parks + Art, Hospitals 
++ Art—pairing artists with public servants to co-design creative projects, community engagement campaigns, 
+and civic improvements.
+These collaborations can transform everyday infrastructure into platforms for expression, from installations in 
+civic buildings to youth engagement programs, public-space activations, and community-building cultural 
+events. Embedding artists across these agencies would strengthen trust between residents and government, 
+make civic spaces more welcoming, and help address complex challenges with new creative tools. Expanding 
+PAIR beyond the handful of agencies that have participated to date would signal that creativity is a core city 
+function—not an afterthought—and weave the arts more fully into urban problem-solving.
+50
+CREATIVE NEW YORK 2025
+9. Generate dedicated, recurring revenue for the arts
+Even with steadily increasing cultural budgets, the city’s arts ecosystem remains vulnerable to fiscal swings—  
+including federal funding cuts—even as the number of cultural nonprofits has surged over the past decade. To 
+improve stability, policymakers should establish recurring revenue streams dedicated to arts and culture. One 
+approach is a voluntary surcharge on overnight hotel stays with proceeds directed to a “Parks and Culture Fund” 
+supporting both public art and recreation. The city could also pilot designated Cultural Districts, funded through 
+modest assessments on nearby property owners, to sustain programming and maintenance in key cultural  
+corridors. Together, these mechanisms would ensure predictable funding for the arts while aligning investment 
+with the tourism, development, and quality-of-life benefits that culture generates citywide.
+In addition to generating new revenue, the city should make its existing public funding more reliable and equitable. 
+The mayor should prioritize reforms to the Department of Cultural Affairs’ Cultural Development Fund to ensure 
+timely payments, transparent reporting, and more stable multiyear operating support for midsized cultural  
+organizations. Establishing a new tier of “Cultural Organizations Group” grantees—between the major Cultural 
+Institutions Group and smaller nonprofits—would provide predictable funding to hundreds of midsized organizations 
+that anchor local creative ecosystems but currently face chronic instability.
+10. Launch a Creative Pathways Initiative across NYC public schools  
+and CUNY
+New York City’s creative economy does not reflect the diversity of the city—and without deliberate action, those 
+inequities will remain. To ensure that far more New Yorkers can access the well-paying careers in design, film 
+and TV, advertising, creative tech, performing arts, and cultural management, city leaders should launch a  
+Creative Pathways and Talent Pipeline Initiative spanning NYC Public Schools and CUNY. At the K–12 level, the 
+next administration should make the creative economy the next major focus of FutureReadyNYC, building on the 
+initiative’s progress in business, technology, healthcare, and education. This should include establishing Creative 
+Schools NYC, a new effort to guarantee meaningful, sequential arts and creative-skills learning in every grade 
+band; expanding highly effective but small-scale nonprofit programs; integrating creative occupations into the 
+city’s youth apprenticeship efforts; and increasing creative-sector participation in the Summer Youth Employment 
+Program. A centralized employer-matching effort—guided by a new creative-sector advisory council—would help 
+ensure that work-based learning opportunities reach far more schools and students. At the postsecondary and 
+early-career level, the city should establish a Creative Economy Talent Pipeline that connects CUNY students 
+and adult learners with paid internships, mentorship, and clear routes into a full range of creative careers—
+building on and going beyond the CUNY Cultural Corps, which is exclusively focused on nonprofit arts. This effort 
+should replicate the success of CUNY 2X Tech through a CUNY 2X Creative initiative, designed to bring career 
+exploration, mentorship, and industry expertise to CUNY students interested in creative careers.
+51
+CREATIVE NEW YORK 2025
+Endnotes
+1. Center for an Urban Future, analysis of data from  
+Lightcast using the “Resident Worker” metric, accessed 
+October 17, 2025.
+2. Claire Cain Miller, “Americans Are Staying Home More.  
+The Economy Isn’t the Same,” New York Times,  
+October 5, 2024, https://www.nytimes.com/2024/10/05/
+upshot/americans-homebodies-alone-census.html.
+3. Center for an Urban Future, analysis of data from the  
+2023 American Community Survey 5-year estimates, 
+defining artists as SOC 27-1010 Artists and Related 
+Workers, SOC 27-2010 Actors, Producers, and Directors, 
+SOC 27-2030 Dancers and Choreographers, SOC 27-2040 
+Musicians, Singers, and Related Workers, SOC 27-2091 
+Disc Jockeys (Except Radio), SOC 27-3040 Writers and 
+Editors, and SOC 27-4021 Photographers.
+4. Urban Institute, National Center for Charitable  
+Statistics (NCCS), “Nonprofit Sector in Brief Dashboard,”  
+http://nccsweb.
+5. Center for an Urban Future, analysis of data from Lightcast. 
+Other cities defined by MSA boundaries.
+6. Robin Pogrebin, “Guggenheim Lays Off Workers Amid 
+Broader Cutbacks,” New York Times, February 28, 2025, 
+https://www.nytimes.com/2025/02/28/arts/design/ 
+guggenheim-layoffs.html; Robin Pogrebin, “Brooklyn  
+Museum Announces Layoffs as Arts Institutions Face 
+Strains,” New York Times, February 7, 2025,  
+https://www.nytimes.com/2025/02/07/arts/design/
+brooklyn-museum-layoffs.html.
+7. Adjustment to Brooklyn’s cost of living based on the COL 
+index from Lightcast, derived from annual C2ER data.
+8. Jiayi Xu and Danielle Hale, New York City Rental Report 
+2025 Q1: The Pricey Get Pricier—All New York City  
+Boroughs Experienced Year-Over-Year Rent Growth  
+(Realtor.com, 2025), https://www.realtor.com/research/
+nyc-q1-2025-Rent/.
+9. Center for an Urban Future, analysis of data from the  
+2023 American Community Survey 5-year estimates, 
+defining artists as SOC 27-1010 Artists and Related 
+Workers, SOC 27-2010 Actors, Producers, and Directors, 
+SOC 27-2030 Dancers and Choreographers, SOC 27-2040 
+Musicians, Singers, and Related Workers, SOC 27-2091 
+Disc Jockeys (Except Radio), SOC 27-3040 Writers and 
+Editors, and SOC 27-4021 Photographers.
+10. Julia Carmel, “Brooklyn’s Nightlife Scene Faces  
+Closures,” New York Times, April 8, 2025,  
+https://www.nytimes.com/2025/04/08/realestate/ 
+brooklyn-closures-nightlife.html.
+11. Office of the New York City Comptroller, “Nonprofit  
+Nonpayment,” https://comptroller.nyc.gov/reports/ 
+nonprofit-nonpayment/.
+12. Jennifer Vanasco, “NYC Cultural Institutions Scrambling 
+After Trump Admin Cuts Arts Funding,” Gothamist,  
+https://gothamist.com/arts-entertainment/nyc-cultural- 
+institutions-scrambling-after-trump-admin-guts-arts-funding.
+13. Julie Watson, “U.S. Detention of European and Canadian 
+Tourists Creates Fear over Traveling to America,” PBS  
+NewsHour, March 21, 2025, https://www.pbs.org/ 
+newshour/world/u-s-detention-of-european-and- 
+canadian-tourists-creates-fear-over-traveling-to-america; 
+Nia Decaille, “Hoping to Visit the U.S.? It Might Cost  
+You an Extra $250,” New York Times, July 22, 2025, 
+https://www.nytimes.com/2025/07/22/travel/visa- 
+integrity-fee-trump-big-beautiful-bill.html.
+14. Edison Research, “The Top 50 Podcasts in the U.S. for  
+Q1 2025 from Edison Podcast Metrics,”  
+https://www.edisonresearch.com/the-top-50-podcasts- 
+in-the-u-s-for-q1-2025-from-edison-podcast-Metrics/.
+15. Sarah Perez, “Spotify Layoffs Hit the Podcast  
+Industry Hard,” TechCrunch, December 7, 2023,  
+https://techcrunch.com/2023/12/07/spotify-layoffs- 
+podcast-industry-fallout/.
+16. Barron’s, “Scents and Sustainability: Candle  
+Company Apotheke Is Sticking to Its Green Goals,”  
+https://www.barrons.com/articles/scents-and- 
+sustainabilitycandle-company-apotheke-is-stick-
+ing-to-its-greengoals-57af5665.
+17. QNS, “Queens Craft Brigade to Host 8th Anniversary  
+Celebration in Astoria,” July 2025, https://qns.
+com/2025/07/queens-craft-brigade-to-host-8th- 
+anniversary-celebration-in-astoria/; Staten Island Advance, 
+“Snug Harbor Launches Outdoor Festival ‘Cottage Row 
+Curiosities,’” March 2021, https://www.silive.com/ 
+entertainment/2021/03/snug-harbor-launches-outdoor- 
+festival-artist-market-for-cottage-row-curiosities.html.
+18. Influencity, “The Largest Influencer Study of the United 
+States 2023,” https://influencity.com/resources/studies/
+the-largest-influencer-study-of-the-united-states-2023/.
+19. Rolling Stone, “Top Social Media Influencers and  
+Creators 2025,” https://www.rollingstone.com/culture/
+culture-lists/top-social-media-influencers- 
+creators-2025-1235413251/.
+20. Gothamist, “NYC Art Schools See Record-High  
+Application Numbers as Gen Zers Clamber to Enroll,” 
+https://gothamist.com/arts-entertainment/nyc-artschools-
+see-record-high-application-numbers-as-gen-zersclamber-
+to-enroll.
+52
+21. Data from American Community Survey, 2013 and 2023.
+22. Median city income from American Community Survey, 
+2022.
+23. Chloe Veltman, “Sweeping Cuts Hit NEA after Trump  
+Administration Calls to Eliminate the Agency,” NPR,  
+May 3, 2025, https://www.npr.org/2025/05/03/ 
+nx-s1-5385888/sweeping-cuts-hit-nea-after-trump- 
+administration-calls-to-eliminate-the-agency; “Grant  
+Announcement—FY 2025,” National Endowment for the 
+Arts, January 10, 2025, https://www.arts.gov/sites/ 
+default/files/Fall2024_StateListReport_UPDATED.pdf; 
+Ryan Kailath, “NYC Arts Groups Face ‘Existential’  
+Challenge with Trump Cuts to Federal Funding,” Gothamist, 
+May 16, 2025, https://gothamist.com/arts-entertainment/
+nyc-arts-groups-face-existential-challenge-with-trump-cuts-
+to-federal-funding.
+24. Kailath, “NYC Arts Groups Face ‘Existential’ Challenge  
+with Trump Cuts to Federal Funding.”
+25. Samantha Maldonado, “NYC’s Arts World Reels  
+from Trump NEA Grant Cuts,” The City, May 8, 2025, 
+https://www.thecity.nyc/2025/05/08/arts-budget-cuts-
+nea-trump-funds-theater-dance/.
+26. Kailath, “NYC Arts Groups Face ‘Existential’ Challenge  
+with Trump Cuts to Federal Funding.”
+27. Arya Sundaram, “NYC Immigration Arrests and  
+Deportations Surge after Slow Start, Data Shows,”  
+Gothamist, August 31, 2025, https://gothamist.com/
+news/nyc-immigration-arrests-and-deportations-surge- 
+after-slow-start-data-shows.
+28. Rayna Breuer, “European Artists Boycott US over  
+Trump’s Culture Policy,” DW, March 26, 2025, 
+https://www.dw.com/en/european-artists-boy-
+cott-us-over-trumps-culture-policy/a-72040096.
+29. New York City Tourism + Conventions, 2025 Travel &  
+Tourism Outlook (November 2025), https://assets.
+ctfassets.net/1aemqu6a6t65/4N6LiNiBzK8jRdzRZ-
+poKY/8ef83d8b1891119f384a6495d5967911/2025_
+Travel__Tourism_Outlook_November.pdf; Matthew  
+Haag, “New York City Predicted Record Tourism.  
+Then Came Trump,” New York Times, May 8, 2025,  
+https://www.nytimes.com/2025/05/08/nyregion/
+nyc-tourism.html.
+30. “New York City Tourism on Track to Finish 2024 with  
+$79 Billion in Economic Impact and $51 Billion in  
+Direct Spending Across the Five Boroughs,” New York  
+City Tourism + Conventions, December 20, 2024,  
+https://www.business.nyctourism.com/press-media/
+press-releases/NYC-Tourism-year-end-tourism- 
+numbers-2024.
+31. Rana Pratap, “Canada Grounds US Travel Plans as Airlines 
+Pivot Toward Europe,” Travel and Tour World, April 19, 
+2025, https://www.travelandtourworld.com/news/article/
+canada-grounds-us-travel-plans-as-air-canada-westjet-and-
+porter-soar-toward-europe-with-flights-to-italy-uk-greece-
+spain-and-netherlands-as-lufthansa-joins-the-surge-new-
+report-you-need-to-know/.
+32. Marisa Garcia, “These 6 U.S. Cities Lost the Most Airline 
+Seats as Canada Reacts to Trump Policy,” Forbes, April 
+6, 2025, https://www.forbes.com/sites/marisagarcia/ 
+2025/04/06/these-6-us-cities-lost-the-most-airline-seats-
+as-canada-reacts-to-trump-policy/; Government of Canada, 
+“Travel Advice and Advisories for United States (USA),” 
+Travel.gc.ca, October 1, 2025, https://travel.gc.ca/ 
+destinations/united-states.
+33. Logan Culwell-Block, “Latest Broadway Demographic 
+Report Shows Tourism Dollars Are Boosting Broadway,” 
+Playbill, February 4, 2025, accessed November 25, 2025, 
+https://playbill.com/article/latest-broadway-demographic- 
+report-shows-tourism-dollars-are-boosting-broadway.
+34. Jason Bram, Tourism’s Role in New York City’s Economy 
+(Office of the New York City Comptroller, 2025),  
+https://comptroller.nyc.gov/reports/tourisms-role-in-new-
+york-citys-economy/; Scott Simon, “Broadway Is Seeing 
+a Steady Revival after the Pandemic, Partly Buoyed by 
+Tourists,” NPR, February 8, 2025, https://www.npr.
+org/2025/02/08/nx-s1-5283976/broadway-is-seeing-a-
+steady-revival-after-the-pandemic-partly-buoyed-by-tourists.
+35. Michael Paulson, “The Broadway Musical Is in  
+Trouble,” New York Times, September 22, 2025,  
+https://www.nytimes.com/2025/09/22/theater/ 
+broadway-musicals-finances.html.
+36. Center for an Urban Future, analysis of data from the  
+Current Employment Statistics Survey, defining the film 
+and TV sector as NAICS 512 Motion Picture and Sound 
+Recording Industries.
+37. Center for an Urban Future, analysis of data from  
+Lightcast, defining the film and TV sector as NAICS 512 
+Motion Picture and Sound Recording Industries,  
+accessed August 21, 2025.
+38. Center for an Urban Future, analysis of data from the  
+Current Employment Statistics Survey, defining the  
+advertising sector as NAICS 5418 Advertising, Public  
+Relations, and Related Services.
+39. Center for an Urban Future, analysis of data from  
+Lightcast, defining the advertising sector as NAICS 5418 
+Advertising, Public Relations, and Related Services,  
+accessed August 21, 2025.
+40. Center for an Urban Future, analysis of data from  
+Lightcast, accessed August 21, 2025.
+41. World Economic Forum, Future of Jobs Report 2025  
+(January 2025).
+53
+CREATIVE NEW YORK 2025
+42. Center for an Urban Future, analysis of data from Lightcast, 
+defining the fashion sector as NAICS 54149 Other Special-
+ized Design Services, accessed August 21, 2025.
+43. Partnership for New York City, At a Crossroads: New  
+York City’s Status as a Global Fashion Capital  
+(September 2024).
+44. Murals for Good, “#1 Stop Discrimin-Asian,”  
+https://muralsforgood.org/%231-stop-discrimin-asian.
+45. NYC Department of Cultural Affairs, “City Artist Corps,” 
+https://www.nyc.gov/site/dcla/cultural-funding/ 
+cityartistcorp.page.
+46. “Symposium: AI x ART,” New York Live Arts, 2019,  
+https://newyorklivearts.org/event/ai-art-symposium/.
+47. “Refik Anadol on AI, Algorithms, and the Machine as 
+Witness,” Museum of Modern Art, December 20, 2022, 
+https://www.moma.org/magazine/articles/821; “Sasha 
+Stiles: A Living Poem,” Museum of Modern Art, 2025, 
+https://www.moma.org/calendar/exhibitions/5839.
+48. “Harold Cohen: AARON,” Whitney Museum of American 
+Art, 2024, https://whitney.org/exhibitions/harold- 
+cohen-aaron; “Hand in Hand: AI Art and Creativity,”  
+Whitney Museum of American Art, 2024,  
+https://whitney.org/events/hand-hand-ai-art.
+49. Martha Schwendener, “A.I. Meets Ancient Philosophy,” 
+New York Times, October 9, 2025, https://www.nytimes.
+com/2025/10/09/arts/design/lu-yang.html.
+50. “‘Mountain of Many Voices’—Live: A Collective Storytelling 
+Performance and Artist Talk,” Asia Art Archive in America, 
+accessed October 15, 2025, https://www.aaa-a.org/
+programs/mountain-of-many-voices-live-a-collective-story-
+telling-performance-and-artist-talk.
+51. “LG Guggenheim Art and Technology Initiative,”  
+Guggenheim Museums and Foundation, accessed  
+October 15, 2025, https://www.guggenheim.org/ 
+initiatives/lg-guggenheim-art-and-technology-initiative.
+52. “Doris Duke Foundation Announces Grants to 20  
+Innovative Theater, Jazz, Contemporary Dance and 
+Multi-Disciplinary Projects Through Its Inaugural  
+Performing Arts Technologies Lab,” Doris Duke  
+Foundation, September 25, 2024, https://www.dorisduke.
+org/news--insights/articles/doris-duke-foundation- 
+announces-grants-to-20-innovative-theater-jazz- 
+contemporary-dance-and-multi-disciplinary-projects- 
+through-its-inaugural-performing-arts-technologies-lab/.
+53. Matt O’Brien, “Visual Artists Fight Back Against Artificial 
+Intelligence Companies for Repurposing Their Work,”  
+PBS NewsHour, August 31, 2023, https://www.pbs.org/
+newshour/arts/visual-artists-fight-back-against-artificial- 
+intelligence-companies-for-repurposing-their-work.
+54. “Cancel the Christie’s AI Art Auction,” open letter,  
+February 8, 2025, https://openletter.earth/cancel-the-
+christies-ai-art-auction-f5135435.
+55. Eli Wizevich, “Artists Sign Open Letter Protesting Christie’s 
+Upcoming All-A.I. Art Auction,” Smithsonian Magazine, 
+February 14, 2025, https://www.smithsonianmag.com/
+smart-news/artists-sign-open-letter-protesting-christies- 
+upcoming-all-ai-art-auction-180986061/.
+56. “Augmented Intelligence,” Christie’s, accessed  
+October 15, 2025, https://onlineonly.christies.com/s/
+augmented-intelligence/lots/3837.
+57. Center for an Urban Future, analysis of data from the  
+2023 American Community Survey (5-year estimates).
+58. Center for an Urban Future, “Surveying NYC’s Arts  
+After COVID,” https://nycfuture.org/research/ 
+surveying-nycs-arts-aftercovid.
+59. HueArts New York State, Brown Paper: Mapping a Future 
+for Arts Entities Founded and Led by Black, Indigenous, 
+Latine, Asian, Pacific Islander, Middle Eastern, and All 
+People of Color in New York State, accessed December 9, 
+2025, https://www.hueartsnewyork.org/brown-paper/.
+60. Center for an Urban Future, analysis of Preliminary  
+Expenditure Reports of the City of New York, FY15–FY26.
+61. Center for an Urban Future, analysis of data from the NYC 
+Department of Cultural Affairs, DCLA Programs Funding 
+dataset, NYC Open Data, https://data.cityofnewyork.us/
+Recreation/DCLA-Programs-Funding/y6fv-k6p7.
+62. NYC Department of Cultural Affairs, “Cultural Development 
+Fund (CDF) Reforms,” https://www.nyc.gov/site/dcla/ 
+cultural-funding/cdf-reforms.page.
+63. NYC Office of the Mayor, “Mayor Adams, Department  
+of Cultural Affairs Award More Than $58 Million in  
+Grants to Over 1,000 Nonprofits Through Cultural  
+Development Fund,” December 15, 2022, press release, 
+https://www.nyc.gov/office-of-the-mayor/news/912-22/
+mayor-adams-department-cultural-affairs-award-more- 
+58-million-grants-over-1-000.
+64. Center for an Urban Future, analysis of data from  
+Mayor’s Management Report, FY15–FY24; NYC Department 
+of Cultural Affairs, “CUNY Cultural Corps Expands in Its 
+Second Year,” September 8, 2017, press release,  
+https://www.nyc.gov/site/dcla/about/pressrelease/ 
+PR-2017-09-08-CUNY-CulturalCorps-Expansion.page.
+65. Julia Jacobs, “How Weeksville, a Center of Black History, 
+Fought to Survive,” New York Times, April 6, 2021,  
+https://www.nytimes.com/2021/04/06/arts/design/
+save-weeksville-cig.html; NYC Office of the Mayor, “Mayor 
+Adams, DCLA Announce Biggest Expansion of City’s  
+Cultural Institutions Group in Five Decades,” September 
+30, 2025, press release, https://www.nyc.gov/mayors- 
+office/news/2025/09/mayor-adams-dcla-announce- 
+biggest-expansion-of-city-scultural.
+54
+66. CreateNYC, https://createnyc.cityofnewyork.us/the- 
+cultural-plan/main/.
+67. NYC Office of Media and Entertainment, “Mayor de Blasio 
+Signs Bill Establishing ‘Nightlife Mayor,’” September 17, 
+2017, press release, https://www.nyc.gov/site/mome/
+news/091917-nightlife-office.page; NYC Office of Nightlife, 
+https://www.nyc.gov/site/sbs/businesses/nightlife.page.
+68. NYC Department of Cultural Affairs, “New York City Artist 
+Corps Are Offering 100+ Free Public Engagements Across 
+the City Through the End of September,” September 10, 
+2021, press release, https://www.nyc.gov/site/dcla/
+about/pressrelease/PR-2021-09-10-Artist-Corps- 
+Engagements.page; New York Foundation for the Arts,  
+“City Artist Corps Grants,” https://www.nyfa.org/grant- 
+history/city-artist-corps-grants/; NYC Department of  
+Cultural Affairs, “New York City Artist Corps Culminates 
+with a Record High 300+ Public Events, Performances, 
+and Programs the Last Week of October,” October 25, 
+2021, press release, https://www.nyc.gov/site/dcla/
+about/pressrelease/PR-2021-10-25-CAC-Media.page.
+69. Anne del Castillo and B.J. Jones, “Opinion: NYC Create  
+in Place & Safeguarding Our Creative Capital,” City Limits, 
+January 8, 2025, https://citylimits.org/opinion-nyc- 
+create-in-place-safeguarding-our-creative-capital/.
+70. NYC Department of Cultural Affairs, “Public Artist in  
+Residence,” https://www.nyc.gov/site/dcla/publicart/ 
+pair.page.
+71. NYC Department of Cultural Affairs, “NYC Department  
+of Cultural Affairs and Agency Partners Launch Open  
+Call for 2024 Public Artists in Residence,” July 11, 2024, 
+press release, https://www.nyc.gov/site/dcla/about/ 
+pressrelease/PR-2024-7-11-DCLA-Launches-2024- 
+Public-Artists-in-Residence-Open-Call.page.
+72. NYC Department of Cultural Affairs, “NYC Department  
+of Cultural Affairs Releases Inaugural Gallery of  
+Pre-approved ‘City Canvas’ Artworks for Use on  
+Protective Street Structures,” July 15, 2024, press  
+release, https://www.nyc.gov/site/dcla/about/ 
+pressrelease/PR-2024-7-15-DCLA-Releases- 
+Inaugural-City-Canvas-PreApproved-Artwork-Gallery.page.
+73. City University of New York, “CUNY, NYC Department  
+of Cultural Affairs, Rockefeller Foundation Announce  
+New Paid Internship Program for Students, CUNY  
+Cultural Corps,” September 9, 2016, press release, 
+https://www.cuny.edu/news/cuny-nyc-department- 
+of-cultural-affairs-rockefeller-foundation-an-
+nounce-new-paid-internship-program-for-students-cuny- 
+cultural-corps/; CUNY Cultural Corps, “Current Partners,” 
+https://www.cuny.edu/academics/current-initiatives/ 
+cultural-corps/program-partners/#current-partners.
+74. NYC Department of Cultural Affairs, “As CUNY Cultural 
+Corps Enters Its Fourth Year, NYC Department of Cultural 
+Affairs and CUNY Announce New Permanent Public  
+Funding,” September 17, 2019, press release,  
+https://www.nyc.gov/site/dcla/about/pressrelease/PR-
+2019-09-17-CUNY-Cultural-Corps-Kickoff-2019-20.page.
+75. Center for an Urban Future, “CUF Report Inspires Major 
+New State Investment in the Arts,” https://nycfuture.org/
+impact/cuf-report-inspires-major-new-state-investment-in-
+the-arts.
+76. Center for an Urban Future, analysis of NYC Parks &  
+Recreation Department webpage, “Art in the Parks  
+Current Exhibits,” https://www.nycgovparks.org/art.
+77. Ibid.
+78. The Forest Park Trust, “Summer Concert Series 2025,” 
+https://forestparktrust.org/events/2024-summer- 
+concert-series-4acsh.
+79. William Hamilton, “Displaced Artists Open a New Front  
+at the Brooklyn Army Terminal,” New York Times,  
+April 22, 2019, https://www.nytimes.com/2019/04/22/
+arts/design/artbuilt-brooklyn-army-terminal.html; NYC  
+Department of Cultural Affairs, “Key Indicators,”  
+CreateNYC, https://createnyc.cityofnewyork.us/ 
+action-plan-key-indicators/.
+80. NYCEDC, “Gansevoort Square,” https://edc.nyc/project/
+gansevoort-square.
+81. NYCEDC, “Hunts Point Resiliency Celebrates Artists in  
+Residence at August 26th Event,” Medium, August 23, 
+2017, https://medium.com/hunts-point-resiliency/ 
+hunts-point-resiliency-celebrates-artists-in-residence-at- 
+august-26th-event-9081398178c9.
+82. NYC Department of Cultural Affairs, “About PAIR,”  
+https://www.nyc.gov/site/dcla/publicart/pair.page.
+83. Center for an Urban Future, analysis of NYC Department of 
+Cultural Affairs press releases and PAIR program webpage, 
+https://www.nyc.gov/site/dcla/publicart/pair.page.

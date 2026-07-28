@@ -1,0 +1,77 @@
+{
+ "id": "2026-02-01-cuf-5-revenue-raising-ideas",
+ "source": "outside",
+ "auditor": "Center for an Urban Future",
+ "title": "5 Revenue-Raising Ideas for NYC",
+ "plain_title": "Five ways the city could raise money on its own",
+ "agency": "New York City government",
+ "issued": "2026-02-01",
+ "url": "https://nycfuture.org/research/5-revenue-raising-ideas-for-nyc",
+ "pdf": "https://nycfuture.org/pdf/5IdeasRaisingRevenue_v4.pdf",
+ "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, proposing five ways the city could generate new recurring revenue using tools it says are largely within the city's own control rather than Albany's.",
+ "background": "The report says the city faces widening budget gaps and federal funding cuts while most spending is already locked into fixed costs such as employee pay, education, healthcare and social services.",
+ "findings": [
+  {
+   "plain": "The report says the five ideas together would raise more than $1.4 billion a year, or about $5.6 billion over four years.",
+   "quote": "$1.4 billion in new revenue"
+  },
+  {
+   "plain": "The City University of New York (CUNY) controls large amounts of surface parking that the report says could be ground-leased for infill housing while the land stays publicly owned.",
+   "quote": "CUNY controls more than 80 acres of surface parking."
+  },
+  {
+   "plain": "Driverless ride-hailing is being tested in the city under temporary permits, and the report says New York captured little revenue when app-based ride-hailing scaled up in the 2010s.",
+   "quote": "benefit of hindsight and the chance to act earlier."
+  },
+  {
+   "plain": "The Mayor's Office of Climate and Environmental Justice identified 47 city-owned sites suitable for battery storage in 2023, but the report says no solicitation has followed.",
+   "quote": "has not put out a single RFP soliciting bids for energy"
+  },
+  {
+   "plain": "Fewer than 2.5 percent of the city's street parking spaces are metered, which the report calls the largest untapped revenue option that needs no state approval.",
+   "quote": "just 80,000 of these are metered, or fewer than 2.5"
+  },
+  {
+   "plain": "Across more than 30,000 acres of parkland the city licenses only a handful of restaurant concessions and cafes, and more than half of all park concessions are carts or trucks.",
+   "quote": "city licenses just 15 restaurant concessions"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$1.4 billion",
+   "label": "New annual revenue the five ideas together would raise"
+  },
+  {
+   "value": "80 acres",
+   "label": "CUNY surface parking that could be partly redeveloped"
+  },
+  {
+   "value": "47 city-owned sites",
+   "label": "City sites identified in 2023 for battery storage"
+  },
+  {
+   "value": "80,000",
+   "label": "Metered street parking spaces in the city today"
+  },
+  {
+   "value": "15 restaurant concessions",
+   "label": "Restaurant concessions licensed across city parkland"
+  }
+ ],
+ "recommendations": [
+  "Develop infill housing on underused portions of City University of New York (CUNY) campuses through long-term ground leases, and steer the lease revenue to campus infrastructure and economic mobility programs.",
+  "Set an autonomous vehicle impact fee, combining a per-trip surcharge with annual permit fees, before driverless services scale up, and dedicate part of the money to charging infrastructure, street safety and support for current for-hire drivers.",
+  "Site battery storage on city-owned property, including by directing the Department of Citywide Administrative Services to issue requests for proposals for at least 40 of the 47 sites identified by the Mayor's Office of Climate and Environmental Justice.",
+  "Expand paid street parking by metering more commercial corridors, launching dynamic pricing in central business districts and piloting residential parking permits.",
+  "Expand park concessions and sponsorships, including at least 20 new destination concessions, share the revenue through designated partners and standardize the rules across agencies."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "compliance_note": "",
+ "topics": [
+  "money and contracts",
+  "transportation",
+  "housing"
+ ],
+ "is_followup": false
+}

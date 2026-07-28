@@ -1,0 +1,77 @@
+{
+  "id": "2026-07-21-cbc-coge-rainy-day-fund-language",
+  "source": "outside",
+  "auditor": "Citizens Budget Commission",
+  "title": "CBC Recommends COGE Strengthen Proposed Charter Rainy Day Fund Language",
+  "plain_title": "Six changes proposed to the city's rainy day fund charter language",
+  "agency": "New York City Commission on Government Efficiency",
+  "issued": "2026-07-21",
+  "url": "https://cbcny.org/research/cbc-recommends-coge-strengthen-proposed-charter-rainy-day-fund-language",
+  "pdf": "https://cbcny.org/sites/default/files/media/files/CBC_RDF-COGE-Memo_07212026_0.pdf",
+  "what_they_audited": "A memo from the Citizens Budget Commission to the Commission on Government Efficiency (COGE) reviewing the commission's proposed New York City Charter amendment on the city's Rainy Day Fund, called the Revenue Stabilization Fund (RSF).",
+  "background": "The proposed amendment would set a target fund size of 12 percent of the prior year's tax revenue and would carry over the withdrawal rule that is currently in state law.",
+  "findings": [
+    {
+      "plain": "The proposed withdrawal rule would let half the fund be spent for any purpose, with the rest available under a mayor's own definition of a compelling fiscal need.",
+      "quote": "would allow 50 percent of the fund to be used for any reason"
+    },
+    {
+      "plain": "The target size in the proposal could be met with money held in other funds, including the Retiree Health Benefits Trust and the General and Capital Stabilization Reserves.",
+      "quote": "would allow the Retiree Health Benefits Trust (RHBT), General and Capital Stabilization Reserves, or other funds to be included, in effect, as rainy day reserves"
+    },
+    {
+      "plain": "Under the proposed language the city could write a policy that lets it skip deposits, for instance to fund a new or expanded program in a strong revenue year.",
+      "quote": "The proposed language would allow the City to draft a policy that permits it to forgo deposits"
+    },
+    {
+      "plain": "The report says a 12 percent target is too small measured against past recessions, and puts the amount needed to cover two years of recessionary tax revenue losses at 16 percent.",
+      "quote": "sets a target size of 12 percent of tax revenue in the preceding year, which is too small based on history"
+    },
+    {
+      "plain": "The proposal asks for consultation with the city comptroller but does not require the comptroller's assessment to be published.",
+      "quote": "The proposed language requires Comptroller consultation, which is beneficial but not sufficient."
+    },
+    {
+      "plain": "The proposal would set the fund's operating rules through policy rather than local law.",
+      "quote": "The proposed amendment would set rules by policy."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "12 percent",
+      "label": "Target fund size in the proposed charter language"
+    },
+    {
+      "value": "16 percent",
+      "label": "Target fund size the report proposes"
+    },
+    {
+      "value": "1 percent",
+      "label": "Emergency revenue loss threshold proposed for withdrawals"
+    },
+    {
+      "value": "two-thirds",
+      "label": "Proposed cap on a first-year withdrawal"
+    },
+    {
+      "value": "$100-billion-plus",
+      "label": "City liability for retiree health insurance"
+    }
+  ],
+  "recommendations": [
+    "Allow withdrawals only during a recession defined by economic indicators or a severe emergency causing revenue losses or added spending above 1 percent of city funds, and cap the first-year withdrawal at two-thirds of the balance.",
+    "Apply the target fund size only to the Revenue Stabilization Fund, leaving out the Retiree Health Benefits Trust and the General and Capital Stabilization Reserves.",
+    "Require deposits based on revenue strength alone, using a trigger such as inflation or tax revenue growth above 3 percent.",
+    "Raise the target fund size to 16 percent of tax revenue, the amount the report says would cover two years of recessionary tax revenue losses.",
+    "Require the city comptroller to publish an opinion on whether the fund's implementation policy is reasonable and appropriate.",
+    "Set the fund's implementation rules and definitions in local law rather than in policy."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "transparency"
+  ],
+  "is_followup": false
+}

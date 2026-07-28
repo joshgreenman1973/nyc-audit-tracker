@@ -1,0 +1,288 @@
+TITLE: 5 Ideas for Retaining NYC’s Young Families
+URL: https://nycfuture.org/research/5-ideas-for-retaining-nycs-young-families
+ISSUED: 2025-03-01
+PDF: https://nycfuture.org/pdf/RetainingYoungFamilies_v8.pdf
+
+MARCH 2025
+5
+Ideas for
+Retaining
+NYC’s
+Young
+Families
+5 Ideas for Retaining NYC’s Young Families is a publication of the Center for an Urban Future.
+Researched and written by Eli Dvorkin and
+Jonathan Bowles. Edited by Dorian Block.
+Additional research by Nicole Lu and Ben
+Cresto. Designed by Sarah Tan.
+Center for an Urban Future (CUF) is a leading
+New York City–based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy.
+
+This report was made possible thanks to the
+Fisher Brothers Foundation and Winston C.
+Fisher. General operating support for the
+Center for an Urban Future has been provided by The Clark Foundation and the Altman
+Foundation.
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+EVENTS AND OPERATIONS MANAGER
+Stephanie Arevalo
+SENIOR EDITOR
+Dorian Block
+DATA RESEARCHER
+Rachel Neches
+SENIOR FELLOW FOR CLIMATE & OPPORTUNITY
+John Surico
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo
+BOARD OF DIRECTORS
+Gifford Miller (Chairman)
+Margaret Anadu
+Jonathan Bowles
+Rafael E. Cestero
+Russell Dubner
+Garnesha Ezediaro
+Susan Fine
+Kyle Kimball
+Katy Knight
+Jessie Lazarus
+David Lebenstein
+Eric S. Lee
+Josh Moskowitz
+Monisha Nariani
+Max Neukirchen
+Andrew Reicher
+Peter Schubert
+John Siegal
+Thomas Vecchione
+Sherry Wang
+Kate Wittels
+
+5 Ideas for
+Retaining NYC’s
+Young Families
+Introduction
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 1. Spark public-private childcare partnerships to help close childcare gaps. . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 2. Create or free up 10,000 three-bedroom units of affordable housing for families. . . . . . . . . . . . . . . . . . . . . . . . . . 6 3. Make 3-K and Pre-K truly universal by using AI-powered
+ data tools to reach every child.. . . . . . . . . . . . . . . . . . . . . 8 4. Scale up NYC Parks’ Summer Day Camps to serve 5,000 children . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 5. Revamp NYC’s struggling middle school system to revamp
+NYC’s by creating new, smaller schools and investing in innovative leadership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+1
+DESPITE AN ARRAY OF CHALLENGES THAT EMERGED or accelerated during the pandemic, New York City has only solidified its status as the nation’s pre-emine nt destination for young people in their twenties. College students and recent graduates from across the natio n and around the world continue to flock to the city i n large numbers. Indeed, NYU received more than 120,000 applications for admission into its fall 2025 class, more than ever before and more than any other private U.S.
+university. The population of New Yorkers ages 18 to 21 has increased since 2021, even as the city’s tot al population shrank by 2.5 percent.1
+New York’s enduring appeal to young people remains one of the city’s greatest strengths—and in today’s talentbased economy, it presents a massive opportunity to set the city up for years of future economic success. But to fully capitalize on this opportunity, city policyma kers will need to take concrete steps to make sure New York can do far better in holding onto young people as they age into their thirties and start families.
+In recent years, few cities have suffered as large an exodus of young families. Between April 2020 and July 2023, the population of children under the age of five in
+New York City declined by a staggering 18.3 percent. This was far more than the nationwide decline (-4.6 percent), the average decline in large urban counties (-8.1 percent), and more than peer cities such as San Francisco (-15.4 percent), Los Angeles (-14.2 percent), and Chicago (-14.6 percent).2
+While a portion of this may be explained by the declining birth rate, data suggests that a large number of families have relocated to the suburbs and to ot her states—largely due to affordability and quality of l ife issues. Families with children under six were more than twice as likely to leave New York City since 2020 as were households without young children, with movers citing housing quality and affordability as the top concern.3
+Staunching the outmigration of young families will be critical to keeping the city competitive in the decade ahead. While New York benefits immensely from its consistent ability to draw single adults in their 2 0s, losing those adults as they enter their prime earni ng ages hurts the city’s economy and finances. As they raise children, families also tend to be especially invested in the long-term success of the city. They contribute to stable communities by increasing civic engagement, boosting local economies through spending, and driving demand for family-friendly amenities like quality schools, parks, and safe neighborhoods.
+Fortunately, there is a growing consensus among the city’s leaders that New York needs to address t his challenge. Earlier this year, Mayor Adams made a commitment to make New York the best place to raise a family, and many of the other candidates for mayo r have made similar pronouncements. But while there is an emerging agreement on the need to stem the outmigration of families, there is not yet consensus on the specific policies and investments that would have an impact and could be achieved.
+This report aims to fill that gap, laying out five innovative but extremely actionable ideas to help New
+York City retain—and attract—families. Our five conc rete proposals could all be launched this year or in the next few years and, if implemented, would each make a tangible difference in making New York more affordable and more attractive to families.
+1
+5 Ideas for Retaining NYC’s
+Young Families
+2
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 2
+Our five ideas include:
+This report, which was researched and written by the Center for an Urban Future (CUF) and p ublished with support from Fisher Brothers Foundation and Winston C. Fisher, was informed by interviews with a diverse mix of leaders across the city. It is the third of our three reports over the past year that feature high-impact policy ideas for helping New York City thrive in the post-pandemic economy.
+1 Spark public-private childcare partnerships to help close care gaps.
+2 Create or free up 10,000 three-bedroom units of affordable housing for families.
+3 Make 3-K and Pre-K truly universal by using AI-powered data tools to reach every child.
+4 Scale up NYC Parks’ Summer Day Camps to serve 5,000 children.
+5 Revamp NYC’s struggling middle school system by creating new, smaller schools and investing in innovative leadership.
+3
+1
+FOR MANY YOUNG FAMILIES IN NEW YORK CIT Y, the scarcity of affordable, high-quality childcare remains a persistent barrier to staying in the city. In som e neighborhoods, the supply of licensed childcare falls far short of demand, with more than three children under six for every available slot. 4 The result is a crisis that forces many parents—disproportionately women—to exit the workforce or cobble together unreliable ca re solutions, making it even harder for families to put down and maintain deep roots in the city.
+Today, New York City is home to 10,135 licensed, registered childcare providers—down 7.8 percent from a decade ago. This shortfall leads to significant pla cebased childcare gaps. For instance, 14 percent of t he city’s Census tracts qualify as childcare deserts, with a substantial child population and no licensed providers.
+This includes 15 percent of Brooklyn, 18 percent of
+Queens, and 27 percent of Staten Island, as well as several pockets of Manhattan (11 percent) and a few communities in the Bronx (3 percent).5
+Tackling the city’s childcare crisis will require action and investment from every level of government to address severe market failures—expanding subsidies, boosting wages, reforming regulations, and developing infrastructure. But even absent a multibillion-dollar state or federal commitment to universal childcare, New York
+City still can and should do more. One promising an d practical option is to partner with the private sector to help address the city’s place-based childcare gaps, adding supply where it’s needed most by boosting caregiver wages.
+New York City leaders can take inspiration from an innovative program in Iowa, the Childcare Solutions
+Fund (CSF), which is expanding childcare access through a structured public-private funding partnership. The CSF matches public funds with contributions from employers and corporate philanthropic foundations to provide grants and loans that help employers, communities, and childcare providers increase childcare availabi lity in current deserts. Since launching in 2022, Iowa’s pilot program has successfully added an average of 22 new childcare slots per 1,000 children—a 12 percent inc rease from the start of the program—enabling thousands more parents to remain in the workforce. The fund is now being expanded statewide with the goal of creating 11,000 additional slots and supporting job growth i n the childcare sector.6
+The CSF aimed to solve Iowa’s childcare workforce shortage by prioritizing wage enhancements, including pay raises, bonuses, and extra hours. These boosts were essential in reducing high turnover and increasing staff retention, directly expanding childcare capaci ty.
+In addition, the CSF provided grants to cover staff recruitment and training costs, leading to a sustai ned increase in available childcare slots across participating counties.
+“We knew we were losing childcare workers.
+It’s the lowest paid profession in Iowa,” says Dean n
+Spark public-private childcare partnerships to help close care gaps.
+4
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES
+Cook, president and CEO of the Iowa Women’s
+Foundation, which administers and facilitates the
+CSF in partnership with state agencies. “Ultimately, you can have the biggest building in the world, and it won’t make any difference to getting more children in slots if you don’t have people willing to provide childcare. We need to incentivize what is there, and that begins with the workforce.”
+A similar initiative in New York could help tackle the city’s childcare shortage at scale by leveraging public funds and private investment to invest in the childcare workforce and expand supply in ways that meet local needs. As in Iowa, low wages are one of the leading factors contributing to the childcare sector’s supply shortages. Childcare workers earn among the lowest median incomes of any worker in New York City—just $25,000 as of 2023.7
+A childcare fund modeled on Iowa’s CSF could help employers, community-based organizations, and childcare providers work together to close those gaps—perhaps starting with the dire shortage of seats for infant and toddler care.
+“New York should take a close look at Iowa’s
+Child Care Solutions Fund,” says Liat Krawczyk, former senior advisor for workforce strategy and head of child care strategy at the U.S. Department
+New York should take a close look at Iowa’s Child
+Care Solutions Fund. The city has the opportunity to be doing more to make it as turn key as possible for employers to be partners to the public sector in investing in care and expanding means to blend public and private capital to address our childcare challenges.
+LIAT KRAWCZYK
+Former Senior Advisor for Workforce and Childcare Strategy, U.S. Department of Commerce
+Founder, Childcare Innovation Lab at the New York City Economic Development Corporation 14% of the city’s Census tracts qualify as childcare deserts with a substantial child population and no licensed providers.
+15%
+Brooklyn
+27%
+Staten Island
+11%
+Manhattan
+3%
+Bronx
+18%
+Queens
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 5 of Commerce and founder of the Childcare Innovation Lab at the New York City Economic Development Corporation.
+“The city has the opportunity to be doing more to make it as turn key as possible for employers to be partners to the public sector in investing in care and expanding means to blend public and private capital to address our childcare challenges.”
+Scaling up this model would require a mix of city, philanthropic, and private-sector investment. Iowa’ s success hinged in part on the role played by the Io wa
+Women’s Foundation, which partnered with major employers, local businesses, and community organizations to drive private sector contributions and secure th e public match. New York’s adaptation of this model could incorporate new elements that build on the success of the
+Iowa pilot program. To boost sustainability, the program could focus on first growing the supply of childcare seats in programs that have excess physical space, ensuring that efforts to supplement wages lead to increased capacity that is likely to be maintained over time.
+The initiative could deploy dollars in other ways, too, including capital grants to help spaces comply with regulations, training grants to help grow the childcare workforce, or low-interest loans that can help successful childcare providers expand existing locations or st art new ones. The Fund should also incorporate rigorous data collection, enabling the Fund to demonstrate t he return on investment to private sector investors at the community and citywide levels.
+City leaders should launch this initiative with a seed fund of $25 million, and work with philanthropic and corporate partners to raise matching funds. As in
+Iowa, government would play a role in overseeing th e public portion of the funding, while the philanthro pic partners would manage the private portion of the funds— coordinating efforts in order to maximize impact.
+By launching a public private partnership based on Iowa’s Childcare Solutions Fund, New York City policymakers can take a bold step toward closing th e childcare gap, seeding innovative solutions in childcare deserts—and giving families fresh reason to believe the city is committed to retaining them.
+6
+2
+Create or free up 10,000
+three-bedroom units of
+affordable housing for families.
+AMONG THE MANY CHALLENGES FACING YOUNG families in New York City, finding space to accommodate a growing family can feel nearly impossible. To help retain more of the city’s working- and middle-income young families, city officials should launch a major new effort to create and free up three-bedroom apartments and other family-sized housing.
+Family-sized units are difficult to come by and even harder to afford, and a confluence of factors has mad e this perennial problem particularly frustrating in recent years. The competition for starter homes in the suburbs has been brutally fierce since the pandemic hit, leading many families to stay put, while high interest rates have made buying more expensive. At the same time, those family-sized units face additional competition from younger renters who can only afford to live in New York with multiple roommates, as well as couples who sought out an additional bedroom to accommodate the demands of remote and hybrid work. And family-sized units a re much less likely to turn over; 43.1 percent of three-plusbedroom rentals have been occupied for over a decade.8
+Despite the ever-present demand and low turnover among existing units, the housing market has struggled to keep up. Over the past decade, including both affordable and market-rate units in projects that received at least some city financing, the city has added only 6,250 new three-plus bedroom apartments out of more than 191,000 units—or just 3.3 percent. 9
+While 100 percent market-rate developments have undoubtedly added to that supply, many of those apartments are far out of reach for even middle-cla ss families with two incomes. As of January 2025, the median asking rent for a three-bedroom apartment was over $3,400 in every borough—$3,464 on Staten
+Island, $3,500 in Queens, $3,600 in the Bronx, $4,000 in
+Brooklyn, and $7,082 in Manhattan.10 A cursory look at apartment listings reveals that many of these apartments are not true three-bedroom units, pushing prices for the real thing even higher. Some have no living room, while others are railroad style, carved out of a two-bedroom, or are counting a closet as a bedroom.
+“Even New Yorkers making decent incomes are burning through their savings to make it work as their family grows,” says Hayley Raetz, policy director at the
+NYU Furman Center, a research organization focusing on housing. “There are just not a lot of available affordable units at the three-bedroom level.”
+One factor in the constrained supply is that developers can generally generate more revenue per square foot from smaller units. At the same time, the city’s affordab le housing programs generally focus on maximizing the number of units produced, with relatively little emphasis on the number of residents those units can house.
+“The highest price per square foot is generally studios,” says Jared Della Valle, founder and CEO of Alloy, an architecture and development firm in Brooklyn. “The market needs more three-bedroom units. We’re getting a premium for them in a way that makes sense, a 5 to 6 percent price premium over studios, because the supply is really constrained.”
+To address the shortage of affordable and middleincome family-sized units, the city will need to take several steps at once. The city generally has the most flexibility 7 5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES when it comes to larger projects that include a variety of city subsidies and incentives. For these projects, officials can negotiate term sheets that include a family-unit bonus:
+an increase in the total subsidy for producing more familysized units. The city has additional leverage for projects on city-owned land, such as redevelopments of existing, undersized and aging branch libraries into new, larger libraries with floors of housing on top. The city should require a minimum number of family-sized units in these projects and ramp up the production of housing on these high-potential sites. Future adjustments to the state’s main affordable housing incentive program, known as 485-x, could also include a bonus for family-sized units, helping to spur the production of larger affordable units.
+At the same time, the city should pursue another option to free up much-needed family-sized housing: helping more of the city’s older adult residents downsize to apartments that might be a better fit for their current needs. Today, the city is home to more than 72,403 older adults living alone in 3-plus bedroom apartments and houses.11 Incentivizing even 10 percent of these residents to relocate to smaller units would free up more family-sized housing than the city’s affordable housing programs have built in a decade.
+“New York is home to a huge number of people aging in place in homes that are likely bigger than what they really need,” says Brad Greenburg, deputy director of the
+NYU Furman Center. “But while the city used to build a lot more apartments for seniors, the pace has not kept up with demand.”
+As part of a major new effort to create more familysized housing, the city should launch a program designed to help older adults relocate to new housing. This should include new initiatives to build senior housing, including housing set aside for seniors in mixed-income, intergenerational developments and accessory dwelling units. To help older adults make the shift, the cit y should consider options for creating a housing navigator program specifically designed to provide older adults with guidance and counseling around the housing market, and to conduct direct outreach to seniors living in NYCHA and Section 8 housing, where right-sizing provision s already exist. The city could also help match older adults in large apartments with other older adult roommates, building community and sharing expenses while freeing up oversized housing units. And the city could consider launching a relocation assistance program with a $1,000 stipend to help cover moving costs.
+“I’ve seen firsthand how many older adults had outlived their spouses and were left living alone in large two- and three-bedroom apartments,” says Anderson
+Torres, CEO of R.A.I.N. Total Care, a nonprofit soci al services agency. “Instead of letting these seniors remain isolated, why not connect them with another older adult who was also living alone?”
+While no one policy or incentive on its own can solve the city’s family housing shortage, a focused plan to create and free up three-bedroom apartments can make a significant difference. For young families debating whether they will be able to remain New Yorkers, th e deciding factor might well be an extra bedroom that they can afford.
+Over the past decade, including both affordable and market-rate units in projects that received at least some city financing, the city has added only 6,250 new three-plus bedroom apartments out of more than 191,000 units—or just 3.3 percent.
+8 8
+NEW YORK CITY’S UNIVERSAL PRE-KINDERGARTEN program has created childcare access for thousands of families who could not afford it otherwise, and relieved parents of what is for many their largest annual co st.
+The median New York City family spends more than 25 percent of their combined income on childcare—or nearly $22,000 per child—and often much more. Few cities in the country come close.12
+That’s why the launch of the city’s pre-K and 3-K programs have been so important for supporting— and retaining—the city’s young families. Families with children under six are twice as likely to leave New York
+City as other demographics, and childcare costs are almost certainly a key driver. But while the creati on of these programs has provided meaningful benefits to families and their children, significant gaps remain.
+In 2024, of the 44,000 families who submitted their choices for 3-K programs, 10 percent were sen t offers for programs that they did not apply to, and 6 percent (2,500 families) were not given an offer at all.13
+There are many obstacles to boosting the supply of seats in these programs, as detailed in the first idea in this report, including low wages, limited spots in school-based programs, a shortage of full-day options, and a hig hly challenging approvals process for new childcare facilities.
+But there is another challenge for which solutions exist:
+aligning funding with projected demand and using AIpowered data tools to reach every family and fill every seat.
+New York City can take steps to make both programs truly universal. Perhaps most urgently, the city should commit to using data to help guide funding decision s and reach every family with a three- or four-year-old.
+To understand what the city can do in 2025, it is helpful to know what the city did in 2014. To launch pre-K, the city implemented an innovative process to identify households likely to have four-year-olds. City offici als began by obtaining commercial consumer transaction data from Experian—providing names, addresses, and phone numbers of people that Experian believed were parents of four-year-olds—while also leveraging cas e management records from eight city agencies. Analysts performed sophisticated entity resolution tasks to deduplicate and merge these disparate data sources, assigning unique household IDs and subsequently linking them to specific buildings. As additional datasets were integrated, unique child IDs were generated, and a contact management tool was populated with these “golden” records for targeted outreach.14
+More than a decade later, technology now exists to supercharge these efforts by automating and enhancing each step using AI-powered tools. Advanced machine learning models could perform real-time, high-accuracy entity resolution across multiple datasets, reducing the need for manual fixes and custom coding. This technology would help identify the households most likely to have eligible children, continuously refining its outreac h 3
+Make 3-K and Pre-K truly
+universal by using AI-powered data tools to reach every child.
+9
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 9
+The median New York
+City family spends
+more than 25 percent
+of their combined
+income on childcare—
+or nearly $22,000 per
+child—and often much
+more.
+priorities based on emerging data patterns. By linking real-time outreach data with historical enrollment trends, advanced predictive models could estimate future seat demand, enabling city officials to plan and allocate resources more proactively and effectively. Equipped with this data, the city could mobilize a microtargeted outreach campaign, reaching New Yorkers through digital ads, texts, mailers, and automated calls, as well as partnerships with employers and community-based organizations.
+For this effort to be successful, city leaders need to be willing to invest in making both pre-K and 3- K universal programs and then let the data drive resource allocation. While these steps alone can’t solve all the many challenges that affect the city’s childcare system, they would help thousands more families unload one of their largest annual costs, strengthen the city’s economy, and provide young families with a powerful incentive to stay in New York.
+10 10
+FOR NEW YORK CITY’S NEARLY ONE MILLION FAMILIES with school-aged children, planning for the eight-week summer break from school can be a year-round source of stress. Popular day camps fill up months in advance, options in many neighborhoods are limited, and costs can rival or even exceed a family’s monthly rent.
+To help meet this significant need for quality, affordable, outdoor-focused summer camp and lower one of the key costs facing families with school-aged children, city leaders should consider scaling up a strong program with a lot of room to grow: NYC Parks Summer Day Camps.
+Summer Day Camp in the city’s public parks is designed for children ages 6 to 13. Campers participate in sports, fitness, outdoor adventures, arts and crafts, and technology programs. The camps are based out of the city’s
+Recreation Centers and include nature exploration with the Urban Park Rangers as well as field trips to cultural organizations. The camp season generally runs from early
+July through the third week of August, with regular hours from 9 a.m. to 5 p.m. and an extended day option from 8 a.m. to 6 p.m. The cost is $500 per child for regular hours and $575 for extended hours for the entire summer—by far the most affordable option for full-day outdoor camp anywhere in New York City.
+Due to the program’s popularity, registration is conducted through a lottery system. Each year, thousands of parents apply for the program, which enrolled just 549 campers across 18 sites in the summer of 2022, the most recent year for which complete data is available. It’s no wonder that most parents end up stymied, given that the city is home to 730,000 children between the ages of 6 and 13. The program is offered at fewer than half of the city’s 36 Recreation Centers today, including just one in Brooklyn as of 2024. Some sites accept as few as 1 in 20 applicants
+While it’s critically important that the city continue to provide low-income families with free options fo r quality summer camp, New York is home to thousands of working-class and middle-income families who can afford to pay something for summer camp but struggle to find affordable full-day options that focus on play, recreation, and outdoor time—the kinds of activities that are in short supply during the school year.
+Similar full-day day camps cost anywhere from $500 per week to $1,000 or more—or as much as $14,000 for a family with two children for the full seven-w eek period covered by Parks’ Summer Day Camp. Many of these camps offer more limited hours than NYC Parks
+Summer Day Camp, requiring working parents to juggle additional childcare costs. But despite these challenges, demand is fierce. For instance, Commonpoint’s Explorer
+Day Camp, based out of Forest Hills High School, wa s already completely full for summer as of January 2025.
+By enrolling 5,000 children in NYC Parks Summer Day
+Camps at the current rate, the city could help families save anywhere from $3,000 to $6,500 or more per child—or between $15 million to $32.5 million in total—with a relatively modest investment of new city funding.
+Although NYC Parks Summer Day Camp is local government’s only paid, affordable summer camp offering, the city has made attempts to expand access to free summer camps, with mixed results. Prior to 2020, th e city’s Department of Youth and Community Development funded seats for approximately 90,000 children to enroll in 4
+Scale up NYC Parks’
+Summer Day Camps to
+serve 5,000 children.
+11
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 11 summer camps organized by community-based nonprofit organizations. However, in 2021, this program shifted to the current Summer Rising model, which combines four hours of academic instruction led by New York City
+Public Schools in the morning, with CBO-led enrichment activities in the afternoon.
+While this program has seen strong enrollment demand, reflecting the unmet need for summer camp options—nearly 138,000 children applied for 110,000 seats in Summer Rising 2024—attendance figures have lagged, with just 60 percent of students showing up for the morning academic sessions. Perhaps unsurprisingly, a recent analysis of the program suggests that many families are seeking a more traditional summer camp experience for their children—not a half day of summer school.15
+As part of a coordinated effort to boost access to summer camp experiences for all children, the city should consider returning to the pre-pandemic model of CBObased free summer camp for families not seeking summer school experiences. At the same time, it should scale up
+NYC Parks Summer Day Camp to reach thousands more families who can budget something for summer camp but struggle to afford the high costs of today’s programs.
+Doing so would not have to come at an enormous cost to the city. To accommodate an additional 4,50 0 campers, the city would have to hire about 450 more camp counselors (meeting a ratio of 10 campers per counselor).
+Currently structured as a seasonal, hourly job starting at
+$18.54 per hour, the additional seasonal staffing needs of a scaled-up program would cost approximately $2.7 million.
+The city could also consider hiring some of these staff as year-round workers, with summers devoted to camp and the other seasons focused on after-school programs, which would reduce turnover, training, and recruiting costs.
+While increased capacity would add other expenses— such as administrative costs, field trip transportation and chaperones, sports equipment, supplies, maintenance, and cleaning services—these costs would be at least partially offset by increased revenue. A full roster of 5,000 campers enrolled in summer day camp would generate $2.5 million in revenue for the city, enough to make a meaningfu l contribution to the program’s overall budget.
+Part of the scale-up plan should include expanding camp programs to most if not all of the city’s Recreation
+Centers and adding additional groups of campers with staggered schedules, to maximize the use of those spaces.
+At the same time, the city could consider other city-owned spaces that could function as home base for camps, including public schools, field houses, nature centers, boathouses, community gardens, bandshells, pavilions, and cultural venues located in or adjacent to parks. The forest school model—in which students spend nearly all of their time outside, dressed appropriately for all weather conditions—could provide another option that requires little indoor space other than access to bathrooms.
+For many New York families, summer camp (or fulltime summer childcare) is one of the most significan t costs of the year. By scaling up a proven program, c ity leaders can save families thousands of dollars annually at only a modest cost to taxpayers and help thousands more children reap the benefits of outdoor recreation.
+Each year, thousands of parents apply for the program, which enrolled just 549 campers across 18 sites in the summer of 2022, the most recent year for which complete data is available. It’s no wonder that most parents end up stymied, given that the city is home to 730,000 children between the ages of 6 and 13.
+12 12
+5
+Revamp NYC’s struggling middle school system by creating new, smaller schools and investing in innovative leadership.
+NEW YORK CITY FAMILIES WITH YOUNG CHILDREN are more than twice as likely to migrate out of the city as are households without young children.16 While these pressures are especially intense in the early years of parenthood—when families scramble for larger living spaces and the full burden of childcare costs sets in—fifth grade marks another major inflection point. That’s when many families find themselves choosing between middle school options that leave many parents dissatisfied, paying for a parochial or private school, or leaving the city for districts with more promising middle schools.
+To address this persistent pressure point, the city should launch a new effort to revamp its struggling middle school system—boosting school performance, improving options for parents, and retaining more students in the public school system.
+The Center for an Urban Future’s analysis of 2023 school performance data from New York City Public
+Schools finds that the city’s middle schools consistently lag behind in both impact and performance across all five boroughs, with more outliers at the lowest-performing end of the spectrum. Middle schools are significantly less likely than elementary schools to help struggling students catch up and they post lower student achievement scores, on average, than do the city’s high schools.17
+Perhaps because of this achievement lag, many parents are seeking alternatives. In a 2023 survey of parents conducted by New York City Public Schools, half said they wanted an option outside their school district.18
+That same year, over one-quarter of fifth graders were not accepted to their preferred school.19 This dissatisfaction is also reflected in retention rate data, which consistently shows a dip in 5th grade as many parents choose to leave the public school system.20
+In addition to student achievement, middle schools generally score lower than elementary or high schools when it comes to other markers of school quality. An analysis by the Center for an Urban Future finds that middle schools underperform both elementary and high schools on several key metrics, including preventing bullying, academic focus, safety, and personal attention and support.
+This data underscores an anxiety-ridden question common in parents’ groups, message boards, and at the playground: What to do about middle school?
+To help answer that question—and encourage more young families to stay in New York City after elementary school—New York City needs to take action to improve middle school quality.
+Going forward, the city should launch a major new campaign to strengthen and reimagine its struggling middle school system. This effort should consist of a multifaceted approach that takes what’s worked well for high schools and applies those reforms to middl e schools, while adding several new elements.
+“There’s been a lot of research on what makes high schools strong, particularly in New York City,” says Cheri
+Fancsali, executive director of the Research Alliance for
+New York City Schools at NYU. “All of those elements that we know are important in high schools are also important in middle schools.”
+Evidence shows that several reforms have been effective in strengthening the city’s high schools, including creating smaller and more specialized schools 13 5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 13 out of very large ones and closing low-performing schools.21 Fancsali also cites the importance of efforts to boost professional development and peer networks for teachers and investments that train and empower school leaders to make deeper changes.
+As part of this effort, city leaders will have to take a hard look at the most chronically underperforming middle schools, many of which are also well below their capacity and have very high costs per student, and make the difficult but necessary choice to close those that are consistently failing their students. At the same time, 50 larger middle schools should be reimagined as several smaller schools under one roof—creating more personalized learning environments and strengthening relationships among teachers, students, and school leaders. The city should also consider creating 10 new schools that serve students from K-8 or K-12, helping more families avoid the challenges associated with the elementary-to-middle transition.
+The city has taken some steps to start addressing issues with middle school, but significantly more is needed. Since 2011, the City Council has funded the
+Middle School Quality Initiative, which has made some progress in raising literacy levels in the lowestperforming middle schools, with results that have varied over time. However, this program receives just a few million dollars in funding annually—funding tha t has never been baselined in the city’s budget—and will need to be more rigorously evaluated in order to determine which interventions are most effective in boosting school performance and how gains can be sustained over time. Encouragingly, the city took a step forward in 2024 by changing admissions rules to allow families to apply to middle schools outside their zoned districts. But unless more middle schools improve, it’s likely that a small number of high-performing schools will end up seeing significantly more applications and end up unable to meet the demand.
+As part of this new effort to improve middle schools, the city should launch an expanded and overhauled version of the Middle School Quality
+Initiative, focused on evidence-based investments in school leadership, professional development, peer support among teachers and school leaders, and creating a culture of personalized learning. This program should include new, multiyear challenge grants—modeled on the federal government’s Magnet
+Schools Assistance Program, for example—that would help schools with strong fundamentals invest in their instructional program, develop specialization in areas like computing and health, and support the development and retention of their teachers. Alongside these reforms and investments, the city should take steps to reverse the sharp decrease in the availability of screened middle schools since before the pandemic, which may be limiting opportunities for high-achieving children to stay connected to the public school system.
+Middle school is a highly challenging time for many children and their families, and improving the city’s middle schools won’t be easy. But a committed effort to make the middle school experience better can help ease a major challenge for parents choosing to raise their families in New York City—and build a more successful, economically diverse public school system that attracts families rather than giving them cause for concern.
+There’s been a lot of research on what makes high schools strong, particularly in New York City. All of those elements that we know are important in high schools are also important in middle schools.
+CHERI FANCSALI
+Executive Director, Research Alliance for New York City Schools at NYU 5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 14 14
+Conclusion
+In so many ways, New York City has turned a corner in its post-pandemic recovery. Young people from across the nation are again flocking to the city, subway ridership is higher than any time since early 2020, tourism is nearly back to pre-pandemic levels, and jobs are at an all-time high. But in one vital area, New York still has significant work to do to reverse a concerning trend that accelerated dramatically since the pandemic: the exodus of young families to the suburbs and other states.
+Stemming this out-migration will be key to building on New York’s recent progress and creating a stronger and more sustainable city—especially at a time when the post-pandemic economic landscape features new challenges and growing competition from other cities.
+It will require city leaders to come together and make addressing the challenges facing New York’s families a greater priority than has been the case in recent years— and it will necessitate fresh thinking and bold ideas. To meet this moment, city leaders should consider running with one or all of the five ideas presented in this report.
+5 IDEAS FOR RETAINING NYC’S YOUNG FAMILIES 15
+Endnotes
+1 Center for an Urban Future analysis of data from the 2021 and 2023 American Community Survey.
+2 Economic Innovation Group, “Young families have continued leaving big cities post-pandemic,” July 10, 2024. Data is for counties, including NYC’s five counties, San Francisco County, LA County, and Chicago’s Cook County.
+3 Fiscal Policy Institute, “Who Is Leaving New York State,” June 2024, https://fiscalpolicy.org/wp-content/uploads/2024/06/FPI-
+Migration-Pt-2.pdf.
+4 New York State Office of Children and Family Services, “Child Care Availability Task Force Report, 2024,” https://ocfs.ny.gov/ reports/childcare/Child-Care-Availability-Task-Force-Report-2024.pdf.
+5 NYS Office of Children and Family Services and the NYS Council on Children and Families, “2023 Child Care Desert Analysis,”
+https://storymaps.arcgis.com/stories/94a5430872df45d1ab642fbaa8aac77d.
+6 Common Sense Institute & Iowa Women’s Foundation, “Iowa’s Childcare Solutions Fund: A Model for Closing the Childcare Gap,”
+November 2024, https://www.commonsenseinstituteus.org/iowa/research/workforce/iowas-childcare-solutions-fund-a-modelfor-closing-the-childcare-gap.
+7 Center for an Urban Future analysis of data from the 2023 American Community Survey.
+8 Citizens Budget Commission, “Building on Crisis: The Impact of Economic Shifts on New York City,” https://cbcny.org/buildingcrisis.
+9 Center for an Urban Future analysis of data on projects financed by the city’s Department of Housing Preservation and
+Development, including both affordable and market-rate units.
+10 Center for an Urban Future analysis of data from StreetEasy, January 2025.
+11 Center for an Urban Future analysis of data from the 2023 American Community Survey.
+12 U.S. Department of Labor, Women’s Bureau, “Median Family Income by Age and Care Setting,” https://www.dol.gov/agencies/ wb/topics/childcare/median-family-income-by-age-care-setting.
+13 The New York Times, “3K Preschool Admissions in NYC,” May 17 , 2024, https://www.nytimes.com/2024/05/17/nyregion/3kpreschool-admissions-nyc.html.
+14 For more detail, see Susan P. Crawford, Mary-Catherine Lader, and Maria Smith, “On the Road to ‘Pre-K for All’: The Launch of
+UPK in New York City,” Berkman Center Research Publication No. 2015-9, May 2015, https://download.ssrn.com/15/05/29/ ssrn_id2612018_code727672.pdf.
+15 United Neighborhood Houses, “One Size Does Not Fit All,” November 2024, https://assets.nationbuilder.com/unhny/ pages/12/attachments/original/1732539239/SummerRisingReport_UNH.pdf?1732539239.
+16 Fiscal Policy Institute, “Migration Trends and Economic Impact, Part 2,” June 2024, https://fiscalpolicy.org/wp-content/ uploads/2024/06/FPI-Migration-Pt-2.pdf.
+17 Center for an Urban Future analysis of data from New York City Public Schools 2022–23 School Performance Dashboard.
+18 Office of the Mayor of New York City, “Mayor Adams and Chancellor Banks Discuss Key Changes to New York City Public Schools’
+Application Process,” July 21, 2024, https://www.nyc.gov/office-of-the-mayor/news/721-24/mayor-adams-chancellor-bankskey-to-new-york-city-public-schools-application.
+19 Chalkbeat New York, “New York City’s School Admissions Data: High School, Middle School, Kindergarten, and Preschool Offers, 2023,” June 1, 2023, https://www.chalkbeat.org/newyork/2023/6/1/23746221/nyc-admissions-offers-data-high-schoolmiddle-kindergarten-preschool-diversity/.
+20 Independent Budget Office (IBO), “Unpacking the Enrollment Declines: How Did the Pandemic Impact the Retention of New York
+City Public School Students?” March 2022, https://ibo.nyc.ny.us/iboreports/unpacking-the-enrollment-declines-how-did-thepandemic-impact-the-retention-of-new-york-%20city-public-school-students-march-2022.pdf.
+21 NYU Research Alliance for New York City Schools, “Spotlight on NYC Schools: How Have NYC’s High School Graduation and
+College Enrollment Rates Been Impacted?” https://steinhardt.nyu.edu/research-alliance/research/spotlight-nyc-schools/howhave-nycs-high-school-graduation-and-college..

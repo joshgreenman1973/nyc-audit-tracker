@@ -1,0 +1,73 @@
+{
+  "id": "2025-10-01-cuf-preparing-nyc-students-ai-future",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Preparing Every NYC Student for an AI-Powered Future",
+  "plain_title": "Training every new city teacher in computing skills",
+  "agency": "New York City government",
+  "issued": "2025-10-01",
+  "url": "https://nycfuture.org/research/preparing-new-yorkers-for-a-tech-powered-future",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future on computing education in New York City public schools and on Computing Integrated Teacher Education (CITE), a City University of New York (CUNY) program that trains future teachers to build computing and digital literacy into their lessons.",
+  "background": "New York City launched Computer Science for All (CS4All) in 2015, requiring every student to receive four units of computer science by the end of 12th grade. About one-third of the new teachers New York City Public Schools hires each year earned their degrees at CUNY.",
+  "findings": [
+    {
+      "plain": "Enrollment in computer science classes grew from 54,177 students, or 5.5 percent, in 2016 to 193,171 students, or 20 percent, in 2024.",
+      "quote": "increased from 54,177 (5.5 percent) in 2016 to 193,171 (20 percent) in 2024"
+    },
+    {
+      "plain": "Gaps remain by race and by borough. In 2024, 15.6 percent of Black students and 19.1 percent of Hispanic students took computer science, against 27.1 percent of Asian students and 20.4 percent of white students, and Manhattan had the lowest borough enrollment at 13.7 percent.",
+      "quote": "Just 15.6 percent of Black students and 19.1 percent of Hispanic students were taking computer science classes in 2024"
+    },
+    {
+      "plain": "Only 19 percent of schools meet the equity goal set by Computer Science for All, meaning the students enrolled in computer science reflect the school's overall population.",
+      "quote": "just 19 percent of schools are achieving CS4All’s equity goals"
+    },
+    {
+      "plain": "Training current teachers has been slow. Only 3,118 teachers had received computer science professional learning through Computer Science for All as of 2024, and 22 percent of those trained between 2016 and 2023 left the school system.",
+      "quote": "Only 3,118 teachers have received computer science-related professional learning sessions through CS4All as of 2024."
+    },
+    {
+      "plain": "The CITE program has trained about a third of CUNY's teacher education faculty and reached more than 10,000 teacher candidates, but it is fully implemented at only one of CUNY's 16 colleges with education programs.",
+      "quote": "CITE has only been fully implemented in one of CUNY’s 16 colleges with education programs"
+    },
+    {
+      "plain": "Employment in the city's core tech sector more than doubled over 15 years, from 103,000 to more than 208,000 jobs, while Black and Latino workers hold 24.3 percent of tech jobs against 46 percent of the overall workforce.",
+      "quote": "from 103,000 to more than 208,000 jobs"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "193,171",
+      "label": "Students enrolled in computer science classes, 2024"
+    },
+    {
+      "value": "3,118",
+      "label": "Teachers given computer science training through CS4All"
+    },
+    {
+      "value": "$564,000",
+      "label": "Extra annual city funding proposed for CITE"
+    },
+    {
+      "value": "$800,000",
+      "label": "City investment proposed for a new microcredential"
+    },
+    {
+      "value": "19 percent",
+      "label": "Share of schools meeting the CS4All equity goal"
+    }
+  ],
+  "recommendations": [
+    "Fund CUNY's Computing Integrated Teacher Education program so it reaches every CUNY teacher education candidate, with an additional $564,000 a year from the city on top of private funding already secured.",
+    "Create a Computing Across the Curriculum microcredential for current and future teachers, backed by an $800,000 city investment, so they can take CUNY computing courses for credit."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "technology"
+  ],
+  "is_followup": false
+}

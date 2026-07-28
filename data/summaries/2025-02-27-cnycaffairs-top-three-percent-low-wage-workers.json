@@ -1,0 +1,55 @@
+{
+  "id": "2025-02-27-cnycaffairs-top-three-percent-low-wage-workers",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "While the Top Three Percent of Wage Earners Get Richer, New York City’s Low Wage Workers Risk Greater Poverty.",
+  "plain_title": "Top earners pulled away in 2024, and a city tax idea",
+  "agency": "New York City government",
+  "issued": "2025-02-27",
+  "url": "http://www.centernyc.org/reports-briefs/while-the-top-three-percent-of-wage-earners-get-richer-new-york-citys-low-wage-workers-risk-greater-poverty",
+  "pdf": "",
+  "what_they_audited": "An economic update from the Center for New York City Affairs at The New School tracking how pay for the city's highest earning three percent of workers has moved away from everyone else, and proposing a change to the city's personal income tax.",
+  "background": "The center says an earlier report of its own found that wage inequality between the top and bottom 20 percent of earners widened in New York City from 2019 to 2023 while it narrowed in the rest of the country. This update adds 2024 data and focuses on the top three percent.",
+  "findings": [
+    {
+      "plain": "Real hourly pay for the top three percent of city wage earners rose 9 percent in a single year while wage growth slowed for everyone else.",
+      "quote": "The average real hourly wage of this group increased by nine percent in 2024, going from $175 in 2023 to $190 in 2024."
+    },
+    {
+      "plain": "The top three percent is defined here as workers making at least $312,000 a year before taxes, and the group is also pulling away from the rest of the top 20 percent.",
+      "quote": "This group is composed of workers whose real wage in 2024 was at or above $312,000 a year before taxes."
+    },
+    {
+      "plain": "Over five years the gap widened sharply between the top three percent and the lowest paid fifth of workers.",
+      "quote": "wages in the top three percent grew more than four times faster than wages in the bottom 20 percent of the wage distribution"
+    },
+    {
+      "plain": "The 2019 to 2024 stretch produced the fastest annual wage growth the top three percent has seen in the periods the center compared.",
+      "quote": "at 6.1 percent compared to 2.9 percent in 2013-2019 and 1.3 percent in 1996-2013"
+    },
+    {
+      "plain": "The industries where top earners cluster, such as information, technology and finance, posted large wage gains while low-wage industries lost ground.",
+      "quote": "information services recorded a 28.8 percent increase in its average real wage"
+    },
+    {
+      "plain": "The center notes that current state and city income tax proposals focus on cutting rates in the five lowest brackets, which it estimates would reduce state revenue.",
+      "quote": "this policy change is estimated to lower State tax revenues by $450 million in the 2025-2026 fiscal year"
+    }
+  ],
+  "numbers": [
+    {"value": "nine percent", "label": "Wage growth for the city's top three percent in 2024"},
+    {"value": "$312,000", "label": "Yearly pay floor for the top three percent of earners"},
+    {"value": "34.5 percent", "label": "Real wage rise for the top three percent, 2019 to 2024"},
+    {"value": "0.6 percent", "label": "Average real wage decrease in low-wage industries"},
+    {"value": "28.8 percent", "label": "Real wage rise in information services"},
+    {"value": "$1 billion", "label": "Yearly revenue the proposed new brackets could raise"}
+  ],
+  "recommendations": [
+    "Add two new high-income brackets to the city's personal income tax, one covering income from $1 million to $5 million at a rate of 4.2 percent and one covering income above $5 million at 4.4 percent, which the center estimates could raise up to $1 billion a year to offset federal spending cuts that fall on low-income households."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["labor", "money and contracts", "social services"],
+  "is_followup": false
+}

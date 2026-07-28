@@ -1,0 +1,71 @@
+{
+  "id": "2025-02-24-citizensunion-charter-reforms",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Citizens Union Calls on Charter Revision Commissions to Implement Bold Reforms to Strengthen Democracy and Government Accountability",
+  "plain_title": "Charter proposals on elections, ethics and oversight",
+  "agency": "New York City charter revision commissions",
+  "issued": "2025-02-24",
+  "url": "https://citizensunion.org/document/2025-02-24/citizens-union-calls-on-charter-revision-commissions-to-implement-bold-reforms-to-strengthen-democracy-and-government-accountability/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2025/02/Charter-Reforms-for-Better-New-York-City-Government-Citizens-Union-Report-Feb-2025.pdf",
+  "what_they_audited": "A report from Citizens Union, a nonpartisan government reform group, titled \"Charter Reforms for Better New York City Government,\" setting out changes it wants the two 2025 charter revision commissions to put before voters. It covers elections, the balance of power between the mayor and the City Council and ethics oversight.",
+  "background": "Two charter revision commissions were at work in 2025 ahead of a citywide election. The group writes that the charter is basically working and does not need a radical rewrite, but that turnout, ethics oversight and checks and balances need attention.",
+  "findings": [
+    {
+      "plain": "Turnout in city elections has fallen by more than half since voters approved the current charter.",
+      "quote": "When the current City Charter was approved by voters in the 1989 mayoral general election, voter turnout was 60%."
+    },
+    {
+      "plain": "Because the closed primary usually decides the winner, a small slice of the electorate effectively picks the mayor.",
+      "quote": "just 9% of the overall electorate voted for Eric Adams in the 2021 primary election"
+    },
+    {
+      "plain": "Voters not enrolled in a party cannot vote in primaries, and they are a growing share of the city's registered voters.",
+      "quote": "now accounts for nearly 22% of registered voters in New York City"
+    },
+    {
+      "plain": "The charter has no workable process for removing a mayor over misconduct, so that power rests with the governor under state law. The report says the existing Committee on Mayoral Inability looks designed for incapacity rather than wrongdoing.",
+      "quote": "the New York City Charter lacks a practical mechanism for removing a mayor under exceptional circumstances related to misconduct"
+    },
+    {
+      "plain": "The Conflicts of Interest Board's budget is set by the officials it polices, and its staff has shrunk while its duties and caseload have grown.",
+      "quote": "resulting in a 16% reduction in staff"
+    },
+    {
+      "plain": "Lobbying oversight sits with the City Clerk, whose small bureau focuses on compliance and has levied little in penalties.",
+      "quote": "conducting 45 audits per year, and issuing minimal civil penalties—totaling just $10,000 since 2018"
+    },
+    {
+      "plain": "Police oversight is split among many bodies, which the report says weakens all of them.",
+      "quote": "A significant challenge in managing police accountability in New York City is the fragmented system of oversight."
+    }
+  ],
+  "numbers": [
+    {"value": "60%", "label": "Turnout in the 1989 mayoral general election"},
+    {"value": "23%", "label": "Turnout in the most recent mayoral election"},
+    {"value": "9%", "label": "Share of electorate voting for Adams in the 2021 primary"},
+    {"value": "1 million", "label": "Unaffiliated city voters shut out of closed primaries"},
+    {"value": "16%", "label": "Staff cut at the Conflicts of Interest Board"},
+    {"value": "$10,000", "label": "Lobbying civil penalties by the City Clerk since 2018"},
+    {"value": "45 audits per year", "label": "Lobbying audits by the City Clerk's Lobbying Bureau"}
+  ],
+  "recommendations": [
+    "Replace the closed partisan primary with a top-two primary in which candidates from every party run on one ballot and the two highest finishers advance to the general election, with party labels still shown.",
+    "Move city elections to even-numbered years, and prepare the charter changes that a state constitutional amendment allowing the switch would require.",
+    "Keep ranked choice voting in municipal primaries.",
+    "Write a clear process into the charter for removing a mayor for misconduct, so the decision does not rest solely with the governor.",
+    "Set minimum timeframes for charter revision, requiring at least 180 days between a commission's first meeting and the filing of ballot proposals, at least 30 days between a commission's final report and that filing, and two City Council votes 30 days apart with a committee hearing before each on any local law that puts a charter change to referendum.",
+    "Make the appointment of the police commissioner subject to City Council advice and consent, without extending that requirement to agency heads generally.",
+    "Give the Conflicts of Interest Board an independent budget, for example pegged to a share of the Law Department's budget or of the overall city budget, and increase its size.",
+    "Let the Conflicts of Interest Board interpret and enforce ethics provisions that sit outside Chapter 68 of the charter, such as the section covering misuse of government funds and resources.",
+    "Move lobbying oversight from the City Clerk's office to the Conflicts of Interest Board, with dedicated funding and staff.",
+    "Allow the Conflicts of Interest Board to correct public misstatements about the ethics advice it gave, and state in the charter that officials may disclose the advice they received.",
+    "Amend section 2604 of the charter to bar public servants from working on matters involving former employers, clients or business partners for a set cooling-off period.",
+    "Merge the three outside police oversight bodies, the Inspector General for the Police Department, the Commission to Combat Police Corruption and the Civilian Complaint Review Board, into a single Police Oversight Board."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["transparency", "public safety"],
+  "is_followup": false
+}

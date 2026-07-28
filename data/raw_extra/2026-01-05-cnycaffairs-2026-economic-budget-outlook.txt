@@ -1,0 +1,1484 @@
+January 2026
+New York City’s 2026  
+Economic & Budget Outlook
+Making Affordability a Reality Amidst 
+Inequality and Fiscal Constraints
+New York City’s 2026 Economic & Budget Outlook
+About the Authors
+Lauren Melodia is director of economic and 
+fiscal policy at the Center for New York City 
+Affairs at The New School.
+David Hayes is public engagement fellow at the 
+Center for New York City Affairs and a master’s 
+student in Public Policy at The New School.
+Audrey Jenkins is a research associate at the 
+Center for New York City Affairs and a PhD 
+candidate in Public and Urban Policy at The New 
+School. 
+David A. Lee is a fiscal policy analyst at the 
+Center for New York City Affairs at The New 
+School.
+Mohamed Obaidy is associate director and 
+economist at the Center for New York City 
+Affairs at The New School.
+George Sweeting is a senior fellow for fiscal 
+policy at the Center for New York City Affairs at 
+The New School.
+Ludovica Tursini is a research associate at the 
+Center for New York City Affairs and a PhD 
+candidate in economics at The New School.
+Acknowledgments 
+ 
+We acknowledge our colleagues at the 
+Center for New York City Affairs. We thank 
+Executive Director Kristin Morse for her thought 
+partnership and review of this report; Bruce Cory 
+for editing the report, and Isabella Wang for 
+design and website support.
+ 
+We gratefully acknowledge the funding for this 
+report provided by the Robin Hood Foundation.
+Table of Contents
+Executive Summary
+1. Introduction
+Economic Growth and Stability2.
+A. Job Growth in the City and by Industry
+B. Economic Growth and Recession Prospects
+C. Labor Market Dynamics
+Poverty and Inequality 
+Exacerbated by OBBBA
+3.
+A. Poverty
+1. New York City Poverty Rates and Public 
+Assistance Need Remain Elevated
+2. New York City Residents Face 
+Significant Support Cuts Due to OBBBA
+B. Inequality 
+1. Unequal Wage Growth Deepens 
+Inequality in New York City
+2. OBBBA Income Tax Changes 
+Exacerbate Inequality in New York City
+Fiscal Policy Outlook4.
+A. Revenue Outlook
+1. Federal 
+2. New York State
+3. New York City
+B. Budget Tools
+1. State Reserves: Available for Short-
+term, One-time Needs
+2. City Debt: A Source of Limited Capital 
+Funding
+1
+8
+10
+18
+25
+5. Recommendations 35
+6. Glossary 40
+New York City’s 2026 Economic & Budget Outlook
+1
+New York City is looking towards 2026 with hope, after one of the most exciting and consequential 
+local election campaigns seen in decades. Much of that hope stems from the fact that incoming 
+Mayor Zohran Mamdani combined a recognition of the broad affordability crisis facing New Yorkers 
+with a bold policy agenda, making transformative change and relief feel truly possible.
+ 
+But the incoming mayor will be starting with a particularly challenging economy and fiscal policy 
+constraints, due to both longstanding inequities and the Trump administration’s actions in 2025. 
+New York City is already the most economically unequal city in the country. It is home to both some 
+of the nation’s wealthiest people and also has a large percentage of residents living in poverty, due 
+to persistent unemployment and low-wage jobs. Over the past year, the Trump administration and 
+Congress have exacerbated that inequality and created more challenging economic conditions and 
+fiscal policy constraints for local policymakers.
+In this report, “New York City’s 2026 Economic & Budget Outlook: Making Affordability a Reality 
+Amidst Inequality and Fiscal Constraints,” the Center for New York City Affairs (CNYCA) provides 
+insight on the challenges incoming Mayor Mamdani, Governor Kathy Hochul, and the City and State 
+legislative branches face. We find:
+Economic Outlook: Key Findings
+New York City’s economy slowed in 2025, but has proven more resilient than other parts 
+of the country. The city’s economy is expected to face continued slow growth or a possible 
+contraction in 2026. 
+• Measured by private sector payroll jobs, the city’s economy grew 0.7 percent from January to 
+September 2025, slower than its 1.6 percent growth during the same period in 2024.1 The city’s 
+job growth was better than the nation’s and that in many other large metropolitan statistical areas 
+(MSAs) in the country, some of which experienced declines in 2025.
+• New York State is “treading water,” meaning the state is already experiencing a significant 
+economic contraction.2 Over half of U.S. states are currently at risk of recession or are similarly 
+“treading water.”
+• U.S. real GDP growth in 2025 has been markedly volatile, a reflection of many federal policy 
+actions–from tariff increases to aggressive and deliberately cruel deportation efforts–which are 
+impacting all facets of the economy. 
+1. New York City Office of Management and Budget, NYC Employment Data (Seasonally Adjusted), September 2025, 
+December 11, 2025.
+2. Mark Zandi, “23 States in Recession Reveal Fragility of the U.S. Economy,” LinkedIn, October 22, 2025.
+EXECUTIVE SUMMARY
+
+New York City’s 2026 Economic & Budget Outlook
+2
+New York City job growth continues to be concentrated in a few industries, which impacts 
+labor market and wage inequality as well as local tax revenue.
+• From January to September 2025, the city netted 25,684 non-farm payroll jobs. However, most 
+sectors of the economy—with the exception of health care and social assistance, government, 
+and warehousing—had zero or negative job growth in 2025.
+• Despite the Trump administration’s gutting of the public sector, New York City did not experience 
+a decline in government jobs as of September 2025. However, public and private sector jobs 
+in New York City are at risk as a result of the One Big Beautiful Bill Act (OBBBA) which became 
+law in July 2025. For example, one in five payroll jobs in the city is in health care and social 
+assistance, where Medicaid access – which OBBBA will curtail – contributes to demand for 
+services. 
+• 2025 was another strong year for the city’s tech sector and for Wall Street, where profits could 
+reach $60 billion in 2025, a historic record. However, that success is largely connected to artificial 
+intelligence (AI), a factor which also exposes the city to a variety of risks. AI investments will not 
+only have future labor market impacts, but also create boom-bust dynamics. If the AI bubble 
+were to collapse, resulting income and investment losses on Wall Street would have a direct 
+impact on City services and programs. The City and State receive substantial personal income tax 
+(PIT) revenue from Wall Street salary and bonus income.  
+New York City shows deepening signs of labor market inequality, negatively impacting 
+workers of color. 
+• The NYC-NJ MSA has the largest Black-white prime age (25-54) unemployment rate gap in the 
+country, a key indicator of labor market inequality. (See Figure 1.)
+• As of the third quarter of 2025, white men and – especially – white women were doing well 
+compared to the same period in 2024, and to before the pandemic. The stability of white workers 
+in the face of a sluggish and uncertain economy is distinct from the experiences of workers of 
+color. 
+• Women of color have experienced post-pandemic increases in employment rates, but with more 
+volatility. Men of color, on the other hand, have all experienced a decline in their employment 
+rate, comparing 2020 to today. Concentration of job growth in traditionally female-dominated 
+industries, like health care, and job decline in male-dominated fields, like construction, only 
+partially explain these gendered outcomes for workers of color.  
+• Dramatic shifts in Hispanic men’s and women’s labor force participation rate reflect the 
+economic impact of the Trump administration’s deliberately cruel deportation efforts, which have 
+disproportionately targeted Hispanic men. Additionally, non-citizens also dropped out of the 
+labor force significantly over the past year, potentially reflecting a range of issues, from difficulties 
+obtaining visas to the chilling effect of deportation actions. 
+• The employment rate of people holding a bachelor’s degree dropped 3.6 percentage points over 
+the past year. In the face of economic and federal funding uncertainty, firms may be operating 
+under a “last hired, first fired” approach. This approach has historically disproportionately 
+impacted Black workers.
+New York City’s 2026 Economic & Budget Outlook
+3
+Figure 1
+Poverty and Inequality Exacerbated by OBBBA:  
+Key Findings
+With a higher poverty rate than the state and the country, New York City is one of the most 
+exposed places in the U.S. to OBBBA changes to health insurance and SNAP eligibility.
+• OBBBA changes to health insurance and SNAP target low-income and immigrant households, 
+including 2.9 million New York City residents who live below 200 percent of the Federal Poverty 
+Line (FPL). 
+• In January 2026, OBBBA’s cuts to the Essential Plan, a New York State health insurance program 
+for low-to-moderate income residents who don’t qualify for Medicaid, will place an estimated 
+134,114 low-income New York City documented non-citizens at immediate risk of losing 
+coverage. An additional 303,123 documented non-citizens will be moved onto State Medicaid, as 
+required by the State Constitution.3 
+• In March 2026, work requirements go into effect for Supplemental Nutrition Assistance Program 
+(SNAP) recipients who are able-bodied adults without dependents (ABAWD), putting roughly 
+230,000 recipients at risk of losing SNAP benefits in 2026.4
+• In 2027, work requirements will go into effect for an estimated 725,702 New York City Medicaid 
+recipients, putting them at direct risk of losing Medicaid coverage.
+3. CNYCA analysis of Governor Kathy Hochul, “Governor Hochul and House Democratic Leader Hakeem Jeffries Warn of 
+Detrimental Impacts of President Trump’s One Big Ugle Bill,” June 1, 2025.
+4. Office of the New York City Comptroller, New York by the Numbers: Monthly Economic and Fiscal Outlook (No. 107), 
+November 13, 2025.
+NYC metro area Black-white unemployment rate
+gap is the highest of major U.S. metro areas
+Q3 2025 prime age (25-54) unemployment rate, 4-quarter moving average
+NYC MSA
+Los Angeles MSA
+Chicago MSA
+Dallas MSA
+Houston MSA
+White
+|
+Black
+|
+2.0% 3.0% 4.0% 5.0% 6.0% 7.0% 8.0% 9.0% 10.0%
+3.0% 8.6%
+5.4% 9.6%
+2.5% 6.8%
+2.8% 4.3%
+3.6% 4.9%
+Source: CNYCA analysis of Bureau of Labor Statistics, Current Population Survey
+New York City’s 2026 Economic & Budget Outlook
+4
+New York City has the highest income inequality of any major U.S. city, which will only be 
+exacerbated by OBBBA income tax changes.
+• New York City’s high and rising Gini coefficient (a standard measure of income inequality) 
+indicates an increasingly polarized income structure, where the gains of economic growth are 
+concentrated among a relatively small share of residents. This growing inequality is driven by 
+strong wage growth among the top three percent of wage earners (those earning $312,000 or 
+more in 2024 before taxes) compared to the rest of workers.5 
+• These dynamics contributed to a 4.9 percent decline in real median household income in New 
+York City from 2019 to 2024. This is opposite the national trend, where real median household 
+income increased 0.9 percent during the same period. None of the nation’s other 10 largest cities 
+experienced a statistically significant decline in inflation-adjusted median household income 
+during this time.6  
+OBBBA income tax and benefit changes will result in the low-income households, with an 
+average annual income of $38,840, experiencing an annual after-tax income loss of $1,200 going 
+into effect in 2026. Households with an average income of $517,700 will experience an annual 
+after-tax income gain of $13,600. (See Figure 2.)
+Figure 2
+5. Mohamed Obaidy, While the Top 3 Percent of Wage Earners Get Richer, New York City’s Low-Wage Workers Risk 
+Greater Poverty, Center for New York City Affairs, February 26, 2025.
+6. CNYCA analysis of U.S. Census Bureau, American Community Survey.
+New York City’s 2026 Economic & Budget Outlook
+5
+Fiscal Policy Outlook: Key Findings
+OBBBA business tax changes will lead to a loss of an estimated $2.9 billion in State revenue 
+and $520 million in City revenue if the State does not move to decouple its business tax code 
+from federal law.
+The Trump administration has attempted to cut many federal funding sources that City 
+agencies rely on. Many of these threats are currently being challenged in court or have not 
+been finalized. However, a number of cuts are currently impacting City programs and projects:
+• Head Start programs face a $70 million annual loss over the next five years.
+• New York City Health + Hospitals (H+H) projects a $1.5 billion reduction in revenue for City Fiscal 
+Years 2026-2029 from OBBBA cuts to Medicaid. 
+• The Trump administration is currently withholding $12 billion in federal grants for the Gateway 
+Project to construct a passenger rail tunnel between New York and New Jersey, effectively 
+cancelling the project. 
+• The Trump administration is currently withholding $3.4 billion for Phase 2 of the Second Avenue 
+Subway. 
+New York State will likely be able to maintain budget balance in State Fiscal Year (SFY) 2027. 
+The picture is less bright for future years, which the State should start preparing for now. 
+• The current (SFY 2026) revenue forecast is strong, with higher than anticipated tax revenues, 
+related to better than expected economic growth in 2025. Indeed, current forecasts are likely 
+underestimates, because they do not fully incorporate strong performance of the local financial 
+sector in 2025.  
+• The State has large budget gaps in later “outyears,” related to the growing impact of OBBBA. 
+The Division of the Budget (DOB) estimates the impact of OBBBA in SFY 2026 is $952 million. It 
+then grows rapidly to $3.6 billion in SFY 2027 and $4.4 billion in SFY 2028.7 Several independent 
+studies estimate the impact of OBBBA benefit changes on the State budget to be even larger.8
+New York City’s budget is barely in balance, but projects growing deficits for City Fiscal Years 
+(CFYs) 2027 to 2029. 
+• In January 2026, the incoming mayoral administration will need to present a financial plan with 
+CFY 2027 in balance. The City currently forecasts a budget gap of $4.7 billion for CFY 2027 (and 
+a larger budget gap in CFY 2028). 
+• City revenue forecasts reflect strong PIT revenue, related to better than expected economic 
+growth in 2025. These forecasts underestimate revenue strength, because they do not yet 
+incorporate the strong performance of the financial sector in 2025. 
+• City revenue forecasts reflect weak business tax revenue.
+Funds available outside of current State and City revenue sources are limited.
+• New York State’s $14.6 billion in principal reserves are not sufficient to permanently fill the 
+OBBBA-related federal funding gap. However, the State could use its reserves to address gaps 
+7. New York State Division of the Budget, FY2026 NYS Enacted Budget Financial Plan Mid-Year Update, October 2025.
+8. Jillian K. Bronner, An Analysis of the One Big Beautiful Bill Act (OBBBA)’s Impact on Healthcare for New York, 
+Rockefeller Institute of Government, July 10, 2025; Michael Kinnucan, The State is Understating Threats to NYS Medicaid 
+After OBBBA, Fiscal Policy Institute, July 25, 2025.
+New York City’s 2026 Economic & Budget Outlook
+6
+in SFY 2027 and SFY 2028. The State should also seriously consider drawing on these reserves in 
+the next fiscal year for short-term, one-time fiscal needs that have economy-wide benefits, as it 
+did last year with the unemployment insurance (UI) system.
+• Policymakers must be cautious concerning adding debt burden to the City. Future debt issuance 
+should be conservative and targeted and can only be used for capital projects. Per the Office of 
+the New York City Comptroller, the City has $29.9 billion in remaining debt issuance capacity (out 
+of a total of $140.6 billion total debt capacity).9 
+Recommendations
+Incoming Mayor Mamdani’s campaign slogan “afford to live and afford to dream” reflects his bold 
+policy agenda to confront that precarity. Much of his agenda includes more public provisioning 
+of basic necessities to offset costs on individual households. That will require significant public 
+investment at a time when federal actions have multiple downstream effects on the State and City 
+budgets that threaten the existing public infrastructure and institutions that all New Yorkers rely on 
+and that will disproportionately impact low-income and immigrant households. 
+This section includes two types of recommendations. First, we recommend ways the City and State 
+can address critical funding needs this year and beyond. Second, we recommend policy tools to 
+facilitate inclusive economic growth that directly mitigates rising poverty and inequality. 
+A. How policymakers can address funding needs in FY 2027 and beyond.
+1. Take steps to retain every federal dollar immediately.
+• The State should decouple OBBBA business tax changes from New York tax law. 
+• The State and City should invest in agency staffing; outreach; and innovation in applications, 
+programs, and systems (like ACCESS HRA) to minimize the likelihood that people will lose 
+SNAP and Medicaid due to new work eligibility and reporting requirements. 
+2. The State should use its funding reserves in FY 2027 for short-term, one-time investments that 
+can counteract the negative impact of federal actions on State and City programs and services. 
+3. The State and City should pass progressive City tax reforms in FY 2027 to address long-term 
+needs for additional City revenue. Given increased inequality, exacerbated by OBBBA, priority 
+should be given to revenue raisers that facilitate wealth redistribution. Some options include:
+• The State should add one or more brackets with higher rates to the City’s personal income 
+tax. 
+• The City should rescind the Madison Square Garden property tax exemption. 
+• The City should negotiate a payment in lieu of tax (PILOT) from private universities and 
+hospitals that are currently exempt from property taxes under State law. 
+• The City should implement comprehensive property tax reform, such as those recommended 
+9. Office of the New York City Comptroller, Annual Report on Capital Debt and Obligations, Fiscal Year 2026. December 
+1, 2025.
+New York City’s 2026 Economic & Budget Outlook
+7
+by the NYC Advisory Commission on Property Tax Reform.
+• The State and City should actively explore new revenue raising proposals together. 
+B. How policymakers can facilitate inclusive economic growth. 
+1. The State and City should maintain services and programs, with a commitment to residents facing 
+extreme hardship. This includes:
+• Preserving and maintaining existing universal core services and programs that benefit all New 
+Yorkers.   
+• Prioritizing benefits programs and administration.
+• Safeguarding immigrants.
+2. Protect workers. 
+3. Establish and enforce higher labor standards for workers in low-wage occupations. 
+4. Prioritize neighborhood small business and job opportunities.
+5. Direct fiscal stimulus to public works that can create high-quality jobs.
+New York City’s 2026 Economic & Budget Outlook
+8
+New York City is looking towards 2026 with hope after one of the most exciting and consequential 
+local election campaigns in decades. Part of that hope stems from the fact that the election, which 
+centered on affordability, made many New Yorkers who believed they had been ignored feel heard 
+and seen. Incoming Mayor Zohran Mamdani combined a recognition of the broad affordability crisis 
+with a bold policy agenda, making transformative change and relief feel truly possible.
+ 
+But Mamdani will also face a particularly challenging economy and fiscal policy constraints, due 
+to both longstanding inequities and the Trump administration’s actions in 2025. New York City is 
+already the most economically unequal city in the country. It is home to both some of the nation’s 
+wealthiest people and also a large percentage of residents living in poverty, due to persistent 
+unemployment and low-wage jobs. The Trump administration and Congress, through the passage 
+of the One Big Beautiful Bill Act (OBBBA), are exacerbating this inequality and creating more 
+challenging economic conditions and fiscal policy constraints for local policymakers. (See Glossary.)
+ 
+Mamdani, Governor Kathy Hochul, and the City and State legislative branches therefore face an 
+unusually challenging balancing act. They must commit to making real, meaningful progress to 
+address affordability. They will also need to meet the needs of the city’s most vulnerable low-income 
+and immigrant households, who will be (or are) at risk of losing critical social supports – from health 
+insurance to nutritional assistance – due to OBBBA changes to programs that rely on significant 
+federal funding. Heightening the need to address these priorities: a stagnant and uncertain economy 
+that is unlikely to facilitate the job growth and wage gains most New Yorkers need for economic 
+security.
+ 
+One important political strategy in this balancing act is to center the promise of universal programs. 
+From the New Deal to the present, history shows that universal social programs such as Social 
+Security and Medicare are less likely to face subsequent cuts or elimination precisely because they 
+benefit everyone, including wealthy and politically connected people. 
+ 
+Commitments to develop universal programs can help generate the political will and revenue 
+necessary to support everyone, especially those who are most vulnerable to the disproportionate 
+impacts of the Trump agenda and the uncertain economic and social environment created by his 
+policies. 
+However, unlike the federal government, which can engage in deficit financing, New York City and 
+State cannot build universal programs overnight. That will require passage of new tax measures 
+needed to cover the programs’ costs. The City and State also must develop multi-year plans 
+to phase in universal programs that are equitable and comprehensive, while, in the process, 
+incorporating existing anti-poverty programs tied to precarious federal funding that requires means 
+testing for eligibility. 
+Pursuing policy change without this approach risks undermining those existing social programs, 
+1. INTRODUCTION
+
+New York City’s 2026 Economic & Budget Outlook
+9
+creating class-based eligibility tiers, with low-income households receiving support through one set 
+of programs while others benefit from another set.
+ 
+The goal of this report is to ground New Yorkers’ collective hope for change in 2026 in the economic 
+and fiscal policy conditions we inherit from 2025. Policymakers will need to make strategic choices 
+and plan for the long-term. Policy interventions have the potential to make immediate change and 
+produce multiplier economic effects, increasing future tax revenue to fund universal public programs 
+that can truly achieve long-term, broad-based affordability.
+ 
+This report is organized in four main sections. First, we describe the state of the New York City 
+economy at the end of 2025 and how that informs our expectations for the city’s economy in 2026. 
+Second, we highlight how OBBBA changes will impact economic inequality and poverty in New 
+York City, starting in 2026. This is key for policymakers, because cuts in critical safety net programs 
+will put significant strain on the City and State budgets. Third, we evaluate the capacity of the City 
+and State to address these and other policy priorities in the budget processes starting in January 
+2026. Lastly, taking cognizance of these realities and of the need for bold, transformative policies to 
+mitigate inequality, we provide some recommendations for City and State policymakers.
+Many terms and concepts in this report may not be familiar to everyone. Please see Section 6: 
+Glossary for further explanation of terms noted throughout this report. 
+New York City’s 2026 Economic & Budget Outlook
+10
+In 2025, the economy in New York City and across the country has been overwhelmingly defined 
+by President Trump’s aggressive and volatile actions. Nationwide, immigration raids have placed 
+vulnerable households under acute financial, emotional, and legal stress while reducing labor supply 
+in specific industries and regions. High and broad-based tariffs on imported goods, including those 
+from traditional U.S. allies and trading partners, mark a sharp turn in U.S. trade policy. Businesses, 
+facing these unpredictable conditions, have scaled back imports. Surveys indicate that firms are 
+more inclined to pass tariff-induced costs onto consumers rather than absorb them, adding pressure 
+to an already elevated inflation environment.10 This further intensifies affordability challenges in 
+already high-cost areas like New York City. Looking forward to 2026, there is no sign that the Trump 
+administration plans to change course; therefore, these conditions are likely to continue shaping the 
+city’s economy. 
+Escalating political attacks on federal statistical agencies have also undermined our ability to 
+evaluate the economy. On August 1, 2025, President Trump fired Dr. Erika McEntarfer, the 
+commissioner of the Bureau of Labor Statistics, hours after the July jobs report revealed weaker-than-
+expected job growth. Two months later, a prolonged government shutdown also halted release of 
+data on jobs, economic output, and inflation. As of this writing, therefore, most data that is typically 
+updated monthly at the city level has only been released through September 2025, and other data 
+releases have been delayed. The tools we use to measure economic growth, stability, and well-
+being, therefore, provide a less timely picture than ever before. 
+In this section, we dig into job and economic growth in the city in 2025 and describe which New 
+Yorkers are winning, and losing, as a result. This informs our expectations for the city’s economy over 
+the next year. 
+A. Job Growth in the City and by Industry
+One way to measure economic growth is the number of jobs added to the economy. From this 
+perspective, New York City’s economy slowed down in 2025. Measured by private sector payroll 
+jobs, New York City’s economy grew 0.7 percent from January to September 2025. The city’s private 
+sector job growth was stronger in 2024, growing 1.6 percent during the same January-September 
+period.11 
+New York City’s slowdown in private payroll job growth is similar to national trends. The U.S. 
+economy as a whole experienced a mere 0.4 percent growth in private payroll jobs from January 
+10. Jaison R. Abel, Richard Deitz, Sebastian Heise, Ben Hyman, and Nick Montalbano, Are Businesses Absorbing the 
+Tariffs or Passing Them on to Their Customers?, Federal Reserve Bank of New York, June 4, 2025.
+11. New York City Office of Management and Budget, NYC Employment Data (Seasonally Adjusted), September 2025, 
+December 11, 2025.
+2. ECONOMIC GROWTH AND STABILITY
+
+New York City’s 2026 Economic & Budget Outlook
+11
+to September 2025, compared to 0.7 percent growth for the same time period in 2024.12 
+Approximately half the 20 largest metropolitan statistical areas (MSAs) around the country 
+experienced slower private payroll job growth from January to August 2025, compared to the same 
+period in 2024; some saw private sector job declines.13  
+Private payroll job growth in New York City and the NY-NJ MSA still fared better than in many 
+of the largest 20 MSAs. (See Figure 1.) Each MSA is unique in terms of its dominant industries, 
+demographic diversity, political landscape, and how these characteristics affect the ebbs and flows 
+of the economy. However, it appears that businesses across the country are responding to the Trump 
+administration’s stress tests on the economy—from threats of higher tariffs or attacks on immigrant 
+communities—and the uncertainty and weak demand they generate by making little change to the 
+number of people they employ.
+Figure 1
+12. U.S. Bureau of Labor Statistics, All Employees, Total Private (USPRIV), Federal Reserve Bank of St. Louis, 2025.
+13. U.S. Bureau of Labor Statistics, All Employees, Total Private: Top 20 Metropolitan Statistical Areas, Federal Reserve 
+Bank of St. Louis, 2025.
+New York City’s 2026 Economic & Budget Outlook
+12
+Government jobs have long been an integral part of the U.S. economy, providing key services 
+and (relatively) good-paying jobs in good times and bad. The Trump administration took extreme 
+measures to downsize government jobs across the country throughout 2025, starting with the 
+Department of Government Efficiency (DOGE) and continuing during the October-November 
+government shutdown. The impacts have been most apparent in communities where federal 
+government jobs comprise a large share of local jobs.14 Given the comparatively high proportion 
+across the nation of Black workers in the public sector, they have also keenly felt the negative 
+consequences of these actions.15 Furthermore, this reduction in public sector jobs contributes to 
+weaker aggregate demand throughout the economy.
+New York City’s public sector employment is significant. Approximately 600,000 payroll jobs in the 
+city are at government agencies, which is 12.5 percent of all payroll jobs in the city.16 However, only 
+eight percent of these workers are employed directly by the federal government. The vast majority 
+(83 percent) are employed by the City. As a result, New York City did not experience a decline in 
+government jobs as of September 2025. However, as federal funding cuts become more salient, City 
+and State government jobs in New York City may be at risk.
+New York City job stability and growth is vulnerable in other ways as well. One in five jobs in the 
+New York City economy is in the health care and social assistance sector. From January to September 
+2025, the city netted 25,684 additional nonfarm payroll jobs. However, most sectors of the 
+economy—with the exception of health care and social assistance, government, and warehousing—
+experienced zero or negative job growth in 2025. New York City would have experienced overall job 
+decline in 2025 if the economy hadn’t added 51,564 health care or social assistance jobs and more 
+than 11,000 government jobs by September. (Figure 2 illustrates job gains and losses by specific 
+average wage in each industry since the pandemic.) 
+Figure 2
+The rise in health care and social 
+assistance sector employment 
+is related to increased access to 
+health insurance, through, for 
+example, the Affordable Care Act 
+(ACA), which has boosted demand 
+for these services. The passage of 
+14. Jonathan Schwabish, Implications 
+of a Shrinking Federal Workforce under 
+DOGE’s Recommended 75 Percent 
+Reduction, Urban Institute, January 30, 
+2025.
+15. Valerie Wilson, Adewale A. Maye, and 
+Stevie Marvin, A Tale of 10 Cities: Metro 
+Areas Signal What’s at Stake for Black 
+Americans under Trump’s Anti-Equity 
+Agenda, Economic Policy Institute, August 
+14, 2025.
+16. New York State Department of 
+Labor, New York City Labor Force Data, 
+December 9, 2025.
+
+New York City’s 2026 Economic & Budget Outlook
+13
+OBBBA put such jobs at risk. In 2026, OBBBA is expected to eliminate coverage for nearly 134,114 
+New York City immigrants. In 2027, 725,702 New York City Medicaid receipts are also at risk of losing 
+coverage. (See Section 3 for more details about the impact of OBBBA on city residents.)
+The OBBBA’s phasing out of federal tax credits for zero-emission vehicles and solar panel 
+installations will also impact local investment and spending that may directly affect green jobs (and 
+put upward pressure on electricity prices). The capital costs of solar installation will likely grow, 
+reducing consumer and business spending for them.
+B. Economic Growth and Recession Prospects
+Another way to measure economic growth is the value of goods and services produced. From a 
+national perspective, U.S. real gross domestic product (GDP) growth in 2025 has been volatile: 
+output fell at a 0.6 percent annualized rate in the first quarter before rebounding to 3.8 percent in 
+the second. (Given the lack of data, it’s uncertain how U.S. GDP growth in 2025 will compare to the 
+steady, average real GDP growth of 2.9 percent and 2.8 percent in 2023 and 2024, respectively.)17
+New York State’s economy has been less volatile by comparison, showing modest real GDP growth 
+of 0.5 percent in the first quarter of 2025 and 1.0 percent in the second.18 However, that’s much 
+softer than the state’s 2.6 percent annual real GDP growth in 2024. (The most recent data available 
+on New York City’s GDP is from 2023, when it experienced 1.7 percent real GDP growth. That was 
+higher than the state and lower than the U.S. rates in the same year.)
+Many economists anticipated the U.S. would face a recession in 2025, because of the Trump 
+administration’s drastic cuts to government programs and jobs as well as erratic, punitive tariff 
+declarations. (See Glossary.) Earlier this year, CNYCA estimated that for each 1.0 percent decline 
+in U.S trade integration (the sum of exports and imports as a share of GDP), New York City would 
+lose 27,061 jobs and see a 0.10 percentage point decrease in its GDP .19  While such an economic 
+downturn has yet to take place, an October 2025 analysis from economist Mark Zandi shows that 
+over half of U.S states are either at risk of recessions or “treading water,” meaning they are already 
+experiencing a significant economic contraction.20 
+New York is one of those states. There are many signs of its economic contraction. Weak demand, 
+evidenced by consumer and investment activities, is one of them. From December 2024 to 
+September 2025, consumer sentiment dropped by 8.4 points in New York City, despite the strong 
+resilience of personal consumption expenditure nationwide and in the city. 21 However, this resilience 
+has been mostly driven by top-income earners. In the second quarter of 2025, the top 10 percent 
+17. CNYCA analysis of U.S. Bureau of Economic Analysis, Table 1.1.5. Gross Domestic Product, November, 2025.
+18. U.S. Bureau of Labor Statistics and U.S. Bureau of Economic Analysis, Quarterly Gross Domestic Product Database, 
+November 2025.
+19. Mohamed Obaidy, A U.S. Trade War Is Likely to Harm New York City’s Recovering Economy, Center for New York City 
+Affairs, May 22, 2025.
+20. Mark Zandi, “23 States in Recession Reveal Fragility of the U.S. Economy,” LinkedIn, October 22, 2025.
+21. Siena Research Institute, New York Index of Consumer Sentiment: Summary of Trends, October 2025.
+New York City’s 2026 Economic & Budget Outlook
+14
+of earners represented 50 percent of total consumption expenditure in the U.S.22 Similarly, services 
+activity – which constitutes most of New York City’s economic activity - significantly contracted in the 
+city. The Federal Reserve Bank of New York’s November 2025 Services Index dropped to its lowest 
+level since January 2021 (excluding October 2025).23 
+On the other hand, 2025 was another strong year for the tech sector and for Wall Street. New York 
+City continues to be a leading place for tech sector job creation.24 Venture capital (VC) activity here 
+remained exceptionally strong in 2025.25 The New York City metropolitan area (NYC-NJ MSA) also 
+recorded the second-largest total in VC investment in the nation in 2024. In the financial sector, 
+equity valuations have been heavily influenced by AI-driven optimism and major technology firms’ 
+spending on data centers and AI infrastructure. Although AI presents opportunities, it also raises 
+fundamental questions about future labor market impacts and introduces risks of boom-bust 
+dynamics.26As a leading location for tech jobs and the finance sector, New York City is particularly 
+exposed to both the upside and downside of AI-related investment cycles. 
+Within this context, the Federal Reserve has remained uncertain about the direction of monetary 
+policy. However, the decision to cut the federal funds rate target range by a quarter percentage 
+point in December shows that it worries more about slowing job growth and economic activity 
+overall than about possible inflationary effects. Such a cut will probably not be enough to reduce the 
+cost of borrowing for most businesses and households in the near term to boost the economy.
+What Would a Recession Mean for New York City?
+Given an increased risk of an  
+economic downturn, CNYCA  
+analyzed the impact of national  
+recessions since 1976 on the 
+New York City labor market, to 
+22. Jonnelle Marte, “Top 10% of 
+Earners Drive a Growing Share of U.S. 
+Consumer Spending,” Bloomberg 
+News, September 16, 2025.
+23. Federal Reserve Bank of New York, 
+Business Leaders Survey: Overview, 
+December 2025.
+24. Jonathan Bowles, Eli Dvorkin, and 
+Rachel Neches, Sustaining NYC’s Tech 
+Edge, Center for an Urban Future and 
+Tech: NYC, May 2025.
+25. This indicator is a proxy for capital 
+inflow in New York City. It shows the 
+level of confidence investors have 
+in the city’s economy.; Office of the 
+New York State Comptroller, Venture 
+Capital Investment in New York City, 
+October 2025.
+26. Konrad Putzier, “How the U.S. 
+Economy Became Hooked on AI 
+Spending,” The Wall Street Journal, 
+November 24, 2025.
+Figure 3
+New York City’s 2026 Economic & Budget Outlook
+15
+provide insight on what another recession might mean here. We found that when the United States 
+enters a recession, New York City’s labor market deteriorates rapidly and far more persistently than 
+the nation’s, with a persistent dampening effect. (See Figure 3.) Within just two to three months of 
+a national downturn, the city’s unemployment rate typically rises by about 2.5 to 3.0 percentage 
+points, compared to 0.2 to 1.9 percentage points nationally. (See Glossary.) Figure 3 illustrates how 
+this elevated level often persists for nearly two years. 
+New York City’s labor force participation rate (LFPR) also declines quickly—falling by roughly 1.0 
+to 1.5 percentage points within the first three months of a recession. (See Glossary.) This is greater 
+than the national drop of 0.1 to 0.7 percentage points. The effect gradually moderates over the 
+subsequent year but remains slightly below pre-recession levels even after two years. 
+Recessions also disproportionately impact workers of color. Numerous studies have found that 
+employment rates for Black people fall more than for white people during recessions.27 (And in 
+periods of strong economic growth, employment rates for Black people rise faster than they do 
+for white people.)28 Given the racial diversity of the city’s labor force, these lessons from history 
+provide additional evidence that New York City must have policy tools ready to mitigate the 
+severity and longevity of a recession. Early and proactive measures, such as a robust and expanded 
+unemployment insurance program, provide essential buffers for households and stabilize the 
+economy when recession risks emerge.
+C. Labor Market Dynamics 
+In September 2025, the city’s seasonally adjusted unemployment rate was 5.1 percent, a 0.2 
+percentage decline from the 5.3 percent average unemployment rate in 2024. The city’s LFPR held 
+steady at 61.7 percent this year, close to the city’s historic peak labor force participation rate of 61.9 
+percent in November 2024. These positive trends are counter to what might be expected in an 
+economy marked by lower job and economic growth in 2025. 
+However, the declining unemployment rate in a slow growth economy may also reflect declining 
+labor force participation rates of groups that have faced considerable obstacles in the post-
+pandemic New York City economy. In 2025, labor market data disaggregated by race and gender 
+shows deepening signs of labor market disparities, particularly for workers of color. 
+The Black-white prime age (25-54) unemployment rate gap is a key metric of labor market inequality. 
+The NYC-NJ MSA has the largest Black-white unemployment rate gap of any MSA in the country. 
+Black unemployment is rising across the country, including in many of the largest MSAs, but the 
+NYC-NJ area saw the most extreme increase in Black unemployment over the past year (up 2.7 
+27. Arthur M. Okun, Upward Mobility in a High-Pressure Economy, Brookings Papers on Economic Activity 4, no. 1 
+(1973): 207–262; Stephanie Aaronson et al., Who Benefits Most from a Strong Economy?, Brookings Institution, March 
+2019. 
+28. Nittai Bergman et al., Heterogeneous Labor Market Effects of Monetary Policy, Social Science Research Network, 
+2021. 
+New York City’s 2026 Economic & Budget Outlook
+16
+points since Q4 2024).29 This suggests that labor market inequality is a local problem that requires 
+local policy action. (See Figure 4.)
+Figure 4 
+Table 1 lists labor market outcomes disaggregated by race, gender, immigration status, education, 
+and age, comparing the pre-pandemic first quarter of 2020 to the third quarters of 2024 and 2025.30 
+These three snapshots in time provide important points of comparison. The city’s economy before 
+the pandemic was at the apex of its longest period of economic growth in decades. By many 
+indicators, our economy – while still afflicted by rampant inequality – was the strongest it had ever 
+been. That makes it an important point of comparison for today’s labor market. The dramatic shifts in 
+U.S. policy that have impacted the economy also make it important to examine change over the past 
+year.
+As of the third quarter of 2025, white men and – especially – white women were doing well 
+compared to the third quarter of 2024 and to before the pandemic. The stability of white workers in 
+the face of a sluggish and uncertain economy is distinct from the experiences of workers of color. 
+Women of color also experienced post-pandemic increases in their employment rates, but with more 
+volatility. After an overall increase since 2020, Black women’s employment rate dropped over the 
+past year while their unemployment rate increased 1.3 points. Meanwhile, Hispanic women did not 
+experience such a boost from 2020 to 2024, but increased their employment rate by 4.4 percentage 
+points this past year alone. (See Glossary.) 
+29. Valerie Wilson, What’s Behind Rising Unemployment for Black Workers?, Economic Policy Institute, September 19, 
+2025.
+30. The racial, ethnic, gender, and other demographic categories used in this analysis are limited in two ways. First, we 
+are limited to the categories the Bureau of Labor Statistics includes on the survey people complete, which is used to 
+generate this data. Second, estimating labor market indicators for a population requires having a large enough sample of 
+that population in the data. We, therefore, are often required to group certain racial and ethnic groups together in order 
+to produce statistically grounded estimates.
+New York City’s 2026 Economic & Budget Outlook
+17
+Men of color, on the other hand, have all experienced a decline in their employment rate comparing 
+2020 to today. Negative outcomes for Black and Asian men were apparent in 2024 and held steady 
+over the past year, as few new jobs entered the city’s economy. Hispanic men experienced a sharp 
+1.6 percentage point decrease in their employment rate over the past year. 
+A number of factors potentially drive these race and gender differences. The concentration of 
+job growth in traditionally female-dominated industries like health care may explain some of the 
+employment growth for women broadly. Declining unemployment among Black and Hispanic men 
+may reflect men dropping out of a persistently slow job market in male-dominated fields that tend to 
+employ men of color, such as construction. 
+It is important to note that the  
+employment rate of people  
+holding a bachelor’s degree also 
+dropped 3.6 percentage points 
+over the past year. This suggests 
+that, in the face of economic 
+and federal funding uncertainty 
+over the past year, firms may be 
+operating under a “last hired, first 
+fired” approach. This approach 
+has historically disproportionately 
+impacted Black workers. 
+The dramatic shifts for Hispanic 
+men and women reflect the 
+economic impact of the Trump 
+administration’s deportation  
+efforts, which have  
+disproportionately targeted 
+Hispanic men. Declining 
+employment rates for Hispanic 
+men coincide with an even 
+larger decline in their labor force 
+participation rate, comparing 
+2024 to 2025. Additionally, the 
+unemployment rate for non-
+citizens, which was already high in 
+2024, dropped significantly over 
+the past year. However, this decline 
+is misleading, as non-citizens also 
+dropped out of the labor force 
+significantly since 2024, potentially 
+reflecting a range of issues from 
+difficulties obtaining visas to 
+the chilling effect of Trump’s 
+deliberately cruel deportation policies. 
+Table 1
+New York City’s 2026 Economic & Budget Outlook
+18
+In this section, we highlight how OBBBA changes will impact already widespread poverty and 
+economic inequality in New York City. This is key for policymakers in 2026 and beyond, because 
+people living in poverty need robust safety net programs. However, OBBBA will destabilize those 
+programs, disproportionately impacting the poorest New Yorkers, and put significant strain on the 
+City and State budgets. 
+A. Poverty
+1. New York City Poverty Rates and Public Assistance Need Remain 
+Elevated 
+While the vast majority of New York City households are feeling squeezed in a local economy with 
+a high cost of living, stagnant wages, and persistently high inflation, New York City’s high rate of 
+poverty is its biggest economic and fiscal policy challenge, particularly given that OBBBA poses a 
+disproportionate threat to people living in poverty.
+The poverty rate, or percentage  
+of families living below the federal 
+poverty level (FPL), rose in New 
+York City from 16 percent to 18 
+percent between 2019 and 2024. 
+(See Glossary.) One-quarter of 
+children living in New York City live 
+in poverty. (See Figure 5.) This is 
+distinctly different from the national 
+poverty rate (which remained flat) 
+and the child poverty rate (which 
+declined) during the same period. 
+The City’s poverty rate is also more 
+pronounced than that of the NYC-
+NJ MSA, which was 12.5 percent in 
+2024. Among the 20 largest MSAs, 
+the NYC-NJ MSA ranks fourth both 
+in terms of poverty rate and rate 
+increases since 2019. 
+The FPL is critical for understanding 
+acute economic hardship. Eligibility 
+3. POVERTY AND INEQUALITY EXACERBATED BY OBBBA
+Figure 5
+New York City’s 2026 Economic & Budget Outlook
+19
+for most safety net programs – like cash assistance and Supplemental Nutrition Assistance Program 
+(SNAP) benefits – are tied to it. However, because it does not take into consideration cost of living 
+differences throughout the country, it also severely underestimates the number of struggling New 
+York City households. 
+Figure 6 illustrates enrollment in three major public assistance programs: Medicaid, SNAP , and cash 
+assistance. (See Glossary.) Each has higher enrollment today than before the pandemic. A continued 
+high need for public assistance is one of the reasons the City and State have significant differences in 
+revenue outlooks and spending in recent and upcoming years. 
+Skyrocketing cash assistance enrollment since the pandemic can be attributed to two things. First, 
+higher rates of poverty and persistent unemployment have led to more need. Second, the City 
+paused work requirements related to the program at the onset of the pandemic and has yet to 
+reinstate them. It is likely cash assistance enrollment will decline in 2026, not because of decreased 
+need, but because of the challenges recipients will face with new requirements.
+The new OBBBA work requirements for Medicaid and SNAP recipients are also expected to result in 
+declining enrollment, not because of decreased need, but because of new administrative barriers. 
+Efforts by the City and State to address the acute needs of these New Yorkers as they lose benefits, 
+largely paid for with federal funding, will strain budgets already stressed by the overwhelming rise in 
+need for these programs. 
+Figure 6
+
+New York City’s 2026 Economic & Budget Outlook
+20
+2. New York City Residents Face Significant Support Cuts Due to OBBBA 
+OBBBA’s changes to health insurance and SNAP will disproportionately impact low-income and 
+immigrant families. One-third of the city’s population, or 2.9 million residents, live below 200 percent 
+of the FPL.31 An estimated 35 percent of city residents below the poverty level were born outside 
+the U.S. This makes New York City one of the most exposed places in the U.S. to OBBBA changes to 
+health insurance and SNAP .  
+The OBBBA includes major changes to Medicaid financing, ACA subsidies, and SNAP that will be 
+rolled out over several years, starting in 2026. This will result in up to 1.1 million of New York City 
+residents directly at risk of losing health insurance coverage and food assistance in the next two 
+years. The timeline of these major changes include:
+January 2026: Federal funding for the Essential Plan (EP), a New York State health insurance 
+program for low-to-moderate income residents who don’t quality for Medicaid, is cut for 
+documented non-citizens (i.e., permanent residents, visa holders with work authorization, and 
+those with special refugee status). An estimated 134,114 low-income New York City documented 
+non-citizens will be at immediate risk of losing coverage.32 (See Glossary.) An additional 303,123 
+documented non-citizens in New York City will also lose EP coverage, but they will be moved over to 
+State Medicaid as required by the State Constitution. 
+March 2026: 80-hour monthly work requirements for SNAP recipients go into effect, impacting all 
+Able-Bodied Adults Without Dependents (ABAWD), recipients who are 18 to 64 years of age with no 
+dependents under the age of 14.33 About 230,000 New York City residents are at immediate risk of 
+losing food assistance access unless they meet the new work requirements.34
+October 2026: SNAP cost-shifting goes into effect. Federal spending cuts for the program put a 
+higher cost burden on states and cities to administer SNAP , which reduces New York’s administrative 
+support to more than 1.8 million New York City residents who rely on SNAP . This could indirectly 
+reduce or delay benefit issuance.  
+January 2027: 80-hour monthly work requirements for Medicaid go into effect, impacting individuals 
+in the Affordable Care Act (ACA) Medicaid expansion group with incomes up to 138 percent of the 
+FPL who have no dependents. Additional requirements and restrictions, such as bi-annual eligibility 
+determination and limited retroactive coverage, are also expected to go into effect in January 
+2027 and impact Medicaid enrollees in the non-ACA group.35 These measures will expose 725,702 
+New York City Medicaid recipients to immediate risk of losing health insurance coverage. Biannual 
+eligibility redeterminations, retroactive coverage limits, and new documentation and verification 
+rules will indirectly affect the city’s 2.9 million residents with household incomes below 200 percent 
+of the FPL. 
+31. CNYCA analysis of U.S. Census Bureau, American Community Survey.
+32. These estimates are based on CNYCA calculations. About 70 percent of New York State immigrants live in New York 
+City. We use this share to estimate the immigrant population impacted by OBBBA. 
+33. New York State Office of Temporary and Disability Assistance, SNAP Work Requirements, https://otda.ny.gov/
+programs/snap/work-requirements.asp
+34. Office of the New York City Comptroller, New York by the Numbers: Monthly Economic and Fiscal Outlook. 
+November 13, 2025.
+35. Jillian K. Bronner, An Analysis of the One Big Beautiful Bill Act (OBBBA)’s Impact on Healthcare for New York, 
+Rockefeller Institute of Government, July 10, 2025
+New York City’s 2026 Economic & Budget Outlook
+21
+2028 to 2032: New Medicaid rules go into effect, including restrictions on noncitizen coverage, 
+new premiums and cost-sharing, Long-Term Care (LTC) and home equity limits, and tightened 
+marketplace verification rules. These will strain Medicaid financing, destabilize social safety net 
+hospitals, and increase the prevalence of uncompensated care. Out-of-pocket costs will rise for 
+households who rely on Medicaid, leading to higher medical debt and reduced access to essential 
+medical services. These pressures will deepen the intensity of poverty while straining the home 
+health care and social assistance industry. 
+Table 2 summarizes when and how New York City residents, by benefit type, are impacted by these 
+changes. 
+Table 2
+
+New York City’s 2026 Economic & Budget Outlook
+22
+B. Inequality
+New York City has the highest income inequality of any major U.S. city. New York City’s high and 
+rising Gini coefficient indicates an increasingly polarized income structure, where the gains of 
+economic growth are concentrated among a relatively small share of residents. (See Glossary.) This 
+growing inequality is driven by strong wage growth among the top three percent of wage earners, 
+compared to the rest of workers. 
+These labor market dynamics contributed to real median household income in New York City 
+declining 4.9 percent from 2019 to 2024.36 This is opposite the national trend, where real median 
+household income increased 0.9 percent during the same period. None of the nation’s other 10 
+largest cities experienced a statistically significant decline in inflation-adjusted median household 
+income during this period. The combination of declining real median income, increasing wages at 
+the top of the income distribution, and high cost-of-living pressures has resulted in growing precarity 
+among low- and middle-income households. Inequality will further be exacerbated by OBBBA 
+personal income tax (PIT) changes that disproportionately benefit high-income earners at the 
+expense of low-income households.  
+1. Unequal Wage Growth Deepens Inequality in New York City
+In both New York City and nationally, wage growth for low-wage workers slowed between 2023 
+and 2024, and real income gains for most Americans have stalled as inflation and high interest rates 
+erode purchasing power.37  Younger workers, renters, and households with insufficient savings or 
+other income resources have been particularly affected. 
+Nationally, this reverses the  
+post-pandemic trend that saw 
+low-wage workers experience 
+stronger relative pay gains, due to 
+a combination of a fast recovery 
+from the Covid shock and local 
+minimum wage increases in many 
+states and municipalities.  In 
+New York City, however, wage 
+inequality has been increasing 
+steadily since the pandemic, 
+due to a comparatively slower 
+recovery and a stagnant minimum 
+wage. 
+36. CNYCA analysis of U.S. Census 
+Bureau, American Community Survey.
+37. Chris Wheat and George Eckerd, 
+Real Income Growth Shifts Down, 
+Especially for the Young, JPMorgan 
+Chase Institute, October 29, 2025.
+Figure 7
+New York City’s 2026 Economic & Budget Outlook
+23
+While wage gains slowed across most of the income distribution in both New York City and the 
+United States between 2023 and 2024, the top three percent of wage earners in the city were a 
+sharp exception. This group consists of workers earning $312,000 or more in 2024 before taxes. 
+They are heavily concentrated in finance, tech, information, scientific research, and other high-wage 
+services.38 (See Figure 7.)
+2. OBBBA Income Tax Changes Exacerbate Inequality in New York City
+The OBBBA includes many changes to personal income taxes (PIT) that will have disparate impacts 
+on households at different income levels starting in 2026. Among them, it makes permanent 
+many individual and business Tax Cut and Jobs Act (TCJA) measures enacted in the first Trump 
+administration, which would otherwise have expired at the end of 2025. In this section we describe 
+some of the more notable tax changes that will exacerbate income inequality.
+The OBBBA federal PIT changes will benefit some State and City taxpayers by reducing their 
+federal taxable income (thereby increasing their after-tax income). Table 3 lists the changes in after-
+tax income for various income levels. Additional income tax changes and health insurance and 
+SNAP cuts result in overall PIT changes that harm low-income households and benefit high-income 
+households. The changes will not affect their taxable income for City and State PIT, so they will not 
+change local PIT revenue. 
+Table 3
+OBBBA includes numerous changes 
+affecting the federal PIT. (Because 
+its rates and brackets provisions 
+maintain the 2025 TCJA status quo, 
+there is likely to be little resulting 
+effect on New York City or State 
+household tax burdens.)39 Table 4 
+lists some of the OBBBA changes, 
+many of which are temporary, and 
+who they impact.
+38. Mohamed Obaidy, While the Top 3 Percent of Wage Earners Get Richer, New York City’s Low-Wage Workers Risk 
+Greater Poverty, Center for New York City Affairs, February 26, 2025.
+39. Because the brackets are indexed for inflation to prevent “bracket creep,” the OBBBA brackets will change slightly 
+each year, just as they had from 2018 to 2025.   
+
+New York City’s 2026 Economic & Budget Outlook
+24
+Table 4
+New York City’s 2026 Economic & Budget Outlook
+25
+The City’s ability to create and maintain new programs and services hinges on securing sufficient 
+revenue. Unlike the federal government, states and cities must balance their budgets each year. 
+Their budget decisions are constrained by their revenue forecasts. 
+Mayor-elect Mamdani has pledged major new public programs, including building new affordable 
+housing, eliminating bus fares, and making child care free and available to all. However, making that 
+happen will require significant public investment at a time when the federal government is reducing 
+funding the City and State have long relied on. Therefore, the incoming administration will need to 
+be creative and strategic in pursuing its agenda while simultaneously supporting critical programs 
+serving low-income households that will face significant federal funding cuts starting in 2026. 
+In this section, we evaluate the fiscal capacity of the City and State to address policy priorities in the 
+budget processes starting in January 2026. 
+A. Revenue Outlook
+1. Federal
+The federal government has often been a reliable source of funds to localities. During the Biden 
+administration, it made substantial funding available to states and cities to invest in public 
+infrastructure and climate change mitigation. 
+The Trump administration is following a markedly different course – even in the face of popular 
+support for bold action to meet a widespread affordability crisis. As noted, OBBBA changes to 
+Medicaid and SNAP eligibility will disproportionately reduce support to low-income households. 
+(See Section 3.) 
+In this section, we describe the impact of OBBBA business tax changes on overall State and City 
+revenue as well as the current status of federal funding cut threats and actions in City program areas.
+OBBBA Business Tax Changes to City and State Revenue 
+Several OBBB A changes to business income and excise taxes will impact State and City tax revenue 
+directly. The costliest concern how businesses account for the value of investments in plants and 
+equipment and costs of research and development.40 
+40  Businesses have generally always been allowed to deduct a portion of the cost of prior capital investments from 
+their current year taxable income to reflect the depreciation in the value of the equipment over time. This process is 
+also known as “expensing.” In recent decades rules on how quickly eligible investments can be expensed have varied 
+considerably. Speeding up expensing, which reduces tax liability in the near term, can be an incentive to invest in new 
+plants and equipment faster than if the longer “normal” expensing period was in effect.
+4. FISCAL POLICY OUTLOOK
+
+New York City’s 2026 Economic & Budget Outlook
+26
+OBBBA includes five provisions regarding expensing and investment with a total 2026 cost to the 
+Federal budget of nearly $130 billion.41 Four would also flow through to the city and state tax bases 
+and budgets, lowering tax revenue in New York City by roughly $520 million and $2.9 billion for the 
+State, at least in the near term. (A fifth provision makes permanent “bonus depreciation” for many 
+types of property and equipment but does not flow through to state and city tax bases.) 
+Another provision, one that would positively flow through to the city and state, concerns taxation 
+of income earned by foreign affiliates of U.S. firms. TCJA had made significant changes in this area, 
+including what was essentially a minimum tax known as GILTI (Global Intangible Low-Tax Income) on 
+foreign affiliates of U.S. corporations. OBBBA did away with some TCJA changes, including moving 
+away from GILTI and introducing a new approach to taxing foreign income. The New York City 
+Department of Finance has estimated this will result in $55 million in additional revenue in 2026 for 
+the city.
+City Programs Impacted by Federal Funding Cuts and Threats
+The Trump administration has also reduced or stalled funding for City agency programs and local 
+non-profits that manage public infrastructure, programs, and services that are critical for the day-to-
+day functioning of the city. These measures have the additional effect of reducing the fiscal space the 
+City has to spend on existing and new programs. One year into the second Trump administration, 
+here are some services and programs that are directly at risk:
+Child Care: Child care is delivered through a variety of public and private programs with funding 
+for some programs and participants provided through a mix of federal, State, and City dollars. This 
+will be made more challenging by the Trump administration’s efforts to defund Head Start, which 
+provides free child care for children five years old and under to low-income families. The City’s 
+September 2025 application for a five-year Head Start renewal was not approved by the federal 
+government, leading to an annual loss of $70 million that Head Start programs rely on.42 (This follows 
+the Trump administration’s illegal withholding of $1 billion from the program nationally in early 2025. 
+It also abruptly closed half the country’s regional Head Start offices. “Project 2025,” widely seen as 
+the Administration’s de facto policy blueprint, called for eliminating Head Start altogether.)
+Climate Change: The Trump administration has proposed defunding the Environmental Protection 
+Agency (EPA), starting with a 55 percent cut in the EPA’s federal fiscal year (FFY) 2026 proposed 
+budget, which Congress will have to deliberate on before its continuing budget resolution expires on 
+January 30, 2026.43 These are in addition to the OBBBA elimination of  federal tax credits for zero-
+emission vehicles, solar panel installations, and the Inflation Reduction Act’s (IRA) capital expenditure 
+funding mechanisms for renewable energy projects. 
+That last development is particularly problematic for statewide implementation of the Build Public 
+41. Because CNYCA lacks access to some business tax data, our revenue estimates for business tax provisions are less 
+robust. In general, we shared down the Joint Committee on Taxation estimates with ratios of GDP and federal tax liability 
+at the federal and state levels. (See Glossary.)
+42. Office of the New York City Comptroller, New York by the Numbers: Monthly Economic and Fiscal Outlook, 
+September 2025.
+43. Environmental Protection Network. Trump FY26 EPA Skinny Budget Factsheet. May 9, 2025.
+New York City’s 2026 Economic & Budget Outlook
+27
+Renewables Act, which was designed to utilize the IRA’s direct pay provisions and, in particular, sub-
+market rate lines of credit for public energy infrastructure.  
+Meanwhile, President Trump has issued executive orders, building off of bipartisan consensus, for 
+a nuclear energy renaissance. This creates one opening for New York State to reintroduce nuclear 
+power as a source of clean energy in the coming years.  It is also aligned with Governor Hochul’s 
+June 2025 directive to the New York Power Authority (NYPA) to develop at least one new gigawatt of 
+energy generated from a nuclear power plant.
+Cultural Organizations: The City is a significant beneficiary of several federal grant programs, 
+through the National Endowment for the Arts (NEA), the National Endowment for the Humanities 
+(NEH), and the Institute of Museum and Library Services (IMLS). From 2019 to 2024, New York City 
+received an annual average of $38 million combined from these agencies.44 In CFY 2024, 70 percent, 
+or $23 million, of funding was given to Manhattan cultural institutions. While no funding cuts 
+have been made to these programs yet, there are significant risks for the City’s non-profit cultural 
+institutions. Federal budget cuts to the IMLS led to the resignation of 80 percent of its workforce in 
+March 2025, along with the rescinding of over 1,000 grants, some impacting arts organizations in the 
+city.45 The U.S. House of Representatives appropriations package for the next federal fiscal year also 
+proposes a 35 percent cut in the NEA and NEH budgets. 
+Education: The City currently relies on approximately $2.5 billion of federal funding to support 
+public K-12 and early care and education and $1 billion of federal funding to support CUNY.46 This 
+is a fraction of the New York City Public Schools (NYCPS) operating budget of $34 billion annually.47 
+However, this federal funding directly supports programs that serve low-income students and protect 
+students from discrimination. Title I and special education federal funding are at risk in the budget 
+Congress will deliberate on before its continuing budget resolution expires on January 30, 2026.  
+The Trump administration is also working on changes to these grant programs that will likely reduce 
+targeted support for vulnerable students. It has already aggressively laid off US Department of 
+Education staff, with explicit plans to completely abolish the department. These actions compromise 
+the ability of the federal government to disburse grants to school districts and uphold civil rights law. 
+Emergency Preparedness: Local responses to weather-related and security crises of the kind New 
+York has faced on 9-11, Hurricane Sandy, and the Covid-19 pandemic are handled collectively by 
+the New York Police Department (NYPD), Fire Department of New York (FDNY), and New York 
+City Emergency Management (NYCEM). In City Fiscal Year (CFY) 2025, $503 million in federal 
+Department of Homeland Security (DHS) funds supported emergency preparedness across these 
+three agencies. In particular, NYCEM received 29 percent, or $37.9 billion, of its funding in CFY 2025 
+through DHS grants.48 
+The Trump administration has taken actions over the past year jeopardizing New York’s ability 
+44.  New York City Independent Budget Office, How Federal Budget Changes Could Impact New York City Cultural 
+Organizations, October 2025.
+45. Samantha Maldonado, “NYC Arts Groups Reel as Trump NEA Cuts Hit Home,” The City, May 8, 2025.
+46. Office of the New York City Comptroller, Protecting New York City, November 13, 2024.
+47. New York City Independent Budget Office, How Federal Budget Changes Could Reshape New York City Department 
+of Education, October 2025.
+48. New York City Independent Budget Office, How Federal Budget Changes Could Impact New York City’s Disaster 
+Prevention, Response, and Recovery, October 2025.
+New York City’s 2026 Economic & Budget Outlook
+28
+to address future crises. In February, it clawed back from the City over $80 million of FEMA-
+appropriated funds. Secretary of Homeland Security Kristi Noem has advocated for the end to the 
+Urban Area Security Initiative, which alone would have cut $187 million of funding allocated for New 
+York State this year (had bipartisan backlash not helped to reverse this action).  Trump also plans to 
+abolish FEMA altogether. 
+Hospitals (New York City Health + Hospitals (H+H)): H+H is the City’s public hospital network, 
+serving over one million city residents annually, 65 percent of whom are Medicaid recipients or 
+uninsured. Total revenues for the City’s public hospitals were projected at $13.5 billion for CFY 2025. 
+The OBBBA is projected to cut over $1 trillion in federal Medicaid spending over the next decade. 
+H+H projects a $1.5 billion reduction in its revenue for CFY 2026 and forecasts that its revenue will 
+remains below expense through 2029.49 This will undoubtedly result in H+H spending cuts, which 
+may reduce the number of people it employs or the services it can offer.
+New York City Housing Authority (NYCHA): Operating the largest public housing program 
+in the country, 67 percent of NYCHA’s $5.4 billion operating budget originates from the federal 
+government. In May 2025, the Trump administration released their FFY 2026 Discretionary Funding 
+Recommendations, proposing as much as a 43 percent, or $27 billion, reduction in funding for 
+Section 8 housing programs.50 
+Moreover, the Trump administration proposes a two-year rental assistance cap on non-disabled 
+tenants. Section 9 NYCHA residents have an average tenancy of 25 years, and Section 8 voucher 
+recipients have an average tenancy of 15 years. This proposal, if approved by Congress, would lead 
+to drastic upheavals in their lives and in NYCHA operating budget revenue. The City would need 
+to find another non-federal source of funding to subsidize the rents of these longer-term tenants. 
+NYCHA also needs to secure an additional $78 billion for its capital budget to fully repair its housing 
+stock. 
+Transportation: New York City’s public transportation infrastructure has been the target of 
+attempted funding cuts by the Trump administration. In January 2025, New York City implemented 
+the Manhattan Congestion Relief Zone, despite efforts by the Trump administration to squash the 
+program and its goals (and now successes) of reducing automobile traffic, noise and air pollution, 
+and commute times. A lawsuit by the Trump administration on this issue is in federal court, although 
+a preliminary injunction ensures continued operation of the program for the duration of the litigation. 
+Additionally, the Trump administration has withheld $12 billion capital funds already allocated for the 
+Gateway Project to construct a passenger rail tunnel between New York and New Jersey (effectively 
+canceling this work), and $3.4 billion for Phase 2 of the Second Avenue Subway.51
+49. New York City Independent Budget Office, How Federal Budget Changes Could Impact New York City’s Public 
+Hospital System, September 2025.
+50. New York City Independent Budget Office, How Federal Budget Changes Could Reshape The New York City Public 
+Housing Authority, September 2025.
+51. Matthew Haag, “Trump to Withhold $18 Billion for New York-Area Transit Projects,” The New York Times, October 1, 
+2025.
+New York City’s 2026 Economic & Budget Outlook
+29
+2. New York State
+Despite the economic and political vicissitudes of the past year, the current fiscal condition and near-
+term outlook for New York State’s Fiscal Year (SFY) 2027 budget process is surprisingly positive. The 
+State will likely be able to maintain budget balance in SFY 2027.
+The picture, however, darkens for future fiscal years. The Trump administration’s threats to pull 
+federal grants for a broad number of local projects and the OBBBA changes to health insurance 
+programs and SNAP will create substantial budget gaps that will grow bigger over time. 
+Part of the reason for a positive outlook for the SFY 2027 is better than expected economic growth 
+in 2025. (Forecasts last year anticipated a 2025 recession.) In total, the New York State Division of 
+the Budget (DOB) mid-year update showed a net “all funds” tax revenue forecast increase of $702 
+million.52 This is largely due to a $757 million increase in personal income tax (PIT) receipts.
+Nor does that update incorporate an even fuller expected revenue increase arising from the 
+continued strong 2025 performance of the financial sector. With very strong profits from the New 
+York Stock Exchange, member firms are currently on course for $60 billion in pre-tax profits, which 
+would be one of the highest on record. It is likely that bonus compensation and capital gains 
+realizations will be higher than DOB is currently projecting.
+However, it is reasonable to be cautious in forecasting revenue from the financial sector. Volatility 
+on Wall Street is also the biggest downside risk for New York State, which receives two-thirds of its 
+tax revenue from the PIT. If the AI bubble were to collapse, revenue from salary and bonus income 
+would fall, as would capital gains realizations. 
+DOB’s mid-year forecast does include estimates of the impact of OBBBA, which is one reason for its 
+downward revision. Most notably, the DOB estimates that several OBBBA business tax provisions will 
+reduce State tax revenues by an estimated $900 million in SFY 2026 and $950 million in SFY 2027.  
+To avoid these revenue losses, the State would need to enact legislation to “decouple” the sections 
+of the State tax law that align with the related sections of the federal tax code.
+There are large OBBBA impacts on the State budget. Combining tax and benefits changes, the 
+impact totals $952 million in the current fiscal year, and then grow rapidly to $3.6 billion in 2027 and 
+$4.4 billion in 2028. DOB has included these estimates in the mid-year update. Several independent 
+studies estimate the impact of OBBBA benefit changes on the State budget to be larger.53
+52. Because of its complex fiscal structure, the State budget documents present four alternative methods. The “All 
+Governmental Funds” presentation which is used in this report, is the most comprehensive.
+53. Jillian K. Bronner, An Analysis of the One Big Beautiful Bill Act (OBBBA)’s Impact on Healthcare for New York, 
+Rockefeller Institute of Government, July 10, 2025; Michael Kinnucan, The State is Understating Threats to NYS Medicaid 
+After OBBBA, Fiscal Policy Institute, July 25, 2025.
+New York City’s 2026 Economic & Budget Outlook
+30
+3. New York City
+The City’s Office of Management and Budget (OMB) released its first quarter budget modification 
+in November. Similar to the State’s mid-year update, it reflected how well the City is doing from a 
+budget standpoint, despite economic uncertainty and stagnation. The City Fiscal Year (CFY) 2026 
+budget has a $75 million surplus, followed by growing budget gaps in the outyears. 
+With economic forecasts similar to the State’s mid-year update, OMB revised the total tax forecast 
+upward by a net of $419 million. This was driven by an increase of $727 million in the combined PIT 
+and Pass-Through Entity Tax (PTET), partially offset by a $378 million decline in business tax revenue. 
+As with the State’s forecasts, these upward revisions do not fully incorporate record-breaking pre-tax 
+profits of New York Stock Exchange member firms, from which the City is likely to generate more 
+revenue than budgeted for the current fiscal year. Growth in the city’s largest tax revenue source, the 
+real property tax, continues at an average annual rate of 3.3 percent, barely half the pre-pandemic 
+rates, adding to the stress on the City’s budget.
+Many states across the country are reporting gaps between their business tax collections and the 
+forecasts in their budgets, which may be attributed to the impact of OBBBA tax changes. Like the 
+State’s mid-year update, the City forecasts include expected business tax decline; unlike the State, it 
+didn’t attribute them to OBBBA tax changes. 
+On the spending side, the OMB report included a net increase of $848 million in agency expenses; 
+none are the product of major new policy initiatives. One notable change was to add $400 million 
+to the Human Resources Administration (HRA) budget for rental housing vouchers as required by 
+City Council legislation. However, the money was only added to the 2026 budget, with no funding 
+for the program in the City’s updated four-year financial plan. If the legislation remains in place with 
+no permanent funding, the size of the budget in 2027 through 2029 is understated by at least $400 
+million each year.
+The November Plan also included a very modest savings program that relies entirely on debt service 
+savings of $116 million. Other savings will accrue from agency staff vacancies – which in some cases 
+have resulted in diminished services. 
+The adjustments to revenues and expenses to the plan for CFY 2027 result in a budget gap of $4.7 
+billion (and a larger budget gap in 2028). In January 2026, the new administration will need to 
+present a financial plan with CFY 2027 in balance. 
+New York City’s 2026 Economic & Budget Outlook
+31
+B. Budget Tools
+Policymakers will need to be creative in identifying resources to mitigate the current and future 
+harm caused by the Trump administration as well as improve or create new services and programs 
+to address economic inequality, the affordability crisis, and more. New tax policies and additional 
+revenues would address these needs. Other funding resources, however, are also at least technically 
+available. They include the City’s and State’s reserves and the debt-financing capacity.
+These tools are not feasible solutions to long-term deficits in operational expenses. They are 
+not appropriate instruments of expansionary fiscal policy. However, they are tools for addressing  
+temporary stopgaps or modest, one-time shortfalls in capital expenditures. Within those strict 
+constraints, we present these as part of a toolkit for City and State policymakers.
+1. State Reserves: Available for Short-term, One-time Needs
+New York State has made unprecedented investments in its reserves in recent years and currently 
+holds $14.6 billion in its three principal reserve funds. (See Glossary.)  This is not sufficient to 
+permanently fill the OBBBA-related federal funding gap. However, given actions by the Trump 
+administration and Congress in 2025, the State should seriously consider using its reserves to 
+address the gaps in SFY 2027 and SFY 2028 while policymakers work to develop sustainable policies 
+for a new fiscal reality shaped by OBBBA. The State should also consider drawing on these reserves 
+in the next fiscal year for short-term, one-time needs that have economy-wide benefits, as it did last 
+year with the unemployment insurance (UI) system.
+In FY 2025 the State’s principal reserves amounted to $21.6 billion or 20 percent of the General 
+Fund, much higher than State Comptroller Thomas DiNapoli’s recommended target of 10 percent 
+of the General Fund (see Figure 8).54 The current $14.6 billion is equivalent to 11.5 percent of the 
+State’s projected General Fund in FY 2026. (See Glossary.) 
+While this may seem too close to DiNapoli’s 10 percent target, the State has weathered significant 
+shocks – from the Great Recession to the Covid pandemic – with reserves as low as two percent. 
+New York should, then, seriously consider using these funds for short-term, one-time investments 
+that can counteract some of the negative impact of federal actions on State and City programs 
+and services. Not using these funds, on the other hand, increases the risk of prolonged economic 
+stagnation and economic hardship for historically marginalized and vulnerable groups. 
+54. Office of the New York State Comptroller, The Case for Building New York State’s Rainy Day Reserves, 2019.
+New York City’s 2026 Economic & Budget Outlook
+32
+Figure 8
+It’s worth noting how New York State has used its reserves in recent years. Unlike other large states 
+like California and Texas, New York did not use reserves to mitigate the Covid pandemic. But in FY 
+2026, the State approved using $7 billion from the reserves to pay down the State’s UI trust fund 
+Covid-related debt to the Federal treasury. 
+This use of the reserves will increase the maximum weekly UI benefit from $504 to $800 and, as a 
+result, improve UI as a countercyclical policy tool. (See Glossary.) The UI system is financed through 
+employer contributions, and its structure disproportionately impacts small businesses compared to 
+large firms with high-wage employees.55 The $7 billion in reserves spent to eliminate the trust fund 
+debt essentially bailed out large firms using taxpayers’ money without any restructuring of the UI 
+system to prevent future insolvency or make the system more equitable for employers. 
+This bailout for businesses was made possible, because of the large level of reserves held in the 
+Economic Uncertainties reserve fund, that can technically be tapped for any purpose. Starting in FY 
+2026, Governor Hochul has made it a priority to move funds out of this reserve and into the Rainy 
+Day Reserves Fund (RDRF). RDRF disbursements can currently only be approved by a super-majority 
+of the State Legislature and used only under certain conditions, including revenue shortfalls, five 
+55. James Parrott, Albany Bails Out Our Unemployment Insurance Boat. Guess What? It Still Leaks., Center for New York 
+City Affairs, May 14, 2025.
+New York City’s 2026 Economic & Budget Outlook
+33
+months of economic decline, natural disasters, or terrorist attacks.56 
+Regardless of which fund these reserves reside in, however, the State should evaluate its 
+countercyclical policy tools, so that it is prepared to utilize these reserves in the event of an 
+economic downturn in ways that generate inclusive economic growth.  
+2. City Debt: A Source of Limited Capital Funding 
+More than in most jurisdictions, New York City’s ability to issue debt is bound by statute, the New 
+York State Constitution, and the City Charter. This is part of the legacy of the 1970s fiscal crisis. 
+By share, the largest amount of annual debt issuance and debt outstanding is long-term debt which 
+must be used for capital projects including physical construction and infrastructure (streets, bridges, 
+parks, buildings), the acquisition of real property on which infrastructure is built, and machinery or 
+other furnishings.57 The most common forms of New York’s long-term debt are General Obligation 
+(GO) bonds and Future Tax Secured (FTS) bonds. GO bonds are backed by the City’s property tax 
+revenues. FTS bonds are backed by personal income tax and sales tax revenue.58   
+The other type of municipal debt is short-term, which in the case of New York must be retired by the 
+end of the same fiscal year it was issued in. The City has regularly used this type of debt-financing 
+to issue tax anticipation notes to manage cash flow, such as the gap in revenue between scheduled 
+tax payments. (See Glossary.) It has also been used for short-term, one-time expenses for which 
+immediate liquidity is needed.
+The maximum City GO debt outstanding is capped in the State Constitution at 10 percent of the 
+average full value of taxable real estate for the most recent five years. As of June 30, 2025, this value 
+was estimated by the City Comptroller to be $140.6 billion. All told, when subtracting allocations 
+towards paying down bond principal and other issued debt, total City indebtedness stood at $110.7 
+billion, leaving $29.9 billion in unused debt capacity. However, based on the City Comptroller’s 
+estimates, the total debt incurring power will grow slower than outstanding debt, so that the amount 
+available on June 30, 2026 will be $23.9 billion, and $13.8 billion by June 30, 2029. 
+Statutory constraints also limit the outstanding amounts of FTS debt outstanding at a given time. 
+Currently, there can only be $30.5 billion in FTS bonds outstanding, although this limit has been 
+raised by the State Legislature in recent years. (The City has the option to exceed this $30.5 billion 
+limit without State approval, but doing so adds to the City’s existing debt burden.)
+In addition to GO and FTS issuance, the mayor and comptroller oversee and approve debt issued 
+by a myriad of public authorities and State-chartered public benefit corporations, including but not 
+limited to the Municipal Water Finance Authority, New York City Health + Hospitals, the New York 
+City Housing Development Corporation, and the Hudson Yards Infrastructure Corporation. These 
+bonds are backed by non-tax revenues, such as water rates paid by New York City residents. In 
+56. New York State Finance Law § 92-CC, 2023.
+57. New York City Charter, § 2010(1), § 2017(c)
+58. New York City Charter, § 2010(1), § 2017(c)
+New York City’s 2026 Economic & Budget Outlook
+34
+recent history debt has been issued by these public authorities to finance a range of projects from 
+affordable housing and climate resiliency infrastructure to sports facilities.
+New York City has used debt financing for some of its most impressive infrastructure projects, so 
+this is a tool that the incoming mayoral administration should learn to use strategically, drawing on 
+lessons from the City’s history.
+New York City’s 2026 Economic & Budget Outlook
+35
+5. RECOMMENDATIONS
+The pandemic, geopolitical conflicts, climate change, and Trump’s policy agenda have upended 
+trade, welfare, and administrative state standards and institutions. Together, these have laid bare the 
+extraordinary stressors and precarity underpinning our entire society, especially affecting the most 
+vulnerable among us.
+Incoming Mayor Mamdani’s campaign slogan “afford to live and afford to dream” reflects his bold 
+policy agenda to confront that precarity. Much of his agenda includes more public provisioning 
+of basic necessities to offset costs on individual households. That will require significant public 
+investment at a time when federal actions have multiple downstream effects on the State and City 
+budgets that threaten the existing public infrastructure and institutions that all New Yorkers rely on 
+and that will disproportionately impact low-income and immigrant households. 
+Our research demonstrates that, given current economic conditions, New York City should expect 
+another year of rising inequality and poverty. This will put even more strain on State and City 
+budgets, because of the need to serve more people through existing programs or to offset federal 
+cuts. 
+Bold State and City policy interventions are needed to address poverty, inequality, and affordability. 
+They require new government revenue sources and multi-year plans.
+This section includes two types of recommendations. First, we recommend ways the City and State 
+can address critical funding needs this year and beyond. Second, we recommend policy tools to 
+facilitate inclusive economic growth that directly mitigates rising poverty and inequality. 
+A. How policymakers can address funding needs in FY 2027 and beyond.
+1. Take steps to retain every federal dollar immediately.
+• The State should decouple OBBBA business tax changes from New York tax law. Business 
+tax changes passed in OBBBA could wind up costing the City and State significant tax revenue. 
+We estimate that in 2026, when these changes go into effect, State and City tax revenue could 
+be reduced by $2.9 billion and $520 million, respectively.59 New York policymakers have the 
+option to “decouple” New York’s taxable income definition from OBBBA’s new federal definition 
+and thereby avoid this revenue loss. The City and State have done so in the past, most recently 
+after the Tax Cuts and Jobs Act (TCJA) was passed in 2017, and should do so again immediately.
+• The State and City should invest in agency staffing; outreach; and innovation in 
+applications, programs and systems (like ACCESS HRA) to minimize the likelihood 
+that people will lose SNAP and Medicaid due to new work eligibility and reporting 
+requirements. Some 956,000 New York City residents are at risk of losing Medicaid and SNAP 
+59. Due to limited available data, these are rough estimates of business income tax effects.
+New York City’s 2026 Economic & Budget Outlook
+36
+in the next two years due to new reporting and work requirements implemented in OBBBA. This 
+has implications for their economic security; it also creates a need for additional local revenue to 
+support these individuals if they no longer qualify for Medicaid and SNAP, which are largely paid 
+for with federal funding. The City and State must make an upfront investment this year to meet 
+the new administrative burdens embedded in OBBBA. This includes: establishing a massive work 
+program (drawing on lessons from the impact of the 1996 welfare reform law); well-designed 
+and communicated, simple applications and technology tools for impacted individuals; and 
+staffing up agencies and community-based organizations to help people navigate these changes. 
+Mamdani’s extensive election canvassing teams could be used to help communicate with the 
+public, minimizing the harm to individuals and the budget challenges that will result. 
+2. The State should use reserve funds in FY 2027 for short-term, one-time 
+investments that can counteract the negative impact of federal actions on 
+State and City programs and services. 
+While the State reserves cannot address all funding gaps or new program ideas, they are a critical 
+resource to address acute challenges this year while policymakers identify other revenue raisers 
+to address the growing budget shortfall in outyears.
+3. The State and City should pass progressive City tax reforms in FY 2027 to 
+address long-term needs for additional City revenue. 
+Given increased inequality, exacerbated by OBBBA, priority should be given to revenue raisers 
+that facilitate wealth redistribution. Some options include:
+• The State should add one or more brackets with higher rates to the City’s personal income 
+tax. The City’s income tax is currently not very progressive, with the top bracket beginning at 
+$90,000 for a married couple.60 Restructuring the brackets and rates would increase progressivity 
+by capturing some of the significant real wage growth for high-income earners in recent years. 
+To generate roughly $1 billion in new revenue annually, the city could add two new high-income 
+tax brackets ($1 million to $5 million, and $5 million and up), with rates of 4.2 percent and 4.4 
+percent, respectively.
+• The City should rescind the Madison Square Garden property tax exemption. Ending this 
+property tax exemption would increase City revenue annually. In Fiscal Year 2025, the City has 
+forgone $45.1 million in revenue from this one exemption.61
+• The City should negotiate a payment in lieu of tax (PILOT) from private universities and 
+hospitals that are currently exempt from property taxes under State law. Such institutions 
+benefit from City services that are funded in part through the property tax paid by others. If 
+all of the institutions with total property holdings of $500 million or more forge agreements in 
+line with our proposal, it could generate $483 million in PILOT payments for the City for one 
+year.62 Making this a stable and recurring revenue stream would require amending the State 
+Constitution.
+60. James Parrott, Dollars, Sense, and the 2025 Mayoral Election: Affordability, Tax Policy, and the Future of New York, 
+Center for New York City Affairs, October 2025.
+61. CNYCA analysis of New York City Department of Finance, Property Information Portal.
+62. George Sweeting, Considering Payments in Lieu of Taxes (PILOTs) from Tax-Exempt Hospitals and Universities, 
+Center for New York City Affairs, May 2024.
+New York City’s 2026 Economic & Budget Outlook
+37
+• The City should implement comprehensive property tax reform, such as those 
+recommended by the NYC Advisory Commission on Property Tax Reform.63 There are many 
+unequal tax burdens embedded in the City’s real property tax (RPT) which have been well known 
+and documented for decades. The City should capitalize on the incoming mayor’s energy to 
+enact comprehensive property tax reform. The Advisory Commission’s 2021 final report provides 
+an excellent starting point. However, some changes should be considered. For example, one 
+constraint that was imposed on the Commission was that the net effect of all the changes must 
+be revenue neutral. Relaxing that requirement would make it easier to assemble broad support 
+for a more comprehensive reform. The Commission examined the role of property taxes in 
+helping to drive up rents in large rental buildings (those with more than 10 units), but chose not 
+to recommend changes, even though such buildings face a much higher tax burden than single-
+family homeowners. RPT reform will also need to examine whether the shift to greater use of 
+work from home has permanently changed the value of office buildings in the city and what that 
+change might do to the Commission’s suggestions for the overall system.
+• The State and City should actively explore new revenue raising proposals together. Many 
+of incoming Mayor Mamdani’s campaign promises require significant public investment, well 
+beyond the City and State’s current revenue streams. As a result, the City and State will need to 
+work together to explore all options. They should prioritize progressive revenue raisers, given the 
+extreme and increasing inequality in New York. They will likely need to develop multi-year plans 
+that tie revenue opportunities to strategic phase-in plans for new universal programs.
+B. How policymakers can facilitate inclusive economic growth.
+1. The State and City should maintain services and programs, with a commitment 
+to residents facing extreme hardship. 
+• The City must preserve and maintain its existing universal core services and programs that 
+benefit all New Yorkers. Running the biggest, most complicated city in the nation is challenging 
+and an act of vision and resistance itself. The City’s existing core services – its public education, 
+transportation, hospitals, housing, and public spaces – are directly under attack by the federal 
+government. While these existing programs and services are in need of improvement to address 
+long-standing inequity, they are universal programs that residents rely on daily. The incoming 
+administration will need to prioritize preserving and strengthening them.     
+• The City should prioritize programming and administration of benefits programs. If 
+unaddressed, poverty can dampen citywide economic growth. OBBBA imposes new benefit 
+eligibility requirements and further restricts immigrants from accessing critical safety net 
+programs. Many lessons have been learned since the 1996 welfare law reforms, which imposed 
+work requirements on cash assistance recipients. The City must now administer new work 
+requirements for Medicaid and SNAP (as well as reinstate work requirements for cash assistance 
+recipients paused since the onset of the Covid-19 pandemic). That presents an the opportunity 
+to innovate in ways that can best support directly impacted households, such as creating a 
+municipal full employment program. It also must improve and streamline coordination with and 
+across workforce development programs and improve City agency staffing and systems that will 
+63. NYC Advisory Commission on Property Tax Reform, The Road to Reform: A Blueprint for Modernizing and 
+Simplifying New York City’s Property Tax System, December 29, 2021.
+New York City’s 2026 Economic & Budget Outlook
+38
+be strained by these changes. 
+• Safeguard immigrants: The Trump administration’s actions have stoked fear in immigrant 
+households. This has destabilizing impacts on them and the city’s economy. The City must uphold 
+its sanctuary city law and be a leader again in opposing federal actions that threaten immigrants’ 
+rights. The City must also bolster legal services and work with existing organizations in impacted 
+communities.
+2. Protect workers. 
+There are many harms workers face in the U.S. economy, such as workplace injury and wage 
+theft. Passing laws to increase protections against these harms will improve workers’ livelihoods 
+and quality of life and would not require significant public spending, aside from State and City 
+monitoring and enforcement. 
+3. Establish and enforce higher labor standards for workers in low-wage 
+occupations. 
+A simple way to increase the number of high-quality jobs in the city is to make existing low-wage 
+jobs better paid. Many low-wage jobs are in health care, social services, and child care. Because 
+Medicaid and public contracts pay for many of those services, the burden of paying better 
+wages and benefits will fall more on the State and City than on private employers. State and City 
+policymakers should work together to develop a plan to improve wages and identify sustained 
+and progressive revenue needed for those improvements. While such actions will require upfront 
+investments, they will generate stronger consumer spending locally, and facilitate economic 
+growth. Policymakers can also improve wage standards by phasing out the subminimum wage for 
+tipped restaurant workers and by further raising the state minimum wage.
+4. Prioritize neighborhood small business and job opportunities. 
+Neighborhood-level analysis of financial wellbeing suggests that local early-career jobs 
+strengthen households’ economic resilience.64 Supporting affordability measures for local 
+businesses, including displacement protections and business development opportunities also 
+build greater economic power in low-income neighborhoods.65 As the city prepares for long-term 
+climate change effects and economic uncertainties, local business and job creation should also 
+be key objectives in infrastructure redesign plans and policies, recognizing that public sector 
+investments can support equitable long-term economic development and resilience. In addition 
+to transit and renewables, investing in neighborhood stewardship infrastructures and activation 
+of green spaces like parks, urban agriculture, and community composting can generate local 
+and early-career jobs and business opportunities, building up social capital while simultaneously 
+lessening the impacts of summer heat waves and downpour floods.66
+64. New York City Department of Consumer and Worker Protection, How Neighborhoods Help New Yorkers Get Ahead, 
+December 2017.
+65. Gina Lee, A Small Business Affordability Agenda for NYC, Policy Brief, Association for Neighborhood & Housing 
+Development, November 24, 2025.
+66.  Audrey Jenkins, Compost Regenerates NYC’s Economy: Growing Green Jobs for Young People, Center for New York 
+City Affairs, February 26, 2025.
+New York City’s 2026 Economic & Budget Outlook
+39
+5. New York State should direct fiscal stimulus to public works that can create 
+high-quality jobs. 
+In spite of substantive federal cuts to New York’s transit infrastructure, renewable energy 
+generation, and affordable housing, the State and City government should strive to find areas 
+of public investment carrying downstream effects of much-needed job creation. For example, 
+statutory reforms to New York City’s zoning code – in the spirit of expanding new housing 
+construction under the City of Yes initiative – can help spur private sector housing development, 
+and a plethora of skilled trades and construction jobs with it. Despite an uncooperative federal 
+government, policymakers should strive to identify analogous avenues of meaningful investment 
+and reform.
+New York City’s 2026 Economic & Budget Outlook
+40
+Many terms and concepts in this report may not be familiar to everyone. This glossary aims to 
+increase the accessibility of our findings and recommendations.
+Economics Terms
+Employment Rate: Percentage of the total working age non-institutionalized population (16 and 
+older) who are currently employed, either part-time, full-time or on a temporary basis at a private 
+or public institution or as a business owner or independent contractor. The non-institutionalized 
+population excludes people who are incarcerated or on active military duty.
+Gini Coefficient: An index for inequality. It quantifies how income is distributed across a population. 
+It ranges from 0 (perfect equality) to 1 (maximum inequality). Named after Corrado Gini.
+Income Decile: a population divided into 10 equal groups based on income, from the lowest 
+earners (decile 1) to the highest (decile 10). 
+Income Quintile: a population divided into five equal groups based on income, from the lowest 
+earners (quintile 1) to the highest (quintile 5). 
+Labor force participation rate (LFPR): Percent of the total working age non-institutionalized 
+population (16 and older), who are either employed or unemployed. The non-institutionalized 
+population excludes people who are incarcerated or on active military duty.
+Non-farm jobs: Payroll “on the books” jobs (part-time, full-time or temporary) at a private business, 
+non-profit organization or government institution.
+Recession: According to the National Bureau of Economic Research (NBER), it is a significant decline 
+in economic activity that lasts for more than a few months and affects every facet of life: spending, 
+production, jobs, and income.
+Unemployment rate: Percentage of the labor force who were actively looking for work over the past 
+four weeks but unable to find any work. This category excludes people who do not have jobs and 
+were not looking for work over the past four weeks. 
+Fiscal Policy and Tax Terms
+Capital Projects: Building or improving physical assets (e.g. buildings, transit etc.)
+Documented non-citizens: Legally present non-U.S. citizens, including lawful permanent residents, 
+individuals with valid work authorization, refugees and asylees, and Temporary Protected Status 
+6. GLOSSARY
+
+New York City’s 2026 Economic & Budget Outlook
+41
+(TPS) holders, many of whom are subject to a five-year waiting period for Medicaid eligibility. Under 
+OBBBA, the elimination of federal funding for New York’s Essential Plan and the rollback of ACA 
+subsidies place these individuals at heightened risk of losing affordable health coverage. They are 
+not eligible for Medicaid due to federal immigration restrictions.
+Countercyclical Policy: Economic policies that are designed to counteract business cycle dynamics 
+in the economy. These policies aim to stabilize the economy by stimulating economic activity 
+during recessions and slowing it down during periods of high inflation or economic expansion.
+Debt financing: Borrowing money to finance projects (e.g., through sale of bonds).
+Fiscal Years: A 12-month accounting period used by government to track and balance a budget. 
+The City, State, and federal fiscal years are all on different schedules. These include:
+• City Fiscal Year (CFY): The New York City fiscal year runs July 1st to June 30th
+• Federal Fiscal Year (FFY): The U.S. government’s fiscal year runs October 1st to September 30th
+• State Fiscal Year (SFY): The New York State fiscal year runs April 1st to March 31st
+Future Tax Secured Bonds (FTS): Bond payments secured by the City’s personal income and sales 
+tax revenues. 
+General Obligation Bonds (GO): Bond payments secured by the credit and taxing authority of the 
+City.
+Joint Committee on Taxation (JCT): A U.S. congressional committee focused on tax policy. Joint 
+Tax staff are independent economic, accounting, and legal professionals who provide nonpartisan 
+advising on tax legislation.
+Personal Income Tax (PIT): Federal, state, city tax on individual income.
+Reserves: Funds containing surplus state revenue for future expenditures.
+State and Local Taxes (SALT): A deduction individuals can make on their federal income tax for 
+state and local tax obligations.
+State General Fund: Primary fund of the state that receives unallocated tax revenue.
+Policy and Public Program Terms
+Cash Assistance: A program administered by the New York City Human Resources Administration. 
+In New York State, there are two main programs of this kind: Temporary Assistance to Needy 
+Families (TANF), largely paid by federal funds; and the Safety Net Assistance (SNA) program, a 
+benefit fully paid by State and City revenue. SNA eligibility is broader than TANF eligibility, in which 
+income-eligible families may receive up to 60 months of cash assistance. SNA can be accessed by 
+households who are still in need after they’ve reached the five-year time limit on TANF, as well as 
+individuals without dependent children or non-citizens. 
+New York City’s 2026 Economic & Budget Outlook
+42
+Child Tax Credit (CTC): A tax credit for families with qualifying children. 
+Federal Poverty Level (FPL): Income threshold defined by the federal government to determine 
+eligibility for various programs. The FPL is a national value that is not adjusted to account for local 
+costs of living. Figure 9 presents the annual income at various iterations of the federal poverty line. 
+Table 5 lists the FPL threshold for some of the most important social safety net programs in New York 
+City. 
+Figure 9
+Table 5
+
+New York City’s 2026 Economic & Budget Outlook
+43
+Long-term Care (LTC): A type of Medicaid-covered service supporting individuals who need 
+ongoing assistance with daily activities due to age, disability, or any chronic illness. Under OBBBA, 
+there will be tighter eligibility rules for LTC.  
+One Big Beautiful Bill Act (OBBBA): Federal bill passed in July 2025 which includes a variety of 
+changes, including: eligibility requirements for Medicaid and SNAP; changes in federal personal 
+and business income tax rules; and the elimination of federal tax credits for renewable energy (solar 
+panels, electric vehicles).
+Supplemental Nutrition Assistance Program (SNAP): Federal food access program, in which 
+currently 100% of the benefits are funded by the U.S. Department of Agriculture (USDA). City 
+agencies and community-based organizations administer the program.
+Tax Cut and Jobs Act (TCJA): A federal act passed in 2017 through the reconciliation process that 
+implemented federal tax cuts for individuals and businesses. 

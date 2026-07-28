@@ -1,0 +1,63 @@
+{
+  "id": "2025-07-07-citizensunion-opening-closed-primary-system",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Fact Sheet: Opening New York City’s Closed Primary System",
+  "plain_title": "The case for opening city primaries to independent voters",
+  "agency": "New York City government",
+  "issued": "2025-07-07",
+  "url": "https://citizensunion.org/document/2025-07-07/fact-sheet-opening-new-york-citys-closed-primary-system/",
+  "pdf": "https://citizensunion.org/wp-content/uploads/2025/07/Fact-Sheet-Opening-New-York-Citys-Closed-Primary-System.pdf",
+  "what_they_audited": "A one-page fact sheet from Citizens Union laying out the organization's case for opening New York City's primary elections to voters who are not registered with a political party.",
+  "background": "Under current rules, only voters registered with a political party can vote in New York City's primary elections.",
+  "findings": [
+    {
+      "plain": "More than a million New Yorkers who are not registered with a party cannot vote in city primaries, and the fact sheet describes them as the fastest-growing part of the electorate.",
+      "quote": "Over 1 million “independents” are excluded from voting in the NYC primary"
+    },
+    {
+      "plain": "Voters without a party affiliation in the city skew young, and most are voters of color.",
+      "quote": "Nearly half of unaffiliated voters in NYC are under 40."
+    },
+    {
+      "plain": "The fact sheet says these voters want to take part, and that being shut out of primaries makes them less likely to vote later in the year.",
+      "quote": "When excluded from primaries, they’re less likely to vote in general elections."
+    },
+    {
+      "plain": "Because turnout in party primaries is low, the fact sheet says a small slice of the electorate effectively picks the mayor.",
+      "quote": "In low turnout primaries, mayors are effectively chosen by fewer than 10% of electorate."
+    },
+    {
+      "plain": "Citizens Union says New York City is unusual among American cities in keeping a closed primary, and points to open or nonpartisan primaries in Los Angeles, Boston and Chicago.",
+      "quote": "New York City is an outlier – nearly all U.S. cities use a version of open primaries."
+    },
+    {
+      "plain": "The fact sheet cites a review by former U.S. Attorney General Loretta Lynch concluding that open primaries would not reduce any protected class's ability to take part in the political process.",
+      "quote": "there is no basis for finding that [open primaries] would in any way diminish the ability of any protected class to participate in the political process."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Over 1 million",
+      "label": "Unaffiliated voters shut out of city primaries"
+    },
+    {
+      "value": "fewer than 10%",
+      "label": "Share of electorate effectively choosing mayors"
+    },
+    {
+      "value": "more than a third",
+      "label": "Unaffiliated city voters who are Black and Hispanic"
+    }
+  ],
+  "recommendations": [
+    "Open New York City's primary elections to voters who are not registered with a political party, with candidates still appearing under their party affiliation and still able to seek support from party organizations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency"
+  ],
+  "is_followup": false
+}

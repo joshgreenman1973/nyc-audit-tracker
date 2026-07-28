@@ -1,0 +1,76 @@
+{
+ "id": "2025-12-15-citizensunion-super-pacs-general-election",
+ "source": "outside",
+ "auditor": "Citizens Union",
+ "title": "Super PACs Flooded NYC’s 2025 General Election With Record Cash Yet Still Failed to Buy the Outcome",
+ "plain_title": "Record outside spending in the 2025 city general election",
+ "agency": "New York City Campaign Finance Board",
+ "issued": "2025-12-15",
+ "url": "https://citizensunion.org/document/2025-12-15/super-pacs-flooded-nycs-2025-general-election-with-record-cash-yet-still-failed-to-buy-the-outcome/",
+ "pdf": "https://citizensunion.org/wp-content/uploads/2025/12/CU-Report-Super-PACs-in-the-2025-New-York-City-General-Election-Seven-Takeaways.pdf",
+ "what_they_audited": "A report from Citizens Union, a good-government group, analyzing independent expenditure spending in the 2025 New York City general election, drawn from disclosures to the New York City Campaign Finance Board and the New York State Board of Elections.",
+ "background": "Independent spending groups, called Independent Expenditure Entities in New York, may not coordinate with candidate campaigns. The report covers June 25, 2025, the day after the primary, through December 1, 2025, and follows a companion report on the primary.",
+ "findings": [
+  {
+   "plain": "Outside spending across the 2025 cycle set a record for New York City, roughly double the 2021 total.",
+   "quote": "These groups spent a total of $82.95 million to influence races up and down the ballot"
+  },
+  {
+   "plain": "Nearly all general election outside spending went to the mayor's race, and the number of active groups doubled compared with the primary.",
+   "quote": "general election, 98% of it on the mayoral race."
+  },
+  {
+   "plain": "Most of the outside money in the mayoral race supported one candidate, which the report calls the largest sum ever spent by such groups to support a single candidate in the city.",
+   "quote": "$28.4 million, or 83% of all outside spending in the race."
+  },
+  {
+   "plain": "The winning candidate had by far the most individual contributors and the smallest average donation, and reached the matching funds program's private fundraising cap two months before Election Day.",
+   "quote": "Zohran Mamdani had more contributors than any other candidate"
+  },
+  {
+   "plain": "A large share of outside spending went to negative advertising, nearly all of it from groups aligned with one candidate.",
+   "quote": "Super PACs spent at least $17.1 million on"
+  },
+  {
+   "plain": "Outside spending in City Council races dropped sharply from the primary, and no negative ads were run by these groups in Council contests.",
+   "quote": "In total, Super PACs spent $863,000 on Council races in the 2025 general election."
+  },
+  {
+   "plain": "Donors routed money through intermediary committees so that the required top-three-donor disclaimers on ads did not identify the original funders.",
+   "quote": "But in the general election, big-money donors used a loophole to obscure their"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$82.95 million",
+   "label": "Outside spending across the full 2025 city election cycle"
+  },
+  {
+   "value": "$35.3 million",
+   "label": "Outside spending in the 2025 general election"
+  },
+  {
+   "value": "$28.4 million",
+   "label": "Outside spending supporting one mayoral candidate"
+  },
+  {
+   "value": "$17.1 million",
+   "label": "Outside spending on attack ads in the general election"
+  },
+  {
+   "value": "$863,000",
+   "label": "Outside spending in City Council general election races"
+  }
+ ],
+ "recommendations": [
+  "Close the loophole that lets donors give through intermediary committees so their names do not appear in the top-donor disclaimers on independent expenditure ads, through action by the New York City Campaign Finance Board and the City Council in the next term.",
+  "Strengthen the public campaign finance systems that reward grassroots participation before the next wave of outside spending arrives."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "compliance_note": "",
+ "topics": [
+  "transparency"
+ ],
+ "is_followup": false
+}

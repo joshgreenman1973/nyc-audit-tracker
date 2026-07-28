@@ -1,0 +1,93 @@
+{
+  "id": "2026-03-01-cuf-from-degree-to-career",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "From Degree to Career",
+  "plain_title": "Turning CUNY degrees into careers through employer ties",
+  "agency": "New York City government",
+  "issued": "2026-03-01",
+  "url": "https://nycfuture.org/research/from-degree-to-career",
+  "pdf": "https://nycfuture.org/pdf/CUF_CUNY-Partnership_Report_4_%283%29.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, on why graduates of the City University of New York struggle to reach well-paying jobs, and what the city, the state and the university could do to build stronger employer partnerships. It ends with 14 proposals.",
+  "background": "The report draws on more than 80 interviews with CUNY leaders, faculty, career advisors, employers and nonprofit intermediaries, along with data from the CUNY Wage Dashboard, the New York State Department of Labor and the U.S. Census Bureau.",
+  "findings": [
+    {
+      "plain": "The entry-level job market has contracted sharply. Postings requiring little or no prior experience fell 37.4 percent between 2022 and 2024, from 72,484 to 45,354, and internship postings across the five boroughs fell 37.1 percent from 2019 to 2024.",
+      "quote": "entry-level job postings plummeted from 72,484 (2022) to 45,354 (2024), a 37.4 percent drop"
+    },
+    {
+      "plain": "Few CUNY students get the paid work experience employers look for. Just 12 percent of undergraduates do a paid internship, compared with a national average of nearly 57 percent.",
+      "quote": "Just 12 percent of CUNY undergraduates participate in paid internships—up from 10 percent two years ago, but still far below the national average of nearly 57 percent."
+    },
+    {
+      "plain": "Outcomes after graduation are uneven. About two thirds of graduates find consistent employment within a year, and one in ten alumni are in retail or food service five years out, rising to 13 percent for community college graduates.",
+      "quote": "just two thirds of CUNY graduates find consistent employment within a year of finishing their degree"
+    },
+    {
+      "plain": "The Inclusive Economy Initiative, which embeds industry specialists and hybrid academic-career advisors in academic departments, reaches only around 40 of CUNY's 450 departments, fewer than 9 percent.",
+      "quote": "exist in only around 40 of 450 departments across CUNY, or fewer than 9 percent"
+    },
+    {
+      "plain": "Career services are stretched thin and often separated from academic departments, with ratios of 1,100 students to one staff member described as common.",
+      "quote": "Career services are overwhelmed—with ratios of 1,100 students to one staff member common—and frequently siloed from academics."
+    },
+    {
+      "plain": "Employers describe CUNY as hard to work with, and the university lacks a systemwide customer relationship management platform to coordinate employer contacts across its 25 colleges.",
+      "quote": "CUNY still lacks one of the most fundamental tools for managing employer relationships"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "37.4 percent",
+      "label": "Drop in city entry-level job postings, 2022 to 2024"
+    },
+    {
+      "value": "37.1 percent",
+      "label": "Drop in internship postings, 2019 to 2024"
+    },
+    {
+      "value": "12 percent",
+      "label": "CUNY undergraduates who do a paid internship"
+    },
+    {
+      "value": "57 percent",
+      "label": "National average for paid internship participation"
+    },
+    {
+      "value": "450",
+      "label": "Academic departments across CUNY"
+    },
+    {
+      "value": "9,500",
+      "label": "CUNY graduates hired by NY Jobs CEO Council firms since 2021"
+    },
+    {
+      "value": "$25 million",
+      "label": "Proposed size of a Pay It Forward internship fund"
+    }
+  ],
+  "recommendations": [
+    "Make a major public commitment to career success at the City University of New York, folding the CUNY Beyond initiative into the mayor's first budget, expanding the Inclusive Economy Initiative to half of all CUNY departments, renewing and expanding CUNY 2X Tech, growing the Practitioners-in-Residence Corps into new sectors and setting a goal that at least 30 percent of CUNY students finish a paid internship before graduation.",
+    "Recruit 100 more large and mid-sized firms into structured career development partnerships with CUNY, with measurable goals for hiring, curriculum alignment and paid internships, supported by training grants, technical assistance and public recognition.",
+    "Scale up a systemwide customer relationship management platform so staff across the 25 campuses can share employer contacts, track outcomes and coordinate outreach.",
+    "Launch a $25 million Pay It Forward revolving internship fund, seeded by city, state, employer and philanthropic dollars, that subsidizes internships upfront and is repaid by employers who later hire their interns full time.",
+    "Embed career exploration earlier and for credit, by building it into first-year experiences and College Now courses, creating a universal for-credit career exploration course and adding career modules to orientation.",
+    "Make it far easier for employers to work with CUNY, with a single streamlined entry point, a redesigned Hire CUNY portal and a marketing campaign aimed at industry.",
+    "Expand department-embedded industry specialists and hybrid academic-career advisors beyond the current handful of departments, by training current advisors, hiring new specialists and building campus systems to track milestones.",
+    "Scale up the Career Success Faculty Fellowship and the Practitioners-in-Residence Corps with dedicated funding and broader sector coverage, aiming to recruit 500 practitioners into classrooms.",
+    "Launch a paid, six-month NYC AI Service Corps that pairs recent technology graduates with small businesses, nonprofits and city agencies on practical data and artificial intelligence projects.",
+    "Renew and expand the CUNY 2X Tech initiative to more campuses, paired with the AI Service Corps and an expansion of CUNY Tech Prep.",
+    "Create Small Business Corps that pair CUNY students with local firms needing help with technology, accounting, compliance and marketing.",
+    "Expand municipal hiring opportunities for CUNY students, with public agencies hosting far more interns, streamlining approvals and adopting an internship-to-employment model.",
+    "Draw more employers to campus by launching a citywide CUNY Career Week each semester, with the city marshaling private sector participation alongside industry associations and chambers of commerce.",
+    "Formalize partnerships with nonprofit intermediaries such as Coop Careers, Project Basta, Break Through Tech, iMentor and Per Scholas, with agreements that set enrollment targets and replicate successful models across campuses."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "labor"
+  ],
+  "is_followup": false
+}

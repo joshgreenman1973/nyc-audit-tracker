@@ -1,0 +1,84 @@
+{
+  "id": "2026-01-05-cnycaffairs-2026-economic-budget-outlook",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs",
+  "title": "New York City’s 2026 Economic & Budget Outlook: Making Affordability a Reality Amidst Inequality and Fiscal Constraints",
+  "plain_title": "The city's economic and budget outlook for 2026",
+  "agency": "New York City government",
+  "issued": "2026-01-05",
+  "url": "http://www.centernyc.org/reports-briefs/new-york-citys-2026-economic-budget-outlook-making-affordability-a-reality-amidst-inequality-and-fiscal-constraints",
+  "pdf": "https://www.centernyc.org/s/Outlook-report-jan4.pdf",
+  "what_they_audited": "An annual outlook from the Center for New York City Affairs at The New School examining the city's economy, poverty and inequality, and the city and state budget picture heading into 2026, with recommendations for city and state policymakers.",
+  "background": "The report says New York City is already the most economically unequal city in the country, and that federal actions in 2025, including the One Big Beautiful Bill Act (OBBBA), have added new strains to city and state budgets.",
+  "findings": [
+    {
+      "plain": "Job growth in the city slowed in 2025 compared with the year before, though it still ran ahead of the nation and many other large metro areas.",
+      "quote": "the city’s economy grew 0.7 percent from January to"
+    },
+    {
+      "plain": "The New York metro area has the widest gap in the country between Black and white unemployment among people in their prime working years.",
+      "quote": "The NYC-NJ MSA has the largest Black-white prime age (25-54) unemployment rate gap in the"
+    },
+    {
+      "plain": "Millions of city residents live close to the poverty line and are exposed to the federal law's changes to health coverage and food assistance.",
+      "quote": "2.9 million New York City residents who live below 200 percent of the Federal Poverty"
+    },
+    {
+      "plain": "New Medicaid work requirements taking effect in 2027 put hundreds of thousands of city recipients at risk of losing coverage.",
+      "quote": "In 2027, work requirements will go into effect for an estimated 725,702 New York City Medicaid"
+    },
+    {
+      "plain": "Inflation-adjusted median household income in the city fell between 2019 and 2024, moving in the opposite direction from the nation.",
+      "quote": "4.9 percent decline in real median household income in New"
+    },
+    {
+      "plain": "Federal business tax changes would cut state and city tax revenue unless New York separates its tax code from the new federal definitions.",
+      "quote": "and $520 million in City revenue if the State does not move to decouple"
+    },
+    {
+      "plain": "The city's budget is barely balanced now and projects growing shortfalls in the years ahead.",
+      "quote": "The City currently forecasts a budget gap of $4.7 billion for CFY 2027"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$2.9 billion",
+      "label": "State revenue at stake from federal business tax changes"
+    },
+    {
+      "value": "$520 million",
+      "label": "City revenue at stake from federal business tax changes"
+    },
+    {
+      "value": "$4.7 billion",
+      "label": "City budget gap forecast for city fiscal year 2027"
+    },
+    {
+      "value": "2.9 million",
+      "label": "City residents below 200 percent of the poverty line"
+    },
+    {
+      "value": "725,702",
+      "label": "City Medicaid recipients facing work rules in 2027"
+    }
+  ],
+  "recommendations": [
+    "Act now to retain every federal dollar, by decoupling New York tax law from the business tax changes in the One Big Beautiful Bill Act and by investing in agency staffing, outreach and application systems so fewer people lose the Supplemental Nutrition Assistance Program (SNAP) benefits or Medicaid under new work and reporting rules.",
+    "Use state reserve funds in state fiscal year 2027 for short-term, one-time investments that counteract the effect of federal actions on state and city programs.",
+    "Pass progressive city tax changes for fiscal year 2027, including adding higher personal income tax brackets, ending the Madison Square Garden property tax exemption, negotiating payments in lieu of taxes from large tax-exempt universities and hospitals, and pursuing comprehensive property tax reform.",
+    "Maintain existing core services and benefits programs, prioritize the administration of benefits as new federal requirements take effect, and uphold the city's sanctuary law while bolstering immigration legal services.",
+    "Pass laws that strengthen protections for workers against harms such as workplace injury and wage theft.",
+    "Establish and enforce higher labor standards in low-wage occupations, including phasing out the subminimum wage for tipped restaurant workers and further raising the state minimum wage.",
+    "Prioritize neighborhood small businesses and local job creation, including in infrastructure and climate resilience planning.",
+    "Direct state fiscal stimulus toward public works that create high-quality jobs, including zoning changes that spur private housing construction."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "social services",
+    "labor"
+  ],
+  "is_followup": false
+}

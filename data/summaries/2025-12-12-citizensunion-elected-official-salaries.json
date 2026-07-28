@@ -1,0 +1,67 @@
+{
+  "id": "2025-12-12-citizensunion-elected-official-salaries",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Explainer: How to Increase Elected Officials’ Salaries in New York City",
+  "plain_title": "How the city sets pay for its elected officials",
+  "agency": "New York City Council",
+  "issued": "2025-12-12",
+  "url": "https://citizensunion.org/document/2025-12-12/explainer-how-to-increase-elected-officials-salaries-in-new-york-city/",
+  "pdf": "",
+  "what_they_audited": "An explainer from Citizens Union, a good-government group, on how salaries for New York City elected officials are normally set, written as the City Council moved a bill to raise those salaries by 16 percent.",
+  "background": "Under a 1986 law, the mayor must create a Quadrennial Advisory Commission for the Review of Compensation Levels of Elected Officials every four years. The commission holds public hearings, consults experts and recommends salary levels, and the Council then sets pay by local law.",
+  "findings": [
+    {
+      "plain": "The Council is moving a bill that would raise elected officials' salaries by 16 percent, retroactive to January 1, 2026.",
+      "quote": "The New York City Council is advancing legislation to increase the salaries of elected officials by 16% in the final weeks of the Council term."
+    },
+    {
+      "plain": "Every raise in the past half century followed a review by an independent compensation commission.",
+      "quote": "Every increase in elected officials salaries over the past fifty years has been enacted after an independent commission of experts reviewed compensation levels and offered recommendations."
+    },
+    {
+      "plain": "Several mayors have skipped the required commission, and no commission has met since 2015.",
+      "quote": "Since no commission has been convened since 2015, salaries have remained unchanged for nearly a decade."
+    },
+    {
+      "plain": "There is no penalty when a mayor does not appoint the commission, short of a lawsuit.",
+      "quote": "There is no enforcement mechanism if the mayor refuses to implement this law, except for legal action through the courts."
+    },
+    {
+      "plain": "Citizens Union writes that the Council's bill comes with no published analysis behind the 16 percent figure.",
+      "quote": "It offers no supporting analysis for the proposed 16% pay increase."
+    },
+    {
+      "plain": "The Council may set its own pay except between general election day and December 31 in an election year, and the group says the current schedule of a December hearing and a January vote raises questions about that restriction.",
+      "quote": "The City Council has full discretion over setting salaries for elected officials, including for themselves,"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "16%",
+      "label": "Salary increase in the bill before the City Council"
+    },
+    {
+      "value": "$258,750",
+      "label": "Current annual salary of the mayor"
+    },
+    {
+      "value": "$148,500",
+      "label": "Current annual salary of a City Council member"
+    }
+  ],
+  "recommendations": [
+    "Amend Administrative Code 3-601(a) so the comptroller or the Council speaker may appoint the compensation commission if the mayor does not do so by January 15 of the required year.",
+    "Pass a law creating a one-time compensation commission for 2026 that begins work without delay, in place of an immediate retroactive raise.",
+    "Seek a court order compelling the mayor to comply with the law requiring a compensation commission.",
+    "Pass a bill requiring the incoming mayor to convene a one-time compensation commission by January 31, 2026."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

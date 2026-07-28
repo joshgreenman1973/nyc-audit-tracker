@@ -1,0 +1,86 @@
+{
+ "id": "2025-12-01-cuf-creative-new-york",
+ "source": "outside",
+ "auditor": "Center for an Urban Future",
+ "title": "Creative New York",
+ "plain_title": "The state of the city's arts and creative economy",
+ "agency": "New York City government",
+ "issued": "2025-12-01",
+ "url": "https://nycfuture.org/research/creative-new-york",
+ "pdf": "https://nycfuture.org/pdf/CUF_CreativeNY_Report_9.pdf",
+ "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, examining the size and health of the city's arts and creative economy and setting out ten proposals for city and state policymakers.",
+ "background": "The creative sector accounts for more than 7 percent of private sector employment in the five boroughs and spans ten core industries, from performing arts and film to advertising, design and architecture.",
+ "findings": [
+  {
+   "plain": "The creative sector remains one of the city's largest employers, with a workforce of more than 326,000 in 2024.",
+   "quote": "arts and creative industries employ more than 326,000 New Yorkers"
+  },
+  {
+   "plain": "The number of working artists has dropped since the pandemic began, with especially steep declines among dancers and actors.",
+   "quote": "the city has seen an 18.8 percent decline in dancers, an 8 percent"
+  },
+  {
+   "plain": "Film and television employment grew steeply before 2020 and has fallen since, a reversal seen in advertising, architecture and design as well.",
+   "quote": "film and TV jobs in New York City are down by 19.1 percent"
+  },
+  {
+   "plain": "The city is losing share of the national creative workforce.",
+   "quote": "creative economy has declined from 9.3 percent to 8.6 percent since 2019."
+  },
+  {
+   "plain": "Cultural venues have closed in significant numbers since 2020, with operators citing changed audience habits and rising insurance costs.",
+   "quote": "Nearly 50 theaters, music clubs, museums, and galleries have shuttered since 2020"
+  },
+  {
+   "plain": "Creative workers earn well below the national average once the cost of living is counted, and the gap has widened over a decade.",
+   "quote": "about 23 percent less than the national average after adjusting for the city’s high cost of living"
+  },
+  {
+   "plain": "The report also documents growth, including new venues and a sharp rise in cultural nonprofits outside Manhattan.",
+   "quote": "nonprofits have grown 73.8 percent in Queens"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "326,093",
+   "label": "Workers in the city's creative workforce in 2024"
+  },
+  {
+   "value": "6.1 percent",
+   "label": "Decline in creative economy employment since 2019"
+  },
+  {
+   "value": "19.1 percent",
+   "label": "Decline in film and TV jobs in the city since 2020"
+  },
+  {
+   "value": "Nearly 50",
+   "label": "Theaters, clubs, museums and galleries closed since 2020"
+  },
+  {
+   "value": "73.8 percent",
+   "label": "Growth in cultural nonprofits in Queens over a decade"
+  }
+ ],
+ "recommendations": [
+  "Tackle the affordability crisis with a large increase in housing production, building on the City of Yes zoning reforms with more as-of-right zoning near transit, an end to remaining parking minimums, faster permitting and review, broader legalization of accessory dwellings and stronger preservation tools.",
+  "Create 5,000 artist-preference housing units by 2030, with clear guidance from the Department of Housing Preservation and Development, a biennial artist survey, a citywide artist live/work standard, artist set-asides in office-to-residential conversions and an artist housing accelerator.",
+  "Launch the city's first five-borough cultural festival, coordinated by the city and using streets, plazas, parks and city-owned properties, with streamlined permitting for outdoor programming.",
+  "Launch a portable benefits pilot for freelancers and self-employed artists, administered by a nonprofit partner and funded proportionally by employers, platforms and public dollars.",
+  "Establish a city-facilitated pooled insurance program that lets cultural organizations and small venues buy coverage together at lower rates, with subsidies for the smallest organizations.",
+  "Create a Cultural Ownership Fund to help mission-driven groups keep or acquire space, expand shared back-office services and shared spaces, and reform the Temporary Place of Assembly permitting process.",
+  "Expand the Economic Development Corporation's creative industries work into a core pillar of its strategy, dedicate at least 1 percent of capital budgets to public art or creative placemaking, and expand shared production hubs and signature industry events.",
+  "Expand the Public Artists in Residence program tenfold and create full-time civic artist positions in agencies that have never hosted one, each with its own art initiative.",
+  "Create dedicated recurring revenue for the arts, such as a voluntary hotel stay surcharge feeding a parks and culture fund and pilot cultural districts, and make Cultural Development Fund payments timelier with a new tier of grantees for midsized organizations.",
+  "Launch a Creative Pathways and Talent Pipeline Initiative spanning public schools and CUNY, including a creative economy focus in FutureReadyNYC, sequential arts learning in every grade band, and paid internships and mentorship for CUNY students."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "compliance_note": "",
+ "topics": [
+  "small business",
+  "labor",
+  "housing"
+ ],
+ "is_followup": false
+}

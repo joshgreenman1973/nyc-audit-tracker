@@ -1,0 +1,84 @@
+{
+  "id": "2026-03-01-cuf-real-estate-value-for-parks",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Creating and Capturing Real Estate Value to Generate Dedicated Funding for NYC’s Parks",
+  "plain_title": "Five ways to fund parks by capturing real estate value",
+  "agency": "New York City government",
+  "issued": "2026-03-01",
+  "url": "https://nycfuture.org/research/real-estate-for-parks",
+  "pdf": "",
+  "what_they_audited": "A report from the Center for an Urban Future, a New York City think tank, proposing five ways to raise new dedicated revenue for the city's parks by capturing a share of the real estate value that parks and public investment help create.",
+  "background": "The report says the city faces a $2.2 billion shortfall in the current fiscal year and a $10.4 billion gap in fiscal 2027, and that the mayor's preliminary fiscal 2027 budget reduces funding for NYC Parks by roughly $33 million compared with last year's adopted budget.",
+  "findings": [
+    {
+      "plain": "Parks add measurably to property values. The report cites research finding homes within 500 feet of a park carry an estimated $15.2 billion in additional property value, generating roughly $101 million a year in extra property tax revenue.",
+      "quote": "homes located within 500 feet of a park enjoy an estimated $15.2 billion in additional property value, generating roughly $101 million in additional annual property tax revenue"
+    },
+    {
+      "plain": "The city already captures real estate value for public space, but only in scattered places. Development revenues cover most of the operating budget for Brooklyn Bridge Park, and business improvement districts steward space in commercial corridors.",
+      "quote": "these efforts remain one-off and geographically constrained, rather than part of a coordinated, citywide strategy"
+    },
+    {
+      "plain": "Other American cities dedicate more real estate and development revenue to parks, including roughly $120 million a year in Seattle and more than $80 million a year in Minneapolis.",
+      "quote": "generating roughly $120 million annually in Seattle and more than $80 million a year for Minneapolis’s park system"
+    },
+    {
+      "plain": "Residents report uneven park conditions. Forty-four percent of city residents rate their local parks fair or poor, rising to 63 percent in the Bronx.",
+      "quote": "44 percent rate the condition of their local parks as fair or poor, including 63 percent in the Bronx"
+    },
+    {
+      "plain": "The Real Property Transfer Tax brings in about $1.4 billion a year, and the report estimates an added 0.25 percentage point could produce roughly $250 million to $300 million a year for parks.",
+      "quote": "An additional 0.25 percentage point on property transaction values could generate roughly $250 million to $300 million each year for parks maintenance, operations, and programming."
+    },
+    {
+      "plain": "New York has used value capture before. Development in the Hudson Yards financing district now generates roughly $490 million a year in dedicated value-capture revenues.",
+      "quote": "is now generating roughly $490 million annually in dedicated value-capture revenues"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$15.2 billion",
+      "label": "Added property value for homes within 500 feet of a park"
+    },
+    {
+      "value": "$101 million",
+      "label": "Estimated added annual property tax from that value"
+    },
+    {
+      "value": "$1.4 billion",
+      "label": "Annual revenue from the Real Property Transfer Tax"
+    },
+    {
+      "value": "$250 million to $300 million",
+      "label": "Estimated yearly yield of a 0.25 point transfer surcharge"
+    },
+    {
+      "value": "44 percent",
+      "label": "Residents rating their local parks fair or poor"
+    },
+    {
+      "value": "$490 million",
+      "label": "Annual value-capture revenue in the Hudson Yards district"
+    },
+    {
+      "value": "$33 million",
+      "label": "Parks cut in the preliminary fiscal 2027 budget"
+    }
+  ],
+  "recommendations": [
+    "Tie new development from upzoning to dedicated funding for park maintenance, operations and programming, by letting developers buy density above existing limits in exchange for contributions to a citywide parks fund and by writing similar contributions into future neighborhood rezonings.",
+    "Capture value along the Interborough Express by creating a district that dedicates part of the new property tax revenue from development near stations to sustaining nearby parks and creating new ones, with some of the money directed to parks elsewhere in Brooklyn and Queens.",
+    "Create a modest community parks surcharge on the Real Property Transfer Tax or the Mortgage Recording Tax, or dedicate a share of existing real estate revenues to parks, with a maintenance-of-effort provision so the money adds to rather than replaces city parks funding.",
+    "Make it easier to establish Parks Improvement Districts by creating a streamlined process led by NYC Parks or another public space entity, and launch a pilot that matches locally raised assessments with city dollars at a multiple based on neighborhood need.",
+    "Establish a Parks Improvement Trust to receive and allocate new park revenues under a transparent formula that balances reinvestment near the source with citywide need, overseen by a mixed public and private board with reporting requirements."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

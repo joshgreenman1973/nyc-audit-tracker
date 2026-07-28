@@ -1,0 +1,224 @@
+TITLE: No Fare
+URL: https://cbcny.org/research/no-fare
+ISSUED: 2025-09-11
+PDF: https://cbcny.org/sites/default/files/media/files/CBCREPORT_Fare-Evasion_09112025.pdf
+
+REPORT  TRANSPORTATION
+No Fare
+The Costs of MTA Fare and Toll Evasion
+Press Release
+Download Report
+Print
+Share
+EXPAND TABLE OF CONTENTS
+September 11, 2025
+Contents
+Executive Summary
+Losses to Fare Evasion are Significant but Improving
+Four-Pronged Approach to Reduce Evasion
+The MTA’s Fare Enforcement Procedures
+Formal Enforcement Actions Have Increased in the Subway System
+Non-Enforcement Interventions Also Reduce Evasion
+Recommendations
+Appendix 1: Lost Revenue Calculation Methodology
+Executive Summary
+
+Fare and toll evasion cost the Metropolitan Transportation Authority (MTA) approximately $1 billion in revenue in 2024.
+
+Fortunately, the MTA’s actions, along with those of State and law enforcement partners, have started to stem fare evasion losses. Losses declined steadily from the third quarter of 2024 to the second quarter of 2025, as fare evasion rates declined while ridership increased. If this trend continues, fare and toll evasion losses in 2025 would be lower, though still significant, totaling approximately $900 million.1
+
+More progress is crucial to the system’s future. Reducing evasion is essential to close the MTA’s approximately $800 million structural operating budget gap, to ensure that all users pay their fair share, and to improve public confidence in the transit system. Collecting unpaid fares and tolls could help support better service or fund capital projects directly, reducing reliance on long-term debt financing.
+
+The Citizens Budget Commission (CBC) finds that the MTA increased efforts to reduce fare evasion on subways and buses post-COVID, with fare evasion starting to decrease in the past year:
+
+The number of civil summonses increased from 13,607 in the third quarter of 2021 to a peak of 38,422 in the third quarter of 2024, before declining to 29,046 in the first quarter of 2025;
+Arrests have increased, but are much less common, increasing from 655 in the fourth quarter of 2022 to 4,092 in the first quarter of 2025;
+The MTA has increased their use of Evasion and Graffiti Lawlessness Eradication (EAGLE) Team inspectors to discourage evasion on buses;
+The MTA has made changes to the subway station environment to make fare evasion more difficult by delaying exit gate egress and modifying turnstiles;
+Between the first quarter of 2024 and the first quarter of 2025, the subway fare evasion rate declined from 14 percent to 10 percent; and
+The bus fare evasion rate declined from 48 percent to 44 percent during that period.
+
+Still, every minute during 2024, 330 subway fares and 710 bus fares were evaded. Effective, fair enforcement is vital, but it is not the only strategy needed to reduce evasion. In May 2023, the MTA’s Blue-Ribbon Panel on Fare Evasion recommended a four-pronged approach: enforcement, environment, education, and equity.
+
+To further reduce fare evasion, CBC recommends the MTA:
+
+Refine and continue its multi-faceted approach to tackle fare evasion;
+Accelerate the rollout of new faregates and a proof-of-payment system;
+Publish comprehensive and regular data assessing the MTA’s progress at reducing fare evasion;
+Assess the cost-effectiveness of enforcement efforts; and
+Work with the City to assess the cost-effectiveness of, and consider expanding, Fair Fares NYC.
+Losses to Fare Evasion are Significant but Improving
+One Billion Dollar Loss in 2024
+
+CBC estimates that evasion cost the MTA $1 billion in 2024: $568 million in unpaid bus fares, $350 million in unpaid subway fares, at least $46 million in unpaid commuter rail tickets, and at least $51 million in unpaid tolls.2
+
+CBC bases its estimates for subways and buses on reported paid ridership, fare evasion rates, average fares, and discounts. The estimates are adjusted to account for the share of individuals who evade the fare but would not have had paid anyway, such as students with passes, young children who may ride for free, or those who would not have used transit for their trip.
+
+The MTA’s estimate, often reported as $700 to $800 million, is lower because it assumes a larger share of individuals who evade the fare would not have paid anyway than CBC’s.3
+
+CBC’s estimates for commuter rail and tolls are based on the MTA’s 2022 reported fare evasion loss estimates, adjusted for the increase in fares and tolls since then. (See Appendix 1 for a description of the methodology.) Because the MTA does not provide consistent and complete data on evasion of commuter rail fares and bridge and tunnel tolls, this report focuses on subway and bus fare evasion.
+
+Fare and Toll Evasion is Not Victimless
+
+Fare and toll evasion drains resources needed to sustainably run the system well for all New Yorkers and other users. Ultimately, it unfairly shifts more of the cost burden of the MTA’s $20 billion operating budget to other riders, drivers, and taxpayers.
+
+Losses to Bus and Subway Fare Evasion Tripled Between 2019 and 2024
+
+The MTA’s $918 million loss to subway and bus fare evasion in 2024 was triple the $305 million lost in 2019 prior to the COVID-19 pandemic, and 53 percent higher than the $600 million lost in 2022. 4 (See Figure 1.) For perspective, $918 million is equal to:
+
+One-quarter of the subway and bus fare revenue collected in 2024;
+Three rounds of fare increases;
+The cost of 180 new subway cars (at least 18 trains); or
+The cost of 630 new buses.5
+Recent Fare Evasion Growth is Reversing
+
+Unpaid subway ridership was trending upward in the quarters prior to the COVID-19 pandemic and more than doubled between 2019 and 2024, even as ridership levels remained below pre-pandemic levels. (See Figure 2.) CBC calculated the number of unpaid riders using the number of paid riders and the fare evasion rate reported by the MTA. (See Appendix 1.)
+
+In a positive turn, subway and bus fare evasion rates have recently started to decline. (See Figure 3.) Unpaid subway ridership peaked in the second quarter of 2024 and steadily declined for the last three quarters. The subway fare evasion rate decreased from 14 percent in the first quarter of 2024 to 10 percent in the first quarter of 2025, a 28 percent decline. There was also an 8 percent decline in bus fare evasion between the first quarter of 2024 and 2025; nonetheless, bus fare evasion remained high, at 44 percent in the first quarter of 2025. Furthermore, both subway and bus fare evasion rates remain significantly above their pre-pandemic levels, when, in the first quarter of 2019, they were 4 percent and 25 percent, respectively.
+
+Four-Pronged Approach to Reduce Evasion
+
+Enforcement actions are critical, but the scale of the problem is beyond what enforcement actions alone can rectify. Every minute during 2024, 330 subway fares and 710 bus fares were evaded. At that rate, it is not possible for the MTA and New York City Police Department (NYPD) to take enforcement action every time a rider evades the fare. The MTA’s Blue-Ribbon Panel on Fare Evasion recommended a four-pronged approach to reducing fare evasion.6 In addition to enforcement, the panel recommended environmental, educational, and equity efforts. The MTA has employed each of these strategies:
+
+Enforcement
+Increased the number of NYPD officers and Evasion and Graffiti Lawlessness Eradication (EAGLE) Team inspectors in the transit system; and
+Expanded EAGLE Team enforcement to local buses.7
+Environment
+Reconfigured turnstiles to prevent back-cocking;
+Added “sleeves” and “fins” to turnstiles to make it harder to vault over them;
+Deployed unarmed gate guards to ensure exit gates stay closed; and
+Reconfigured exit gates to delay egress.8
+Education
+Ran public messaging campaigns to emphasize the importance of fare payment;
+Used visual and audio reminders that fare payment is required to ride buses; and
+Raised public awareness of enforcement efforts by EAGLE Teams.9
+Equity
+Held Fair Fares NYC signup events in conjunction with City agencies; and
+Received legislative approval to rework Transit Adjudication Bureau (TAB) processes to adopt an official “warning first” approach and began waiving fines for first-time fare evaders that enroll in the Fair Fares NYC program.10
+The MTA’s Fare Enforcement Procedures
+
+Riders are expected to pay fares when using public transit in New York. When riders fail to pay the fare, they may be given a warning or issued a civil summons with a fine. Repeated fare evasion can lead to higher fines, criminal summonses, or arrests. The responsibility for enforcement varies across the MTA system, with police and civilian staff enforcing fare and toll payment:
+
+Subway fare payment is primarily enforced by the NYPD’s Transit Bureau, though the MTA Police Department (MTAPD) also issues summonses for subway fare evasion;
+Bus fare payment is primarily enforced by the EAGLE Teams, which are sometimes accompanied by officers from the NYPD Transit Bureau Bus Enforcement Unit;
+Commuter railroad fare payment is enforced by the MTAPD; and
+Bridge and tunnel toll payment is enforced by MTA Bridge and Tunnel officers in collaboration with the MTAPD, NYPD, and New York State Police. The MTA also works with other law enforcement agencies to intercept vehicles suspected of evading tolls at MTA facilities.11
+
+The NYPD Patrol Guide specifies that officers must observe someone evading the subway or bus fare to take enforcement action.12 This is also true of EAGLE Team inspectors on local bus routes. However, on Select Bus Services, the MTA uses proof-of-payment, which does not require the officer to witness the evasion. Instead, EAGLE Team inspectors ask riders to show the receipt from swiping their MetroCard at an on-street farebox prior to boarding, or to present the card/device they used to pay with One Metro New York (OMNY) fare collection, which inspectors can verify with a handheld device.13
+
+Police officers and EAGLE Team inspectors have the discretion to take no action, issue a verbal warning, or take formal enforcement action. For EAGLE Team inspectors, formal action is limited to issuing civil summonses, though they sometimes work in conjunction with NYPD officers who can issue criminal summonses or make arrests if needed.14
+
+If police officers decide to take formal action, they conduct a background search in NYPD databases to determine if the person evading the fare has an active warrant, has been stopped for repeatedly evading the fare, or has recently committed a more serious crime in the transit system.
+
+If the individual has no record of these, officers issue a civil summons that is handled by the MTA’s TAB. The TAB mails a notice of the summons with a formal warning or fine, depending on the number of times the individual previously received a summons for fare evasion.15 (See Figure 4.) Fines may be reduced for participants in, or eligible for, the City's Fair Fares NYC program.
+
+If the background search identified more serious prior violations, officers issue a criminal summons if the individual has repeatedly evaded the fare or make an arrest if the individual has recently committed other more serious crimes in the transit system. Criminal summonses and arrests are handled through the criminal justice system but are currently unlikely to result in prosecution.
+
+District Attorneys (DAs) have prosecutorial discretion, and most City DAs have stated that they will no longer prosecute most individuals arrested for fare evasion. Cyrus Vance, Jr., then the Manhattan DA, first announced this policy in 2017. It was also adopted by Eric Gonzalez and Darcel D. Clark, the Brooklyn and Bronx DAs, respectively.16 Alvin L. Bragg, the current Manhattan DA, has continued the practice started by his predecessor.17 Melinda Katz, the Queens DA, said in 2019 she intended to reduce, but not eliminate, prosecutions for fare evasion.18 The DAs do not release data on the number of fare evasion cases they decline to prosecute.
+
+Figure 4: Fare Evasion Enforcement in the NYC Transit System
+Source
+
+Metropolitan Transportation Authority, “Transit Adjudication Bureau” (accessed May 15, 2025); New York City Police Department, Patrol Guide Procedure Number 209-39 R.O. 42 (June 24 2024).
+
+Formal Enforcement Actions Have Increased in the Subway System
+
+Enforcement trends in the subway system were changing in the period leading up to the COVID-19 pandemic and have continued to evolve since. From the middle of 2018 through the first quarter of 2020, the number of TAB civil summonses issued per quarter increased. However, the number of arrests and criminal summonses issued simultaneously declined, coinciding with the DAs’ announcements that they would not prosecute fare evasion. (See Figure 5.)
+
+Figure 5: Fare Evasion Transit Adjudication Bureau (TAB) Summons, Arrests, and Criminal Summons by Quarter
+Notes
+
+Data only includes enforcement activity by NYPD; criminal summonses for fare evasion are not distinguished from other criminal and civil summonses in MTA Board materials prior to 2018. 
+
+Source
+
+Metropolitan Transportation Authority, New York Cty Transit and Bus Committee Meeting Materials (February 2016 - Jaunary 2019); Metropolitan Transportation Authority Open Data, MTA Summonses and Arrests: Beginning 2019.
+
+After significant drops in 2020, TAB civil summons, criminal summons, and arrests all began to increase. The MTA convened its Blue-Ribbon Panel on Fare and Toll Evasion in May 2022, around the time that the number of TAB civil summons issued per quarter surpassed pre-pandemic levels. The number of arrests and criminal summons have continued to increase since the Blue-Ribbon Panel published its report in May 2023, while the number of TAB summons issued has decreased in the last two quarters.
+
+Based on guidance that police officers should only arrest serial evaders or those who have committed serious crimes, the increase in the number of arrests made in 2024 and into 2025 could be driven by an increase in the number of serial fare evaders and individuals who have otherwise been arrested for crimes in the transit system, an increase in the rate police officers have been apprehending those individuals as they evade the fare, or a combination of the two.19 The NYPD classifies arrests based on the top charge involved in the arrest, meaning these fare evasion arrests do not involve more serious concurrent crimes.20
+
+Non-Enforcement Interventions Also Reduce Evasion  
+
+The MTA has shared limited data on the effectiveness of selected fare evasion reduction interventions and estimates that:
+
+Unarmed gate guards have led to a 36 percent decrease in fare evasion at the locations where they have been utilized;
+Fins and sleeves have led to 60 percent decrease in the number of individuals who jump the turnstile at the locations where they have been used;
+Delayed egress exit gates have led to a 7 percent decrease in evasion in locations where they have been implemented; and
+EAGLE Teams have decreased bus fare evasion by 36 percent at bus stops where they have been deployed.21
+Recommendations
+
+The MTA’s efforts to reduce fare evasion on subways and buses have been making a difference, but fare evasion remains a threat to the MTA’s fiscal stability. The MTA has an $800 million structural budget gap and a capital program reliant on significant debt supported by its operating budget. If fare evasion continues to sap the MTA’s revenues, the system will not be stable and able to provide the services New Yorkers and the region’s economy need. Furthermore, fare evasion erodes the system’s credibility and discourages some riders from wanting to support the MTA’s needs.
+
+To continue and accelerate the reduction in fare evasion and ensure public accountability, CBC recommends the MTA:
+
+Refine and continue a multi-faceted approach to reducing fare and toll evasion, including improving enforcement, educating riders on the importance of fare payment, and better securing the transit system environment;
+The MTA should publish data to show the cost-effectiveness of their interventions and tailor programs to ensure they are getting the maximum return on their investments to decrease fare evasion;
+Accelerate rollout of new faregates funded in the 2025 to 2029 Capital Plan;
+Accelerate the rollout of proof-of-payment to allow EAGLE Team inspectors to enforce fare payment on local and express buses without having to directly witness fare evasion;
+Publish comprehensive and regular data on fare and toll evasion, including:
+The projected and target fare evasion rates, so the public can assess the MTA’s success against its goals;
+Quarterly fare evasion reports that include estimates of lost revenue; previously published reports were discontinued;
+Quarterly unpaid toll reports that include the number of unbillable tolls, the reasons those tolls could not be billed, and estimates of revenue lost to toll evasion, disaggregated by Congestion Relief Zone and MTA Bridge and Tunnel crossings; and
+Quarterly commuter rail fare reports on the number of commuter railroad fares not collected and improperly collected, previously published monthly but discontinued, and estimates of revenue lost to commuter railroad fare evasion;
+Work with the City to assess the cost-effectiveness of deploying police officers to enforce fare payment; and
+Work with the City to assess the effectiveness of the Fair Fares NYC program and consider expansion;
+Less than half of eligible New Yorkers were enrolled in the program as of August 2025;
+The MTA should study the need for fare subsidies by income band and transit ridership to assess the low take-up of Fair Fares NYC and the need for expansion.22
+Appendix 1: Lost Revenue Calculation Methodology
+
+CBC obtained data to calculate the number of unpaid riders and the fare these riders would have paid from the MTA’s Open Data portal, MTA Board materials, and the MTA’s February Financial Plans.23 Data used include:
+
+Monthly ridership data for subways and buses from the MTA’s Open Data Portal;
+MTA fare evasion rates for buses and subways;
+Data for 2018 and 2019 were taken from MTA Board Transit and Bus Committee materials; and
+Data for 2020 and later were taken from the MTA’s Open Data Portal; and
+Average subway and bus fares;
+Calculated as the subway and New York City Transit bus farebox revenue reported in the financial plan divided by the number of riders reported in the MTA Open Data portal;
+This average fare value does not include the City or State subsidies the MTA receives for students, seniors, and people with disabilities, but does count these individuals as riders.
+
+We summarized ridership data on a quarterly basis to align with the quarterly reporting of the fare evasion rate. We calculated the number of unpaid riders for subways and buses using the following equation:
+
+We then multiplied the number of unpaid riders by the average fare required to match the farebox revenue reported in the following year’s February Financial Plan (e.g., 2022’s average fare was calculated using the “2022 Final Estimate” reported in the February 2023 Financial Plan) when using ridership levels from MTA Open Data.
+
+The MTA previously provided quarterly estimates of revenues lost to fare evasion in 2018 and 2019 in MTA Board materials and estimated the amount of revenue lost to fare evasion in Blue-Ribbon Panel’s 2023 report.24 CBC’s lost revenue estimates were consistently higher than those reported by the MTA. To ensure revenue loss estimates aligned with those reported by the MTA, to account for free transfers between subways and buses, student riders for which the MTA is not reimbursed a full fare, riders that may have an unlimited MetroCard or have hit their OMNY fare cap but do not swipe/tap and therefore avoid paying their fare, and to be conservative, CBC reduced revenue loss estimates for each quarter by at least 15 percent. These post-calculation reductions were generally in the range of 15 to 20 percent, with some reductions as high as 50 percent, which was necessary to match the lost revenue reported on buses in the fourth quarter of 2019.
+
+Post-calculation reductions for lost subway and bus revenue in 2023 and 2024 were 15 percent and 15.5 percent, respectively.
+
+By Adam Schmidt
+
+Senior Research Associate for Transportation
+Related Content
+It's Only Fair
+Policies to Reduce Fare and Toll Evasion Are Critical to Transit Sustainability
+All Aboard
+How to Fairly Fund MTA Capital Investment Now
+Conversation with the MTA Chair & CEO Janno Lieber
+A CBC Event
+Footnotes
+CBC’s estimate based on the MTA’s forecasted ridership and a continuation of the current subway and bus fare evasion rates, which were relatively stable across Q1 and Q2 of 2025. While Q2 2025 bus fare evasion rates have not yet been publicly posted, CBC assumed 43 percent based on communication with the MTA.
+Commuter rail and toll evasion based on 2022 levels. Toll evasion does not include the Congestion Relief Zone, since the Congestion Pricing Program began on January 5, 2025. Metropolitan Transportation Authority, Report of the Blue-Ribbon Panel on MTA Fare and Toll Evasion (May 2023), https://www.mta.info/document/111531.
+While MTA did not provide specific details to CBC about their assumptions, they did mention a few broad categories of riders they do not consider to be recoverable revenues. These include children who are required to pay the fare but would not be eligible to receive a summons for fare evasion, students with OMNY cards (which are subsidized at a flat rate and not on a per-ride basis, meaning the MTA does not lose revenue when students do not tap their card), riders that would not ride if they could not ride without paying the fare, and transferring riders that evade the fare on both the initial leg of their trip and when they transfer (representing a single lost fare, since transfers are free). Michelle Kaske, “New York City Transit System Chips Away at Subway Fare Evasion,” Bloomberg (April 28, 2025), https://www.bloomberg.com/news/articles/2025-04-28/new-york-city-transit-system-chips-away-at-subway-fare-evasion; and Ramsey Khalifeh, “MTA to begin replacing NYC’s subway turnstiles with modern fare fates,” Gothamist (April 29, 2025), https://gothamist.com/news/mta-to-begin-replacing-nycs-subway-turnstiles-with-modern-fare-gates.
+Metropolitan Transportation Authority, Transit and Bus Committee Meeting: March 2020 (March 2020), https://www.mta.info/document/15776, and Report of the Blue-Ribbon Panel on MTA Fare and Toll Evasion (May 2023), https://www.mta.info/document/111531.
+Metropolitan Transportation Authority, MTA 2025 Adopted Budget: February Financial Plan 2025-2028 (February 2025), https://www.mta.info/document/165071, and 2025-2029 Capital Plan: The Future Rides with Us (September 18, 2024), https://www.mta.info/document/151266.
+Metropolitan Transportation Authority, Report of the Blue-Ribbon Panel on MTA Fare and Toll Evasion (May 2023), https://www.mta.info/document/111531.
+Evan Simko-Bednarski and Sheetal Banchariya, “NYC to send 800 more cops into subway system in fare evasion, crime crackdown,” NY Daily News (March 24, 2024), https://www.nydailynews.com/2024/03/25/nyc-to-send-800-more-cops-into-subway-system-in-fare-evasion-crime-crackdown/; and Metropolitan Transportation Authority, “MTA EAGLE Teams Begin Bus Stop Hub Approach as Part of Enhanced Fare Enforcement” (press release, August 3, 2023), https://www.mta.info/press-release/mta-eagle-teams-begin-bus-stop-hub-approach-part-of-enhanced-fare-enforcement.
+Metropolitan Transportation Authority, “MTA Announces Progress on Reducing Subway Fare Evasion” (press release, May 22, 2024), https://www.mta.info/press-release/mta-announces-progress-reducing-subway-fare-evasion; and Jose Martinez, “Turnstile Armor is MTA’s Latest Defense Against Farebeaters,” The City (February 12, 2025), https://www.thecity.nyc/2025/02/12/turnstile-armor-debut-subways/.
+Metropolitan Transportation Authority, “MTA Launches ‘Courtesy Counts’ Ad Campaign as Agency-Wide Ridership Records Continue” (press release, October 3, 2023), https://www.mta.info/press-release/mta-launches-courtesy-counts-ad-campaign-agency-wide-ridership-records-continue, and “What the MTA is doing about bus fare evasion” (press release, August 26, 2024), https://www.mta.info/article/bus-fare-evasion.
+Metropolitan Transportation Authority, “MTA Announces Progress on Reducing Subway Fare Evasion” (press release, May 22, 2024), https://www.mta.info/press-release/mta-announces-progress-reducing-subway-fare-evasion, and “Understand your Notice of Violation” (accessed June 18, 2025), https://www.mta.info/agency/transit-adjudication-bureau/notice-of-violation.
+Metropolitan Transportation Authority, “MTA EAGLE Teams Begin Bus Stop Hub Approach as Part of Enhanced Fare Enforcement” (press release, August 3, 2023), https://www.mta.info/press-release/mta-eagle-teams-begin-bus-stop-hub-approach-part-of-enhanced-fare-enforcement, and “ICYMI: Governor Hochul Marks One Year of Largest City and State Interagency Task Force to Remove Ghost Cars” (press release, March 20, 2025), https://www.mta.info/press-release/icymi-governor-hochul-marks-one-year-of-largest-city-and-state-interagency-task-force.
+New York City Police Department, Patrol Guide Procedure Number 209-39 R.O. 42, https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide1.pdf.
+William Neuman, “Riders Will Pay Before Boarding and Save time, on Revamped Bus Route,” The New York Times (June 29, 2008), https://www.nytimes.com/2008/06/29/nyregion/29bus.html.
+Metropolitan Transportation Authority, “MTA EAGLE Teams Begin Bus Stop Hub Approach as Part of Enhanced Fare Enforcement” (press release, August 3, 2023), https://www.mta.info/press-release/mta-eagle-teams-begin-bus-stop-hub-approach-part-of-enhanced-fare-enforcement.
+Metropolitan Transportation Authority, “Pay a Fine” (accessed July 8, 2025), https://www.mta.info/agency/transit-adjudication-bureau/how-to-pay-a-fine.
+James C. McKinley Jr., “For Manhattan Fare Beaters, One-Way Ticket to Court May Be Over,” The New York Times (June 30, 2017), https://www.nytimes.com/2017/06/30/nyregion/subway-fare-beating-new-york.html; and Office of the Bronx District Attorney Darcel D. Clark. A Safer Bronx Through Fair Justice (January 22, 2020), https://www.bronxda.nyc.gov/downloads/pdf/safer-bronx-through%20fair-justice.pdf.
+Jonah E. Bromwich, “Manhattan D.A. Acts on Vow to Seek Incarceration Only for Worst Crimes,” The New York Times (January 6, 2022), https://www.nytimes.com/2022/01/06/nyregion/alvin-bragg-manhattan-da.html.
+Samar Khurshid, “19 Things Melissa Katz Promised To Do As Queens District Attorney,” Gotham Gazette (November 4, 2019), https://www.gothamgazette.com/state/8893-things-melinda-katz-promised-to-do-as-queens-district-attorney.
+New York City Police Department, Patrol Guide Procedure Number 209-39 R.O. 42, https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/public-pguide1.pdf.
+New York City Open Data, NYPD Arrests Data (Historic) – Arrest Incident Level Data Footnotes. https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data.
+Metropolitan Transportation Authority, Progress Report on Fare and Toll Collection: Update to the MTA Operating Committees (April 28, 2025), https://www.mta.info/document/171141, Progress Report on Fare and Toll Collection: Update to the MTA Operating Committees (April 28, 2025), https://www.mta.info/document/171141, Improving Subway Fare Compliance: MTA Board Meeting (May 22, 2024), https://www.mta.info/document/140676, Progress Report on Fare and Toll Collection: Update to the MTA Operating Committees (different version than posted online; April 28, 2025), https://www.youtube.com/live/AV8y1NjNQ_M, and “MTA Announces Progress on Reducing Subway Fare Evasion” (press release, May 22, 2024), https://www.mta.info/press-release/mta-announces-progress-reducing-subway-fare-evasion.
+Metropolitan Transportation Authority, Transit and Bus Committee Meeting: March 2020 (March 2020), https://www.mta.info/document/15776, and “MTA and City Partners Host Largest Single Day of Action for Fair Fares Enrollment” (press release, March 28, 2024), https://www.mta.info/press-release/mta-and-city-partners-host-largest-single-day-of-action-fair-fares-enrollment; Metropolitan Transportation Authority Open Data, “MTA LIRR Fare Collection Failure Rates 2015-2022,” https://data.ny.gov/Transportation/MTA-LIRR-Fare-Collection-Failure-Rates-2015-2022/6fc5-5xk2/about_data; and City of New York, “Fair Fares NYC” (accessed August 5, 2025), https://www.nyc.gov/site/fairfares/index.page.
+Metropolitan Transportation Authority, MTA Monthly Ridership / Traffic Data: Beginning January 2008, https://data.ny.gov/Transportation/MTA-Monthly-Ridership-Traffic-Data-Beginning-Janua/xfre-bxip/about_data, MTA NYCT Subway Fare Evasion: Beginning 2018, https://data.ny.gov/Transportation/MTA-NYCT-Subway-Fare-Evasion-Beginning-2018/6kj3-ijvb/about_data, MTA Bus Fare Evasion: Beginning 2019, https://data.ny.gov/Transportation/MTA-Bus-Fare-Evasion-Beginning-2019/uv5h-dfhp/about_data, Transit and Bus Committee Meeting: March 2019 (March 2019), https://www.mta.info/transparency/board-and-committee-meetings/archived-materials, Transit and Bus Committee Meeting: March 2020 (March 2020), https://www.mta.info/document/15776, Report of the Blue-Ribbon Panel on MTA Fare and Toll Evasion (May 2023), https://www.mta.info/document/111531, MTA 2025 Adopted Budget: February Financial Plan 2025-2028 (February 2025), https://www.mta.info/document/165071, MTA 2024 Adopted Budget: February Financial Plan 2024-2027 (February 2024), https://www.mta.info/document/133491, MTA 2023 Adopted Budget: February Financial Plan 2023-2026 (February 2023), https://www.mta.info/document/106026, MTA 2022 Adopted Budget: February Financial Plan 2022-2025 (February 2022), https://www.mta.info/document/76706, MTA 2021 Adopted Budget: February Financial Plan 2021-2024 (February 2021), https://www.mta.info/document/30186, MTA 2020 Adopted Budget: February Financial Plan 2020-2023 (February 2020), https://www.mta.info/document/15221, and MTA 2019 Adopted Budget: February Financial Plan 2019-2022 (February 2019), https://files.mta.info/s3fs-public/2019-03/MTA-2019-Adopted-Budget-February-Financial-Plan_2019-2022.pdf.
+Metropolitan Transportation Authority, Transit and Bus Committee Meeting: March 2019 (March 2019), https://www.mta.info/transparency/board-and-committee-meetings/archived-materials, Transit and Bus Committee Meeting: March 2020 (March 2020), https://www.mta.info/document/15776, and Report of the Blue-Ribbon Panel on MTA Fare and Toll Evasion (May 2023), https://www.mta.info/document/111531.
+Download Report
+No Fare: The Costs of MTA Fare and Toll Evasion (645.72 KB)

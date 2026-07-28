@@ -1,0 +1,86 @@
+{
+  "id": "2025-05-01-cuf-sustaining-nycs-tech-edge",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Sustaining NYC’s Tech Edge",
+  "plain_title": "What the city could do to keep its tech sector growing",
+  "agency": "New York City government",
+  "issued": "2025-05-01",
+  "url": "https://nycfuture.org/research/sustaining-nycs-tech-edge",
+  "pdf": "https://nycfuture.org/pdf/CUF_TechNYC_final.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future, produced in partnership with Tech:NYC, examining the growth of New York City's tech sector and what the organization says city government could do to sustain it.",
+  "background": "The report's assessment of the risks facing the sector is drawn from interviews with tech founders, industry leaders and investors.",
+  "findings": [
+    {
+      "plain": "Tech has been adding jobs far faster than the rest of the city's economy since the pandemic began.",
+      "quote": "adding jobs at nearly 10 times the rate of the city’s overall economy since the start of the pandemic"
+    },
+    {
+      "plain": "The sector added jobs steadily over the past decade across the five boroughs.",
+      "quote": "Between 2014 and 2024, the tech sector added an average of 8,000 jobs a year across the five boroughs."
+    },
+    {
+      "plain": "Demand for tech skills now runs through most of the city's job market, not just tech companies.",
+      "quote": "Nearly half, or 47.5 percent, of all job postings in the city in 2024 sought out candidates with tech skills"
+    },
+    {
+      "plain": "The number of funded start-ups in the city has more than doubled in a decade, spread across many industries.",
+      "quote": "the city was home to 8,750 funded tech start-ups, more than double the figure (3,772) from a decade ago"
+    },
+    {
+      "plain": "New York's tech workforce is more racially diverse than those in other major tech hubs.",
+      "quote": "Black and Hispanic New Yorkers make up 24.3 percent of New York’s tech sector workforce"
+    },
+    {
+      "plain": "The report identifies two threats to continued growth: housing costs that make it harder to attract and keep workers, and what interviewees described as a regulatory environment out of step with the sector's role.",
+      "quote": "There are two big challenges that have the potential to dampen New York’s future growth in tech"
+    },
+    {
+      "plain": "Fewer than one in five city public school students took a computing class in 2023.",
+      "quote": "just 18.2 percent of K–12 students in New York City participated in a computing education class in 2023"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "8,000 jobs a year",
+      "label": "Average yearly tech job growth, 2014 to 2024"
+    },
+    {
+      "value": "26.2 percent",
+      "label": "Tech sector employment growth since 2019"
+    },
+    {
+      "value": "47.5 percent",
+      "label": "Share of 2024 city job postings seeking tech skills"
+    },
+    {
+      "value": "8,750",
+      "label": "Funded tech start-ups in the city in 2024"
+    },
+    {
+      "value": "24.3 percent",
+      "label": "Black and Hispanic share of the city tech workforce"
+    },
+    {
+      "value": "18.2 percent",
+      "label": "City students in a computing class in 2023"
+    }
+  ],
+  "recommendations": [
+    "Build a large amount of new housing, including middle-income, workforce and family-sized units, and pair it with zoning and regulatory changes such as greater density near transit, revisiting parking minimums, more as-of-right zoning and shorter permitting and environmental review timelines.",
+    "Invest in what keeps the city livable and appealing, including transit, protected bike lanes, parks, public schools, arts and culture, outdoor dining and neighborhood streetscapes.",
+    "Launch an NYC Open Data 2.0 effort that expands access to city data through application programming interfaces, sensor networks and real-time feeds, with privacy frameworks and added agency capacity to collect and release data.",
+    "Have the New York City Economic Development Corporation build a long-term effort to support deep tech companies, shortening the time it takes to test and deploy new technologies and working with universities on prototyping space and with agencies on pilots and procurement.",
+    "Make it easier for start-ups to win city technology contracts by simplifying requests for proposals, reducing contract minimums and expanding challenge-based procurement.",
+    "Scale up CUNY's Computing Integrated Teacher Education program so more future teachers can integrate computing into K-12 classrooms."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "technology",
+    "housing",
+    "labor"
+  ],
+  "is_followup": false
+}

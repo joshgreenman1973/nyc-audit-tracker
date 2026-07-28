@@ -1,0 +1,521 @@
+Understanding and Overcoming the Bronx Digital Divide | Center for an Urban Future (CUF) 
+
+Innovative Ideas. Independent Policy.
+
+Home
+
+About
+
+Research
+
+Events
+
+Press
+
+Impact
+
+Support
+
+Contact
+
+Report
+- July 2025
+
+Understanding and Overcoming the Bronx Digital Divide
+
+Consistent access to a computer and high-speed internet are essential to everyday life in New York, and in the Bronx, tens of thousands of residents remain cut off from these basic tools of modern life. Despite important investments in broadband infrastructure and digital skills programs, the gap has only grown wider between the Bronx and other boroughs in the areas of broadband affordability and adoption, device access, and digital literacy.
+
+by Rachel Neches and Eli Dvorkin
+
+Tags:
+tech
+boroughs
+bronx
+economic opportunity
+libraries
+
+To read a foreword by The Bronx Community Foundation click here.
+
+To read the recommendations for this report click here.
+
+In today’s New York City, consistent access to a computer and high-speed internet is essential—whether for completing schoolwork, remotely working or applying for jobs, accessing healthcare, or receiving government services. Yet in the Bronx, tens of thousands of residents remain cut off from these basic tools of modern life. Despite important investments in broadband infrastructure and digital skills programs, the gap between the Bronx and other boroughs has only grown wider.
+
+The digital divide in the Bronx spans three interconnected challenges: broadband affordability and adoption, device access, and digital literacy. In each of these areas, Bronx residents face deeper barriers than their counterparts in any other borough.
+
+The Bronx has the lowest rate of broadband adoption in the city: 22.4 percent of households lack broadband at home, compared to 18 percent in Queens and just 12.5 percent in Manhattan.1 These gaps have been worsened by the expiration of the federal Affordable Connectivity Program (ACP), which provided households with a monthly internet subsidy. Fully 44 percent of Bronx households were enrolled in ACP when it ended in 2024—by far the highest share in the city.2 With ACP’s collapse, thousands of families are struggling to afford basic internet service.
+
+The borough also has the lowest rate of device ownership, with one in three households—or over 184,000 homes—lacking access to a computer. This data masks even starker disparities at the neighborhood level. In Riverdale and Kingsbridge, 19 percent of households lack a computer; in Soundview and Parkchester, it’s more than 30 percent. In neighborhoods like Melrose, Mott Haven, and Hunts Point, that figure rises to 35 percent.3 These digital deserts are leaving many Bronx residents disconnected from essential opportunities and services.
+
+Meanwhile, levels of digital literacy remain alarmingly low. One local nonprofit reports that half of its beginner students had never used a computer before enrolling. While enrollment in computer science courses among Bronx students grew 131.7 percent from 2016 to 2023, that growth lagged behind every other borough. Today, just 11.5 percent of Bronx students are enrolled in a computer science class—the lowest share of any borough.4
+
+But even as these challenges persist, there are powerful assets to build on. Bronx public libraries hosted over 430,000 Wi-Fi sessions in FY24 and have launched promising pilots like lending home Wi-Fi devices.5 Community organizations like The Knowledge House, NYC First, and Per Scholas are providing tech training and workforce development, while Bronx colleges are expanding access to digital degrees. The number of Lehman College students earning technology bachelor’s degrees has more than doubled since 2016.6 The Bronx Digital Equity Coalition—the borough’s first coalition of its kind, founded by The Bronx Community Foundation—launched a network of over 70 local organizations advancing a community-based approach to digital inclusion. The Coalition has supported community Wi-Fi initiatives and advocated for broadband affordability policies tailored to Bronx residents’ needs.
+
+City and state leaders have also taken some encouraging steps. Big Apple Connect now offers free internet to many NYCHA residents, and the state’s Affordable Broadband Act requires internet providers to offer $15-per-month broadband to low-income households. But more should be done.
+
+To close the Bronx’s digital divide, city and state policymakers should launch a comprehensive Bronx Digital Equity Plan that includes major new investments across all three key areas: broadband adoption, device access, and digital literacy and tech education. This plan should include a robust public awareness campaign to enroll residents in affordable $15-per-month broadband plans; the creation of a Bronx Laptop Lending Library to distribute devices to the 184,000 households without a computer; full funding for CUNY’s Computing Integrated Teacher Education (CITE) initiative to train the next generation of educators in digital literacy; and expanded partnerships with libraries and community-based organizations to deliver tech training and support directly to residents.
+
+With bold leadership and strategic investment, the Bronx can become a national model for closing the digital divide—and ensure that every resident has the tools to thrive in today’s connected economy.
+
+Introduction
+
+This report, supported by a grant from The Bronx Community Foundation, provides the most comprehensive analysis to date of available data on digital equity in the Bronx, and examines what more will be needed—from city policymakers, state leaders, and local institutions and community organizations—to bridge the borough’s digital divide. The analysis is informed by an extensive analysis of U.S. Census data, broadband availability reports, NYC Open Data, and interviews with more than 20 Bronx-based leaders in education, workforce development, digital literacy, immigrant services, and higher education.
+
+Since 2020, The Bronx Community Foundation has led one of the most comprehensive local responses to digital inequity in the borough. Through its coordination of the Bronx Digital Equity Coalition, distribution of thousands of devices, and direct investments in community-based organizations, BxCF has played a central role in both emergency response and long-term strategy to close the digital divide.
+
+For years, efforts to close this divide have largely focused on expanding broadband infrastructure. And while that investment has yielded real progress—most Bronx neighborhoods are now wired for high-speed internet—deep inequities remain. This report finds that the borough’s digital divide is driven by three interrelated challenges: (1) low rates of broadband adoption and affordability, (2) limited access to internet-enabled devices, and (3) persistent gaps in computing education and digital literacy. Our research makes clear that closing the digital divide in the Bronx will require coordinated action across all three areas.
+
+Affordability remains the greatest barrier to broadband internet adoption.
+
+More than one in five households in the Bronx—over 131,700—still lack broadband access, and in neighborhoods like Morris Heights & Mount Hope, nearly than one in four remain disconnected.7 Meanwhile, more than 113,000 Bronx households (19.2 percent of all households) rely solely on a smartphone for home internet access, facing data caps, slower speeds, and cost constraints of phones that limit their ability to fully participate in work and school.
+
+For years, one of the key barriers to connectivity was a lack of broadband infrastructure in the Bronx. And while problems remain—including individual buildings not yet wired for broadband and limited competition in some areas—nearly 99.8 percent of the Bronx is now wired for high-speed internet.8 Yet broadband adoption in the borough continues to lag the rest of the city.
+
+Today, affordability is the biggest obstacle when it comes to internet connectivity in the Bronx. Fully 31 percent of households earning $35,000 a year or less are still offline.9 And the Bronx has the highest Internet cost burden of any borough, with broadband service consuming twice as much household income in the Bronx (1.1 percent) as in Manhattan (0.53 percent).10 Cost is an especially steep challenge in a borough with the lowest median household income in the city—under $30,000 annually in neighborhoods such as Melrose and Mott Haven.11
+
+The Bronx’s overwhelming reliance on the now-expired Affordable Connectivity Program (ACP) underscores the depth of the borough’s broadband affordability crisis. At its peak, 243,275 Bronx households—nearly 44 percent of all households—were enrolled in the program, the highest participation rate of any borough.12 With ACP no longer available, thousands of families are now forced to make difficult choices between paying for internet service or covering rent, groceries, and other basic necessities.
+
+Recent policy changes have opened important new opportunities to expand broadband access for New Yorkers who struggle to afford it. After years of legal challenges, New York’s Affordable Broadband Act (ABA) took effect in 2025, requiring internet service providers to offer discounted plans to low-income households—$15 per month for speeds of 25 Mbps and $20 per month for 200 Mbps. This represents a significant step toward making broadband more affordable. But Bronx-based leaders say that more will be needed to ensure that residents benefit from these plans—and to guard against a new divide based on bandwidth, as rising digital demands make faster connections increasingly essential.
+
+Public Wi-Fi, libraries, and community organizations are stepping up to fill in some gaps. With hundreds of thousands of Bronx residents still lacking reliable home internet, public Wi-Fi networks, libraries, and community-based organizations have stepped in to meet urgent needs and are playing an increasingly vital role in keeping Bronxites connected. 
+
+LinkNYC, the city’s free public Wi-Fi initiative, has installed more than 200 Wi-Fi-enabled kiosks and smart poles in the Bronx west of the Bronx River Parkway—public terminals offering free high-speed Wi-Fi within a range of 150 to 500 feet. Usage data shows the need for this service and access: in November 2024, Bronx residents had the second-highest volume of LinkNYC Wi-Fi traffic among any borough, uploading and downloading over 180,000 GB of data. The city has also partnered with LinkNYC and The Bronx Community Foundation to launch the Bronx Gigabit Center in the historic Andrew Freedman Home as a free, public community tech hub that provides free public Wi-Fi and digital literacy workshops for local residents, powered by LinkNYC. In a borough where 52 percent of residents report running out of mobile data at least once a month, free public Wi-Fi is essential—especially for those without reliable internet at home.13
+
+Public libraries are on the front lines of expanding digital access in the Bronx, offering essential connectivity for residents with limited broadband options at home. In FY24, Bronx libraries recorded over 430,000 Wi-Fi sessions, underscoring their role as vital internet access points. In 2022, the New York Public Library (NYPL) launched the “Free Home Wi-Fi from the Library” pilot, which used Citizens Broadband Radio Service technology to deliver in-home wireless service to residents living near select library buildings. While the pilot generated strong interest—especially at community engagement events—its reach was limited by narrow coverage zones, resulting in just 81 total checkouts in the Bronx. Building on that effort, the NYC Department of Housing Preservation and Development (HPD) and NYPL recently launched Neighborhood Internet, a new initiative that will bring Wi-Fi to over 2,000 Section 8 households in the Bronx and Upper Manhattan—a promising initial step in a borough that’s home to over 15,000 Section 8 households, the most of any borough.14
+
+Some community groups have stepped in by installing public WiFi networks in their own neighborhoods. Small-scale but promising, mesh networks, like the Hunts Point Community Network, are made up of decentralized access points that form a community-managed broadband system. These networks can offer affordable, resilient service, but scaling them remains a challenge, especially in neighborhoods where residents have fewer resources to maintain the infrastructure.
+
+The city has also taken steps to boost adoption among NYCHA residents through the Big Apple Connect program, which provides free high-speed internet to NYCHA residents. However, the program costs about $40 million annually via short-term contracts with Charter Communications and Altice USA, which presents challenges for its sustainability.
+
+Schools and colleges also play a vital role in getting people connected, but for many students, the gap is most visible when they go home, during holidays, and over the summer. “There’s a huge drop in services and resources the minute students leave campus,” says Lawrence Fauntleroy, director of experiential learning at Lehman College. “When they go home, and their household has the cheapest data plan they can afford, and multiple people are on the Wi-Fi, the internet slows down—and their digital access falls behind.”
+
+Despite these important efforts, Bronx leaders say they fall far short of what’s needed to ensure that all Bronx residents have access to affordable high-speed internet service that will keep pace with growing demands for bandwidth.
+
+Bronx residents need more computers at home.
+
+Expanding broadband adoption is a crucial step in closing the digital divide, but many Bronx households still lack the most essential tool for meaningful digital participation: a computer. Nearly one in three Bronx households—over 184,000 in total—does not have a computer at home, leaving many residents unable to access the internet or reliant on only smartphones. While smartphones are useful for basic tasks, they fall short for everything from submitting job and housing applications to accessing city services, completing schoolwork, attending virtual classes, and working remotely—limiting full participation in today’s digital world.
+
+With so many without computers at home, Bronx residents frequently turn to libraries, schools, and community organizations for access. However, the borough’s public computing infrastructure is severely limited. With only 103 public computing centers, the Bronx has the second-fewest of any borough after Staten Island.15 Many of these centers are in public libraries, which collectively provide 2,396 public computers across their branches in the Bronx—a vital digital lifeline that still falls far short of meeting the need.16
+
+Schools also serve as a major source of device lending, often providing students with the only computer in their household. But devices are frequently shared among family members, which limits access and leads to wear and tear. At the same time, computer access is often lost during the summer months when most school-issued devices are reclaimed. At Comp Sci High, unlike most schools, students are issued Chromebooks that they keep year-round—but the strain of multiple users takes a toll.
+
+“The quality of the devices is questionable,” says Albert Paez, director of workplace learning. “They work well for the first two years, but since they’re often the primary tech access point at home, younger siblings use them, parents use them. By junior or senior year, many of the devices are falling apart.”
+
+Beyond schools and libraries, few organizations are able to lend devices for home use. “For the most part, we do not lend devices,” says Diya Basu-Sen, executive director of Sapna NYC, a Bronx-based nonprofit that supports South Asian immigrant women. “We’ve been able to connect some of our highest-need families—including domestic violence survivors and undocumented families—with a few donated laptops. But we’d like to do more because there’s a real need. We just haven’t found as many places [that will] donate devices.”
+
+During the COVID-19 pandemic, The Bronx Community Foundation launched one of the largest local relief efforts in New York City, raising $10 million and distributing over 2,000 laptops and Wi-Fi hotspots to students and families across the borough.
+
+Even organizations that provide on-site computer access struggle to meet demand. At the SUNY Bronx Educational Opportunity Center (EOC), ATTAIN Lab Coordinator Avery Brandon estimates that 80 percent of students do not own a laptop, leading to severe overcrowding in the school’s only functional computer lab.
+
+“We don’t have enough computers,” says Brandon. “My lab is the only one working right now, so it has to accommodate multiple programs, not just my own. When the lab gets busy, we’ve had to assign multiple students to a single laptop. And when too many people are online, the internet slows down dramatically. Teachers and students get frustrated. It hinders academic progress—students just want to get their work done.”
+
+And computer hubs at some community organizations rely on donations. At Sapna NYC, laptop donations allowed the organization to expand its digital skills programming. “When we first started, we were fully reliant on the library,” says Basu-Sen. “Receiving laptop donations meant we could host classes in our offices. Having the laptops means that we can offer more classes, like evening classes that work better for many students’ schedules.”
+
+The Bronx is home to several highly effective tech education, training, and digital literacy organizations with room to grow.
+
+While device access and reliable, affordable broadband are critical to closing the digital divide, perhaps the greatest need is for expanded tech education and digital literacy—skills that enable residents to navigate connectivity challenges, access essential services, and seize new opportunities. Fortunately, the Bronx is home to several highly effective tech education and training organizations—as well as K-12 schools and colleges—equipping residents with digital skills and, in many cases, setting them on pathways to well-paying jobs. However, despite strong demand, many initiatives struggle with resource constraints, limited partnerships, and capacity challenges. At the same time, even effective programs can go undersubscribed without greater efforts to meet people where they are, whether that means offering programs in trusted community spaces, in multiple languages, or on flexible schedules.
+
+The New York Public Library is the largest provider of community-based tech education in the Bronx, but it is underutilized.
+
+The New York Public Library (NYPL) is the largest provider of community-based tech education in the Bronx, offering free digital skills training and device access through its TechConnect program. Covering everything from computer basics to advanced coding boot camps, TechConnect helps New Yorkers build confidence in an increasingly digital world and improve their job prospects. The Bronx is home to two TechConnect Hubs—the Bronx Library Center in Fordham Heights and the Parkchester Library—and both are equipped with community computer labs and hands-on support from tech experts.
+
+Despite the program’s citywide impact, NYPL reports that fewer enrollment-based programs are offered in the Bronx due to lower turnout and staffing constraints. Part of this challenge is a lack of awareness about available services among residents. “We are trying to meet people where they are," says Dr. Brandy McNeil, deputy director of branch and program services, at NYPL. "We want to reach the people who do not come to the library. But we need our community partners—like NYCHA and other local organizations—to provide space for our tech helpers.” To expand its reach, NYPL is partnering with the city’s Department of Housing Preservation and Development and the city’s other library systems to pilot Neighborhood Tech Help, an in-person program providing one-on-one digital support to Section 8 residents at select housing developments and community centers.
+
+Stronger partnerships between libraries and community-based organizations can significantly improve outreach and raise awareness of what libraries have to offer. Efforts to strengthen these partnerships are gaining momentum through initiatives like the Bronx Digital Equity Coalition. “Westchester Square Library is on a side street, and many people never even knew it was there,” says Basu-Sen of Sapna NYC. “Through our partnership, our students are now engaged with the library system and connected to its many resources.”
+
+Community-based organizations address the unique digital needs of the communities they serve, with limited support and coordination.
+
+Trusted, culturally competent community-based organizations (CBOs) are essential to closing the digital divide in many of the Bronx’s highest-need neighborhoods—but they’re often scraping by with limited funding and little coordination from the city to help scale their impact or integrate their work into broader digital inclusion efforts.
+
+“Only half of our beginner students had ever used a computer before starting the program,” says Basu-Sen. “Without relationships with immigrant communities, many people fail to recognize just how limited computer access can be for some New Yorkers.”
+
+Since 2019, Sapna NYC has dramatically expanded its digital literacy programs, growing from just three computer classes and a few dozen students to 13 classes serving over 200 students today. Basu-Sen urges the city to build on this model by adopting a neighborhood-based approach—providing trusted CBOs with the devices, curricula, workforce training grants, and funding needed to deliver digital literacy training directly in their communities. “Seventy-seven of our beginner students had never taken a computer class before,” says Basu-Sen. “That tells you people are being left behind by the current system.”
+
+The Bronx Community Foundation has demonstrated how trusted CBOs can be scaled through targeted investments. Through its digital equity grants, the Foundation has helped frontline organizations acquire tech equipment, hire instructors, and build culturally responsive curriculum. These efforts have enabled partners to increase reach and reduce digital illiteracy among immigrant, older adult, and low-income residents—but coordinated city and state support will be needed to meet the full scale of the need across the borough.
+
+Job training programs are expanding access to tech careers, but face challenges scaling up.
+
+Bronx-based nonprofits like The Knowledge House and Per Scholas offer high-quality tech training programs that equip students with in-demand skills and connect them to well-paying jobs in tech and tech-related roles across industries. Yet these programs currently reach only a few dozen to a few hundred Bronx residents each year, far short of the potential demand. A key barrier is inflexible and inadequate public funding, with reimbursement rates that fall far short of covering the true cost of delivering these intensive programs. In addition, thousands of Bronx residents require more foundational reading, writing, and math support to access career-focused training—highlighting the need for stronger bridges into advanced programs. And in a borough with the city’s highest poverty rates, wraparound supports like childcare and training stipends are essential to making these programs accessible and effective.
+
+For the past 30 years, Per Scholas has provided tuition-free, rigorous tech training to Bronx residents, helping students build the skills needed for meaningful careers in tech. At any given time, up to 200 learners are enrolled in its Bronx programs.
+
+Similarly, The Knowledge House works to help underserved young Bronx residents develop increasingly necessary tech skills for jobs in the tech sector and beyond. The demand for programs like these is strong, and The Knowledge House has struggled with scaling up to meet it. “We had 1,000 applications last year, but we can only recruit 185,” says Jerelyn Rodriguez, executive director of The Knowledge House. “We are seeing increased demand everywhere. The issue is we don’t have enough resources to serve more people yet.”
+
+For many students, financial and personal barriers—rather than academic challenges—are the greatest obstacles to completing workforce training programs. While many programs are tuition-free, the cost of rent, childcare, and basic living often forces students to choose between pursuing a long-term career and meeting immediate financial needs.
+
+As effective programs grow, sustaining wraparound services becomes more difficult. “When we were smaller, we had the resources to provide a lot of support services,” says Rodriguez of The Knowledge House. “But as we’ve grown, we just don’t have the funding to meet folks where they are. It would be great if the government could play a role in that.”
+
+Computing education is reaching more K-12 students, but significant gaps remain in the Bronx.
+
+Despite a decade-long effort to expand computer science education in K-12 schools—the CSforAll initiative—access for Bronx students continues to lag the rest of the city. In 2023, only 11.5 percent of Bronx students—just 20,274 in total—were enrolled in a computer science class, the lowest share among the five boroughs. Although computer science enrollment in the Bronx has grown by 131.7 percent since 2016, citywide enrollment expanded nearly twice as fast over the same period (+224.4 percent), highlighting the borough’s persistent gap in computing education opportunities across K-12.
+
+Closing these persistent gaps starts with exposing students to computing and digital literacy at an early age—building their confidence and comfort with tech that can shape paths through high school, college, and into the workforce. But a key barrier remains: too few teachers are equipped to integrate even basic computing concepts in K-12 classrooms. Without better training and support for educators, too many students will continue to miss out on the digital skills that are now essential in virtually every field and for not only experiencing, but shaping, an increasingly tech-powered world.
+
+Outside of K-12 schools, nonprofits serve as crucial conduits to tech education. At NYC First, a tech education program that offers creative, hands-on learning in engineering and robotics for elementary through high school students, interest is so strong that students overflow the organization’s state-of-the-art STEM Center in the Andrew Freedman Home.
+
+“Students come in such numbers that they spill into the hallway,” says Michael Zigman, executive director of NYC First. “We’re trying to expand hours because of the demand. Right now, we’re open five days a week until 7 p.m., but I’d love to be open seven days a week until 10 p.m.” However, staffing constraints remain a major barrier to greater impact. “Aside from raising money, finding qualified staff is one of the biggest challenges that organizations like ours have,” says Zigman. “You want a mix of people who are technically savvy, good at teaching, and connect with students. It’s not easy to find.”
+
+CUNY’s Bronx colleges are producing more tech-degree graduates, but support is required to boost career outcomes.
+
+Growing the number of CUNY students earning tech degrees and getting on the path to tech careers has been a growing priority for the city in recent years. The CUNY 2X Tech initiative, originally designed to double the number of computer science graduates across CUNY, has evolved to focus not just on enrollment, but on boosting career success—through programs like the Tech Talent Pipeline Residency, Tech in Residence Corps, and CUNY Tech Prep, which have significantly improved students' internship and job placement rates. But significant gaps remain in the Bronx—especially at community colleges, where investments could help far more Bronx students succeed.
+
+At Lehman College—the Bronx’s only CUNY senior college and the only campus with a CUNY 2X Tech program—enrollment in digital programs grew by 45 percent over the past seven years, from 490 students in 2016 to 712 in 2023. Computer science programs are leading that growth, with 463 students enrolled in 2023. Meanwhile, total enrollment among Lehman’s bachelor’s degree-seeking students saw no growth over the same period, making tech students increasingly central to the college’s future.
+
+However, CUNY 2X Tech has not yet expanded to Bronx Community College or Hostos Community College—a missed opportunity to broaden access to tech careers for many of the borough’s lowest-income college students. As one sign of the inadequate resources, tech degree completions fell by 11.1 percent at Bronx Community College and 7.1 percent at Hostos between 2019 and 2023.
+
+Investments in paid internships and industry partnerships can’t keep pace with demand.
+
+While several Bronx-based organizations are expanding access to computing education, helping students transition into full-time careers requires stronger industry partnerships and real-world work opportunities—especially as many employers scale back diversity initiatives.
+
+“Placing students in internships last summer was challenging, as some companies began pulling back their internship programs,” says Paez of Comp Sci High. Other organizations share similar concerns. “Now, there’s less appetite for volunteering with organizations like ours with the attack on DEI,” says Rodriguez of The Knowledge House. “If we were able to equip each student with a mentor throughout the whole program, that would drastically increase retention.”
+
+Another obstacle to expanded employer partnerships is the limited presence of tech companies in the Bronx. For students who secure paid internships and jobs, many opportunities are found outside the borough and often require long commutes of an hour or more. While the Bronx may not have a tech sector on the scale of Manhattan, Brooklyn, or even Queens, it is home to key industries like healthcare and logistics that are increasingly hiring for tech jobs. Some local leaders say that building on these growing sectors could help attract more tech employers to the Bronx—and with them, more opportunities for work-based learning and career advancement.
+
+Recommendations: Closing the Bronx’s Digital Divide
+
+To ensure that Bronx residents can fully participate in an increasingly tech-powered economy—and access everything from education and healthcare to jobs and public services—policymakers should do far more to close the borough’s persistent digital divide.
+
+Launch a Bronx Digital Equity Plan. City and state leaders should develop and fund a Bronx Digital Equity Plan—a bold, borough-specific strategy to close the city’s most severe digital divide. The plan should chart a clear path forward in three key areas: broadband adoption, device access, and digital literacy and tech education.
+
+To ensure measurable progress, the plan should include ambitious but achievable goals: cut in half the number of Bronx households without broadband and without a computer at home; expand public Wi-Fi availability and the number of public computing centers; and significantly grow investment in evidence-based approaches to K–12, CUNY, and adult-focused digital literacy and tech training.
+
+Crucially, the plan must include dedicated funding and technical assistance to enable community-based organizations to participate meaningfully in both the design and implementation of this initiative. Without trusted local partners, many of the Bronx residents facing the greatest barriers to digital inclusion could remain disconnected, despite broader efforts.
+
+This plan should include the following key components:
+
+Boost Broadband Adoption
+
+Launch a targeted campaign to enroll residents in affordable broadband plans. The city should lead a borough-wide outreach initiative to sign up eligible Bronx households for $15-per-month internet plans now available under New York’s Affordable Broadband Act. Building on the Bronx’s strong enrollment numbers under the Affordable Connectivity Program, the campaign should partner with NYPL branches, NYCHA developments, schools, and trusted CBOs to reach residents where they are.
+
+Scale up community-based broadband access models. To ensure more sustainable and equitable connectivity, the city should invest in community-driven approaches to expanding internet access. This includes expanding HPD’s Neighborhood Internet initiative in partnership with every Bronx branch library; supporting community-managed mesh networks and other forms of community-owned broadband infrastructure; expanding the Bronx Gigabit Center with additional programming and capital investment; and piloting home internet credits for high-need, high-opportunity populations—such as Bronx community college students, low-income families with school-aged children, and residents enrolled in workforce training programs.
+
+Expand Access to Computers
+
+Establish a Bronx Laptop Lending Library. With more than 184,000 households in the Bronx lacking a computer at home, the city should launch a dedicated Bronx Laptop Lending Library to get devices into the hands of those who need them most. The initiative should include a "Recycle-a-Laptop" program that solicits donations from major corporations and institutions, paired with a refurbishment pipeline—potentially run in partnership with a Bronx CUNY campus or high school—that creates a steady supply of usable laptops while offering hands-on tech experience to students. Devices could then be distributed and supported through libraries, schools, and trusted community organizations. The Bronx Community Foundation’s previous partnerships with device donors and refurbishers can be a key resource in building up the Bronx Laptop Lending Library. Their coalition model already includes organizations positioned to distribute devices equitably across neighborhoods.
+
+Extend school device lending through the summer. Many students lose access to digital tools once the school year ends, cutting them off from learning, services, and job opportunities. Extending laptop lending programs into the summer months would help ensure year-round connectivity for students and families—and reduce learning loss during critical out-of-school periods.
+
+Expand access to public computing centers. The Bronx has just 103 public computing centers—fewer than any borough except Staten Island—despite having the city’s greatest need for free, high-quality digital access. The city should provide funding to support the creation of new public computing hubs operated by trusted nonprofits, while also expanding access and capacity at existing centers, including those at SUNY’s Bronx Educational Opportunity Center, CUNY campuses, and branch libraries. These investments would help ensure more Bronx residents have reliable spaces to get online, build skills, and access essential services.
+
+Scale Digital Literacy, Computing Education, and Tech Career Training
+
+Expand CUNY 2X Tech to Bronx community colleges. CUNY 2X Tech is not only helping to double the number of students earning tech credentials—it’s also dramatically increasing rates of internship placement and job outcomes through programs like the Tech Talent Pipeline Residency, Tech in Residence Corps, and CUNY Tech Prep. Yet the initiative is still not available at Bronx Community College or Hostos Community College, despite strong student demand and declining tech degree completions at both institutions. Expanding CUNY 2X Tech to these campuses would create vital new pathways into tech careers for Bronx students and help close persistent opportunity gaps.
+
+Scale CUNY’s Computing Integrated Teacher Education (CITE) initiative. Too few Bronx students are receiving meaningful exposure to computing education. In 2023, just 11.1 percent of Bronx students were enrolled in a computer science class—the lowest share of any borough. One of the most effective ways to change this is by ensuring that every K–12 teacher is prepared to integrate computing into their classrooms. CUNY’s Computing Integrated Teacher Education (CITE) initiative is training future teachers enrolled at CUNY’s colleges of education to do exactly that. But it currently reaches only a portion of the students and colleges that would benefit. With one-third of all new public school teachers coming from CUNY, scaling up CITE is one of the city’s best opportunities to build digital literacy at the classroom level.
+
+Support and scale effective workforce development programs. Bronx-based organizations like Per Scholas and The Knowledge House are helping residents gain the skills needed for in-demand tech jobs—but capacity is limited. The city should invest in scaling proven training programs and pilot new wraparound supports such as stipends, childcare, and transportation assistance to help more students complete training and launch careers in tech.
+
+Expand NYPL’s digital equity role through community partnerships. The New York Public Library already plays a crucial role in connecting Bronx residents to digital literacy resources. To extend that reach, the city should invest in new and expanded partnerships between NYPL, community-based organizations, and affordable housing providers to bring classes, devices, and internet access directly into neighborhoods—ensuring residents can access digital resources where they live.
+
+Grow tech-enabled industries where the Bronx offers a unique competitive advantage. To create more local opportunities for Bronx students and workers, New York City Economic Development Corporation (NYCEDC) should partner with Bronx-based economic development organizations to seed and grow a stronger cluster of tech-enabled businesses in the borough. While not every tech subsector is well-suited to the local market, digital health and logistics stand out as smart starting points. Building a stronger employer base closer to home can help connect more Bronx residents to work-based learning and career opportunities in tech.
+
+Endnotes
+
+1. Center for an Urban Future analysis of data from the 2023 American Community Survey (ACS) 1-Year Estimates.
+
+2. Center for an Urban Future, “Preparing for the End of the Affordable Connectivity Program in NYC,” May 2024.
+
+3. Center for an Urban Future analysis of data from the 2023 American Community Survey (ACS) 5-Year Estimates.
+
+4. Center for an Urban Future analysis of data from 2016 and 2023 New York City Department of Education Local Law 177 data.
+
+5. Data collected through interviews with leaders at the New York Public Library.
+
+6. Center for an Urban future analysis of CUNY Registered Programs Inventory. 
+
+7. Center for an Urban Future analysis of data from the 2023 American Community Survey (ACS) 1-Year Estimates and 5-Year Estimates.
+
+8. Center for an Urban Future analysis of data from the Federal Communications Commission’s National Broadband Map. Approximately 99.7 percent of Bronx housing units have access to at least 250 mbps download speeds.
+
+9. Center for an Urban Future analysis of data from the 2019-2023 5-year ACS. This includes households with neither broadband nor cellular data.
+
+10. Federal Reserve Bank of New York analysis of data from The MarkUp. https://www.newyorkfed.org/medialibrary/media/outreach-and-education/household-financial-stability/digital-equity-in-the-us-northeast-puerto-rico-and-the-us-virgin-islands
+
+11. Center for an Urban Future analysis of data from the 2019-2023 ACS.
+
+12. Center for an Urban Future, “Preparing for the End of the Affordable Connectivity Program in NYC,” May 2024.
+
+13. Data collected through interviews with LinkNYC.
+
+14. Data collected through interviews with NYPL.
+
+15. Center for an Urban Future analysis of data from NYC Open Data, “Citywide Public Computer Centers”
+
+16. Data collected through interviews with NYPL.
+
+Understanding and Overcoming the Bronx Digital Divide is a publication of the Center for an Urban Future. Researched and written by Rachel Neches and Eli Dvorkin. Additional research by Nicholas Caruso. Photo by Jonathan Blanc/New York Public Library.
+
+Center for an Urban Future (CUF) is a leading New York City-based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy. This report was supported by a grant from the Bronx Community Foundation. General operating support for the Center for an Urban Future has been provided by The Clark Foundation and the Altman Foundation.
+
+Related Press
+
+City Pilot Aims to Bring Free Wi-Fi to Thousands of Low-Income Households
+
+The City,
+by Katie Honan,
+July 23, 2025
+
+Digging into the biggest broadband barriers in the Bronx
+
+The Divide,
+by Nicole Ferraro,
+August 18, 2025
+
+NYC to give students 350,000 Chromebooks
+
+StateScoop,
+by Sophia Fox-Sowell,
+September 08, 2025
+
+Bronx Lags in Digital Access and Education, Report Finds
+
+The City,
+by Jonathan Custodio,
+July 08, 2025
+
+It’s 2025, but a quarter of Bronx families don’t have broadband internet at home
+
+WNYC Morning Edition,
+by Karen Yi,
+August 19, 2025
+
+NYC, T-Mobile to Distribute 350K Chromebooks to K-12 Schools
+
+GovTech,
+September 10, 2025
+
+Overcoming The Bronx’s Digital Divide
+
+The Bronx Daily,
+July 14, 2025
+
+NYC immigrants want safer, better-paying work. A major hurdle: building digital skills.
+
+Gothamist,
+by Karen Yi,
+August 26, 2025
+
+Mayor Adams Launches Chromebook Initiative to Equip 350,000 NYC Students
+
+stupidDOPE,
+by LeVar Thomas,
+September 10, 2025
+
+Mayor Adams, HPD, NYPL Announce new Program to Deliver Free and Low-Cost Wi-Fi
+
+Office of NYC Mayor Eric Adams,
+July 23, 2025
+
+NYC Expands ‘Neighborhood Tech Help’ Pilot Program to Bronx and Upper Manhattan
+
+Vision Times,
+by Todd Crawford,
+August 26, 2025
+
+We are ending NYC’s tech digital divide
+
+New York Daily News,
+by Matthew Fraser,
+September 27, 2025
+
+Thoughts on Reliable Internet Access in The Bronx in Wake of Recent CUF Report
+
+Norwood News,
+by David Greene,
+July 24, 2025
+
+This school year, end the city’s digital divide
+
+New York Daily News,
+by Derrick Lewis,
+September 05, 2025
+
+OTI Celebrates Digital Inclusion Week with Festivities at Civic Hall
+
+NYC Office of Technology and Innovation,
+October 06, 2025
+
+NYC Mayor Announces Program to Deliver Free and Low-Cost Wi-Fi to Low-Income Residents
+
+Broadband Breakfast,
+by Jennifer Michel,
+July 25, 2025
+
+Mayor Adams to Distribute 350,000 Free, Brand-New Chromebooks With Internet Access to Students
+
+Office of NYC Mayor Eric Adams,
+September 08, 2025
+
+Bronx Small Businesses Turn To Digital Payments As Crypto Interest Rises Citywide
+
+The Bronx Daily,
+January 21, 2026
+
+NYPL and Nos Quedamos tackle the Bronx’s digital divide with free wifi to nearby buildings
+
+Bronx Times,
+by Sadie Brown,
+July 29, 2025
+
+Adams announces free Chromebooks for 350,000 NYC students this school year
+
+Bronx Times,
+by Emily Swanson,
+September 08, 2025
+
+Mayor Mamdani and Rep. Ritchie Torres announce $2M to expand high-speed internet in The Bronx and Upper Manhattan
+
+Bronx Times,
+by Marina Samuel,
+May 04, 2026
+
+It’s 2025, but a quarter of Bronx families don’t have broadband internet at home
+
+Gothamist,
+by Karen Yi,
+August 18, 2025
+
+350K NYC Students Will Receive Free, Brand-New Laptops This School Year: Mayor
+
+Patch,
+by David Luces,
+September 08, 2025
+
+Bronx tech workshops help older adults stay connected in a digital world
+
+The Riverdale Press,
+by Michelle Mullen,
+May 15, 2026
+
+This report was made possible through support from the Bronx Community Foundation.
+
+ Related Publications
+
+7150|7075
+
+50 Ideas for a Stronger and More Equitable Bronx
+
+Boosting Tech Career Success for CUNY Students: Doubling Down on CUNY 2X Tech
+
+Related Press
+
+City Pilot Aims to Bring Free Wi-Fi to Thousands of Low-Income Households
+
+The City
+
+Digging into the biggest broadband barriers in the Bronx
+
+The Divide
+
+NYC to give students 350,000 Chromebooks
+
+StateScoop
+
+Bronx Lags in Digital Access and Education, Report Finds
+
+The City
+
+It’s 2025, but a quarter of Bronx families don’t have broadband internet at home
+
+WNYC Morning Edition
+
+View More Related Press
+
+Related Press
+
+City Pilot Aims to Bring Free Wi-Fi to Thousands of Low-Income Households
+
+The City
+
+Digging into the biggest broadband barriers in the Bronx
+
+The Divide
+
+NYC to give students 350,000 Chromebooks
+
+StateScoop
+
+Bronx Lags in Digital Access and Education, Report Finds
+
+The City
+
+It’s 2025, but a quarter of Bronx families don’t have broadband internet at home
+
+WNYC Morning Edition
+
+Search
+
+Search
+
+@nycfuture
+
+Follow @nycfuture 
+
+CUF in the News
+
+Expand Pathways To Affordable Home Ownership From Harlem And Beyond
+
+Harlem World
+
+InfluenceWatch Friday
+
+Capital Research Center
+
+NYC Housing Calendar, July 13-20
+
+City Limits
+
+Can America’s Best Engine of Social Mobility Weather a Bad Job Market?
+
+The New York Times
+
+What Today’s College Students Need That Previous Generations Didn’t
+
+The Good Men Project
+
+City Council funds free OMNY cards for over 1,000 CUNY students in city budget deal
+
+amNY
+
+Brooklyn’s Tech Boom Spurs Surge In Luxury Housing Demand
+
+CRE Daily
+
+View More Press
+
+© All Rights Reserved.
+
+Content
+
+ReportsCommentary/Op-EdTestimonyDataEventsImpact
+
+Topics
+
+Economic GrowthEconomic OpportunityEntrepreneurshipImmigrantsBoroughsSmall BusinessHuman CapitalHigher EducationCreative EconomyTech
+
+Follow
+
+Support
+
+Internships
+
+Support the Center
+
+Contact
+
+Center for an
+
+Urban Future
+
+80 Eighth Avenue, Suite 704
+
+New York, NY 10011
+
+212-479-3344
+
+[email protected]
+
+© All Rights Reserved.
+
+Search
+
+x

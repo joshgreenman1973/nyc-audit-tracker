@@ -1,0 +1,63 @@
+{
+  "id": "2025-10-23-citizensunion-council-electioneering-mailers-explainer",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Why Am I Getting Electioneering Mailers from the City Council? An Explainer",
+  "plain_title": "Explainer on Council mailers about the 2025 ballot questions",
+  "agency": "New York City government",
+  "issued": "2025-10-23",
+  "url": "https://citizensunion.org/document/2025-10-23/why-am-i-getting-electioneering-mailers-from-the-city-council-an-explainer/",
+  "pdf": "",
+  "what_they_audited": "An explainer from Citizens Union setting out what New York City law says about using public money to campaign on ballot questions, written in the context of the City Council's campaign against three housing-related proposals on the November 2025 ballot.",
+  "background": "The 2025 Charter Revision Commission put four housing and land use proposals on the November 2025 ballot. The Council campaigned against three of them with mailers, a website, digital ads, community board presentations, rallies and press conferences.",
+  "findings": [
+    {
+      "plain": "The Council's campaign against ballot questions 2, 3 and 4 included mailers to thousands of households, a website and social media toolkit, digital ads, community board presentations and public rallies. Media reports put the mailer spending at up to $2 million.",
+      "quote": "Media reports suggest the Council paid up to $2 million to send out those mailers."
+    },
+    {
+      "plain": "Section 1136.1 of the City Charter bars public servants from using government funds or resources for a public communication containing an electioneering message, defined as a statement designed to urge the public to support or oppose a referendum question. The ban covers all elected officials, officers and city employees.",
+      "quote": "governmental funds or resources for a public communication that contains an electioneering message"
+    },
+    {
+      "plain": "The Council says its materials are meant to educate the public rather than advocate a result, and the mailers avoid phrases such as vote against, defeat or reject. Citizens Union writes that taken at face value the materials are intended to urge opposition.",
+      "quote": "Taken at face-value these materials are clearly intended to urge the public to oppose the ballot questions."
+    },
+    {
+      "plain": "Three city bodies could in principle regulate this activity but none has stepped in. The Campaign Finance Board regulates candidate campaigns and independent expenditures rather than government communications, and Department of Investigation inquiries are confidential.",
+      "quote": "There are a few, but none have stepped in to regulate this activity:"
+    },
+    {
+      "plain": "The Conflicts of Interest Board can interpret and enforce only Chapter 68 of the City Charter, while the ballot question electioneering ban sits in Chapter 49. Press reports say the board advised the Council that the Chapter 68 rule applies only to campaigns involving candidates or parties.",
+      "quote": "while the explicit ban on ballot question electioneering appears in Chapter 49 of the City Charter."
+    },
+    {
+      "plain": "The Council ran a similar campaign against ballot questions from a prior Charter Revision Commission in 2024, and a Council member filed a complaint with the Department of Investigation alleging a violation of the electioneering law.",
+      "quote": "In 2024, the City Council ran a similar campaign against ballot questions proposed by a prior Charter Revision Commission."
+    },
+    {
+      "plain": "Intentional or knowing violations of the electioneering ban are punishable as misdemeanors under the Charter.",
+      "quote": "intentional or knowing violations of the electioneering ban are punishable as misdemeanors"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$2 million",
+      "label": "Reported Council spending on the mailers"
+    },
+    {
+      "value": "1136.1",
+      "label": "City Charter section banning electioneering messages"
+    }
+  ],
+  "recommendations": [
+    "Amend the City Charter either to let the Conflicts of Interest Board enforce ethics provisions outside Chapter 68 or to move the electioneering ban into Chapter 68 so the board can enforce it directly."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency"
+  ],
+  "is_followup": false
+}
