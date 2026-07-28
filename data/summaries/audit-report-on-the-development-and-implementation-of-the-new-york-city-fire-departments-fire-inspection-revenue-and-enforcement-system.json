@@ -1,0 +1,87 @@
+{
+  "id": "audit-report-on-the-development-and-implementation-of-the-new-york-city-fire-departments-fire-inspection-revenue-and-enforcement-system",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the Development and Implementation of the New York City Fire Department’s Fire Inspection Revenue and Enforcement System",
+  "plain_title": "The Fire Department's $18.4 million inspection software fell short",
+  "agency": "New York City Fire Department",
+  "issued": "2025-01-08",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-development-and-implementation-of-the-new-york-city-fire-departments-fire-inspection-revenue-and-enforcement-system/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/SI23-105A.pdf",
+  "what_they_audited": "Whether the Fire Inspection Revenue and Enforcement System (FIRES), the software the Fire Department (FDNY) paid contractor GCOM Software about $18.4 million to build for scheduling inspections, processing violations and collecting fees, meets its goals and handles information reliably and securely.",
+  "background": "The Fire Department previously ran inspections, violations and billing on paper forms, phone calls, spreadsheets and a 30-year-old unsupported mainframe system. It contracted with GCOM in 2016 to build a replacement, paid Gartner another $5.5 million for quality assurance and project oversight and launched the new system in September 2021.",
+  "findings": [
+    {
+      "plain": "The department never made its contractor deliver key inspection and enforcement functions required by the contract, yet still gave the vendor positive performance ratings across seven evaluations.",
+      "quote": "FDNY gave GCOM ratings of satisfactory, good, or excellent, and did not hold GCOM accountable for its performance."
+    },
+    {
+      "plain": "Automated inspection scheduling and routing was never fully built. Supervisors still juggle Outlook calendars and spreadsheets, the system automatically cancels inspections nobody finalizes within 45 days and a May 2024 report showed 49,834 inspections past due.",
+      "quote": "49,834 inspections are past due"
+    },
+    {
+      "plain": "Enforcement work is still largely manual. Summonses are issued on paper and hand-delivered to court, and the department paid in full for a $190,500 electronic interface for hearing dispositions that was never implemented.",
+      "quote": "GCOM received full payment for this work, which was not performed."
+    },
+    {
+      "plain": "The department could not show the system was properly tested before launch. The only test report provided said testing could not be completed because of significant defects, and there was no documented approval of final test results.",
+      "quote": "due to the unacceptable amount of defects, lack of confidence of the stakeholders and untested functionalities, it was decided that there will be another round of SIT and UAT"
+    },
+    {
+      "plain": "When the scope of work was cut, the department did not reduce the contract price. Instead $506,928.44 was shifted to vaguely defined enhancements without the price and cost analysis city rules require.",
+      "quote": "the $506,928.44 was reallocated to milestones 17–20"
+    },
+    {
+      "plain": "Users are unhappy. About a quarter of surveyed department staff and public users were dissatisfied overall, a third of staff said the system does not let them work easily and efficiently and inspectors reported frequent connectivity failures in the field, which auditors also observed.",
+      "quote": "approximately 25% of respondents were overall dissatisfied or very dissatisfied with FIRES"
+    },
+    {
+      "plain": "The system ran on an unsupported software version for two years after launch, missing vendor updates that included stronger password enforcement and multi-factor authentication and exposing sensitive data to greater risk.",
+      "quote": "FDNY did not update FIRES for two years and operated in an unsupported version of Accela"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$18.4 million",
+      "label": "Paid to GCOM to build the system"
+    },
+    {
+      "value": "$5.5 million",
+      "label": "Paid to Gartner for quality assurance and oversight"
+    },
+    {
+      "value": "49,834",
+      "label": "Inspections past due as of May 2024"
+    },
+    {
+      "value": "$190,500",
+      "label": "Paid for an electronic interface never implemented"
+    },
+    {
+      "value": "$506,928.44",
+      "label": "Reallocated in the contract without required cost analysis"
+    },
+    {
+      "value": "33.1%",
+      "label": "Staff saying the system is not easy or efficient to use"
+    }
+  ],
+  "recommendations": [
+    "Consult with legal counsel about available contract remedies for system functions that were paid for under the contract but never developed, tested or approved.",
+    "Consult with the fire prevention and fire operations bureaus on business needs, fully implement automated inspection scheduling and routing based on inspector availability and require all units to use it.",
+    "Add a feature that automatically alerts units when an inspection needs scheduling and disable the feature that cancels inspections not assigned within a set time.",
+    "Consult with the Bureau of Legal Affairs and implement functions and two-way interfaces to automate summons issuance and transmission, court date and inspector scheduling, hearing disposition updates and appeals.",
+    "Conduct refresher training for all system users.",
+    "Consider the survey results, solicit more feedback from internal and external users and promptly address concerns about ease of use, functionality, connectivity and customer service.",
+    "Ensure future system development and testing contract requirements are fully met and results are approved and documented before deployment.",
+    "Ensure department information systems continuously receive updates to improve functionality and optimize workflow."
+  ],
+  "agency_response": "The Fire Department agreed with four recommendations, partially agreed with one and disagreed with three, and it disputed the audit's findings on system testing and the security risk of running unsupported software.",
+  "implementation_note": "",
+  "topics": [
+    "technology",
+    "public safety",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

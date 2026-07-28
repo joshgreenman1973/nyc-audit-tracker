@@ -1,0 +1,58 @@
+{
+  "id": "2026-01-20-monitor-28th-report-stop-frisk-compliance-snapshot",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Twenty-Eighth Report of the Independent Monitor: Compliance Snapshot of NYPD’s Stop, Frisk, and Search Practices",
+  "plain_title": "Stop and frisk compliance snapshot for early 2025",
+  "agency": "New York City Police Department",
+  "issued": "2026-01-20",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.01.20-974-Monitors-Twenty-Eighth-Report.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.01.20-974-Monitors-Twenty-Eighth-Report.pdf",
+  "what_they_audited": "A quarterly visual \"compliance snapshot\" updating the monitor's Twenty-Seventh Report on the New York City Police Department's (NYPD) compliance with the federal court's requirements in Floyd v. City of New York, Ligon v. City of New York and Davis v. City of New York, covering the first quarter of 2025.",
+  "background": "The report covers the first quarter of 2025 and in several slides compares it to the first quarter of 2024. It draws on the monitor team's audits of 100 stop reports per month and quarterly body-worn camera video audits, plus audits by the NYPD Quality Assurance Section, command self-inspections and first-line supervisor reviews.",
+  "findings": [
+    {
+      "plain": "In the first quarter of 2025, the monitor's audits found 86% of reported stops, 69% of frisks and 68% of searches lawful, a slight increase for frisks and searches over a year earlier that the monitor cautioned may not reflect a permanent improvement.",
+      "quote": "86% of stops, 69% of frisks, and 68% of searches were assessed as lawful"
+    },
+    {
+      "plain": "Stops officers initiated on their own observations remained far less lawful: 75% for the stops themselves, 58% for frisks during them and 47% for searches, compared with 98% lawfulness for stops from 911 or 311 radio runs.",
+      "quote": "Frisks during self-initiated stops were lawful 58% of the time"
+    },
+    {
+      "plain": "By the department's own audits, 81% of commands had stop compliance above 85%, but only 51% cleared that bar for frisks and 41% for searches, an improvement over the first quarter of 2024.",
+      "quote": "41% of commands had a compliance rate for searches greater than 85%"
+    },
+    {
+      "plain": "Supervision remained inadequate. The monitor found 14% of stops, 31% of frisks and 32% of searches unlawful, while reviewing supervisors flagged only 1% of stops, 6% of frisks and 8% of searches in the same encounters.",
+      "quote": "supervisors found that only 1% of stops, 6% of frisks, and 8% of searches"
+    },
+    {
+      "plain": "Officers failed to complete stop reports for 31% of stops identified in the monitor's audit (12 of 39), down from 44% in the first quarter of 2024, suggesting stop reporting may be improving.",
+      "quote": "31% of the stops identified in the Monitor’s audit for underreporting"
+    },
+    {
+      "plain": "Body-worn camera recording improved substantially: 96% of stops identified in the audit were recorded in their entirety, up from 82% in the first quarter of 2024.",
+      "quote": "for 96% of stops identified in the Monitor's audit"
+    },
+    {
+      "plain": "Housing Bureau officers' compliance was 80% for stops, 66% for frisks and 77% for searches, while trespass arrests showed 100% compliance on both the reason to approach and probable cause.",
+      "quote": "80% of stops, 66% of frisks, and 77% of..."
+    }
+  ],
+  "numbers": [
+    {"value": "86%", "label": "Reported stops found lawful, first quarter of 2025"},
+    {"value": "47%", "label": "Searches during self-initiated stops found lawful"},
+    {"value": "31%", "label": "Stops missing a stop report in the monitor's audit"},
+    {"value": "96%", "label": "Stops recorded in their entirety on body-worn camera"},
+    {"value": "41%", "label": "Commands with search compliance above 85%"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "The monitor found compliance rates of 86% for stops, 69% for frisks and 68% for searches in the first quarter of 2025, with self-initiated encounters and first-line supervision still falling well short: supervisors approved nearly all stops, frisks and searches including unlawful ones, suggesting continued inadequate supervision at the command level.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

@@ -1,0 +1,1062 @@
+ 
+ 
+ 
+ 
+Status Report  
+by the 
+Nunez Independent Monitor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 23, 2026  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 1 of 29
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T
+HE NUNEZ MONITORING TEAM 
+ 
+Steve J. Martin 
+Monitor 
+Elly Davis 
+Junior Analyst 
+Kelly Dedel, Ph.D. 
+Subject Matter Expert 
+Anna E. Friedberg 
+Deputy Monitor 
+Sarah Geisler 
+Junior Analyst 
+Dennis O. Gonzalez 
+Director 
+Patrick Hurley 
+Subject Matter Expert 
+Alycia M. Karlovich 
+Associate  
+Emmitt Sparkman 
+Subject Matter Expert 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 2 of 29
+ 
+i 
+Table of Contents 
+Introduction ................................................................................................................ 1 
+Current State of Affairs & Advancing the Reform Effort .......................................... 4 
+Update on Work Underway Related to LL42 ............................................................ 8 
+Developing Pilot Projects for Restrictive Housing ..................................................13 
+Next Steps ................................................................................................................16 
+Conclusion ...............................................................................................................18 
+Appendix A: Chart of Relevant Nunez Provisions...................................................19 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 3 of 29
+ 
+1 
+INTRODUCTION 
+ This report provides a status update on the work underway regarding the evaluation of 
+Local Law 42 (“LL42”), discussions with the relevant parties, and a proposal for next steps.   
+• Intersection of LL42 and the Nunez Court Orders 
+The requirements of LL421 overlap with the Nunez Court Orders in a number of 
+fundamental ways as they relate to security and operations in the jails. The provisions of LL42 
+require changes to the Department’s policies and practices regarding the use of restraints, escorts, 
+de-escalation, lock-in procedures, options for out of cell time, and restricted housing. Each of 
+these policy areas requires consultation with and/or approval from the Monitor and, in some 
+cases, the Monitor may direct the “Department to refine the initiative(s) as necessary to ensure 
+compliance with [the Nunez Court Orders]. The Department must then implement the revised 
+initiative(s), including any additional requirements from the Monitor.”
+2  Further, the recently 
+appointed Remediation Manager has authority over the Nunez Contempt provisions,3 which 
+overlap with various aspects of LL42’s requirements, including those related to the Department’s 
+Security Plan, restraints, and escorts. These requirements are summarized in the attached table in 
+Appendix A.  
+ 
+1 See the Monitor’s January 14, 2026 Report (dkt. 949) at pgs. 1-4 for a summary of the procedural 
+background of LL42. 
+2 This includes, but is not limited to, the following provisions of the Nunez Court Orders: Consent 
+Judgment, § IV , ¶  1 and ¶ 3(p), § XV , ¶ 12, and § XVI, ¶¶ 3 and 6; First Remedial Order, § A, ¶ 3 and § 
+D, ¶¶ 2 and 2(iii); Action Plan, § D, ¶ 3 and § E, ¶ 4; and August 10, 2023 Order, § I, ¶¶ 2, 3, and 4. 
+Further, the Court’s February 18, 2026 Order requires the RM to both consult and seek approval of the 
+Monitor. See, February 18, 2026 Order at § V , ¶¶ F & G; § VI, ¶ C. 
+3 See Consent Judgment, § IV , ¶¶ 1 and 3(p), § XV , ¶ 1; First Remedial Order § A, ¶ 6; Second Remedial 
+Order, ¶ 1(i)(a); and Action Plan, § D, ¶ 2(a), 2(d), and 2(f). 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 4 of 29
+ 
+2 
+Given the overlap between the requirements of LL42 and the Nunez Court Orders, 
+including the Monitor’s duty to approve/direct certain Department operations to ensure the 
+practices required by the Nunez Court Orders comport with sound correctional practice, the 
+Monitoring Team carefully evaluated LL42's requirements.  The Monitoring Team raised several 
+concerns that at least some of the requirements of LL42 may not be safe to implement and could 
+potentially exacerbate the unsafe conditions in the jails.  
+• Newly Appointed City Leadership and Appointment of the Remediation Manager 
+Since the Monitor’s January 14, 2026 Report (dkt. 949), a number of significant 
+leadership changes have impacted the City’s operations of the jails. The Mayor appointed the 
+Department’s new Commissioner who took office on February 16, 2026. The Mayor also 
+appointed a new Corporation Counsel who took office on February 13, 2026. Finally, the Court 
+appointed a Remediation Manager who began work on February 23, 2026.  
+Each of these leaders has been working diligently to assemble their respective teams and 
+build the necessary foundation to satisfy their respective roles and functions. Both the 
+Commissioner and the Remediation Manager have a complicated set of tasks that must be first 
+explored and understood, then balanced and prioritized, and then acted upon in order to achieve 
+critically needed reform of the jails . Further, as the Court aptly noted, the new leadership team is 
+also faced with a “steep learning curve that is inherent in addressing the deeply embedded 
+polycentric problems of the jails.” See, November 27, 2024 Order at pg. 57 (dkt. 803).  
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 5 of 29
+ 
+3 
+In this report, we address the following: 
+• A summary of the current state of affairs.  
+• An update on the work underway to determine whether certain provisions of LL42 can be 
+safely implemented, including steps to address the conflicts between some of LL42’s 
+requirements and the Nunez Court Orders and steps to exchange ideas and considerations 
+among the LL42 Parties.  
+• The framework for two pilot projects that seek to advance the goals of LL42, one focused 
+on an improved restricted housing model and the other focused on enhancing due process 
+protections for people in custody who are referred to restricted housing.  
+• A summary of the short-term next steps to develop a concrete pathway forward to address 
+the matters raised by LL42.   
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 6 of 29
+ 
+4 
+CURRENT STATE OF AFFAIRS & ADVANCING THE REFORM EFFORT 
+ The Monitoring Team is encouraged and optimistic about the newly installed leadership 
+for the City’s jails but remains gravely concerned about the dangerous conditions in the jails that 
+present a risk of harm—and too often, actual harm—to people in custody and staff, as detailed 
+throughout the record in this case. Although capable leaders with new perspectives and skillsets 
+are an obvious asset for reform, the dangerous conditions and poor outcomes in safety-related 
+measures will continue until practice enhancements become embedded and meaningful culture 
+change has been achieved. The Department’s internal limitations (e.g., lack of skill among 
+supervisors, limited experience with other jail systems, limited bedspace and staffing issues), 
+external obstacles (e.g., regulations from multiple oversight bodies that must be aligned; 
+burdensome and protracted processes for hiring), pervasive poor practice and an entrenched 
+dysfunctional culture have all hobbled the Department’s ability to materially improve the jails’ 
+conditions with the necessary level of urgency.4 Further, as the Court explained, the appointment 
+of the Remediation Manager was necessary to also “surmount the political, bureaucratic, and 
+institutional obstacles that have stymied prior reform efforts.” See the Court’s May 13, 2025 
+Order at pg. 38 (dkt. 846). 
+The Department’s operations continue to require an infusion of sound and basic 
+correctional practice. The Department’s decision making, first and foremost, must be centered 
+around these basic tenets. This is why the Monitoring Team has continued to recommend that 
+Department leadership and the Remediation Manager Team prioritize and focus on the many 
+ 
+4 The Monitor has extensively detailed these issues in prior reports.  The findings in recent reports 
+continue to reflect the current state of affairs and the Monitoring Team’s opinions. See, Monitor’s January 
+31, 2025 Report (dkt. 814) at pgs. 6-7 and Monitor’s January 13, 2026 Report (dkt. 947) at pgs. 5-7. 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 7 of 29
+ 
+5 
+aspects of the jails’ operation that are directly tied to the imminent risk of harm faced by people 
+in custody and staff. Given the breadth and scope of work to be done, the reform effort must be 
+responsibly balanced to ensure progress is advanced and the work to implement LL42 must be 
+integrated into the inescapable realities of the competing responsibilities and priorities of the 
+Department’s operations.  
+As detailed below, the Department’s new leadership and the Remediation Manager Team, 
+in consultation and collaboration with the Monitoring Team, have been working on a number of 
+key initiatives to support the efforts to advance the reform while simultaneously addressing a 
+myriad of other matters, including the issues presented by LL42. The work underway includes:  
+ Developing Leadership Teams, and Consulting/Collaborating with the Monitoring 
+Team: The Department’s leadership team and the Remediation Manager Team have been 
+working to build their teams by retaining individuals with specific expertise in addressing 
+key tasks facing the Department. The Monitoring Team has been working with both the 
+Department’s new leadership Team and the Remediation Manager Team to ensure the 
+respective offices are coordinated.  The Monitoring Team has also been working to assist 
+the Remediation Manager Team in understanding DOC operations, its assets, and the 
+dynamics that have stymied reform to date. As discussed in more detail below, the LL42-
+specific work is occurring simultaneously with the many other tasks required to introduce 
+new members of various Parties to each other, and to provide information on the history 
+of the Nunez litigation, Department dynamics and the current state of affairs. The sheer 
+volume of information that must be transmitted, digested and discussed is essential and 
+illuminates the significant learning curve the new leadership must surmount. 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 8 of 29
+ 
+6 
+ Revising DOC’s Organizational Chart: Department leadership, the Remediation 
+Manager Team, and the Monitoring Team have been working to “jointly develop an 
+updated DOC organizational chart that delineates the reporting lines of divisions, 
+operational functions, and personnel that are subject to the direct authority of the Nunez 
+Remediation Manager and the Commissioner, respectively, and those that are subject to 
+the direct authority of both the Nunez Remediation Manager and the Commissioner.” See, 
+February 18, 2026 Order § II, ¶ E (dkt. 961). This work has been constructive and 
+productive.   
+ Advancing the Nunez Reforms: A key area of focus for the Department, the 
+Remediation Manager Team, and the Monitoring Team is to address and advance the 
+many facets of the Nunez Court Orders. Current priorities include security practices, 
+classification, staffing, disciplinary continuum for infractions, investigations of staff 
+conduct, and accountability for staff. The Monitoring Team has engaged with both the 
+Department and the Remediation Manager Team to emphasize areas where attention 
+should be prioritized and various initiatives that may support advancing the reform effort.   
+ Assessing Compliance with the Nunez Court Orders: The Monitoring Team is 
+continuing to assess and report on compliance with the Nunez Court Orders. This 
+includes preparing the 21
+st Monitor’s Report, with a draft due to the Nunez Parties in May 
+2026 and the final report to be filed with the Court in June 2026. 
+ Developing the Remediation Action Plan: The Remediation Manager’s Team is 
+developing the Remediation Action Plan (“RAP”) required by the Court’s February 18, 
+2026 Order (dkt. 961). The Remediation Manager Team will consult with the Monitoring 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 9 of 29
+ 
+7 
+Team and Department while developing the draft of the RAP that will be provided to the 
+Parties in advance of the Court’s filing, which is scheduled for July 2026.   
+All of these responsibilities are significant, complex, and warrant urgency and yet 
+necessitate caution. These pressing matters must be completed before other parts of the reform 
+may progress but also require both time and thoughtfulness to ensure a quality result. Care is also 
+required to ensure that the work of the respective offices is aligned and does not inadvertently 
+create conflicts or unnecessary duplication. The guiding principle for all of these endeavors is 
+that the work must be guided by sound correctional practice with methodically developed plans 
+anchored in the practical reality of the current conditions and always with safety at the forefront.  
+    
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 10 of 29
+ 
+8 
+UPDATE ON WORK UNDERWAY RELATED TO LL42 
+ Since the Monitor’s January 14, 2026 report, and the appointment of new leadership, the 
+work on LL42 has been a central part of the new administration’s work.  The Department, 
+Remediation Manager Team and Monitoring Team have been continually engaged with each 
+other and the LL42 Parties about how to address the issues raised by LL42 and to develop a 
+pathway forward. A summary of the work underway is provided below: 
+ Monitoring Team’s Assessment of LL42: The Monitoring Team provided confidential 
+draft findings to the LL42 Parties that: (1) identified the intersection of the relevant 
+Nunez provisions related to each area of LL42 topic areas where the Monitoring Team 
+has concerns, and (2) provided a more detailed assessment of the basis for the Monitoring 
+Team’s safety concerns related to the conflicted provisions stayed by the Court’s Order, 
+as well as a few additional provisions.
+5 This document built upon the Monitor’s January 
+31, 2025 report to further explain the basis for the Monitor’s position and identify where 
+potential exceptions may be necessary in order to obtain approval of the Monitor. The 
+draft findings are intended to catalyze discussion  and help identify potential solutions to 
+the conflicts that must be resolved. Additional work remains before the Monitor can 
+render final determinations on what may be approved because: 
+• Alignment with the Remediation Manager: The Monitoring Team and 
+Remediation Manager Team determined that the best way to support the 
+ 
+5 The Monitoring Team’s submissions and subsequent discussions with the LL42 Parties over the last few 
+months do not address the various legal arguments about the scope of the Monitor’s approval or potential 
+conflicts with the Nunez Court Orders that were raised by some of the LL42 Parties. If necessary, the 
+Monitoring Team is willing to engage in additional discussion on this matter, but this discussion may be 
+premature given the shared goal of finding a mutually agreeable path forward. Further, some legal 
+arguments may be moot if a mutually agreeable solution is reached. 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 11 of 29
+ 
+9 
+Department’s efforts to implement LL42 is to develop a joint position regarding 
+which provisions can be approved, cannot be approved, and/or the contours of 
+what could be approved with specific language changes or exceptions. A joint 
+proposal recognizes the need for a uniform approach and consistent direction in 
+order to accelerate planning toward implementation. 
+• Pilot Projects: Given the change in perspective of the new administration and the 
+appointment of the Remediation Manager, the Monitoring Team recommended 
+the Department initiate pilot projects focused on improving the Restrictive 
+Housing model as well as the due process requirements for placement in 
+Restrictive Housing. These projects will help to determine the feasibility of 
+implementing certain aspects of LL42, specifically whether certain aspects of 
+LL42 may be implemented in a safe manner, such that they could obtain the 
+Monitor’s approval.  The development and outcomes of these pilots will 
+inherently impact on the findings of the Monitoring Team and the Remediation 
+Manager Team. These pilot projects are discussed in more detail in the next 
+section. 
+• Further Coordination and Consultation with DOC’s Operators Is Needed: 
+Ongoing engagement with the Department’s operators is essential as these 
+potential solutions and pathways are developed to assess the viability and 
+practicality of implementation. 
+• Input from LL42 Parties Continues to be Considered: The LL42 Parties have had 
+several productive and constructive discussions regarding the various matters 
+raised by LL42.  Considerations of the LL42 Parties’ input is ongoing and further 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 12 of 29
+ 
+10 
+discussions will occur as the Monitoring Team and Remediation Manager Team’s 
+joint position is refined and finalized.  
+• Necessary Implementation Plans & Reasonable Deadlines: Work plans must 
+inherently consider when these various changes in practice can be implemented. 
+Most, if not all, of the conflicted provisions of LL42 reflect a significant change 
+in practice that would make immediate implementation or implementation 
+without specific plans patently unsafe. Therefore, the Monitoring Team’s and 
+Remediation Manager Team’s joint position will consider how these practice 
+changes can actually be operationalized and on what timeline. 
+ Consultation & Coordination Among the Department, Remediation Manager Team 
+and Monitoring Team: Throughout this period, the Monitoring Team has met with the 
+Department, Law Department, and the Remediation Manager Team multiple times 
+regarding the matters raised by LL42.   
+ Management of Individuals Following Serious Acts of Violence:  
+• RESH: The Monitoring Team has been helping the new Department leadership 
+and Remediation Manager Team to understand the operation of the Department’s 
+restricted housing program, RESH, and the Monitoring Team’s findings regarding 
+RESH’s operation which were outlined in the Monitor’s January 13, 2026 Report 
+(dkt. 947, pgs. 57-63).  
+• NIC: The Department is in the process of closing NIC and transferring the 
+individuals housed there to other facilities. The closure of NIC resolves the 
+concerns about the physical plant on the 2
+nd and 3rd floor housing and its “cell-
+within-a-cell” layout. The Monitoring Team has repeatedly raised concerns about 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 13 of 29
+ 
+11 
+this layout because it does not afford an opportunity for meaningful engagement 
+with others and is not conducive to programming.6 The decommissioning of these 
+spaces is a positive step forward in eliminating conditions that underpin the 
+concerns raised by LL42 and the negative impact of prolonged isolation. 
+ Meetings Among the LL42 Parties: The Monitoring Team convened three meet and 
+confer sessions with the LL42 Parties. These meetings provided for direct engagement 
+among the stakeholders about the Department’s plans and intentions, including a set of 
+LL42 requirements that have been prioritized for implementation (discussed in the “Pilot 
+Projects” section, below). These discussions allowed the LL42 Parties to present and 
+discuss the vision, assets and obstacles for various practice changes and have set the stage 
+for more detailed conversations about specific implementation plans to continue.  During 
+this period, additional informal discussions occurred among all of the LL42 Parties. 
+ Feedback from LL42 Parties: Plaintiffs and City Council have provided written 
+feedback in response to the Monitoring Team’s questions about their expectations for 
+LL42’s implementation and have submitted several inquiries and ideas for consideration 
+by the Monitoring Team, Department, and Remediation Manager.  
+ 
+Progress has been made in charting a constructive pathway forward on these matters.  As 
+stated throughout this report, LL42 requires a multitude of practice changes in numerous aspects 
+of the jails’ operations including the use of restraints, escorts, de-escalation, lock-in procedures, 
+options for out of cell time, due process requirements and the conditions of restricted housing. 
+ 
+6 See, for example, Monitor's April 18, 2024 Report (dkt. 706) at pgs. 48-49; Monitor's November 22, 
+2024 Report (dkt. 802) at pgs. 34-35 and 277; Monitor's May 22, 2025 Report (dkt. 850) at pgs. 33-34; 
+Monitor's January 13, 2026 Report (dkt. 947) at pgs. 68-70. 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 14 of 29
+ 
+12 
+This work is not occurring in a vacuum but rather occurs within the practical reality of the many 
+important and competing demands to reform the Department’s operations.  The “Next Steps” 
+section of this document provides a summary of the short-term work necessary to support the 
+development of a reasonable pathway forward.    
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 15 of 29
+ 
+13 
+DEVELOPING PILOT PROJECTS FOR RESTRICTIVE HOUSING 
+ The effort to pilot the implementation of various components of targeted provisions of 
+LL42 will center around two pilot projects that will introduce new, interrelated practices. One 
+pilot project will focus on improving the Department’s restricted housing program and assessing 
+whether certain aspects of LL42’s requirements can be safely implemented. The other pilot will 
+focus on LL42’s due process requirements for adjudication hearings for people in custody 
+referred for placement in restricted housing, particularly legal representation for those being 
+referred. 
+Utilizing pilot projects to introduce new concepts or practices is necessary in this system.  
+It is, of course, not a new strategy for this Department, but the goal this time is to change the way 
+in which the projects are developed and effectuated in order to reverse the trend of poor results 
+that have occurred with pilot projects in the past. The record in this case is rife with examples of 
+pilot projects that were ineffective, not scalable, not sustainable or were simply abandoned.
+7 
+Learning from these experiences, the intention is to take a different approach so that these pilot 
+projects are both successful and scalable. Key elements of the strategy include: 
+ RM Team to develop program design relying on those with deep subject matter expertise. 
+The Remediation Manager Team will lead the effort to design the Restricted Housing 
+ 
+7 Most recently, the Monitor’s January 13, 2026 Report discussed the insolvency of the Door Security 
+Pilot (dkt. 947, pgs. 34-35). Despite the focus and attention of seasoned and strong Department leaders 
+and significant oversight, a project to instill consistency in this basic security practice was an abject 
+failure. Other pilot projects have suffered from poor design, hasty initiation, lack of buy-in, and/or 
+insufficient oversight and were summarily disbanded, leaving legacy poor practice to resume. One of the 
+very few examples of a successful DOC pilot project is the RNDC Action Plan, which was remarkable 
+because of its deliberate and methodical planning, ongoing commitment from agency and facility 
+leadership, and incremental implementation. See, for example, Monitor's April 18, 2024 Report (dkt. 706) 
+at Appendix E, pgs. 254-258; Monitor's November 22, 2024 Report (dkt. 802) at pgs. 167-169 and 172-
+173; Monitor's May 22, 2025 Report (dkt. 850) at pgs. 94-100, 101-106, and 107-111; Monitor's January 
+13, 2026 Report (dkt. 947) at pgs. 213-218, 219-225, and 226-234. 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 16 of 29
+ 
+14 
+pilot project and has recently hired two individuals with expertise in programming and 
+security practices in restricted housing settings. This work began in earnest over the last 
+few weeks as the Remediation Manager Team onboarded experts in this field and began 
+to coordinate with the Department and the Monitoring Team. As noted above, the 
+Monitoring Team has also provided guidance on the strengths and challenges of the 
+Department’s current program, RESH.  
+ Collaborating with key external stakeholders. With respect to the Due Process pilot 
+project, the Department has initiated coordination with the defender organizations on the 
+pilot project and is soon scheduled to meet with their representatives to discuss various 
+logistical and substantive issues that must be resolved in order to provide representation 
+to people in custody who are being referred to restricted housing.  
+ Practical and realistic timelines grounded in objective measures of readiness. Careful 
+consideration is being given to setting appropriate timelines and deadlines to complete 
+this work. Deadlines and timelines are clearly necessary to ensure this work moves 
+forward. However, timelines for the pilot projects must be anchored in the present 
+realities and constructed to ensure sufficient time and attention for key implementation 
+tasks. The history of this case clearly shows that simply imposing deadlines has not been 
+effective in actually changing practice, and too often results in missed deadlines, failed 
+efforts and poor outcomes.   
+ Planning for the expansion at the outset. Beginning with the planning phase, the various 
+requirements for expansion and sustainability will be identified. This will ensure that the 
+pilot projects can be brought to scale as initial traction is achieved and once staff and 
+space resources are procured.  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 17 of 29
+ 
+15 
+ Dedicated project management resources. The pilot projects must be adequately 
+resourced. The Monitoring Team has recommended that the City deploy skilled project 
+management resources and additional support as identified by the 
+Department/Remediation Manager Team/Monitoring Team to ensure the pilot projects 
+stay on course and are equipped to address obstacles as they arise.  
+ 
+The two pilot projects will require significant investments of time and creativity, which, 
+as discussed throughout this report, must occur alongside a tremendous volume of work in other 
+areas of the Nunez reforms and beyond. Now that the set of LL42 requirements targeted for 
+initial implementation have been identified, the Department, Remediation Manager Team and 
+Monitoring Team have begun the complex work of developing the vision, scope and particulars 
+of both pilot projects. The remaining LL42 Parties will be regularly updated on the Department’s 
+efforts and asked for input and ideas. The City’s and Department’s new approach toward reform 
+in these areas, coupled with the direct expertise brought by the Remediation Manager Team, are 
+cause for optimism that the current work to develop pilot projects will progress methodically be 
+implemented with fidelity.   
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 18 of 29
+ 
+16 
+NEXT STEPS 
+ Since the Monitor’s January 14, 2026 Report, the Nunez Parties, in collaboration with the 
+LL42 Parties, have engaged in concerted efforts to identify a pathway toward addressing the 
+requirements of LL42 and the concerns raised by the Monitoring Team to ensure the safe 
+operations of the jails, aligned with the Nunez reforms.   
+Devising a pathway forward, with benchmarks and appropriate time frames for each 
+major task, is an essential step toward LL42 implementation, both in terms of addressing the 
+Monitoring Team’s concerns and supporting the Department’s implementation efforts. To that 
+end, this work must be coordinated with both the competing demands of the Nunez Court Orders 
+and the various requirements of the Monitor’s and Remediation Manager’s respective offices.  
+Establishing benchmarks with reasonable time frames will set clear expectations, catalyze 
+productivity, and ensure accountability. Accordingly, the Department, Remediation Manager 
+Team and Monitoring Team—with input from the LL42 Parties—will conduct the following 
+work which will be discussed in the Monitor’s forthcoming June 2026 Report to the Court:  
+ Pilot Project Development, Work Plan and Associated Timelines: The two pilot 
+projects will be developed and refined, culminating in the creation of a work plan with 
+associated benchmarks and timelines. 
+ Timeline for Joint Position of Monitor/Remediation Manager: The Monitoring Team 
+and the Remediation Manager Team will work together to determine when a detailed, 
+joint position regarding the stayed LL42 provisions can be completed and provided to the 
+LL42 Parties and the Court.  
+ Engagement of the LL42 Parties: DOC, the Remediation Manager Team, and the 
+Monitoring Team must continue to engage the LL42 Parties.  This will include informal 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 19 of 29
+ 
+17 
+meetings and other confidential communications to foster collaboration and to identify 
+where agreement may be reached.  As part of that process, at least one meet and confer 
+session with all LL42 Parties will be scheduled, and a confidential written submission by 
+the Monitoring Team will be provided to the limited City Intervenors in response to their 
+requests.  
+ Increased City Resources: The Monitoring Team has advised the City and DOC that the 
+work to advance both the requirements of the Nunez Court Orders and the obligations of 
+LL42 will necessarily require additional resources and staff. The Monitor’s June 2026 
+Report will include an update on the status of deployment of these resources.  
+ 
+The Monitor’s June 2026 Report will include the specific information above and any 
+additional recommendations regarding next steps to ensure continued progress in addressing the 
+issues raised. 
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 20 of 29
+ 
+18 
+CONCLUSION 
+ As discussed in this report, the work related to LL42 is substantial and demanding yet 
+reflects only a small fraction of the tasks required to advance the Nunez reform effort. Over the 
+last few months, the LL42 Parties have made concrete and positive steps to identify a pathway 
+forward, including identifying practices that merit the development of pilot projects to support 
+advancing the goals of LL42, and also considering and addressing the important safety concerns 
+raised by the Monitoring Team. The work over the next two months will be critical in advancing 
+the pilots and developing reasonable time-frames to address the ongoing areas of concern raised 
+by the Monitoring Team and will necessarily include the Monitoring Team and the Remediation 
+Manager Team working together to develop a joint response.  
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 21 of 29
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A: 
+CHART OF RELEVANT NUNEZ 
+PROVISIONS 
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 22 of 29
+ 
+20 
+Monitor Approval & Remediation Manager Authority 
+ 
+This chart is a non-exhaustive list of overarching requirements of the Nunez Court Orders regarding the Monitoring Team’ s approval authority and Remediation Manager Team’ s overall 
+authority as it relates generally to the assessment of LL42. 
+ 
+Monitor Approval & Remediation Manager Authority 
+Citation to Nunez 
+Order Short Description Text of Nunez Provision 
+Consent Judgment, 
+§ XX, ¶ 26 Approval of the Monitor 
+26. With respect to provisions of this Agreement that require the Monitor’s approval, the Monitor’s approval shall not be unreasonably withheld.  Mere disagreement as to 
+how best to achieve compliance with the terms of the Agreement is not enough to withhold approval; such approval may only be withheld when the Monitor reasonably 
+believes that the Department’s proposal is not consistent with the terms of the Agreement or the purpose of the relevant provision(s) and the requirements set forth in such 
+provision(s).  The Monitor shall indicate in writing whether the Monitor approves the Department’s proposal within 30 days of receiving the Department’s proposal.      
+Action Plan, § D, ¶ 
+3 
+Consultation & Direction of 
+the Monitor 
+3. Consultation & Direction of the Monitor: The Department shall consult with the Monitor on the system, plans, and initiatives to improve security practices as set forth in 
+[Action Plan] § D., ¶ 2 of this order above.  If the Department’s proposed systems, plans or initiative(s) fail to adequately and reasonably address the requirements of § D., ¶ 
+2 above, the Monitor, within 15 business days, must advise the Department in writing that the plan is insufficient to achieve  compliance with the provision.  The Monitor 
+may direct the Department to refine the initiative(s) as necessary to ensure compliance with the provision.  The Department m ust then implement the revised initiative(s), 
+including any additional requirements from the Monitor. 
+February 18, 2026 
+Order, § I, ¶ C RM Duties C. The Nunez Remediation Manager shall provide leadership and executive management with respect to achieving Substantial Compliance with the Contempt Provisions 
+with the goal of developing and implementing a sustainable system that protects the constitutional rights of persons in custody.   
+February 18, 2026 
+Order, § IV RM Powers & Authority Beginning on the Nunez Remediation Manager’s Onboard Date, the Nunez Remediation Manager shall have all powers necessary to achieve Substantial Compliance with 
+the Contempt Provisions, including, but not limited to: [See Order for specific powers]  
+February 18, 2026 
+Order, § V, ¶ F 
+RM & Monitor Engagement 
+and Approval of the Monitor 
+F. The Remediation Manager Team shall be subject to the obligations of Defendants  under the Nunez Orders with respect to consultations with the Monitoring Team.  The 
+Remediation Manager Team may also seek information or technical assistance from the Monitoring Team in the same manner as Defendants are authorized to do so under 
+the Nunez Orders (including, but not limited to, Consent Judgment Section XX, ¶¶ 24 and 25). 
+February 18, 2026 
+Order, § V, ¶ G 
+RM & Monitor Engagement 
+and Approval of the Monitor 
+G. The Nunez Remediation Manager shall obtain the Monitor’s approval of the Nunez Remediation Manager’s plans and activities only to the extent such approval is 
+required by the Nunez Orders for plans and activities of the Defendants.  (See Consent Judgment § XX, ¶ 26.)  To the extent that the Monitor does not provide such 
+approval, the Nunez Remediation Manager may raise the matter with the Court and must show good cause for approval despite the  Monitor’s decision to withhold approval.  
+The Nunez Remediation Manager shall provide reasonable notice to the Monitoring Team and the parties before making any such appli cation to the Court, and the parties 
+and the Monitor may seek an opportunity to be heard on any such application.   
+February 18, 2026 
+Order, § VI, ¶ C Role of the Monitor C. The Nunez Remediation Manager and the Monitor are independent positions that  each report to the Court and are not answerable to each other, except to the extent that 
+consultation with and approval of actions by the Monitor are otherwise required by this Order. 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 23 of 29
+ 
+21 
+Nunez Provisions Related to LL42 
+ 
+This chart identifies the relevant Nunez Court Order Provisions and then identifies the specific Nunez Court requirements and the substantive topic area it relates to.  
+• In columns with green headers, each provision is then categorized as to whether: 
+o It is one of the Contempt Provisions, subject to the authority of the Remediation Manager 
+o Monitor Approval indicates that the proposed practice is consistent with the terms of the Agreement, purpose of the provision and/or requirements of the provision 
+o Monitor has authority to direct practices to ensure compliance with the relevant provision. 
+• In the columns with blue headers, each provision is further categorized into substantive topic areas: Individuals Engaging in Serious Acts of Violence, Pre-Hearing Detention, De-
+Escalation, Intake, Restraints, Emergency Lock-Ins, and Security 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+First 
+Remedial 
+Order, § A, 
+¶ 3 
+De-escalation 
+Protocol 
+3. Revised De-escalation Protocol. Within 90 days of the date 
+this Order is approved and entered by the Court (“Order Date”), 
+the Department shall, in consultation with the Monitor, develop, 
+adopt, and implement a revised de-escalation protocol to be 
+followed after Use of Force Incidents. The revised de-escalation 
+protocol shall be designed to minimize the use of intake areas to 
+hold Incarcerated Individuals following a Use of Force Incident 
+given the high frequency of Use of Force Incidents in these 
+areas during prior Reporting Periods. The revised de-escalation 
+protocol shall address: (i) when and where Incarcerated 
+Individuals are to be transported after a Use of Force Incident; 
+(ii) the need to regularly observe Incarcerated Individuals who 
+are awaiting medical treatment or confined in cells after a Use of 
+Force Incident, and (iii) limitations on how long Incarcerated 
+Individuals may be held in cells after a Use of Force Incident. 
+The revised de-escalation protocol shall be subject to the 
+approval of the Monitor.  
+  Yes       X         
+August 10, 
+2023 
+Order, § I, 
+¶ 3 
+Escort Procedures 
+3. Revise Escort Procedures: By, October 30, 2023, the 
+Department, in consultation with the Monitor, shall revise its 
+escort procedures and practices to eliminate the use of painful 
+escort holds. The new escort procedures shall be subject to the 
+approval of the Monitor. 
+  Yes           X     
+Action 
+Plan, § D, 
+¶ 2(f) 
+Escort Procedures 
+2. Improved Security Initiatives: The Department shall 
+implement improved security practices and procedures, 
+including, but not limited to, the following items outlined below:  
+Yes   Yes         X     
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 24 of 29
+ 
+22 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+f. improved escort techniques to eliminate the unnecessary use 
+of painful escort holds 
+First 
+Remedial 
+Order, § A, 
+¶ 6 
+Facility 
+Emergency 
+Response Teams 
+6. Facility Emergency Response Teams. Within 90 days of the 
+Order Date, the Department shall, in consultation with the 
+Monitor, develop, adopt, and implement a protocol governing 
+the appropriate composition and deployment of the Facility 
+Emergency Response Teams (i.e., probe teams) in order to 
+minimize unnecessary or avoidable Uses of Force. The new 
+protocol shall address: (i) the selection of Staff assigned to 
+Facility Emergency Response Teams; (ii) the number of Staff 
+assigned to each Facility Emergency Response Team; (iii) the 
+circumstances under which a Facility Emergency Response 
+Team may be deployed and the Tour Commander’s role in 
+making the deployment decision; and (iv) de-escalation tactics 
+designed to reduce violence during a Facility Emergency 
+Response Team response. The Department leadership shall 
+regularly review a sample of instances in which Facility 
+Emergency Response Teams are deployed at each Facility to 
+assess compliance with this protocol. If any Staff are found to 
+have violated the protocol, they shall be subject to either 
+appropriate instruction or counseling, or the Department shall 
+seek to impose appropriate discipline. The results of such 
+reviews shall be documented. 
+Yes         X   X   X 
+August 10, 
+2023 
+Order, § I, 
+¶ 4 
+Lock-in and 
+Lock-out 
+Procedures 
+4. Lock-in and Lock-out Procedures: By October 30, 2023, the 
+Department shall revise and implement a new protocol that 
+requires each lock-in and lock-out to occur at certain times each 
+day. Housing unit staff must ensure the lock-in and lock-out 
+occur and report the times for the housing unit to the Tour 
+Commander. The Department shall track and record the lock-in 
+and lock-out times at each unit in every Facility to ensure the 
+lock-in and lock-out occur as required. These protocols and 
+procedures shall be subject to the approval of the Monitor. 
+  Yes             X X 
+Action 
+Plan, § E, ¶ 
+4 
+Management of 
+Incarcerated 
+Individuals 
+4. Management of Incarcerated Individuals Following Serious 
+Incidents of Violence: Within 60 days of this Order, the 
+Department, in consultation with the Monitor, must develop a 
+  Yes   X X X         
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 25 of 29
+ 
+23 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+Following 
+Serious Incidents 
+of Violence 
+housing and management strategy that will safely and 
+adequately manage those incarcerated individuals that have 
+engaged in serious acts of violence and pose a heightened 
+security risk to the safety of other incarcerated individuals and 
+staff.  This housing and management strategy must comply with 
+the HALT Act, reflect sound correctional practice, and is subject 
+to the approval of the Monitor. This housing and management 
+strategy must be implemented within 30 days of receipt of 
+approval. 
+Second 
+Remedial 
+Order ¶ 
+1(i)(e) 
+Post-Incident 
+Management 
+Protocol 
+e. Implement a Post-Incident Management protocol, in 
+consultation with the Monitor, to immediately secure those 
+persons in custody involved in violent incidents, pending a 
+decision about appropriate disciplinary sanctions. Such protocol 
+shall be consistent with BOC and SCOC rules and standards. 
+    Yes X X X         
+Action 
+Plan, § D, 
+¶ 2(h) 
+Post-Incident 
+Management 
+Protocol 
+2. Improved Security Initiatives: The Department shall 
+implement improved security practices and procedures, 
+including, but not limited to, the following items outlined below:  
+h. Post Incident Management protocol as required by to ¶ 1(i)(e) 
+of the Second Remedial Order 
+    Yes X X X         
+Action 
+Plan, § D, 
+¶ 2(b) 
+Reduced Reliance 
+on Intake 
+Following UOFs 
+2. Improved Security Initiatives: The Department shall 
+implement improved security practices and procedures, 
+including, but not limited to, the following items outlined below:  
+b. reduced reliance on the use of the intake following a use of 
+force incident as required by to § A, ¶ 3 of the First Remedial 
+Order.  The Security Operations Manager shall also work in 
+collaboration with the Deputy Commissioner of Classification 
+so incarcerated individuals are processed within 24 hours in 
+Intake, as required in § E, ¶ 4 of this Order (below) 
+    Yes     X X       
+Action 
+Plan, § D, 
+¶ 2(d) 
+Search 
+Procedures 
+Improved Security Initiatives: The Department shall implement 
+improved security practices and procedures, including, but not 
+limited to, the following items outlined below: 
+d. improved procedures on how searches are conducted, 
+including addressing 
+the Monitor’s feedback that was provided in 2021; 
+Yes   Yes           X X 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 26 of 29
+ 
+24 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+August 10, 
+2023 
+Order, § I, 
+¶ 2  
+Search 
+Procedures 
+Revise Search Procedures: By, October 30, 2023, the 
+Department, in consultation with the Monitor, shall reconstitute 
+its search procedures and practices to ensure searches are 
+conducted in an efficient, timely, safe manner and to reduce the 
+possibility of a use of force. The new search procedures shall be 
+subject to the approval of the Monitor. 
+  Yes             X X 
+Action 
+Plan, § D, 
+¶ 2(a) 
+Security Plan 
+2. Improved Security Initiatives: The Department shall 
+implement improved security practices and procedures, 
+including, but not limited to, the following items outlined below:  
+a. the interim Security Plan required by ¶ 1(i)(a) of the Second 
+Remedial Order 
+Yes   Yes         X   X 
+Second 
+Remedial 
+Order, ¶ 
+1(i)(a) 
+Security Plan 
+a. Develop, in consultation with the Monitor, and implement an 
+interim Security Plan that describes, in detail, how various 
+security breaches will be addressed by October 11, 2021.  This 
+plan shall address, among other things, the following issues:  
+unsecured doors, abandonment of a post, key control, post 
+orders, escorted movement with restraints when required, 
+control of undue congregation of detainees around secure 
+ingress/egress doors, proper management of vestibules, and 
+properly securing officer keys and OC spray. 
+Yes   Yes         X   X 
+Consent 
+Judgment, 
+§ IV, ¶¶ 1 
+and 3(p)  
+Use of Force 
+Policy - 
+Restraints 
+1. Within 30 days of the Effective Date, in consultation with the 
+Monitor, the Department shall develop, adopt, and implement a 
+new comprehensive use of force policy with particular emphasis 
+on permissible and impermissible uses of force (“New Use of 
+Force Directive”).  The New Use of Force Directive shall be 
+subject to the approval of the Monitor. 
+ 
+3(p). Clear and adequate policy guidance on the proper use of 
+security and therapeutic restraints, spit masks, hands-on-
+techniques, chemical agents, electronic immobilizing devices, 
+kinetic energy devices used by the Department, batons, and 
+lethal force, including the limited circumstances when such 
+forms of force may be used and the precautions that must be 
+taken to ensure the safety of Inmates, Staff, and other 
+individuals. 
+Yes Yes       X   X   X 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 27 of 29
+ 
+25 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+Consent 
+Judgment,§ 
+XV, ¶ 12 
+Young Adults: 
+Direct 
+Supervision for 
+18-Year-Olds 
+12. The Department shall adopt and implement the Direct 
+Supervision Model in all Young Inmate Housing Areas.     Yes   X             
+Consent 
+Judgment, 
+§ XVI, ¶ 6 
+Young Adults: 
+Disciplinary 
+Sanctions for 18-
+Year-Olds 
+Within 120 days of the Effective Date, the Department, in 
+consultation with the Monitor, shall develop and implement an 
+adequate continuum of alternative disciplinary sanctions for 
+infractions in order to reduce the Department’s reliance on 
+Punitive Segregation as a disciplinary measure for 18-year old 
+Inmates. These systems, policies, and procedures shall be 
+subject to the approval of the Monitor. Any subsequent changes 
+to these systems, policies, and procedures shall be made in 
+consultation with the Monitor. 
+  Yes   X X           
+First 
+Remedial 
+Order, § D, 
+¶ 2 
+Young Adults: 
+Incentives and 
+Consequences for 
+18-year-olds 
+System of Incentives & Consequences. For all housing units at 
+RNDC that may house 18-year-old Incarcerated Individuals, 
+within 30 days of the Order Date, the Department shall, in 
+consultation with the Monitor, develop, adopt, and implement a 
+system under which Staff will respond to an Incarcerated 
+Individual’s behavior through an established, structured system 
+of rewards and consequences (the “Incentives & Consequences 
+System”). Consistent with the terms of Section XX, ¶¶ 10 and 
+22 of the Consent Judgment, the Monitor shall consult with 
+Plaintiffs’ Counsel on the Incentives & Consequences System in 
+order to provide Plaintiffs’ Counsel with an opportunity to 
+provide input on the development and implementation of the 
+system. The Incentives & Consequences System shall be subject 
+to the approval of the Monitor. 
+  Yes   X           X 
+First 
+Remedial 
+Order, § D, 
+¶ 2iii 
+Young Adults: 
+Incentives and 
+Consequences for 
+18-year-olds 
+The Department, in consultation with the Monitor, shall 
+develop, adopt, and implement a policy that sets forth the 
+procedures and processes associated with the Incentive & 
+Consequence System and a training program. The policy and 
+training program shall be subject to the approval of the Monitor. 
+The Department shall provide the training to all Staff that may 
+work on any RNDC housing units that may house 18-year-old 
+Incarcerated Individuals. 
+  Yes   X           X 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 28 of 29
+ 
+26 
+Nunez Provisions Related to LL42 
+ Nunez Court Order Requirements Substantive Topic Areas 
+Citation to 
+Nunez 
+Order 
+LL42 Topic 
+Area Text of Nunez Provision Contempt 
+Provision 
+Approval 
+of 
+Monitor 
+Required 
+Monitor's 
+Authority 
+to Direct 
+Practices 
+Individuals 
+Engaging 
+in Serious 
+Acts of 
+Violence 
+Pre-
+Hearing 
+Detention 
+De-
+Escalation Intake Restraints Emergency 
+Lock-Ins Security 
+Consent 
+Judgment, 
+§ XVI, ¶ 3 
+Young Adults: 
+Incentives for 18-
+Year-Olds 
+Within 90 days (dkt. 266) of the Effective Date, the Department, 
+in consultation with the Monitor, shall develop and implement 
+systems, policies, and procedures for Inmates under the age of 
+18 that reward and incentivize positive behaviors. These 
+systems, policies, and procedures shall be subject to the 
+approval of the Monitor. Any subsequent changes to these 
+systems, policies, and procedures shall be made in consultation 
+with the Monitor. 
+  Yes   X X           
+Consent 
+Judgment, 
+§ XV, ¶ 1 
+Young Adults: 
+Supervision of 
+18-Year-Olds 
+1. Young Inmates shall be supervised at all times in a manner 
+that protects them from an unreasonable risk of harm.  Staff 
+shall intervene in a timely manner to prevent inmate-on-inmate 
+fights and assaults, and to de-escalate inmate-on-inmate 
+confrontations, as soon as it is practicable and reasonably safe to 
+do so.   
+Yes     X X X X X X X 
+ 
+ 
+Case 1:11-cv-05845-LTS     Document 975     Filed 04/23/26     Page 29 of 29

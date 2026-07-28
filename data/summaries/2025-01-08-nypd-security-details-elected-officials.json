@@ -1,0 +1,51 @@
+{
+  "id": "2025-01-08-nypd-security-details-elected-officials",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Investigation Concerning New York City Police Department Security Details for City Elected Officials",
+  "plain_title": "Police security details for elected officials still lack clear rules",
+  "agency": "New York City Police Department",
+  "issued": "2025-01-08",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/01SecurityDetailRpt.Release01.08.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/01SecurityDetailRpt.Release01.08.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) investigated how the New York City Police Department (NYPD) runs security details for elected officials and reviewed the status of recommendations from DOI's 2021 report on the subject.",
+  "background": "DOI's 2021 report concluded that former mayor Bill de Blasio repeatedly misused his security detail for personal benefit in violation of the city's Conflicts of Interest Law, and identified flaws including a lack of rules, minimal officer training and recordkeeping violations. NYPD accepted most of those recommendations and in November 2022 issued written Protection Detail Guidelines.",
+  "findings": [
+    {
+      "plain": "NYPD has implemented or begun to implement some but not all of DOI's 2021 recommendations, and substantial gaps remain in its policies and procedures for elected officials' security details.",
+      "quote": "finding substantial \nand continuing gaps in NYPD’s policies and procedures concerning security details for elected officials"
+    },
+    {
+      "plain": "The new Protection Detail Guidelines provide little useful substance for detail officers or protected officials, failing to define \"official purposes\" or the scope of permitted uses, even though the 2021 report called lack of guidance the root of nearly all the problems it found.",
+      "quote": "The PDGs provide little useful information for either members of  \nservice assigned to security details, or the elected officials afforded protection."
+    },
+    {
+      "plain": "Detectives assigned full time to an elected official's detail received minimal training, two or three total days of dignitary protection training, in some cases a decade or more before their current assignment, and had little or no knowledge of the governing policies.",
+      "quote": "two or three total days of dignitary protection \ntraining, in some cases a decade or more prior to their current protection assignment."
+    },
+    {
+      "plain": "NYPD's security detail training did not cover the ethical and legal restrictions that apply to details for city officials.",
+      "quote": "its security detail training did not cover the \nethical and legal restrictions applicable to security details."
+    },
+    {
+      "plain": "NYPD still does not maintain records recommended in 2021, with officers testifying they keep no trip logs, tour summaries or other records that would establish where details went and what they did.",
+      "quote": "they do not maintain trip logs, \ntour summaries, or other records that would establish detail usage, destinations, o r other \nduties undertaken by detail members."
+    }
+  ],
+  "numbers": [
+    {"value": "five", "label": "Policy and procedure recommendations in this report"},
+    {"value": "2021", "label": "Year of DOI's earlier security detail report"}
+  ],
+  "recommendations": [
+    "Further develop substantive guidance on proper security detail use, updating the Protection Detail Guidelines with executive protection best practices from outside experts and clear rules for officers and protectees reflecting the Conflicts of Interest Law.",
+    "Require and provide high-quality executive protection training, ideally from outside experts, to all personnel assigned to elected officials' security details, both inside and outside the Executive Protection Unit.",
+    "Maintain appropriate records for all security details, such as detailed memo books and car logs establishing the location and time of each stop and other duties undertaken by detail members.",
+    "Promptly review whether written security determinations exist for all elected officials currently assigned details, make and document determinations where they are missing and adjust assignments if needed.",
+    "Regularly update written security determinations for elected officials and adjust details to reflect changes in identified threats, given the need to use limited government resources efficiently."
+  ],
+  "agency_response": "NYPD said it could not fully implement the training recommendation as written because outside experts such as the United States Secret Service have limited availability, but planned to extend its Executive Protection Unit training to all detail members. NYPD rejected the recordkeeping recommendation, which DOI called a substantial deviation from the practices of other protective agencies.",
+  "implementation_note": "The report found NYPD has implemented or begun to implement some but not all of the recommendations in DOI's 2021 report; three of the five new recommendations reiterate and expand on 2021 recommendations not yet fully implemented.",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2025-09-17-nycers-pension-theft-internal-controls",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI Investigation into Theft Involving Pension Funds Managed by the NYC Employees' Retirement System (NYCERS) and Related Recommendations",
+  "plain_title": "How a pension examiner stole $624,000 from retirees' accounts",
+  "agency": "New York City Employees' Retirement System",
+  "issued": "2025-09-17",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined internal control failures at the New York City Employees' Retirement System (NYCERS) after a criminal investigation found a NYCERS benefits examiner stole about $624,000 from two pensioners' accounts.",
+  "background": "NYCERS, established in 1920, is the largest municipal public employee retirement system in the United States, with more than 430,000 active members and retirees. It suspends pension payments when checks are returned or a pensioner does not confirm they are still alive, then reactivates accounts and pays retroactive benefits.",
+  "findings": [
+    {
+      "plain": "Between February 2021 and January 2024, Gregory Mathieu, an Associate Retirement Benefits Examiner in the unit that verifies whether pensioners are alive, used forged electronic fund transfer (EFT) authorizations, manipulated member profiles and unauthorized account reactivations to divert about $624,000 from two retirees' accounts.",
+      "quote": "exploited internal control \nweaknesses to fraudulently divert approximately $624,000 in pension funds from two retirees' \naccounts."
+    },
+    {
+      "plain": "The case revealed critical vulnerabilities in NYCERS' internal controls, particularly in segregation of duties, system access controls and verification procedures.",
+      "quote": "This case revealed critical vulnerabilities in NYCERS ’ internal controls, particularly \nregarding segregation of duties, system access controls, and verification procedures."
+    },
+    {
+      "plain": "A $99,999.99 payment on one victim's account was returned several times, a potential fraud risk factor, but NYCERS did not flag the account or give it extra scrutiny.",
+      "quote": "NYCERS did not flag the account or otherwise subject it to additional scrutiny."
+    },
+    {
+      "plain": "NYCERS protocols did not require bank account verification for EFT forms received by mail, and the payroll unit processed Mathieu's fraudulent request without independent checks. The same bank account used for two unrelated pensioners should have been a warning sign.",
+      "quote": "NYCERS protocols also do not require account verifications for EFTs received by mai l."
+    },
+    {
+      "plain": "NYCERS did not keep an audit trail of account access that would have shown when Mathieu got into pension systems, and it failed to notify DOI when one victim reported in person that he had not authorized banking changes.",
+      "quote": "NYCERS did not maintain an audit \ntrail of account access that would have shown when Mathieu accessed various NYCERS systems"
+    },
+    {
+      "plain": "In separate investigations, DOI and NYCERS found rising attempted fraud through account takeovers and fraudulent loan requests on the MyNYCERS online platform, worsened by pandemic-era disruptions; more than half of members have not re-registered on the platform.",
+      "quote": "more than half of NYCERS \nmembers have not re-registered on the MyNYCERS platform."
+    }
+  ],
+  "numbers": [
+    {"value": "$624,000", "label": "Stolen from two pensioners' accounts"},
+    {"value": "$511,115.61", "label": "Restitution the former employee agreed to pay"},
+    {"value": "$113,000", "label": "Recovered by NYCERS from the defendant's account"},
+    {"value": "430,000", "label": "Active NYCERS members and retirees"},
+    {"value": "11", "label": "Recommendations DOI made to strengthen controls"}
+  ],
+  "recommendations": [
+    "Improve internal controls with regular review of reactivated suspended accounts, especially those paying $3,000 or more a month, periodic audits of retroactive payments and returned-payment patterns and regular assessment of access controls.",
+    "Periodically review all accounts suspended for three years to determine whether members are still alive, including contacting family and checking obituaries and probate court records.",
+    "Expand bank account verification to cover electronic fund transfer requests received by mail.",
+    "Provide enhanced training for NYCERS employees, including regular ethics training stressing personal responsibility in fraud prevention.",
+    "Develop internal fraud algorithms that alert staff to duplicate bank accounts or shared contact information across profiles and to transfer requests going to high-risk banks tied to past fraud.",
+    "Maintain electronic audit logs of all account access and changes, including who made them.",
+    "Require two-factor authentication when members contact NYCERS to change account information.",
+    "Notify members by email or text immediately when someone logs into their account, with device, browser and location details.",
+    "Monitor IP addresses and review or block logins from geographic regions inconsistent with prior use.",
+    "Replace mail, email and fax submission of sensitive documents with a secure upload portal using two-factor authentication and time-locked session links.",
+    "Require identity confirmation by the relevant United States consulate plus a NYCERS video interview for reactivation requests from members living overseas."
+  ],
+  "agency_response": "NYCERS cooperated with the investigation and has already made reforms, including two-tier approval for account reactivations, restricted access to suspended account data and the mailroom, in-person or video confirmation for reactivations, a new anti-fraud policy and an anonymous whistleblower hotline.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["money and contracts", "seniors", "labor"],
+  "is_followup": false
+}

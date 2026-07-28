@@ -1,0 +1,76 @@
+{
+  "id": "2026-01-13-twentieth-monitor-report",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Twentieth Report for the Monitoring Period January 1, 2025 to June 30, 2025",
+  "plain_title": "Monitor finds toxic culture and backsliding on candor at Rikers",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-01-13",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2026/01/2026-01-13-20th-Monitors-Report.pdf",
+  "what_they_audited": "The court-appointed independent monitor's 20th compliance assessment of the Department of Correction under the Nunez court orders, covering January through June 2025, including staff deployment, use of force and security practices, management of people in custody, in-custody deaths and compliance ratings for 40 court order provisions.",
+  "background": "The report was filed just over 10 years after the 2015 consent judgment, days after the court announced it was actively reviewing remediation manager applicants and before the new mayor had named a correction commissioner. Five commissioners have led the agency over the decade and the monitor describes 2021 to 2023 as a true crisis at all levels.",
+  "findings": [
+    {
+      "plain": "Two December 2025 use of force incidents captured on body-worn cameras, one in which an officer yelled 'Don't leave marks' before another apparently kicked a restrained man and one in which an officer appeared to secretly apply chemical spray to his boot and place it by a restrained man's face, illustrate what the monitor calls a toxic culture of coordinated deception.",
+      "quote": "including body-worn cameras and stationary cameras, is demonstrative of a toxic culture"
+    },
+    {
+      "plain": "The reform effort continues at a glacial pace, with the department still normalizing poor practices and high violence, lacking elementary skills at all levels, cycling through leadership and operating in a perpetual state of crisis.",
+      "quote": "The reform effort continues to progress at a glacial pace."
+    },
+    {
+      "plain": "The risk of harm remains unreasonably high, and the circumstances of most of the 15 in-custody deaths in 2025 reflect dereliction of duty including staff off post, failures to supervise, unenforced lock-in procedures, dangerous contraband and lack of urgency in emergencies.",
+      "quote": "...duty, including staff being off post, failure to supervise, failure to enforce basic lock-in "
+    },
+    {
+      "plain": "The monitor found that past patterns of limiting transparency, minimizing problems, shifting blame and using false or misleading information appear to have reemerged in some instances, including in the department's August 2025 Safety Plan and its consultants' recommendations.",
+      "quote": "previous patterns of attempting to limit transparency, minimize issues, divert "
+    },
+    {
+      "plain": "The monitor also documented real progress: violence indicators remain below the 2021 crisis peak, nearly 1,000 backlogged intake investigations were closed, the use of force disciplinary backlog is at an all-time low, body-worn camera use expanded and 270 new correction officers graduated from the academy.",
+      "quote": "The Trials Division’s use of force-related disciplinary backlog is at an all-time low "
+    },
+    {
+      "plain": "With 15 contempt provisions added to the existing 25 this period, the monitoring team now rates the department's compliance with 40 of the hundreds of provisions in the Nunez court orders.",
+      "quote": "...assesses compliance with 40 of the hundreds of provisions contained in the Nunez Court Orders."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "15",
+      "label": "In-custody deaths in 2025 discussed in the report"
+    },
+    {
+      "value": "40",
+      "label": "Court order provisions now rated for compliance"
+    },
+    {
+      "value": "Nearly 1,000",
+      "label": "Backlogged intake investigations closed"
+    },
+    {
+      "value": "270",
+      "label": "New correction officers who graduated from the academy"
+    }
+  ],
+  "recommendations": [
+    "Develop a strategic plan that clearly defines reform priorities and how leadership, staffing and resources will be allocated to address them.",
+    "Officers and captains must properly manage and supervise housing units to reduce violence and assaults, with supervisors adopting a skill-development focus and consideration given to a larger organizational management strategy with the remediation manager.",
+    "Basic and sound security practices must become embedded in staff's routine duties on housing units.",
+    "Staff absenteeism must continue to be curtailed and the number of staff deployed to posts engaging the incarcerated population must be maximized.",
+    "Tour commanders and control room captains must ensure sufficient staff are assigned to housing unit and ancillary posts so services are provided consistently and reliably.",
+    "Unnecessary and excessive force must be reduced, especially high impact force such as head strikes, with consistent implementation of the use of force directive and greater staff understanding of proportionality.",
+    "Facility leadership must be more directly involved in identifying and remediating poor staff practice, with an infusion of correctional expertise reaching more deeply into daily practice.",
+    "The department must continue reducing investigative caseloads by allocating resources according to incident severity, expanding the triage pilot as appropriate.",
+    "Accountability for staff misconduct must be imposed closer in time to the incidents in which it occurred.",
+    "The department must engage the remediation manager and the monitoring team transparently and collaboratively, without which the synergy required to advance reform will remain elusive."
+  ],
+  "agency_response": "The department produced an August 2025 Safety Plan and worked with retained consultants on recommendations for achieving compliance, but the monitor found this work premised in part on false and misleading information, mischaracterizations of the record and arguments the court has already repudiated.",
+  "implementation_note": "",
+  "compliance_note": "The monitor concludes the department's entrenched culture of dysfunction persists, the risk of harm to people in custody and staff remains unreasonably high and there has not been sufficient forward momentum to counteract the pull of dysfunctional practices, despite pockets of progress since the 2021 crisis.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

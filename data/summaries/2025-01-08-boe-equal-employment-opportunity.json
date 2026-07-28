@@ -1,0 +1,57 @@
+{
+  "id": "2025-01-08-boe-equal-employment-opportunity",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Equal Employment Opportunity Policies and Practices at the New York City Board of Elections",
+  "plain_title": "Elections board chief harassed staff and its EEO program is broken",
+  "agency": "New York City Board of Elections",
+  "issued": "2025-01-08",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/02BOERpt.Release01.08.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/02BOERpt.Release01.08.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) investigated workplace harassment allegations against Michael Ryan, Executive Director of the New York City Board of Elections (BOE), and reviewed the BOE's Equal Employment Opportunity (EEO) policies and practices.",
+  "background": "The BOE is a non-mayoral city entity that administers elections in New York City, overseen by a ten-member bipartisan Board of Commissioners with a staff of over 900 employees. DOI took the case because an agency cannot impartially investigate its own executive director and the BOE in particular lacked a sufficient process to do so.",
+  "findings": [
+    {
+      "plain": "DOI concluded that Ryan's conduct constituted harassment and created a hostile work environment for two employees in violation of the BOE's EEO policies, and more likely than not violated state and city human rights laws.",
+      "quote": "Ryan’s conduct constituted harassment and created a hostile work environment for these \ntwo employees in violation of  BOE’s Equal Employment Opportunity (“EEO”) policies."
+    },
+    {
+      "plain": "One employee endured sexually suggestive and ethnicity-based comments over about four months in 2024, causing significant anxiety and contributing to her decision to resign. A second employee described unwanted ethnicity- and gender-based comments during her DOI interview.",
+      "quote": "caused Complainant 1 to experience significant anxiety and emotional distress, and \nultimately contributed to her decision to resign"
+    },
+    {
+      "plain": "The BOE's EEO policy lacked a confidential complaint mechanism or an independent investigation protocol for allegations against its executive director and other senior staff.",
+      "quote": "the BOE’s EEO Policy lacked a confidential complaint mechanism or independent investigation \nprotocol for allegations against its Executive Director and other senior staff."
+    },
+    {
+      "plain": "Unlike other city agencies, the BOE had no EEO Officer handling complaints, investigations, accommodation requests and recordkeeping independently of senior staff, and commissioners and senior staff were confused about whether the citywide EEO policy even applied to the BOE.",
+      "quote": "the BOE did not have an EEO Officer who handles routine EEO responsibilities independently of \nother senior staff"
+    },
+    {
+      "plain": "DOI told the board that termination or resignation was warranted, but the board instead suspended Ryan for three weeks without pay, ordered sensitivity training and placed him on probation for a year. Ryan had completed the city's EEO and harassment prevention training during the period the conduct occurred.",
+      "quote": "The Board declined to terminate Ryan or to give him the opportunity to \nresign; instead, the Board suspended Ryan for three weeks without pay"
+    },
+    {
+      "plain": "This is the second set of substantiated allegations DOI knows of involving misconduct by a senior BOE leader implicating its EEO policy, after a previous case involving the BOE's former general counsel that ended in a criminal conviction.",
+      "quote": "two such instances make \nclear the need for significant reforms to the BOE’s EEO program."
+    }
+  ],
+  "numbers": [
+    {"value": "900", "label": "BOE staff, plus part-time and temporary election workers"},
+    {"value": "14", "label": "BOE personnel interviewed, including commissioners"},
+    {"value": "six", "label": "Policy and procedure recommendations issued"}
+  ],
+  "recommendations": [
+    "Formally appoint a qualified EEO Officer reporting directly to both the executive director and the president of the Board of Commissioners, and properly staff the EEO office with qualified professionals.",
+    "Communicate the identity and contact information of the EEO Officer and other EEO professionals to all BOE staff annually and at other appropriate intervals.",
+    "Formally adopt the citywide EEO policy as the BOE's own, follow Department of Citywide Administrative Services (DCAS) guidance and include requirements for confidential independent investigations, referral of allegations against top officials to another city entity and detailed complaint and recordkeeping procedures.",
+    "Train all BOE personnel, including executive management and commissioners, at regular intervals on the EEO policy and sexual harassment prevention.",
+    "Report regularly to an external city entity, such as DCAS, on EEO activities including complaints, investigations, reasonable accommodations and training.",
+    "Formally subject the BOE to audits and oversight by the New York City Equal Employment Practices Commission."
+  ],
+  "agency_response": "The board indicated it will \"review and update its [EEO] policies and procedures in part based on DOI's recommendation.\" It declined DOI's view that termination or resignation was warranted, opting for a three-week unpaid suspension, training and a year of probation.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["labor", "transparency"],
+  "is_followup": false
+}

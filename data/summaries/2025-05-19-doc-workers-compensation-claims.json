@@ -1,0 +1,53 @@
+{
+  "id": "2025-05-19-doc-workers-compensation-claims",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees",
+  "plain_title": "Correction employees' injury claims cost the city over $340 million",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-05-19",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/25Rpt.Release.WorkersComp05.19.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/25Rpt.Release.WorkersComp05.19.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined the volume and cost of workers' compensation claims filed by New York City Department of Correction (DOC) employees, after several city agencies including the City Law Department raised concerns about the claims.",
+  "background": "Under New York law employers must pay workers' compensation benefits when an employee is disabled by an on-the-job injury, and the city self-insures, meaning awards are directly funded by public money. The Law Department represents the city in proceedings before the state Workers' Compensation Board.",
+  "findings": [
+    {
+      "plain": "In fiscal year 2024 the city paid more than $340 million for workers' compensation claims by correction department employees, compared with just under $225 million for claims by employees of all other mayoral agencies combined.",
+      "quote": "it paid just under $225 million for claims by  employees of all other"
+    },
+    {
+      "plain": "Over fiscal years 2022 through 2024, the city's total spending on claims by correction employees passed the billion-dollar mark.",
+      "quote": "compensation claims by DOC employees exceeded $1 billion."
+    },
+    {
+      "plain": "Between fiscal 2015 and fiscal 2024, workers' compensation expenses for correction employees grew about 337%, from roughly $78 million to roughly $341 million, while expenses for all other mayoral agencies combined grew only 65%.",
+      "quote": "expenses for DOC employees grew by approximately 337%"
+    },
+    {
+      "plain": "Correction employees led all mayoral agencies in claims filed, with 3,547 new claims in fiscal 2024. Many claims that drove the increase were for permanent partial disability, where employees can collect lump-sum Schedule Loss of Use awards while continuing to draw their usual wages.",
+      "quote": "many \nDOC employees who receive SLU awards have also continued to receive their usual \nwages on top of significant payments"
+    },
+    {
+      "plain": "DOI and federal prosecutors announced charges against one current and two former correction officers for allegedly fraudulent claims. DOI said it cannot yet conclude that other employees are submitting false claims but that the pattern raises serious concerns that fraud goes beyond the three charged.",
+      "quote": "the pattern of claims by \nDOC employees as described above raises serious concerns that fraud in the workers’ \ncompensation space goes well beyond these three charged employees."
+    }
+  ],
+  "numbers": [
+    {"value": "$340 million", "label": "Paid for DOC employees' claims in fiscal year 2024"},
+    {"value": "$225 million", "label": "Paid for all other mayoral agencies' claims that year"},
+    {"value": "$1 billion", "label": "Total DOC claim costs over fiscal years 2022-2024"},
+    {"value": "337%", "label": "Growth in DOC claim expenses, fiscal 2015 to 2024"},
+    {"value": "3,547", "label": "New claims filed by DOC employees in fiscal 2024"}
+  ],
+  "recommendations": [
+    "The Law Department should appoint a Director of Claims Integrity to identify potentially fraudulent workers' compensation claims by city employees and serve as a liaison referring possible fraud to DOI.",
+    "The Law Department should evaluate the anti-fraud training it gives city employees who review and approve workers' compensation claims, in coordination with DOI, to decide whether changes are needed.",
+    "The correction department should appoint a Director of Workplace Safety to monitor accident statistics, examine safety conditions at its facilities, develop clear safety protocols and train employees on workplace safety.",
+    "The correction department should update and reissue Directive #1004, its procedures for filing workers' compensation claims."
+  ],
+  "agency_response": "The Law Department accepted both of its recommendations, the first contingent on city funding for the new position. The correction department said it will consider appointing a workplace safety director and accepted the recommendation to update its claims-filing directive.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["money and contracts", "labor"],
+  "is_followup": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2025-10-15-nypd-criminal-group-database-update",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations",
+  "plain_title": "Gang database reforms are half done, so watchdog adds 13 more",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-15",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf",
+  "what_they_audited": "The Department of Investigation's (DOI) Office of the Inspector General for the New York City Police Department (OIG-NYPD) assessed how the NYPD has implemented recommendations from OIG-NYPD's 2023 report on the Criminal Group Database (CGD), reviewing database entries and paperwork for a sample of 531 individuals.",
+  "background": "OIG-NYPD's 2023 report on the gang database made 17 recommendations, of which NYPD accepted 11, rejected five and placed one under consideration. As of December 2022 the database held 16,141 people, 98% of them male, identified as Black or Hispanic and under 42.",
+  "findings": [
+    {
+      "plain": "The database shrank 39% between December 2022 and October 2025, from 16,141 people to 8,563, while its demographics stayed largely the same: predominantly Black and Hispanic men aged 18 to 34.",
+      "quote": "as of October 2025, the numbers had \ndeclined by 39%, to 8,563."
+    },
+    {
+      "plain": "Of the eight accepted recommendations reviewed in depth, four were fully implemented and four partially implemented. NYPD updated its policies in October 2023 consistent with the accepted recommendations, though gaps remain.",
+      "quote": "finding four have been fully implemented and four partially implemented."
+    },
+    {
+      "plain": "Renewals and deactivations still are not reviewed by a supervisor or subject to a multilevel review process, contrary to a recommendation NYPD accepted in 2023.",
+      "quote": "the renewal and deactivations are not \nreviewed by a supervisor or otherwise subject to a multilevel review process"
+    },
+    {
+      "plain": "Despite a new parental notification process for minors added to the database, the department failed to complete any notifications; NYPD says a new procedure putting the duty on the nominating detective is still pending.",
+      "quote": "Despite the updated IUP and the Chief of Detectives Memorandum, the Department failed to \ncomplete any notifications."
+    },
+    {
+      "plain": "Review delays got worse: at least 151 entries, including 48 minors, were between six and more than 60 months past due for renewal or deactivation review. After OIG-NYPD flagged the delays, NYPD says the maximum is now eight days.",
+      "quote": "delays were even \nlonger with at least 151 entries (48 minors and 103 adults) between 6 and 60+ months past due"
+    },
+    {
+      "plain": "A vendor coding error wrongly stretched the review period from two years to three for people added at 16 or 17 who turned 18 before their review; 48 of 59 minors reviewed were delayed six to 60 months. NYPD says the error is corrected.",
+      "quote": "the automated review system incorrectly extended the review time from two years to three years if a \nperson was activated at 16 or 17"
+    },
+    {
+      "plain": "Activation paperwork improved but some officers filled forms out incorrectly, including listing themselves as one of the two required independent sources, and source justifications were often boilerplate with no specific supporting information.",
+      "quote": "there wer e reporting \nofficers who listed themselves as one of the two sources."
+    }
+  ],
+  "numbers": [
+    {"value": "8,563", "label": "People in the database as of October 2025"},
+    {"value": "16,141", "label": "People in the database as of December 2022"},
+    {"value": "39%", "label": "Decline in database size since December 2022"},
+    {"value": "531", "label": "Individuals in OIG-NYPD's review sample"},
+    {"value": "151", "label": "Entries at least six months past due for review"},
+    {"value": "13", "label": "New recommendations issued in this report"}
+  ],
+  "recommendations": [
+    "Ensure all uniformed personnel authorized to nominate people into the database are trained on the Impact and Use Policy and the Chief of Detectives Memorandum.",
+    "Require the two independent reliable sources to give substantive explanations for their belief in an individual's criminal group membership and document those explanations on activation forms.",
+    "Clarify that the two independent sources must be different from the reporting officer.",
+    "Update the Impact and Use Policy to mirror the detailed guidelines in the Chief of Detectives Memorandum.",
+    "Establish a multilevel review process for renewals with supervisor sign-off on all renewal forms, as previously recommended and accepted, and list the required supporting documentation.",
+    "Require the nominating detective to notify a juvenile's parent or guardian within 60 days of activation into the database.",
+    "Ensure renewal and activation forms include a required field with the individual's next review date.",
+    "Create a written internal audit requirement to verify that parental notifications for minors are made, documented and recorded in a new database column.",
+    "Confirm whether anyone activated at 16 or 17 went more than two years without review because of the coding error, and review whether they should be renewed or deactivated.",
+    "Ensure supporting documentation is included for all renewals.",
+    "Conduct quarterly audits so no entries are past due for review, and immediately renew or deactivate any that are.",
+    "Review individuals renewed based on an arrest every six months to make sure renewals do not rest on arrests that were later sealed, at minimum exploring whether such an audit is feasible.",
+    "Collect, analyze and publish data annually on the number of entries added, renewed and deactivated."
+  ],
+  "agency_response": "NYPD promptly moved to reduce review backlogs when OIG-NYPD flagged them, saying the maximum delay is now eight days, corrected the vendor coding error and plans to shift parental notification duties to nominating detectives and strip sealed-arrest details from database forms.",
+  "implementation_note": "Of the 17 recommendations in the 2023 report, NYPD accepted 11, rejected five and placed one under consideration; of the eight accepted recommendations assessed here, four were fully implemented and four partially implemented, and of the remaining three accepted, two were implemented and one was not yet implemented.",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency", "children and youth"],
+  "is_followup": true
+}

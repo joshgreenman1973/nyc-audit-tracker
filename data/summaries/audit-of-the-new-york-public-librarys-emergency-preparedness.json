@@ -1,0 +1,77 @@
+{
+ "id": "audit-of-the-new-york-public-librarys-emergency-preparedness",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Audit of the New York Public Library’s Emergency Preparedness",
+ "plain_title": "New York Public Library helps in crises but has planning gaps",
+ "agency": "New York Public Library",
+ "issued": "2025-06-27",
+ "url": "https://comptroller.nyc.gov/reports/audit-of-the-new-york-public-librarys-emergency-preparedness/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/SR24-083A.pdf",
+ "what_they_audited": "This audit letter report examined whether the New York Public Library is adequately prepared to plan for and respond to emergencies, keep its operations running and serve the public during major disasters and other events.",
+ "background": "The New York Public Library is a private nonprofit with 92 locations across the Bronx, Manhattan and Staten Island, and it served nearly 8 million visitors in fiscal year 2024. Federal law and the American Library Association recognize the role libraries play in responding to disasters.",
+ "findings": [
+  {
+   "plain": "The library served the public during emergencies, with branches acting as cooling centers on hot days and warm places on freezing days, and free Wi-Fi working at every branch auditors tested.",
+   "quote": "NYPL served the public in numerous ways during emergencies but needs to improve certain aspects of its emergency preparedness"
+  },
+  {
+   "plain": "The library refused to give auditors its business continuity, disaster recovery and information technology incident response plans or evidence they were tested, citing security concerns. Auditors noted the city charter entitles the comptroller's office to such records, and a belated offer to inspect the plans allowed only 30 minutes.",
+   "quote": "NYPL did not provide the auditors with its Business Continuity Plan, Disaster Recovery Plan, or IT Incident Response Plan, or evidence that these plans were tested."
+  },
+  {
+   "plain": "Most branches did not conduct the required annual fire drill: 70 of 81 locations, or 86.4%, had no drill logged for calendar year 2024.",
+   "quote": "70 (86.4%) of the 81 locations list did not conduct a fire drill during Calendar Year 2024"
+  },
+  {
+   "plain": "Sampled branches did not complete required emergency preparedness documents. The library produced all requested key documents for only eight of 17 sampled branches.",
+   "quote": "NYPL provided all requested key documents for only eight (47.1%) sampled branches"
+  },
+  {
+   "plain": "Of the 66 branches that answered an auditor survey, 17 said the central office did not inform them of emergency alerts in their area.",
+   "quote": "17 branches stated that the Central Office did not inform them of emergency alerts in their area"
+  },
+  {
+   "plain": "The library has not implemented, and told auditors it will not implement, flood protection measures at the Aquilar branch, its only location in the 500-year floodplain, even though the branch is being renovated.",
+   "quote": "NYPL has not implemented flood protection and mitigation measures at Aquilar, the only branch located in the 500-year floodplain"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "8 million",
+   "label": "Visitors served in fiscal year 2024"
+  },
+  {
+   "value": "92",
+   "label": "Locations across the Bronx, Manhattan and Staten Island"
+  },
+  {
+   "value": "86.4%",
+   "label": "Locations with no fire drill logged in 2024"
+  },
+  {
+   "value": "47.1%",
+   "label": "Sampled branches with all required safety documents on file"
+  },
+  {
+   "value": "30 minutes",
+   "label": "Time auditors were given to inspect the withheld plans"
+  }
+ ],
+ "recommendations": [
+  "Ask the federal Cybersecurity and Infrastructure Security Agency to conduct an infrastructure survey assessment of the library's overall security and resilience.",
+  "Test, review and update the business continuity plan, cybersecurity plan and information technology incident response plan at least annually.",
+  "Consider implementing a mesh Wi-Fi network, which supports communications in hard-to-reach areas and can be used in emergency response.",
+  "Make sure annual fire drills are conducted at all locations.",
+  "Establish a centralized tracking and reporting system so all branches submit their required security plans, checklists, safety surveys and resource lists.",
+  "Make sure critical emergency alerts from New York City Emergency Management are promptly relayed to all branch managers and staff.",
+  "Consider flood protection and mitigation measures at the Aquilar branch given its floodplain location."
+ ],
+ "agency_response": "The library agreed with six of the seven recommendations and disagreed with one, on mesh Wi-Fi, saying its fiberoptic network makes mesh Wi-Fi impracticable for emergency response communications.",
+ "implementation_note": "",
+ "topics": [
+  "public safety",
+  "technology"
+ ],
+ "is_followup": false
+}

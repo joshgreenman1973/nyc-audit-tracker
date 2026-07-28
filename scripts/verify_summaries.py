@@ -56,8 +56,12 @@ for f in sorted((ROOT / "data" / "summaries").glob("*.json")):
                 if p not in src:
                     fails.append(f"{f.name}: finding {i+1} quote not verbatim: {q[:80]}")
                     break
+    # PDF text extraction often splits digits ("12 0 of 2 38"), so numbers get a
+    # second pass against a copy with spaces inside digit runs removed.
+    src_despaced = re.sub(r"(?<=\d)[ ,]?\s+(?=\d)", "", src)
     for n in s.get("numbers", []):
-        if norm(n["value"]) not in src:
+        v = norm(n["value"])
+        if v not in src and re.sub(r"\s+", "", v) not in src_despaced:
             fails.append(f"{f.name}: number not in source: {n['value']}")
 
 if fails:

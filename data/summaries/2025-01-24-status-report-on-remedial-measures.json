@@ -1,0 +1,63 @@
+{
+  "id": "2025-01-24-status-report-on-remedial-measures",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Status Report on Remedial Measures",
+  "plain_title": "How a court takeover of Rikers should be built, per the monitor",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-01-24",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2025/01/2025-01-24-Report.pdf",
+  "what_they_audited": "A report from the court-appointed independent monitor in Nunez v. City of New York advising the court on how to structure remedial relief, such as a receivership, for the city jails after the court held the city in contempt, drawing on a review of receiverships in nine other jail and prison systems.",
+  "background": "After oral argument on the contempt motion, the court's September 26, 2024 order directed the parties to develop remedial proposals through a meet and confer process organized by the monitoring team, including a fully fleshed-out description of the authority and structure of a receivership or other framework and a method for streamlining the court orders in the case.",
+  "findings": [
+    {
+      "plain": "Reviewing nine correctional receivership cases around the country, the monitoring team found receivers have been used sparingly and that there is no standard model for this kind of relief in jails or prisons.",
+      "quote": "There is also no standard model for remedial relief that involves receiverships, or "
+    },
+    {
+      "plain": "A principal weakness in managing the Nunez reforms has been the lack of continuity in department leadership, so the remedial framework should guarantee consistent leadership with clear reporting lines.",
+      "quote": "...managing the Nunez Court Orders has been a lack of continuity of leadership."
+    },
+    {
+      "plain": "The court orders in the case have grown so numerous and interconnected that they no longer provide a workable framework: there are at least ten orders with likely more than 500 provisions, and they need to be organized and streamlined.",
+      "quote": "There are at least ten Nunez Court Orders representing likely over 500 provisions."
+    },
+    {
+      "plain": "The monitor identified priority areas any remedy must address, including widespread security failures, staff assignment and absenteeism, expanding the supervisory structure from two to three lines, safely managing people who commit serious violence and swifter staff discipline.",
+      "quote": "The highest priority must be to reduce "
+    },
+    {
+      "plain": "Despite years of new policies and procedures, the essential ingredient of culture change in the department has still not happened, and staff must be genuinely engaged in the reform effort.",
+      "quote": "...component of culture change has yet to take place."
+    },
+    {
+      "plain": "The monitor concluded no single fix will resolve the department's deeply entrenched problems, and any remedy must define clear, measurable criteria for ending court control and for sustaining reforms afterward.",
+      "quote": "There is no providential formula"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "over 500",
+      "label": "Provisions likely contained across the Nunez court orders"
+    },
+    {
+      "value": "over 300",
+      "label": "Provisions in the consent judgment alone"
+    }
+  ],
+  "recommendations": [
+    "Structure remedial relief around continuity in managing the Nunez reforms: a practical leadership structure with clear lines of authority, leaders with deep correctional expertise, maximizing work already underway and a willingness to make unpopular decisions.",
+    "Define the structure of the relief up front, including specific, measurable criteria for terminating the remedial measure and a design that sustains reforms after court control ends.",
+    "Focus the relief on priority areas: sound correctional practice to reduce the risk of harm, streamlined budgeting and hiring, staff assignment and absenteeism, an expanded supervisory structure, managing people after serious violence, staff accountability and engaging staff in reform.",
+    "Preserve a neutral and independent assessment of the department's functioning during and after any remedial measure.",
+    "Direct the monitoring team to manage the process of streamlining the Nunez court orders, submitting a timeline to the court within 30 days of the ruling on remedial measures."
+  ],
+  "agency_response": "The parties' own remedial proposals are attached to the report, and the parties reported that they consent to the monitoring team's recommended approach for managing the streamlining of the court orders.",
+  "implementation_note": "",
+  "compliance_note": "The report follows the court's finding of civil contempt and stresses that the department's problems are so deeply entrenched that no single solution will fix them with the speed current conditions demand.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

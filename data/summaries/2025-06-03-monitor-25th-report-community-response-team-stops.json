@@ -1,0 +1,61 @@
+{
+  "id": "2025-06-03-monitor-25th-report-community-response-team-stops",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Twenty-Fifth Report of the Independent Monitor: The NYPD's Community Response Team's Stop, Frisk, and Search Practices",
+  "plain_title": "Quality-of-life police teams made unlawful stops at high rates",
+  "agency": "New York City Police Department",
+  "issued": "2025-06-03",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2025/06/963-Twenty-Fifth-Report-of-the-Independent-Monitor.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2025/06/963-Twenty-Fifth-Report-of-the-Independent-Monitor.pdf",
+  "what_they_audited": "The stop, frisk and search practices of the New York City Police Department's (NYPD) Community Response Team (CRT) units from July to December 2024, using three methods: a review of 100 body-worn camera (BWC) videos from randomly selected CRT officers, a review of 50 videos officers had labeled as Level 2 investigative encounters and an assessment of 50 CRT stop reports.",
+  "background": "The NYPD established the CRT in July 2022 to focus on quality-of-life issues; its officers wear modified uniforms of khaki pants and blue shirts and drive unmarked cars. An initial monitor review in early 2024 found the teams focused on illegal motorcycles, demonstrations and unlicensed marijuana shops rather than Terry stops, but community complaints and a significant expansion of the teams prompted this second audit.",
+  "findings": [
+    {
+      "plain": "The teams' role has shifted: rather than addressing specific quality-of-life conditions or answering calls for service, CRTs now operate like the department's Neighborhood Safety Teams (NST) and Public Safety Teams (PST), doing proactive enforcement.",
+      "quote": "CRTs appear to be another version of NSTs or PSTs, engaging in proactive enforcement"
+    },
+    {
+      "plain": "CRT officers overwhelmingly made stops based on their own observations rather than 911 or 311 calls: 96% of the stop reports CRT officers prepared in the third quarter of 2024 were self-initiated.",
+      "quote": "96% of stop reports prepared by CRT officers..."
+    },
+    {
+      "plain": "CRT officers stopped, frisked and searched people unlawfully at higher rates than patrol officers. In this audit 84% of CRT stops, 64% of frisks and 59% of searches were lawful, compared with 92%, 89% and 77% for patrol officers in the monitor's prior report.",
+      "quote": "84% for stops, 64% for frisks, and 59% for searches"
+    },
+    {
+      "plain": "Supervisory review was largely absent. Reviewing supervisors found a legal basis for all but one of 50 reported CRT stops and deemed every reported frisk and search lawful, even though the monitor found unlawful stops, frisks and searches in the same sample.",
+      "quote": "There was a lack of meaningful NYPD supervisory review of CRT stops."
+    },
+    {
+      "plain": "Officers mislabeled Terry stops as lower-level encounters and skipped required stop reports. Of 13 encounters on body-worn camera that the monitor determined were Terry stops, only four (31%) had stop reports prepared at the time.",
+      "quote": "only four (31%) had stop reports prepared documenting the encounters."
+    },
+    {
+      "plain": "The people stopped were overwhelmingly Black and Hispanic men: 97% of the persons stopped, frisked and searched during Terry stops in this audit, and 90% of all persons CRT officers encountered across the three samples.",
+      "quote": "Ninety-seven percent of the persons stopped, frisked, and searched by CRT officers during..."
+    },
+    {
+      "plain": "CRT traffic stops frequently turned into searches that found almost nothing, and officers often sought consent to search without a lawful basis. Of 119 traffic stops in the audit, 75 (63%) involved a search, contraband was recovered in only two (2.7%) and in 38.3% of consent search requests nothing in the video supported the request.",
+      "quote": "In 38.3% of consent searches, there was nothing evident in the BWC footage"
+    }
+  ],
+  "numbers": [
+    {"value": "84%", "label": "CRT stops found lawful in the audit"},
+    {"value": "96%", "label": "CRT stop reports that were self-initiated, third quarter of 2024"},
+    {"value": "90%", "label": "Persons encountered who were Black or Hispanic men"},
+    {"value": "63%", "label": "Audited traffic stops that involved a search"},
+    {"value": "2.7%", "label": "Traffic-stop searches that found contraband"},
+    {"value": "38.3%", "label": "Consent search requests with no apparent founded suspicion"}
+  ],
+  "recommendations": [
+    "CRT officers should reach the same compliance levels the monitor set for Neighborhood Safety Team officers: at least 85% by the end of the third quarter of 2025 and at least 90% by the end of the year.",
+    "The department should tell the monitor what steps it will take to keep officers within the bounds of the Fourth Amendment during traffic stops and consent searches, including any additional training, directives or monitoring that may be required.",
+    "As the department finalizes its Fourteenth Amendment compliance plans, it should ensure an analysis of CRT operations is included in the plan's implementation."
+  ],
+  "agency_response": "The City argued that traffic stops and consent searches are beyond the scope of the monitorship; the monitor responded that the Fourth Amendment applies equally to vehicle stops and pedestrian stops. The department agreed with the monitor that the seven mislabeled encounters in the Level 2 sample were Terry stops.",
+  "implementation_note": "",
+  "compliance_note": "The monitor found CRT stops, frisks and searches lawful less often than those by patrol officers and comparable to the NST and PST specialized units, and directed the teams to reach at least 85% compliance by the end of the third quarter of 2025 and 90% by year end.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

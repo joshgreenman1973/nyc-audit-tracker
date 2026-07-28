@@ -1,0 +1,56 @@
+{
+  "id": "audit-report-on-the-new-york-city-law-departments-timeliness-in-reviewing-agency-contracts",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the New York City Law Department’s Timeliness in Reviewing Agency Contracts",
+  "plain_title": "Slow Law Department reviews of city contracts",
+  "agency": "New York City Law Department",
+  "issued": "2025-06-05",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-law-departments-timeliness-in-reviewing-agency-contracts/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/06/SR24-072A.pdf",
+  "what_they_audited": "Whether the Law Department reviews city agencies' procurement contracts in a timely manner, looking at contracts reviewed from January 2023 through October 2024.",
+  "background": "The Law Department, headed by the Corporation Counsel, must approve the form of all city contracts and leases. Its Contracts and Real Estate Division, with 15 attorneys who also have other responsibilities, evaluates and approves city agreements totaling approximately $10 billion annually. Officials say a review generally takes three to four weeks.",
+  "findings": [
+    {
+      "plain": "For non-mayoral and certain mayoral agency contracts tracked in the Law Manager system, the department blew past its own three-to-four-week norm on 38.1% of contracts in the first nine months of 2024 and 36.1% in 2023, with some reviews running months late.",
+      "quote": "the department took more than four weeks to review and approve 115 (38.1%) of the 302 contracts"
+    },
+    {
+      "plain": "In a random sample of 50 mayoral agency contracts processed through the Procurement and Sourcing Solutions Portal (PASSPort), eight (16%) took more than four weeks to review and approve.",
+      "quote": "the Law Department took more than four weeks to review and approve eight contracts, with delays ranging from one day to nearly two months"
+    },
+    {
+      "plain": "Delays were largely the Law Department's own doing. In a sample of 15 delayed contracts, it was solely responsible nine times and partially responsible three times, with officials citing resource constraints, a mayoral push to prioritize human services contracts and lengthy negotiations.",
+      "quote": "The Law Department was solely responsible for delays in nine instances and partially responsible for delays in three instances."
+    },
+    {
+      "plain": "In one case, the Queens County District Attorney's Office repeatedly asked for an expedited review of a contract for software it called critical to law enforcement operations, but the Law Department did not approve it until nearly two months after the existing contract expired.",
+      "quote": "the Law Department did not approve this contract until July 26, 2024—more than three-and-a-half months after it was received"
+    },
+    {
+      "plain": "The department does not monitor pending contract reviews, flag overdue ones or analyze closed requests, so it cannot tell whether reviews are timely, identify the causes of delays or take corrective action.",
+      "quote": "the Law Department does not monitor pending requests or flag those approaching or past due"
+    },
+    {
+      "plain": "The Mayor's Office of Contract Services (MOCS) has not fixed a PASSPort glitch that hides when contracts are returned to agencies for revision, and it never produced contract milestone data the auditors requested repeatedly over two months.",
+      "quote": "MOCS has not corrected a PASSPort glitch that inhibits the Law Department’s ability to track whether and when contracts are returned to Mayoral agencies and how long they take to respond"
+    }
+  ],
+  "numbers": [
+    {"value": "$10 billion", "label": "Approximate annual value of contracts the division reviews"},
+    {"value": "38.1%", "label": "Law Manager contracts reviewed late in 2024"},
+    {"value": "16%", "label": "Sampled PASSPort contracts reviewed late"},
+    {"value": "15", "label": "Attorneys in the division that reviews contracts"}
+  ],
+  "recommendations": [
+    "Record key milestones in Law Manager or its planned successor LegalStratus or otherwise track them, including when agencies submit contracts, attorneys are assigned, contracts are returned or approved and agencies respond.",
+    "Ask the Mayor's Office of Contract Services to create standard aging reports and reports of closed contracts showing key milestone dates.",
+    "Use Law Manager, LegalStratus and PASSPort to generate biweekly aging reports that flag requests nearing or past the expected review timeframe, and to generate historical reports of closed requests to measure timeliness, identify the causes of delays and take corrective action.",
+    "Assess whether staffing levels are adequate.",
+    "Keep working with the Mayor's Office of Contract Services on issues including the PASSPort glitch involving returned contracts and the system's reporting capabilities."
+  ],
+  "agency_response": "The Law Department disagreed with the report's findings but agreed with three of the five recommendations and partially agreed with two, saying that recording every interaction would be unduly burdensome. Auditors replied that they asked only for key milestones to be tracked.",
+  "implementation_note": "",
+  "topics": ["money and contracts", "transparency"],
+  "is_followup": false
+}

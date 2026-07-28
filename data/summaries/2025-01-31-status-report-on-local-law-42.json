@@ -1,0 +1,60 @@
+{
+  "id": "2025-01-31-status-report-on-local-law-42",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Status Report on Local Law 42",
+  "plain_title": "Monitor's full case against parts of the solitary confinement ban",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-01-31",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2025/01/2025-01-31-Monitors-Report.pdf",
+  "what_they_audited": "The court-appointed independent monitor's comprehensive analysis of Local Law 42, the city law banning solitary confinement and requiring 14 hours of daily out-of-cell time, examining how its rules on restrictive housing, restraints, de-escalation confinement and emergency lock-ins would affect the Department of Correction's operations and its compliance with the Nunez court orders.",
+  "background": "The City Council passed Local Law 42 on December 20, 2023 and enacted it over the mayor's veto on January 30, 2024. The mayor suspended certain provisions by emergency executive order on July 27, 2024, the City Council challenged that suspension in state court and the federal court directed the monitoring team to analyze how the law intersects with the Nunez court orders. This report captures all of that work to date.",
+  "findings": [
+    {
+      "plain": "While the monitoring team found some provisions of the law laudable and consistent with sound correctional practice, it has grave concerns about certain sections whose universal application removes discretion or imposes standards it considers impractical or unsafe to operationalize.",
+      "quote": "the Monitoring Team has grave concerns about the implementation of certain "
+    },
+    {
+      "plain": "On restrictive housing, the team found the law denies the department the discretion needed to build a viable model: it bars any restriction on out-of-cell time, sets arbitrary discharge timeframes such as mandatory release within 30 days regardless of behavior, requires protracted placement procedures and prohibits the enhanced restraints that allow safe group programming.",
+      "quote": "the Law does not permit the Department the necessary discretion to develop "
+    },
+    {
+      "plain": "On restraints, the team found that applying the same stringent procedures to routine restraints as to enhanced restraints creates an impractical bureaucratic burden, and that the blanket ban on enhanced restraints for people under 22 overlooks that violent behavior is not exclusive to older people in custody.",
+      "quote": "...restraints creates an impractical bureaucratic burden"
+    },
+    {
+      "plain": "On de-escalation confinement, the team found the law's fixed time limits, readmission restrictions and universal access requirements impose a one-size-fits-all protocol on situations that require calibrated judgment by correctional managers.",
+      "quote": "...managers must have the discretion to use de-escalation confinement absent arbitrary and absolute "
+    },
+    {
+      "plain": "On emergency lock-ins, the team found that an absolute time limit for ending lock-ins forecloses the informed judgment of the on-scene manager, and that requirements for more frequent observations, universal tablet access and immediate public notification undercut safe resolution of the emergency.",
+      "quote": "An absolute, inflexible, and arbitrary time limit to complete emergency lock-ins "
+    },
+    {
+      "plain": "The monitor concluded that without modifications the highlighted requirements are inconsistent with sound correctional practice, would worsen already dangerous conditions and would impede compliance with the Nunez court orders, and stated it will not approve department practices that include them.",
+      "quote": "will only exacerbate the already dangerous conditions"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "14 hours",
+      "label": "Daily out-of-cell time the law mandates for all incarcerated people"
+    },
+    {
+      "value": "30 days",
+      "label": "Maximum restrictive housing stay under the law, with no exceptions"
+    }
+  ],
+  "recommendations": [
+    "The specific problematic provisions of Local Law 42 identified in the report should not be implemented pending resolution of the legal issues raised by the monitoring team's findings, with the court and parties determining the appropriate legal pathway to mitigate the potential for harm.",
+    "After the court decides on remedial relief in the contempt proceedings, the court should direct the monitor to provide within 30 days a timeline for finalizing specific recommendations on how to address the problematic provisions in a way that is narrowly tailored and permits safe operation of the jails."
+  ],
+  "agency_response": "The department sought the monitor's guidance on the law twice during 2024, and the city told the court it was considering seeking relief, filing a declaration from Commissioner Lynelle Maginley-Liddie stating her belief that many provisions would have deleterious effects on department operations if they took effect.",
+  "implementation_note": "",
+  "compliance_note": "The monitor assessed that certain Local Law 42 provisions, as designed, would undermine the Nunez court orders' purpose of a constitutionally sufficient level of safety and would impede the department's compliance, and said it will not approve practices incorporating them absent modifications.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

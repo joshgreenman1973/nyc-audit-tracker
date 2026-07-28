@@ -1,0 +1,73 @@
+{
+  "id": "2025-05-22-nineteenth-monitor-report",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Nineteenth Report for the Monitoring Period July 1, 2024 to December 31, 2024",
+  "plain_title": "Rikers shows momentum under new leadership but violence stays high",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-05-22",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2025/05/2025-05-22-Monitors-Report.pdf",
+  "what_they_audited": "The court-appointed independent monitor's 19th compliance assessment of the Department of Correction under the Nunez consent judgment and remedial orders, covering July through December 2024, including the department's use of force, its management of people with a propensity for violence, body-worn cameras and compliance with dozens of specific court order provisions.",
+  "background": "The report was filed nearly 10 years after the consent judgment took effect in fall 2015, days after the court's May 13, 2025 order creating a remediation manager to address the city's contempt. Five commissioners have led the agency in that time, at least 10 remedial orders have been issued and the monitor describes 2021 to 2023 as a period of extraordinary instability and danger in the jails.",
+  "findings": [
+    {
+      "plain": "The monitor found the department appears to be emerging from its crisis phase, with tangible momentum toward reform since Commissioner Maginley-Liddie's appointment in December 2023, though the road to sustainable reform remains very long.",
+      "quote": "As will be described throughout this report, the Department appears to be emerging from "
+    },
+    {
+      "plain": "Of the 39 court order provisions rated or updated in the report, the commissioner's team moved the department from non-compliance into partial compliance on 10, sustained progress on 15 already in partial or substantial compliance, made progress on seven others and left seven with no progress.",
+      "quote": "moved the Department out of Non-Compliance and into Partial Compliance "
+    },
+    {
+      "plain": "Key measures of violence and use of force remain far above where they stood when the consent judgment took effect: the systemwide use of force rate was 9.13 in 2024 versus 3.96 in 2016, and the fight rate was 9.95 versus 5.11.",
+      "quote": "substantially higher than those observed at the time the Consent Judgment went into effect"
+    },
+    {
+      "plain": "After ten years, the monitor sees signs that staff practice on use of force has started to change, but says it is too early to draw definitive conclusions and the department has made little progress in reducing how often staff use force.",
+      "quote": "certain signs that Staff practice has started to change"
+    },
+    {
+      "plain": "Excessive and unnecessary uses of force remain pervasive, and the risk of harm in the jails remains high for both incarcerated people and staff.",
+      "quote": "...unnecessary uses of force are still pervasive"
+    },
+    {
+      "plain": "The commissioner's administration catalyzed improvements including restored collaboration with the monitor, stronger leaders, better searches and contraband recovery, an improved restrictive housing unit, faster staff discipline, upgraded body-worn cameras and steps against staff absenteeism.",
+      "quote": "...administration has demonstrated greater acknowledgement and ownership of core problems and "
+    }
+  ],
+  "numbers": [
+    {
+      "value": "39",
+      "label": "Provisions subject to compliance ratings or updates in the report"
+    },
+    {
+      "value": "10",
+      "label": "Provisions moved from non-compliance into partial compliance"
+    },
+    {
+      "value": "9.13",
+      "label": "Systemwide monthly use of force rate in 2024, up from 3.96 in 2016"
+    },
+    {
+      "value": "9.95",
+      "label": "Systemwide monthly fight rate in 2024, up from 5.11 in 2016"
+    }
+  ],
+  "recommendations": [
+    "Staff must reduce unnecessary uses of force, including head strikes and dangerous takedowns.",
+    "Improved security practices must be embedded into staff practice through the department's security plan work.",
+    "The department must continue reducing staff absenteeism and improve deployment of staff to housing unit and other facility posts that engage the incarcerated population.",
+    "Officers and captains must properly manage and supervise housing units to reduce interpersonal violence and assaults on staff.",
+    "Staff must be properly deployed to housing unit posts to ensure supervision and service delivery, and facility leadership must be more directly involved in identifying and fixing poor practice.",
+    "The department must reduce investigative caseloads by triaging incidents so administrative reviews handle simpler cases and resources go to incidents needing in-depth investigation.",
+    "Accountability for staff misconduct must be imposed closer in time to the incidents in which misconduct occurs."
+  ],
+  "agency_response": "The monitor writes that the commissioner's administration has shown greater acknowledgement and ownership of core problems than past leadership, which it calls critical for institutional change.",
+  "implementation_note": "",
+  "compliance_note": "Of the 39 provisions assessed, the department newly reached partial compliance on 10 and sustained progress on 15, but the monitor stresses that violence and use of force rates remain substantially higher than when the consent judgment took effect and the risk of harm remains high.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

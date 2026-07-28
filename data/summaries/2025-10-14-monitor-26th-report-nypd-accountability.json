@@ -1,0 +1,58 @@
+{
+  "id": "2025-10-14-monitor-26th-report-nypd-accountability",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Twenty-Sixth Report of the Independent Monitor: The NYPD's Accountability Efforts",
+  "plain_title": "Few consequences for officers who made unlawful stops",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-14",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2025/10/2025.10.14-As-filed-Floyd-26th-Monitor-Report.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2025/10/2025.10.14-As-filed-Floyd-26th-Monitor-Report.pdf",
+  "what_they_audited": "The effectiveness of the New York City Police Department's (NYPD) internal accountability systems for unconstitutional stops, frisks and searches: how commands responded to audits by the department's Quality Assurance Section (QAS), whether the court-ordered Early Intervention Program (EIP) changed officer behavior and how the department's ComplianceStat meetings held commanders accountable.",
+  "background": "Accountability for unconstitutional stops is key to compliance with the federal court's orders in Floyd v. City of New York, Ligon v. City of New York and Davis v. City of New York. Each quarter QAS audits a sample of stop reports from every command, the court ordered an early warning system in 2020 to flag at-risk officers and the department launched ComplianceStat meetings in January 2024 to question borough and command staff on compliance.",
+  "findings": [
+    {
+      "plain": "There was little accountability for unconstitutional policing in 2024. Over the four quarters reviewed, QAS identified 4,458 improper stops, frisks or searches, but only eight officers received a Command Discipline and 110 got a negative entry through the Cop's Rapid Assessment Feedback Tool (CRAFT), the lowest sanction. In the other 97.5% of incidents the officer was instructed, trained or nothing was done.",
+      "quote": "Out of these 4,458 incidents, eight officers were given CDs and 110 officers were issued a"
+    },
+    {
+      "plain": "Commands responded to audit findings with training and instruction even for repeat offenders. In the 46 Precinct, where only 78% of audited stops, 57% of frisks and 60% of searches were lawful, one officer was instructed or referred for training 14 times in 12 months with no improvement, and nothing more severe was ever reported.",
+      "quote": "...was instructed or referred for training 14 times..."
+    },
+    {
+      "plain": "The Early Intervention Program has not worked. Interventions directed by the Early Intervention Committee were minimal, follow-up was rare and officer behavior did not change.",
+      "quote": "EIP interventions did not impact officer behavior..."
+    },
+    {
+      "plain": "Officers flagged by the intervention program kept failing to document stops. For ten officers reviewed from the first quarter of 2024, the monitor found that of 43 encounters that should have had stop reports, only 17 did, leaving 60.5% of stops without reports.",
+      "quote": "leaving a staggering 60.5% of stops missing reports."
+    },
+    {
+      "plain": "ComplianceStat pressure worked when sustained. Patrol Borough Brooklyn South was called in three times in four months for poor performance; by the third meeting an intensive borough effort had cut potentially undocumented encounters to 1% of audited videos, a precinct commander and two other supervisors were removed and one command's Neighborhood Safety Team was disbanded.",
+      "quote": "...in another command, the NST team was disbanded."
+    },
+    {
+      "plain": "At later ComplianceStat meetings covering Manhattan and Brooklyn North patrol boroughs, several borough and command executives were unprepared and could not answer basic questions about their specialized teams. Department leadership responded by disbanding the Brooklyn North Public Safety Team, relieving the executive responsible for compliance oversight and reassigning personnel.",
+      "quote": "...command executives were unprepared for the meetings and unable to answer questions"
+    }
+  ],
+  "numbers": [
+    {"value": "4,458", "label": "Improper stops, frisks or searches identified by QAS in a year"},
+    {"value": "eight", "label": "Command Disciplines issued for those incidents"},
+    {"value": "110", "label": "Negative CRAFT entries, the lowest sanction, in those incidents"},
+    {"value": "97.5%", "label": "Incidents met with only instruction, training or nothing"},
+    {"value": "60.5%", "label": "Stops missing reports among flagged officers reviewed"},
+    {"value": "10,621", "label": "Stop reports audited by QAS over the four quarters reviewed"}
+  ],
+  "recommendations": [
+    "Recognize that discipline and/or reassignment, for both officers and supervisors, may be necessary to address poor performance.",
+    "Hold supervisors accountable for identifying the unlawful actions of officers under their command.",
+    "Give the Early Intervention Program a strategic approach at the command level: commanders presenting to the committee should address not just the individual officer but what is being done to prevent other officers from engaging in triggering events.",
+    "Track the results of Early Intervention Program interventions and conduct an evaluation of the program."
+  ],
+  "agency_response": "The NYPD told the monitor it will begin examining how commands respond to Quality Assurance Section audits so officers with repeat deficiencies are not simply given the same training, and it acknowledged the monitor's concerns about the Early Intervention Program and is implementing new procedures. The police commissioner also issued a February 5, 2025 memorandum on discipline for repeated or intentional violations in connection with Level 3 stops.",
+  "implementation_note": "",
+  "compliance_note": "The monitor found meaningful accountability for unconstitutional stops, frisks and searches largely absent in 2024, with training substituted for discipline, but called the department's newer systems such as ComplianceStat and a revamped Early Intervention Program hopeful signs while saying it is too early to tell whether they will produce measurable improvement.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

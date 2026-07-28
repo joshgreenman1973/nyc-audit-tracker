@@ -1,0 +1,59 @@
+{
+  "id": "2025-09-04-ebt-card-skimming",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI's Findings Regarding \"Skimming\" of Electronic Benefit Transfer Cards that Provide Vital Funds to Low-Income New Yorkers and Related Recommendations",
+  "plain_title": "Benefit card skimming cost the city $48.6 million in reimbursements",
+  "agency": "New York City Department of Social Services",
+  "issued": "2025-09-04",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/34SkimmingRelease.Rpt.09.04.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/34SkimmingRelease.Rpt.09.04.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined the theft of Cash Assistance (CA) and Supplemental Nutrition Assistance Program (SNAP) benefits through \"skimming\" of Electronic Benefit Transfer (EBT) cards administered by the city Department of Social Services (DSS).",
+  "background": "About 1.8 million low-income families and individuals in New York City receive cash and food benefits through state-issued EBT cards. The cards use a magnetic stripe, which makes them vulnerable to skimming devices placed secretly on card readers, and DOI began looking into the problem in June 2022 after hundreds of client reports of drained accounts.",
+  "findings": [
+    {
+      "plain": "Between August 2023 and March 2025, the Department of Social Services issued $48.6 million in reimbursements for reported stolen SNAP and cash assistance benefits.",
+      "quote": "Between August 2023 and March 2025, DSS issued a total of $48.6 million in \nreimbursements for reported stolen SNAP and CA benefits."
+    },
+    {
+      "plain": "In that period DSS processed 142,178 SNAP reimbursement applications and approved 96,048, paying $43.7 million, plus 60,337 cash assistance applications with 27,176 approved and $4.9 million paid. The true loss is likely higher because those figures exclude unreported thefts.",
+      "quote": "The actual loss to New Yorkers is likely much greater, \nbecause th ese figures do  not include unreported losses"
+    },
+    {
+      "plain": "Skimming devices capture card numbers, PINs and names and transfer the data remotely by Bluetooth, so thieves never return to the store and benefits can be drained almost immediately, making the fraud hard for law enforcement to trace.",
+      "quote": "there is no need to return to the retail location to collect the skimmer, and there is little if any delay in using \nthe data to steal clients’ benefits after capturing the data."
+    },
+    {
+      "plain": "In a recent operation, DOI and law enforcement partners found about 55 skimming devices placed on point-of-sale terminals at local retailers.",
+      "quote": "found approximately 55 skimming devices that had been \nplaced on POS terminals at local retailers"
+    },
+    {
+      "plain": "Since December 2024, federal funding to reimburse stolen SNAP benefits is no longer available, leaving thousands of victims without a way to recover benefits stolen after that date.",
+      "quote": "Since December 2024, federal funding for \nreimbursements for stolen SNAP funds is no longer available"
+    },
+    {
+      "plain": "DOI concluded the best prevention is replacing magnetic-stripe EBT cards with chip-enabled cards, which generate a unique encrypted code for each purchase. California began issuing chip cards in January 2025 and four New York State bills would mandate the change.",
+      "quote": "the best way to prevent much of this fraud is to use chip-enabled EBT cards rather than the existing \nEBT cards with magnetic stripes."
+    }
+  ],
+  "numbers": [
+    {"value": "$48.6 million", "label": "Reimbursed for stolen benefits, August 2023 to March 2025"},
+    {"value": "1.8 million", "label": "Low-income New Yorkers receiving these benefits"},
+    {"value": "142,178", "label": "SNAP reimbursement applications processed"},
+    {"value": "96,048", "label": "SNAP reimbursement applications approved"},
+    {"value": "55", "label": "Skimming devices found in a recent operation"}
+  ],
+  "recommendations": [
+    "New York should urgently install EMV chips in EBT cards to reduce skimming theft, by amending the social services law to require the state Office of Temporary and Disability Assistance (OTDA) to do so or by OTDA acting without legislation.",
+    "OTDA should work with the EBT card vendor to create an alert that notifies clients when an out-of-state or suspicious transaction is pending and requires them to authenticate it through the app or an automated call.",
+    "OTDA should work with the vendor on a real-time text alert when a client's PIN is changed, on by default with the option to opt out.",
+    "OTDA should create an alert triggered by repetitive transactions at common locations between midnight and 2 a.m. and promptly report it to law enforcement.",
+    "DSS should continue working with the United States Department of Agriculture and law enforcement to promptly remove and confiscate identified or suspected skimming devices.",
+    "DSS should continue its early skimming detection and analytics work and keep informing the public of risks and precautions, including through flyers and public seminars."
+  ],
+  "agency_response": "DSS partnered with DOI on the investigation and has taken steps to warn clients, including a website video, multilingual fact sheets and a joint seminar with the Kings County District Attorney's Office. DSS also submitted a memorandum supporting state chip-card legislation.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["social services", "money and contracts", "technology"],
+  "is_followup": false
+}

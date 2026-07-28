@@ -1,0 +1,58 @@
+{
+  "id": "2026-01-14-status-report-on-local-law-42",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Status Report on Local Law 42",
+  "plain_title": "Monitor says final rulings on the solitary limits law must wait",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-01-14",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2026/01/2026-01-14-LL42-Report-dkt-949.pdf",
+  "what_they_audited": "A status report from the court-appointed independent monitor in Nunez v. City of New York on the monitoring team's analysis of Local Law 42, a city law that would change how the jails use restraints, escorts, de-escalation confinement, emergency lock-ins and restricted housing, and how those requirements interact with the Nunez court orders.",
+  "background": "The City Council passed Local Law 42 on December 20, 2023 and enacted it over the mayor's veto on January 30, 2024. The mayor then suspended parts of the law by emergency order, a state court found that suspension improper in July 2025 and the federal Nunez court granted a temporary injunction of certain provisions on July 3, 2025 while the monitor analyzed conflicts with its orders.",
+  "findings": [
+    {
+      "plain": "The monitor concluded that certain provisions of Local Law 42 as written would work against the Nunez court orders' goal of a constitutionally sufficient level of safety and would impede the Department of Correction's ability to comply with those orders.",
+      "quote": "would undermine and are antithetical to the purpose of the Nunez Court Orders"
+    },
+    {
+      "plain": "The monitor said the department currently lacks the basic operational foundation needed to carry out the reforms the court has already ordered, let alone the changes the new law would add.",
+      "quote": "the Department lacks the foundation to support the basic reforms"
+    },
+    {
+      "plain": "The monitoring team's concerns focus on provisions that apply universally in situations that require staff discretion, or that set standards the team considers impractical or unsafe to put into operation in these jails.",
+      "quote": "concerns center around the universal application of certain requirements that "
+    },
+    {
+      "plain": "The monitor stated it will not approve or direct department practices that include the problematic components of Local Law 42 unless those requirements are modified.",
+      "quote": "...approve or direct such practices absent modifications to those requirements."
+    },
+    {
+      "plain": "The monitor said it would be premature to make final determinations on Local Law 42 now, given conditions in the jails, the newly created remediation manager position, the new mayor who took office January 1, 2026 and signs that the parties want to find a mutually agreeable path.",
+      "quote": "a report issued at this juncture would be both speculative and premature"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "January 29, 2026",
+      "label": "Proposed deadline for the monitor's confidential draft findings"
+    },
+    {
+      "value": "March 26, 2026",
+      "label": "Date the monitor proposed for its next update to the court"
+    }
+  ],
+  "recommendations": [
+    "The monitor should confidentially provide the parties with its preliminary draft findings identifying specific conflicts between Local Law 42 provisions and the Nunez court orders, no later than January 29, 2026.",
+    "Meet and confer sessions should be sequenced and timed so that the remediation manager, once onboarded, and the new mayor's correction commissioner can meaningfully participate in discussions of complex operational matters.",
+    "The court should set a date certain for the monitor's next update on this work, which the monitor recommends be provided by March 26, 2026.",
+    "The court should suspend its December 19, 2025 order outlining next steps so the three recommendations above can be adopted."
+  ],
+  "agency_response": "The city defendants agreed with confidentially sharing the draft findings but disagreed with delaying substantive meet and confer sessions until a remediation manager is appointed, and proposed a court update by February 27, 2026 instead of March 26. The plaintiff class, federal prosecutors and the City Council intervenors also opposed delay.",
+  "implementation_note": "",
+  "compliance_note": "The monitor assessed that the department lacks the foundation to support the basic reforms required by the Nunez court orders and that certain Local Law 42 provisions, as designed, would impede compliance with those orders.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

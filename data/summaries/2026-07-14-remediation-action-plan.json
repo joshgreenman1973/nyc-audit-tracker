@@ -1,0 +1,92 @@
+{
+  "id": "2026-07-14-remediation-action-plan",
+  "source": "monitor",
+  "auditor": "Nunez remediation manager (Rikers jails)",
+  "title": "The Remediation Action Plan",
+  "plain_title": "The Rikers remediation manager's first-year plan to fix the jails",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-07-14",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2026/07/2026-07-16-Dkt.-988-RAP-Plan.pdf",
+  "what_they_audited": "The first annual Remediation Action Plan from Nicholas Deml, the court-appointed remediation manager in Nunez v. City of New York, laying out his assessment of the city jail system and the specific reforms he will direct the Department of Correction to carry out from July 14, 2026 through June 30, 2027.",
+  "background": "The federal court held New York City in civil contempt of eighteen provisions of four court orders meant to stem violence and excessive force in the jails, and appointed a remediation manager with broad authority over department operations. The court ordered him to produce yearly work plans, each building on the last, with this first plan prioritizing safety-related areas.",
+  "findings": [
+    {
+      "plain": "The remediation manager found the department struggles to perform even the most basic correctional functions such as staffing posts and securing housing units, and spent more than $370 million on overtime in the past fiscal year even as jail infrastructure crumbles.",
+      "quote": "spent more than $370 million on overtime this past fiscal year"
+    },
+    {
+      "plain": "In his team's first days he observed a housing unit filled with smoke from fires set by people in custody while an officer shrugged, and reviewed a large-scale fight involving nearly 30 people that started when an officer left a pantry door unsecured and abandoned his post.",
+      "quote": "A large-scale fight ensued, involving nearly 30 individuals"
+    },
+    {
+      "plain": "Such incidents are not outliers: from January to May 2026 people in custody set 130 fires and engaged in 2,978 fights, and the report notes the court has found violence in the jails is now worse than when the consent judgment took effect in 2015.",
+      "quote": "fires and engaged in 2,978 fights"
+    },
+    {
+      "plain": "The department operates inside an unusually dense network of oversight bodies in which each institution holds authority over part of jail operations but none is responsible for the whole system.",
+      "quote": "The environment is chaotic."
+    },
+    {
+      "plain": "The remediation manager concluded that after more than a decade without meaningful improvement, incremental reform has itself become a form of failure, and said he will use his full court-granted authority to force change.",
+      "quote": "The system has reached the point where incrementalism is "
+    },
+    {
+      "plain": "He found the department's investigative and disciplinary units were disconnected and dispersed, weakening accountability, and in May 2026 began consolidating them into a single division under a new senior deputy commissioner who reports directly to his team.",
+      "quote": "DOC’s investigative and disciplinary units were disconnected and dispersed across the "
+    },
+    {
+      "plain": "Stakeholders broadly agree that programming for people in custody is insufficient in scale and diversity, and the plan calls for an estimated $50 million in annual funding for community-based programming.",
+      "quote": "existing programming is insufficient in "
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$370 million",
+      "label": "Department overtime spending in the past fiscal year"
+    },
+    {
+      "value": "130",
+      "label": "Fires set by people in custody, January through May 2026"
+    },
+    {
+      "value": "2,978",
+      "label": "Fights among people in custody, January through May 2026"
+    },
+    {
+      "value": "$50 million",
+      "label": "Estimated annual funding sought for community-based programming"
+    },
+    {
+      "value": "eighteen",
+      "label": "Court order provisions the city was held in contempt of"
+    }
+  ],
+  "recommendations": [
+    "Develop and begin executing a cohesive Security Plan: the department must submit a priority order for fixing lapses in core security practices by October 1, 2026, then create and carry out an approved practice-change plan for each item with monthly progress reports.",
+    "Validate and replace defective doors: document every defective door by September 1, 2026 and submit a procurement and replacement schedule by October 1, 2026, with the city funding the work.",
+    "Evaluate existing placement options and develop new ones for people who commit serious acts of violence, including a pilot housing program and data-driven strategies for managing persistently violent individuals.",
+    "Establish classification leadership by submitting a senior position description by September 1, 2026, recruiting a qualified official and having that official present a plan of action within 60 days of starting.",
+    "Establish a rapid executive reporting procedure requiring a standardized executive summary, presumptively within 24 hours, of serious security incidents, approved by October 15, 2026 and implemented by December 1, 2026.",
+    "Allocate dedicated annual funding, approximated at $50 million, for community-based programming, with a plan to administer the funding presented for approval by October 15, 2026.",
+    "Validate and assess staffing: the remediation manager will oversee an independent staffing analysis, with a completed assessment identifying deficiencies in posts, scheduling, deployment and supervision delivered by October 1, 2026.",
+    "Develop and execute a staffing plan that defines, prioritizes and assigns timelines to the tasks needed to maximize staff deployment, with monthly reporting on task completion.",
+    "Improve investigations staffing, structure and training: submit a redesigned Investigations, Intelligence, and Accountability Division proposal by September 1, 2026, a staffing plan and resources proposal by October 1, 2026 and a training plan by February 1, 2027.",
+    "Develop a strategic plan for the new investigations division by September 1, 2026 that streamlines operations and addresses the employee disciplinary framework and referral of apparently criminal conduct to prosecutors.",
+    "Develop a technology strategic plan: document gaps in data management systems by October 1, 2026 and submit an integrated technology plan by April 1, 2027, including fixing gaps in health data shared by Correctional Health Services.",
+    "Develop a business intelligence tool, such as a dashboard or daily executive briefing, proposed by October 1, 2026 and deployed for executive and facility leadership.",
+    "The remediation manager will design and launch a remediation compliance tool by October 15, 2026 for real-time tracking of the city's, department's, his own and the monitoring team's activities.",
+    "Develop new support for facility leaders: propose a new approach to coaching facility leadership by January 1, 2027 and maintain a log of corrective actions.",
+    "Adopt a dignity-based departmental values statement, drafted by April 1, 2027 and distributed to staff and people in custody after approval.",
+    "Assess compliance-focused resource use within 30 days of the plan's approval and every three months after, with the city directed to provide approved additional resources.",
+    "Enhance staff communication by proposing a new way to reach all staff across all posts by August 31, 2026 and putting it into operation by October 30, 2026."
+  ],
+  "agency_response": "The remediation manager reports that the new city administration and department leadership, including Commissioner Stanley Richards, appointed January 31, 2026 as the first formerly incarcerated person to lead the department, expressly support remediation and are actively engaged in the reform effort.",
+  "implementation_note": "",
+  "compliance_note": "The remediation manager describes a system in crisis where unconstitutional conditions persist despite a decade of court oversight, and warns that if the plan's aggressive timelines are not met his intervention will deepen.",
+  "topics": [
+    "public safety",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

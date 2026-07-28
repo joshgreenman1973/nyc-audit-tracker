@@ -1,0 +1,50 @@
+{
+  "id": "2025-04-01-oig-nypd-eleventh-annual-report",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Eleventh Annual Report of DOI's Office of the Inspector General for the NYPD",
+  "plain_title": "Police watchdog's year in review: half its fixes adopted",
+  "agency": "New York City Police Department",
+  "issued": "2025-04-01",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf",
+  "what_they_audited": "The Department of Investigation's (DOI) Office of the Inspector General for the New York City Police Department (OIG-NYPD) issued its annual report, required by Local Law 70, reviewing each of its 23 investigative reports and one statement of findings issued between 2015 and December 31, 2024 and the status of 240 recommendations.",
+  "background": "Local Law 70 established OIG-NYPD as part of DOI to oversee the New York City Police Department (NYPD). The annual report tracks the office's investigations and how NYPD and the Civilian Complaint Review Board (CCRB) have responded to its recommendations; recommendations made in 2024, with responses due in 2025, are not assessed.",
+  "findings": [
+    {
+      "plain": "NYPD has fully implemented 120 of the 238 recommendations OIG-NYPD issued to it through 2024, about 50%, and accepted in principle or partially implemented 46 more, about 19%. Two recommendations to the CCRB have also been implemented.",
+      "quote": "NYPD has fully implemented 12 0 of 2 38 \nrecommendations issued to them , or approximately 50%; and accepted in principle  or partially implemented  46 \nrecommendations, or approximately 19%."
+    },
+    {
+      "plain": "In its May 2024 Public Oversight of Surveillance Technology (POST) Act report, the office found NYPD issued no new Impact and Use Policies for five surveillance technologies introduced in 2023 and used grouping too expansively by folding the Digidog robot into an existing policy. Of seven recommendations, NYPD accepted five and rejected two.",
+      "quote": "OIG -NYPD found that NYPD utilized grouping in an overly \nexpansive manner by addressing Digidog within an existing IUP, rather than issuing an individual IUP."
+    },
+    {
+      "plain": "The December 2024 POST Act report on drones found NYPD's unmanned aircraft policy did not describe all the capabilities of its drone fleet or accurately reflect operations in practice. NYPD accepted all ten recommendations.",
+      "quote": "the UAS IUP did not describe all the capabilities of its drone fleet or provide \na complete and accurate picture of NYPD UAS operations in practice."
+    },
+    {
+      "plain": "The office's review of NYPD's Community Response Team found the quality-of-life unit had no mission statement, no unit-specific policies and procedures and striking gaps in data collection and analysis. NYPD accepted six of seven recommendations and rejected one.",
+      "quote": "CRT had no mission statement, no policies and procedures specifically related to the unit, and striking gaps in \ndata collection and analysis."
+    },
+    {
+      "plain": "Beyond its investigations, OIG-NYPD participated in 147 outreach events across the city in 2024 to promote awareness of its work and hear policing concerns.",
+      "quote": "participating in 147 events (virtual and in -person) across the City to promote awareness of its work"
+    }
+  ],
+  "numbers": [
+    {"value": "240", "label": "Recommendations whose status the report discusses"},
+    {"value": "120", "label": "Recommendations NYPD has fully implemented, of 238"},
+    {"value": "46", "label": "Accepted in principle or partially implemented"},
+    {"value": "23", "label": "Investigative reports issued since 2015"},
+    {"value": "147", "label": "Outreach events in 2024"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations; it reviews the office's prior reports and tracks the status of the 240 recommendations already issued to NYPD and the CCRB."
+  ],
+  "agency_response": "Per the report, NYPD has accepted or implemented nearly 70 percent of OIG-NYPD's recommendations, including accepting five of seven from the May 2024 POST Act report, all ten drone recommendations and six of seven Community Response Team recommendations.",
+  "implementation_note": "Of 238 recommendations issued to NYPD through 2024, 120 were fully implemented (about 50%) and 46 were accepted in principle or partially implemented (about 19%); two recommendations to the CCRB were implemented.",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

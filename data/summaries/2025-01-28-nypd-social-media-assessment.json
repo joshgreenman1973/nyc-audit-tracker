@@ -1,0 +1,56 @@
+{
+  "id": "2025-01-28-nypd-social-media-assessment",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "An Assessment of NYPD's Use of Social Media",
+  "plain_title": "Police brass posted insults online with no oversight",
+  "agency": "New York City Police Department",
+  "issued": "2025-01-28",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf",
+  "what_they_audited": "The Department of Investigation's (DOI) Office of the Inspector General for the New York City Police Department (OIG-NYPD) examined NYPD's social media policies and practices and several posts made by NYPD executives on official accounts in the first half of 2024.",
+  "background": "The investigation followed a May 2024 request from City Council Speaker Adrienne Adams, who alleged the department's official accounts showed a pattern of targeting public officials and members of the public with intimidating invective. OIG-NYPD reviewed all X posts from January 2022 through August 2024 on three accounts the speaker identified.",
+  "findings": [
+    {
+      "plain": "Certain X posts by NYPD executive staff on official city accounts were unprofessional, encouraged unproductive public discourse and violated department policies requiring courtesy and civility. The posts raise questions about prohibited political activity by city employees, though DOI reached no conclusion on that issue.",
+      "quote": "Certain X posts made by members of NYPD’s executive staff  on official City \naccounts were unprofessional and encouraged an unproductive public discourse"
+    },
+    {
+      "plain": "Several NYPD social media practices do not comply with the citywide social media policy; for example, some accounts are not registered with the Mayor's Office of Creative Communications and executive accounts other than the commissioner's were created without that office's approval.",
+      "quote": "Several of NYPD’s practices regarding social media are not in compliance with the \nCitywide Social Media Policy to which all City agencies are required to adhere."
+    },
+    {
+      "plain": "NYPD's social media policy, dated December 2, 2022, has not been updated for the June 2023 citywide policy and does not describe staff roles, the internal content approval process or how complaints should be handled.",
+      "quote": "NYPD’s official use of social media policy (dated December 2, 2022) has not been \nupdated to include all of the requirements"
+    },
+    {
+      "plain": "The department's policy provides no rules or guidance on what content and language is appropriate for official accounts, and executives run individual accounts without sufficient oversight, outside the supervision of the Deputy Commissioner of Public Information's office.",
+      "quote": "NYPD executives with individual social media accounts operate their accounts \nwithout sufficient oversight"
+    },
+    {
+      "plain": "NYPD provides no formal training to executives with individual accounts on appropriate content and public impact, though it does train the Digital Communications Officers who manage command-level accounts.",
+      "quote": "NYPD does not provide formal training to NYPD executives with \nindividual social media accounts regarding appropriate content for posting"
+    },
+    {
+      "plain": "NYPD stopped engaging in discourteous exchanges targeting particular individuals in early May 2024, after public criticism and the speaker's request for a DOI investigation.",
+      "quote": "NYPD ceased to engage in social media exchanges that used discourteous \nlanguage and targeted particular individuals in early May 2024"
+    }
+  ],
+  "numbers": [
+    {"value": "six", "label": "Policy and procedure recommendations issued"},
+    {"value": "January 2022", "label": "Start of the X post review period, running through August 2024"}
+  ],
+  "recommendations": [
+    "Memorialize in writing an internal review and approval process for posts on executive accounts.",
+    "Update all relevant Patrol Guide and Administrative Guide sections to align with the citywide social media policy.",
+    "Review the citywide social media policy and ensure NYPD complies with all of its requirements.",
+    "Update the department's social media use policy to include rules and guidance on appropriate content and language for official accounts.",
+    "Assign Digital Communications Officers to all social media accounts, including executive accounts, to keep posts consistent with citywide and department policy, and put the requirement in writing.",
+    "Train all staff who use official agency social media on the citywide policy, the department's policy and best practices."
+  ],
+  "agency_response": "The report notes NYPD has refrained from the criticized exchanges since early May 2024 and has taken steps to improve oversight and depersonalize interactions, which the inspector general called steps in the right direction.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["public safety", "technology", "transparency"],
+  "is_followup": false
+}

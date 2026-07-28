@@ -1,0 +1,76 @@
+{
+ "id": "final-letter-report-on-the-audit-of-the-brooklyn-public-librarys-emergency-preparedness",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Final Letter Report on the Audit of the Brooklyn Public Library’s Emergency Preparedness",
+ "plain_title": "Brooklyn Public Library helps in emergencies but lacks a full plan",
+ "agency": "Brooklyn Public Library",
+ "issued": "2025-06-27",
+ "url": "https://comptroller.nyc.gov/reports/final-letter-report-on-the-audit-of-the-brooklyn-public-librarys-emergency-preparedness/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/SR24-082A.pdf",
+ "what_they_audited": "This letter report examined whether the Brooklyn Public Library is adequately prepared to plan for and respond to emergencies, keep its operations running and serve the public during major disasters and other events.",
+ "background": "The Brooklyn Public Library is a private nonprofit with 60 branches serving a borough of 2.7 million residents, and it reported nearly 5.9 million visitors in fiscal year 2024. Federal law and the American Library Association recognize the role libraries play in responding to disasters.",
+ "findings": [
+  {
+   "plain": "The library served the public during emergencies, with branches acting as cooling centers on hot days and warm places on freezing days, and free Wi-Fi working at every branch auditors tested.",
+   "quote": "BPL served the public in numerous ways during emergencies but needs to improve certain aspects of its emergency preparedness"
+  },
+  {
+   "plain": "On one heat emergency day, four branches listed as cooling centers were closed, two of them because of extreme heat inside the buildings.",
+   "quote": "four branches listed as cooling centers were closed on July 16, 2024: two due to extreme heat in the building and two for maintenance or repairs"
+  },
+  {
+   "plain": "Three of the six branches located in floodplains, Brighton Beach, Gerritsen Beach and Sheepshead Bay, have no flood protection or mitigation measures despite the significant impact of Hurricane Sandy on those locations.",
+   "quote": "BPL did not implement any flood protection and mitigation measures for the other three branches located in the floodplain"
+  },
+  {
+   "plain": "The library has many individual safety policies but no comprehensive emergency plan that assigns responsibilities for protecting people, property and operations in an emergency.",
+   "quote": "it lacks a comprehensive emergency plan that provides incident stabilization and assigns responsibilities"
+  },
+  {
+   "plain": "The library did not test or update its business continuity plan annually as required, skipping tabletop exercises for three straight years and leaving the plan unrevised since 2021.",
+   "quote": "The BPL conducted tabletop exercises in August 2021 and January 2025, but did not test the plan in 2022, 2023, or 2024."
+  },
+  {
+   "plain": "Some branches did not conduct required twice-yearly fire drills, and branches that answered an auditor survey reported gaps in safety training and emergency alerts from the central office.",
+   "quote": "For CY2023, seven (13.5%) of the 52 branches did not conduct biannual drills"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "5.9 million",
+   "label": "Visitors served in fiscal year 2024"
+  },
+  {
+   "value": "60",
+   "label": "Branch locations throughout Brooklyn"
+  },
+  {
+   "value": "14",
+   "label": "Heat emergency days, June through August 2024"
+  },
+  {
+   "value": "13.5%",
+   "label": "Branches skipping twice-yearly fire drills in 2023"
+  },
+  {
+   "value": "16",
+   "label": "Surveyed branches reporting no safety or emergency training"
+  }
+ ],
+ "recommendations": [
+  "Conduct facility assessments at all branches before the summer cooling and winter heating seasons to make sure heating and cooling systems work.",
+  "Consider installing generators or other backup power systems at additional branches so libraries can serve the public during emergencies.",
+  "Consider flood protection and mitigation measures at the Brighton Beach, Gerritsen Beach and Sheepshead Bay branches given their floodplain locations and past storm impacts.",
+  "Create a comprehensive public safety and emergency plan that assigns responsibilities for specific actions to protect people, property, operations and the environment.",
+  "Train all staff on the comprehensive plan and the business continuity plan, test the plans at least once a year and update them as necessary.",
+  "Make sure twice-yearly fire drills are conducted at all locations.",
+  "Implement a centralized notification system to quickly relay emergency information and instructions to all branch managers and staff."
+ ],
+ "agency_response": "The library agreed with all seven recommendations, noting for several that work is under way, including a consolidated comprehensive emergency plan it expects to publish in the first quarter of fiscal year 2026.",
+ "implementation_note": "",
+ "topics": [
+  "public safety"
+ ],
+ "is_followup": false
+}

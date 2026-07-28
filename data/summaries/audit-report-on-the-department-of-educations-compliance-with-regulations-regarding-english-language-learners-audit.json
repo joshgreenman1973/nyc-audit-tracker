@@ -1,0 +1,92 @@
+{
+ "id": "audit-report-on-the-department-of-educations-compliance-with-regulations-regarding-english-language-learners-audit",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Audit Report on the Department of Education’s Compliance with Regulations Regarding English Language Learners Audit",
+ "plain_title": "Schools shortchanged English language learners on required services",
+ "agency": "New York City Department of Education",
+ "issued": "2025-09-08",
+ "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-department-of-educations-compliance-with-regulations-regarding-english-language-learners-audit/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/SR23-057A.pdf",
+ "what_they_audited": "Whether the New York City Department of Education followed state regulations and its own policies for identifying English language learner students, placing them in the right programs, providing required instruction and keeping records.",
+ "background": "State regulations require school districts, including New York City's, to give English language learner students equal access to all school programs and services. The department reported 174,014 English language learners in the 2023-24 school year, up 16.8% from 2021-22.",
+ "findings": [
+  {
+   "plain": "For nearly half of sampled English language learner students, the department did not provide required courses or the minimum minutes of instruction.",
+   "quote": "for 145 of 301 (48.2%) sampled ELL students, DOE did not provide required courses, or the minimum number of minutes of ENL, or bilingual instruction time"
+  },
+  {
+   "plain": "About 40% of sampled students were served by at least one teacher who lacked the certifications required for teaching English language learners.",
+   "quote": "122 (40.5%) students were served by one or more teachers who did not have the required certifications"
+  },
+  {
+   "plain": "The department does not track whether teachers complete the professional development hours in language acquisition that state rules require, relying instead on teachers to self-report to the state.",
+   "quote": "DOE does not monitor whether educators meet the required CTLE hours or the percentage of CTLE hours devoted to language acquisition"
+  },
+  {
+   "plain": "Schools failed to keep the forms documenting parents' program choices for nearly a third of sampled students, and 34 students were placed, or may have been placed, in the wrong program.",
+   "quote": "DOE did not retain ELL Parent Survey and Program Agreement Forms or Default Program Placement Letters in students’ files for 110 of 349 (31.5%) sampled ELL students"
+  },
+  {
+   "plain": "Instead of creating required bilingual education programs, the department improperly requested waivers. Of 150 waiver requests for the 2024-25 school year, 146 exceeded the five-year limit, affecting 9,527 students in 17 districts.",
+   "quote": "Of those 150 waivers, 146 exceeded the five-year exemption limit."
+  },
+  {
+   "plain": "Parents of many sampled students were not given information about program options at their child's school or elsewhere in the district, and the department does not centrally record or analyze parent survey responses.",
+   "quote": "DOE did not inform the parents/guardians of 101 (28.9%) sampled students about ELL program options"
+  },
+  {
+   "plain": "The department did not consistently complete the identification process for potential English language learners on time, including the home language survey, the state identification test and a required Spanish language assessment.",
+   "quote": "DOE did not administer the NYSITELL to 1,447 of the 43,266 (3.3%) eligible students"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "174,014",
+   "label": "English language learners in the 2023-24 school year"
+  },
+  {
+   "value": "48.2%",
+   "label": "Sampled students denied required courses or minutes"
+  },
+  {
+   "value": "40.5%",
+   "label": "Sampled students taught by uncertified teachers"
+  },
+  {
+   "value": "146",
+   "label": "Waiver requests that exceeded the five-year limit"
+  },
+  {
+   "value": "9,527",
+   "label": "Students affected by improper waiver requests"
+  },
+  {
+   "value": "31.5%",
+   "label": "Sampled students missing program choice records"
+  },
+  {
+   "value": "12.2%",
+   "label": "Eligible students never given the Spanish assessment"
+  }
+ ],
+ "recommendations": [
+  "Finalize rules for a tracking and monitoring system for bilingual education and English as a new language programs to make sure students are adequately served.",
+  "Implement and further develop a system to monitor English as a new language units of study so students receive all required minutes from a certified teacher.",
+  "Continue recruiting qualified teachers for English language learner classes and encourage current staff to earn the needed certifications.",
+  "Develop a centralized system to track teachers' required professional development hours and designate a team to monitor compliance and provide periodic status reports.",
+  "Continue regular audits and inspections during school support visits to make sure critical paperwork is completed, kept in student records and entered accurately in the department's data system.",
+  "Improve oversight of waiver requests, evaluate recruitment efforts and expand bilingual programs in high-demand districts to reduce reliance on waivers.",
+  "Set standardized procedures so all schools give parents complete and accurate program information on the parent survey and agreement forms.",
+  "Establish a centralized process to collect, analyze and act on data from the parent survey and agreement forms across all schools.",
+  "Develop a centralized tracking system for waitlist and transfer requests and strengthen oversight so bilingual program preferences are honored promptly.",
+  "Implement a school-level monitoring system to make sure the identification process for English language learners is completed as required."
+ ],
+ "agency_response": "The Department of Education agreed with nine of the 10 recommendations and disagreed with one, on centrally tracking teachers' professional development hours, saying teachers certify their own compliance to the state.",
+ "implementation_note": "",
+ "topics": [
+  "education",
+  "children and youth"
+ ],
+ "is_followup": false
+}

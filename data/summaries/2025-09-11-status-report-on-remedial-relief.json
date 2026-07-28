@@ -1,0 +1,56 @@
+{
+  "id": "2025-09-11-status-report-on-remedial-relief",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Status Report on Remedial Relief",
+  "plain_title": "Monitor's blueprint for the Rikers remediation manager's role",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-09-11",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2025/09/2025-09-11-Monitors-Report.pdf",
+  "what_they_audited": "The court-appointed independent monitor's second report on remedial relief for the city's contempt in Nunez v. City of New York, laying out a framework for selecting and structuring the new remediation manager position, summarizing candidate vetting and compiling the parties' objections to the court's proposed remediation manager order.",
+  "background": "The court held the city in contempt of 18 provisions of the Nunez court orders in November 2024 and on May 13, 2025 ordered the appointment of a remediation manager to direct a phased action plan for the contempt areas while the commissioner retains responsibility for the hundreds of other provisions. The monitoring team facilitated months of negotiations over candidates and the governing order.",
+  "findings": [
+    {
+      "plain": "The monitor cautioned that a receiver or remediation manager is an extreme and rarely used remedy, and that evidence on whether solutions devised by other correctional receivers work and last is mixed, largely anecdotal and context specific.",
+      "quote": "...sustainability of the solutions devised by other correctional receivers is mixed, largely anecdotal "
+    },
+    {
+      "plain": "The remediation manager's office must build the department's own capacity to meet the 18 contempt provisions rather than becoming another entrenched layer of bureaucracy on top of the obstacles that have long blocked reform.",
+      "quote": "the Office of the Remediation Manager itself must not become another entrenched "
+    },
+    {
+      "plain": "The court identified the key blockers of compliance as insufficiently resourced leadership, lack of continuity in management, failures of supervision, lack of skill or imagination to implement transformative plans and unwillingness to cooperate with the monitor; the monitoring team adds that staff deployment and staff competency must also be essential objectives.",
+      "quote": "...deployment and staff competency must also be essential objectives for the Remediation "
+    },
+    {
+      "plain": "The monitoring team and the parties evaluated almost 30 confidential applications for the remediation manager position, and on August 29, 2025 the monitor submitted the parties' recommended candidates to the court confidentially.",
+      "quote": "evaluated almost 30 confidential applications for the Remediation "
+    },
+    {
+      "plain": "The monitor concluded the department remains in a state of flux, with urgent safety issues persisting against a backdrop of uncertainty that includes the pending motion for reconsideration, unresolved objections to the proposed order and the November 2025 city elections.",
+      "quote": "The Department of Correction remains in a state of flux."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "18",
+      "label": "Nunez court order provisions covered by the contempt finding"
+    },
+    {
+      "value": "almost 30",
+      "label": "Confidential applications for the remediation manager position"
+    }
+  ],
+  "recommendations": [
+    "The remediation manager's team must consist of members with bona fide credentials in sound correctional practice and in stimulating the culture change needed for the department to improve practice and sustain progress.",
+    "The court should permit the monitoring team to file a submission on September 24, 2025 with the outcome of the parties' still-pending negotiations over an information-sharing provision of the proposed order."
+  ],
+  "agency_response": "The city's objections and proposed revisions to the court's draft remediation manager order are attached as an appendix, and the monitor reports that all parties participated fully and made good faith efforts to find areas of agreement.",
+  "implementation_note": "",
+  "compliance_note": "The monitor reports that urgent, time-sensitive issues tied to the jails' elevated risk of harm remain at the forefront while the department awaits the remediation manager appointment and other court decisions.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

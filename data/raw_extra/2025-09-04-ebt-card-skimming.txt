@@ -1,0 +1,794 @@
+ 
+more 
+ 
+ 
+ 
+The City of New York 
+Department of Investigation 
+ 
+JOCELYN E. STRAUBER 
+COMMISSIONER 
+180 MAIDEN LANE Release #34-2025 
+NEW YORK, NY 10038 nyc.gov/doi 
+212-825-5900  
+  
+FOR IMMEDIATE RELEASE  CONTACT:   DIANE STRUZZI 
+THURSDAY, SEPTEMBER 4, 2025 CLODAGH MCGOWAN 
+ (212) 825-5931 
+  
+DOI ISSUES REPORT TO COMBAT “SKIMMING” OF ELECTRONIC BENEFIT TRANSFER CARDS 
+THAT PROVIDE ESSENTIAL FINANCIAL ASSISTANCE TO LOW-INCOME NEW YORKERS 
+From August 2023 to March 2025, NYC reimbursed $48.6 million in stolen benefits  
+ 
+Jocelyn E. Strauber, Commissioner of the New York City Department of Investigation (“DOI”), 
+issued a public report on DOI’s investigative findings and recommendations to prevent the theft of Cash 
+Assistance (“CA”) and funds from the Supplemental Nutrition Assistance Program (“SNAP”), essential 
+financial assistance that is provided to 1.8 million low -income families and individuals in New York City to 
+help them meet basic needs , such as food and rent. The City Department of Social Services (“DSS”) 
+administers these benefits through New York State-issued Electronic Benefit Transfer (“EBT”) cards, which 
+use a magnetic stripe to transfer  data and are particularly  vulnerable to “skimming,” the theft of card 
+information via devices placed surreptitiously on card-reading machines, such as ATMs or point -of-sale 
+(“POS”) terminals.  
+ 
+In June 2022, with the assistance of DSS, DOI began looking into reports from hundreds of DSS 
+clients that their EBT accounts were drained of SNAP and/or CA benefits at various locations in and out of 
+New York State. Between August 2023 and March 2025, DSS issued a total of $48.6 million in 
+reimbursements for reported stolen SNAP and CA benefits. This Report seeks to raise awareness about 
+skimming and to help New Yorkers with EBT cards identify and avoid potential skimming devices at local 
+retailers. The Report also outlines DOI’s support for amending the social services law to require the Office 
+of Temporary Disability Assistance (“OTDA”), which administers SNAP and CA statewide, to m odernize 
+EBT cards by installing EMV chips in them, or for OTDA to do so without a change in the law. A copy of the 
+Report, which includes the six recommendations DOI issued to OTDA and DSS,  is attached to this press 
+release and can also be found at this link:  
+https://www.nyc.gov/site/doi/newsroom/public-reports-
+current.page  
+ 
+DOI Commissioner Jocelyn E. Strauber said, “ Until Electronic Benefit Transfer Cards are chip-
+enabled, the best defense against skimming is public awareness. DOI and our law enforcement par tners 
+have and will continue to investigate this significant threat to public resources  and hold wrongdoers 
+accountable, but as this R eport describes, enforcement efforts are not a complete solution.  This Report 
+informs the public about signs that a point -of-sale terminal may be compromised, and makes other 
+recommendations to reduce the risk  that benefit cards will be successfully  ‘skimmed.’ I thank the City 
+Department of Social Services for its partnership and assistance in protecting the public funds that support 
+some of New York’s most vulnerable citizens.” 
+ 
+Skimming is a common and widespread form of card fraud. When a cardholder swipes their 
+magnetic stripe card, the skimming device captures the card’s number, PIN number, and the cardholder’s 
+name. The cardholder’s data then is transferred via Bluetooth to individuals who use the information to 
+conduct unauthorized transactions via duplicated cards, online purchases, or to engage in identity theft. 
+
+2 
+ 
+EBT cards, which are effectively debit cards for CA and SNAP benefit accounts, are one type of card that 
+can be skimmed using these devices. In the case of EBT card skimming, the thieves will steal and 
+sometimes deplete the clients’ public benefits from their account s, leaving the client without the CA and 
+SNAP funds to support their basic needs. The data is transferred from the skimmer remotely, such that 
+there is no need to return to the retail location to collect the skimmer, and there is little if any delay in using 
+the data to steal clients’ benefits after capturing the data. These circumstances make it more dif ficult for 
+law enforcement to identify individuals engaged in this type of fraud. 
+ 
+The volume of this fraud in New York City is significant: between August 2023 and March 2025, 
+DSS processed 142,178 SNAP reimbursement applications from victims of EBT theft , approved 96,048 
+applications, and issued reimbursements of stolen benefits of $43.7 million. During the same time, DSS 
+processed 60,337 CA reimbursement applications , approved 27,176 applications, and issued 
+reimbursements of stolen benefits of $4.9 mill ion. The actual loss to New Yorkers is likely much greater, 
+because th ese figures do  not include unreported losses . Since December 2024, federal funding for 
+reimbursements for stolen SNAP funds is no longer available, leaving thousands of individual victims 
+without recourse to have their stolen benefits restored for thefts post-dating December 2024.  
+ 
+For this Report,  DOI and DSS analyzed SNAP and CA transactions that used stolen EBT cards 
+throughout New York City, in an effort to locate POS terminals at local retailers where skimmers were 
+placed. In a recent operation, DOI, along with the New York Police Department (“NYPD”) Financial Crimes 
+Unit, DSS, and federal law enforcement partners, found approximately 55 skimming devices that had been 
+placed on POS terminals at local retailers and investigated several individuals suspected of installing those 
+devices. Law enforcement efforts to address skimming, while ongoing, can be challenging in part because 
+real-time information about skimming in progress is not currently available. Thus, by the time it becomes 
+clear that a card has been skimmed, the funds may already be gone, and efforts to obtain video footage or 
+other pertinent evidence may be compromised by delay. 
+ 
+DOI has determined that the best way to prevent much of this fraud is to upgrade the existing EBT 
+cards with magnetic stripes to more secure chip- enabled EBT cards.  The Report also recommends 
+amending the social services law to require OTDA to modernize EBT cards by installing EMV chips in them. 
+Chips would make EBT cards more secure because they generate and transfer a unique, encrypted code 
+for each purchase, making theft of card information and benefits via skimming more difficult.  Currently, 
+there are two State Senate bills and two State Assembly bills that would mandate the implementation of 
+chips in EBT cards. The bills vary slightly in wording, but in substance, all four of them would require the 
+commissioner of OTDA to implement EBT cards with EMV chips on them. DOI supports these legislative 
+efforts and submitted a memo in support of Senate Bill 1465 and Assembly Bill 699. DOI is informed that 
+DSS has also submitted a memorandum in support of this legislation. However, legislation is not required 
+in order for OTDA to take this action.
+ DOI recommends New York urgently implement EMV chips in EBT 
+cards to reduce the risk of skimming theft. Until New York implements EBT cards with EMV chips, DOI 
+recommends five additional preventative measures to enhance the security of the EBT cards:  
+ 
+ 
+1. OTDA should work with the EBT card vendor to create an  alert that notifies clients when 
+an out-of-state or suspicious transaction is pending and requires that they authenticate the 
+transaction via the application or an automated phone call.  
+ 
+2. OTDA should work with the EBT card vendor to create a security feature that alerts clients 
+in real-time via text message when their PINs are changed. Such feature should be the 
+default setting and allow clients to opt out (rather than the existing alerts via email and opt-
+in feature).  
+ 
+3. OTDA should create an alert triggered by repetitive transactions that occur at common 
+locations between 12:00 AM and 2:00 AM, and promptly report the alert to law enforcement 
+immediately. 
+ 
+4. DSS should continue to work with USDA and law enforcement to promptly remove and 
+confiscate identified or suspected skimming devices. 
+ 
+5. DSS should continue their ongoing work of early skimming detection and analytics, 
+informing the public of the risks and the necessary precautions, including via distribution of 
+flyers and public seminars. 
+3 
+ 
+ 
+At DOI, the investigation was conducted by former DOI Investigative Attorney Alix Hirs h and 
+Assistant Inspector General Daniel Malvey of DOI’s Office of the Inspector General for DSS, with assistance 
+from Data Analyst Zachary Sayle, Assistant Inspector General Alexandra Davie, and Director of 
+Intergovernmental Affairs and Special Counsel Rebecca Chasan, and was supervised by Acting Inspector 
+General Jeremy Reyes, Deputy Commissioner of Strategic Initiatives Christopher Ryan, and Deputy 
+Commissioner/Chief of Investigations Dominick Zarrella.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOI is one of the oldest law-enforcement agencies in the country and New York City’s corruption watchdog. Investigations 
+may involve any agency, officer, elected official or employee of the City, as well as those who do business with or receive benefits 
+from the City. DOI’s strategy attacks corruption comprehensively through systemic investigations that lead to high-impact arrests, 
+preventive internal controls and operational reforms that improve the way the City runs. 
+ 
+ 
+DOI’s press releases can also be found at twitter.com/NYC_DOI 
+Know something rotten in City government? Help DOI Get the Worms Out of the Big Apple. 
+Call: 212-3-NYC-DOI or email: Corruption@DOI.nyc.gov 
+ 
+  
+ 
+New York City 
+Department of Investigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jocelyn E. Strauber 
+Commissioner 
+ 
+Jeremy Reyes 
+Acting Inspector General for the Department of Social Services 
+ 
+ 
+September 2025 
+ 
+DOI’s Findings Regarding “Skimming” of 
+Electronic Benefit Transfer Cards that Provide 
+Vital Funds to Low-Income New Yorkers 
+and Related Recommendations 
+Skimming Report September 2025 
+ 
+ 
+ 
+Table of Contents
+ 
+ 
+I. Executive Summary ............................................................................................................................. 1  
+ 
+II. Background .......................................................................................................................................... 2  
+A. Cash Assistance and Supplemental Nutrition Program ................................................................ 2 
+B. Skimming ........................................................................................................................................... 3  
+C. EBT Card Technology ....................................................................................................................... 4  
+ 
+III. Impact ................................................................................................................................................... 5  
+A. Cost of Skimming .............................................................................................................................. 5  
+ 
+IV. Law Enforcement Response ............................................................................................................... 7 
+A. Investigations .................................................................................................................................... 7  
+B. Removing Skimming Devices .......................................................................................................... 8 
+C. Investigative Challenges .................................................................................................................. 9  
+ 
+V. Preventative Measures ........................................................................................................................ 9  
+A. Beneficiary and Retailer Awareness and Detection ....................................................................... 9 
+B. Legislative Efforts in New York and in Other Jurisdictions ......................................................... 11 
+ 
+VI. Conclusion ......................................................................................................................................... 13 
+ 
+ 
+  
+  
+ 
+Skimming Report September 2025 
+ 
+ 
+ 
+NYC Department of Investigation | 1  
+ 
+I. EXECUTIVE SUMMARY 
+The New York City Department of Social Services (DSS) 1 administers both Cash 
+Assistance (CA) and the Supplemental Nutrition Assistance Program (SNAP), which collectively 
+provide monthly financial benefits to 1.8 million low -income families and individuals in New 
+York City to help them meet their basic needs such as food and rent. Benefits are disbursed through 
+Electronic Benefit Transfer cards (EBT), which can be used like debit cards to purchase food and 
+other household necessities at participating stores. EBT cards issued to residents of New York 
+State, including City residents, use magnetic stripes to transfer data. This differs from standard 
+credit cards which, per industry standards, are equipped with EMV chip technology that more 
+securely transfers data and is therefore less susceptible to fraud. Cards th at use magnetic stripes 
+are particularly vulnerable to skimming, one of the most prevalent forms of card fraud. Skimming 
+is the theft of card information via devices placed surreptitiously on card -reading machines, such 
+as ATMs or point -of-sale (POS) termi nals. These devices mimic the look of the card -reading 
+machines and are difficult to detect. Wrongdoers replicate the stolen information and use it to make 
+counterfeit cards or otherwise use the data to make unauthorized purchases or withdraw money 
+from the cardholders’ accounts, without notice to the true cardholder.   
+The volume of alleged skimming theft from EBT cards in New York City is significant. 
+Between August 2023 and March 2025, DSS processed 142,178 SNAP reimbursement 
+applications from victims of EBT theft, approved 96,048 applications, and issued reimbursements 
+of stolen benefits of $43.7 million. During the same time, DSS processed 60,337 CA 
+reimbursement applications, approved 27,176 applications, and issued reimbursements of stolen 
+benefits of $4.9 million. As of December 2024, federal funding for reimbursements for stolen 
+SNAP funds is no longer available, leaving thousands of individual victims without recourse to 
+have their stolen benefits restored for thefts post-dating December 2024.
+2 
+In June 2022, the New York City Department of Investigation (DOI), with DSS’ assistance, 
+initiated several investigations in response to reports from hundreds of DSS clients that their EBT 
+accounts were drained of SNAP and/or CA benefits at various locations i n and out of New York 
+State without their knowledge. DOI and DSS analyzed SNAP and CA transactions using stolen 
+EBT cards throughout New York City in an effort to locate POS terminals at local retailers where 
+skimmers were placed. In a recent operation, DO I, along with the New York Police Department 
+(NYPD) Financial Crimes Unit, DSS, and federal law enforcement partners, found approximately 
+55 skimming devices that had been placed on POS terminals at local retailers and investigated 
+several individuals suspected of installing those devices. 
+                                                        
+1 In April 2016, the Human Resources Administration (HRA) and the Department of Homeless Services (DHS) were 
+consolidated within the Department of Social Services (DSS). The matters evaluated in this report fall within the purview of 
+HRA, which helps over three million vulnerable New York City residents through the administration of more than 12 major 
+public assistance programs, including cash assistance, food assistance, and Medicaid. HRA has over 12,000 employees and 
+administers over $10 billion in public assistance funds annually. 
+2 Federal legislation authorizing reimbursements of stolen SNAP benefits with federal funds expired on December 20, 2024. 
+Victims of stolen SNAP benefits can still file claims for funds that were stolen before December 20, 2024, until September 
+30,2025, https://www.nyc.gov/site/hra/help/request-for-replacement-of-stolen-benefits.page (Last visited August 21, 2025). 
+Stolen CA funds are still eligible for reimbursements. 
+Skimming Report September 2025 
+ 
+ 
+ 
+2 
+ 
+ Law enforcement efforts to address skimming, while ongoing, can be challenging in part 
+because real-time information about skimming in progress is not currently available. Thus, by the 
+time it becomes clear that a card has been skimmed, the funds may already be gone, and efforts to 
+obtain video footage or other pertinent evidence may be compromised by the delay.  
+This report seeks to raise awareness about skimming and to help New Yorkers with EBT 
+cards identify and avoid potential skimming devices at local retailers. The report also outlines 
+DOI’s support for amending the social services law to require the Office of Temporary Disability 
+Assistance (OTDA), which administers SNAP and CA statewide, to modernize EBT cards by 
+installing EMV chips in them, or for OTDA to do so without a change in the law. Chips would 
+make EBT cards more secure because they generate and transfer a unique, encrypted code for each 
+purchase, making theft of card information and of benefits via skimmi ng more difficult.  In the 
+interim period, before EMV chips are installed, this report recommends that DSS and OTDA take 
+additional steps to reduce the risk of skimming and benefit fraud by educating cardholders, 
+encouraging account monitoring, and enhancing the existing security features.  
+II. BACKGROUND  
+ 
+A. Cash Assistance and the Supplemental Nutrition Assistance Program 
+Nearly two million New Yorkers rely on public benefits. The most common forms are CA 
+and SNAP. Both CA and SNAP benefits are administered through EBT cards with funds disbursed 
+once or twice per month, depending on the benefit.
+3 The City’s Human Resources Administration 
+(HRA) within DSS administers both CA and SNAP to New York City residents, which are 
+overseen by OTDA and the federal government.  
+Through CA, eligible families may receive up to 60 months of federally funded cash 
+assistance under the Temporary Aid to Needy Families Program (TANF).
+4 Single individuals 
+without children and families who have already received cash assistance for 60 m onths may 
+receive benefits under the New York State Safety Net Program.5 The amount of CA issued depends 
+on household size, rent, and income; CA can be used for food, utilities, and other household 
+expenses.
+6 Some CA beneficiaries may be required to engage in work and/or educational activities 
+as a condition of receiving benefits. 7 In May of 2025, more than 600,000 New York City 
+households received CA, and nearly $223 million was disbursed.8 
+SNAP, formerly known as the Food Stamp Program, is the cornerstone  of the nation’s 
+safety net and nutrition assistance programs and aids millions of eligible low -income people. 9 
+                                                        
+3According to DSS, SNAP funds are issued to beneficiaries once per month, while CA funds are issued twice per month. 
+4 New York City Department of Social Services, Human Resource Administration, Cash Assistance Program, 
+https://www.nyc.gov/site/hra/help/cash-assistance.page, (Last visited August 21, 2025) 
+5 Id. 
+6 New York City BAR, New York State Cash Assistance Program, Cash Assistance Eligibility, https://www.nycbar.org/get-legal-
+help/article/public-benefits/new-york-state-cash-assistance-program (Last visited August 21,2025) 
+7 New York City Department of Social Services, Human Resource Administration, Cash Assistance Program, 
+https://www.nyc.gov/site/hra/help/cash-assistance.page, (Last visited August 21, 2025) 
+8 New York City Department of Social Services, Human Resource Administration, HRA’s Fact Sheet, 
+https://www.nyc.gov/assets/hra/downloads/pdf/facts/hra_facts/2025/hra_facts_2025_05.pdf (Last visited August 21, 2025) 
+9 Center on Budget and Policy and Policy Priorities, “SNAP is Effective and Efficient,” available at   
+http://www.cbpp.org/research/snap-is-effective-and-efficient, (Last visited August 21,2025) 
+ 
+Skimming Report September 2025 
+ 
+ 
+ 
+3 
+ 
+Benefit levels for SNAP are based on criteria including but not limited to, household size and 
+income levels.10 In Federal Fiscal Year 2023, in New York State, the average SNAP household 
+received $355 per month in benefits, consisted of 1.7 people, and had a gross monthly income of 
+$1,100.
+11 In the same year in New York State, among other households, SNAP assisted 25.2% of 
+the State’s households with children, 43.8% of the States households with elderly individuals, and 
+16.5% of the State’s households with non- elderly individuals with disabilities.
+12 SNAP can be 
+used for purchases of food, but  not for items such as alcohol, hot food, or non- food products.13 
+The federal legislation authorizing reimbursements of stolen SNAP benefits with federal funds 
+expired on December 20, 2024. Victims of stolen SNAP benefits can still file claims for funds that 
+were stolen before December 20, 2024.
+14 In New York City, reimbursement requests are processed 
+by HRA. 
+B. Skimming 
+ 
+Skimming is a common and widespread form of card fraud. Skimming devices, pictured 
+below, are placed on card-reading machines, such as ATMs or POS terminals, that are capable of 
+collecting the card’s data when the card is swiped on the card-reading machine.15 
+   
+When a cardholder swipes their magnetic stripe card, the skimming device captures the 
+card’s number, PIN number, and the cardholder’s name. The cardholder’s data is then transferred 
+via Bluetooth to individuals who use the information to conduct unauthorized transactions via 
+duplicated cards, online purchases, or to engage in identity theft. EBT cards, which are effectively 
+                                                        
+10 New York State Office of Temporary and Disability Assistance, Supplemental Nutrition Assistance Program (SNAP), 
+https://otda.ny.gov/programs/snap/ (Last visited August 21, 2025) 
+11 United States Department of Agriculture, Characteristics of Supplemental Nutrition Assistance Program Households: Fiscal 
+Year 2023, https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-FY23-Characteristics-Report.pdf, (Last visited 
+August 21,2025) 
+12 Id. 
+13 New York State Office of Temporary and Disability Assistance, Supplemental Nutrition Assistance Program (SNAP), 
+https://otda.ny.gov/programs/snap/qanda.asp#purchase, (Last visited August 21,2025) 
+14 New York State, myBenefits, https://mybenefits.ny.gov/mybenefits/begin, (Last visited August 21,2025) 
+15 New York City Department of Social Services, Human Resource Administration, For more information on identifying 
+skimming devices see, https://www.nyc.gov/assets/hra/downloads/pdf/services/program_integrity/FLY-1095-Protect-Your-
+Benefits-Skimming-en.pdf. (Last visited August 21,2025) 
+
+Skimming Report September 2025 
+ 
+ 
+ 
+4 
+ 
+debit cards for CA and SNAP benefit accounts, are one type of card that can be skimmed using 
+these devices. In the case of EBT card ski mming, cardholder information will be used to steal 
+clients’ public benefits from their accounts, often leaving the client without the CA and SNAP 
+funds to support their basic needs until the next disbursement. 
+The data is transferred from the skimmer remo tely, such that there is no need to return to 
+the retail location to collect the skimmer, and little if any delay in using the data to steal clients’ 
+benefits after capturing the data. These circumstances make it more difficult for law enforcement 
+to identify subjects. Perpetrators typically work in pairs - one person will distract the cashier or 
+salesperson while the second person will place the skimming device on the POS terminal. The 
+devices are typically replicas of the POS terminals, such that store owners may be unaware of the 
+presence of a skimming device for an extended period of time. Oftentimes, store owners are alerted 
+to the placement of a device only after multiple EBT card recipients report stolen funds, after 
+noticing transactions at stores they have not frequented. Skimming devices have also been found 
+on ATMs and gas pumps.  
+Skimming devices are hard to detect because they are designed to blend in with legitimate 
+card readers and payment terminals, or installed inside terminals, making them nearly invisible to 
+customers and store owners. The following are warning signs of a card- reading machine that has 
+been compromised by a skimming device: 
+• Fake keypads that may feel soft or spongy and are inconsistent with the material of a 
+normal terminal; 
+• Scratches and missing pin pad shields;  
+• Resistance to inserting a card or difficulty swiping it; or 
+• Small hidden cameras on the POS terminals. 
+ 
+C. EBT Card Technology 
+ 
+Beginning around 2015, credit card companies started transitioning to chip cards (such as 
+the card pictured below) that require insertion of a chip into a payment terminal or the use of a PIN 
+number for contactless payment, as pictured below. This technology, called EMV chips, is now 
+the industry standard in credit card transactions for reducing  credit card fraud. According to 
+EMVCo, the global technological entity responsible for facilitating worldwide acceptance of EMV 
+chips, as of the end of 2023, 70% of all credit cards have EMV chips.
+16 
+ 
+                                                        
+16 EMVCo, Worldwide EMV Deployment Statistics, https://www.emvco.com/about-us/worldwide-emv-deployment-statistics/ 
+(Last visited August 21, 2025) 
+ 
+
+Skimming Report September 2025 
+ 
+ 
+ 
+5 
+ 
+Unlike modern credit cards which use EMV technology to transfer data, New York EBT 
+cards rely on magnetic stripes to transfer funds, an outdated funds transfer technology. Magnetic 
+stripes “transmit the card’s real number during a transaction.”17 Therefore, when the information 
+is skimmed during a transaction, the full card number is captured, allowing for relatively easy 
+duplication of the card data for use in future fraudulent transactions. 18 In contrast, EMV chips 
+secure the data by generating a unique and encrypted code for every purchase and send that code 
+to the business’s card reader.
+19 Accordingly, skimmed data is harder to use in future fraudulent 
+purchases because it is incomplete and or encrypted.  
+Whereas the chip technology has been available for credit cards for a number of years, the 
+chip technology  for EBT cards was only made available in August 2024, when the technical 
+standards for using chip technology in EBT cards were ratified and published by the independent 
+accredited standards committee.
+20 In February 2025, the Food and Nutrition Service (FNS) of the 
+U.S. Department of Agriculture (USDA) stated that it was working to publish a rule to codify the 
+accredited standards into regulation and to establish timeframes for upgrading to secure payment 
+technologies. The USDA urged all states to adopt the new standards and to work to transition to 
+chip technology as soon as feasible. 
+21 
+ 
+In June 2025, OTDA published a Request for Proposal (RFP) seeking competitive 
+proposals from qualified vendors to provide EBT card services, including cards with chip and tap-
+to-pay technology.22 Proposals in response to the RFP are due to OTDA by September 16, 2025.23  
+III. IMPACT  
+A. Cost of Skimming  
+Between August 2023 and March 2025, the City administered $43.7 million of 
+reimbursements to victims of SNAP theft and $4.9 million to victims of CA theft. However, the 
+actual loss to New Yorkers is likely much greater, because this number does not include unreported 
+losses.  With the expiration of federal funding for reimbursement of stolen SNAP funds, described 
+above, reporting of theft is likely to drop further, even if theft does not decrease.   Some victims 
+of stolen funds have sued OTDA for failing to protect their benefits by relying on outdated card 
+technology, in the absence of other options.
+24  
+                                                        
+17 Stripe, What are EMV Chip Cards?, https://stripe.com/resources/more/what-are-emv-chip-cards, (Last visited August 21, 
+2025) 
+18Stripe, How do EMV card readers work? https://stripe.com/resources/more/what-are-emv-chip-cards, (Last visited August 
+21,2025).  
+19 Stripe, How do EMV card readers work? https://stripe.com/resources/more/what-are-emv-chip-cards, (Last visited August 
+21,2025).  
+20 United States Department of Agriculture, Food and Nutrition Services, Letter to Commissioners - SNAP EBT Chip Cards, 
+https://www.fns.usda.gov/snap/ebt/modernization/commissionerletter-chipcards, (Last visited August 21, 2025) 
+21 Id. 
+22New York State Office of Temporary and Disability Assistance, Common Benefit Identification Card (CBIC) RFP, 
+https://otda.ny.gov/contracts/2025/CBIC/ (Last visited August, 21, 2025) 
+23 Id. 
+24 Gothamist, Victims of Food Benefits, Victims of food benefits theft sue NY over outdated tech they say puts them at risk - 
+Gothamist (Last visited August 21, 2025) 
+ 
+Skimming Report September 2025 
+ 
+ 
+ 
+6 
+ 
+  As illustrated in Figure 1, HRA has played a significant role in helping victims of SNAP 
+and CA theft recover funds, issuing an average of approximately $3 million in reimbursement 
+payments per month from August 2023 to December 2024. 25 As Figure 1 shows, in September 
+2023, HRA administered nearly its highest amount of reimbursements, totaling close to $6 million 
+for SNAP theft and approximately $500,000 for CA theft. During this time period, HRA’s handling 
+of reimbursement claims was governed by OTDA’s Administrative Directive Memorandum, 
+“Replacement Procedure for SNAP and/or TA Benefits Stolen via Skimming, Cloning, Phishing 
+or other Fraudulent Methods.”
+26 However, beginning in January 2025, the graph shows a dramatic 
+decrease in reimbursements and only includes a small number of claims/reimbursements that relate 
+to theft that occurred before the December 2024 expiration date and were filed thereafter.  
+ 
+Figure 1 
+Figure 2 shows the number of individual reimbursement applications HRA approved for 
+CA and SNAP, and the volume of clients impacted by this theft. Most expenditures of stolen 
+benefits are used for purposes other than their intended use, typically for personal gain, such as 
+exchanging the benefits for cash.  
+                                                        
+25 Figure 1 is based on information in HRA’s internal database concerning reimbursement amounts for victims of SNAP and CA 
+theft.  
+26 The memo specifies that claims for reimbursement must be made 30 days from the date the client discovered the theft and 
+client households are limited to two replacements per federal fiscal year (October 1 – September 30). Additionally, HRA 
+employees assess each claim to determine its validity by checking factors such as who made the balance inquiry, balance 
+inquiries that are not followed by an online purchase, and atypically timed balance inquiries, among others. 
+https://otda.ny.gov/policy/directives/2023/ADM/23-ADM-07.pdf.  
+ $-
+ $1,000,000.00
+ $2,000,000.00
+ $3,000,000.00
+ $4,000,000.00
+ $5,000,000.00
+ $6,000,000.00
+ $7,000,000.00
+Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+2023 2024 2025
+Approved Reimbursement Amounts for Victims 
+of SNAP and CA theft from August 2023 - Present
+Cash Assistance SNAP
+Skimming Report September 2025 
+ 
+ 
+ 
+7 
+ 
+ 
+Figure 2 
+IV. LAW ENFORCEMENT RESPONSE  
+A. Investigations  
+DOI’s multifaceted approach to combating skimming includes multiple operations with 
+various law enforcement partners. While DOI continues to collaborate with DSS and with other 
+law enforcement partners on the federal, state and local level, on a variety of skimming 
+investigations, there are significant enforcement challenges, as set out below. For example, we 
+have identified hundreds of subjects throughout the United States who have successfully 
+skimmed EBT cards and stolen the associated benefits. While several individuals have been 
+apprehended, challenges identifying and charging other wrongdoers persist.  
+In addition to suspects who have used EBT card information to steal benefits, DOI has 
+identified retailers who also appear to be involved in illegal skimming activities.  These retailers’ 
+point of sale terminals were unlawfully programmed to accept EBT cards. As explained above, 
+retailers must register and be authorized by FNS in order to accept SNAP benefits.
+27 DOI 
+discovered retailers who have stolen and/or misused FNS numbers to create the false impression 
+that they are eligible EBT retailers. We suspect those retailers may also be using cards created 
+with stolen EBT card information -- DOI found that many of the illicit transactions were made 
+between 12:00 AM and 2:00 AM, which indicates that retailers not authorized to receive SNAP 
+                                                        
+27 See footnote 2. 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+2023 2024 2025
+Approved SNAP and CA Applications from 
+August 2023 - June 2025
+Cash Assistance SNAP
+Skimming Report September 2025 
+ 
+ 
+ 
+8 
+ 
+benefits are using cards created with stolen information to drain benefit funds from clients’ 
+accounts.  
+For cases where specific subjects could not be identified, but significant amounts of fraud 
+were reported, DOI worked closely with DSS to identify store locations potentially complicit in 
+skimming schemes both in and outside of New York City.   USDA has taken administrative 
+action against certain of these stores, such as disqualifying their FNS numbers, while criminal 
+investigations are ongoing. DOI continues to work with DSS by referring data to assist 
+skimming-related law enforcement operations in jurisdictions beyond New York City. 
+B. Removing Skimming Devices 
+In May 2025, the NYPD Financial Crimes Unit, U.S. Secret Service, USDA, DOI, and 
+DSS led a three-day coordinated effort called Operation Flagship. The agencies inspected 3,251 
+POS terminals throughout New York City. Law enforcement removed 55 skimming devices, some 
+of which appear in the photographs below, potentially saving approximately $16.5 million in EBT 
+benefits from theft. Throughout the sweep, investigators spoke with store managers regarding 
+skimming awareness and provided best practices for how to properly check for skimming devices. 
+DOI and its law enforcement partners will continue to push for larger operations to remove devices 
+that safeguard SNAP clients.  
+ 
+ 
+Skimming devices found during Operation Flagship. 
+Skimming Report September 2025 
+ 
+ 
+ 
+9 
+ 
+C. Investigative Challenges  
+DOI and its law enforcement partners encounter significant obstacles in safeguarding 
+beneficiaries of cash assistance and SNAP from the pervasive threat of skimming. The inherent 
+difficulty in immediately identifying compromised cards leaves clients vulner able to prolonged, 
+undetected theft of benefits. This delay allows perpetrators repeated access to replenished 
+accounts. Consequently, by the time a beneficiary recognizes fraudulent activity, crucial video 
+surveillance evidence at the point of compromise is often no longer available for effective law 
+enforcement review and identification of the responsible individuals. Furthermore, the lag in 
+detecting an active skimming device increases the likelihood that if perpetrators need to collect the 
+equipment, they are able to do so before law enforcement intervention.  
+ Another challenge is that it is difficult to know exactly where a skimming device has been 
+placed. Investigators work with data analytics experts and make educated guesses based on the 
+volume of reported fraud at specific locations, but traveling to the suspected location takes time 
+and resources. Moreover, skimming devices are rarely placed at the same retailer or ATM more 
+than once, which makes locating them a resource -heavy endeavor because inve stigators have to 
+repeatedly respond to new suspected locations. 
+Finally, DOI and its partners have identified several subjects who are not U.S. citizens and 
+who are present in the country illegally and without documentation. As with any investigation, the 
+absence of documentation makes identifying these perpetrators more difficult. Many of the 
+suspects have significant resources, which allows them to travel throughout the country, thereby 
+evading law enforcement. Another issue DOI has encountered when trying to identify perpetrators 
+is the unpredictability of their illicit withdrawals. In other jurisdictions that administer benefits, 
+sums are distributed on the 1
+st and 15th of each month, which makes surveilling suspects slightly 
+easier, given they will likely withdraw funds on those specific days. But in New York, funds can 
+be disbursed on any day, determined by the client’s account number and when the client signed up 
+for the benefits. This means investigators cannot easily predict the timing of illegal withdrawals.  
+These challenges make clear that while investigations and prosecutions may deter some of 
+these criminal activities, preventative measures are critical to eliminating this type of fraud. 
+V. PREVENTATIVE MEASURES 
+A. Beneficiary and Retailer Awareness and Detection 
+As outlined above, detecting a skimming device on a card- reading device is challenging.  
+However, there are several telltale signs, such as the feel of the fake terminal or difficulty inserting 
+one’s card, that can alert the cardholder or the retailer to the existence of a skimming device. DOI 
+recommends that retailers conduct a daily inspection of their POS terminals for skimming devices 
+and that EBT cardholders conduct a physical inspection of a card- reading machine before using 
+their card for a transaction. If clients suspect a skimming device, they should avoid using the 
+payment terminal and report concerns to local law enforcement. 
+DSS, with law enforcement partners, has taken several steps to inform clients of skimming 
+and other forms of benefit fraud. For example, on the HRA website, there is a video depicting 
+skimming, warning clients of the risks of benefit theft, and advising them to take precautionary 
+Skimming Report September 2025 
+ 
+ 
+ 
+10 
+ 
+steps.28  HRA also has published fact sheets on the issue in multiple languages that include images 
+of skimming devices.29 Most recently, the DSS Fraud Protection Unit and Kings County District 
+Attorney’s Office held a joint seminar on skimming for clients in Brighton Beach.30  
+OTDA advises EBT clients to use a new freeze/unfreeze card feature, which makes a card 
+unusable when a client is not making a purchase, to help secure EBT cards and protect their 
+benefits through the ebtEDGE mobile app.31 The ebtEDGE mobile app can be downloaded on any 
+smartphone.32 The client can log in and tap the new “Freeze/Unfreeze” icon on the Home Screen 
+to protect their cards when not in use. OTDA suggests freezing EBT cards whenever the client is 
+not making a purchase to secure their benefits. DSS advises clients in its municipality to do the 
+same.  OTDA’s flyer on this point is included below at Figure 3. 
+                                                        
+28 New York City Department of Social Services, Human Resource Administration, Fraud prevention, 
+https://www.nyc.gov/site/hra/help/fraud-prevention.page (last visited August 21, 2025) 
+29 New York City Department of Social Services, Human Resource Administration, Protect your Benefits, 
+https://www.nyc.gov/assets/hra/downloads/pdf/services/program_integrity/FLY-1095-Protect-Your-Benefits-Skimming-en.pdf, 
+(Last visited August 21, 2025) 
+30 Instagram Post, News 12 Brooklyn, Brooklyn DA’s office Hosts EBT Fraud Seminar, 
+https://www.instagram.com/reel/DL59EhgBmiO/ (Last visited August 21, 2025) 
+31 New York State Office of Temporary and Disability Assistance, EBT Scam Alert https://otda.ny.gov/workingfamilies/EBT-
+scam-alert.asp. (Last visited August 21, 2025) 
+32 Access the ebtEDGE website here: http://www.ebtedge.com/   
+Skimming Report September 2025 
+ 
+ 
+ 
+11 
+ 
+ 
+Figure 3 
+In addition, clients should frequently change their EBT PINs so that if a card is 
+compromised, the perpetrator cannot continue to access funds, and frequently check their account 
+information for any unauthorized transactions. According to OTDA, the ebtEDGE  app has a 
+feature that allows clients to opt in to email notifications when their PIN has been changed. 
+However, notifications via text message or phone calls are not an option. 
+B. Legislative Efforts in New York and in Other Jurisdictions 
+ Based on our investigative challenges and findings outlined above, it is DOI’s position that 
+the best way to prevent much of this fraud is to use chip-enabled EBT cards rather than the existing 
+EBT cards with magnetic stripes. Therefore, DOI strongly supports the implementation of EMV 
+chips into New York’s EBT cards. Currently, there are two New York State Senate bills and two 
+
+Skimming Report September 2025 
+ 
+ 
+ 
+12 
+ 
+New York State Assembly bills that would mandate the implementation of chips in EBT cards. 33 
+The bills vary slightly in wording, but in substance, all four require the commissioner of OTDA to 
+issue EBT cards with EMV chips. DOI supports these legislative efforts and submitted a memo in 
+support of Senate Bill 1465 and Assembly Bill 699. DOI is informed that DSS has also submitted 
+a memorandum in support of this legislation. However, legislation is not required in order for 
+OTDA to take this action, and DOI urges OTDA to update the EBT cards as soon as possible. 
+In addition to the proposed New York state legislation, there is proposed federal legislation 
+that would require SNAP cards (EBT cards) to have chips that align with the credit card industry 
+standard. The Enhanced Cybersecurity for SNAP Act of 2024 was introduced in March 2024 and 
+is meant to “upgrade the security of electronic benefit cards and protect families in need from 
+thieves who have stolen millions worth of essential food benefits.”
+34 The bill’s announcement 
+highlights that benefit fraud happens all over the country, and that the USDA should require states 
+to issue cards with secure chips.  The bill would, among other things, provide states with funding 
+to issue benefit cards with chips.  
+Notably, FNS, the Department within the USDA that administers SNAP, published a letter 
+to State Governors and Commissioners informing them that the agency had ratified and published 
+new technical standards for SNAP EBT cards that “provide the opportunity for states to implement 
+EBT cards with chip technology.”
+35 The letters do not require states to transition to EMV chip 
+EBT cards, but urges them to do so and reminds states that the “costs to transition to chip cards 
+are a state administrative expense that is reimbursed by FNS at 50 percent.” 36 The letter to 
+commissioners was last updated on February 6, 2025.  
+California and other jurisdictions are moving towar ds implementing EMV chips in their 
+EBT cards. According to the USDA, California began issuing SNAP EBT chip and tap cards to 
+individuals in January 2025. The California cards still have a magnetic stripe on them, and 
+cardholders are directed to use their c hip features first and to use the magnetic stripe only if the 
+retailer is unable to accept the chip. California and bordering-state EBT retailers are being advised 
+to update their POS terminals so that chips will work in them.
+37 According to the California 
+Department of Social Services, more than 3.2 million chip EBT cards will be distributed through 
+                                                        
+33The New York State Senate, Senate and Assembly Bills S1465, S1179 A699, A5742, 2025-2026 Legislative Session, 
+https://www.nysenate.gov/legislation/bills/2025/S1465; https://www.nysenate.gov/legislation/bills/2025/A699; 
+https://www.nysenate.gov/legislation/bills/2025/S1779; https://www.nysenate.gov/legislation/bills/2025/A5742 (Last visited 
+August 21, 2025) 
+34 Ron Wyden, United States Senator for Oregon, https://www.wyden.senate.gov/news/press-releases/wyden-fetterman-cassidy-
+and-bipartisan-members-of-congress-introduce-enhanced-cybersecurity-for-snap-act-to-secure-food-benefits-against-hackers-
+and-thieves (Last visited August 21, 2025) 
+35 United States Department of Agriculture, Food and Nutrition Services, Letter to Commissioners - SNAP EBT Chip Cards, 
+https://www.fns.usda.gov/snap/ebt/modernization/commissionerletter-chipcards, (Last visited August 21, 2025) 
+36 United States Department of Agriculture, Food and Nutrition Services, Letter to Commissioners - SNAP EBT Chip Cards, 
+https://www.fns.usda.gov/snap/ebt/modernization/commissionerletter-chipcards, (Last visited August 21, 2025). Beginning in 
+Federal Fiscal Year 2027, the percentage of administrative costs that will be reimbursed by the federal government will drop to 
+25 percent. Pub. Law 119-21 sec. 10106, https://www.govinfo.gov/content/pkg/BILLS-119hr1eas/pdf/BILLS-119hr1eas.pdf(Last 
+visited August 21, 2025) 
+37 United States Department of Agriculture, Food and Nutrition Services, SNAP EBT Chip and Tap Cards Have Been Deployed 
+in California, https://www.fns.usda.gov/snap/ebt/modernization/retailer-notice/CA-bordering-state, (Last visited August 21, 
+2025) 
+ 
+Skimming Report September 2025 
+ 
+ 
+ 
+13 
+ 
+June 2025. In addition to California, Oklahoma, Alabama, New Jersey, and Maryland have efforts 
+to implement EBT chip cards in progress.38   
+VI. CONCLUSION  
+As federal funding for reimbursement of stolen benefits is no longer available, and because 
+benefit fraud results in significant losses, DOI recommends New York urgently implement EMV 
+chips in EBT cards to reduce the risk of skimming theft. U ntil New York implements EBT cards 
+with EMV chips, DOI recommends five additional preventative measures to enhance the security 
+of the EBT cards: 
+Recommendations for DSS and/or OTDA 
+1. OTDA should work with the EBT card vendor to create an opt-out feature that alerts clients 
+when an out-of-state or suspicious transaction is pending and requires that they authenticate 
+the transaction via the application or an automated phone call.  
+2. OTDA should work with the EBT card vendor to create a security feature that alerts clients 
+in real-time via text message when their PINs are changed. Such feature should be the 
+default setting with an option for clients to opt out (rather than the existing alerts via email 
+and opt-in feature).  
+3. OTDA should create an alert triggered by repetitive transactions that occur at common 
+locations between 12:00 AM and 2:00 AM, and promptly report the aler t to law 
+enforcement. 
+4. DSS should continue to work with USDA and law enforcement to promptly remove and 
+confiscate identified or suspected skimming devices. 
+5. DSS should continue their ongoing work of early skimming detection and analytics, 
+informing the public of the risks and the necessary precautions, including via distribution 
+of flyers and public seminars.  
+ 
+                                                        
+38 United States Department of Agriculture, Food and Nutrition Services, SNAP EBT Modernization, 
+https://www.fns.usda.gov/snap/ebt/modernization, (Last visited August 21, 2025) 

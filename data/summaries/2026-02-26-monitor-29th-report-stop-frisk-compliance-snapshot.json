@@ -1,0 +1,59 @@
+{
+  "id": "2026-02-26-monitor-29th-report-stop-frisk-compliance-snapshot",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Twenty-Ninth Report of the Independent Monitor: Compliance Snapshot of NYPD’s Stop, Frisk, and Search Practices",
+  "plain_title": "Stop and frisk compliance snapshot for spring 2025",
+  "agency": "New York City Police Department",
+  "issued": "2026-02-26",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.02.26-979-Monitors-Twenty-Ninth-Report.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.02.26-979-Monitors-Twenty-Ninth-Report.pdf",
+  "what_they_audited": "A quarterly visual \"compliance snapshot\" updating the monitor's Twenty-Eighth Report on the New York City Police Department's (NYPD) compliance with the federal court's requirements in Floyd v. City of New York, Ligon v. City of New York and Davis v. City of New York, covering the second quarter (April to June) of 2025.",
+  "background": "The report covers the second quarter of 2025 and in several slides compares it to the second quarter of 2024. It draws on the monitor team's audits of 100 stop reports per month and quarterly body-worn camera video audits, plus audits by the NYPD Quality Assurance Section, command self-inspections and first-line supervisor reviews.",
+  "findings": [
+    {
+      "plain": "In the second quarter of 2025, the monitor's audits found 91% of reported stops, 79% of frisks and 77% of searches lawful. The monitor said compliance had not changed substantially from previous quarters and that frisks and searches continued to have unacceptably low compliance rates.",
+      "quote": "91% of stops, 79% of frisks, and 77% of searches were assessed as lawful"
+    },
+    {
+      "plain": "Self-initiated stops remained less lawful than stops from radio runs or witnesses: 85% of self-initiated stops were lawful, with frisks during them at 71% and searches at 60%.",
+      "quote": "Frisks during self-initiated stops were lawful 71% of the time"
+    },
+    {
+      "plain": "By the department's own audits, 87% of commands had stop compliance above 85%, but only 56% cleared that bar for frisks and 44% for searches. The monitor noted that 100% compliance is the goal and each command should achieve at least 85% as a minimum.",
+      "quote": "87% of commands had a compliance rate for stops greater than 85%"
+    },
+    {
+      "plain": "Supervision remained poor. The monitor found 9% of stops, 21% of frisks and 23% of searches unlawful, while reviewing supervisors flagged only 2% of stops, 4% of frisks and 4% of searches.",
+      "quote": "the reviewing supervisors found that only 2% of stops, 4% of..."
+    },
+    {
+      "plain": "Officers failed to complete stop reports for 27% of stops identified in the monitor's audit (11 of 40), down from 37% in the second quarter of 2024, suggesting stop reporting may be improving.",
+      "quote": "For 27% of stops identified in the Monitor's audit for underreporting in"
+    },
+    {
+      "plain": "Body-worn camera compliance kept improving: officers recorded 96% of stops in their entirety, up from 92% a year earlier.",
+      "quote": "the NYPD properly recorded the stop in its entirety"
+    },
+    {
+      "plain": "Housing Bureau officers' compliance was 82% for stops, 84% for frisks and 80% for searches, with trespass arrests at 98% compliance on the reason to approach and 100% on probable cause.",
+      "quote": "In the second quarter of 2025, 82% of stops,..."
+    }
+  ],
+  "numbers": [
+    {"value": "91%", "label": "Reported stops found lawful, second quarter of 2025"},
+    {"value": "79%", "label": "Frisks found lawful, second quarter of 2025"},
+    {"value": "77%", "label": "Searches found lawful, second quarter of 2025"},
+    {"value": "27%", "label": "Stops missing a stop report in the monitor's audit"},
+    {"value": "96%", "label": "Stops recorded in their entirety on body-worn camera"},
+    {"value": "44%", "label": "Commands with search compliance above 85%"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "The monitor found that compliance in the second quarter of 2025 had not changed substantially from previous quarters: frisks, searches and self-initiated stops continued to have unacceptably low compliance rates, supervisors still failed to identify unlawful encounters and underreporting, while improved, continued at an unacceptable rate.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

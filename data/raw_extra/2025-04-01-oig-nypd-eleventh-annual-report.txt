@@ -1,0 +1,2867 @@
+ 
+ 
+The City of New York 
+Department of Investigation 
+ 
+JOCELYN E. STRAUBER 
+COMMISSIONER 
+180 MAIDEN LANE Release #17-2025 
+NEW YORK, NY 10038 nyc.gov/doi 
+212-825-5900  
+  
+FOR IMMEDIATE RELEASE  CONTACT:   DIANE STRUZZI 
+TUESDAY, APRIL 1, 2025 CLODAGH MCGOWAN 
+ (212) 825-5931 
+  
+DOI’S OFFICE OF THE INSPECTOR GENERAL FOR THE NEW YORK CITY POLICE DEPARTMENT  (“OIG-NYPD”) 
+ISSUES ELEVENTH ANNUAL REPORT 
+Today, the Department of Investigation’s (“DOI”) Office of the Inspector General for the New York City Police 
+Department (“OIG-NYPD”) released its Eleventh Annual Report, as required by Local Law 70, which established the OIG-
+NYPD as part of DOI . This Annual Report reviews each of OIG -NYPD’s 23 investigative reports and one statement of 
+findings that were issued between 2015 and December 31, 2024. The Report also discusses the  status of  240 
+recommendations that were  issued by OIG -NYPD and responded to during that  period by the New York City Polic e 
+Department (“NYPD”) and the Civilian Complaint Review Board (“CCRB”). Recommendations made in 2024, to which  
+responses are due in 2025,  are not assessed in this Report . To date  NYPD has fully implemented 12 0 of 2 38 
+recommendations issued to them , or approximately 50%; and accepted in principle  or partially implemented  46 
+recommendations, or approximately 19%. Two recommendations issued to the CCRB during this timeframe have also been 
+implemented. A copy of the Report is attached to this release and can be found at the following link:  
+https://www.nyc.gov/site/doi/oignypd/web/report.page  
+DOI Commissioner Jocelyn E. Strauber said, “The OIG-NYPD’s Annual Reports provide a comprehensive  overview 
+of the issues addressed and recommendations made by the Office  since its founding . This year’s R eport features OIG -
+NYPD’s 23 investigative reports  and one statement of findings  — three of which were published in 2024  — and provides 
+updates on the status of 240 recommendations. Most notably, nearly 70 percent of the recommendations have been  
+deemed accepted or implemented by NYPD. This Report demonstrates OIG -NYPD’s impact on police oversight and its 
+dedication to furthering transparency and increasing public confidence in the police.” 
+OIG-NYPD Inspector General Jeanene L. Barrett said, “ OIG-NYPD continues to enhance transparency and build 
+stronger police-community relations through its investigations and recommendations. This Report highlights that important 
+work in a sweeping overview of OIG -NYPD’s reports and related results over the past 11 years. OIG -NYPD continues to 
+work with NYPD toward implementing all of its recommendations and commends NYPD on its acceptance of 21 of the 24 
+recommendations issued in 2024.”       
+Highlights of OIG-NYPD’s work from 2024 includes the following reports: 
+• OIG-NYPD issued two reports  pursuant to t he Public Oversight of Surveillance Technology (“POST”) Act 
+passed in June 2020 , which  requires the NYPD to publicly disclose information concerning its use of 
+surveillance technologies and its policies with respect to those technologies through Impact and Use Policies 
+(“IUPs”). The law further requires OIG-NYPD to prepare annual audits of NYPD’s IUPs.  
+ 
+➢ An Assessment of NYPD’s Compliance with the POST Act, May 2024. In OIG-NYPD’s second annual report 
+related to the NYPD’s compliance with the POST Act , the Office reviewed five surveillance technologies 
+NYPD introduced in Calendar Year 2023 : (1) Digidog, a remotely -operated robot; (2) the Knightscope K5 
+Autonomous Security Robot (“ K5”); (3) StarChase GPS tracking technology (“StarChase”); (4) IDEMIA 
+Mobile Biometric Check application (“IDEMIA”); and (5) an augmented reality smartphone application (“the 
+
+2 
+ 
+AR application”).  Among its findings, the Office determined that NYPD did not issue any new IUPs in 
+conjunction with the deployment of any of the five surveillance technologies. NYPD did, however, issue five 
+addenda to existing IUPs in April 2023 to cover its usage of K5, StarChase, IDEMIA, and the AR application, 
+which the Office found appropriate, as those technologies were either enhancements to or new uses of 
+existing surveillance technologies. Also, OIG -NYPD found that NYPD utilized grouping in an overly 
+expansive manner by addressing Digidog within an existing IUP, rather than issuing an individual IUP. OIG-
+NYPD issued seven recommendations  to NYPD. Of those recommendations, NYPD has accepted five 
+and rejected two. 
+ 
+➢ An Assessment of NYPD’s Compliance with the POST Act, December 2024.  In OIG-NYPD’s third annual 
+report related to the NYPD’s compliance with the POST Act, the Office reviewed NYPD’s use of unmanned 
+aircraft systems (“UAS”), commonly referred to as drones, and the IUPs related to the surveillance 
+technology. OIG -NYPD’s review found that while the Thermographic Cameras ’ IUP was sufficient with 
+respect to drone technology, NYPD’s UAS IUP did not sufficiently dis close all of the information required 
+by the POST Act. Specifically, the UAS IUP did not describe all the capabilities of its drone fleet or provide 
+a complete and accurate picture of NYPD UAS operations in practice. OIG -NYPD made 10 
+recommendations that focused on increasing transparency regarding the capabilities of drone technology 
+and the policies and procedures regulating its use . NYPD accepted all ten of the issued 
+recommendations.  
+ 
+• A Review of NYPD’s Community Response Team . In July 2022 , NYPD created the Patrol Services Bureau 
+Community Response Team (“CRT”), initially a single Citywide specialized unit created in response to a rise in 
+quality-of-life complaints from elected officials and community members. Despite a significant expansion since 
+its creation, OIG-NYPD found a lack of publicly available information related to the unit’s work, which prompted 
+the Office’s investigation. OIG-NYPD reviewed Department materials pertaining to CRT and other specialized 
+units, spoke with senior NYPD officials and active members of CRT, and met with NYC -based advocacy 
+organizations and community and violence interrupter groups as part of the investigation. The Office found that 
+CRT had no mission statement, no policies and procedures specifically related to the unit, and striking gaps in 
+data collection and analysis. OIG-NYPD made seven recomm endations regarding CRT policies, procedures, 
+and community engagement. NYPD accepted six and rejected one. OIG-NYPD’s review is continuing, and in 
+its next phase will focus on issues including the disciplinary history of CRT officers and available data reflecting 
+the impact of CRT’s work. 
+ 
+In addition to its investigations, OIG-NYPD conducted outreach in 2024 to educate the public and build relationships, 
+participating in 147 events (virtual and in -person) across the City to promote awareness of its work and learn about areas 
+of policing concerns. OIG-NYPD’s Outreach Unit collaborated with other City police oversight agencies on the “Furthering 
+Police Accountability” ed ucational event series, which featured conversations in Brooklyn and the Bronx about how the 
+public can be involved in the process of police oversight and accountability. DOI Commissioner Jocelyn Strauber and OIG-
+NYPD Inspector General Jeanene Barrett also  participated in a Police Athletic League’s Career Awareness event and the 
+NYPD’s National Night Out Against Crime. 
+ 
+The Eleventh Annual Report was prepared by Investigative Policy Analyst Olivia Sykes  in DOI’s Office of the 
+Inspector General for the NYPD and supervised by Deputy Inspectors General Percival Rennie and Lesley Bedeau, Special 
+Counsel to the Inspector General Maria Paolillo, Inspector General Jeanene L. Barrett, Associate Commissioner of Training 
+and Investigations Laura Bowman, Deputy Commis sioner of Strategic Initiatives Christopher Ryan, and Deputy  
+Commissioner/Chief of Investigations Dominick Zarrella. 
+ 
+ 
+  
+ 
+DOI is one of the oldest law-enforcement agencies in the country and New York City’s corruption watchdog. Investigations may involve any agency, 
+officer, elected official or employee of the City, as well as those who do business with or receive benefits from the City. DOI’s strategy attacks corruption 
+comprehensively through systemic investigations that lead to high-impact arrests, preventive internal controls and operational reforms that improve the 
+way the City runs. 
+ 
+ 
+DOI’s press releases can also be found at twitter.com/NYC_DOI 
+Know something rotten in City government? Help DOI Get the Worms Out of the Big Apple. 
+Call: 212-3-NYC-DOI or email: Corruption@DOI.nyc.gov 
+ 
+2025 
+11th Annual Report 
+New York City Department of Investigation 
+Office of the Inspector General for the NYPD  
+ 
+April 2025                   
+Jocelyn E. Strauber  
+Commissioner  
+                                                                                                                                                                                                  
+Jeanene L. Barrett 
+Inspector General  
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+TABLE OF CONTENTS 
+A Message from the Commissioner of the Department of Investigation and the Inspector General for the 
+New York City Police Department ................................ ................................ ................................ .................. 3 
+ Introduction ................................ ................................ ................................ ................................ ........... 4 
+  OIG-NYPD Mandate ................................ ................................ ................................ ............................. 5 
+  OIG-NYPD Eleventh Annual Report ................................ ................................ ................................ . 6 
+An Assessment of NYPD’s Compliance with the POST Act ................................ ................................ .... 7 
+A Review of NYPD’s Community Response Team ................................ ................................ ................... 9 
+An Assessment of NYPD’s Compliance with the POST Act ................................ ................................ .. 11 
+A. Outreach and Engagement ................................ ................................ ................................ .......... 15 
+B. Complaints ................................ ................................ ................................ ................................ .... 16 
+  Current Status of all OIG-NYPD Recommendations ................................ ................................ ... 17 
+ Featured 2015-2024 OIG-NYPD Investigations, NYPD Responses, and Implementation 
+Statuses................................ ................................ ................................ ................................ ......................... 20 
+Statement of Findings Regarding NYPD’s Technical Assistance and Response Unit and the Revised 
+Handschu Guidelines ................................ ................................ ................................ .............................. 21 
+Overtime Under Review: NYPD Overtime and the Increased Risk of Negative Policing Outcomes ... 22 
+An Investigation into NYPD’s Criminal Group Database ................................ ................................ ..... 24 
+An Assessment of NYPD’s Response to the POST Act ................................ ................................ ........... 27 
+Complaints of Biased Policing In New York City: An Assessment of NYPD’s Investigations, Policies, 
+and Training................................ ................................ ................................ ................................ ............ 29 
+An Investigation of NYPD’s Special Victims Division–Adult Sex Crimes................................ ............. 32 
+Addressing Inefficiencies in NYPD’s Handling of Complaints: An Investigation of the “Outside 
+Guidelines” Complaint Process ................................ ................................ ................................ ............... 34 
+Body-Worn Cameras in NYC: Assessment of the NYPD’s Pilot Program and Recommendations to 
+Promote Accountability ................................ ................................ ................................ ........................... 35 
+ Looking Ahead ................................ ................................ ................................ ................................ ..... 37 
+ Addendum ................................ ................................ ................................ ................................ ............. 38 
+An Assessment of NYPD’s Compliance with the POST Act (May 2024) ................................ ...................... 39 
+Statement of Findings Regarding NYPD’s Technical Assistance and Response Unit and the Revised 
+Handschu Guidelines (June 2023) ................................ ................................ ................................ ................. 40 
+Overtime Under Review: NYPD Overtime and the Increased Risk of Negative Policing Outcomes (May 
+2023) ................................ ................................ ................................ ................................ ...............................  41 
+An Investigation into NYPD’s Criminal Group Database (April 2023) ................................ ........................ 41 
+Assessment of NYPD’s Response to the POST Act (November 2022) ................................ .......................... 43 
+Sharing Police Body-Worn Camera Footage in New York City (November 2021) ................................ ....... 45 
+An Investigation of NYPD’s Officer Wellness and Safety Services (September 2019) ................................ . 45 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+Complaints of Biased Policing in New York City: An Assessment of NYPD’s Investigations, Policies, and 
+Training (June 2019) ................................ ................................ ................................ ................................ ..... 46 
+Assessment of Litigation Data Involving NYPD (April 2019) ................................ ................................ ...... 49 
+Ongoing Examination of Litigation Data Involving NYPD (April 2018) ................................ ...................... 49 
+An Investigation of NYPD’s Special Victims Division – Adult Sex Crimes (March 2018) ........................... 50 
+An Investigation of NYPD’s New Force Reporting System (February 2018) ................................ ............... 51 
+Review of NYPD’s Implementation of Patrol Guide Procedures Concerning Transgender and Gender 
+Nonconforming People (November 2017) ................................ ................................ ................................ ...... 54 
+When Undocumented Immigrants are Crime Victims: An Assessment of NYPD’s Handling of U Visa 
+Certification Requests (July 2017) ................................ ................................ ................................ ................ 55 
+Addressing Inefficiencies in NYPD’s Handling of Complaints: An Investigation of the “Outside 
+Guidelines” Complaint Process (February 2017) ................................ ................................ .......................... 55 
+Putting Training Into Practice: A Review of NYPD’s Approach to Handling Interactions with People in 
+Mental Crisis (January 2017) ................................ ................................ ................................ ........................ 56 
+An Investigation of NYPD’s Compliance with Rules Governing Investigations of Political Activity (August 
+2016) ................................ ................................ ................................ ................................ ...............................  57 
+An Analysis of Quality-of-Life Summonses, Quality-of-Life Misdemeanor Arrests, and Felony Crime in 
+New York City, 2010-2015 (June 2016) ................................ ................................ ................................ ......... 58 
+Police Use of Force in New York City: Findings and Recommendations on NYPD’s Policies and Practices 
+(October 2015) ................................ ................................ ................................ ................................ ................ 59 
+Body-Worn Cameras in NYC: Assessment of NYPD’s Pilot Program and Recommendations to Promote 
+Accountability (July 2015) ................................ ................................ ................................ ............................. 60 
+Using Data from Lawsuits and Legal Claims Involving NYPD to Improve Policing (April 2015) .............. 61 
+Observations on Accountability and Transparency in Ten NYPD Chokehold Cases (January 2015) ......... 62 
+ 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+A MESSAGE FROM THE COMMISSIONER OF THE DEPARTMENT OF INVESTIGATION 
+AND THE INSPECTOR GENERAL FOR THE NEW YORK CITY POLICE DEPARTMENT 
+We are pleased to present the Department of Investigation’s (“DOI”) Office of the Inspector 
+General for the New York City Police Department (“OIG-NYPD” or “the Office”) 2025 Eleventh 
+Annual Report. 
+Between 2015 and 2024, OIG-NYPD has released 23 investigative reports and one statement of 
+findings, making 257 recommendations in total. This Eleventh Annual Report is a formal review 
+of all recommendations issued during that period.1  
+In 2024, OIG-NYPD continued to pursue its mission to enhance the effectiveness of NYPD and 
+increase the public’s confidence in the Department with the release of four reports. OIG-NYPD 
+issued its Tenth Annual Report  in March, followed by the p ublication of our second Public 
+Oversight of Surveillance Technology (“POST”)  Act report in May. OIG-NYPD released a report 
+reviewing the NYPD’s Community Response Team in November, and our third POST Act report 
+in December. In addition, OIG-NYPD staff attended 147 community events and/or public meetings, 
+as well as five City Council legislative hearings.  
+OIG-NYPD values the continued engagement with the public, advocacy groups, City employees, 
+other City agencies, and NYPD to assist us with fulfilling our mission. We are grateful for the 
+opportunity to  contribute to the City’s efforts to increase public safety and strengthen police-
+community relations by seeking greater transparency and accountability in policing.  
+ 
+We look forward to continuing this important work.  
+ 
+Jocelyn E. Strauber, Commissioner, DOI 
+Jeanene L. Barrett, Inspector General, OIG-NYPD
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+  INTRODUCTION 
+ 
+ 
+The mission of the Department of Investigation (“ DOI”)’s Office of the 
+Inspector General for the New York City Police Department (“OIG-NYPD 
+or “the Office”) is to enhance the effectiveness of the New York City Police 
+Department (“NYPD or “the Department”), increase public safety, protect 
+civil liberties and civi l rights, and increase the public’s confidence in 
+NYPD. Over the past year, OIG -NYPD has released reports that 
+encourage transparency and accountability, and has engaged in a review 
+of all outstanding recommendations made to NYPD  and the Civilian 
+Complaint Review Board (“CCRB”) through December 2024. 
+ 
+OIG-NYPD was created by Local Law 70  of 2013 and became 
+operational in May 2014 . Since then, OIG -NYPD has published ten 
+annual reports, 23 investigative reports, and one statement of 
+findings. This year’s reports focused on surveillance technology and an 
+NYPD specialized unit. OIG-NYPD has made 257 recommendations, 
+since the creation of the Office, 240 of which are assessed in this report—
+as NYPD’s 90-day responses for two reports were not due during the 2024 
+calendar year —and approximately 70 percent of the recommendations  
+have been accepted in principle, partially implemented, or fully 
+implemented by NYPD or CCRB.2  
+ 
+This Eleventh Annual Report summarizes the findings of systemic 
+reviews and investigations conducted from 2015 through 2024 and 
+assesses the extent to which NYPD has implemented OIG -NYPD’s 
+proposals for reform. This Report also discusses complaints the Office has 
+received from the public, as well as its community outreach and 
+engagement efforts. 
+ 
+OIG-NYPD looks forward to continuing its investigations to ensur e the 
+highest standards of integrity and accountability within NYPD.
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+  OIG-NYPD MANDATE 
+Section 803(c)(1) of the New York City Charter (“Charter”) mandates that OIG-NYPD  
+investigate, review, study, audit , and make recommendations relating to the 
+operation, policies, programs , and practices, including ongoing partnerships with 
+other law enforcement agencies of the new york city police department with the goal 
+of enhancing the effectiveness of the department, increasing public safety, protecting 
+civil liberties and civil rights, and increasing the public’s confidence in the police 
+force, thus building stronger police-community relations. 
+Pursuant to Section 803(c -1) of the Charter , the Office  is specifically charged with preparing 
+annual audits of NYPD’s surveillance technology impact and use policies (“IUP”), issued pursuant 
+to New York City Administrative Code (“AC”) section 14 -188.3 In addition, Section 808(b) , 
+Evaluation and Recommendations,  of the Charter requires that OIG -NYPD, working with other 
+City agencies, evaluate allegations or findings of improper police conduct and make 
+recommendations relating to the identification of officers who may need enhanced training or 
+monitoring as well as relating to operations, policies, programs, and practices regarding discipline 
+and training.4 
+This Report is issued pursuant to section 803(e)(3) of the Charter that requires OIG-NYPD to 
+release an Annual Report by April 1 summarizing the Office’s work and includes the following: 
+(a) Description of all significant findings from the investigations conducted the previous year;  
+(b) Description of corrective action taken the previous year; 
+(c) Identification of recommendations discussed in previous Annual Reports that have not been 
+implemented or completed; and 
+(d) The number of open investigations as of the close of the previous year for the following 
+periods: 
+1. Six months up to and including one year, 
+2. More than one year and up to and including two years, 
+3. More than two years and up to and including three years, and 
+4. More than three years.5 
+3 Throughout this Report, OIG-NYPD and the Office will be used interchangeably. Similarly, NYPD and the 
+Department will also be used interchangeably. 
+4 There are two section 808s in Chapter 34 of the Charter. 
+5 The term “Investigations” will be used throughout the report to reference investigations, reviews, studies, and 
+audits.
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ OIG-NYPD ELEVENTH ANNUAL REPORT 
+Below is a summary of OIG-NYPD’s 2024 reports and recommendations , including NYPD’s 
+response and the status of implementation for the Office’s May 2024 report titled “An Assessment 
+of NYPD’s Compliance with the POST Act .” OIG-NYPD continues to monitor the status of all 
+recommendations until they have been implemented by NYPD.  
+As of December 31, 202 4, OIG -NYPD had one investigation open for six to 12 mon ths, one 
+investigation open for 13 to 24 months, two investigations open for 25 to 36 months, and zero 
+investigations open for more than 36 months.6  
+Released December 18, 2024:  
+An Assessment of NYPD’s Compliance with the POST Act  
+ 
+Released November 26, 2024:  
+A Review of NYPD’s Community Response Team  
+ 
+Released May 30, 2024:  
+An Assessment of NYPD's Compliance with the POST  Act  
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+AN ASSESSMENT OF NYPD’S COMPLIANCE WITH THE POST ACT 
+ 
+December 18, 2024 
+The Public Oversight of Surveillance 
+Technology (“POST”) Act, passed in June 2020, 
+requires NYPD to publicly disclose information 
+concerning its use of surveillance technologies, 
+and its policies with respect to those 
+technologies through Impact and Use Policies 
+(“IUPs”). The law further requires OIG -NYPD 
+to prepare annual audits of NYPD’s IUPs. 
+ 
+In OIG-NYPD’s third annual report related to 
+the Department’s compliance with the POST 
+Act, the Office reviewed NYPD’s use of unmanned aircraft systems (“UAS”), commonly referred to 
+as drones, and the IUPs related to the surveillance technology. 
+ 
+OIG-NYPD’s review found that while the Thermographic Cameras IUP was sufficient with respect 
+to drone technology, NYPD’s UAS IUP did not sufficiently disclose all of the information required 
+by the POST Act. Specifically, the UAS IUP  did not describe all the capabilities of its drone fleet 
+or provide a complete and accurate picture of NYPD UAS operations in practice. 
+ 
+OIG-NYPD made 10 recommendations that focused on increasing transparency regarding the 
+capabilities of drone technology and the policies and procedures r egulating its use by the 
+Department. On March 20, 2025 , NYPD provided its 90 -day response letter . The Department 
+accepted all 10 recommendations. The Office has not assessed NYPD’s implementation of each 
+recommendation. A full assessment of the Department’s implementation of each recommendation 
+will be conducted as part of the 12th Annual Report, to be released in 2026. A full copy of the Report 
+can be accessed here. 
+RECOMMENDATION 1 
+Update the UAS IUP to reflect that TARU personnel are not the only ones 
+operating and supervising UAS operations and currently all operations are 
+performed independently from TARU. 
+RECOMMENDATION 2 
+Update the UAS IUP to accurately describe the approval, supervision, and 
+reporting structure for UAS operations. 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+RECOMMENDATION 3 
+Update the UAS IUP to make clear that the requirement of an FAA remote 
+pilot certificate is applicable to all UAS operators, rather than only TARU 
+personnel. 
+RECOMMENDATION 4 
+Update the UAS IUP to include all the capabilities of its UAS fleet. 
+RECOMMENDATION 5 
+Update the UAS IUP to include a reference to the Thermographic Cameras 
+IUP, which contains additional information relevant to this technological 
+capability of UAS. 
+RECOMMENDATION 6 
+Update the UAS IUP to note that operations involving First-Person View 
+drones require a designated visual observer, as per FAA guidelines, except if 
+there is an active COA waiving this requirement. 
+RECOMMENDATION 7 
+Update the UAS IUP to specify whether TARU is the only unit responsible for 
+retaining UAS data, and if not, specify requirements applied to those other 
+units. 
+RECOMMENDATION 8 
+Update the UAS IUP to reflect that flight log information is automated and 
+should be entered directly into FORMS rather than maintained by TARU. 
+RECOMMENDATION 9 
+Update the UAS IUP to disclose health and safety impacts related to UAS. 
+RECOMMENDATION 10 
+While not a requirement of the POST Act, update the UAS IUP to include the potential 
+disparate impacts of the use and deployment of UAS technology itself on protected groups, as 
+NYPD has done for certain, but not all, surveillance technologies. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+A REVIEW OF NYPD’S COMMUNITY RESPONSE TEAM 
+ 
+November 26, 2024 
+In July 2022 NYPD created the Patrol 
+Services Bureau Community Response Team 
+(“CRT”), initially a single citywide specialized 
+unit created in response to a rise in quality-of-
+life complaints from elected officials and 
+community members. Despite a significant 
+expansion since its creation, OIG-NYPD found 
+a lack of publicly available information 
+related to the unit’s work, which prompted the 
+Office’s investigation.  
+ 
+OIG-NYPD reviewed Department materials pertaining to CRT and other specialized units, spoke 
+with senior NYPD officials and active members of CRT, and met with NYC-based advocacy 
+organizations and community and violence interrupter groups as part of the investigation. The 
+Office found that CRT had no mission statement, no policies and procedures specifically related 
+to the unit, and striking gaps in data collection and analysis. 
+ 
+OIG-NYPD made seven recommendations. On March 7, 2025, NYPD provided its 90-day 
+response letter which can be found here. The Department accepted 6 recommendations and 
+rejected 1 recommendation. OIG-NYPD has not assessed NYPD’s implementation of each 
+recommendation. A full assessment of the Department’s implementation of each 
+recommendation will be conducted as part of the 12th Annual Report, to be released in 2026. A 
+full copy of the Report can be accessed here. 
+RECOMMENDATION 1 
+Update the NYPD website to include information on CRT under the Patrol 
+Services Bureau. 
+RECOMMENDATION 2 
+Memorialize a mission statement in writing that includes the aims and goals 
+of CRT, including its crime/offense focus, and publish it on NYPD’s website. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+RECOMMENDATION 4 
+Collect, analyze, and publish 311-related data, specifically pertaining to QoL 
+categories, that fall under the Department’s official QoL definition and CRT’s 
+mandate. Analysis should consider changes in 311-related data over time, and 
+be used to inform deployment and enforcement decisions. 
+RECOMMENDATION 5 
+Conduct a minimum of two inclusive and accessible meetings a year, per Patrol 
+Borough Command to gather community sentiments with respect to CRT and 
+maintain a detailed agenda and minutes from each meeting. 
+RECOMMENDATION 6 
+Track and maintain a database for all CRT deployment on a weekly basis. 
+RECOMMENDATION 7 
+Publish the CRT-specific data that NYPD is already collecting for CRT (i.e. 
+arrests, summonses, mopeds, etc.) on the NYPD website. 
+RECOMMENDATION 3 
+Memorialize in the Patrol Guide and/or Administrative Guide policies and procedures specific 
+to CRT for the following areas: 
+• uniform requirements; 
+• statistics concerning CRT’s work that will be maintained by the 
+Department and the individuals responsible for recording/maintaining them; 
+• recruitment guidelines; 
+• the requirements for CRT officers in supervisory roles; 
+• the training required to perform CRT officer duties; and 
+• where officers can be deployed and how deployment will be determined. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+AN ASSESSMENT OF NYPD’S COMPLIANCE WITH THE POST ACT 
+ 
+May 30, 2024  
+ 
+ 
+ 
+ 
+As described above, t he POST Act requires OIG -
+NYPD to prepare annual audits of NYPD’s IUPs. 
+OIG-NYPD’s second annual investigation 
+concerning the Department’s compliance with the POST Act focused on the IUPs applicable to five 
+surveillance technologies introduced in April 2023: (1) Digidog, a remotely-operated robot; (2) the 
+Knightscope K5 Autonomous Security Robot (“K5”); (3) StarChase GPS tracking technology 
+(“StarChase”); (4) IDEMIA Mobile Biometric Check application (“IDEMIA”); and (5) an augmented 
+reality smartphone application (“the AR application”). 
+NYPD did not issue any new IUPs in conjunction with the deployment of any of these five 
+surveillance technologies. The Department did, however, issue five addenda to existing IUPs in 
+April 2023 to cover its usage of K5, StarChase, IDEMIA, and the AR application, which the Office 
+found appropriate, as  those technologies were either enhancements to or new uses of existing 
+surveillance technologies . Also, OIG -NYPD found that NYPD  utilized grouping in an overly 
+expansive manner by addressing Digidog within an existing IUP, rather than issuing an individual 
+IUP.  
+OIG-NYPD made seven recommendations. On August 27, 2024, NYPD provided its 90 -day 
+response letter. The Department accepted five recommendations and rejected two 
+recommendations. Below is a list of each recommendation with NYPD’s response and OIG-NYPD’s 
+assessment. A full copy of the Report can be accessed here. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+4
+2
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+RECOMMENDATION IMPLEMENTATION STATUSES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN PARTIALY IMPLEMENTED 
+NYPD RESPONSE and OIG -NYPD ASSESSMENT:  NYPD accepted OIG -NYPD’s 
+recommendation. The Department updated the GPS Tracking Devices IUP on September 13, 2024, 
+to provide additional information regarding StarChase. However, the remainin g IUPs have not 
+been amended. This recommendation is moved to partially implemented. 
+ THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN ACCEPTED 
+NYPD RESPONSE and OIG -NYPD ASSESSMENT:  NYPD accepted OIG -NYPD’s 
+recommendation. While the Department agreed to prepare a separate Digidog IUP, one has not 
+been published. This recommendation remains accepted. 
+NYPD RESPONSE  and OIG -NYPD ASSESSMENT : NYPD accepted OIG -NYPD’s 
+recommendation. The Department has not utilized the K5 robot since the publication of the report 
+and has not updated the SAC IUP regarding health and safety information related to the 
+technology. This recommendation remains accepted. 
+RECOMMENDATION 1 
+NYPD should issue a new individual IUP for Digidog. 
+RECOMMENDATION 3 
+In the event that NYPD uses K5 in the future, the Department should disclose 
+health and safety information related to the technology within the SAC IUP. 
+RECOMMENDATION 2 
+NYPD should amend the addenda to the IUPs applicable to StarChase, 
+IDEMIA, and the AR application to meet all of the requirements of the POST 
+Act. The GPS Tracking Devices’ IUP should be updated to adequately disclose 
+the specialized rules, processes, and guidelines, health and safety impacts, and 
+the type of data that may be shared with external entities in relation to 
+StarChase; the Digital Fingerprint Scanning Devices’ IUP should be updated 
+to adequately address policies and procedures related to data retention and 
+access in relation to IDEMIA; and the Portable Electronic Devices’ IUP should 
+be updated to adequately disclose policies and procedures regarding data 
+retention and access in relation to the AR application. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+NYPD RESPONSE and OIG -NYPD ASSESSMENT:  NYPD accepted OIG -NYPD’s 
+recommendation. The Department has not issued any new IUPs in which multiple surveillance 
+technologies are grouped since the publication of the report. This recommendation remains 
+accepted. 
+NYPD RESPONSE and OIG -NYPD ASSESSMENT: NYPD accepted OIG -NYPD’s 
+recommendation. The Department agreed to review its IUPs to determine if grouping within the 
+IUPs is consistent with the standard described in recommendation 4 and stated it will ungroup 
+technologies or issue addenda as appropriate. This recommendation remains accepted. 
+ 
+THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN REJECTED 
+NYPD RESPONSE and OIG-NYPD ASSESSMENT: NYPD rejected OIG-NYPD’s recommendation 
+as this recommendation is not explicitly required by the POST Act. This recommendation remains 
+rejected. 
+RECOMMENDATION 4 
+For future IUPs, NYPD should group surveillance technologies into single 
+IUPs only when the surveillance technologies at issue are substantially similar 
+in capability and manner of use, and the IUP identifies and specifically names 
+the individual technologies to which specific information within the IUP 
+applies. 
+RECOMMENDATION 5 
+NYPD should review its existing IUPs, that “group” multiple surveillance 
+technologies to determine if grouping is permissible under the standard set out 
+in Recommendation 4, and issue new IUPs or addenda as appropriate. 
+RECOMMENDATION 6 
+While not a requirement of the POST Act, NYPD should update the Internal 
+Audit and Oversight sections of its IUPs to include mechanisms for tracking 
+and monitoring use of its surveillance technologies to ensure that the 
+technologies are being used as described in the IUPs, and that the IUPs do not 
+result in a disparate impact on any protected groups. 
+RECOMMENDATION 7 
+OIG-NYPD continues to maintain, as it did in its 2022 Report, that while not 
+a requirement of the POST Act, NYPD should include in each IUP the potential 
+disparate impacts of the surveillance technology on protected groups (instead 
+of the potential disparate impacts of the IUP on protected groups, as is 
+currently required under the law). 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+NYPD RESPONSE and OIG-NYPD ASSESSMENT: NYPD rejected OIG-NYPD’s recommendation 
+as this recommendation is not explicitly required by the POST Act. This recommendation remains 
+rejected. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+A. OUTREACH AND ENGAGEMENT 
+ 
+ 
+In 2025, OIG-NYPD’s Outreach Unit expanded its outreach and engagement efforts to continue to improve 
+and strengthen public safety and police -community relations in New York City . Recognizing that 
+meaningful outreach requires collaboration with diverse communities, the Office prioritizes connecting with 
+entities interested in our work, including NYC residents, advocacy groups, government and oversight 
+agencies, and law enforcement.  
+Through its relationship building, outreach education, and support on systemic investigations, OIG-NYPD’s 
+Outreach Unit conducts regular engagement efforts to support the Office’s mission to build stronger police-
+community relations and enhance police accountability. Over the course of 2024, the Office participated in 
+147 events (virtual and in-person) across New York City to promote awareness of our work as well as learn 
+about areas of concern within policing. OIG -NYPD also attended five City Council legislative hearings on 
+topics relevant to public safety and oversight. The Outreach Unit continues to organize training 
+opportunities for the Office’s staff on topics relevant to policing.  
+This year, OIG -NYPD’s Outreach Unit 
+collaborated with other NYC police oversight 
+agencies on the “Furthering Police Accountability” 
+educational event series. Inspector General 
+Jeanene Barrett participated in conversations in 
+Brooklyn and the Bronx about how the public can 
+be involved in the process of police oversight and 
+accountability.  
+ 
+Additionally, alongside other DOI representatives, 
+Inspector General Barrett presented to youth 
+about careers in law enforcement as part of the 
+Police Athletic League’s Career Awareness event. 
+As part of the NYPD’s National Night Out 
+Against Crime, DOI Commissioner Jocelyn 
+Strauber and Inspector General Barrett spoke 
+with community members of the 84th Precinct in 
+Brooklyn Bridge Park . In addition, OIG-NYPD leadership continues to present at NYPD’s Internal 
+Investigation Course at the Police Academy. 
+ 
+ 
+Figure 1: Furthering Police Accountability, August 20, 2024. From left to 
+right: Brooklyn Community Organizer Tatiana Hill (OCL), Moderator Edwin 
+Raymond (NYS Attorney General), Deputy Bureau Chief Lillian Marquez (NYS 
+Attorney General), Deputy Monitor Richard Jerome (NYPD Monitor), IG Jeanene 
+Barrett (OIG-NYPD), Director of Outreach Jahi Rose (CCRB), and Community 
+Liaison Germain Thompson (OCL). 
+To request a meeting with OIG-NYPD or to invite OIG-NYPD to an event, please contact Director of 
+Outreach Claire Fleischer at outreach@oignypd.nyc.gov or at (212) 806-5200. Those with X accounts 
+(formerly known as “Twitter”) can also follow the Office’s X account at @DOI_OIGNYPD. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+B. COMPLAINTS 
+ 
+SECTION 804 OF CHAPTER 34 OF THE CITY CHARTER UNDERSCORES THE 
+IMPORTANCE OF HAVING MEMBERS OF THE PUBLIC REPORT COMPLAINTS TO 
+OIG-NYPD ABOUT PROBLEMS AND DEFICIENCIES RELATING TO NYPD 
+OPERATIONS, POLICIES, PROGRAMS, AND PRACTICES. 
+Through speaking directly with complainants, OIG-NYPD is able to gain greater insight into the 
+concerns of New York City residents with respect to their encounters with NYPD and the practices 
+of the Department. This insight allows the Office to focus on those issues to build stronger police-
+community relations through enhancing the effective ness of the police department, increas ing 
+public safety, protect ing civil liberties and civil rights, and increas ing the public’s confidence in 
+the police force. 
+In 202 4, OIG -NYPD received complaints from members of the public, advocacy groups, NYPD 
+employees, and legislators alleging a range of concerns from individualized encounters to systemic 
+concerns, as well as request for an investigation by the City Council. 
+Some complaints alleged excessive use of force, abuse of authority, discourteousness, and the use 
+of offensive language by NYPD officers during their interactions with the public. Other complaints 
+alleged that NYPD officers or precincts engaged in other forms of misconduct, such as the fai lure 
+to prepare a criminal complaint report, wrongful arrest, and issuance of unlawful parking tickets. 
+Still others alleged that NYPD officers were involved in conflicts of interest or criminal activity. 
+Complainants are advised when their complaints fall under the purview of other entities, such as 
+CCRB or NYPD’s Internal Affairs Bureau  (“IAB”), and provided with their contact information, 
+and referrals are made to other entities when warranted.  
+Complaints to OIG-NYPD can be made in a variety of ways, including in-person, online, by phone, 
+by email, by fax, and by U.S. mail. Please click any of the icons below for a direct link to contact 
+OIG-NYPD. 
+In-
+Person 
+Online 
+Form 
+Phone Email Fax U.S. 
+Mail 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ CURRENT STATUS OF ALL OIG-NYPD RECOMMENDATIONS 
+OIG-NYPD continuously monitors NYPD’s and CCRB’s  implementation of the 240 assessed 
+recommendations made in its reports and statement of findings. There are six status categories—
+implemented, partially implemented, accepted in principle, under consideration, rejected, and no 
+longer applicable. 
+NO LONGER
+APPLICABLE
+UNDER
+CONSIDERATION
+ACCEPTED IN
+PRINCIPLE
+PARTIALLY
+IMPLEMENTED
+REJECTED
+IMPLEMENTED
+CURRENT STATUS OF ALL 240 (238 to NYPD, 2 to CCRB) OIG-NYPD 
+RECOMMENDATIONS 
+FROM 2015-2024 THAT HAVE BEEN ASSESSED, BY PERCENTAGE
+NYPD and CCRB have accepted and implemented the recommendation 
+completely.
+NYPD does not agree with the recommendation or after the passage of a 
+significant amount of time, has not taken any action towards implementation.
+NYPD has accepted and implemented the recommendation in part.
+NYPD has accepted the recommendation, but has not yet implemented it.
+NYPD is considering the recommendation and may decide to implement or 
+reject it.
+Due to a change in technology, procedure, or policy by NYPD, the 
+recommendation is no longer relevant.
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+lit data
+BWC
+UOF
+QOL
+SUR
+CIT
+OG
+UVISA
+LGBTQ
+FORCE
+ 
+STATUS OF OIG-NYPD RECOMMENDATIONS ADDRESSED TO NYPD AND CCRB PER 
+REPORT  
+FROM 2015 TO DECEMBER 31, 2024 BY NUMBER  
+ 
+All Recommendations  
+ 
+ 
+An Assessment of NYPD’s Compliance with the POST Act 
+May 2024 
+ 
+Statement of Findings Regarding NYPD's Technical 
+Assistance and Response Unit and the Revised Handschu 
+Guidelines 
+ September 2023 
+Overtime Under Review: NYPD Overtime and the 
+Increased Risk of Negative Policing Outcomes 
+August 2023 
+ 
+An Investigation into NYPD's Criminal Group Database 
+July 2023 
+ 
+ 
+An Assessment of NYPD's Response to the POST Act 
+November 2022 
+ 
+Sharing Police Body Worn Camera Footage in New York 
+City 
+November 2021 
+ 
+An Investigation of NYPD's Officer Wellness and Safety 
+Services 
+September 2019 
+  
+Complaints of Biased Policing in New York City:  
+An Assessment of NYPD's Investigations, Policies, and 
+Training 
+June 2019 
+ 
+Assessment of Litigation Data Involving NYPD 
+July 2019 
+  
+Ongoing Examination of Litigation Data Involving NYPD 
+August 2018 
+  
+ 
+An Investigation of NYPD’s Special Victims Division—
+Adult Sex Crimes 
+March 2018
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+lit data
+BWC
+UOF
+QOL
+SUR
+CIT
+OG
+UVISA
+LGBTQ
+FORCE
+ 
+STATUS OF OIG-NYPD RECOMMENDATIONS ADDRESSED TO NYPD AND CCRB PER 
+REPORT FROM 2015 TO DECEMBER 31, 2024, BY NUMBER
+An Investigation of NYPD’s New Force Reporting System  
+February 2018 
+ 
+Review of NYPD's Implementation of Patrol Guide 
+Procedures Concerning Transgender and Gender 
+Nonconforming People 
+November 2017 
+  
+When Undocumented Immigrants Are Crime Victims 
+Requests 
+July 2017 
+ 
+Addressing Inefficiencies in NYPD's Handling of 
+Complaints: An Investigation of the "Outside Guidelines" 
+Complaint Process 
+February 2017 
+ 
+Putting Training into Practice: A Review of NYPD’s 
+Approach to Handling Interactions with People in Mental 
+Crisis  
+January 2017 
+  
+An Investigation of NYPD's Compliance with Rules 
+Governing Investigations of Political Activity 
+August 2016  
+            
+An Analysis of Quality-of-Life Summonses, Quality-of-Life 
+Misdemeanor Arrests, and Felony Crime in NYC 
+June 2016 
+ 
+ 
+Police Use of Force in New York City: Findings and 
+Recommendations on NYPD's Policies and Practices 
+October 2015 
+Body-Worn Cameras in NYC: Assessment of NYPD's Pilot 
+Program and Recommendations to Promote Accountability 
+July 2015 
+ 
+ 
+ Using Data from Lawsuits and Legal Claims Involving 
+NYPD to Improve Policing 
+April 2015 
+  
+Observations on Accountability and Transparency in Ten 
+NYPD Chokehold Cases 
+January 2015 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ FEATURED 2015-2024 OIG-NYPD INVESTIGATIONS, NYPD RESPONSES, AND 
+IMPLEMENTATION STATUSES 
+This section highlights OIG -NYPD reports from 2015 –2024 that include recommendations with 
+implementation status changes in 2024. It does not cover all reports issued during this period, but 
+focuses specifically on those where the implementation of recommendations has changed. 
+ 
+A recommendation’s implementation status may change due to various factors, such as, but not 
+limited to, updates to NYPD policies and procedures, organizational restructuring, new laws or 
+regulations, shifts in leadership priorities, or external oversight actions. This section details these 
+changes and the specific recommendations affected.  All OIG-NYPD reports and information on 
+recommendation statuses can be found here. 
+Featured Reports  
+ 
+ 
+Statement of Findings Regarding NYPD's Technical Assistance and Response Unit and the Revised 
+Handschu Guidelines (Issued June 28, 2023) 
+ 
+Overtime Under Review: NYPD Overtime and the Increased Risk of Negative Policing Outcomes 
+(Issued May 3, 2023) 
+ 
+An Investigation into NYPD’s Criminal Group Database (Issued April 18, 2023) 
+ 
+An Assessment of NYPD’s Response to the POST Act (Issued November 3, 2022) 
+ 
+Complaints of Biased Policing in New York City: An Assessment of NYPD's Investigations, Policies, 
+And Training (Issued June 26, 2019) 
+ 
+An Investigation of NYPD's Special Victims Division-Adult Sex Crimes (Issued March 27, 2018) 
+ 
+Addressing Inefficiencies in NYPD's Handling of Complaints: An Investigation of the "Outside 
+Guidelines" Complaint Process (Issued February 7, 2017) 
+Body-Worn Cameras in NYC: Assessment of NYPD's Pilot Program and Recommendations to Promote 
+Accountability (Issued July 30, 2015) 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+STATEMENT OF FINDINGS REGARDING NYPD’S TECHNICAL ASSISTANCE AND 
+RESPONSE UNIT AND THE REVISED HANDSCHU GUIDELINES 
+ 
+JUNE 28, 2023  
+ 
+ 
+ 
+This investigation examined access 
+given by NYPD ’s Technical Assistance 
+and Response Unit (“TARU”) to other 
+NYPD units, in particular to the 
+Intelligence Bureau (“Intel”), to audio, 
+as well as photographic and video materials collected and stored by TARU. OIG-NYPD determined 
+that while Intel’s access to T ARU’s materials complies with the Revised Handschu Guidelines, 
+NYPD lacked written policies or procedures governing that access. OIG -NYPD also found that 
+TARU retained such materials indefinitely, though the Patrol Guide does not require such 
+retention. OIG-NYPD recommendations suggested those practices be codified to provide further 
+assurance that TARU materials are not improperly accessed and that TARU’s retention practices 
+are reflected in the Patrol Guide.  
+OIG-NYPD made eight recommendations regarding policy changes and video/photographic footage 
+retention. A full copy of the Report can be accessed here. 
+RECOMMENDATION IMPLEMENTATION STATUSES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN IMPLEMENTED 
+2024 2025 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: This recommendation  is implemented. NYPD 
+created and disseminated a Commanding Officer’s Memo on July 1, 2024 that requires that any 
+requests by Intel to TARU for Handschu video requires an immediate notification to the Legal 
+Bureau.  
+ 
+ 
+RECOMMENDATION 1 
+NYPD should require in a written policy that TARU notify the Legal Bureau of any requests 
+from the Intelligence Bureau for access to TARU footage. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+OVERTIME UNDER REVIEW: NYPD OVERTIME AND THE INCREASED RISK OF 
+NEGATIVE POLICING OUTCOMES 
+ 
+May 3, 2023  
+ 
+ 
+ 
+NYC Charter 808(b) requires that OIG-
+NYPD “…collect and evaluate 
+information regarding allegations or 
+findings of improper police conduct and 
+develop recommendations relating to 
+the discipline, training, and monitoring of police officers and related operations, policies, programs, 
+and practices.” 7 As required, OIG-NYPD examined the relationship between NYPD’s overtime 
+hours and various negative policing outcomes (“NPOs”), including complaints of misconduct from 
+members of the public, use of force, vehicle collisions, workplace injuries, lawsuits, and other direct 
+sources of liability risk to the City, using a sample of NYPD officers from 2019 through 2021.  
+OIG-NYPD’s analysis found a likely relationship between overtime and NPOs, as well as a lack of 
+formal policies and proc edures to mitigate the effects of excessive overtime. OIG -NYPD 
+recommended that NYPD conduct a full assessment of the risks and benefits of overtime, shift -
+work, and other risk factors unique to law enforcement, and develop effective risk management 
+strategies to mitigate the risk of NPOs due to overtime.  
+OIG-NYPD made six recommendations. On August 3, 2023, NYPD provided its 90 -day response 
+letter. The Department accepted two recommendations and rejected four recommendations. A full 
+copy of the Report can be accessed here. 
+RECOMMENDATION IMPLEMENTATION STATUSES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN PARTIALLY IMPLEMENTED 
+2024 2025 
+1
+1
+4
+RECOMMENDATION 1 
+NYPD should develop and incorporate policies related to fatigue in its written overtime 
+procedures. 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+NYPD UPDATES and OIG-NYPD ASSESSMENT: NYPD initially accepted this recommendation. 
+NYPD created, disseminated, and implemented a new Overtime Management Plan , effective 
+January 1, 2025. According to the Department, as a result of the implementation of this plan, there 
+has been a  reduction in the amount of overtime performed by the top  overtime earning officers. 
+NYPD no tes that f or the month of January 2025, the overall overtime hours for uniformed 
+members of service was reduced by 13%. The plan puts in place uniformed and civilian employee 
+overtime thresholds and requires the creation of a compliance officer who is resp onsible for 
+monitoring and tracking overtime. OIG -NYPD acknowledges this positive step towards the 
+development and incorporation of these policies, however, the policies do not address mandatory 
+time off, rest periods after long shifts or mandatory overtime, or provide guidance to commanding 
+officers on methods of shift scheduling for purpose of mitigating officer fatigue—all of which were 
+noted within OIG-NYPD’s report. This recommendation is now partially implemented.  
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE 
+APRIL 18, 2023  
+ 
+ 
+ 
+ 
+This investigation examined NYPD’s 
+Criminal Group Database (“CGD”) and 
+found no evidence that inclusion in the 
+database had caused harm to any individual 
+or group of individuals. However, OIG-NYPD found, historically, that members of the public have 
+generally been unable to determine whether or not they are included in the CGD —making any 
+harm to an individual or group of individuals difficult to identify.  
+OIG-NYPD also found that many key policies and practices relating to the CGD were not 
+memorialized in writing. NYPD did not provide consistent, specific guidance as to the amount or 
+nature of evidence required to establish the criteria for activation (that is, inclusion in the 
+database) to officers responsible for nominating and activating individuals in t he CGD. Also, the 
+CGD IUP did not provide sufficient detail about the activation process, data sharing with third 
+parties, or the CGD’s role in NYPD’s anti-crime efforts. 
+While NYPD required a review of CGD entries, it lacked an enforcement mechanism to ensure 
+that all entries were reviewed within the specified time and that all renewals were supported by 
+sufficient documentation . Lastly, some individuals were renewed in th e CGD based on recent 
+arrests that appeared to be sealed.  
+OIG-NYPD is currently engaged in a review of NYPD’s implementation of these recommendations, 
+and will be releasing a report with updated findings before year end. This targeted review focuses 
+on entries—specifically, activations into the database —to ensure that the processes  and 
+documentation meet the established standards  as agreed to by NYPD.   It should be noted that on 
+February 24, 2025, the City Council held a hearing to discuss two proposals:  one prohibiting the 
+collection of DNA from minors without consent and another to abolish the CGD and prohibit a 
+successor. These proposals do not impact our efforts for this follow-up assessment. 
+OIG-NYPD made 17 recommendations regarding public awareness, staffing, and general use by 
+officers of the CGD. A full copy of the Report can be accessed here.  
+ 
+ 
+1
+7
+3
+6
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+RECOMMENDATION IMPLEMENTATION STATUSES AS OF DECEMBER 31, 2024 
+ 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN IMPLEMENTED 
+2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: This recommendation is implemented. Before 
+the end of the first quarter of 2024, OIG-NYPD requested the first random sample of DD5s from 
+NYPD and received the requested records. The Office will continue to request a random sample 
+before the end of first quarter of each year. Additionally, beginning December 1, 2024 , and every 
+December 1 thereafter, OIG-NYPD will request random samples of DD5s for review. The results 
+of the completed analyses will be included within the Annual Report to be published by April 1 of 
+each subsequent year.  
+ 
+THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN PARTIALLY IMPLEMENTED 
+2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT:  This recommendation was previously 
+implemented, but is now partially implemented. NYPD updated its IUP on October 13, 2024, 
+approximately 88 days following its acceptance of this recommendation on July 17, 2023. The 
+updated IUP reflected a change in the criteria for activation and renewal, an explanation of the 
+processes, as well as who could recommend an individual for entry into the CGD. However, the 
+IUP does not identify by name the law enforcement and other external entities with whom NYPD 
+may share information. Similar to the 2021 IUP, NYPD maintained the same language related to 
+the security protections and unauthorized access section. 
+ 
+ 
+ 
+ 
+ 
+2024 
+RECOMMENDATION 17 
+Annually, as requested, NYPD should provide a random sample (including minors) of all 
+Activation, Renewal, and Deactivation DD5s and any support documentation to OIG-NYPD 
+for review. 
+RECOMMENDATION 2 
+Within 180 days, NYPD should revise the IUP for the CGD to describe the activation, 
+renewal, and deactivation processes, explain the nature and extent of the evidence required to 
+satisfy the entry criteria, and identify by name the law enforcement and other external 
+entities with whom NYPD may share information about the individuals included in the CGD, 
+for investigative or other purposes. The document should also describe the security protections 
+that prevent unauthorized parties, within or outside of NYPD, from accessing the CGD. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+2024 2025 
+ 
+NYPD UPDATES and OIG -NYPD ASSESSMENT:  NYPD accepted this recommendation . The 
+Department has assigned two full-time detectives trained in completing reviews for the activation 
+and review of entries in the CGD. This recommendation is partially implemented.  
+ 
+THE RECOMMENDATION THAT FOLLOWS IS ACCEPTED IN PRINCIPLE 
+ 
+2024 2025 
+NYPD UPDATES and OIG -NYPD ASSESSMENT:  This recommendation was previously 
+implemented, as the Department’s direction in both the IUP and Chief of Detectives Memorandum 
+is clear on how to implement the youth notification process, in direct response to recommendation 
+11. However, NYPD has failed to issue notifications, despite youth being activated into the CGD 
+following the update to the IUP and the Chief of Detectives Memorandum  in October 2023. This 
+recommendation is now accepted in principle. 
+ 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN REJECTED 
+2024 2025 
+ 
+NYPD UPDATES and OIG -NYPD ASSESSMENT: While NYPD had originally considered this 
+recommendation, this recommendation has been changed to rejected. NYPD confirmed that a 
+panel does not exist.  
+  
+RECOMMENDATION 10 
+NYPD SHOULD REQUIRE AND CONVENE A SPECIAL REVIEW PANEL OF DEPARTMENT PERSONNEL TO 
+APPROVE THE ACTIVATION OF MINORS INTO THE CGD, DOCUMENTED BY THE SIGNATURE OF THE 
+CHAIR OF THE GROUP. 
+RECOMMENDATION 15 
+NYPD SHOULD INCREASE THE NUMBER OF STAFFERS ASSIGNED TO SUPPORT THE ADMINISTRATION 
+OF THE CGD. 
+RECOMMENDATION 11 
+NYPD SHOULD NOTIFY PARENTS OR GUARDIANS OF MINORS THAT THEIR CHILDREN HAVE BEEN 
+INCLUDED IN THE CGD, WITHIN 60 DAYS OF INCLUSION, UNLESS NOTIFICATION WOULD INTERFERE 
+WITH ACTIVE CRIMINAL INVESTIGATIONS. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+AN ASSESSMENT OF NYPD’S RESPONSE TO THE POST ACT  
+ 
+NOVEMBER 3, 2022  
+ 
+ 
+ 
+ 
+ 
+As noted above t he POST Act  requires 
+OIG-NYPD to audit NYPD’s compliance 
+with the Act. The Office ’s initial 
+investigation determined that NYPD largely complied with the POST Act’s requirements with 
+respect to the issuance of IUPs. However, OIG -NYPD found that the I UPs did not contain 
+sufficient detail to allow the Office to conduct full annual audits and to provide full transparency 
+to the public. In particular, the IUPs contained, in part, boilerplate language that failed to provide 
+sufficiently specific information about the nature of the technologies, the retention period for data 
+obtained via use of the technologies, and the entities with which the data can be shared. 
+ 
+OIG-NYPD also found that NYPD grouped certain related technologies and issued a single IUP 
+for each group. This approach significantly limits the information made available to the public and 
+impedes the Office’s ability to conduct a thorough review. As a result, a meaningful assessment of 
+NYPD’s compliance with the POST Act could not be completed. The Report made a number of 
+recommendations relating to revisions of the IUPs that will facilitate the mandated audits in the 
+future.  
+ 
+OIG-NYPD made 15 recommendations that concern the revision of IUPs as well as the formation 
+of a working group with exper tise in surveillance technologies. A full copy of the Report can be 
+found here. 
+RECOMMENDATION IMPLEMENTATION STATUS UPDATES AS OF DECEMBER 31, 2024 
+ 
+THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN ACCEPTED IN PRINCIPLE 
+2023 2024 2025 
+RECOMMENDATION 4 
+NYPD should include in each IUP the potential disparate impacts on protected groups of the 
+use and deployment of the surveillance technology itself. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+NYPD UPDATES and OIG -NYPD ASSESSMENT:  While NYPD previously rejected this 
+recommendation, it has been changed to accepted in principle. The Department is currently 
+working on updating certain IUPS to include information on potential disparate impacts.  
+ 
+THE RECOMMENDATIONS THAT FOLLOW ARE UNDER CONSIDERATION 
+ 
+2023 2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: While NYPD had originally rejected this 
+recommendation, it has been changed to under consideration. NYPD has noted that internal 
+conversations are ongoing related to the recommended quarterly updates.  
+2023 2024 2025 
+ 
+NYPD UPDATES and OIG -NYPD ASSESSMENT: While this recommendation was assessed as 
+rejected in 2024, it has been changed to under consideration. NYPD has noted that internal 
+conversations are ongoing related to issuing and publishing press releases when announcing the 
+publication and comment period for any new IUPs.   
+  
+RECOMMENDATION 14 
+To facilitate the OIG-NYPD’s mandated annual audits, beginning January 15, 2023, NYPD 
+should provide OIG-NYPD with quarterly updates, reflecting newly acquired or discontinued 
+technologies in an itemized list of the surveillance technologies that it uses. Thereafter, 
+updates should be made available by the 15th of each quarter (i.e., January, April, July, and 
+October). 
+RECOMMENDATION 15 
+NYPD should issue a press release announcing the publication, related public comment period 
+of any new IUPs, and subsequently publish the press release on its website. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+COMPLAINTS OF BIASED POLICING IN NEW YORK CITY: AN ASSESSMENT OF NYPD’S 
+INVESTIGATIONS, POLICIES, AND TRAINING 
+ 
+JUNE 26, 2019  
+ 
+This report examined how NYPD and 
+CCRB investigated and tracked complaints of biased policing against NYPD officers. OIG -NYPD 
+found that from 2014, when NYPD began separately investigating and tracking such complaints, 
+to the end of 2018, members of the pu blic had made at least 2,495 complaints of biased policing. 
+OIG-NYPD analyzed over 5,000 pages of NYPD documents related to 888 such allegations, 
+covering a two -and-a-half year period and found inadequacies in how NYPD investigated and 
+tracked them. This e xamination also determined that CCRB, the City’s primary agency charged 
+with investigating police officer misconduct, did not investigate complaints of biased policing.  
+Subsequent to the release of the 2019 Report, the New York City Council passed legislation (Local 
+Law No. 047 of 2021) in April 2021, which clarified that CCRB has the authority to investigate 
+biased policing. Prior to this, all biased policing complaints were referred to NYPD’s Internal 
+Affairs Bureau. CCRB now has a Racial Profiling and B ias-Based Policing (“RPBP”) Unit. 
+According to its website, RPBP is “…focused on investigating civilian complaints of profiling/biased 
+policing by uniformed (not civilian) members of the NYPD based on 10 different protected 
+categories.” 
+OIG-NYPD made 23 re commendations that focused on policies and procedures, investigative 
+integrity, and transparency. Four of those recommendations relate to either CCRB and/or the 
+City’s Commission on Human Rights (“CCHR”). A full copy of the Report can be accessed here. 
+ 
+ 
+ 
+ 
+11
+2
+3
+1
+6
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+RECOMMENDATION IMPLEMENTATION STATUS UPDATES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN PARTIALLY IMPLEMENTED 
+2020 2021 2022 2023 2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: While this recommendation has been assessed 
+as rejected for the past five review cycles, this recommendation is now partially implemented.  
+NYPD advised that information regarding biased policing complaints may be found on its Racial 
+and Bias-based Profiling page.8 Information about how to file a complaint with CCRB is available 
+on th at page , as well as at every NYPD facility. OIG -NYPD acknowledges NYPD’s efforts to 
+implement this recommendation, but information about CCRB is not easily found on NYPD's 
+website and additional materials that outline exactly what biased policing is and how members of 
+the public can file biased policing complaints have yet to be created.  
+THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN ACCEPTED IN PRINCIPLE 
+2020 2021 2022 2023 2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: While this recommendation has been assessed 
+as rejected for the past five review cycles, this recommendation is now accepted in principle. The 
+Department maintains that the prohibitions against biased policing as outlined in Administrative 
+Guide (“AG”) 304-17, “Department Policy Prohibiting Racial Profiling and Bias -Based Policing” 
+and Patrol Guide ( “PG”) 207 -21, “Allegations of Corruption and Other Misconduct Against 
+Members of the Service,” sufficiently define biased policing as prohibited conduct. Thus, such an 
+act would constitute  misconduct which necessitate s reporting. Upon review of both procedures, 
+neither make explicit mention of requiring officers and non -uniformed employees to report 
+instances of biased policing. Nonetheless, OIG-NYPD determined that AG 304-17, effective as of 
+8 See N.Y.C. Police Dep’t, Racial and Bias-based Profiling, located at https://www.nyc.gov/site/nypd/about/department-
+policy/racial-bias-based-profiling.page (last accessed March 4, 2025). 
+RECOMMENDATION 1 
+NYPD should amend its Patrol Guide policies to explicitly require NYPD officers and non-
+uniformed employees to report instances of biased policing upon observing or becoming aware 
+of such conduct. 
+RECOMMENDATION 18 
+NYPD should develop written materials to educate the public about what biased policing is 
+and how members of the public can file biased policing complaints.  This information should 
+be conspicuously visible on NYPD’s website and in other locations where such information 
+would be readily available to the public. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+May 3, 2024, is a step in the right direction, as it outlines for officer and non-uniformed employees 
+what biased policing is.  
+2020 2021 2022 2023 2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: While this recommendation has been assessed 
+as rejected for t he past five review cycles, this recommendation is now  accepted in principle. 
+According to NYPD, the Department explicitly prohibits biased policing in AG 304 -17. While this 
+is accurate, it does not explicitly classify the use of offensive or derogatory language associated 
+with an individual's actual or perceived protected status as biased policing —as stated in OIG -
+NYPD's recommendation—though it includes the following statement, “The Department complies 
+with Federal civil rights laws and is committed to providing its programs and services without 
+discrimination in accordance with: Title VI of the Civil R ights Act of 1964, which prohibits 
+discrimination based on race, color, or national origin (including language)...” Given the inclusion 
+of “language” in Title VI of the Civil Rights Act of 1964 , and NYPD’s explicit commitment to 
+complying with this federal law, this recommendation is now accepted in principle. 
+2020 2021 2022 2023 2024 2025 
+ 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: While this recommendation has been assessed 
+as rejected for the past five review cycles, this recommendation is now  accepted in principle. 
+NYPD’s Early Intervention Program includes “a profiling complaint or racial slur allegation” as a 
+possible threshold for triggering review by the Department for the Early Intervention Program. 
+The Early Intervention Program is informed by NYPD's Central Personnel Resource System 
+(“CPRS”)—formerly known as RAILS. Further, NYPD has a dashboard of  CCRB complaints that 
+lieutenants and above have access to. It is unclear whether specifically unsubstantiated 
+allegations are being considered, and RAILS is still not integrated into NYPD’s new CPRS system, 
+therefore this recommendation is now accepted in principle. 
+ 
+ 
+ 
+ 
+ 
+RECOMMENDATION 2 
+NYPD should amend its Patrol Guide policies so that complaints alleging the use of offensive or 
+derogatory language associated with an individual’s actual or perceived protected status, such as 
+racial slurs, are classified as biased policing if there is a discriminatory intent. 
+RECOMMENDATION 16 
+NYPD’s RAILS should be expanded to capture unsubstantiated biased policing allegations 
+involving both uniformed and non-uniformed members. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+AN INVESTIGATION OF NYPD’S SPECIAL VICTIMS DIVISION–ADULT SEX CRIMES 
+MARCH 27, 2018 
+This Report detailed the findings of OIG -
+NYPD’s year -long investigation into how 
+NYPD Special Victims Division  (“SVD”) 
+investigated cases involving sexual assaults from 2008 through 2017. OIG -NYPD found that 
+throughout the nine years prior to the Report’s release, SVD was  understaffed and under -
+resourced, despite recommendations by a 2010 NYPD working group and consistent warnings 
+raised by SVD leadership in the years following. Internal NYPD documents revealed that many 
+sexual assault cases were not properly being investigated due to staffing and resource limitations. 
+OIG-NYPD also found that NYPD had prioritized so-called “stranger rapes” and other more high-
+profile cases, while “acquaintance rape” and other investigations received less attention. In some 
+instances, the lower priority cases were sent to local precinct squads for post -arrest investigation 
+rather than being conducted by SVD. 
+OIG-NYPD made 12 recommendations that focused on staffing, renovations to physical facilities, 
+and training. A full copy of the Report can be accessed here. 
+RECOMMENDATION IMPLEMENTATION STATUS UPDATES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATIONS THAT FOLLOW HAVE BEEN IMPLEMENTED 
+2019 2020 2021 2022 2023 2024 2025 
+NYPD UPDATES and OIG -NYPD ASSESSMENT:  This recommendation is implemented. 
+According to NYPD, there is a new six -day new investigator training , implemented in 2024,  for 
+any new member assigned to the Special Victims Division. NYPD invites outside organizations to 
+6
+3
+1
+2
+RECOMMENDATION 5 
+NYPD should increase in-house training opportunities for SVD staff in order to better prepare 
+them for the rigors and unique nature of SVD work. The depth and rigor of this training 
+should be equivalent to the training provided to other specialized units in NYPD. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+train investigators on trauma informed interviews and investigations and child forensic 
+interviewing. Investigators are required to attend vicarious trauma training. All Adult Squad 
+investigators are also required to attend the enhanced drug and alcohol facilitated sexual assault 
+training. Additionally, SVD conducts an annual three -day refresher course, mandatory for all 
+investigators. The Adult Squad refresh er course covers topics and best practices relevant to the 
+sexual assault investigations they handle in their squads. The Child Squad refresher course covers 
+topics and best practices relevant to handling investigations involving sexual and physical abuse 
+of children. OIG-NYPD reviewed the training materials for the six -day new investigator training 
+which showed favorable changes.  
+2019 2020 2021 2022 2023 2024 2025 
+NYPD UPDATES and OIG-NYPD ASSESSMENT:  This recommendation is implemented. 
+According to NYPD, SVD conducts quarterly audits to ensure against unauthorized access into 
+Special Victims cases. The results of these audits are now published on the Department website 
+for public review. NYPD is also required by AC Section 14-178 to “conduct quarterly random audits 
+of the case management system to ensure the security of such system.” The audit includes a review 
+of all individuals outside of the Special Victims Division who have accessed special victim’s division 
+case files during the previous quarter.  
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN PARTIALLY IMPLEMENTED 
+2019 2020 2021 2022 2023 2024 2025 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: This recommendation was previously rejected, 
+and is now partially implemented. According to NYPD, about 69% of members are either Detective 
+1st, 2nd, or 3rd grade. While the SVD is still not an officially graded division as recommended, this 
+change in staffing warrants recognition.  
+ 
+ 
+RECOMMENDATION 4 
+NYPD should immediately take steps to improve SVD’s ability to recruit and retain 
+experienced detectives by making SVD a “graded” division. Once completed, NYPD should end 
+the practice of transferring officers to SVD without extensive investigative experience. 
+RECOMMENDATION 10 
+NYPD should take steps to safeguard the identifying information of sex crimes victims, 
+including conducting a review of the various reports, forms, and memoranda generated during 
+the course of a sex crimes investigation that unnecessarily require the victim’s name, address, 
+or other contact information. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ADDRESSING INEFFICIENCIES IN NYPD’S HANDLING OF COMPLAINTS: AN 
+INVESTIGATION OF THE “OUTSIDE GUIDELINES” COMPLAINT PROCESS 
+FEBRUARY 7, 2017 
+This Report examined NYPD’s procedures 
+for handling “Outside Guidelines” (“OG”) 
+complaints—less severe allegations of 
+officer misconduct that fall outside NYPD’s PG procedures. The Report identified inefficiencies 
+and inconsistencies in how NYPD tracks OG complaints as they moved from IAB to the Office of 
+the Chief of Department’s Investigation Review Section for handling. These problems included the 
+use of outdated technology incompatible with other NYPD systems, which slowed down the 
+completion of the complaint review process, and a lack of formal documentation for investigation 
+extensions.  
+OIG-NYPD made six recommendations for NYPD’s policy and procedure for handling of OG 
+complaints. A full copy of the Report can be accessed here. 
+RECOMMENDATION IMPLEMENTATION STATUS UPDATES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN IMPLEMENTED 
+2018 2019 2020 2021 2022 2023 2024 2025 
+NYPD UPDATES and OIG-NYPD ASSESSMENT: This recommendation is implemented. In April 
+2024, NYPD made publicly available a web-based search function that communicates the status 
+and results of externally -generated OG investigations for community members who filed the 
+complaints. This search function is titled IAB Complaint Search. A log number is required in order 
+to complete a search, which is given to complainants at the time they make the complaints. 
+ 
+4
+1
+1
+RECOMMENDATION 5 
+NYPD should implement a web-based procedure for communicating the status and results of 
+externally-generated OG investigations back to the community members who filed the 
+complaints. 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+BODY-WORN CAMERAS IN NYC: ASSESSMENT OF THE NYPD’S PILOT PROGRAM AND 
+RECOMMENDATIONS TO PROMOTE ACCOUNTABILITY  
+ 
+JULY 30, 2015 
+This Report examined NYPD’s body -worn 
+camera (“BWC”) pilot program. OIG -
+NYPD conducted a comprehensive review 
+of the program, with a particular focus on 
+the policies and practices concerning the use and preservation of BWC footage. This review focused 
+on five categories of interest: 1) officer discretion regarding when to record, 2) notifications to 
+civilians by officers when a BWC is activated, 3) safeguards to ensure officer compliance with BWC 
+policy, 4) access to footage by officers and the public, and 5) retention and purging of BWC footage. 
+Data collected from participants in the program revealed disparate and inconsistent practices 
+concerning camera activation de spite NYPD policies. The Office found inadequacies in NYPD’s 
+BWC pilot program. 
+OIG-NYPD made 23 recommendations for improving the use of body -worn cameras as NYPD 
+transitioned from its pilot program to its long-term BWC policies. A full copy of the Report can be 
+accessed here. 
+RECOMMENDATION IMPLEMENTATION STATUS UPDATES AS OF DECEMBER 31, 2024 
+THE RECOMMENDATION THAT FOLLOWS HAS BEEN ACCEPTED IN PRINCIPLE 
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 
+NYPD UPDATES and OIG -NYPD ASSESSSMENT: While this recommendation was previously 
+rejected, it is now changed to accepted in principle.  The Department uses body -worn camera 
+footage to train officers regularly. Training Sergeants routinely use BWC videos for roll call 
+training at the command level.  BWC videos have also been used to create roll call training modules 
+which provide narration and context elucidating law, procedure, tactics and/or best practices.  For 
+example, there is BWC video training pertaining to Investigative Encounters - Levels 1, 2, 3, 4 and 
+19
+1 3
+RECOMMENDATION 4.2 
+NYPD should integrate BWC footage review into NYPD’s field training program. 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+the legal issues surrounding different levels of stops.  OIG-NYPD has reviewed the Investigative 
+Encounters training materials and confirmed BWC footage is used. NYPD has still not officially 
+integrated BWC footage  into its Field Training Program, but it has taken steps towards 
+incorporating BWC footage in other trainings.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ LOOKING AHEAD 
+As we look ahead, OIG-NYPD remains steadfast in its commitment to fostering stronger 
+police-community relationships. Recognizing the pivotal role that trust and transparency 
+play in effective policing, we will continue to conduct thorough and objective investigations, 
+audits, and reviews, that not only provide transparency through our public reports, but 
+also issue recommendations that seek to ensure strong police-community relations and an 
+efficient NYPD.  
+In an era marked by rapid technological advancements, the Office is dedicated to adapting 
+its oversight strategies to address the evolving landscape of law enforcement and will 
+continue to monitor and report on the Department’s implementation of surveillance 
+technologies, ensuring that such tools are deployed responsibly and with appropriate 
+oversight. These measures are vital to ensuring transparency to New Yorkers and enabling 
+effective oversight of NYPD’s surveillance technologies.  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ ADDENDUM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+OIG-NYPD ELEVENTH ANNUAL REPORT APRIL 2025 
+│
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  

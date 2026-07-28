@@ -1,0 +1,53 @@
+{
+  "id": "final-audit-letter-report-of-the-civil-service-practices-by-the-civil-service-commission",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Final Audit Letter Report of the Civil Service Practices by the Civil Service Commission",
+  "plain_title": "How the Civil Service Commission handles job appeals",
+  "agency": "Civil Service Commission",
+  "issued": "2025-06-27",
+  "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-of-the-civil-service-practices-by-the-civil-service-commission/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/MG25-091A.pdf",
+  "what_they_audited": "In this letter report, auditors assessed how effectively the Civil Service Commission minimizes vacancies in city agencies and improves the quality of the city workforce. They reviewed the 1,918 appeal cases the commission handled between July 2021 and April 2024.",
+  "background": "The commission is an independent, non-mayoral city agency authorized by the New York City Charter to hear and decide appeals from determinations made by other city agencies, mainly appeals from people disqualified from civil service exams or job lists and appeals of agency disciplinary decisions.",
+  "findings": [
+    {
+      "plain": "The commission is meeting its legal duty to hear and decide civil service appeals from applicants who were disqualified from exams or removed from civil service titles.",
+      "quote": "CSC is fulfilling its statutory requirements to review (hear and decide) Civil Service appeals for disqualified applicants under Section 50 of the Civil Service Law"
+    },
+    {
+      "plain": "Of the 1,918 appeals the commission accepted between July 2021 and April 2024, 95% were pre-employment cases from people who disagreed with their disqualifications, and 1,724 were closed with final decisions before April 2024.",
+      "quote": "1,818 cases (95%) were pre-employment cases filed by individuals who disagreed with their disqualifications from Civil Service lists"
+    },
+    {
+      "plain": "The commission has not set timeframes for reviewing cases, but in 244 of 248 sampled cases it followed up to get the information needed, granting extensions to agencies and appellants when appropriate.",
+      "quote": "in 244 (98%) cases, CSC followed up to obtain additional case information as documented in case files"
+    },
+    {
+      "plain": "The commission sent acknowledgement letters to appellants within an average of two days of receiving a case, and the vast majority went out within a week.",
+      "quote": "93% of the cases had acknowledgement letters issued in seven days or less"
+    },
+    {
+      "plain": "Deciding an appeal took anywhere from less than three months to over 15 months, mostly because agencies or appellants were slow to provide documents. In four cases the delay stemmed from inadequate commission oversight, and the commission now audits every open case every 30 days.",
+      "quote": "the time from submission to case closing ranged from less than three months to over 15 months"
+    },
+    {
+      "plain": "The auditors noted that the number of appeals and the time it takes to decide them do not affect the city's ability to fill vacancies.",
+      "quote": "the number of appeals received and the length of time CSC takes to adjudicate them does not impact the City’s ability to fill vacancies"
+    }
+  ],
+  "numbers": [
+    {"value": "2,051", "label": "Case numbers received, July 2021 to April 2024"},
+    {"value": "1,918", "label": "Cases accepted and reviewed as appeals"},
+    {"value": "1,724", "label": "Cases closed with final decisions before April 2024"},
+    {"value": "two days", "label": "Average time to send case acknowledgement letters"}
+  ],
+  "recommendations": [
+    "Continue auditing all open cases in the Law Manager system every month to make sure cases are processed in a timely and appropriate way.",
+    "Set timeframes for reviewing cases so they are processed in a timely manner."
+  ],
+  "agency_response": "The commission agreed with both of the audit's recommendations in its June 12, 2025 written response.",
+  "implementation_note": "",
+  "topics": ["labor"],
+  "is_followup": false
+}

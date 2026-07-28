@@ -1,0 +1,49 @@
+{
+  "id": "2026-04-15-oig-nypd-twelfth-annual-report",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "OIG-NYPD Twelfth Annual Report",
+  "plain_title": "Police watchdog tallies 275 recommendations, most adopted",
+  "agency": "New York City Police Department",
+  "issued": "2026-04-15",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf",
+  "what_they_audited": "The Department of Investigation's (DOI) Office of the Inspector General for the New York City Police Department (OIG-NYPD) issued its annual report, required by Local Law 70, discussing the 25 public reports and one statement of findings it issued between 2015 and December 31, 2025 and the status of 275 recommendations to the New York City Police Department (NYPD).",
+  "background": "Local Law 70 established OIG-NYPD within DOI to oversee the NYPD. The annual report catalogues the office's investigations and tracks how NYPD and the Civilian Complaint Review Board (CCRB) have responded to its recommendations; some recommendations made in late 2025 are not assessed.",
+  "findings": [
+    {
+      "plain": "NYPD has fully implemented 159 of the 275 recommendations, about 57.82 percent, partially implemented or accepted in principle 53, rejected 47 and is still considering seven. Nine are no longer applicable because of technology or procedure changes, and two CCRB recommendations were implemented.",
+      "quote": "NYPD has  fully implemented 159 recommendations, or approximately 57.82 \npercent; partially implemented or accepted in principle 53 recommendations, or approximately 19.27 percent"
+    },
+    {
+      "plain": "More than 75 percent of OIG-NYPD's recommendations have been implemented, partially implemented or accepted in principle, which the acting commissioner attributed to the office's consistent follow-up.",
+      "quote": "more than 75 percent of the recommendations being implemented, partially implemented, or accepted in principle"
+    },
+    {
+      "plain": "On the January 2025 social media report, NYPD accepted all six recommendations on April 28, 2025 and has implemented five; the staff training recommendation remains partially implemented until OIG-NYPD confirms all staff with account access are trained.",
+      "quote": "NYPD accepted the six recommendations on April 28, 2025, and OIG-NYPD \ndetermined that NYPD has implemented five of them."
+    },
+    {
+      "plain": "On the October 2025 Criminal Group Database update, NYPD's 90-day response of January 13, 2026 accepted all 13 new recommendations, which are counted as accepted in principle until implementation can be assessed in the 2026 cycle.",
+      "quote": "According to NYPD’s \n90-day response, issued on January 13, 2026, the Department accepted all 13 recommendations."
+    },
+    {
+      "plain": "The office's 2025 outreach included regular attendance at NYPD CompStat meetings and quarterly presentations to newly assigned Internal Affairs staff at the Police Academy.",
+      "quote": "regular attendance at  \nNYPD CompStat and conducting quarterly presentations for newly assigned Internal Affairs staff"
+    }
+  ],
+  "numbers": [
+    {"value": "275", "label": "Recommendations issued to NYPD whose status is tracked"},
+    {"value": "159", "label": "Recommendations fully implemented"},
+    {"value": "47", "label": "Recommendations rejected by NYPD"},
+    {"value": "25", "label": "Public reports issued by OIG-NYPD since 2015"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations; it catalogues the office's prior reports and tracks the status of the 275 recommendations already issued to NYPD and two to the CCRB."
+  ],
+  "agency_response": "NYPD's responses are tracked throughout: it accepted all six social media recommendations and implemented five, and accepted all 13 new Criminal Group Database recommendations in its January 2026 response.",
+  "implementation_note": "Of 275 recommendations issued to NYPD through 2025, 159 were fully implemented (about 57.82%), 53 partially implemented or accepted in principle (about 19.27%), 47 rejected (about 17.09%), seven under consideration and nine no longer applicable; two CCRB recommendations were implemented.",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

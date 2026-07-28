@@ -1,0 +1,91 @@
+{
+  "id": "audit-report-on-estate-asset-identification-and-management-practices-of-the-new-york-county-public-administrators-office",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on Estate Asset Identification and Management Practices of the New York County Public Administrator’s Office",
+  "plain_title": "How Manhattan's public administrator handles estates of the dead",
+  "agency": "New York County Public Administrator's Office",
+  "issued": "2025-02-27",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-estate-asset-identification-and-management-practices-of-the-new-york-county-public-administrators-office/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/03/ME23-100A.pdf",
+  "what_they_audited": "The New York County Public Administrator's Office, which manages the estates of Manhattan residents who die without a will and close heirs or without anyone available to administer their affairs. Auditors checked whether the office properly identified, collected, accounted for and safeguarded the assets of the dead.",
+  "background": "Each county in New York City has a public administrator appointed by Surrogate's Court judges, with a fiduciary duty to find and protect estate assets, pay debts and distribute proceeds to heirs. According to June 2023 bank statements, the Manhattan office was administering $119,189,151 in gross assets, with 4,702 estate cases active at some point between January 2022 and June 2023 and a staff of 21.",
+  "findings": [
+    {
+      "plain": "Investigators did not consistently document what they found when searching dead people's homes. In all 11 sampled estates where property was collected during initial searches, some items were left off the reports, and items including three Emmy Awards, a laptop and a car never made it onto inventory lists.",
+      "quote": "one or more items of personal property were not recorded"
+    },
+    {
+      "plain": "Some home searches happened months after the office learned of a death. The office has no time target for initial searches, and in one case investigators did not search until more than three months after the death notification.",
+      "quote": "ranging from five to 131 days (approximately four months)"
+    },
+    {
+      "plain": "Collected valuables often sat unappraised for long stretches, in one case a box of jewelry for almost two years and nine months. Delays in appraisal push back crediting assets to estates and distributing money to heirs.",
+      "quote": "212 (79%) of these entries pertaining to personal property not appraised for at least four months"
+    },
+    {
+      "plain": "The office failed to identify or collect at least $208,584 in assets held at financial institutions and did not check the state comptroller's website for unclaimed funds, where auditors found 22 unclaimed accounts belonging to 12 of the 50 sampled estates.",
+      "quote": "Six of the assets totaling $208,584 (associated with two estates) were held by financial institutions."
+    },
+    {
+      "plain": "Recordkeeping was poor. Over $1 million in assets recorded as collected and over $2.4 million in recorded deposits lacked documentation showing the money was actually collected and put in the office's bank accounts.",
+      "quote": "The remaining 18 assets—totaling $1,039,898—lacked sufficient documentation."
+    },
+    {
+      "plain": "Estates lingered. Most of the 50 sampled estates stayed open longer than the two-year benchmark, one for nearly 15 years, and 2,005 of 4,702 active estates were listed as unassigned, most of them for six months or longer.",
+      "quote": "31 of them (62%) were opened or re-opened for over two years"
+    },
+    {
+      "plain": "The office did not consistently file required reports on open and closed estates with the Surrogate's Court, the state comptroller and the city comptroller, skipping four monthly reports entirely until auditors asked about them.",
+      "quote": "NYCPA did not include 135 of the 324 closed estates (42%)"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$119,189,151",
+      "label": "Gross estate assets the office was administering"
+    },
+    {
+      "value": "$208,584",
+      "label": "Assets at financial institutions not identified or collected"
+    },
+    {
+      "value": "$1,039,898",
+      "label": "Collected assets lacking sufficient documentation"
+    },
+    {
+      "value": "$2,473,143",
+      "label": "Recorded deposits auditors could not confirm"
+    },
+    {
+      "value": "62%",
+      "label": "Sampled estates open or reopened for over two years"
+    },
+    {
+      "value": "2,005",
+      "label": "Active estates listed as unassigned"
+    }
+  ],
+  "recommendations": [
+    "Strengthen oversight of investigators' home searches so everything found is consistently documented on the required reports and inventory records.",
+    "Set target timeframes for conducting initial searches of decedents' homes and for appraising collected property that is not on hold.",
+    "Keep using the newly adopted tamper-proof sealed bags with pre-printed inventory numbers to secure collected personal property.",
+    "Use the CompuTrust case management system to record inventory transactions on time and itemize personal property with detailed descriptions and quantities.",
+    "Establish controls so that when assets at a financial institution are identified the office promptly gets the balance, collects the funds and keeps at it until everything is credited to estate accounts.",
+    "Routinely check the state comptroller's unclaimed funds website for open cases, pursue collection where possible and document those funds in estate files.",
+    "Investigate the three unclaimed accounts the auditors identified and pursue collection where possible.",
+    "Keep inventory lists of stocks and bonds up to date, liquidate them and deposit the money promptly, and mark the current status of any that are inactive or have living beneficiaries.",
+    "Keep all supporting documents in each estate file, covering searches, asset collection, property sales, payments to creditors and any delays, including explanations when properties go unsold for long periods.",
+    "Close estates on time, with reasons for delays clearly documented in the files.",
+    "Investigate the unassigned cases the auditors identified, decide whether to administer or close them and update their statuses.",
+    "Make sure payments are adequately supported and that accountings and close-out memos are prepared and kept in estate files.",
+    "Report open and closed cases to the applicable oversight authorities as required."
+  ],
+  "agency_response": "The office disagreed with most of the findings and did not directly address any of the 13 recommendations, and the comptroller's office said its response questioned the auditors' competency and methodology without providing sufficient evidence to refute any finding. Based on its comments, the office appears to generally agree with two recommendations, partially agree with one and disagree with three.",
+  "implementation_note": "",
+  "topics": [
+    "money and contracts",
+    "transparency"
+  ],
+  "is_followup": false
+}

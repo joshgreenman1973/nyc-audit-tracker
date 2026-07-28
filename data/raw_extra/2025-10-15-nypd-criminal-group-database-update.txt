@@ -1,0 +1,2523 @@
+more 
+ 
+ 
+The City of New York 
+Department of Investigation 
+ 
+JOCELYN E. STRAUBER 
+COMMISSIONER 
+180 MAIDEN LANE Release #41-2025 
+NEW YORK, NY 10038 nyc.gov/doi 
+212-825-5900  
+  
+FOR IMMEDIATE RELEASE  CONTACT:   DIANE STRUZZI 
+WEDNESDAY, OCTOBER 15, 2025 CLODAGH MCGOWAN 
+ (212) 825-5931 
+  
+DOI’S OFFICE OF THE INSPECTOR GENERAL FOR THE NYPD (“OIG-NYPD”) REVIEWS NYPD’S RESPONSE TO 
+OIG-NYPD’S 2023 RECOMMENDATIONS CONCERNING THE CRIMINAL GROUP DATABASE  
+ 
+The Department of Investigation’s (“DOI”) Office of the Inspector General for the New York City 
+Police Department (“OIG -NYPD”) released a Report today assessing the  status of  OIG-NYPD’s 
+recommendations to the New York City Police Department (“NYPD”) concerning NYPD’s Criminal Group 
+Database. Seventeen recommendations were made in OIG-NYPD’s 2023 Report “An Investigation Into the 
+Criminal Group Database.” Of  these 17 recommendations, 11 were accepted, five were rejected, and one 
+was placed under consideration. Today’s Report focuses on eight of the 11 accepted recommendations, 
+finding four have been fully implemented and four partially implemented. (Of the remaining three, two have 
+been fully implemented and one is not yet implemented. ) Today’s Report, based on OIG-NYPD’s review, 
+issues 13 new recommendations to NYPD to ensure the Department’s compliance with current policies and 
+to further enhance transparency in its use of the Criminal Group Database (“CGD”). A copy of OIG-NYPD’s 
+Report is attached to this release and can be found at this link:  
+https://www.nyc.gov/site/doi/oignypd/web/report.page  
+DOI Commissioner Jocelyn E. Strauber said, “This Report assesses the implementation status of 
+eight recommendations accepted by NYPD in 2023, and shows that NYPD has made substantial 
+improvements to its handling of the database. Today we make  13 additional recommendations to build on 
+those improvements and to ensure continued compliance with NYPD policies . DOI’s OIG-NYPD will 
+continue to pursue full implementation of our 2023 recommendations and the recommendations in this 
+Report in the coming months.”  
+OIG-NYPD Inspector General Jeanene L. Barrett said, “Our updated review of the Criminal Group 
+Database shows that NYPD has fully implemented four  of the eight recommendations that we reviewed in 
+this Report, and partially implemented the remaining f our. While NYPD’s progress is encouraging, more 
+needs to be done to ensure that the database functions as it is intended, including timely review of each 
+individual in the database to determine whether continued inclusion is warranted. ” 
+As of December 2022, there were 16,141 individuals included in the CGD, 98% of whom were 
+male, identified as Black or Hispanic and below 42 years in age. As of June 2024, the number of individuals 
+in the database had decreased by slightly over  13% to 13,989, and as of October 2025, the numbers had 
+declined by 39%, to 8,563. The demographics of the individuals in the database has remained largely 
+consistent; predominately Black and Hispanic men between the ages of 18 and 34. 
+This Report focuses on eight accepted recommendations made in the March 2023 Report. NYPD 
+accepted Recommendation 2, which called on NYPD to revise its Impact and Use Policy for the CGD, to 
+more clearly describe the CGD’s activation, renewal, and deactivation processes; explain the nature and 
+extent of the evidence required to satisfy the entry criteria; and identify by name the law enforcement and 
+
+2 
+ 
+other external entities with whom NYPD m ay share information about the individuals included in the CGD, 
+among other requirements. Seven additional accepted recommendations proposed specific CGD-related 
+policy changes for inclusion in NYPD’s written policies. NYPD updated its policies in October 2023 and 
+today’s Report concludes that these updated policies follow the 2023 Report recommendations accepted 
+by the Department . However, there are still areas where the Department’s policies can be clarified and 
+improved.   
+Below are the eight accepted policy and procedure recommendations issued in OIG-NYPD’s 2023 
+Report that were assessed in this Report: 
+Accepted Recommendations 
+Rec. 2 Within 180 days, NYPD should revise the Impact and Use Policy (“IUP”) for the CGD 
+to describe the activation, renewal, and deactivation processes, explain the nature 
+and extent of the evidence required to satisfy the entry criteria, and identify by name 
+the law enforcement and other external entities with whom NYPD may share 
+information about the individuals included in the CGD, for investigative or other 
+purposes. The document should also describe the security protections that prevent 
+unauthorized parties, within or outside of NYPD, from accessing the CGD.  
+Rec. 3 NYPD should require a multilevel review process (memorialized in writing) for the 
+activation, renewal, and deactivation of all entries in the CGD, supported by the 
+signature of each reviewer where required. 
+Rec. 4 NYPD should provide written guidance to officers explaining how to apply the Option 
+A and B entry criteria, including examples of the type and extent of evidence that is 
+sufficient for activation. 
+Rec. 5 NYPD should provide written guidance for officers about how to complete the Person 
+Maintenance, Activation, and Renewal DD5s for the maintenance and entry of 
+individuals into the CGD and should include a requirement that available 
+documentation be attached to the DD5s to substantiate that entry criteria are 
+satisfied. 
+Rec. 6 NYPD should create a list of police encounters and arrest types that constitute 
+“qualifying police contact,” for purposes of renewal determinations, to be used by 
+officers responsible for deciding whether to renew or deactivate individuals from the 
+CGD.   
+Rec. 11 NYPD should notify parents or guardians of minors that their children have been 
+included in the CGD, within 60 days of inclusion, unless notification would interfere 
+with active criminal investigations. 
+Rec. 13 NYPD should ensure that officers completing Person Maintenance, Activation and 
+Renewal forms do not have access to sealed arrest information for that purpose, 
+including, but not limited to ensuring that these DD5 forms do not autofill with sealed 
+arrest information, unless explicitly authorized by law. 
+Rec. 14 NYPD should not consider sealed arrests when making CGD activation and renewal 
+determinations. 
+ 
+For this review, OIG-NYPD analyzed database entries and the associated DD5s for a sample of 
+531 individuals in the database, to evaluate NYPD’s implementation of the 2023 recommendations . In 
+particular, the DD5s were used to assess the Department’s implementation of six Recommendations (3-
+5, 11, 13 and 14) , based on NYPD’s updated and new policies issued pursuant to Recommendations 2 
+and 6. Based on the documents provided by NYPD, OIG-NYPD makes the following findings: 
+1. NYPD updated its CGD IUP within 88 days of accepting Recommendation 2. The updated IUP 
+described the activation process, and the changed criteria for renewal and deactivation of 
+individuals. However, the IUP did not identify by name the law enforcement or external entities 
+with whom the Department may share information. As a result, Recommendation 2 is 
+considered partially implemented.   
+ 
+2. Consistent with the findings from the 2023 Report, the renewal and deactivations are not 
+reviewed by a supervisor or otherwise subject to a multilevel review process, contrary to the 
+2023 recommendation which NYPD had accepted. NYPD policy requires a multilevel review 
+3 
+ 
+process for activations but there is no process written into policy for renewals and deactivations, 
+as a result, Recommendation 3 is partially implemented.  
+ 
+3. NYPD has issued an internal memorandum describing in detail the activation, renewal, and 
+deactivation processes, discussed the types of evidence necessary to support activation into the 
+CGD, memorialized in writing the multilevel authorization process for activation, provided some 
+guidance related to completing the Person Maintenance and Activation DD5s, explained the 
+youth notification process for those under 18 activated into the CGD, and provided updated entry 
+criteria. Despite this guidance, some reporting officers completed the Activation DD5s incorrectly. 
+For example, on DD5s where two independent sources were required, there wer e reporting 
+officers who listed themselves as one of the two sources. In another instance, the reporting officer 
+listed themselves as an independent source when the selected entry criteria did not require that 
+a source be named to support the activation. These findings were limited to a select few reporting 
+officers. As a result, Recommendation 4 is considered implemented.  
+ 
+4. NYPD updated its IUP to include written guidance for the completion of Activation DD5s, which 
+notes “a written narrative and supporting documentation must accompany the recommendation 
+for Criminal Group Database entry.” However, the IUP fails to provide specific details about the 
+required content of that narrative or supporting documentation. The Chief of Detectives 
+Memorandum does provi de sufficient direction, including more detail about the type of support 
+necessary for the nomination. This finding is associated with R ecommendation 4 and is 
+therefore considered implemented.  
+ 
+5. NYPD generally improved the nature and extent of the narrativ e details and other supporting 
+evidence included in the Activation and Person Maintenance DD5s. The DD5s included more 
+details within the narrative section. Officers included urls when required except in a few instances, 
+as well as relevant screenshots for all individuals activated under Option A (1).
+1 However, in the 
+instance where two independent sources were identified for activation, the information derived 
+from the sources to justify a nomination was general in nature, appearing to be boilerplate 
+language. Some sources did not provide any context for their “reasonable belief” of an individual’s 
+criminal group membership. Supportive narratives from sources generally stated that “in 
+conference with the field intelligence officer, they had knowledge that the individual was a 
+member of, or known to the precinct as a member of a specific gang.” Because NYPD has 
+provided written guidance about the application of the entry criteria, R ecommendation 4 is 
+considered implemented; however, officers should be instructed to document the specific 
+information from in dependent sources that supports a determination of gang 
+membership. 
+ 
+6. While NYPD updated its CGD IUP and issued a Chief of Detectives Memorandum to address the 
+circumstances that can justify renewal, it provided limited guidance related to the completion of  
+renewal DD5s within the IUP. However, the Chief of Detectives Memorandum does state if an 
+individual remains within the database NYPD’s Real-Time Crime Center/Social Media Analysis 
+Unit (“RTCC/SMART”) must include supporting documentation for continued inclusion. Since the 
+Chief of Detectives Memorandum states that supporting documentation must be included for 
+continued inclusion, Recommendation 5 is considered implemented. 
+  
+7. Within its IUP, NYPD changed those who could recommend someone for entry from a precinct 
+field intelligence officer, an investigator assigned to a Detective Bureau Gang Squad, or an 
+investigator assigned to the Social Media Analysis and Research Team, to NYPD personnel from 
+the Intelligence Bureau, Detective Bureau Borough Narcotics Commands, and Detective Bureau 
+Gun Violence Suppression Unit and its sub- commands. According to NYPD, these individuals 
+have narrow investigative functions with a focus on high- crime areas and gang- related activity, 
+and therefore are the appropriate units to nominate individuals into the CGD.  
+ 
+8. With respect to qualifying conduct that justifies renewal into the database, ( Recommendation 
+6), NYPD has updated its IUP to include an arrest “for a violent crime, possession of a weapon, 
+                                                           
+1 Option 1 is when an individual admits their membership within the criminal group to a member of NYPD, or admits 
+by using language and symbols of membership on their own social media account. 
+4 
+ 
+or any other crime committed in furtherance of the criminal group’s activities” as qualifying 
+conduct that is sufficient for renewal. As a result, R ecommendation 6 is considered 
+implemented.  
+ 
+9. In the updated IUP and the Chief of Detectives Memorandum, NYPD included a new Youth 
+Coordination Officer (“YCO”) parental/guardian notification process for those under the age of 
+18, with notification required to take place within 60 days after activation into the database. 
+Despite the updated IUP and the Chief of Detectives Memorandum, the Department failed to 
+complete any notifications. The Office brought this issue to NYPD’s attention, and NYPD advised 
+that a new procedure will be implemented that will require the nominating detective, not the YCO, 
+to notify the juvenile’s parent or guardian. That procedural change is still pending. As a result, 
+Recommendation 11 is considered partially implemented.  
+ 
+10. NYPD updated the IUP and Chief of Detectives Memorandum to note that inclusion in the CGD 
+cannot be based on a sealed arrest ; however, these updated policies do not address the issue 
+of ensuring that officers do not have access to sealed arrest information. DD5s clearly indicate 
+that an arrest has been sealed, and information such as the complainant or narrative about the 
+incident are unavailable. However, the arrest number, arrest, and top arrest charge are still visible 
+on DD5s. The Department has represented to this Office that it plans to change the activation 
+and renewal DD5s so that they no longer contain this information, but this change has not yet 
+been made. As a result, Recommendation 13 is considered partially implemented.    
+ 
+11. As noted above, NYPD included in the updated IUP and Chief of Detectives Memorandum that 
+inclusion in the CGD cannot be based on a sealed arrest. There were 10 DD5s reviewed by OIG-
+NYPD that included cases where renewals were based on an arrest and all of the arrests were 
+sealed at the time of OIG-NYPD’s review. The Office confirmed that four of the ten renewals were 
+based on arrests that were sealed at the time of the renewal determination, but those four 
+determinations were made prior to the issuance of the Chief of Detectives Memorandum that 
+made clear that renewal cannot be based on a sealed arrest. The other six arrests were sealed 
+after the renewal determination,  meaning that they were unsealed at the time the renewal 
+determination was made, and appropriately relied on at that time.  As such, Recommendation 
+14 is implemented.  
+ 
+12. The 2023 Report found that the average delay for the review of entries was 69.1 days for  the 
+entire sample, 28.9 days for adults, and 188.9 days for minors. For this review, delays were even 
+longer with at least 151 entries (48 minors and 103 adults) between 6 and 60+ months past due 
+at the time of their renewal or deactivation. OIG -NYPD conveyed those figures to NYPD during 
+the course of this investigation and NYPD promptly undertook efforts to reduce any remaining 
+delays. NYPD now represents that the maximum delay for renewal and deactivation review is 
+eight days.  
+ 
+13. The IUP and Chief of Detectives Memorandum makes it clear that those under 18 at the time of 
+activation or renewal must be reviewed every two years from the date of that activation or renewal 
+and those 18 years or older at the time of activation or renewal must be reviewed every t hree 
+years from the date of that activation or renewal . The Office’s investigation found that the 
+automated review system incorrectly extended the review time from two years to three years if a 
+person was activated at 16 or 17 and turned 18 prior to their two-year review period. There were 
+59 individuals under 18 who were reviewed as part of this update. Forty -eight individuals were 
+delayed for review from 6 to 60 months. According to NYPD this was due to a vendor coding 
+error that has now been corrected. Moving forward those activated at 16 or 17 will be reviewed 
+at their two-year review period.  
+ 
+Based on these findings, OIG-NYPD issued 13 new policy and procedure recommendations: 
+ 
+1. Ensure that all uniformed personnel authorized to nominate individuals into the CGD receive 
+training about the requirements of the IUP and the Chief of Detectives Memorandum.  
+ 
+5 
+ 
+2. Update the IUP and Chief of Detectives Memorandum to require the two independent reliable 
+sources to provide substantive explanations for their reasonable belief of an individual’s criminal 
+group membership and to document those explanations on activation DD5s.  
+ 
+3. Update the IUP and Chief of Detectives Memorandum to clarify that the two independent sources 
+should be different from the reporting officer.  
+ 
+4. Update the IUP to mirror the detailed guidelines included within the Chief of Detectives 
+Memorandum.  
+ 
+5. Update the IUP and Chief of Detectives Memorandum to reflect a multilevel review process for 
+renewals and ensure that a supervisor reviews and signs off on all renewal DD5s, as previously 
+recommended and accepted by the Department, and list the required supporting documentation. 
+ 
+6. Update the IUP to require the nominating detective to notify the juvenile’s parent or guardian 
+within 60-days of activation into the CGD.  
+ 
+7. Update the IUP and Chief of Detectives Memorandum to ensure that renewal and activation 
+DD5s include a required field containing the individual’s next review date.  
+ 
+8. Create, and memorialize in writing, an internal audit requirement to ensure that notifications 
+to parents of minors added to the database are made, that the associated Notification DD5s 
+are completed, and that the notification appears in a new column within the database as 
+required by the Chief of Detectives Memorandum.  
+ 
+9. Confirm whether any individual activated at age 16 or 17 has been in the database for over two 
+years without a review, due to the coding error identified above, and review any such individual 
+to determine whether they should be renewed into the database or deactivated. 
+ 
+10. Ensure that supporting documentation is included for all renewals.  
+ 
+11. Conduct quarterly audits to ensure that there are no past due entries for review, and if there are, 
+renew or deactivate them immediately.  
+ 
+12. Review individuals renewed based on an arrest every six months to ensure that renewals are not 
+based on arrests that are subsequently sealed. NYPD should at minimum explore whether it is 
+feasible to audit renewals for this purpose.  
+ 
+13. Collect, analyze, and publish data concerning the number of entries added, renewed, and 
+deactivated from the database annually 
+This report was prepared by DOI’s Office of the Inspector General for the NYPD, specifically, 
+Inspector General Jeanene L. Barrett with the assistance of Deputy Inspector General Lesley Bedeau, Data 
+Analyst Stephen Elin, Director of Data Analytics Shyam Prasad, Special Counsel to the Inspectors General 
+Maria Paolillo, and Director of Intergovernmental Affairs and Special Counsel Rebecca Chasan, and was 
+supervised by Deputy Commissioner of Strategic Initiatives Christopher Ryan and Deputy 
+Commissioner/Chief of Investigations Dominick Zarrella. 
+ 
+DOI is one of the oldest law-enforcement agencies in the country and New York City’s corruption watchdog. Investigations may 
+involve any agency, officer, elected official or employee of the City, as well as those who do business with or receive benefits from 
+the City. DOI’s strategy attacks corruption comprehensively through systemic investigations that lead to high-impact arrests, 
+preventive internal controls and operational reforms that improve the way the City runs. 
+ 
+DOI’s press releases can also be found at twitter.com/NYC_DOI 
+Know something rotten in City government? Help DOI Get the Worms Out of the Big Apple. 
+Call: 212-3-NYC-DOI or email: Corruption@DOI.nyc.gov 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Update on NYPD’s 
+Implementation of 
+DOI’s 2023 Criminal  
+Group Database 
+Recommendations 
+ 
+New York City Department of Investigation 
+Office of the Inspector General for the NYPD  
+ 
+October 2025                    
+Jocelyn E. Strauber  
+Commissioner                                                                                      
+Jeanene L. Barrett 
+Inspector General  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 1 
+ 
+ Executive Summary ........................................................................................ 2 
+II.      Background ..................................................................................................... 12 
+ NYPD’s 90-Day Response to DOI’s OIG-NYPD Recommendations ..... 13 
+ Implementation of Recommendations ...................................................... 14 
+A. Recommendations 2, 3, 4, 5, 6, 11, 13, and 14 – IUP Revision and Written 
+Guidance as of October 2023 .................................................................. 14 
+B. An Assessment of the CGD IUP and Chief of Detectives Memorandum
+ ................................................................................................................. 15 
+i. Recommendation 2 ..................................................................................... 15 
+ii. Recommendation 3 ..................................................................................... 18 
+iii. Recommendation 4 ..................................................................................... 19 
+iv. Recommendation 5 ..................................................................................... 19 
+v. Recommendation 6 ..................................................................................... 20 
+vi. Recommendation 11 ................................................................................... 21 
+vii. Recommendation 13 ................................................................................... 22 
+viii. Recommendation 14 ................................................................................... 22 
+ Recommendations 3, 4, 5, 11, 13, and 14 -  CGD Policy Changes & 
+Implementation .............................................................................................. 23 
+A. The Current Activation and Review Processes ..................................... 23 
+B. Results of Review of Active CGD Entries as of June 26, 2024 ............. 24 
+i. Analysis of the Activation Process ............................................................. 25 
+ii. Analysis related to the Review Process ..................................................... 29 
+ Conclusion ....................................................................................................... 39 
+ Summary of Key Findings and Recommendations ................................ 40 
+ Appendix A: List of Recommendations and NYPD’s Initial Response
+ ........................................................................................................................... 46 
+ Appendix B: Impact and Use Policy – October2023 ............................... 48 
+ Appendix C: Impact and Use Policy – April 2021 ................................... 59 
+ 
+  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 2 
+ 
+ Executive Summary∗ 
+In April 2023, the Office of the Inspector General for the NYPD (“OIG-NYPD” or “the 
+Office”) released its public report summarizing a multiyear assessment of the New 
+York City Police Department’s ( “NYPD” or “the Department ”) Criminal Group 
+Database ( “CGD” or “database”). According to NYPD, t he databas e, which the 
+Department began using in 2013, is intended to support the investigative and public 
+safety efforts of officers by making available to them details about alleged gang 
+members and intelligence relati ng to criminal groups. The  2023 report concluded, 
+among other findings, that: 
+ 
+• NYPD did not provide sufficient guidance for officers regarding the criteria 
+used to add an individual’s name to the database (referred to as “activation”)  
+• NYPD’s methods to add individuals’ names to the CGD were deficient 
+• The documentation purporting to support the inclusion and renewal of entries 
+in the database (that is the conclusion, upon review, that an individual should 
+remain in the database) was deficient 
+• NYPD lacked any process for notifying parents that their minor childrens ’ 
+names were added to the database   
+• NYPD lacked documentation of key policies and practices related to the use of 
+the database 
+ 
+On the basis of those findings, OIG -NYPD issued 17 recommendations for 
+improvement. NYPD accepted 11, rejected five , and placed one under 
+consideration.  The Report focuses on the implementation status of  eight of the 11 
+accepted recommendations, finding four were fully implemented and four were 
+partially implemented. OIG-NYPD also notes that two of t he remaining three 
+recommendations have been fully implemented, and no progress has been made on 
+third recommendation. 
+ 
+NYPD accepted a recommendation that the Department revise its  Impact and Use 
+Policy (“IUP”) for the CGD “to describe the activation, renewal, and deactivation 
+processes, explain the nature and extent of the evidence required to satisfy the entry 
+criteria, and identify by name the law enforcement and other external entities with 
+ 
+∗DOI Commissioner Jocelyn E. Strauber and Inspector General Jeanene L. Barrett thank DOI staff  
+for their assistance in producing this Report, specifically, Lesley Bedeau, Deputy Inspector General 
+(OIG-NYPD); Stephen Elin, Data Analyst; Shyam Prasad, Direct or of Data Analytics; Maria Paollilo, 
+Special Counsel to the Inspectors General; and Rebecca Chasan, Director of Intergovernmental Affairs 
+and Special Counsel. Appreciation is extended to the New York City Police Department for their 
+assistance and cooperation during this review. 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 3 
+ 
+whom NYPD may share information about the individuals included in the CGD, for 
+investigative or other purposes …[and to]  describe the security protections that 
+prevent unauthorized parties, within or outside of NYPD, from accessing the CGD ” 
+(Recommendation 2).1 To implement this recommendation, NYPD updated the IUP 
+for the CGD on October 13, 2023 and issued a Chief of Detectives Memorandum  on 
+October 11, 2023.  
+ 
+As part of its IUP update, NYPD limited the activation criteria, narrowing the basis 
+on which individuals could be added to the database, and made changes to the officers 
+within the Department responsible for nominating individuals for entry . The 
+Department also clarified the multilevel review process for activation.
+2 For those 
+under the age of 18, the IUP provided details of a newly created parental notification 
+process—a Youth Coordination Officer ( “YCO”) within the individual’s resident 
+precinct makes the notifications. The IUP also provided guidance for proposing that 
+an individual be added to the database, noting that supporting documentation must 
+be included with the nomination paperwork.  
+ 
+The Chief of Detectives Memorandum, essentially an extension of the IUP, provided 
+more detailed guidelines. The memorandum included specific information related to 
+the completion of the Activation and Person Maintenance DD5s ,3 documentation 
+required to add or renew an individual into the database––including the inclusion of 
+a social media address URL and screenshots of posting(s), and the requirements for 
+each level of review  including signatures. Finally, the memo provided details of the 
+youth notification process, that includes a YCO notification to the guardian, and the 
+completion of a “YCO Criminal Group Member Notification” DD5 that will verify the 
+notification or attempted notification(s) until the guardian is contacted.  
+ 
+While those policy updates followed  the recommendations accepted by the 
+Department, the Office’s review identified areas still in need of improvement .  
+Reporting officers need more direction to complete activation DD5s, and should also 
+be instructed that a multilevel review and approval process  must be followed to 
+maintain an individual in the database . Furthermore, our investigation found that 
+ 
+1 N.Y.C. DEP’T OF INVESTIGATION, OFF. OF THE INSPECTOR GEN. FOR THE NYPD, AN INVESTIGATION INTO 
+NYPD’S CRIMINAL GROUP DATABASE (2023), 
+https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf  
+2 The multilevel review process includes review and approval of the activation DD5 by the immediate 
+supervisor of the NYPD investigator from the nominating command, and then a secondary review and 
+approval by the RTCC/SMART supervisor.  
+3 A DD5 is a broad category of forms that document NYPD officers’ interactions with the public. An 
+Activation DD5 is completed to activate an individual into the CGD, while a Person Maintenance DD5 
+preserves law enforcement information related to the individual. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 4 
+ 
+there were database programming issues that resulted in the inaccurate 
+determination of ages for adults and minors within the database, and separately, the 
+review time frame was automatically extended from two years to three years for those 
+individuals activated into the CGD at 16 and 17 years old. The Department confirmed 
+the programming issue had been fixed and that moving forward individuals added to 
+the database before age 18 will be reviewed at two years following activation.  
+ 
+NYPD requires a review of entries within the database every two years following 
+activation or renewal for those under the age of 18, and every three years for those 
+18 and older. Following that review, individuals must be removed from the database 
+unless (1) they were arrested for a violent crime, possession of a weapon, or any other 
+crime committed in furtherance of the criminal group’s activities; (2) the person is on 
+parole or probation at the time of review; or (3) is in the custody of a local, state, or 
+federal correctional facility or similar facility. Individuals who meet any of the three 
+criteria are renewed into the database with the completion of a Renewal DD5, which 
+notes the basis of the renewal , and should include documentation supporting that 
+basis. If an individual does not meet the criteria for renewal, a Deactivation DD5 is 
+completed, removing the person from the database.  Independent of the programming 
+issue impacting those activated into the database before age 18, the Office also found 
+extensive delays related to the two- and three-year review cycles, which we reported 
+to NYPD during the course of this investigation.
+4 NYPD addressed those issues, and 
+advised that as of October 6, 2025 the maximum delay for renewal and deactivation 
+review was eight days.5  
+ 
+ 
+4 OIG-NYPD informed NYPD of the delays on April 22, 2025; on May 14, 2025, NYPD advised that the 
+delays had been reduced, and that the longest delay at that time was 11 days.  NYPD determined that 
+some individuals were missing renewal or deactivation DD5s because the system failed to notify them 
+that those individuals were due for a review as a result of a coding issue, and that certain other 
+individuals were not yet due for review .  On August 19, 2025, NYPD advised the Office that the 
+maximum delay was eight days. After an additional follow -up with NYPD, the Department further 
+advised that it had identified another error and was  conducting a review of all coding used by the 
+database vendor. On October 6, 2025, NYPD notified the Office that an additional vendor coding error 
+had been found. The Department advised that that coding error had impacted the review date of 1,959 
+people. According to NYPD as of September 19, 2025, 33 out of the 1,959 remained overdue and those 
+individuals had been reviewed as of October 6, 2025 —23 were renewed and 10 were deactivated. The 
+Department also committed to quarterly checks of the CGD for proper technical function and to provide 
+confirmation to OIG-NYPD that the code continues to run consistent with Department policy following 
+those checks.  
+5 In September, after OIG-NYPD requested additional DD5s that NYPD had not previously provided, 
+NYPD identified an additional 3,846 database entries that had not been placed in queue for renewal 
+and deactivation when they were due for review. According to NYPD, it cleared this backlog —
+deactivating 3,478 entries and renewing 368 entries, as of late September. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 5 
+ 
+Another accepted recommendation called for the Department to “annually, as 
+requested…provide a random sample (including minors) of Activation  (including 
+Person Maintenance), Renewal and Deactivation DD5s and supporting 
+documentation to OIG -NYPD for review ”(Recommendation 17). 6  Recommendation 
+17 facilitates OIG-NYPD’s annual monitoring of the Department’s implementation of 
+all policy and procedural recommendations relating to the database, through a review 
+of activation, renewal and deactivation DD5s provided by the Department.7 
+ 
+For this review, OIG-NYPD analyzed entries and DD5s associated with a sample of 
+531 individuals in the database for adherence to the IUP and Chief of Detectives 
+Memorandum. This sample included 148 individuals who were added to the database 
+between October 13, 2023 and June 26, 2024, 8 and 383 individuals in the database 
+who were due to be reviewed between 2020 and 2024 for renewal or deactivation , 
+whose entries should have been either renewed or deactivated. The DD5s were used 
+to assess the Department’s implementation of Recommendations 3-5, 11, 13 and 14, 
+based on updated and new policies issued pursuant to Recommendations 2 and 6. 9 
+This report summarizes the Office’s findings with respect to NYPD’s implementation 
+of those policies, and issues additional recommendations.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 For an individual to be activated into the database, two forms must be completed, a Person 
+Maintenance DD5 and an Activation DD5, both of which include relevant law enforcement information 
+related to the individual. 
+7 N.Y.C. DEP’T OF INVESTIGATION, OFF. OF THE INSPECTOR GEN. FOR THE NYPD, AN INVESTIGATION INTO 
+NYPD’S CRIMINAL GROUP DATABASE (2023), 
+https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf  
+8 OIG-NYPD requested Activation and Person Maintenance DD5s for 148 individuals that had been 
+added to the database between October 13, 2023 and July 3, 2024. The 148 entries included all 68 
+adults activated into the CGD between October 14, 2023 and April, 2024, and all 80 minors activated 
+into the CGD between October 14, 2023 and July 3, 2024.  
+9 See Appendix A for a full detail of all Recommendations.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 6 
+ 
+Table 1: Recommendations 2-6, 11, 13 and 14 assessed within this report  
+ 
+Accepted Recommendations 
+Rec. 2 
+ 
+Within 180 days, NYPD should revise the IUP for the CGD to describe the activation, 
+renewal, and deactivation processes, explain the nature and extent of the evidence required 
+to satisfy the entry criteria, and identify by name the law enforcement and other external 
+entities with whom NYPD may share information about the individuals included in the CGD, 
+for investigative or other purposes. The document should also describe the security 
+protections that preven t unauthorized parties, within or outside of NYPD , from accessing 
+the CGD. 
+Rec. 3 NYPD should require a multilevel review process (memorialized in writing) for the 
+activation, renewal, and deactivation of all entries in the CGD, supported by the signature 
+of each reviewer where required. 
+Rec. 4 NYPD should provide written guidance to officers explaining how to apply the Option A and 
+B entry criteria, including examples of the type and extent of evidence that is sufficient for 
+activation. 
+Rec. 5 NYPD should provide written guidance for officers about how to complete the Person 
+Maintenance, Activation, and Renewal DD5s for the maintenance and entry of individuals 
+into the CGD, and should include a requirement that available documentation be attached 
+to the DD5s to substantiate that entry criteria are satisfied.  
+Rec. 6 NYPD should create a list of police encounters and arrest types that constitute “qualifying 
+police contact,” for purposes of renewal determinations, to be used by officers responsible for 
+deciding whether to renew or deactivate individuals from the CGD.   
+Rec. 11 NYPD should notify parents or guardians of minors that their children have been included 
+in the CGD, within 60 days of inclusion , unless notification would interfere with active 
+criminal investigations.  
+Rec. 13 NYPD should ensure that officers completing Person Maintenance, Activation and Renewal 
+forms do not have access to sealed arrest information  for that purpose, including, but not 
+limited to ensuring that these DD5 forms do not autofill with sealed arrest information, 
+unless explicitly authorized by law.  
+Rec. 14 NYPD should not consider sealed arrests when making CGD activation and renewal 
+determinations. 
+ 
+As of December 2022, there were 16,141 individuals included in the CGD, 98% of 
+whom were male, identified as Black or Hispanic and below 42 years in age. 10 As of 
+June 26, 2024, the number of individuals in the database ha d decreased by slightly 
+over 13% to 13,989. In correspondence provided to the Office on October 6, 2025, 
+NYPD reported that there were currently 8,563 individuals in the database, which is 
+about a 39% decline from the 13,989 confirmed June 2024.  The demographics of the 
+ 
+10 N.Y.C. DEP’T OF INVESTIGATION, OFF. OF THE INSPECTOR GEN. FOR THE NYPD, AN INVESTIGATION 
+INTO NYPD’S CRIMINAL GROUP DATABASE (2023), 
+https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf   
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 7 
+ 
+individuals in the  database has remained largely consistent from the end of 2022 
+through mid-2024; predominately Black and Hispanic men between the ages of 18 to 
+34.  
+ 
+Based on the documents provided by NYPD regarding recommendations 2 -6, 11, 13, 
+and 14 from the 2023 Report, the Office makes the following findings: 
+ 
+1. NYPD updated its CGD IUP within 88 days of accepting Recommendation 
+2. The updated IUP  described the activation  process, and the changed 
+criteria for renewal and deactivation of individuals. However, the IUP did 
+not identify by name the law enforcement or external entities with whom 
+the Department may share information. As a result, Recommendation 2 is 
+considered partially implemented.   
+ 
+2. Consistent with the findings from the 2023 Report, the renewal and 
+deactivations are not reviewed by a supervisor or otherwise subject to a 
+multilevel review process, contrary to the 2023 recommendation which 
+NYPD had accepted. NYPD policy requires a multilevel review process for 
+activations but there is no process written into policy for renewals and 
+deactivations, as a result, recommendation 3 is partially implemented.  
+ 
+3. NYPD has i ssued an internal memorandum describing in detail the 
+activation, renewal, and deactivation processes, discussed the  types of 
+evidence necessary to support activation into the CGD, memorialized in 
+writing the multilevel authorization process  for activation, provided some 
+guidance related to completing the P erson Maintenance and Activation 
+DD5s, explained the youth notification process for those under 18 activated 
+into the CGD, and provided updated entry criteria. Despite this guidance, 
+some reporting officers completed the Activation DD5s incorrectly. For 
+example, on DD5s where two independent sources were required, there 
+were reporting officers who listed themselves as one of the two sources. In 
+another instance, the reporting officer listed themselves as an independent 
+source when  the selected entry criteria  did not require that a source be 
+named to support the activation. These findings were limited to a select few 
+reporting officers. As a result, recommendation 4 is considered 
+implemented.  
+ 
+4. NYPD updated its IUP to include written guidance for the completion of 
+Activation DD5s, which notes  “a written narrative and supporting 
+documentation must accompany the recommendation for Criminal Group 
+Database entry.” However, the IUP fails to provide specific details about 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 8 
+ 
+the required content of that narrative or supporting documentation.  The 
+Chief of Detectives Memorandum does provide sufficient direction , 
+including more detail about the type of support necessary for the 
+nomination. This finding is associated with recommendation 4 and is 
+therefore considered implemented.  
+ 
+5. NYPD generally improved the nature and extent of the narrative details 
+and other supporting evidence included in the Activation and Person 
+Maintenance DD5s. The DD5s included more details within the narrative 
+section. Officers included URLs when required except in a few instances, as 
+well as relevant screenshots for all individuals activated under Option A 
+(1).
+11 However, in the instance where two independent sources were 
+identified for activation, the information derived from the sources to justify 
+a nomination was general in nature, appearing to be boilerplate language. 
+Some sources did not provide any context for their “reasonable belief” of an 
+individual’s criminal group membership. Supportive narratives from 
+sources generally stated that “in conference with the field intelligence 
+officer, they had knowledge that the individual was a member of, or known 
+to the precinct as a member of a specific gang.”  Because NYPD has provided 
+written guidance about the application of the entry criteria, 
+recommendation 4 is considered implemented, however officers should be 
+instructed to document the specific information  from independent sources 
+that supports a determination of gang membership. 
+ 
+6. While NYPD updated its CGD IUP and issued a Chief of Detectives 
+Memorandum to address the circumstances that can justify renewal , it 
+provided limited guidance related to the completion of renewal DD5s within 
+the IUP. However, the Chief of Detectives Memorandum does state if an 
+individual remains within the database RTCC/SMART must include 
+supporting documentation for continued inclusion. Since the Chief of 
+Detectives Memorandum states that supporting documentation must be 
+included for continued inclusion, r ecommendation 5 is considered 
+implemented. 
+  
+7. Within its IUP, NYPD changed those who could recommend someone for 
+entry from a precinct field intelligence officer, an investigator assigned to a 
+Detective Bureau Gang Squad , or an investigator assigned to the Social 
+Media Analysis and Research Team , to NYPD personnel from the 
+ 
+11 Option 1 is when an individual admits their membership within the criminal group to a member of 
+NYPD, or admits by using language and symbols of membership on their own social media account.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 9 
+ 
+Intelligence Bureau, Detective Bureau Borough Narcotics Commands, and 
+Detective Bureau Gun Violence Suppression Unit and its sub -commands. 
+According to NYPD, these individuals have narrow investigative functions 
+with a focus on high- crime areas and gang -related activity, and therefore 
+are the appropriate units to nominate individuals into the CGD.  
+ 
+8. With respect to qualifying conduct that justifies renewal into the database, 
+(Recommendation 6), NYPD has updated its IUP to include an arrest “for a 
+violent crime, possession of a weapon, or any other crime committed in 
+furtherance of the criminal group’s activities” as qualifying conduct that is 
+sufficient for renewal . As a result, recommendation 6 is considered  
+implemented.  
+ 
+9. In the  updated IUP and the  Chief of Detectives Memorandum , NYPD 
+included a new YCO parental/guardian notification process for those under 
+the age of 18, with notification required to take place within 60 days after 
+activation into the database. Despite the update d IUP and the Chief of 
+Detectives Memorandum , the Department failed to complete any 
+notifications. The Office brought this issue to NYPD’s attention, and NYPD 
+advised that a new procedure will be implemented that will require the 
+nominating detective, not the YCO,  to notify the juvenile’s parent or 
+guardian.  That procedural change is still pending.   As a result, 
+recommendation 11 is considered partially implemented.  
+ 
+10. NYPD updated the IUP and Chief of Detectives Memorandum to note that 
+inclusion in the CGD  cannot be based on a sealed arrest , however, these 
+updated policies do not address the issue of ensuring that officers d o not 
+have access to sealed arrest information . DD5s clearly indicate that an 
+arrest has been sealed, and information such as the complainant, or 
+narrative about the incident is  unavailable. However, the arrest number , 
+arrest date, and top arrest charge are still visible  on DD5s .  The 
+Department has repres ented to this Office that it plans to change the 
+activation and renewal DD5s so that they no longer contain this 
+information, but this change has not yet been made. As a result, 
+recommendation 13 is considered partially implemented.    
+ 
+11. As noted above, NYPD included in the updated IUP and Chief of Detectives 
+Memorandum that inclusion in the CGD cannot be based on a sealed arrest. 
+There were 1 0 DD5s reviewed by O IG-NYPD that included cases where  
+renewals were based on an arrest and all of the arrests were sealed at the 
+time of OIG- NYPD’s review. The Office confirmed that four of the ten 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 10 
+ 
+renewals were based on arrests that were sealed at the time of the renewal 
+determination, but those  four determinations were made prior to the 
+issuance of the Chief of Detectives Memorandum  that made clear that 
+renewal can not be based on a sealed arrest . The other six arrests were 
+sealed after the renewal determination, meaning that they were unsealed 
+at the time the renewal determination was made, and appropriately relied 
+on at that time.  As such, recommendation 14 is implemented.  
+ 
+12. The 2023 Report found that the average delay for the review of entries was 
+69.1 days for the entire sample, 28.9 days for adults, and 188.9 days for 
+minors. For this review, delays were even longer with at least 15 1 entries 
+(48 minors and 103 adults) between 6 and 60+ months past due at the time 
+of their renewal or deactivation . OIG-NYPD conveyed those figures to 
+NYPD during the course of this investigation and NYPD promptly 
+undertook efforts to reduce any remaining delays . NYPD now represents 
+that the maximum delay for renewal and deactivation review is eight days.  
+ 
+13. The IUP and Chief of Detectives Memorandum makes it clear that those 
+under 18 at the time of activation  or renewal must be reviewed every two 
+years from the date of that activation or renewal ; and those 18 years or 
+older at the time of  activation or renewal  must be reviewed every three 
+years from the date of that activation or renewal. The Office’s investigation 
+found that t he automated review system incorrectly extended the review 
+time from two years to three years if a person was activated at 16 or 17 and 
+turned 18 prior to their two-year review period. There were 59 individuals 
+under 18 who were reviewed as part of this update. Forty-eight individuals 
+were delayed for review from 6 to 60 months. According to NYPD this was 
+due to a vendor coding error that has now been corrected. Moving forward 
+those activated at 16 or 17 will be reviewed at their two-year review period.  
+ 
+ 
+OIG-NYPD makes the following new recommendations based on the findings within 
+this report: 
+ 
+ 
+1. Ensure that all uniformed personnel authorized to nominate individuals 
+into the CGD receive training about the requirements of the IUP and the 
+Chief of Detectives Memorandum. 
+ 
+2. Update the IUP and Chief of Detectives Memorandum to require the two 
+independent reliable sources to provide substantive explanations for their 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 11 
+ 
+reasonable belief of an individual’s criminal group membership  and to 
+document those explanations on activation DD5s. 
+ 
+3. Update the IUP and Chief of Detectives Memorandum to clarify that the 
+two independent sources should be different from the reporting officer.  
+ 
+4. Update the IUP to mirror the detailed guidelines included within the Chief 
+of Detectives Memorandum.  
+ 
+5. Update the IUP  and Chief of Detectives Memorandum  to reflect a 
+multilevel review process for renewals and ensure that a supervisor reviews 
+and signs off on all renewal DD5s, as previously recommended and accepted 
+by the Department, and list the required supporting documentation. 
+ 
+6. Update the IUP to require the nominating detective to notify the juvenile’s 
+parent or guardian within 60-days of activation into the CGD.  
+ 
+7. Update the IUP and Chief of Detectives Memorandum to ensure that 
+renewal and activation 
+DD5s include a required field containing the 
+individual’s next review date.  
+ 
+8. Create, and memorialize in writing, an internal audit requirement to 
+ensure that notifications to parents of minors added to the database are 
+made, that the associated Notification DD5s are completed, and that the 
+notification appears within a new column i n the database as required by 
+the Chief of Detectives Memorandum.  
+ 
+9. Confirm whether any individual activated at age 16 or 17 has been in the 
+database for over two years without a review, due to the coding error 
+identified above and review any such individual to determine whether they 
+should be renewed into the database or deactivated. 
+ 
+10. Ensure that supporting documentation is included for all renewals.  
+ 
+ 
+11. Conduct quarterly audits to ensure that there are no past due entries for 
+review, and if there are, renew or deactivate them immediately.  
+ 
+12. Review individuals renewed based on an arrest every six months to ensure 
+that renewals are not based on arrests that are subsequently sealed. NYPD 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 12 
+ 
+should at minimum explore whether it is feasible to audit renewals for this 
+purpose.  
+ 
+13. Collect, analyze, and publish data concerning the number of entries added, 
+renewed, and deactivated from the database annually.  
+ 
+II.      Background 
+In 2017, advocacy group s and media outlet s revealed that the New York Police 
+Department (“NYPD” or “the Department”) had crea ted and was using , for law 
+enforcement purposes,  an electronic repository of information known as the 
+Criminal Group Database ( “CGD”). The advocacy groups raised various questions 
+and concerns about  the CGD, including  how individuals were added to it , the 
+implications of inclusion, and the possible avenues for removal.12  
+ 
+In June 2018 , the New York City Council held a hearing at which then-Chief of 
+Detectives Dermot Shea stated the database contained the names of approximately 
+17,000 individuals, about half the number that the database contained when it 
+launched in 2013 .13 He testified that  in 2014,  the Department established 
+procedures governing individuals’ inclusion in, and removal from, the database. In 
+October 2018, in response to significant public concern about the database , as well as 
+complaints received by the Office from members of the public and elected officials, the 
+Office launched an investigation into NYPD’s creation and use of the CGD. The 
+investigation sought to understand how NYPD used the database, its value in crime 
+control and prevention activities, the potential harms of inclusion, and the risks and 
+costs of maintaining the database . In April 2023 , the Office released its report  “An 
+Investigation into NYPD’s Criminal Group Database.”   
+ 
+To prepare the April 2023 Report , OIG-NYPD conducted an in -depth analysis of 
+NYPD records concerning database entry and maintenance for a  sample of almost 
+500 individuals, including demographic details of all of the then-active entries. The 
+Office engaged in discussions about the value and impact of the database with NYPD 
+representatives, legal experts, members of police oversight agencies, community 
+organizations, and advocacy groups . OIG- NYPD also reviewed the policies of over 
+ 
+12 See N.Y.C. Dep’t of Investigation, AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE (Apr. 
+2023), at 11 -12, “The June 2018 City Council Hearing,” 
+https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf . 
+13 See N.Y.C. Dep’t of Investigation, AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE (Apr. 
+2023), at 12- 14, “The June 2018 City Council Hearing,” 
+https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf . 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 13 
+ 
+three dozen police departments across the United States  that maintain so -called 
+“gang” databases.14 The Office found an absence of sufficient guidance for entry  
+criteria for activation into NYPD’s  database, a lack of compliance with the 
+Department’s own procedures for inclusion of  individuals in the CGD, inadequate 
+narrative detail and documentation purporting to support the Department’s decision 
+to add or maintain an individual in the database, and a failure to notify families when 
+their minor children were included in the database or provide a process to appeal the 
+inclusion of minors.15  
+ 
+On the basis of those findings, OIG-NYPD made 17 recommendations for changes to 
+policy and practice intended to increase public awareness about the CGD; remediate 
+the lack of guidance  regarding activation, renewal, and deactivation of entries into 
+the database; ensure proper and timely notification to parents and guardians of 
+minors included in the CGD; cease the use of sealed arrests for activation and renewal 
+determinations; increase staffing to ensure timely entry reviews, formalize CGD-
+related Freedom of Information Law (“ FOIL”) requests; and facilitate continuous 
+auditing of the CGD  by OIG-NYPD to ensure the Department’s  implementation of 
+accepted recommendations.16 
+ 
+ NYPD’s 90-Day Response to DOI’s OIG-NYPD Recommendations 
+On July 17, 2023, NYPD publicly responded to the Office’s r eport. It accepted 11 
+recommendations (1-6, 11, 13-15, and 17), rejected five (7-9, 12, and 16), and  placed 
+one under consideration (10).17  
+ 
+The Department accepted the recommendations that it (1) publish a statement on its 
+website describing the contributions of the CGD to maintaining  public safety; (2) 
+revise the CGD Impact and Use Policy ( “IUP”) to provide more public insight into 
+activation, renewal , and deactivation processe s; (3) ensure that multiple levels of 
+authorization are required to add, renew or remove an individual from the database; 
+(4) provide written guidance to officers regarding  the criteria and support ing 
+documentation required to  add individuals to and remov e individuals from the 
+database; (5) make parental/guardian notifications when a minor is added to the CGD 
+within 60 days of inclusion; and (6) exclude sealed arrest information from activation 
+and renewal determinations. 
+ 
+14 See N.Y.C. Dep’t of Investigation, AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE (Apr. 
+2023), at https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf.  
+15 Id. 
+16 Id. 
+17 Id. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 14 
+ 
+ 
+NYPD rejected recommendations  to (1) conduct an immediate review of all  
+individuals in the database to determine whether they should remain or be removed; 
+(2) conduct at more frequent intervals reviews  of minors and adults  to determine 
+whether inclusion remains appropriate ; (3) make CGD entries inaccessible 60 days 
+after the deadline for review of those entries ha d passed; (4) create a process for 
+minors and their parents to appeal minors’ inclusion in the database; and (5) issue a 
+written policy to provide individuals with information about whether they are 
+included in the database if requested via FOIL.18   
+ 
+As of the  date of the release of this Report, NYPD was  still considering the 
+recommendation to convene a special review panel to approve adding  minors to the 
+database.
+19 A list of all recommendations are included within Appendix A and the full 
+2023 report is available here. 
+ 
+ Implementation of Recommendations 
+ 
+A. Recommendations 2, 3, 4, 5, 6, 11, 13, and 14 – IUP Revision and 
+Written Guidance as of October 2023 
+ 
+In response to its acceptance of recommendations 2-6, 11, 13 and 14, NYPD updated 
+its CGD Impact and Use Policy (“IUP”) 20 and issued a Chief of Detectives 
+Memorandum, which provides guidance to officers as it relates to the database . The 
+revision to the IUP and the memorandum reflected the policy and procedure changes 
+NYPD agreed to implement in its response to OIG-NYPD’s April 2023 Report.21 Those 
+changes included: 
+ 
+• An updated activation requirement from two distinct sets of criteria to one set 
+of criteria for entry 
+• A shift in who  may recommend individuals for entry from Field Intelligence 
+Officers (“FIOs”) or investigators in either the Detective Bureau’s Gang Squad 
+ 
+18 The recommendations described are Recommendations 7, 8, 9, 12 and 16. 
+19 See N.Y.C. Police Dep’t. Response to “An Investigation into NYPD’s Criminal Group Database,” (Jul. 
+17, 2023), at https://www.nyc.gov/assets/doi/oignypd/response/CGD_Response_71723_FINAL.pdf .  
+20 In 2020, New York City Council passed the Public Oversight of Surveillance Technology (POST) Act 
+requiring comprehensive reporting and oversight of NYPD’s surveillance technologies. Among other 
+directives, the POST Act requires NYPD to produce and publish Impact and Use Policies (“IUPs”) for 
+each of its qualifying surveillance technologies. NYPD must describe the capabilities of its surveillance 
+technology, and include any rules, processes, and guidelines that regulate access to or use of the 
+technology, and any prohibitions or restrictions on its use, and any potential disparate impacts.  
+21 Both versions of the Department’s CGD IUP can be found in Appendices B and C. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 15 
+ 
+or the Social Media Analysis and Research Team ( “S.M.A.R.T.”) to NYPD 
+personnel within the Intelligence Bureau, Detective Bureau Borough 
+Narcotics Commands, and Detective Bureau Gun Violence Suppression Unit 
+and its sub-commands 
+• Clarification regarding the multilevel review process for activation.  
+ 
+Additionally, the IUP provided details of the newly created notification process by the 
+Youth Coordination Officer ( “YCO”) for minors added to  the CGD. According to the 
+IUP, a family member legally responsible for the minor child must be notified within 
+60-days of the minor’s activation into the database. As an update to its Rules, 
+Processes & Guidelines section  of the IUP , guidance was provided for completing a 
+nomination to add an individual to the database ,
+22 including a requirement that  
+supporting documentation be included. In addition, on October 11, 2023, the Chief of 
+Detectives circulated a memorandum to all agency personnel designated, “Protocol 
+for Nominees into Enterprise Case Management System’s Criminal Group 
+Database,” which outlined the revised guidelines and protocols for adding entries into 
+the CGD . Th e protocol outlined in the memorandum  included multiple levels of 
+authorization to add individual names to the database, changes to the criteria for 
+adding individuals to, and removing them from the database, and described the 
+process for notifying parents and/or guardians of minor children who were added to 
+the database.
+23  
+ 
+B. An Assessment of the CGD IUP and Chief of Detectives 
+Memorandum 
+This section assesses whether NYPD’s revisions to the CGD IUP and issuance of the 
+Chief of Detectives Memorandum complied with recommendations 2 -6, 11, 13 , and 
+14.  
+i. Recommendation 2 
+ 
+Within 180 days, NYPD should revise the IUP for the CGD to describe the activation, 
+renewal, and deactivation processes, explain the nature and extent of the evidence 
+required to satisfy the entry criteria, and identify by name the law enforcement and 
+other external entities with whom NYPD may share information about the individuals 
+included in the CGD, for investigative or other purposes. The document should also 
+describe the security protections that prevent unauthorized parties, within or outside 
+of NYPD, from accessing the CGD. 
+ 
+22 A nomination occurs when specific NYPD personnel complete the Person Maintenance and 
+Activation DD5s including supporting documentation. There are three levels of sign -off for the 
+nomination and once final approval has been given the individual is activated into the CGD.  
+23 This is a non -publicly available document and was provided to OIG -NYPD only as a part of an 
+administrative request for materials relevant to the follow-up review.   
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 16 
+ 
+ 
+NYPD updated the CGD IUP within 88 days of accepting this recommendation . The 
+updated IUP  reflected a change in the criteria for activation and renewal,  an 
+explanation of the processes  for activation , and a d escription of the units within 
+NYPD responsible for proposing individuals to be added to the CGD. However, the 
+IUP does not identify by name the law enforcement and other external entities with 
+whom NYPD may share information.  
+ 
+In 2023, OIG -NYPD found that the criteria to enter a person into the CGD was 
+confusing and redundant . Specifi cally, the pre -October 2023 criteria for entry 
+included two distinct sets of criteria for  entry. The  set, referred to as Option A, 
+consisted of “[s]ome form of acknowledgement of membership, by either Option 1a) a 
+self-admission of criminal group membership to a member of the NYPD; Option 2a) 
+being identified as a member of a criminal group by two independent and reliable 
+sources; or 3a) social media posts admitting to membership in a criminal group.” The 
+second pathway, referred to as Option B: 
+required two (2) of the following to be true: 1b) frequent presence at a 
+known criminal group location; 2b) possession of criminal group-related 
+documents; 3b) association with known criminal group members; 4b) 
+social media posts with known criminal group members while 
+possessing known criminal group paraphernalia; 5b) scars and tattoos 
+associated with a particular criminal group; or 6b) frequent wearing of 
+the colors and frequent use of hand signs that are associated with 
+particular criminal groups.
+24 
+ 
+When NYPD updated the CGD IUP pursuant to recommendation 2, it eliminated 
+Option B. Accordingly, in order to be entered into the CGD, the updated IUP requires 
+(1) the individual to exhibit some form of personal acknowledgement of criminal 
+group membership, by either a self -admission of criminal group membership to a 
+member of the NYPD or a self -admission of criminal group membership on the 
+person’s own social media account(s), or (2)  a reasonable belief that the person is a 
+member of a criminal group during the course of an investigation and that the person 
+is identified as a member of a criminal group by two independent and reliable 
+sources.
+25 The updated policies eliminated the confusion and redundancies in relation 
+to activation criteria.   
+NYPD also changed who could recommend someone f or entry. Pursuant to current 
+policies, t hose individuals  include NYPD personnel from the Intelligence Bureau, 
+ 
+24 See Appendix C.  
+25 See Appendix B.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 17 
+ 
+Detective Bureau Borough Narcotics Commands, and Detective Bureau Gun Violence 
+Suppression Unit and its sub -commands. This is a change from the previous list of  
+NYPD personnel which included a precinct field intelligence officer; an investigator 
+assigned to a Detective Bureau Gang Squad; or an investigator assigned to the Social 
+Media Analysis and Research Team. When asked about this change, NYPD personnel 
+explained that the individuals now authorized to recommend additions to the 
+database have investigative roles with a discrete focus on high-crime areas and gang 
+related activity and therefore are better situated to identify individuals who may be 
+gang-affiliated.  
+NYPD expanded the IUP ’s description of the processes for activation, to include a 
+more detailed discussion of the approval process including how the nomination is 
+reviewed, what documentation is required as part of the nomination, and the levels 
+of necessary approval. While the IUP states that individuals are reviewed every two 
+years for minors and three years for adults, along with renewal criteria, it d oes not 
+provide a description of the process . The Chief of Detectives Memorandum provide d 
+more specific and detailed information related to the processes and requirements for 
+activation, the documentation  required to be included with the DD5 supporting 
+nomination, and the updated list of those nominating commands. With regard to the 
+review process for renewal or deactivation, the memorandum reiterates the two- and 
+three-year review periods and criteria for renewal noted within the IUP , and notes 
+that RTCC/SMART must include supporting documentation as att achments for all 
+renewals.  
+ 
+This more expansive description of the activation process in both the IUP and 
+memorandum is clear and instructive. With regard to the review for renewal process, 
+the review section of the IUP should list the required supporting documentation for 
+renewals. And both the memorandum and IUP should include a multilevel sign -off 
+requirement like the activation process.  This would meet the renewal and 
+deactivation process requirements of recommendation 3.  
+ 
+As it relates to sources for activation, the Chief of Detectives Memorandum notes that 
+precinct, Intelligence, or Detective Bureau personnel are  independent and reliable 
+sources. The IUP and internal memorandum require that the person being nominated 
+“…is identified as a member of a criminal group by two (2) independent and reliable 
+sources.”
+26 But these two documents do not make clear NYPD’s position that the two 
+ 
+26 See Appendix B at 42. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 18 
+ 
+independent sources must be persons other than the officer(s) nominating individuals 
+for activation.27  
+ 
+ii. Recommendation 3 
+ 
+NYPD should require a multilevel review process (memorialized in writing) for the 
+activation, renewal, and deactivation of all entries in the CGD, supported by the 
+signature of each reviewer where required. 
+ 
+In response to Recommendation 3, NYPD updated its IUP expanding and clarifying 
+the review process  for those individuals nominated to be added into the CGD. 
+According to the IUP:  
+ 
+“A written narrative and supporting documentation must accompany 
+the recommendation for Criminal Group Database entry. A supervisor 
+of the individual submitting a candidate for nomination into the 
+Criminal Group Database then review[s] the materials and adopt[s] the 
+recommendation. The recommendation is then reviewed by the Real 
+Time Crime Center, Social Media Analysis and Research Team and the 
+Real Time Crime Center, Social Media Analysis and Research Team 
+supervisor, who will either approve or reject the r ecommendation, or 
+request additional analysis be performed before making a decision. If 
+the Real Time Crime Center, Social Media Analysis and Research Team 
+and the Real Time Crime Center, Social Media Analysis and Research 
+Team supervisor approves the reco mmendation, then the subject is 
+entered into the database.”
+28 
+ 
+The Chief of Detectives Memorandum similar ly notes that the supervisor of the 
+investigating officer making the recommendation must review the supporting 
+documentation, and if one or more criteria is met and supported,  the supervisor will 
+sign-off. The recommendation and supporting documentation are  then sent to 
+NYPD’s Real-Time Crime Center/Social  Media Analysis Unit  (“RTCC/SMART”) for 
+its secondary review and approval by a supervisor, also known as an endorser. Once 
+reviewed and approved, the individual is then activated into the CGD.  
+While clear and sufficient direction was provided in both the updated IUP and the 
+Chief of Detectives Memorandum related to the two- level review and approval 
+ 
+27 A detective from the Real Time Crime Center, Social Media Analysis and Research Team , 
+responsible for approving nominations , informed this Office that there should be two independent 
+sources separate from the nominating officer. 
+28 See Appendix B.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 19 
+ 
+process for activations, neither document specifies a multilevel review process for 
+renewals, and there is currently no such process in place. Renewal DD5s include only 
+two signature boxes, one for the reporting officer and the reviewing supervisor when 
+three should be required for a multi -level review process . Indeed, NYPD’s current 
+process for renewal determinations involves a single decisionmaker with no review; 
+the same individual signs both signature boxes as the reporting officer and reviewing 
+supervisor.     
+  
+iii. Recommendation 4   
+ 
+NYPD should provide written guidance to officers explaining how to apply the Option 
+A and B entry criteria, including examples of the type and extent of evidence that is 
+sufficient for activation. 
+ 
+In response to Recommendation 4, NYPD updated its IUP and removed Option B as 
+an entry criterion. Although the Department updated its IUP, it is silent on the type 
+and extent of evidence that is sufficient for activation. The Chief of Detectives 
+Memorandum provided a slightly more detailed explanation of the criteria for 
+inclusion and the required evidence to supplement the recommendation. T he 
+memorandum explicitly states that “the social media address (URL) and screenshot 
+of posting(s) must be included as an attachment to the DD5.”29 
+ 
+While the IUP and memorandum identifies the criteria for entry, the second pathway 
+for entry, “…during the course of an investigation, there is reasonable belief that the 
+subject is a member of a criminal group, and that person is identified as a member of 
+a criminal group by two (2) independent and reliable sources,” does not explicitly state 
+that a reporting officer should not also list themselves as a n independent source, 
+though the office understands that is NYPD’s position. 
+ 
+iv. Recommendation 5  
+ 
+NYPD should provide written guidance for officers about how to complete the Person 
+Maintenance, Activation, and Renewal DD5s for the maintenance and entry of 
+individuals into the CGD and  should include a requirement that available 
+documentation be attached to the DD5s to substantiate that entry criteria are satisfied. 
+ 
+ 
+29 This is a non -publicly available document and was provided to OIG -NYPD only as a part of an 
+administrative request for materials relevant to the follow-up review.   
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 20 
+ 
+In response to Recommendation 5, NYPD updated its IUP to include written guidance 
+for the completion of DD5s related to nominating individuals for activation into the 
+CGD, as well as noting that supporting documentation is required. While the 
+Department provided guidance within the IUP, that guidance was non -specific, 
+simply stating that “a written narrative and supporting documentation must 
+accompany the recommendation for Criminal Group Database entry.” The IUP does 
+not provide direction related to how to  complete the documents, however, the Chief 
+of Detectives Memorandum  provides sufficient guidance and specifically notes the  
+type of support necessary for the nomination.  Despite this guidance, our review 
+identified narratives in support of activation that appeared to use boilerplate, non -
+specific language.  Officers should be trained to provide information that is particular 
+to the individual being added to the database.  
+ 
+Neither the IUP nor memorandum provides guidance for completing renewal DD5s.   
+ 
+v. Recommendation 6  
+ 
+NYPD should create a list of police encounters and arrest types that constitute 
+“qualifying police contact,” for purposes of renewal determinations, to be used by 
+officers responsible for deciding whether to renew or deactivate individuals from the 
+CGD.   
+ 
+In response to Recommendation 6 , NYPD updated its IUP to include the following 
+details related to the review of individuals into the database  for renewal or 
+deactivation:  
+“Subjects included in the Criminal Group Database must be reviewed to 
+determine if their actions and records warrant continued inclusion. If a 
+subject is under the age of eighteen (18), the subject is reviewed every 
+two (2) years from date of entry.
+30 If the subject is eighteen (18) years 
+old or older, the subject is reviewed every three (3) years from date of 
+entry. NYPD personnel are automatically notified when a subject is 
+eligible for removal review. Subjects must be removed from the Criminal 
+Group Database unless one of the following is true: 
+1. The subject was arrested for a violent crime, possession of a weapon, or any 
+other crime committed in furtherance of the criminal group’s activities; 
+ 
+30 Until recently, minors who were activated at 16 or 17 and turned 18 prior to their two -year review 
+period were reviewed at three years instead of two years due to a database programming error. NYPD 
+confirmed on July 8, 2025 that the error was corrected by the database vendor, and that all individuals 
+added to the database before age 18 are now reviewed at two years from the date of activation.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 21 
+ 
+2. The subject is on parole or probation at the time of review; or 
+3. The subject is in custody the of any local city, state, or federal correctional 
+facility or similar complex at the time of removal review.” 
+An NYPD official confirmed that “a violent crime, possession of a weapon, or any 
+other crime committed in furtherance of the criminal group’s activities” is intended 
+to represent the list of police encounters and arrest types. The Chief of Detectives 
+Memorandum mirrors this language. OIG-NYPD finds this to be sufficient 
+implementation of recommendation 6.  
+ 
+vi. Recommendation 11  
+ 
+NYPD should notify parents or guardians of minors that their children have been 
+included in the CGD, within 60 days of inclusion, unless notification would interfere 
+with active criminal investigations. 
+ 
+In response to Recommendation 11, NYPD updated its IUP to require that guardians 
+be notified when an individual under the age of 18 is added to the database. The Chief 
+of Detectives Memorandum gives clear direction related to youth notifications. 
+According to the memorandum “upon being notified by an NYPD investigator that an 
+individual who is a juvenile has been activated into the CGD, the precinct YCO is 
+required to notify the guardian of the activation. ” Notification to the family member 
+or guardian must be documented on a “YCO Criminal Group Member Notification” 
+DD5. In addition, as confirmation that the notification  was made , a new column 
+noting the YCO’s supervisor sign-off will appear on the CGD export.”
+31 
+While the Department  now provides clear dire ctives in both the IUP and Chief of 
+Detectives Memorandum concerning the youth notification process, consistent with 
+Recommendation 11 , the required notifications are not being made, as discussed 
+further below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 A spreadsheet that identifies all individuals added to the database who are under the age of 18. The 
+CGD export is not publicly available, but was provided to OIG-NYPD in connection with this review.   
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 22 
+ 
+vii. Recommendation 13  
+ 
+NYPD should ensure that officers completing Person Maintenance, Activation , and 
+Renewal forms do not have access to sealed arrest information for that purpose, 
+including, but not limited to ensuring that these DD5 forms do not autofill with sealed 
+arrest information, unless explicitly authorized by law. 
+ 
+In response to Recommendation 1 3, NYPD included additional language within the 
+IUP and Chief of Detectives Memorandum stating that “inclusion or maintenance in 
+the Criminal Group Database cannot be based on a sealed arrest ;”32 and that “any 
+sealed arrest cannot be the basis for including or maintaining an individual within 
+the CGD ,”33 respectively. While the updated IUP and memorandum stat es that 
+inclusion and maintenance within the CGD cannot be based on a sealed arrest, it does 
+not address or implement the  Office’s recommendation that officers do not have  
+access to sealed arrest information.34 DD5s clearly indicated that an arrest had been 
+sealed, and information such as the complainant or narrative about the incident are 
+unavailable, however, the arrest number, arrest date, and top arrest charge are still 
+visible on DD5s. NYPD has represented to this Office that it will change the DD5s so 
+that they do not contain this information in the future . Recommendation 13 is 
+considered partially implemented. 
+viii. Recommendation 14  
+ 
+NYPD should not consider sealed arrests when making CGD activation and renewal 
+determinations. 
+ 
+In response to Recommendation 14, NYPD updated the IUP to specifically note that 
+“inclusion or maintenance in the Criminal Group Database cannot be based on a 
+sealed arrest.”35 The Chief of Detectives Memorandum conveys the same information.  
+However, as discussed more thoroughly below, in some cases that the Office reviewed, 
+the renewal DD5 indicated that an individual remained in the database due to a new 
+arrest, and the only  “new arrest” reflected in the documentatio n available to this 
+Office was marked sealed. OIG- NYPD reviewed certain DD5s reflecting that 
+renewals were based on arrests that were sealed at the time of the determination , 
+ 
+32 See Appendix B. 
+33 This is a non -publicly available document and was provided to OIG -NYPD only as a part of an 
+administrative request for materials relevant to the follow-up review.   
+34 NYPD is currently in litigation over the Departments use and maintenance of sealed records. See. 
+R.C. et al v. The City of New York et al , filed in New York County Supreme Court, Case number #: 
+15379/2018. 
+35 See Appendix B.   
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 23 
+ 
+but those renewals occurred prior to the issuance of the Chief of Detectives 
+Memorandum. Other DD5s reflected renewals based on arrests that were unsealed 
+at the time of the renewal determination but sealed at a later time . OIG-NYPD did 
+not identify any renewals after the issuance of the Chief of Detectives Memorandum 
+that were based on arrests that were sealed, and therefore, this recommendation is 
+considered implemented.  
+ 
+ Recommendations 3, 4, 5,  11, 13, and 14 - CGD Policy Changes  & 
+Implementation 
+To more fully assess NYPD’s progress related to recommendations 3 -5, 11, 13, and 
+14, this section examines these policies in practice, through the review of DD5s  and 
+information associated with a total sample of 531 individuals and interviews with 
+NYPD personnel.36   
+A. The Current Activation and Review Processes  
+A detailed description of the updated activation process as set forth in the revised 
+IUP and Chief of Detectives M emorandum, directs that members of certain 
+commands, squads, sections and u nits named above are authorized to identify and 
+nominate individuals for inclusion into the criminal group database. Individuals are 
+eligible to be added to the database if they admit to being a member of a criminal 
+group, by “exhibit[ing] some form of personal acknowledgement of criminal group 
+membership by either a self -admission…to a member of NYPD or…on the subject’s 
+own social media account(s),” or if NYPD finds that “during the course of an 
+investigation, there is a reasonable belief that the subject is a member of a criminal 
+group, and that person is identified as a  member of a criminal group by two (2) 
+independent and reliable sources.” Sources for this purpose can include Department 
+personnel in an NYPD precinct, the Intelligence Bureau, the School Safety Division, 
+or the Detective Bureau; personnel from the Depart ment of Correction; or external 
+law enforcement agency personnel.   
+ 
+An officer must complete two forms, known as the Activation DD5 and the Person 
+Maintenance DD5, to nominate an individual for activation in to the database . The 
+Activation DD5 includes a narrative section that must describe the specific factors 
+that support adding the individual to the database, and that form must be submitted 
+to an immediate supervisor for approval, with supporting documentation attached. A 
+ 
+36 OIG-NYPD requested documentation associated with a total of 531 individuals, this included 148 
+activation DD5s, and 384 renewal and deactivation DD5s.  One individual was renewed in error, and 
+deactivated nearly a year later, the office received both renewal and deactivation DD5s for this person. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 24 
+ 
+supervisor then reviews the submitted documentation and “if one or more of the 
+criteria are satisfied and supported by that documentation, the supervisor documents 
+their agreement by signing the “ Activate Person into Criminal Group List ” DD5, a 
+form that is automatically sent to the RTCC/SMART for approval , or “endorsement” 
+along with the Person Maintenance DD5 . Once submitted and approved, the 
+individual’s name is added to the database. The Person Maintenance DD5 cites the 
+same information as the activation DD5, but does not require a supervisor to sign off. 
+ 
+When a minor is added to the CGD, the supervisor of the YCO in the precinct where 
+the minor resides must be notified , and within 60 days, the YCO is directed to visit 
+the minor’s parent or guardian to inform them that their minor child has been added 
+to the database. Notification is not made if it would alert the individual of an ongoing 
+investigation; in that event, the investigator must document that notification cannot 
+be made for that reason.  A total of 42 DD5s for those under 18 noted explicitly that 
+a notification could not be made or was not made because it would compromise an 
+investigation, and an additional 11 DD5s simply noted “case open” or “case active.”  
+ 
+Entries must be evaluated for continued inclusion every two years from the date of 
+activation for minors and every three years for adults.  Entries will be removed unless 
+at least one of three criteria are met: 1) the individual has been arrested for an 
+enumerated crime, unless the arrest is sealed; 2) the individual is participating in 
+parole or a probation agreement; or 3) the individual is in the custody of a correctional 
+facility.  
+ 
+Recommendation 17 from the 2023 Report, which NYPD accepted, requires NYPD to 
+“provide a random sample (including minors) of all Activation, Renewal and 
+Deactivation DD5s and any supporting documentation to OIG -NYPD for review. ”
+37 
+OIG-NYPD requested exports of the full database, one in March 2024 and another  
+updated in June 2024, to identify all new entries since the October, 2023 updated IUP 
+and Chief of Detectives Memorandum. DD5s associated with those entries were used 
+to assess the extent of NYPD’s adherence to the updated IUP and Chief of Detectives 
+Memorandum as it relates to recommendations 3-5, 11, 13, and 14.  
+ 
+B. Results of Review of Active CGD Entries as of June 26, 2024 
+As of Ju ne 26, 2024, there were a  total of 1 3,989 active entries within  the CGD , 
+slightly over 13% less than the 16,141 entries included in the database as of December 
+2022. Of the 13,989 active entries, 1 3,701 identified as male,  268 as female; for 20 
+ 
+37 See N.Y.C. Dep’t of Investigation, AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE (Apr. 
+2023), at https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf . 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 25 
+ 
+individuals gender identification data were not available . By race, 9,860 (70.5%) of 
+those included identified as Black  and 3,949 (28.2%) identified as Hispanic. Of the 
+remaining approximately 1%, 82 (0.59%), identified as White; 68 (0.49%) as Asian or 
+Pacific Islander or American Indian; 30 (0.21.2%) selected the “Other” category. With 
+respect to age, 7 ,435 (53%) of individuals in the CGD were  added to the database  
+between the ages of 18 -24 years and 4,209 (30%) between the ages of 25 -34 years. 
+11% (1,576) of the individuals in the CGD  were added as minors (under age 18) the 
+vast majority (1,301) at 16 or 17 years old.  
+As of October 6, 2025, NYPD reported to this Office that there were currently 8,563 
+active entries in the database, which is about a 39% decline from the 13,989 active 
+entries in June 2024.  
+ 
+i. Analysis of the Activation Process 
+ 
+In June and August of 2024 OIG-NYPD requested DD5s related to all new entries  
+since October 2023, for a total of 148 individuals.  In response to this request, NYPD 
+produced DD5s for a total of 148 individuals within the database, 80 minors and 68 
+adults, all of whom were added to the database between October 14, 2023,  and June 
+26, 2024.   
+a. Recommendation 3 - Multilevel Review Process 
+ 
+According to the IUP and memorandum, the supervisor of the reporting officer 
+reviews the DD5 and supporting documentation, and if the criteria is met and 
+supported, the supervisor will sign th e DD5, indicating approval of the proposal to 
+add an individual to the database. The DD5 and supporting documentation receives 
+a secondary review and approval by a supervisor in the RTCC/SMART Unit, who then 
+endorses the recommendation by signing the DD5.  
+ 
+As required by NYPD policy, officers adhered to the multilevel review process for all 
+activations in the sample that the Office reviewed , except one. In that one instance, 
+the individual was identified during a social media canvass and activated without the 
+two levels of review, with the reporting officer signing on his own behalf and on behalf 
+of the reviewing supervisor, which does not comply with the NYPD’s policy. 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 26 
+ 
+b. Recommendation 4 - Application of Entry Criteria & Recommendation 
+5 – Support for Entries 
+ 
+As noted within the IUP and memorandum, to be entered into the CGD, (1) the 
+individual must acknowledge criminal group membership, by either a self-admission 
+of membership to a member of  NYPD or a self -admission of membership on the 
+person’s own social media account(s), or (2) there must be a reasonable belief that the 
+person is a member of a criminal group during the course of an investigation and that 
+the person is identified as a member of a criminal group by two independent and 
+reliable sources. 
+Of the 148 activation DD5s assessed, 1 3 were activated based on self -admission 
+during a debrief , 97 were activated based on social media posts  exclusively, seven 
+were activated based on social media posts and sources, and the remaining 31 were 
+activated based on two sources. Consistent with the 2023 report, the most frequently 
+used reason for activation was self-admission of criminal group membership via the  
+individual’s own social media account.
+38  
+Of those 31 that listed two sources, four of those activations included the reporting 
+officer as one of the two sources. According to the supervisor in the RTCC/SMART 
+Unit responsible for approving activations, there should be two separate independent 
+sources, neither of which should be the officer making the nomination. Neither the 
+updated IUP or Chief of Detectives Memorandum clarifies that the two independent 
+sources should be different than the reporting officer. 
+ 
+In addition to the criteria noted above, the IUP and memorandum states that a URL 
+and screenshot of the posting(s) must be included as support for self-admission on the 
+person’s own social media account. For those entries activated via self-admission on 
+social media, all DD5s included embedded images/links in the form of either/or social 
+media postings, videos, or audio files.   The Office examined the embedded images, 
+although they were too small to clearly see and assess the content . H owever, the 
+associated narratives , which the Office reviewed,  almost always provided a 
+description of the embedded images. There were 3 DD5s without a URL, where NYPD 
+policy requires a URL, although there were screenshots of the social media postings 
+included.   
+ 
+ 
+38 The exact criteria as noted within the Chief of Detectives Memorandum is “(a) Nominee admits to 
+criminal group membership in a statement to a member of the NYPD, OR (b) nominee admits to 
+criminal group membership via the nominee’s own social media account[s], such as through the use of 
+language and symbols demonstrating membership. The social media address (URL) and screenshot of 
+posting(s) must be included as an attachment to the “Activate Person into Criminal Group List” DD5.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 27 
+ 
+c. Recommendation 4 - Narrative Analysis 
+ 
+All 148 sets of DD5s were reviewed for narrative completeness. Narratives were 
+categorized based on self -admission by debriefing, self -admission based on social 
+media observations, source recommendations, or a combination of any of the above. 
+The narrative sections of both the Person Maintenance and Activation DD5s outlined 
+the reasons for activation with more  specificity than those assessed for the 2023 
+Report. While the narrative sections had improved, there were issues related to the 
+use of boilerplate  language when two independent sources were required for 
+nomination. For example, t here were 31 nominations  based on source 
+recommendations. Six reporting officers completed this set of nominations, and three 
+of those reporting officers were responsible for completing 19 of the 31  DD5s. The 
+narratives associated with those 19 nominations lacked detail and appeared to be cut 
+and pasted [see Figure 1]. One reporting officer conferred with the same two 
+detectives quoting the same source narrative in at least six  instances, and in one 
+instance included the incorrect name as a result of a cut/paste error.  Another 
+reporting officer completed  six activation DD5s, using the same  language despite 
+conferring with different detectives . In three instances this reporting officer also 
+included themselves as one of the two independent sources. The third reporting officer 
+completed seven activation  DD5s with different source recommenders, using the 
+same language but changing the titles of the sources and the associated gangs.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 28 
+ 
+Figure 1: Narrative Samples from Activation DD5s 
+ 
+ 
+ 
+d.   Recommendation 11 - Youth Notifications 
+ 
+The updated IUP and the Chief of Detectives Memorandum  require notifications to 
+parents and guardians within 60  days of the inclusion of minors into the database.   
+For 53 of the 8 0 minors added to the database, notifications were not ma de because 
+the Department concluded that notifications could compromise an active 
+investigation. T he existence of an active investigation was documented in the 
+narrative section of the Activation or Person Maintenance DD5s, or elsewhere in the 
+materials received.    
+For 3 of the 17 entries where NYPD did not make notifications , the DD5 narrative 
+stated that notification attempts will be made, but there was no other indication that 
+the notification in fact was attempted or made.  In at least one of those three DD5s, 
+the detective was reminded to make sure that the notification occurred [see Figure 
+2]. The summary of investigation noted that the individual had been observed with 
+other gang members via social media observations, and included three photos, one 
+DD5 Narrative Examples 
+Example Set 1 
+Narrative 1a: 
+ 
+Conferral with 75 FIO, informed through debriefings/work as an 
+FIO, knowledge of ME as a gang member. Conferral with 
+PSAYCO, informed through debriefing and work has knowledge 
+that ME is a gang member. 
+Narrative 1b: 
+ 
+Conferral with 88 FIO, informed through debriefings/work as an FIO, 
+knowledge of SGB as a gang member. Conferral with PSA 3 FIO, 
+informed through debriefing and work has knowledge that SGB is a 
+gang member. 
+Example Set 2 
+Narrative 2a: 
+ 
+Conferral with 75 FIO, informed th rough debriefings/work as an 
+FIO, knowledge of JJ as a gang member. Conferral with PSA 2 
+YCO, informed through his duties has knowledge that JJ is a gang 
+member. 
+Narrative 2b: 
+ 
+Conferral with 75 FIO, informed through debriefings/work as an FIO, 
+knowledge of DY as a gang member. Conferral with 75NCO SGT, 
+informed through his duties has knowledge that DY is a gang 
+member. 
+Example Set 3 
+Narrative 3a: 
+ 
+The undersigned did confer with PO Nieves-Santiago (PSA3 YCO) 
+on 3/21/2024 who did inform that through debriefings and work as 
+an FIO he has knowledge of Naim Jones as an 8 Trey Crip  gang 
+member. The undersigned did confer with PO Guerrero (PSA3 
+FIO) on 03/14/2024 who did inform that through his duties as FIO 
+for PSA3 he has knowledge of Naim Jones as an 8 Trey Crip gang 
+member.   
+Narrative 3b: 
+ 
+The undersigned did confer with PO Nieves-Santiago (PSA3 YCO) on 
+3/21/2024 who did inform that through debriefings and work as an 
+FIO he has knowledge of Alexis Duran  as an 8 Trey Crip  gang 
+member. The undersigned did confer with PO Guerrero (PSA3 FIO) 
+on 03/14/2024 who did inform that through his duties as FIO for PSA3 
+he has knowledge of Alexis Duran as an 8 Trey Crime gang member.    
+Example Set 4 
+Narrative 4a: 
+ 
+The undersigned did confer with Detective Goris (73 FIO) on 
+03/14/2024 who did inform the  undersigned though their work in 
+the Field Intelligence Offic e that he has knowledge of Malachi 
+Demery to be a Folk Nation member. The undersigned did confer 
+with Detective Fung (73 PDU) on 03/14/2024 who did inform the  
+undersigned though their work in the Precinct Detective Squad 
+that he has knowledge of Malachi De mery to be a  Folk Nation  
+member. 
+Narrative 4b: 
+ 
+The undersigned  did confer with Detective Goris (73 FIO) on 
+05/15/2024 who did inform the undersigned though their work in the 
+Field Intelligence Office that he has knowledge of Prince Teran to be 
+a Bloodhound Brims Gang member. The undersigned did confer with 
+Detective Walsh (90 FIO) on 05/15/2024 who did inform the  
+undersigned though their work in the Field Intellig ence Office that 
+he has knowledge of Prince Teran to be a  Bloodhound Brims  Gang 
+member. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 29 
+ 
+picturing the individual added to  the database with another individual and two 
+picturing the individual alone. This activation was based on two independent sources, 
+with the reporting officer listing himself as one of the two independent sources.  
+Figure 2: DD5 Narrative for YCO notification advisement 
+ 
+For another three  individuals out of the  17, a notation in the materials received 
+indicated that parental notification had been made but there was no YCO Notification 
+DD5 reflecting that notification was actually made, nor was there a new column on 
+the CGD export , [a spreadsheet, ] confirming that a notification had occurred as 
+required by policy. 
+In response to an August 16, 2024,  request from OIG-NYPD for YCO Notification 
+DD5s, NYPD advised the Office on February 26, 2025, that the Department plans to 
+implement a new procedure that will require the detective nominating the juvenile 
+for activation to notify the juvenile’s parent or guardian. The detective would remain 
+responsible for completing the DD5 memorializing that the notification was either 
+made, or would interfere with an active c riminal investigation. The DD5 would also 
+require supervisory approval.  
+ 
+ii. Analysis related to the Review Process 
+ 
+To assess whether there w as timely review of entries in the database and whether 
+deactivation and renewal DD5s were completed consistent with NYPD’s policies and 
+procedures, OIG-NYPD also requested a sample of DD5s for individuals who were 
+due for review between 2020 and 2024. The anticipated review date is either two or 
+three years from the date of entry into the database, depending on whether the 
+individual was below or above age 18 at the date of entry .
+39 OIG-NYPD determined 
+a representative sample to be 383 individuals –– OIG-NYPD ultimately reviewed 379 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 30 
+ 
+entries for 378 individuals (59 entries were associated with individuals under 18 and 
+320 were associated with individuals who were 18 and over).40  
+ 
+All 379 entries were assessed using the individual’s age (younger than 18 or 18 and 
+older) as provided within the CGD export and the actual review date  [see Table 1]. 
+Of the 379 entries,  23 had been  reviewed on or before the scheduled due date.   
+Twenty-one of the 2 3 were renewed due to an arrest and the remaining t wo were 
+deactivated. One of the two was erroneously renewed and deactivated a year later.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 NYPD initially produced 338 renewal, deactivation, and person maintenance DD5s. Of those 338 
+DD5s, 261 were renewal DD5s, 70 were deactivation DD5s, and seven were person maintenance DD5s.  
+At the time, DD5s for an additional 47 individuals were not provided. NYPD advised that DD5s did 
+not exist either because they could not be located or could not be accessed because of a technical issue. 
+The Department confirmed that the electronic system that flags individuals in the database for review 
+failed to flag 34 of the entries  due to a vendor coding error . As a result of follow -up with NYPD five 
+individuals were removed from the sample leaving 379 entries for 378 individuals.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 31 
+ 
+Table 1: All Entries Reviewed Separated by Adults and Minors 
+ 
+ 
+ 
+Two hundred and five  entries were reviewed within 0 to 6 months of the scheduled 
+review date. Of the 205 entries reviewed, 174 were renewed and 31 were deactivated. 
+One hundred and forty-nine entries were delayed 6 to 60 months, and the remaining 
+two entries were delayed 60 months or more. Of this total of  151, 87 of those were 
+renewed and 64 were deactivated. 
+ 
+In October 2023 NYPD updated its review process to a two-year review from the date 
+of entry for those activated  as minors (under age 18) and a three -year review from 
+the date of entry for those activated  at 18 or older. It should however be noted that  
+NYPD can conduct a review at any time  based on its discretion.41 The prior review 
+cycle was every three (3) years, and then on an individual’s twenty -third (23rd) and 
+ 
+41 Renewals based on two- and three-year review cycles occur only if the individual was arrested for a 
+violent crime, possession of a weapon, or another crime in furtherance of the group; the person is on 
+parole or probation as the time of removal review; or the person is in custody.  
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 32 
+ 
+twenty-eight (28th) birthdays for those 18 and older, and every two years if they were 
+younger than 18 at the time of activation.  
+ 
+a. Pre-Policy Update –– October 2023 
+ 
+Two hundred and thirty-two (232) were reviewed prior to the updated IUP in October 
+2023 [see Table 2]. All 232 entries were assessed by this Office to determine if there 
+were any delays.  Thirteen (13) of the entries were individuals below 18 at the time 
+of activation who should have been reviewed within two years of their activation date. 
+One entry was reviewed on time and the remaining 1 2 entries were delayed for 
+periods ranging from 6 to 30 months. Of those 1 3, ten (10) were renewed and three 
+(3) were deactivated.  
+ 
+The remaining 219 were all adults. Twenty-one (21) were reviewed on or before their 
+scheduled date. One hundred thirty-five (135) were reviewed within 0 to 6 months of 
+their scheduled date; 27 were 6 to 12 months past due; 32 were 12 to 18 months past 
+due; and 4 were 18 to 24 months past due. Thirty-four (34) were deactivated and 185 
+were renewed.  
+ 
+In total, with respect to adults and minors collectively, out of the 232 entries reviewed 
+prior to the updated IUP, 195 were renewed and 37 were deactivated.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 33 
+ 
+Table 2: Entries for Review – Before October 2023 
+ 
+ 
+ 
+b. Post-Policy Update –– October 1, 2023 
+ 
+One hundred and forty -six (146) entries were reviewed after October 1, 2023  to 
+determine if there were delays in conducting the review. For those reviewed after the 
+policy change, 4 6 were below 18 at the time of activation, and should have been 
+reviewed within two years of their activation date. Ten (10) of those 46 were reviewed 
+between 0 and 6 months of their respective activation dates, the remaining 36 were 
+delayed between 6 and 60 months after the designated review date [see Table 3]. Of 
+the 46 minors reviewed, 15 were deactivated, and 31 were renewed. 
+ 
+The remaining 100 were adults. One entry was reviewed on or before its scheduled 
+date; 5 9 were reviewed between 0 and 6 months after their respective dates, 38  
+individuals were delayed between 6 and 48 months, and the remaining two were 
+delayed more than 60 months . Of the 100 adults reviewed, 45 were deactivated and 
+55 were renewed.  
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 34 
+ 
+Table 3: Entries for Renewal/Deactivation Review – After October 2023 
+ 
+ 
+ 
+ 
+OIG-NYPD engaged with NYPD in April 2025 regarding extensive delays in reviews 
+that had been identified. The Department acknowledged those delays and on May 14, 
+2025 provided a response noting that  the delays had been drastically reduced with 
+the oldest case awaiting review for 11 days. At that same time NYPD noted that some 
+individuals were missing renewal or deactivation DD5s because the system did not 
+provide a notification for review, due to a programming error, and that others were 
+not yet due.  NYPD subsequently advised that as of August 19, 2025 the maximum 
+delay was eight days.  
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 35 
+ 
+Since then, in response to an additional request  from OIG-NYPD the Department 
+identified at least two additional errors . In September, NYPD  noted that it had 
+identified 3,846 database entries that had not been placed in queue for renewal and 
+deactivation when they were due. At that time NYPD noted that it had cleared that 
+backlog—deactivating 3,478 entries and renewing 368 entries. Then in October, the 
+Department advised that an additional vendor coding error was found that impacted 
+the review date of an additional 1,959 people. NYPD noted that as of September 19, 
+2025, 33 out of the 1,959 remained overdue and those individuals had been reviewed 
+as of October 6, 2025 ; 23 were renewed and 10 were deactivated. The Department 
+also committed to quarterly checks of the CGD for proper technical function and 
+agreed to provide confirmation to OIG -NYPD that the code continues to run  
+consistently with Department policy. 
+ 
+ 
+c. Review for Renewal and Deactivation of Minors 
+ 
+NYPD acknowledged that the two-year period had been extended an additional year 
+for those individuals who turned 18 prior to their two -year review cycle due to a n 
+error impacting the algorithm that set the review dates for individuals within the 
+database.  
+ 
+That algorithmic error added an additional year for the review  of individuals 
+activated into the database before they turned 18.  Based on the sample OIG -NYPD 
+reviewed, fifty-nine of the 378 individuals  within the sample were younger than 18 
+at the time of activation and should have been reviewed two years following 
+activation. All 59 entries were assessed for delays [see Table 4]. Of the 59 entries, 1 
+was completed on time; 10 were completed within 0 to 6 months of the scheduled 
+review; 5 were past due by 6 to 12 months; and the remaining 43 had delays ranging 
+from 12 to 60 months. Of the 59 entries, 18 were deactivated and 41 were renewed. 
+ 
+On July 8, 2025, the Department confirmed that the error had been corrected by the 
+vendor, such that thereafter, all individuals activated into the CGD under age 18 will 
+be reviewed every two years from the date of activation pursuant to the October 2023 
+Chief of Detectives Memorandum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 36 
+ 
+Table 4: Delay Analysis of the 59 Entries Reviewed 
+ 
+ 
+ 
+d. Recommendation 3 – Multilevel Review Process for Renewal and 
+Deactivation 
+ 
+While NYPD accepted recommendation 3, which proposes a multilevel review process 
+for activations, renewals, and deactivations, NYPD updated it s policies to require a 
+multilevel review process for activations  only.  As  a result, the renewal DD5 only 
+provides for a re porting officer and re viewing supervisor to sign -off, requiring what 
+appears to be two levels of review but not three, as the activation requires [see Figure 
+3 for renewal DD5 and Figure  4 for activation DD5]. In the renewal documentation 
+that this Office reviewed, there was in fact only one level of review  for those DD5s, 
+because the member of RTCC/SMART signed the form twice, as both the reporting 
+officer and the reviewing supervisor.   Therefore, NYPD should ensure at minimum 
+that an independent supervisor reviews and signs off on all renewal DD5s , that is, 
+there are at least two levels of review for renewal determinations. 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 37 
+ 
+Figure 3:  
+ 
+Figure 4: 
+ 
+e. Recommendation 5 – Application of Guidance to Renewal DD5s 
+ 
+As noted earlier, per NYPD policy, individuals renewed into the database prior to 
+October 2023 were reviewed every two (2) years if under 18, every three (3) years  if 
+18 and older from the date that they were added to the database, and again on their 
+twenty-third (23rd) and twenty -eight (28th) birthdays to determine if renewal was 
+necessary. The IUP did not provide guidance as to when removal was or was not 
+necessary. The April 11, 2021 IUP simply stated that the individuals are reviewed 
+“…to determine if t heir actions and records warrant continued inclusion.”42  
+Two hundred and thirty -two (232) individuals were reviewed by  NYPD prior to 
+October 2023 and 195 were renewed. Of those 195, one hundred seventeen (117) were 
+arrested, 18 were in custody, 10 were on parole or probation, 2 9 had police contact 
+within 3 years, and 21 listed “social media account active” as the reason for renewal. 
+In October 2023, the Department updated its IUP to reflect the new review policy , 
+and to require a review every  two years from the date of entry  for those activated 
+ 
+42 See Appendix C 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 38 
+ 
+when under 18 and a  review every  three years from the date of entry for those 
+activated at the age of 18 or older. At the time of review, individuals must be removed 
+unless one of the following is true: 
+1. The subject was arrested for a violent crime, possession of a 
+weapon, or any other crime committed in furtherance of the 
+criminal group’s activities; 
+2. The subject is on parole or probation at the time of removal 
+review; or 
+3. The subject is in the custody of any local city, state, or federal 
+correctional facility or similar complex at the time of removal 
+review. 
+One hundred forty-six (146) were reviewed by NYPD after October 1 5, 2023, and 86 
+of those were renewed. Of those 86, all except one was renewed for reasons consistent 
+with the updated IUP and Chief of Detectives Memorandum . That individual had 
+been renewed in error and later deactivated. 
+Lastly, there was no supporting documentation attached to the renewal DD5s  to 
+substantiate the fact of an arrest, parole, probation or custody  as required by the 
+Chief of Detectives Memorandum.  
+ 
+f.  Recommendation 13 and 14 – Use of Sealed Records for Renewal 
+Determinations  
+ 
+The Office also learned that even when an arrest is sealed and reflected as such in 
+materials visible to NYPD officers making activation and renewal determinations, 
+the top arrest charge, date, and arrest number remains visible for sealed arrests. Per 
+this Office’s prior recommendation, NYPD has committed to changing the activation 
+and renewal DD5s so that they no longer contain this information.  
+Additionally, t here were 1 0 renewal DD5s that indicated an individual was being 
+renewed within the CGD based on a new arrest. The only “new arrest” in the 
+documentation that this Office reviewed appeared to be sealed, but because the date 
+of the sealing was not known to this Office, it was not clear whether the arrest was 
+sealed at the time of renewal or was unsealed at that point but sealed thereafter . 
+Upon follow-up with NYPD, the Office confirmed that four of the ten renewals were 
+in fact  based on arrest s that were sealed  at the time of the renewal , but those  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 39 
+ 
+renewals occurred prior to the issuance of the Chief of Detectives Memorandum that 
+made clear that renewals could not be based on sealed arrests . Another six were 
+sealed after the renewal determination , such that the renewal was appropriately 
+based on an arrest that was not sealed at the time the renewal determination was 
+made.    
+Every six months, NYPD should  review individuals  renewed based on arrests, to 
+ensure that renewals were not based on an arrest that was subsequently sealed. At a 
+minimum, NYPD should explore whether it is feasible to audit renewals on this basis.  
+It is this Office’s position that individuals should be removed from the database if the 
+only basis to include them is an arrest that is subsequently sealed.  
+ 
+ Conclusion  
+In response to the 2023 Report NYPD accepted 11 of the 17 issued recommendations, 
+five were rejected, and one remains under consideration. This report focused on the 
+implementation status of eight of the eleven recommendations. 43 Of those eight 
+recommendations, four are assessed as fully implemented  and four are partially 
+implemented. Two of the remaining three recommendations have also been fully 
+implemented, while no progress has been made on the third. 
+Consistent with a finding from the 2023 report  that stated that “…there was no 
+mechanism that ensures that the reviews are actually conducted on schedule by 
+NYPD staff,” this Office determined that extensive delays remain ed based on the 
+samples that we assessed .44 NYPD has explained that the delays were due to a 
+staffing shortage and  programming errors that have now been corrected, and has 
+represented that the review delays are currently a matter of days, not weeks. To 
+ensure that reviews are occurring as required by Departmental policy, NYPD will 
+add a required field on all renewal and activation DD5s that will contain the 
+individual’s next review date and will place individuals into a queue for review 15 
+days in advance of the noted date. NYPD has also advised that it will conduct 
+ 
+43 NYPD provided DD5s in response to Recommendation 17, those documents were used to assess 
+NYPD’s implementation of recommendations 2-6, 11, 13-14.  The remaining two recommendations (1 
+and 15) remain partially implemented. In response to recommendation 1, NYPD has not published a 
+statement describing how the CGD contributes to public safety and violent crime reduction strategies. 
+In response to recomm endation 15, NYPD acknowledged that the extensive delays in the renewal 
+process were a result of RTCC Social Media Analysis & Research Team being short-staffed.   
+44 See N.Y.C. Dep’t of Investigation, AN INVESTIGATION INTO NYPD’S CRIMINAL GROUP DATABASE (Apr. 
+2023), page 6, at https://www.nyc.gov/assets/doi/reports/pdf/2023/16CGDRpt.Release04.18.2023.pdf . 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 40 
+ 
+quarterly checks of the technical function of the database to confirm that the code is 
+running consistently with Department policy. 
+NYPD confirmed that individuals who were activated into the database at 16 and 17 
+years old and turned 18 prior to their two -year review period, should be reviewed at 
+two years following their date  of activation, not three years. There were 5 9 
+individuals who were under 18 when they were activated. Only one of the 59 had been 
+reviewed on time, 10 were completed within 0 to 6 months, 5 were completed between 
+6 and 12 months, but the remaining 43 had delays ranging from 12 to 60 months 
+beyond the two years. T he Department advised that these delays were due to a 
+database error  that has since been corrected. According to the Department, 
+individuals activated into the database at age 16 and 17 will be reviewed at two years 
+from the date of official activation pursuant to the October 2023 Chief of Detectives 
+Memorandum.  
+NYPD has made  substantial progress towards implementation of th ose accepted 
+recommendations issued within the 2023 Report.  Of the eight recommendations 
+assessed within this report, NYPD has fully implemented four and partially 
+implemented the remaining four.  
+ 
+Below is a summary of OIG-NYPD’s key findings, as well as 13 new recommendations 
+for further improvement.  
+ 
+ Summary of Key Findings and Recommendations 
+Based on the documents provided by NYPD regarding recommendations 2 -6, 11, 13, 
+and 14 from the 2023 Report, the Office makes the following findings: 
+ 
+ 
+1. NYPD updated its CGD IUP within 88 days of accepting Recommendation 
+2. The updated IUP described the activation process, and the changed 
+criteria for renewal and deactivation of individuals. However, the IUP did 
+not identify by name the law enforcement or external entities with whom 
+the Department may share information. As a result, Recommendation 2 is 
+considered partially implemented.   
+ 
+2. Consistent with the findings from the 2023 Report, the renewal and 
+deactivations are not reviewed by a supervisor or otherwise subject to a 
+multilevel review process, contrary to the 2023 recommendation which 
+NYPD had accepted. NYPD policy requires a multilevel review process for 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 41 
+ 
+activations but there is no process written into policy for renewals and 
+deactivations, as a result, recommendation 3 is partially implemented.  
+ 
+3. NYPD has issued an internal memorandum describing in detail the 
+activation, renewal, and deactivation processes, discussed the types of 
+evidence necessary to support activation into the CGD, memorialized in 
+writing the multilevel authorization process for activation, provided some 
+guidance related to completing the Person Maintenance and Activation 
+DD5s, explained the youth notification process for those under 18 activated 
+into the CGD, and provided updated entry criteria. Despite this guidance, 
+some report ing officers completed the Activation DD5s incorrectly. For 
+example, on DD5s where two independent sources were required, there 
+were reporting officers who listed themselves as one of the two sources. In 
+another instance, the reporting officer listed themselves as an independent 
+source when the selected entry criteria did not require that a source be 
+named to support the activation. These findings were limited to a select few 
+reporting officers. As a result, recommendation 4 is considered 
+implemented.  
+ 
+4. NYPD updated its IUP to include written guidance for the completion of 
+Activation DD5s, which notes  “a written narrative and supporting 
+documentation must accompany the recommendation for Criminal Group 
+Database entry.” However, the IUP fails to provide specific details about 
+the required content of that narrative or supporting documentation. The 
+Chief of Detectives Memorandum does provide sufficient direction, 
+including more detail about the type of support necessary fo r the 
+nomination. This finding is ass ociated with recommendation 4 and is 
+therefore considered implemented.  
+ 
+5. NYPD generally improved the nature and extent of the narrative details 
+and other supporting evidence included in the Activation and Person 
+Maintenance DD5s. The DD5s included more details within the narrative 
+section. Officers included URLs when required except in a few instances, as 
+well as relevant screenshots for all individuals activated under Option A 
+(1).
+45 However, in the instance where two independent sources were 
+identified for activation, the information derived from the sources to justify 
+a nomination was general in nature, appearing to be boilerplate language. 
+ 
+45 Option 1 is when an individual admits their membership within the criminal group to a member of 
+NYPD or admits by using language and symbols of membership on their own social media account.  
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 42 
+ 
+Some sources did not provide any context for their “reasonable belief” of an 
+individual’s criminal group membership. Supportive narratives from 
+sources generally stated that “in conference with the field intelligence 
+officer, they had knowledge that the individual was a member of, or known 
+to the precinct as a member of a specific gang.”  Because NYPD has provided 
+written guidance about the application of the entry criteria, 
+recommendation 4 is considered implemented, however officers should be 
+instructed to document the specific information from independent sources 
+that supports a determination of gang membership. 
+ 
+6. While NYPD updated its CGD IUP and issued a Chief of Detectives 
+Memorandum to address the circumstances that can justify renewal, it 
+provided limited guidance related to the completion of renewal DD5s within 
+the IUP. However, the Chief of Detectives Memora ndum does state if an 
+individual remains within the database RTCC/SMART must include 
+supporting documentation for continued inclusion. Since the Chief of 
+Detectives Memorandum states that supporting documentation must be 
+included for continued inclusion, recommendation 5 is considered 
+implemented. 
+  
+7. Within its IUP, NYPD changed those who could recommend someone for 
+entry from a precinct field intelligence officer, an investigator assigned to a 
+Detective Bureau Gang Squad, or an investigator assigned to the Social 
+Media Analysis and Research Team, to N YPD personnel from the 
+Intelligence Bureau, Detective Bureau Borough Narcotics Commands, and 
+Detective Bureau Gun Violence Suppression Unit and its sub -commands. 
+According to NYPD, these individuals have narrow investigative functions 
+with a focus on high- crime areas and gang -related activity and therefore 
+are the appropriate units to nominate individuals into the CGD.  
+ 
+8. With respect to qualifying conduct that justifies renewal into the database, 
+(Recommendation 6), NYPD has updated its IUP to include an arrest “for a 
+violent crime, possession of a weapon, or any other crime committed in 
+furtherance of the criminal group’s activities” as qualifying conduct that is 
+sufficient for renewal. As a result, recommendation 6 is considered 
+implemented.  
+ 
+9. In the updated IUP and the Chief of Detectives Memorandum, NYPD 
+included a new YCO parental/guardian notification process for those under 
+the age of 18, with notification required to take place within 60 days after 
+activation into the database. Despite the  updated IUP and the Chief of 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 43 
+ 
+Detectives Memorandum, the Department failed to complete any 
+notifications. The Office brought this issue to NYPD’s attention, and NYPD 
+advised that a new procedure will be implemented that will require the 
+nominating detective, not the YCO, to notify the juvenile’s parent or 
+guardian.  That procedural change is still pending.  As a result, 
+recommendation 11 is considered partially implemented.  
+ 
+10. NYPD updated the IUP and Chief of Detectives Memorandum to note that 
+inclusion in the CGD cannot be based on a sealed arrest, however, these 
+updated policies do not address the issue of ensuring that officers do not 
+have access to sealed arrest information . DD5s clearly indicate that an 
+arrest has been sealed, and information such as the complainant, or 
+narrative about the incident is unavailable. However, the arrest number, 
+arrest date, and top arrest charge are still visible on DD5s.  The 
+Department has r epresented to this Office that it plans to change the 
+activation and renewal DD5s so that they no longer contain this 
+information, but this change has not yet been made. As a result, 
+recommendation 13 is considered partially implemented.    
+ 
+11. As noted above, NYPD included in the updated IUP and Chief of Detectives 
+Memorandum that inclusion in the CGD cannot be based on a sealed arrest. 
+There were 10 DD5s reviewed by OIG -NYPD that included cases where 
+renewals were based on an arrest, and all of the arrests were sealed at the 
+time of OIG -NYPD’s review. The Office confirmed that four of the ten 
+renewals were based on arrests that were sealed at the time of the renewal 
+determination, but those four determinations were made prior to the 
+issuance of the Chief of Detectives Memorandum that made clear that 
+renewal cannot be based on a sealed arrest. The other six arrests were 
+sealed after the renewal determination, meaning that they were unsealed 
+at the time the renewal determination was made, and appropriately relied 
+on at that time.  As such, recommendation 14 is implemented.  
+ 
+12. The 2023 Report found that the average delay for the review of entries was 
+69.1 days for the entire sample, 28.9 days for adults, and 188.9 days for 
+minors. For this review, delays were even longer with at least 151 entries 
+(48 minors and 103 adults) between 6 and 60+ months past due at the time 
+of their renewal or deactivation. OIG -NYPD conveyed those figures to 
+NYPD during the course of this investigation and NYPD promptly 
+undertook efforts to reduce any remaining delays. NYPD now represents 
+that the maximum delay for renewal and deactivation review is eight days.  
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 44 
+ 
+13. The IUP and Chief of Detectives Memorandum makes it clear that those 
+under 18 at the time of activation or renewal must be reviewed every two 
+years from the date of that activation or renewal; and those 18 years or 
+older at the time of activation or renewa l must be reviewed every three 
+years from the date of that activation or renewal. The Office’s investigation 
+found that the automated review system incorrectly extended the review 
+time from two years to three years if a person was activated at 16 or 17 and 
+turned 18 prior to their two-year review period. There were 59 individuals 
+under 18 who were reviewed as part of this update. Forty-eight individuals 
+were delayed for review from 6 to 60 months. According to NYPD this was 
+due to a vendor coding error that  has now been corrected. Moving forward 
+those activated at 16 or 17 will be reviewed at their two-year review period.  
+ 
+OIG-NYPD makes the following new recommendations based on the findings within 
+this report: 
+ 
+ 
+1. Ensure that all uniformed personnel authorized to nominate individuals 
+into the CGD receive training about the requirements of the IUP and the 
+Chief of Detectives Memorandum. 
+ 
+2. Update the IUP and Chief of Detectives Memorandum to require the two 
+independent reliable sources to provide substantive explanations for their 
+reasonable belief of an individual’s criminal group membership  and to 
+document those explanations on activation DD5s. 
+ 
+3. Update the IUP and Chief of Detectives Memorandum to clarify that the 
+two independent sources should be different from the reporting officer.  
+ 
+4. Update the IUP to mirror the detailed guidelines included within the Chief 
+of Detectives Memorandum.  
+ 
+5. Update the IUP  and Chief of Detectives Memorandum  to reflect a 
+multilevel review process for renewals and ensure that a supervisor reviews 
+and signs off on all renewal DD5s, as previously recommended and accepted 
+by the Department, and list the required supporting documentation. 
+ 
+6. Update the IUP to require the nominating detective to notify the juvenile’s 
+parent or guardian within 60-days of activation into the CGD.  
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 45 
+ 
+7. Update the IUP and Chief of Detectives Memorandum to ensure that 
+renewal and activation DD5s include a required field containing the 
+individual’s next review date.  
+ 
+8. Create, and memorialize in writing, an internal audit requirement to 
+ensure that notifications to parents of minors added to the database are 
+made, that the associated Notification DD5s are completed, and that the 
+notification appears within a new column i n the database as required by 
+the Chief of Detectives Memorandum.  
+ 
+9. Confirm whether any individual activated at age 16 or 17 has been in the 
+database for over two years without a review, due to the coding error 
+identified above and review any such individual to determine whether they 
+should be renewed into the database or deactivated. 
+ 
+10. Ensure that supporting documentation is included for all renewals.  
+ 
+ 
+11. Conduct quarterly audits to ensure that there are no past due entries for 
+review, and if there are, renew or deactivate them immediately.  
+ 
+12. Review individuals renewed based on an arrest every six months to ensure 
+that renewals are not based on arrests that are subsequently sealed. NYPD 
+should at minimum explore whether it is feasible to audit renewals for this 
+purpose.  
+ 
+13. Collect, analyze, and publish data concerning the number of entries added, 
+renewed, and deactivated from the database annually.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 46 
+ 
+ Appendix A: List of Recommendations and NYPD’s Initial Response 
+Accepted Recommendations 
+Rec. 1 Within 180 days, NYPD should publish a statement on its website describing how the CGD 
+contributes to the Department’s public safety and violent crime reduction strategies. 
+Rec. 2 Within 180 days, NYPD should revise the IUP for the CGD to describe the activation, 
+renewal, and deactivation processes, explain the nature and extent of the evidence required 
+to satisfy the entry criteria, and identify by name the law enforcement and other external 
+entities with whom NYPD may share information about the individuals included in the CGD, 
+for investigative or other purposes. The document should also describe the security 
+protections that prevent unauthorized parties, within or outside of NYPD, from accessing 
+the CGD. 
+Rec. 3 NYPD should require a multilevel review process (memorialized in writing) for the 
+activation, renewal, and deactivation of all entries in the CGD, supported by the signature 
+of each reviewer where required. 
+Rec. 4 NYPD should provide written guidance to officers explaining how to apply the Option A and 
+B entry criteria, including examples of the type and extent of evidence that is sufficient for 
+activation. 
+Rec. 5 NYPD should provide written guidance for officers about how to complete the Person 
+Maintenance, Activation, and Renewal DD5s for the maintenance and entry of individuals 
+into the CGD, and should include a requirement that available documentation be attache d 
+to the DD5s to substantiate that entry criteria are satisfied. 
+Rec. 6 NYPD should create a list of police encounters and arrest types that constitute “qualifying 
+police contact,” for purposes of renewal determinations, to be used by officers responsible for 
+deciding whether to renew or deactivate individuals from the CGD. 
+Rec. 11 NYPD should notify parents or guardians of minors that their children have been included 
+in the CGD, within 60 days of inclusion, unless notification would interfere with active 
+criminal investigations. 
+Rec. 13 NYPD should ensure that officers completing Person Maintenance, Activation and Renewal 
+forms do not have access to sealed arrest information for that purpose, including, but not 
+limited to ensuring that these DD5 forms do not autofill with sealed arrest in formation, 
+unless explicitly authorized by law. 
+Rec. 14 NYPD should not consider sealed arrests when making CGD activation and renewal 
+determinations. 
+Rec. 15 NYPD should increase the number of staffers assigned to support the administration of the 
+CGD. 
+Rec. 17 Annually, as requested, NYPD should provide a random sample (including minors) of all 
+Activation, Renewal and Deactivation DD5s and any supporting documentation to OIG -
+NYPD for review. 
+Recommendation Under Consideration 
+Rec. 10 NYPD should require and convene a special review panel of Department personnel to 
+approve the activation of minors into the CGD, documented by the signature of the chair of 
+the group. 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 47 
+ 
+Rejected Recommendations 
+Rec. 7 Within 180 days, NYPD should begin a review of each entry in the CGD to determine 
+whether inclusion is still warranted. That analysis should be completed by the Department 
+within one year after the publication of this Report. 
+Rec. 8 NYPD should require, by written policy, the review of all CGD entries every twelve months 
+for minors and every eighteen months for adults. 
+Rec. 9 NYPD should make inaccessible via DAS and other search methods all CGD entries that are 
+not evaluated within 60 days of review deadlines, until those entries are reviewed 
+Rec. 12 NYPD should create a process for minors and their parents to appeal their inclusions in the 
+database if the minors have no contact with law enforcement over a twelve-month period. 
+Rec. 16 NYPD should create a written policy formalizing its intention, after an individualized 
+assessment, to generally grant FOIL requests by individuals with respect to whether they 
+are in the CGD, by providing them with redacted versions of any relevant support ing 
+documents if they are in the database, and by informing them that there are no relevant 
+documents, if they are not. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 48 
+ 
+ Appendix B: Impact and Use Policy – October2023  
+ 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 49 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 50 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 51 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 52 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 53 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 54 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 55 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 56 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 57 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 58 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 59 
+ 
+ Appendix C: Impact and Use Policy – April 2021  
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 60 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 61 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 62 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 63 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 64 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 65 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 66 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 67 
+ 
+ 
+
+Update on Implementation of Criminal Group Database Recommendations  2025 
+ 
+ 
+NYC Department of Investigation | 68 
+ 
+ 

@@ -1,0 +1,61 @@
+{
+  "id": "2026-02-17-monitor-2025-end-of-year-report",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "2025 End of Year Monitor Update",
+  "plain_title": "After twelve years, NYPD still not in compliance on stop and frisk",
+  "agency": "New York City Police Department",
+  "issued": "2026-02-17",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.02.17-977-Monitors-2025-End-of-Year-Report.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2026/02/2026.02.17-977-Monitors-2025-End-of-Year-Report.pdf",
+  "what_they_audited": "The monitor's year-end summary of the New York City Police Department's (NYPD) 2025 efforts to comply with the federal court's 2013 order requiring constitutional policing in the Floyd, Ligon and Davis stop and frisk cases, covering accountability, self-initiated stops, underreporting, discipline, Fourteenth Amendment compliance and community engagement.",
+  "background": "A federal court ordered the NYPD in 2013 to bring its stop, question and frisk practices in line with the Constitution and appointed an independent monitor. The monitor writes that ongoing compliance problems fall into three main categories: lack of meaningful accountability, unlawfulness of self-initiated stops and persistent underreporting of Terry stops.",
+  "findings": [
+    {
+      "plain": "After twelve years of oversight, the department has yet to reach substantial compliance with the court's 2013 order. The monitor called the report a wake-up call and said there should not be a permanent monitor.",
+      "quote": "the NYPD has yet to reach substantial compliance"
+    },
+    {
+      "plain": "Supervisors still approved nearly everything. In the first half of 2025, reviewing supervisors found 99% of stops, 95% of frisks and 94% of searches compliant, while the monitor's audits found only 89% of stops, 73% of frisks and 73% of searches lawful.",
+      "quote": "99% of all stops, 95% of frisks, and 94% of searches compliant"
+    },
+    {
+      "plain": "Discipline remained rare. In the first half of 2025, commands took no action in 97 of 305 cases where the Quality Assurance Section found a stop unlawful, issued command discipline in only 8 cases and in 29 cases rejected the audit finding outright, a practice the monitor said undermines compliance efforts.",
+      "quote": "command discipline (“CD”) issued in only 8 cases"
+    },
+    {
+      "plain": "Self-initiated stops, nearly half of all reported stops, were far less lawful (79.4% for stops, 64.0% for frisks and 53.3% for searches in the first half of 2025) than stops from radio runs or witnesses. Specialized units performed worst, with only 75% of Neighborhood Safety Team stops and 64% of Public Safety Team stops lawful, and the monitor's preliminary audits show the department is unlikely to meet the compliance targets of 85% by the third quarter of 2025 and 90% by year end. The department eliminated its Public Safety Teams on November 7, 2025.",
+      "quote": "self -initiated stops ( 79.4% stops, 64.0% frisks, 53.3% searches)"
+    },
+    {
+      "plain": "Underreporting improved but nearly one-third of stops still went undocumented: the monitor's 2025 audits found 71% of stops reviewed were properly documented, up from 61% in 2024.",
+      "quote": "The Monitor’s 2025 audits showed  that 71% of the..."
+    },
+    {
+      "plain": "Work on police discipline reform stalled. The Discipline Working Group of plaintiffs, the City and the monitor had to be paused after the City sought to revamp the process at the end of 2025 and said it could agree to only a few of the recommendations in Judge James Yates' September 2024 discipline report.",
+      "quote": "the DWG had to be paused because at the end of 2025, the City sent a letter"
+    },
+    {
+      "plain": "The department advanced a Fourteenth Amendment compliance plan, delivering a revised plan on December 31, 2025 that includes a Racial Disparities Review Committee, and hired academic advisors to analyze racial disparities in stops. Separately, in five bias cases where the Civilian Complaint Review Board sought charges, the police commissioner found the conduct improper but not racially motivated and declined to bring charges.",
+      "quote": "This plan includes a Racial Disparities Review..."
+    }
+  ],
+  "numbers": [
+    {"value": "99%", "label": "Stops that reviewing supervisors called compliant, first half of 2025"},
+    {"value": "11%", "label": "Stops the monitor found unlawful, first half of 2025"},
+    {"value": "8", "label": "Cases with command discipline out of 305 unlawful stops"},
+    {"value": "29", "label": "Cases where commands rejected the audit's unlawfulness finding"},
+    {"value": "71%", "label": "Stops properly documented in 2025 audits, up from 61% in 2024"},
+    {"value": "79.4%", "label": "Self-initiated stops found lawful, first half of 2025"}
+  ],
+  "recommendations": [
+    "Implement more robust corrective actions, including discipline, for supervisors and officers who repeatedly do not comply with legal requirements.",
+    "Have leadership demand accountability through ComplianceStat at the same level required under CompStat, so poor supervisor performance consistently results in discipline or reassignment.",
+    "Provide ongoing monitoring in the Early Intervention Program and have the Early Intervention Committee define and measure success for officers who come through the program."
+  ],
+  "agency_response": "The department continued ComplianceStat, revised the Early Intervention Program in May 2025 with the monitor's input and delivered a revised Fourteenth Amendment compliance plan on December 31, 2025. At the end of 2025 the City sought to revamp the discipline working group process and agreed to only a few of its recommendations, then withdrew the letter after discussions.",
+  "implementation_note": "",
+  "compliance_note": "The monitor concluded that after twelve years of oversight the NYPD has yet to reach substantial compliance with the court's 2013 order, citing little to no discipline for noncompliant stops, supervisors who deem nearly all encounters lawful, low compliance for self-initiated stops and specialized teams and underreporting of almost one-third of stops.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

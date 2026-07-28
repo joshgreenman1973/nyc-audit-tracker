@@ -1,0 +1,466 @@
+ 
+ 
+ 
+ 
+ 
+Status Report  
+by the 
+Nunez Independent Monitor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 14, 2026  
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 1 of 17
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T
+HE NUNEZ MONITORING TEAM 
+ 
+Steve J. Martin 
+Monitor 
+Elly Davis 
+Junior Analyst 
+Kelly Dedel, Ph.D. 
+Subject Matter Expert 
+Anna E. Friedberg 
+Deputy Monitor 
+Sarah Geisler 
+Junior Analyst 
+Dennis O. Gonzalez 
+Director 
+Patrick Hurley 
+Subject Matter Expert 
+Alycia M. Karlovich 
+Associate  
+Emmitt Sparkman 
+Subject Matter Expert 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 2 of 17
+ 
+Table of Contents 
+Introduction ............................................................................................................. 1 
+• Procedural Background on Local Law 42......................................................................... 1 
+• Update on Monitoring Team’s Work ................................................................................. 4 
+Next Steps ................................................................................................................. 8 
+• Recommendation 1: Monitor Submission of Preliminary Findings to LL42 Parties ....... 8 
+• Recommendation 2: Structure for Meet and Confer Sessions .......................................... 9 
+• Recommendation 3: Monitor Update to the Court............................................................ 9 
+• Recommendation 4: Suspend the December 19, 2025 Order (dkt. 940) ........................ 10 
+• Position of the Parties ..................................................................................................... 10 
+Appendix A: Letter from Limited City Intervenors .......................................... 12 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 3 of 17
+1 
+INTRODUCTION 
+ We write to provide the Court with an update on work regarding Local Law 42 (“LL42”) 
+and recommendations concerning next steps.   
+Undoubtedly, the goal and intent of Local Law 42 is to support improved practice within 
+the jails. In some cases, the provisions are laudable, consistent with sound correctional practice, 
+and support the overall reform effort. Many of LL42’s requirements will have a significant 
+impact on fundamental operations within the New York City jails, affecting both individuals in 
+custody and staff. Specifically, the requirements for using restraints will impact interactions with 
+every individual in the Department’s custody, in some cases multiple times per day. Other 
+regulations directly affect security operations, including the rules for de-escalation confinement 
+and emergency lock-ins. Although these measures occur less frequently than the use of restraints, 
+the Department employs them to address specific, imminent threats to individuals’ safety, with 
+some situations involving a higher degree of risk and being more complex than others. In some 
+cases, resolving a threat may require action on multiple fronts uniquely tailored to both the 
+individual(s) and the situation, and managerial discretion is essential to enable correctional staff 
+to assess and mitigate the risk of harm. Finally, housing individuals who have committed serious 
+acts of violence is arguably one of the most complicated, but essential practices in any 
+correctional system. This complexity arises from the interpersonal dynamics involved and the 
+extreme safety risks these individuals pose to other persons in custody and staff. 
+P
+ROCEDURAL BACKGROUND ON LOCAL LAW 42 
+The City Council passed Local Law 42 on December 20, 2023. The Mayor of New York 
+subsequently vetoed the bill on January 19, 2024, but it was signed into law by the City Council 
+on January 30, 2024, overriding the Mayor’s veto.  In early January 2024, pursuant to the Nunez 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 4 of 17
+2 
+Court Orders,1 the Commissioner requested the Monitoring Team’s advice and feedback on how 
+the requirements of LL42 might impact the Department’s ability to comply with the Nunez Court 
+Orders. On January 12, 2024, the Monitoring Team provided its initial assessment of LL42’s 
+implications for the City’s and Department’s efforts to address the unsafe conditions in the jails, 
+protect individuals from harm, and implement sound correctional practices, all of which are 
+necessary to comply with the Nunez Court Orders.  
+In late May/early June 2024, the Department advised the Monitoring Team (and 
+subsequently the Parties to the Nunez litigation) that it was considering seeking relief from 
+LL42’s requirements via the Court in the Nunez matter, given the Department’s concerns that 
+LL42’s requirements may impede the Department’s ability to comply with several key areas of 
+the Nunez Court Orders. Likewise, the City advised the Court of its intentions in a letter dated 
+June 5, 2024 (dkt. 724). Following the City’s submission of this letter, the Monitoring Team and 
+the Nunez Parties met and conferred in June 2024. In July 2024, the Commissioner sought 
+updated guidance and feedback from the Monitoring Team pursuant to the Nunez Court Orders,2  
+on how the requirements of LL42 might impact the Department’s ability to comply with the 
+Nunez Court Orders. On July 22, 2024, the City filed a status report with the Court regarding its 
+concerns related to the implementation of LL42 (dkt. 758). The status report included a 
+ 
+1 See Consent Judgment, § XX, ¶¶ 24 and 25 and June 13, 2023 Order (dkt. 550), § I, ¶ 5. Combined, these 
+provisions: (1) permit the Department to request the Monitor provide technical assistance or consultation on the 
+Department’s efforts to implement the requirements of the Nunez Court Orders, (2) permit the Department to request 
+the Monitor provide a written response to a request regarding the Department’s compliance with the Nunez Court 
+Orders, and (3) requires the Department to proactively consult with the Monitor on any policies or procedures that 
+relate to the compliance with the Nunez Court Orders and to obtain the Monitor’s feedback on these initiatives. The 
+Monitor has addressed similar issues in the past. See, for example, Monitor’s March 5, 2018 Report (dkt. 309), 
+Monitor’s October 31, 2018 Letter to the Court (dkt. 319), and Monitor’s June 30, 2022 Report (dkt. 467) at pgs. 22-
+27. 
+2 Id. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 5 of 17
+3 
+declaration from Commissioner Lynelle Maginley-Liddie regarding her belief about “the 
+deleterious effects that many of the provisions of Local Law 42 would have on the operations of 
+the Department if they went into effect. Put simply, there would be an increase in violence and 
+transportation of incarcerated individuals to court would become virtually impossible, among 
+other adverse consequences.” Declaration of Lynelle Maginley-Liddie, ¶ 2 (dkt. 758).  
+On July 27, 2024, the Mayor issued Emergency Executive Orders (“EEO”) suspending 
+the implementation of certain provisions of LL42.  Since summer 2024, the Court has directed 
+the Monitoring Team to engage in focused analytical work, to meet and confer with the 
+Defendants and the Parties about these issues, and to provide multiple status updates.
+3 The 
+Monitoring Team updated the Court on its work to assess the intersection of LL42 and the Nunez 
+Court Orders on October 24, 2024 (dkt. 789) and November 22, 2024 (dkt. 802). The Monitor 
+filed a comprehensive report on January 31, 2025 (dkt. 814) describing all work completed to 
+date regarding the analysis of LL42.  
+In late 2024, the City Council and Public Advocate brought suit against Mayor Adams 
+contending that his Emergency Orders suspending the implementation of LL42 were unlawful 
+(“the Article 78 litigation”).
+4 In February 2025, the Court issued an order advising the 
+Monitoring Team to cease any additional analytical work on LL42 until further directed by the 
+Court in light of the pending Article 78 litigation. See, February 5, 2025 Order (dkt. 815). The 
+Article 78 litigation was resolved in July 2025, with the finding that the Mayor’s Executive 
+Order suspending LL42 was improper. In response, the City sought a temporary injunction of 
+ 
+3 See the Court’s June 7, 2024 Order (dkt. 726), July 23, 2024 Order (dkt. 759), July 25, 2024 Order (dkt. 761), 
+October 25, 2024 Order (dkt. 791), July 2, 2025 (dkt. 875), August 19, 2025 (dkt. 896), and December 19, 2025 (dkt. 
+940). 
+4 See, Appendix G of the Monitor’s January 31, 2025 Report (dkt. 814).  
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 6 of 17
+4 
+certain provisions of LL42 in July 2025 from the Court in Nunez. The Court convened a status 
+conference and granted the temporary injunction on July 3, 2025 (dkt. 875). At that time, the 
+Court also advised the Monitoring Team to proceed with their work regarding areas where LL42 
+requirements were in conflict with the Nunez Court Orders. The injunction has since been 
+amended twice at the Monitor’s recommendation.5  
+UPDATE ON MONITORING TEAM’S WORK  
+The requirements of LL42 would require changes to the Department’s policies and 
+practices regarding the use of restraints, escorts, de-escalation, lock-in procedures and restricted 
+housing.  Each of these policy areas requires consultation and approval of the Monitor and, in 
+some cases, the Monitor may direct the “Department to refine the initiative(s) as necessary to 
+ensure compliance with [the Nunez Court Orders].  The Department must then implement the 
+revised initiative(s), including any additional requirements from the Monitor.”
+6   
+Since the Court’s status conference in July 2025, the Monitoring Team has continued to 
+carefully and thoughtfully consider the provisions of LL42, their interconnection with the Nunez 
+Court Orders and the Monitor’s approval obligations, has discussed these issues with the Nunez 
+Parties, and continues to carefully review multiple submissions from the Nunez Parties and the 
+Limited City Intervenors (collectively the “LL42 Parties”) that were provided in October and 
+November 2025.  
+ 
+5 The temporary injunction was modified on August 19, 2025 (dkt. 897) and on October 21, 2025 (dkt. 923). 
+6 This includes, but is not limited to, the following provisions of the Nunez Court Orders: Consent Judgment, § IV , ¶  
+1 and ¶ 3(p); First Remedial Order, § A, ¶ 3; Action Plan, § D, ¶ 3 and § E, ¶ 4; and August 10, 2023 Order, § I, ¶ 3 
+and § I, ¶ 4. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 7 of 17
+5 
+The analysis of the interplay between Nunez requirements and LL42 is complicated.7 
+Neither set of requirements allows for simple comparisons to identify elements that are directly 
+at odds with one another. The requirements of the Nunez Court Orders tend to be more global 
+and conceptual and, in many cases, leave specific policies and operational issues to be addressed 
+via consultation with and approval of the Monitor. On the other hand, LL42 requirements 
+regulate more discrete and specific elements of practice. Therefore, the analysis must look 
+holistically at the requirements of the Nunez Court Orders for the relevant functions (i.e., 
+managing individuals after serious acts of violence, restraints/escorts, de-escalation, and 
+emergency lock-ins), overlay the operational impact of the LL42 requirements to identify those 
+that may be discordant, and also understand and balance certain other requirements, such as 
+compliance with HALT, which is specifically required by the Nunez Court Orders.
+8  
+The practicality and feasibility of implementing a specific practice in this jail system at 
+this time and the likely outcomes from so doing must be evaluated and considered as part of the 
+Monitoring Team’s determination regarding approval/direction.  The Monitoring Team’s January 
+13, 2026 report brings into stark relief the extensive record of the Department’s dysfunction and 
+limited capabilities to manage the system in a manner consistent with sound correctional 
+practice.  Simply put, the Department lacks the foundation to support the basic reforms 
+required by the Nunez Court Orders. 
+The Monitoring Team’s work also reaffirms that the premature actions to repair 
+entrenched, foundational issues without a carefully conceived plan will only set the Department 
+ 
+7 The Monitoring Team’s framework for evaluating LL42 is described at pgs. 5 to 10 of the January 31, 2025 Report. 
+8 See Action Plan, § E, ¶ 4 which states the Department’s “housing and management strategy [for individual’s 
+following serious acts of violence] must comply with the HALT Act.” 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 8 of 17
+6 
+back further. The record is replete with examples of well-intended but hastily created plans from 
+the Department that were unsustainable and ultimately failed. The Monitoring Team must 
+continue to emphasize that the elimination of the dysfunctional foundational patterns and 
+practices underpinning the Department’s operations is an absolute prerequisite to achieving 
+safety in the system and sustained compliance with the broader Nunez Court Orders.  It also 
+requires the development of thoughtful plans that account for both the history and current 
+conditions in the jails to develop sustainable reform. This includes any reforms that may be 
+catalyzed by LL42.  
+All of these factors taken together reveal that certain provisions of LL42, as currently 
+designed, would undermine and are antithetical to the purpose of the Nunez Court Orders to 
+provide a “constitutionally sufficient level of safety for those who live and work on Rikers 
+Island”9 and would impede the Department’s ability to comply with the Nunez Court Orders. The 
+Monitoring Team’s concerns center around the universal application of certain requirements that 
+inherently require discretion or that impose heightened standards that are impractical or unsafe to 
+operationalize.  Accordingly, to the extent that the Monitor is required to approve10 or direct11 
+ 
+9 See Court’s November 27, 2024 Order (dkt. 803) at pg. 54. 
+10 “With respect to provisions of this Agreement that require the Monitor’s approval, the Monitor’s approval shall 
+not be unreasonably withheld.  Mere disagreement as to how best to achieve compliance with the terms of the 
+Agreement is not enough to withhold approval; such approval may only be withheld when the Monitor reasonably 
+believes that the Department’s proposal is not consistent with the terms of the Agreement or the purpose of the 
+relevant provision(s) and the requirements set forth in such provision(s).  The Monitor shall indicate in writing 
+whether the Monitor approves the Department’s proposal within 30 days of receiving the Department’s proposal.” 
+Consent Judgment, § XX, ¶ 26. 
+11 “The Department shall consult with the Monitor on the system, plans, and initiatives to improve security practices 
+as set forth in [Action Plan] § D., ¶ 2 of this order above.  If the Department’s proposed systems, plans or 
+initiative(s) fail to adequately and reasonably address the requirements of § D., ¶ 2 above, the Monitor, within 15 
+business days, must advise the Department in writing that the plan is insufficient to achieve compliance with the 
+provision.  The Monitor may direct the Department to refine the initiative(s) as necessary to ensure compliance with 
+the provision.  The Department must then implement the revised initiative(s), including any additional requirements 
+from the Monitor.” Action Plan § D., ¶ 3. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 9 of 17
+7 
+certain DOC practices that include the problematic components of LL42, the Monitor will not 
+approve or direct such practices absent modifications to those requirements.  Further, given the 
+Court’s Order bestowing authority over the Department’s Security Plan as well as the use of 
+restraints and escorts to the Remediation Manager (hereafter “RM”), the RM must necessarily be 
+engaged in any efforts related to these practices to ensure that they support the RM’s mandate to 
+achieve compliance with the Nunez Court Orders.  
+Finally, all of this work must also be considered within the context of a number of 
+material changes that impact the management and operation of the jails given the Court’s 
+December 18, 2025 Order regarding the appointment of a RM, the inauguration of a new Mayor 
+on January 1, 2026, and the Mayor’s recent direction to the City and DOC to working together 
+with the Monitor and the Parties to find a mutually agreeable approach to addressing the 
+requirements of LL42 and compliance with the Nunez Court Orders.  The forthcoming RM’s 
+authority over the Nunez Contempt provisions
+12 overlap with certain aspects of the requirements 
+of LL42 including those requirements related to the Department’s Security Plan, restraints, and 
+escorts.13 Accordingly, the Monitor strongly believes the RM must have the opportunity to be 
+substantively engaged in any work that is completed on these matters and consult with the 
+Monitoring Team and the Parties.   
+  
+ 
+12 See, for example, Consent Judgment, § IV , ¶ 1/3(p); Second Remedial Order ¶ 1(i)(a); Action Plan § D, ¶ 2(a) and 
+2(f). 
+13 As noted in the Court’s December 18, 2025 Order, the RM will also need to seek approval from the Monitor to the 
+extent required by the Contempt Provisions. See, December 18, 2025 Order at § V , ¶ G at pg. 30. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 10 of 17
+8 
+NEXT STEPS 
+ Given the complexity of this work, the conditions in the jails, and the material changes in 
+the management and operation of the jails, the Monitor believes it is premature to make any final 
+determinations regarding LL42, particularly given recent reports that the Parties are eager to 
+work together to try to find a pathway forward.  The Monitoring Team believes that additional 
+discussions with the LL42 Parties as well as key operators (and the RM, once appointed) are 
+needed to support the overarching goal of identifying agreement where possible and developing 
+an operationally feasible plan that ensures compliance with the Nunez Court Orders.  
+Accordingly, a report issued at this juncture would be both speculative and premature. The 
+Monitoring Team proposes the following next steps. 
+RECOMMENDATION 1: MONITOR SUBMISSION OF PRELIMINARY FINDINGS TO LL42 PARTIES 
+The Monitoring Team proposes confidentially providing the LL42 Parties with the 
+Monitoring Team’s preliminary and draft findings that identify specific conflicts with LL42 
+Provisions and the Nunez Court Orders. This submission would be provided under the same 
+terms that the Monitoring Team provides draft Monitor Reports,14 consistent with the Court’s 
+Orders.15 The Monitoring Team believes these draft findings and any corresponding discussions 
+must occur in a confidential manner because this work is dynamic and must allow for candid and 
+transparent discussions that facilitate the identification of potential areas of mutual agreement. 
+ 
+14 See docket entries 290 and 304.   
+15 Such an approach is also necessary to ensure compliance with the Monitor’s obligations pursuant to Consent 
+Judgment § XX, ¶ 28. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 11 of 17
+9 
+The Monitoring Team proposes providing this initial submission to the LL42 Parties no later than 
+January 29, 2026.16   
+RECOMMENDATION 2: STRUCTURE FOR MEET AND CONFER SESSIONS  
+The Monitoring Team believes that meet and confer sessions must be appropriately 
+sequenced and timed.  Following the Monitor’s initial submission described above, initial 
+meetings should take place to address structural and legal issues and identify priorities. However, 
+some of the topics to be discussed involve complex operational matters and will require direct 
+participation from those who will operate the jails for the foreseeable future. This will include 
+the RM. The timing for the meetings that must necessarily include the RM must ensure that the 
+RM is on-boarded and oriented to the Department, and that the RM has the necessary latitude to 
+appropriately prioritize the work that needs to be done to achieve compliance with the Contempt 
+Provisions.  These discussions should also include the Commissioner appointed by the new 
+Mayor. Accordingly, meetings must be appropriately prioritized and synchronized to ensure that 
+the RM can meaningfully participate in such meetings.  As it has done in the past, the Monitoring 
+Team is willing to schedule these meetings and ensure they are sequenced such that the necessary 
+players, including the RM, are in place for meetings that require their involvement. 
+R
+ECOMMENDATION 3: MONITOR UPDATE TO THE COURT 
+The Monitoring Team proposes, on the recommendation of the City, that a date certain is 
+set to provide the next update to the Court on the work underway.  The Monitoring Team 
+ 
+16 The Monitoring Team anticipates that additional submissions may be necessary as the Monitoring Team continues 
+its work and discusses these matters with the LL42 Parties.  The Monitoring Team believes all submissions made 
+during this process should be treated in the same confidential manner as the initial submission. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 12 of 17
+10 
+recommends this next update be provided by March 26, 2026.17  Further, as has been the 
+Monitoring Team’s practice, if updates are necessary in advance of the due date, they will be 
+provided.  To the extent necessary, the Monitor will include proposed recommendations for next 
+steps as well as any submissions the LL42 Parties and the RM may wish to include to 
+supplement the Monitor’s update.   
+RECOMMENDATION 4: SUSPEND THE DECEMBER 19, 2025 ORDER (DKT. 940) 
+Assuming the Court is amenable to the recommendations laid out above, the Monitoring 
+Team proposes that the Court’s December 19, 2025 Order (dkt. 940) outlining next steps is 
+suspended in order to adopt the three recommendations discussed above. 
+POSITION OF THE PARTIES 
+ The LL42 Parties share the following positions: 
+• Position of Defendants: Defendants agree with the Monitoring Team’ s proposal to 
+confidentially provide the LL42 parties with the Monitoring Team’ s preliminary and draft 
+findings that identify specific conflicts with LL42 provisions and the Nunez Court Orders 
+no later than January 29, 2026. 
+Defendants do not agree with the Monitoring Team’ s proposal for structuring the 
+meet and confer sessions insofar as the proposal delays having the parties meet and 
+confer on the substantive aspects of a plan to comply with LL42 until after the 
+appointment of a Remediation Manager. While defendants acknowledge that some 
+aspects of LL42 overlap with the contempt provisions that will fall within the 
+ 
+17 The Monitoring Team believes that March 26, 2026 versus the City’s proposed date of February 27, 2026 is a 
+more feasible date to provide an update as it will permit sufficient time to schedule and hold necessary meet and 
+confers meetings and also accommodates for various scheduling and logistical matters for the Monitoring Team. 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 13 of 17
+11 
+Remediation Manager’ s purview, defendants submit that stakeholders can begin 
+conferring with the goal of making as much progress as possible in the short 
+term.  Defendants are committed to engage with the Monitoring Team and the LL42 
+parties so that we can discuss and address concerns and move forward as quickly as 
+possible.  
+Defendants further appreciate the need for the Monitoring Team to provide updates to 
+the court, but respectfully submit that updates, which may be interim and not final, need 
+not wait until the appointment of a Remediation Manager. Therefore, defendants suggest 
+that the Monitor provide a status update to the court by February 27, 2026. 
+• Position of the Plaintiff Class: The Plaintiff Class agrees with the position of the City
+Defendants and Intervenors that there is no cause to delay meeting and conferring about
+implementation of Local Law 42.  The Plaintiff Class does not oppose the Monitor's
+request to provide its preliminary confidential report by January 29.
+• Position of the United States Attorneys’ Office: The SDNY agrees with Plaintiff Class’ 
+position. 
+• Position of the Limited City Intervenors: Please see the attached letter as Appendix A.
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 14 of 17
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A: 
+LETTER FROM LIMITED CITY 
+INTERVENORS 
+ 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 15 of 17
+ 
+ 
+Rob Rickner, Principal  |  (212) 300-6506  |  rob@rmcivilrights.com 
+ 
+ 
+RI CK NE R MOSK OVIT Z LLP 
+14  WA LL  ST R EET,  S UIT E 4C,  NEW  Y ORK,  NY  1000 5 
+Via Email 
+ 
+January 13, 2026 
+ 
+Monitoring Team 
+c/o Anna E. Friedberg, Deputy Monitor 
+Tillid LLC 
+(646) 895-6567  
+afriedberg@tillidgroup.com 
+ 
+Re: Response to the Monitoring Team’s Proposed Next Steps 
+ 
+Monitoring Team, 
+ 
+The Council and Public Advocate believe that the approach and framework currently in 
+place (Dkt. 940) should remain in place. The Monitoring Team proposed this approach on 
+July 16, 2025 after a lengthy meet-and-confer between all parties and intervenors (Dkt. 883 
+at 16-17). The plaintiffs and defendants largely agreed to this framework at that time (see 
+id.)—and not a single person or entity suggested that the analysis or implementation of 
+Local Law 42 should wait until after the Remediation Manager was appointed.  
+ 
+In August 2025, the Court ordered the parties to follow the approach that the Monitoring 
+Team had laid out in its July 16, 2025 submission. That Court order required that (i) the 
+Monitoring Team issue its final report on Local Law 42 by October 15, 2025, (ii) the parties 
+meet and confer within three weeks of receiving that report, and (iii) the Monitoring team 
+identify any outstanding disputes, and propose a briefing schedule, within 5 days after the 
+meet-and-confer (Dkt. 896). This framework was preserved at the urging of the Monitor, 
+with the consent of all plaintiffs and defendants, in four subsequent orders that made only 
+modest adjustments to the deadlines (Dkts. 903, 914, 930, 940).  
+ 
+All parties and intervenors have relied on this approach and framework, for months. For 
+example, the parties promptly and diligently engaged in detailed substantive analysis in 
+response to the Monitor's various questions. The Council and the Public Advocate also 
+made litigation decisions (such as forgoing appeals) in reliance on this framework. Had the 
+Council and Public Advocate been informed months ago that the Court’s July 2025 TRO 
+would remain in place indefinitely, without any substantive changes, until the 
+Remediation Manager was appointed and brought up to speed, the Council and Public 
+Advocate would have sought immediate judicial relief because the Prison Litigation 
+Reform Act clearly prevents such lingering “preliminary” relief. 18 U.S.C. § 3626(a)(2).  
+ 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 16 of 17
+ 
+  
+ 
+RI CK NE R MOSK OVITZ LLP 
+Rob Rickner, Principal  |  (212) 300-6506  |  rob@rmcivilrights.com 
+ 
+ 2 
+There is no sound basis for the Monitor's new request to delay—likely for multiple 
+months—the parties' ability to put into place a concrete plan to implement Local Law 42. 
+The only thing that has changed in the past week was the inauguration of a new Mayor. 
+Under the new Mayor, the parties to Nunez are likely closer together, not further apart, 
+when it comes to the requirements of Local Law 42.  The new Mayor has recognized the 
+importance of the reforms required by Local Law 42 and urged that implementation of the 
+law be done as soon as possible.1  There should be fewer disagreements, not more, between 
+the parties about Local Law 42 going forward. And that fact provides no basis to delay 
+tackling these critical issues; if anything, it increases the likelihood of prompt, cooperative 
+action.  
+ 
+Nor does the prospect of a Remediation Manager's selection provide any justification for 
+jettisoning the Court-ordered framework that has been in place for months. Everyone has 
+long known that a Remediation Manager is likely to be selected soon. Indeed, that fact was 
+already considered when deciding the approach that is currently in place (e.g., Dkt. 883 at 
+13 (Monitor's July 2025 proposed framework for addressing Local Law 42, which expressly 
+recognized the Remediation manager's future involvement in this litigation)). The future 
+involvement of a Remediation Manager provides no good reason to put off planning now, 
+as the Monitoring Team itself tacitly recognized when it formulated the framework that is 
+currently in place. Furthermore, the Monitoring Team's sudden change of plans rests on 
+hypothetical disagreements with the Remediation Manager that may never materialize; 
+and such hypothetical disagreements provide no basis for further delay. The parties, who 
+are experts in DOC operations, are ready to plan for implementing Local Law 42 right now. 
+And they can certainly do so before the Remediation Manager is selected. 
+ 
+ 
+Sincerely, 
+ 
+      /s/ 
+ 
+Rob Rickner 
+Attorney for the New York City Council  
+and Public Advocate Jumaane Williams 
+ 
+ 
+1 https://www.nyc.gov/mayors-office/news/2026/01/mayor-mamdani-signs-two-emergency-
+executive-orders 
+Case 1:11-cv-05845-LTS     Document 949     Filed 01/14/26     Page 17 of 17

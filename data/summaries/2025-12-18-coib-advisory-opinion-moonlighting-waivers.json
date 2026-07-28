@@ -1,0 +1,51 @@
+{
+  "id": "2025-12-18-coib-advisory-opinion-moonlighting-waivers",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Report on the New York City Conflicts of Interest Board's Advisory Opinion and Moonlighting Waiver Practices",
+  "plain_title": "Ethics board quietly cleared a top official's second job",
+  "agency": "New York City Conflicts of Interest Board",
+  "issued": "2025-12-18",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined how the New York City Conflicts of Interest Board (COIB) interprets the city Conflicts of Interest Law's \"moonlighting restrictions\" and whether COIB makes its advisory opinions public as the law requires.",
+  "background": "The city's Conflicts of Interest Law, known as Chapter 68, generally prohibits full-time city employees from holding second jobs with firms that do business with the city. DOI looked into the issue after learning COIB issued an advisory opinion letting First Deputy Mayor Randy Mastro continue serving as an outside attorney for the Madison Square Garden Group (MSG) in a lawsuit against a former New York Knicks player.",
+  "findings": [
+    {
+      "plain": "DOI found no legal authority supporting COIB's apparent position that the moonlighting restrictions do not apply to city-employed attorneys acting as outside counsel to entities with city business, and concluded COIB overlooked those restrictions in the Mastro opinion.",
+      "quote": "DOI is unaware of any legal authority supporting COIB’s view and found that COIB overlooked the \nlaw’s “moonlighting restrictions” in its advisory opinion issued to First Deputy Mayor Mastro."
+    },
+    {
+      "plain": "DOI's position, based on the plain language of Chapter 68, is that COIB could only have permitted the arrangement through a public waiver, which would have disclosed both the attorney-client relationship and COIB's permission. Instead COIB issued what it considered a confidential advice letter.",
+      "quote": "it is DOI’s position, supported by the plain language of Chapter 68,  that the law requires \nCOIB to do so via public waiver."
+    },
+    {
+      "plain": "COIB does not comply with Chapter 68's requirement to publish advisory opinions in redacted form and has not published one since 2018 despite issuing hundreds of written opinions since then.",
+      "quote": "has not done so since 2018 despite having issued hundreds of written advisory opinions since then."
+    },
+    {
+      "plain": "The fact that COIB cleared the first deputy mayor to represent a powerful local business became public only through the press and litigation, which DOI said points to COIB operating less transparently than the law envisions.",
+      "quote": "COIB is operating in a less transparent manner \nthan Chapter 68 envisions."
+    },
+    {
+      "plain": "DOI did not investigate Mastro himself, noting he continued the representation only after obtaining COIB's permission and was entitled to rely on the board's advice even though DOI believes that advice was legally flawed.",
+      "quote": "Mastro was entitled to rely on the advice he received from COIB, even though \nDOI believes that the advice was legally flawed."
+    }
+  ],
+  "numbers": [
+    {"value": "2018", "label": "Last year COIB published a redacted advisory opinion"},
+    {"value": "five", "label": "Recommendations DOI issued to COIB"}
+  ],
+  "recommendations": [
+    "COIB should review the advice it gave First Deputy Mayor Mastro on his MSG representation to ensure it is consistent with the moonlighting restrictions, and amend the advice and issue a waiver if appropriate.",
+    "COIB should review its previously issued advisory opinions to determine whether it has permitted other city-employed attorneys to represent private firms with city business, and where that conduct is ongoing, reconsider and amend the advice and issue waivers if appropriate.",
+    "Alternatively, if COIB maintains that the moonlighting restrictions apply only to in-house attorneys of firms with city business, it should issue a formal rule saying so.",
+    "COIB should publish waivers on its website in a searchable format so the public does not need to file Freedom of Information Law requests to see them.",
+    "COIB should comply with the City Charter's requirement to publish its advisory opinions, including the March 2025 Mastro opinion, either with redactions or as summaries omitting the parties' identities."
+  ],
+  "agency_response": "DOI noted that the board has already implemented some changes in response to its review, particularly changes to COIB's website concerning its advice practices. COIB takes the position that its advisory opinions are confidential and would not produce them to DOI.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["transparency"],
+  "is_followup": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "audit-report-on-estate-asset-identification-and-management-practices-of-the-kings-county-public-administrators-office",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on Estate Asset Identification and Management Practices of the Kings County Public Administrator’s Office",
+  "plain_title": "Weak safeguards for estates at Brooklyn's public administrator",
+  "agency": "Kings County Public Administrator's Office",
+  "issued": "2025-02-28",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-estate-asset-identification-and-management-practices-of-the-kings-county-public-administrators-office/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/03/MJ23-102A.pdf",
+  "what_they_audited": "Whether the Kings County Public Administrator's Office (KCPA), which administers the estates of Brooklyn residents who die without a will or without heirs willing or able to act, properly researched and identified decedents' assets and accurately accounted for and safeguarded estate assets.",
+  "background": "New York City has five public administrators, each appointed by the judges of their county's Surrogate's Court. During the period of January 2022 through June 2023, KCPA had 14,258 active estate cases and was managing $106,204,541 in cash for 4,810 estates in interest-bearing bank accounts.",
+  "findings": [
+    {
+      "plain": "KCPA does not reliably collect or document decedents' personal property. Sixteen of 109 security bags in its vault had no intake sheets, 60 items flagged as missing in a 2019 search were still unaccounted for and staff could not open a safe in the office because no one knows the combination.",
+      "quote": "the auditors found no intake sheets attached to 16 of the 109 (15%) security bags"
+    },
+    {
+      "plain": "At KCPA's warehouse, items were generally untagged and auditors could not find items matching 12 of 15 sampled estates' inventory entries. Paintings were falling apart and goods were covered in dust.",
+      "quote": "the items in the warehouse were all stored haphazardly and in a manner that provided inadequate protection from breakage or from deterioration"
+    },
+    {
+      "plain": "Property sits unsold for years. Among dated inventory entries, 92% entered storage more than five years ago, and 84 entries of stocks, bonds and other financial instruments remained unliquidated, nearly half of them for more than a decade.",
+      "quote": "1,096 (92%) of the remaining entries indicate that items entered the inventory more than five years ago"
+    },
+    {
+      "plain": "KCPA identified assets worth $580,162 belonging to eight sampled estates but never collected them, skipped required inquiries to 26 financial institutions and left even the unclaimed funds it found at the state comptroller uncollected.",
+      "quote": "Files for eight sampled estates indicated that assets valued at $580,162 were identified by KCPA, but auditors found no evidence that the assets were collected and deposited into the estate accounts."
+    },
+    {
+      "plain": "Funds totaling $2,556,205 from 676 closed estate cases were never distributed to heirs or the city, and two dormant accounts holding a combined $375,100 have been untouched since 2010.",
+      "quote": "When closed, the associated fund balances totaled $2,556,205."
+    },
+    {
+      "plain": "Real estate oversight was poor. Property lists were inaccurate, one property sold for $60,420 below its appraised value, a Brooklyn sale was recorded under a Manhattan address and three properties were sold after KCPA's temporary letters of administration had expired, bringing into question the legality of those sales.",
+      "quote": "three of the sold properties were sold after the temporary Letters of Administration given to KCPA by the Surrogate’s Court had expired"
+    },
+    {
+      "plain": "There is a massive backlog: over 10,000 estates had been open more than five years, most without an assigned case manager, and KCPA filed inaccurate or incomplete reports to the Surrogate's Court and the state and city comptrollers.",
+      "quote": "More than 70% of estates active during the audit scope period had been open for more than five years, and more than half of those had not yet been assigned a case manager."
+    }
+  ],
+  "numbers": [
+    {"value": "$580,162", "label": "Identified estate assets that were never collected"},
+    {"value": "$2,556,205", "label": "Funds from closed estates never distributed"},
+    {"value": "14,258", "label": "Active estate cases during the audit period"},
+    {"value": "10,259", "label": "Cases open for more than five years"},
+    {"value": "$106,204,541", "label": "Cash KCPA managed for 4,810 estates"},
+    {"value": "$60,420", "label": "Amount one property sold below its appraised value"}
+  ],
+  "recommendations": [
+    "Develop a systematic process for clearing the backlog of pending cases, including prioritizing cases by age and value, identifying all related assets, liquidating them and closing cases out.",
+    "If feasible, consider hiring vendors to help, including consultant case managers, organizers to link assets to the correct estates, temporary staff to process financial assets and auctioneers to speed the sale of long-held property.",
+    "Consider asking OMB to increase KCPA's budget to hire the additional staff needed for effective case management, backlog reduction and a reasonable pace of administering and closing estates.",
+    "Maintain an accurate and detailed master inventory of all decedents' personal property and record all of it in the decedents' accounts in the CompuTrust case management system.",
+    "Ensure all personal property is inventoried and tagged with the estate number or decedent's name when placed in the vault or warehouse, stored in an organized manner and protected from damage.",
+    "Ensure staff follow estate administration policies and procedures, including required searches for decedents' assets, with adequate documented oversight.",
+    "Hire a locksmith to open the safe with the unknown combination, account for the coins listed as stored there and reset the code if the safe stays in use.",
+    "As funding allows, consider getting appraisals for certain personal property before auctions and record the appraised values in inventory records and CompuTrust.",
+    "Routinely check the New York State Comptroller's unclaimed funds office for potential estate assets, conduct new searches every six months until a case closes and its funds are distributed and keep documentation of unclaimed funds in estate files.",
+    "Collect all personal and real property known to belong to decedents and record it in the appropriate estate accounts in CompuTrust.",
+    "Obtain appraisals before selling properties to establish fair market value and keep all sale documentation, including advertisements, offers and auction records, in estate files and CompuTrust.",
+    "Keep all documentation on identifying, collecting and depositing funds and other assets in the estate case file and in CompuTrust.",
+    "Maintain an accurate running master list of all decedents' real estate holdings and record every property in decedents' CompuTrust accounts.",
+    "Ensure legal documents are completed correctly during real property sales and that sales are accurately recorded in the right property database, such as the city's Automated City Register Information System (ACRIS), and in decedents' accounts.",
+    "Keep all case-related documents and information in the estate case files and in CompuTrust.",
+    "Establish written policies and procedures giving staff detailed guidance, consistent with the Surrogate's Court Procedure Act and state public administrator guidelines, for performing their duties.",
+    "Collect the information needed to use CompuTrust to track cases and monitor lengthy delays in administering any estate.",
+    "Accurately report required estate information to the Surrogate's Court, the New York State Comptroller's Office and the New York City Comptroller's Office."
+  ],
+  "agency_response": "In its February 3, 2025 written response, KCPA generally agreed with all 18 recommendations, though it said hiring vendors to clear the backlog \"is currently not feasible without additional funding and resources.\"",
+  "implementation_note": "This is not a follow-up, but the report notes that five comptroller audits of KCPA since 2005 flagged similar issues, and that a June 2015 follow-up audit found many of the earlier recommendations were not implemented.",
+  "topics": ["money and contracts", "transparency"],
+  "is_followup": false
+}

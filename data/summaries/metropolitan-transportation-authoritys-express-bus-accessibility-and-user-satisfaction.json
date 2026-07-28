@@ -1,0 +1,65 @@
+{
+  "id": "metropolitan-transportation-authoritys-express-bus-accessibility-and-user-satisfaction",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Metropolitan Transportation Authority’s Express Bus Accessibility and User Satisfaction",
+  "plain_title": "Express buses often fail riders who use wheelchairs",
+  "agency": "Metropolitan Transportation Authority",
+  "issued": "2025-03-18",
+  "url": "https://comptroller.nyc.gov/reports/metropolitan-transportation-authoritys-express-bus-accessibility-and-user-satisfaction/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MTAs-Express-Bus-Accessibiltiy-and-User-Satisfaction.pdf",
+  "what_they_audited": "Whether the Metropolitan Transportation Authority's (MTA) express buses are accessible to riders with disabilities and how satisfied riders are with the service. The review drew on surveys of 458 riders, roundtables with disability advocates and field observations in which wheelchair users attempted to board 25 express buses across all five boroughs.",
+  "background": "The MTA runs 79 express bus routes between Manhattan and the outer boroughs, many serving neighborhoods without rail service. Unlike low-floor local buses with front-door ramps, express buses are high-floor coaches that wheelchair users can board only via an external lift that the driver must exit the bus to operate.",
+  "findings": [
+    {
+      "plain": "Wheelchair users could not board six of the 25 express buses tested, either because of lift problems or because drivers failed to stop and pick them up. Some riders had to wait up to an hour before they could board a bus.",
+      "quote": "Wheelchair users were unable to board six of the 25 (24%) buses"
+    },
+    {
+      "plain": "Even when boarding succeeded, nearly half of the boardings were delayed, and the Bus Command Center (BCC) did not send required assistance to any of the drivers struggling with lifts.",
+      "quote": "Of the 19 instances in which wheelchair users were able to board express buses, nine (47.4%) were delayed."
+    },
+    {
+      "plain": "In 16 of 19 boardings, drivers did not correctly position wheelchairs on the lift or properly secure them inside the bus, and drivers failed to announce stops in nine of 19 instances, a violation of the Americans with Disabilities Act (ADA) and MTA rules.",
+      "quote": "drivers did not correctly position wheelchairs on the lift and/or properly secure wheelchairs once the riders were inside the bus"
+    },
+    {
+      "plain": "Riders traveling to or from Staten Island, which relies heavily on express buses to reach Manhattan, fared worst: wheelchair users could not board half of the sampled buses there.",
+      "quote": "wheelchair users were unable to board five of the 10 (50%) sampled express buses traveling to or from Staten Island"
+    },
+    {
+      "plain": "MTA data shows wheelchair lift use on express buses is rare, about 208 deployments per million rides versus about 3,046 on local buses, supporting reports that wheelchair users avoid express buses because of unreliable service and safety concerns.",
+      "quote": "People who use wheelchairs are 15 times more likely to ride a local bus than an express bus, an enormous disparity."
+    },
+    {
+      "plain": "Training and oversight are inadequate. Despite the MTA saying it increased lift training, several drivers said they had been trained on the lift only once or were operating it for the first time.",
+      "quote": "several express bus drivers stated that they were trained only once on wheelchair lift operation, or that this was their first time operating the lift"
+    },
+    {
+      "plain": "Since 2018 the MTA has piloted only one potentially viable ramp-equipped express bus design and did not adopt it despite positive feedback from wheelchair users, and it surveyed more than 1,000 general riders about new designs but only 10 wheelchair users.",
+      "quote": "since 2018, the MTA has piloted only one potentially viable ramp-equipped express bus design"
+    }
+  ],
+  "numbers": [
+    {"value": "24%", "label": "Sampled express buses wheelchair users could not board"},
+    {"value": "47.4%", "label": "Successful boardings that were delayed"},
+    {"value": "84.2%", "label": "Boardings where wheelchairs weren't properly secured"},
+    {"value": "15 times", "label": "How much likelier wheelchair users are to ride local buses"},
+    {"value": "$7.00", "label": "Express bus fare, compared with $2.90 on local buses"},
+    {"value": "16,516", "label": "Express bus trips canceled, January through September 2024"}
+  ],
+  "recommendations": [
+    "Immediately conduct refresher trainings on wheelchair lift operation and on Americans with Disabilities Act and MTA requirements for serving people with disabilities, including informing the Bus Command Center of lift issues, safely boarding customers, securing wheelchairs, making stop announcements and appropriate etiquette.",
+    "Ensure all express bus drivers receive annual hands-on training in operating wheelchair lifts and give drivers field instructions for the lifts.",
+    "Report express bus wheelchair lift deployments separately, including the number of failed and successful deployments.",
+    "Pilot additional low-floor entry buses or other accessible designs and consider adopting them as vehicles are retired.",
+    "Make meaningful efforts to engage the accessibility community on new bus designs, including in selecting pilots and features, and involve enough people with disabilities that their feedback can be projected to the population.",
+    "Compare scheduled pickup and drop-off times to actual times and revise schedules so they are realistic and as accurate as possible.",
+    "Address driver shortages and mechanical failures to minimize the impact of cancelations, and if shortages cannot be addressed, revise service schedules to minimize cancelations.",
+    "Improve the MTA's communication apps so they give customers accurate and timely information on service alerts, bus locations and estimated arrival times."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "topics": ["transportation"],
+  "is_followup": false
+}

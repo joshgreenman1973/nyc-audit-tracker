@@ -1,0 +1,58 @@
+{
+  "id": "2025-12-03-nypd-compliance-sanctuary-laws",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement",
+  "plain_title": "One of five incidents broke immigration cooperation limits",
+  "agency": "New York City Police Department",
+  "issued": "2025-12-03",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined the New York City Police Department's (NYPD) compliance with local laws and executive orders restricting assistance with federal civil immigration enforcement, investigating five specific incidents and the department's related policies.",
+  "background": "The investigation was prompted by a June 2025 referral from City Council Speaker Adrienne Adams and Oversight and Investigations Committee Chair Gale Brewer after media reports raised questions about NYPD involvement in civil immigration enforcement. City laws limit such assistance while permitting cooperation with federal criminal investigations.",
+  "findings": [
+    {
+      "plain": "DOI concluded that NYPD's current policies, particularly as strengthened by reforms in 2025, comply with city law, but identified one incident of five in which an officer violated local law by assisting federal civil immigration enforcement.",
+      "quote": "DOI identified one incident in which an officer violated local law  by providing assistance to federal \nauthorities in connection with enforcement of the federal civil immigration law"
+    },
+    {
+      "plain": "In November 2024, an NYPD officer on a Homeland Security Investigations task force placed alerts on a list of people subject to potential civil immigration enforcement so he would be emailed if they interacted with the NYPD, violating policy and local law. The officer was removed from the task force and discipline is ongoing.",
+      "quote": "The officer honored that request in \nviolation of NYPD policy and local law."
+    },
+    {
+      "plain": "In three other incidents, including the transfer of Merwil Gutiérrez Flores to Federal Bureau of Investigation custody and the disclosure of Leqaa Kordia's sealed arrest records, DOI found no violation of the sanctuary laws, though the Kordia records should not have been shared because they were sealed.",
+      "quote": "the prior arrest information should not have been disclosed to HSI because the arrest records were \nsealed."
+    },
+    {
+      "plain": "NYPD does not comply with Local Law 228, which requires documenting each request for assistance with civil immigration enforcement: its documentation is underinclusive and it does not send all required information to the Mayor's Office of Immigrant Affairs for quarterly reports.",
+      "quote": "the NYPD does not comply with this law, because its documentation of requests is \nunderinclusive and does not contain the level of detail required by local law and other City policies."
+    },
+    {
+      "plain": "NYPD has not adopted a policy limiting non-local law enforcement agents' access to city property as Local Law 246 of 2017 requires, though it began drafting one when DOI raised the issue. It does comply with Local Law 59's annual detainer reporting requirement.",
+      "quote": "DOI found that the NYPD has not \nadopted such a policy, apart from general policy statements prohibiting the use of City property to \nassist in immigration enforcement"
+    },
+    {
+      "plain": "Gaps in NYPD's policies, including detainer rules that cover only formal paperwork from civil immigration agents and four inconsistent policy documents, raise the risk of improper information sharing or assistance.",
+      "quote": "found gaps in the NYPD’s current policies and practices that raise the risk of  \nimproper information sharing or assistance to federal authorities for purposes of civil immigration enforcement"
+    }
+  ],
+  "numbers": [
+    {"value": "five", "label": "Incidents DOI investigated"},
+    {"value": "one", "label": "Incident where an officer violated local law"},
+    {"value": "seven", "label": "Recommendations issued, all accepted by NYPD"}
+  ],
+  "recommendations": [
+    "Amend NYPD policies to require enhanced review of all custody transfers to federal agents, not only transfers to federal civil immigration agents presenting formal detainer paperwork.",
+    "Adopt a standalone policy on custodial transfer requests from federal agents covering which requests are subject to the policy, what documentation to collect, which NYPD division handles them and the standards for deciding whether to honor them.",
+    "Improve policies for processing federal assistance requests with guidance on assessing whether a request is for civil immigration enforcement and routing requests about unknown subjects, and require task force officers to document their verification steps.",
+    "Provide officers further training on when and how to report and document requests for assistance from federal law enforcement.",
+    "Improve recordkeeping and reporting under Local Law 228, including recording the nature of each request, the requesting agency and the NYPD's response, and reporting non-detainer requests to the Mayor's Office of Immigrant Affairs.",
+    "Conduct an email audit of NYPD members assigned to federal task forces to ensure their compliance with local law.",
+    "Adopt guidelines implementing Local Law 246 of 2017, which requires restricting non-local law enforcement officers' access to city property."
+  ],
+  "agency_response": "NYPD accepted all seven recommendations. It had already tightened scrutiny of federal justifications after the Kordia incident, removed the task force officer who placed the alerts and began drafting a Local Law 246 policy when DOI flagged the gap.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

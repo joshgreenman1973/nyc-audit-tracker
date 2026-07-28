@@ -1,64 +1,82 @@
 {
-  "id": "audit-report-on-department-for-the-agings-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
-  "source": "nyc",
-  "auditor": "New York City Comptroller",
-  "title": "Audit Report on Department for the Aging’s Oversight of Prime Vendors’ Use of Subcontractors on Health and Human Services Contracts",
-  "plain_title": "Weak oversight of subcontractors on senior services contracts",
-  "agency": "New York City Department for the Aging",
-  "issued": "2025-09-25",
-  "url": "https://comptroller.nyc.gov/reports/audit-report-on-department-for-the-agings-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts/",
-  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/DFTA_FP24-066A.pdf",
-  "what_they_audited": "Whether the Department for the Aging (NYC Aging) properly oversees the subcontractors its prime contractors hire on health and human services contracts, such as caterers serving meals at senior centers, to reduce the risk of fraud, misuse and waste of city funds.",
-  "background": "NYC Aging contracts with nonprofit and for-profit providers, called prime vendors, that sometimes hire subcontractors to deliver services like meals for older adults. Because the city has no direct contract with subcontractors, it relies on agencies to make sure primes get approval before hiring them, and this audit is one of a series covering five health and human services agencies prompted by a 2021 Department of Investigation report on corruption vulnerabilities in nonprofit human services contracts.",
-  "findings": [
-    {
-      "plain": "Prime vendors paid $2,251,857 to six subcontractors that NYC Aging never approved during fiscal years 2022 through 2024, and the agency has no way to independently confirm which subcontractors its vendors are using.",
-      "quote": "unapproved subcontractors received more than $2.2 million in payments from prime contractors"
-    },
-    {
-      "plain": "Even for approved subcontractors, auditors found no proof the agency vetted them. NYC Aging supplied a spreadsheet checklist of claimed background checks but no supporting evidence, and it did not enforce competitive bidding, with no bids on file for two of the four subcontracts that required them.",
-      "quote": "the auditors did not find any evidence, such as documents, to indicate that vetting and background checks were conducted by NYC Aging"
-    },
-    {
-      "plain": "Subcontractors were not consistently recorded in the Payee Information Portal (PIP), the city system meant to track them. For sampled subcontracts, approval in the system came 29 to 215 days after the subcontract's start date.",
-      "quote": "delays in approval ranged from 29 to 215 days after the subcontract start date"
-    },
-    {
-      "plain": "The agency has no mechanism to make sure subcontractors get paid on time. For one sampled contract, 47 of 53 invoices from a meals subcontractor were paid more than 30 days after the invoice date, with delays running as long as 580 days past the 30-day target.",
-      "quote": "47 (89%) of the invoices were paid more than 30 days after the subcontractor’s invoice date"
-    },
-    {
-      "plain": "NYC Aging paid primes $381,700 to reimburse subcontractor expenses that the primes had never actually paid. Two caterers complained of nonpayment, and one prime vendor still owes a caterer $224,790 for meals delivered to homebound seniors.",
-      "quote": "the audit found that NYC Aging paid primes almost $400,000 for subcontractor expenses that had not actually been paid"
-    },
-    {
-      "plain": "Six of the seven recommendations the Department of Investigation (DOI) made in 2021 about agency oversight of subcontractors have not been implemented, with the agency saying it is waiting for guidance from the Mayor's Office of Contract Services (MOCS).",
-      "quote": "NYC Aging has not implemented six of the seven agency-directed recommendations related to oversight of subcontractors"
-    },
-    {
-      "plain": "Only 4.9 percent of the $2.3 million paid to for-profit subcontractors on sampled contracts went to Minority and Women-Owned Business Enterprises (M/WBEs), just one of the nine for-profit subcontractors was certified, and missing records made a broader analysis impossible.",
-      "quote": "Payments made to the M/WBE from FY2023 through FY2024 totaled $113,819—4.9% of the total $2.3 million paid to the nine for-profit subcontractors"
-    }
-  ],
-  "numbers": [
-    {"value": "$2,251,857", "label": "Paid to unapproved subcontractors, fiscal 2022-2024"},
-    {"value": "$381,700", "label": "Reimbursed to primes for subcontractor bills never paid"},
-    {"value": "$224,790", "label": "Still owed to a caterer feeding homebound seniors"},
-    {"value": "215 days", "label": "Longest delay approving a subcontractor in city systems"},
-    {"value": "4.9%", "label": "Share of for-profit subcontractor spending going to M/WBEs"}
-  ],
-  "recommendations": [
-    "Prevent payments to unapproved subcontractors by carefully reviewing invoices from prime vendors, periodically reviewing their general ledgers and requesting and reviewing subcontractors' agreements and invoices.",
-    "Make sure prime vendors submit subcontractor information, including subcontract agreements and payment information, in PASSPort as required.",
-    "Document the process of vetting proposed subcontractors and running background checks.",
-    "Make sure prime vendors use competitive bidding when selecting subcontractors.",
-    "Review subcontract agreements for prompt payment terms and make sure prime contractors pay their subcontractors according to those terms.",
-    "Make sure costs for subcontractor goods and services were actually incurred by prime vendors before the city reimburses them.",
-    "Implement DOI's 2021 recommendations to city agencies and comply with the policies and directives MOCS and the Mayor's Office of Risk Management and Compliance created to guide that work.",
-    "Consider increasing use of M/WBE contractors and encourage prime vendors to increase their use of M/WBE subcontractors."
-  ],
-  "agency_response": "NYC Aging did not submit a written response to the draft report or its recommendations, saying on June 13, 2025 that it had no response to the report.",
-  "implementation_note": "",
-  "topics": ["seniors", "money and contracts"],
-  "is_followup": false
+ "id": "audit-report-on-department-for-the-agings-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Audit Report on Department for the Aging’s Oversight of Prime Vendors’ Use of Subcontractors on Health and Human Services Contracts",
+ "plain_title": "Weak oversight of subcontractors on senior services contracts",
+ "agency": "New York City Department for the Aging",
+ "issued": "2025-09-25",
+ "url": "https://comptroller.nyc.gov/reports/audit-report-on-department-for-the-agings-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/DFTA_FP24-066A.pdf",
+ "what_they_audited": "Whether the Department for the Aging (NYC Aging) properly oversees the subcontractors its prime contractors hire on health and human services contracts, such as caterers serving meals at senior centers, to reduce the risk of fraud, misuse and waste of city funds.",
+ "background": "NYC Aging contracts with nonprofit and for-profit providers, called prime vendors, that sometimes hire subcontractors to deliver services like meals for older adults. Because the city has no direct contract with subcontractors, it relies on agencies to make sure primes get approval before hiring them, and this audit is one of a series covering five health and human services agencies prompted by a 2021 Department of Investigation report on corruption vulnerabilities in nonprofit human services contracts.",
+ "findings": [
+  {
+   "plain": "Prime vendors paid $2,251,857 to six subcontractors that NYC Aging never approved during fiscal years 2022 through 2024, and the agency has no way to independently confirm which subcontractors its vendors are using.",
+   "quote": "unapproved subcontractors received more than $2.2 million in payments from prime contractors"
+  },
+  {
+   "plain": "Even for approved subcontractors, auditors found no proof the agency vetted them. NYC Aging supplied a spreadsheet checklist of claimed background checks but no supporting evidence, and it did not enforce competitive bidding, with no bids on file for two of the four subcontracts that required them.",
+   "quote": "the auditors did not find any evidence, such as documents, to indicate that vetting and background checks were conducted by NYC Aging"
+  },
+  {
+   "plain": "Subcontractors were not consistently recorded in the Payee Information Portal (PIP), the city system meant to track them. For sampled subcontracts, approval in the system came 29 to 215 days after the subcontract's start date.",
+   "quote": "delays in approval ranged from 29 to 215 days after the subcontract start date"
+  },
+  {
+   "plain": "The agency has no mechanism to make sure subcontractors get paid on time. For one sampled contract, 47 of 53 invoices from a meals subcontractor were paid more than 30 days after the invoice date, with delays running as long as 580 days past the 30-day target.",
+   "quote": "47 (89%) of the invoices were paid more than 30 days after the subcontractor’s invoice date"
+  },
+  {
+   "plain": "NYC Aging paid primes almost $400,000 to reimburse subcontractor expenses that the primes had never actually paid. Two caterers complained of nonpayment, and one prime vendor still owes a caterer $224,790 for meals delivered to homebound seniors.",
+   "quote": "the audit found that NYC Aging paid primes almost $400,000 for subcontractor expenses that had not actually been paid"
+  },
+  {
+   "plain": "Six of the seven recommendations the Department of Investigation (DOI) made in 2021 about agency oversight of subcontractors have not been implemented, with the agency saying it is waiting for guidance from the Mayor's Office of Contract Services (MOCS).",
+   "quote": "NYC Aging has not implemented six of the seven agency-directed recommendations related to oversight of subcontractors"
+  },
+  {
+   "plain": "Only 4.9 percent of the $2.3 million paid to for-profit subcontractors on sampled contracts went to Minority and Women-Owned Business Enterprises (M/WBEs), just one of the nine for-profit subcontractors was certified, and missing records made a broader analysis impossible.",
+   "quote": "Payments made to the M/WBE from FY2023 through FY2024 totaled $113,819—4.9% of the total $2.3 million paid to the nine for-profit subcontractors"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$2,251,857",
+   "label": "Paid to unapproved subcontractors, fiscal 2022-2024"
+  },
+  {
+   "value": "almost $400,000",
+   "label": "Paid to primes for subcontractor bills not actually paid"
+  },
+  {
+   "value": "$224,790",
+   "label": "Still owed to a caterer feeding homebound seniors"
+  },
+  {
+   "value": "215 days",
+   "label": "Longest delay approving a subcontractor in city systems"
+  },
+  {
+   "value": "4.9%",
+   "label": "Share of for-profit subcontractor spending going to M/WBEs"
+  }
+ ],
+ "recommendations": [
+  "Prevent payments to unapproved subcontractors by carefully reviewing invoices from prime vendors, periodically reviewing their general ledgers and requesting and reviewing subcontractors' agreements and invoices.",
+  "Make sure prime vendors submit subcontractor information, including subcontract agreements and payment information, in PASSPort as required.",
+  "Document the process of vetting proposed subcontractors and running background checks.",
+  "Make sure prime vendors use competitive bidding when selecting subcontractors.",
+  "Review subcontract agreements for prompt payment terms and make sure prime contractors pay their subcontractors according to those terms.",
+  "Make sure costs for subcontractor goods and services were actually incurred by prime vendors before the city reimburses them.",
+  "Implement DOI's 2021 recommendations to city agencies and comply with the policies and directives MOCS and the Mayor's Office of Risk Management and Compliance created to guide that work.",
+  "Consider increasing use of M/WBE contractors and encourage prime vendors to increase their use of M/WBE subcontractors."
+ ],
+ "agency_response": "NYC Aging did not submit a written response to the draft report or its recommendations, saying on June 13, 2025 that it had no response to the report.",
+ "implementation_note": "",
+ "topics": [
+  "seniors",
+  "money and contracts"
+ ],
+ "is_followup": false
 }

@@ -1,0 +1,86 @@
+{
+  "id": "audit-report-on-the-department-of-housing-preservation-and-developments-administration-of-the-affordable-neighborhood-co-operative-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Audit Report on the Department of Housing Preservation and Development’s Administration of the Affordable Neighborhood Co-operative Program",
+  "plain_title": "Why the city's affordable co-op conversions take so long",
+  "agency": "New York City Department of Housing Preservation and Development",
+  "issued": "2025-02-06",
+  "url": "https://comptroller.nyc.gov/reports/audit-report-on-the-department-of-housing-preservation-and-developments-administration-of-the-affordable-neighborhood-co-operative-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/MG22-102A.pdf",
+  "what_they_audited": "Whether the Affordable Neighborhood Co-operative Program (ANCP), run by the Department of Housing Preservation and Development (HPD), is effective at turning city-owned buildings in the Tenant Interim Lease (TIL) program into affordable co-ops owned by their tenants.",
+  "background": "The Tenant Interim Lease program, created in 1978, let tenants in city-owned buildings buy their apartments for $250 and form low-income co-ops; after many buildings struggled, the housing department restructured it in 2012 into the Affordable Neighborhood Co-operative Program, which fully gut renovates buildings before conversion. When the program began there were 126 buildings waiting to convert, and as of October 2024, 13 conversions had been completed.",
+  "findings": [
+    {
+      "plain": "Very few buildings have actually become co-ops. Since 2012 only 13 of the 126 eligible buildings have converted, every one of them blew past the department's timing benchmarks and the conversions took six to 11 years each.",
+      "quote": "with delays ranging from 15 to 87 months, for conversion processes that ranged from 6 to 11 years"
+    },
+    {
+      "plain": "Many buildings have not even started. Of 113 buildings still waiting, 45 had no developer assigned as of April 2024, and 1,851 apartments sit in buildings waiting to enter or complete conversion. One building has been waiting for a developer since the program began in 2012.",
+      "quote": "of the 113 buildings still awaiting conversion, 45 (40%) have not yet been assigned developers"
+    },
+    {
+      "plain": "The department has no centralized way to track what is delaying projects or how long problems go unresolved, which keeps it from spotting and dismantling systemic obstacles in the conversion pipeline.",
+      "quote": "HPD lacks a practical centralized mechanism for tracking and reviewing key performance indicators"
+    },
+    {
+      "plain": "The units that did convert are affordable under federal guidelines. Average maintenance charges at converted buildings came in well under the affordability threshold, and the department helped residents with Section 8 vouchers and public financing.",
+      "quote": "the actual average maintenance charges under ANCP fell well below the affordability threshold set at 40% of AMI"
+    },
+    {
+      "plain": "Delays cost the city money. The department paid $31.6 million from 2021 through 2023 to maintain buildings still waiting to convert, and construction cost overruns on two clusters required an extra $1.9 million and $2.6 million in city funds.",
+      "quote": "From 2021 through 2023, these costs totaled $31.6 million"
+    },
+    {
+      "plain": "After buildings converted, the department did not always enforce its own regulatory agreements. Some required annual financial reports were missing and only seven of 23 required annual maintenance fee increases were actually implemented across nine co-ops.",
+      "quote": "only 30% of the required maintenance fees were implemented"
+    },
+    {
+      "plain": "Surveyed tenants raised concerns about higher costs, the slow pace and poor communication. Proposed monthly maintenance fees ran $389 to $959 above the lowest rents tenants had been paying, though still within federal affordability standards.",
+      "quote": "a percentage increase of 147% to 400%"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "16%",
+      "label": "Share of program buildings converted to co-ops since 2012"
+    },
+    {
+      "value": "48 months",
+      "label": "Original benchmark for a complete conversion"
+    },
+    {
+      "value": "40%",
+      "label": "Waiting buildings with no developer assigned"
+    },
+    {
+      "value": "1,851",
+      "label": "Units still waiting to enter or complete conversion"
+    },
+    {
+      "value": "$31.6 million",
+      "label": "City cost of maintaining unconverted buildings, 2021-2023"
+    },
+    {
+      "value": "147% to 400%",
+      "label": "Rise from lowest rents to lowest proposed maintenance fees"
+    }
+  ],
+  "recommendations": [
+    "Develop a centralized mechanism to readily identify the specific issues delaying each project.",
+    "Analyze the most common recurring causes of delay and develop strategies to address them, making programmatic and contractual changes to remove obstacles upfront.",
+    "Regularly measure project progress against time benchmarks and act promptly to mitigate delays as they occur.",
+    "Update the program brochure on the department's website with the most recent benchmark timeframes and targets for each stage of conversion.",
+    "Develop new conversion completion targets for each pending project, share them with tenants and track and report progress against them.",
+    "Keep exploring ways to build better communication and relationships with tenants about the conversion process, including possible surveys, and continue soliciting tenant feedback.",
+    "Work with other city entities such as the City Council, the Office of Management and Budget and the Department of Buildings to streamline the approval process.",
+    "Collect and review all information required after conversion to help keep each building financially solvent and ensure maintenance fees rise with building needs."
+  ],
+  "agency_response": "The department generally agreed with all eight recommendations, agreeing fully with five and partially with three, but disputed any responsibility for significant delays in the conversion process.",
+  "implementation_note": "",
+  "topics": [
+    "housing",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

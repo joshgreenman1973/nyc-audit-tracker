@@ -1,0 +1,81 @@
+{
+ "id": "final-audit-letter-report-on-the-new-york-city-police-pension-funds-other-than-personal-services-expenditures",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Final Audit Letter Report on the New York City Police Pension Fund’s Other Than Personal Services Expenditures",
+ "plain_title": "Police pension fund lacked controls over its office spending",
+ "agency": "New York City Police Pension Fund",
+ "issued": "2025-06-27",
+ "url": "https://comptroller.nyc.gov/reports/final-audit-letter-report-on-the-new-york-city-police-pension-funds-other-than-personal-services-expenditures/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/2025/07/FM24-087A.pdf",
+ "what_they_audited": "This audit letter report examined whether the New York City Police Pension Fund's spending on things other than salaries, such as leased vehicles, travel and vendor payments, followed its policies and city rules in fiscal years 2023 and 2024 and was necessary to its mission.",
+ "background": "The fund is one of the five New York City retirement systems and administers pension benefits for more than 90,000 active members, retirees and beneficiaries of the police department. Its administrative expenses totaled $34 million in fiscal year 2024, including $15.7 million in spending other than salaries and fringe benefits.",
+ "findings": [
+  {
+   "plain": "Most of the fund's spending followed its policies and relevant rules, but auditors found several control weaknesses.",
+   "quote": "the auditors also found several weaknesses in PPF’s controls over its OTPS expenditures that could be improved"
+  },
+  {
+   "plain": "The fund paid $69,814 over two years to lease vehicles for three executives without keeping required documentation of business use. Auditors concluded the vehicles were not economical or necessary, noting the city's other four pension funds do not lease vehicles for their executives.",
+   "quote": "the leased vehicles are not economical and necessary to PPF’s mission"
+  },
+  {
+   "plain": "The fund paid $4,009 in sales tax to two vendors even though it is exempt from New York State sales tax.",
+   "quote": "PPF paid $4,009 in Sales Tax on five sampled invoices issued by two vendors"
+  },
+  {
+   "plain": "Nine of 64 sampled invoices, or 14%, were paid more than 30 days after the invoice date without justification.",
+   "quote": "nine (14%) were paid more than 30 days after the invoice dates without justification"
+  },
+  {
+   "plain": "The fund reported expenditures on a cash basis instead of the accrual basis required under generally accepted accounting principles.",
+   "quote": "PPF did not report expenditures on an accrual basis as required, instead reporting on a cash basis"
+  },
+  {
+   "plain": "The fund could not document $31,710 in out-of-town travel expenses, improperly reimbursed employees $2,473 and has no internal travel policy.",
+   "quote": "PPF did not maintain required documentation for out-of-town travel expenses totaling $31,710"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$15.7 million",
+   "label": "Non-salary spending in fiscal year 2024"
+  },
+  {
+   "value": "$69,814",
+   "label": "Paid for three leased executive vehicles and related costs"
+  },
+  {
+   "value": "$4,009",
+   "label": "Sales tax paid despite the fund's tax exemption"
+  },
+  {
+   "value": "$31,710",
+   "label": "Out-of-town travel spending without required documentation"
+  },
+  {
+   "value": "$2,473",
+   "label": "Improper reimbursements to employees"
+  },
+  {
+   "value": "90,000",
+   "label": "Active members, retirees and beneficiaries the fund serves"
+  }
+ ],
+ "recommendations": [
+  "Make sure spending other than salaries is economical and necessary to the fund's mission.",
+  "Reevaluate vehicle use policies in light of general city requirements and document each business use of leased vehicles, noting the time, place and business purpose.",
+  "Inform vendors of the fund's sales tax exemption and exclude sales tax from payments.",
+  "Review and recoup all prior payments that included sales tax.",
+  "Pay vendors within 30 days of receiving invoices.",
+  "Report expenditures accurately in the period the expenses are incurred.",
+  "Create an internal travel policy covering how travel is requested, approved, funded and reimbursed, in line with the comptroller's travel directive.",
+  "Make sure all out-of-town travel expenses are economical, necessary and consistent with the comptroller's travel directive."
+ ],
+ "agency_response": "The fund agreed with four of the eight recommendations. It did not explicitly agree or disagree with the other four, saying it would review its processes and make changes it deems necessary, and maintained that its leased vehicles remain integral to its mission.",
+ "implementation_note": "",
+ "topics": [
+  "money and contracts"
+ ],
+ "is_followup": false
+}

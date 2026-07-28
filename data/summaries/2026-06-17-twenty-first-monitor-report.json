@@ -1,0 +1,61 @@
+{
+  "id": "2026-06-17-twenty-first-monitor-report",
+  "source": "monitor",
+  "auditor": "Nunez independent monitor (Rikers jails)",
+  "title": "Twenty-First Report for the Monitoring Period July 1, 2025 to December 31, 2025",
+  "plain_title": "New leaders at Rikers, but no material change in risk of harm",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-06-17",
+  "url": "https://tillidgroup.com/projects/nunez-monitorship/",
+  "pdf": "https://tillidgroup.com/wp-content/uploads/2026/06/2026-06-17-21st-MP-Monitors-Report.pdf",
+  "what_they_audited": "The court-appointed independent monitor's 21st compliance assessment of the Department of Correction under the Nunez court orders, covering July through December 2025, with narrative updates on leadership, use of force, security practices, staff misconduct and deaths in custody plus compliance ratings for 45 court order provisions.",
+  "background": "Since the monitor's previous report, a new commissioner took office on February 16, 2026 and the court-appointed remediation manager began work on February 23, 2026. Much of the report covers a period under the prior city administration and before the remediation manager's appointment.",
+  "findings": [
+    {
+      "plain": "Despite the new leadership structure, the monitor found no material change in reducing the risk of harm in the jails as of the report's filing, with the reform effort still moving at a glacial pace.",
+      "quote": "no material change in ameliorating the risk of harm in the jails"
+    },
+    {
+      "plain": "The monitor's long list of problem centers, including normalized violence and poor security practices, no coherent operational plan, a revolving door of leadership and a perpetual state of crisis, remains essentially unchanged.",
+      "quote": "...remain present with little to no change observed as of the filing of this Report."
+    },
+    {
+      "plain": "The small group of persistently violent individuals responsible for most jail violence is dispersed across the jails with no dedicated management structure, and the monitor strongly urged the commissioner and remediation manager to take immediate action on classification and security deficits.",
+      "quote": "...throughout the jails with no dedicated management structure in place to abate their patterns "
+    },
+    {
+      "plain": "Basic security failures persist, including failures to secure doors, remain on post, conduct meaningful tours, control housing areas, search and escort safely, de-escalate and activate body-worn cameras, all of which raise the risk of violence and preventable harm.",
+      "quote": "These deficiencies include failures to secure doors, remain on post, conduct meaningful "
+    },
+    {
+      "plain": "The department's Safety Plan contained some reasonable recommendations but did not provide a concrete strategy to change actual staff security practice and in several respects appeared to minimize the current state of affairs.",
+      "quote": "Plan did not provide a concrete strategy to change actual staff security practice, "
+    },
+    {
+      "plain": "A revised organizational chart took effect June 1, 2026, incorporating the remediation manager, consolidating investigations and discipline into a new division reporting to him and elevating classification, which the monitor calls a stronger foundation while cautioning that the uniformed reporting structure has reverted to its pre-2022 form.",
+      "quote": "The new organizational chart provides an important foundation for the reform effort."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "45",
+      "label": "Court order provisions assessed for compliance in the report"
+    },
+    {
+      "value": "February 23, 2026",
+      "label": "Date the court-appointed remediation manager began work"
+    }
+  ],
+  "recommendations": [
+    "Take immediate, specific and concrete action to mitigate the current risk of harm, focusing on the small group of individuals engaged in the largest number of violent incidents.",
+    "Provide the department with additional and new resources to support the reform effort, including administrative and project management support, policy development help and legal, compliance and operational expertise, without which reform cannot be catalyzed or sustained.",
+    "The department and the remediation manager's team must develop an overarching plan that clearly defines reform priorities and how leadership, staffing and resources will be allocated to address them in a deliberate, concrete and systematic way."
+  ],
+  "agency_response": "The department's new leadership worked with the remediation manager and monitoring team to revise the organizational chart, appointed the remediation manager's choice to lead the new investigations division and is considering the monitor's recommendation to reinstitute a deputy commissioner of classification.",
+  "implementation_note": "",
+  "compliance_note": "The monitor reports the risk of harm in the jails remains unreasonably high for incarcerated people and staff, with the department's entrenched problem centers showing little to no change despite years of work and multiple court orders.",
+  "topics": [
+    "public safety"
+  ],
+  "is_followup": false
+}

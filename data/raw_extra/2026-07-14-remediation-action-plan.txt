@@ -1,0 +1,1351 @@
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE REMEDIATION ACTION PLAN  
+ 
+ 
+July 14, 2026  –	June 30, 2027  
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 1 of 33
+ 
+   
+  
+ 
+REMEDIATION MANAGEMENT TEAM 
+ 
+Nicholas J. Deml 
+Remediation Manager 
+ 
+*          *          * 
+ 
+Chloe Aquart, Esq. 
+Director of Policy & Implementation 
+ 
+Isaac Dayno 
+Chief of Staff 
+ 
+Travis Denton 
+Senior Expert 
+ 
+Aryaa Paresh Deshpande 
+Data Analyst 
+ 
+Christopher Fallon 
+Senior Expert 
+ 
+Martha Ferson 
+Counsel 
+ 
+Ana Jimena Gonzalez 
+Director of Data & Accountability Systems 
+ 
+Brandeshawn Harris 
+Senior Expert 
+ 
+Wayne T. Salisbury Jr. 
+Senior Director of Investigations, Operations, and Oversight 
+ 
+Cheyenne Steventon 
+Vice President of Operations 
+ 
+Hernandez D. Stroud 
+Senior Legal Advisor 
+ 
+ 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 2 of 33
+ 
+   
+  
+TABLE OF CONTENTS 
+ 
+INTRODUCTION .......................................................................................................................... 1 
+OVERVIEW ................................................................................................................................... 2 
+THE CURRENT STATE: A SYSTEM IN CRISIS ....................................................................... 2 
+THE FUTURE STATE: A VISION FOR A HEALTHIER AND SAFER SYSTEM ................... 3 
+ACHIEVING THE VISION: COLLABORATION ....................................................................... 4 
+The Remediation Management Team ............................................................................................. 4 
+The Monitoring Team .................................................................................................................... 4 
+New Department of Correction Leadership  ............................................................................................ 5 
+Staff ........................................................................................................................................................... 5 
+Stakeholders ............................................................................................................................................. 5 
+ACHIEVING THE VISION: PRIORITY AREAS OF FOCUS .................................................... 6 
+Improve Core Correctional and Security Functions  .............................................................................. 6 
+Transform Staffing Models and Practices  ............................................................................................... 8 
+Strengthen Individual and Institutional Accountability ...................................................................... 9 
+Modernize Data Systems and Technology  .............................................................................................. 9 
+Promote Effective Organizational Leadership and Governance  ........................................................... 9 
+CONCLUSION ............................................................................................................................. 11 
+THE FIRST REMEDIATION ACTION PLAN .......................................................................... 12 
+ENDNOTES ................................................................................................................................. 29 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 3 of 33
+ 
+ 
+   
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+The City of New York (the “City”) confines individuals awaiting trial in “dismal conditions” 
+that “manifestly violate the Constitution and would shock the conscience of any citizen who knew 
+of them.”  Rhem v. Malcolm, 371 F. Supp. 594, 636 (S.D.N.Y. 1974).  United States District Judge 
+Morris E. Lasker wrote these words more than fifty years ago.  And yet, despite decades of 
+litigation, reform efforts, and judicial intervention, the statement remains an accurate description 
+of conditions in the New York City jail system today. i 
+The Department of Correction (“DOC”) struggles to perform even the most basic 
+correctional functions: staffing posts, securing housing units, and keeping staff and people in its 
+custody safe from violence.  Overlapping regulatory structures stifle critical  improvements.  
+Leadership cannot ensure staff consistently adhere to fundamental security practices, much less 
+implement broader operational reforms .  Funding priorities are misaligned.  The jails’ physical 
+infrastructure crumbles (in part because the Department cannot access capital funding), yet DOC 
+spent more than $370 million on overtime this past fiscal year. ii  Rikers Island is, as a result, 
+significantly more violent than comparable jail systems.iii  And even with a decade of findings and 
+recommendations from the Court-appointed Monitor, DOC still operates without a cohesive 
+strategy to address these systemic failures.  
+This is the system as I inherited it—and the system the new mayoral administration and 
+Department of Correction leadership inherited , as well.  The failures that define these jails 
+developed over many decades and will not be resolved overnight.  Yet these conditions can be 
+reversed.  Meaningful reform will require sustained commitment, disciplined execution, and close 
+collaboration among my team, DOC, labor representatives, people in custody, advocates, and other 
+stakeholders.  By establishing foundational correctional practices, strengthening accountability, 
+and building institutional capacity necessary to sustain reform —including through historic 
+investments in community-based programming—the City can achieve constitutional compliance 
+and ultimately resume full responsibility for its jail system.  That is the objective of my office and 
+the path toward a safer, more professional, and more dignified correctional system for all who live 
+and work within it. 
+I recognize that my appointment represents an extraordinary exercise of the Court’s 
+equitable authority.  It reflects the Court’s determination that so forceful a remedy is necessary to 
+confront the “deeply embedded polycentric problems of the jails. ”  See May 13, 2025, Order (Dkt. 
+846), at 19.  Indeed, violence in the City jails is now “demonstrably worse than when the Consent 
+Judgment went into effect in 2015.”  See November 27, 2024, Order (Dkt. 803), at 11.  I am acutely 
+aware of the gravity of intervening in the core f unctions of municipal government.  I will therefore 
+exercise the authority entrusted to this office with restraint, transparency, and fidelity to the Court’s 
+Orders, working collaboratively wherever possible and invoking the full measure of that authority 
+whenever necessary to achieve constitutional compliance.  
+ 
+ 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 4 of 33
+ 
+ 
+   
+ 2 
+ 
+ 
+OVERVIEW 
+Nearly two years ago, the Court held the City of New York in civil contempt of eighteen 
+provisions (the “Contempt Provisions”) of four Court orders designed to stem violence and use of 
+excessive force in the City’s jail system.  To address the contempt —and to remedy the violations 
+of the constitutional rights of persons in custody—the Court appointed me as the Nunez 
+Remediation Manager.  The Court ordered me to produce a series of work plans —Remediation 
+Action Plans—that lay out specific and concre te strategies.  Each is to cover a single year and 
+build cumulatively on the one before it.   The Remediation Action Plans serve two primary 
+functions: first, to ensure adequate progress from year to year; and second, to “support and 
+facilitate the return of areas of primary Nunez Remediation Manager control to Defendants as goals 
+are achieved and sustained over time.”  See May 13, 2025, Order (Dkt. 846), at 36. 
+ 
+The Remediation Action Plan begins on page 12 of this filing.  To provide context for the 
+specific action steps it identifies, the following sections set  out my initial observations on the 
+Department’s current state, my vision for the Department’s future, and my strategy for beginning 
+to resolve the City’s long-standing corrections crisis. 
+ 
+ 
+THE CURRENT STATE : A SYSTEM IN CRISIS 
+Two incidents my team observed in our first days illustrate the daily dysfunction and 
+routine security lapses in the City jails. 
+First, on a recent walkthrough of the Rose M. Singer Enhanced Supervision Housing, we 
+entered a housing unit filled with smoke from fires set by individuals in custody.  The effect was 
+disorienting: the smoke had a chemical odor, likely due to burning fibers or synthetic marijuana; 
+a fire alarm rebounded off the concrete floor and walls; incar cerated individuals pounded on their 
+cell doors, calling out to us, while others sat shackled to restraint desks.  One officer shrugged her 
+shoulders as she surveyed the scene, suggesting this was simply another day on Rikers.  
+In another incident we reviewed at the George R. Vierno Center, violence erupted in two 
+housing units connected by a shared food pantry.  Deviating from proper protocol, a correctional 
+officer unlocked one unit’s pantry door without first confirming the do or separating the pantry 
+from the second unit was locked.  It was not. When the officer in the adjoining unit abandoned his 
+post, leaving it unsupervised for over three minutes, people in custody surged through the pantry 
+into the neighboring unit.  A large-scale fight ensued, involving nearly 30 individuals.  Unsecured 
+janitorial closets furnished broomsticks and mop buckets  that became makeshift weapons.  The 
+fight lasted several minutes  and ended only after a single officer arrived and deployed a chemical 
+agent.  By the next day, both units had returned to typical operation , with no apparent change in 
+practice. 
+In a functional system, events such as these would precipitate full lockdowns, rapid 
+notification to DOC and political leadership, thorough incident reviews, department-wide changes 
+in correctional practice, and likely discipline for the staff and people in custody involved.  Little 
+of this followed the two incidents described above.  Troublingly, these incidents are not outliers ; 
+they reflect patterns across the City jails.  F rom January to May 2026, persons in custody set 130 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 5 of 33
+ 
+ 
+   
+ 3 
+ 
+ 
+fires and engaged in 2,978 fights. iv   As the Monitoring Team noted: “The unfortunate and 
+dangerous side effect of the high rates of use of force, violence and entrenched dysfunction in the 
+jails is that they have become normalized.”  See January 13, 2026, Monitoring Team Status Report 
+(Dkt. 947), at 60.    
+Running the City jails is among the most complex operational responsibilities in municipal 
+government, and reforming them will be no less demanding.  The Department operates within an 
+unusually dense network of governmental and oversight institutions, including the Mayor’s Office, 
+the City Council, the Board of Correction, the New York State Commission of Correction, the 
+courts, Correctional Health Services, labor organizations, the Court-appointed Monitoring Team—
+and now the Remediation Manager.  Each holds legitimate authority over some aspect of jail 
+operations, yet none bears responsibility for the entire system.  Operational decisions are therefore 
+frequently shaped by an overlay of competing legal obligations, regulatory requirements, ad hoc 
+demands, and institutional priorities.  The environment is chaotic. 
+But recognizing these complex dynamics does not diminish DOC’s responsibility for 
+present conditions.  Years of inconsistent leadership, eroded correctional practice, and weak 
+accountability left the Department unable to reliably perform many of its core functions.  Yet 
+lasting reform demands more than correcting isolated deficiencies.  It requires building the 
+Department’s capacity to manage its vast daily operations in a manner that is consistent with its 
+strategic priorities and organizational values.  That objective shapes the priorities and benchmarks 
+in this first Remediation Action Plan.  
+ 
+ 
+THE FUTURE STATE: A VISION FOR A HEALTHIER AND SAFER SYSTEM  
+The benchmarks that follow comprise the primary goals to be achieved in the first year of 
+this remediation effort.  Before turning to those actions, it is important to define the end state they 
+are meant to establish.  The priorities in this Remediation Action Plan are not isolated initiatives.  
+Together, they are designed to build the Department’s capacity to consistently perform the 
+fundamental correctional functions necessary to operate safe, co nstitutional, and professionally 
+managed detention facilities—and thereby to comply with this Court’s orders.  The success of this 
+foundational effort should be measured not by the number of reforms implemented, but by whether 
+the Department ultimately develops the institutional capacity to sustain those reforms long after 
+Court oversight ends. 
+The City now faces a rare convergence of circumstances.  New DOC leadership, my 
+appointment, and the planned transition to modern borough -based facilities together p resent an 
+opportunity to fundamentally reshape the New York City jail system.  But that opportunity will be 
+realized only through disciplined reform.  New facilities alone will not cure the longstanding 
+deficiencies identified by this Court.  Lasting improvement depends on restoring sound 
+correctional practice, strengthening leadership and accountability, and building organizational 
+systems capable of sustaining safe and effective operations over time.  
+A successfully remediated Department will look markedly  different from the system that 
+exists today.  Fundamental correctional practices will be carried out consistently and 
+professionally.  Housing units will be secure.  Staff will be appropriately deployed, supported, 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 6 of 33
+ 
+ 
+   
+ 4 
+ 
+ 
+supervised, and held accountable.  Policies governing safety and use of force will be applied 
+uniformly, and leaders will have timely, reliable information to identify operational problems 
+before they become systemic failures.  Investigations will be thorough, objective, and prompt.  
+Individuals in custody will be confined in conditions that satisfy constitutional requirements and 
+promote safety, stability, and rehabilitation.  And Department staff will work in facilities that are 
+orderly, professionally managed, and substantially safer than they are today.  
+The objective of this remediation effort is to cure the specific, longstanding constitutional 
+violations identified by the Court.  But it is also to build a Department capable of sustaining lawful 
+operations without judicial intervention.  Whether the City ultimately runs its jail system on Rikers 
+Island or in the planned borough-based facilities, the operational foundations must be the same: 
+disciplined correctional practice, effective leadership, meaning ful accountability, and a 
+professional staff.  Achieving this will return full responsibility for the City’s jail system to local 
+government, supported by reforms durable enough to outlast this litigation. 
+ 
+ 
+ACHIEVING THE VISION: COLLABORATION  
+I will not—and cannot—carry out this work alone.  The success of this remediation effort 
+depends on sustained collaboration with Department leadership and staff, the Monitoring Team, 
+labor unions, advocates, and all other stakeholders with relevant experience and responsibility.   
+Sustainable solutions will emerge only through shared engagement and implementation.  
+The Remediation Management Team  
+Since my appointment, I began to build a team and lay the operational foundation needed 
+to carry out our mandate.  I assembled a small team—an administrative and operations professional, 
+a chief of staff, counsel, legal advisor, data analyst, project manager, and four career correctional 
+experts, each with decades of experience in jail and prison systems outside New York City.  And 
+to understand the jails’ challenges up close, we worked with DOC to establish our primary physical 
+office on Rikers Island, allowing our team to regularly inspect the jails. 
+The Monitoring Team 
+For the past decade, the Monitoring Team has served as the Court’s eyes and ears, assessing 
+DOC’s compliance with the Nunez orders.  This long tenure gives the Monitoring Team a deep 
+and sophisticated understanding of DOC, and they have generously drawn on the expertise of their 
+long tenure to help orient my team and better understand the full sweep of DOC’s challenges.  This 
+support remains critical to our success.  Building on this well-founded partnership, we anticipate 
+continued collaboration with the Monitoring Team to augment the efficiency, pace, and quality of 
+the remedial work.  Helpfully, the Monitoring Team has long documented recommendations for 
+reform.  I appreciate their thoughtful and thorough guidance.  We have and will continue to use 
+their recommendations as the basis for much of our work.  
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 7 of 33
+ 
+ 
+   
+ 5 
+ 
+ 
+New Department of Correction Leadership 
+ On January 31, 2026, the New York City Mayor’s Office appointed a new DOC 
+Commissioner, Stanley Richards, the first formerly incarcerated person to lead DOC in the City ’s 
+history.  Despite the problems facing the jails, I am encouraged that the current City administration 
+and its appointed DOC leadership expressly support remediation and genuinely appear eager for 
+reform.  Acknowledging openly and publicly that the City jails are out of step with accepted 
+practice and basic operational norms  is a prerequisite to reform.  To date, the Department’s 
+leadership is actively engaged in our reform efforts.v  I remain optimistic about the partnership and 
+progress we can make together. 
+At the same time, engagement alone is insufficient.  More than a decade has passed without 
+meaningful improvement in safety and constitutional compliance within the jail system.  The 
+Court’s orders are clear, and the mandate of this office is to achieve compliance as expeditiously 
+as possible.  That responsibility does not pause for transitions in leadership or periods of 
+institutional adjustment. 
+In carrying out this mandate, the Remediation Management Team recognizes its work will 
+require difficult decis ions, structural change, and sustained effort from DOC staff.  These actions 
+may be challenging for Department leadership as new structures and expectations are established.  
+Nevertheless, the objective is not confrontation but progress toward durable reform.  
+Within the Department, this work requires a shift in institutional culture  toward 
+transparency, professionalism, and safety.  A system shaped by fear—whether among staff or 
+incarcerated individuals —undermines accountability, suppresses reporting of pr oblems, and 
+reinforces reactive rather than corrective practices.  The goal of this remediation effort is to support 
+a culture in which staff are empowered to perform their duties effectively and operational problems 
+are identified early and addressed directly.  
+Staff 
+Staff are the backbone of any functional correctional system and the primary agents of 
+change.  They are public servants, integral to jail operations and safety, and they will be responsible 
+for carrying out these reforms every day .  In every high-performing correctional system—and 
+indeed every high-performing enterprise—leadership treats staff as the organization’s greatest 
+asset and invests in them deliberately.  That investment has not occurred here.  Although violations 
+of the rights of people in custody gave rise to  this litigation, staff also operate in environments 
+characterized by violence, trauma, and significant operational strain.
+vi   A safe and functional 
+correctional system must account for the safety and dignity of both populations.  And in my 
+conversations with staff, they expressed to me their own desire for true reform at Rikers.  I look 
+forward to working with them to achieve this shared goal and adjusting the Department’s approach 
+to promoting staff success. 
+Stakeholders 
+Since my appointment, my team sought out the perspectives of people who spent time 
+living and working in the City jails as well as their representatives: former and current incarcerated 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 8 of 33
+ 
+ 
+   
+ 6 
+ 
+ 
+individuals, former and current DOC staff, counsel for Plaintiffs and Defendants , and local and 
+federal prosecutors. 
+We also met with all three labor unions  representing uniformed Department staff: the 
+Assistant Deputy Wardens/Deputy Wardens Association, the Correction Captains’ Association, 
+and the Correction Officers’ Benevolent Association.  We recognize the essential role each of these 
+groups plays in representing DOC staff and advocating for workplace safety.  The Remediation 
+Management Team welcomes continued engagement with labor partners in pursuit of that shared 
+objective. 
+The Remediation Management Team also attended City Council hearings and meetings of 
+the Board of Correction, met with City officials, and had discussions with the Office of the Public 
+Advocate.  While members of my team and I, as Court agents, cannot engage in any political 
+activity or policymaking, we remain open to hearing from policymakers and the public, 
+particularly to advance sustainable reform to the jail system.  
+I appreciate the candor and engagement these individuals and organizations  have shown.  
+We intend to maintain this level of contact and connection throughout our work, recognizing that 
+input from those directly affected by conditions within the jail systems is critical to building 
+sustainable reforms. 
+ 
+ 
+ACHIEVING THE VISION: PRIORITY AREAS OF FOCUS  
+Achieving Substantial Compliance with the Contempt Provisions will take years of steady, 
+coordinated effort.  Although the Contempt Provisions address broad and interlocking deficiencies, 
+the Court instructed my office to prioritize “the safety-related areas.”  See February 18, 2026, 
+Order (Dkt. 961), at 11.  The first Remediation Action Plan, therefore, begins with safety, 
+organizing its action steps around five foundational areas that are necessary predicates to achieving 
+Substantial Compliance with the Contempt Provisions: (I) improving core correctional and 
+security functions; (II) transforming staffing models and practices; (III) strengthening individual 
+and institutional accountability; (IV) modernizing data systems and technology; and (V) promoting 
+effective organizational leadership and governance.  Later Remediation Action Plans will build on 
+these priority areas. 
+Improve Core Correctional and Security Functions 
+Core correctional and security practices form the backbone of a safe and well-run jail 
+environment.  When properly implemented, these practices limit rates of violence, including 
+stabbings and slashings, assaults, and self-harm; the circulation of dangerous contraband, such as 
+weapons and illegal drugs; and excessive, unnecessary uses of force.  Conversely, when  such 
+practices are not properly implemented, unsafe and unstable conditions  flourish.  Two key 
+categories of core correctional practices deserve the greatest attention: security practices an d 
+programming, which are addressed below. 
+As thoroughly documented by the Monitoring Team, multiple lapses in core security 
+practices afflict the City jails.  They include : “failures to secure doors, remain on post, conduct 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 9 of 33
+ 
+ 
+   
+ 7 
+ 
+ 
+meaningful tours, maintain control of housing areas, address visible misconduct, conduct safe and 
+effective searches and escorts, use de -escalation, activate body -worn cameras, and ensure 
+supervisors actively direct and correct staff practice.”   See June 17, 2026, Monitoring Team Status 
+Report (Dkt. 984), at 104.  A major contributing factor is the absence of a cohesive Security Plan  
+that “prioritizes the most urgent deficiencies, establishes clear expectations for staff and 
+supervisors, uses data to identify and measure progress, and is capable of being sustained through 
+changes in facility and executive leadership.”  Id. at 104–05.  The Court previously directed DOC 
+to develop a comprehensive Security Plan.  As the Monitor reported, however, DOC has 
+“struggled” to complete that task.  Id. at 103. 
+To advance this requirement, I will direct and guide DOC to build and operationalize a 
+cohesive Security Plan beginning in the first reporting period.  Given the scale of the project, 
+DOC’s historical challenges completing it, and the pressing need to begin implementing corrective 
+actions as swiftly as possible, we will do this work in phases, starting with the highest-priority 
+issues.  In addition, because the problem of unsecured doors is attributable not only to staff failures 
+but also to defective doors, I will collaborate with the City and DOC on a plan for replacing 
+defective doors.  Simultaneously, my team and DOC will launch a restrictive -housing pilot 
+program.  The pilot will complement ongoing development of the Security Plan, providing us with 
+direct insight into factors contributing to security lapses  and an opportunity to test potential 
+solutions.  Ultimately, we will work with DOC to scale effective interventions across the 
+Department, though this effort is unlikely to be realized in the first Remediation Action Plan 
+period. 
+In addition to security, programming is a second core pillar of effective correctional 
+practice.  Modern correctional systems recognize that the scope, quality, and consistency of 
+programming are central to both safe facility operations and meaningful rehabilitation  and 
+behavior change.  Structured programming reduces unproductive idle time, which is a known 
+driver of conflict and violence in custodial environments.  More broadly, well -designed 
+programming allows correctional systems to make productive use of the period of incarceration  
+by addressing behavioral risks and individual needs in a structured and supervised setting.  
+Programming also plays an important role in supporting beha vioral stability within 
+facilities.  Regular, structured activities reduce unstructured movement and idle congregation, 
+strengthen facility routines, and improve overall institutional order.  Over time, consistent 
+engagement in programming can support more stable decision-making and improved interpersonal 
+functioning, which in turn contributes to safer housing unit conditions for both staff and 
+incarcerated individuals. 
+Finally, programming is a key component of successful reentry.
+vii   It supports the 
+development of practical skills —such as communication, conflict resolution, and daily 
+functioning—that are necessary for stability following release.  Effective programming is not 
+limited to reducing future justice system involvement; it is also intended to suppo rt individuals in 
+returning to their communities with greater capacity to participate in work, family life, and civic 
+engagement.  In this way, programming contributes to safety both inside and outside the facility.  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 10 of 33
+ 
+ 
+   
+ 8 
+ 
+ 
+Community-based service providers play a central role in delivering high -quality 
+programming within correctional settings. viii  These providers bring subject-matter expertise in 
+areas such as substance use treatment, behavioral health, education, workforce development, and 
+the arts.  Critically, these organizations often deliver services using peer coaches: individuals with 
+lived experience in the carceral system who are now thriving in the community.  Such providers 
+expand the Department’s capacity to deliver programming beyond what can be provided directly 
+by DOC, serving as key partners in program design and implementation.  In addition, their 
+presence within facilities strengthens continuity between facility -based programming and 
+community-based services, helping to bridge the trans ition between custody and reentry. 
+While programming is currently offered on Rikers Island, the Remediation Management 
+Team observed broad agreement among stakeholders that existing programming is insufficient in 
+both scale and diversity to meet the needs of the incarcerated population.  Addressing this gap, 
+which widened under previous City leadership, will require a significant expansion of 
+programming capacity.  In the first Remediation Action Plan period, I will work with the City and 
+DOC to determine the appropriate funding (estimated here at $50 million) to be allocated in the 
+annual DOC budget for community-based programming.  The Remediation Management Team 
+will support DOC in engaging existing and new providers to design and implement this expansion, 
+with the goal of significantly increasing both the volume and variety of programming available to 
+people in custody. 
+Transform Staffing Models and Practices 
+ Staffing is, according to the Court, “the essential element to reform.”  See November 26, 
+2024, Order (Dkt. 803), at 31 (emphasis in original).  Multiple problems contribute to the staffing 
+dilemma.  DOC’s staffing models and practices “are not being deployed effectively.”
+ix  See Dkt. 
+846, at 30.  DOC’s “mismanagement of staff is inextricably linked to high rates of force and 
+violence in the jails.”  See November 26, 2024, Order (Dkt. 803), at 31.  Recognizing the nexus 
+between staffing and the ongoing constitutional violations relating to violence, the Court granted 
+my office broad authority to improve, maximize, and optimize staffing.  See February 18, 2026, 
+Order (Dkt. 961), at 17 –21. 
+The Monitor’s latest status report highlights DOC’s ongoing challenges with maximizing 
+the deployment of uniform staff.  It also recognizes that completing DOC’s post analysis “will 
+provide critical information on the number and duties of each post in each facility as well as the 
+number of uniform staff needed to ensure adequate coverage.”  See Dkt. 984, at 206.  In the first 
+reporting period, I will oversee DOC’s efforts to analyze and improve staffing using a four-part 
+approach: first, my team will map and validate DOC’s current post and deployment practices; 
+second, we will create an improved staffing model given current resources, ensuring the right staff 
+are in the right posts; third, we will design an optimal DOC staffing system; and finally we will 
+adjust it for each facility in the new borough-based jail system.  This work will take time, but I am 
+confident the system can achieve immediate improvements to relieve pressure on staff, better align 
+with accepted best practices, and reduce substantial overtime costs.  
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 11 of 33
+ 
+ 
+   
+ 9 
+ 
+ 
+Strengthen Individual and Institutional Accountability 
+DOC’s anemic systems for addressing misconduct contribute to the repeated and systemic 
+policy violations fueling dangerous conditions in the City jails.  Early in my tenure, I learned that 
+DOC’s investigative and disciplinary units were disconnected and dispersed across the 
+Department, weakening DOC’s ability to hold staff, and the Department itself, accountable for 
+misconduct.  In May 2026, I began to resolve the structural and organizational deficienc ies by 
+reintegrating the investigative units into a single centralized division under a new S enior Deputy 
+Commissioner who reports directly to my team. 
+The Monitor’s most recent status report identifies inadequate staffing within the newly 
+consolidated division as a principal obstacle to the timely investigation of misconduct and the fair 
+administration of discipline. See June 17, 2026, Monitoring Team Status Report (Dkt. 984), at 166.  
+In response, I will direct the Department to develop and implement a co mprehensive staffing plan 
+for the Investigations, Intelligence, and Accountability Division.  We will also conduct a thorough 
+review of existing investigative and disciplinary processes and redesign them, where necessary, to 
+reflect national best practices and eliminate unnecessary delay, inconsistency, and inefficiency.  
+Our objective is clear: establish accountability systems that are timely, transparent, objective, and 
+trusted—systems that hold employees to consistent standards, reinforce professional co nduct, and 
+strengthen public confidence in the Department ’s ability to police itself.  Those same principles 
+must govern accountability for the incarcerated population, ensuring misconduct is addressed 
+promptly, disciplinary decisions are fair and consistent, and expectations are applied uniformly 
+throughout the jail system. 
+ 
+Modernize Data Systems and Technology 
+Modern data systems and technology are essential to monitor organizational operations and 
+risks, assess compliance with policy and law, identify areas for enhancement, track the progress 
+and effectiveness of reform efforts , and support effective operational oversight.   The Court tasked 
+me with ensuring facility leadership regularly reviews data on uses of force to identify “operational 
+changes or corrective action plans that should be implemented . . . to reduce the use of excessive 
+or unnecessary force,” and the Monitoring Team identified gaps in DOC’s data collection and 
+technology systems, which impede efforts to assess compliance with requirement s of other 
+Contempt Provisions, including the requirement that staff conduct routine tours.  See August 14, 
+2020, First Remedial Order (Dkt. 350), at 3. 
+In this period, my team will direct and guide DOC to identify gaps in their data collection 
+and data systems and, in turn, develop a strategic plan to prioritize and provide timelines for 
+addressing those gaps.  Internally, we will design and launch a remediation compliance tool to 
+ensure real-time transparent tracking of our activities and those of DOC.  This effort will help us 
+measure success, identify gaps and barriers, and achieve the Remediation Action Plan’s goals. 
+Promote Effective Organizational Leadership and Governance 
+ Sustainable, transformative reform requires stable and effective executive leadership, as 
+well as skilled and committed management at all levels of the Department.  It also requires 
+institutional imagination—the ability to reorient long -standing systems toward safer and more 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 12 of 33
+ 
+ 
+   
+ 10 
+ 
+ 
+humane outcomes.  Over the past decade, repeated turnover in DOC leadership undermined steady 
+progress, contributing to cycles of reform initiatives that were launched and later abandoned. x  At 
+times, leadership decisions actively impeded reform efforts.  Despite this history, I am encouraged 
+by the current direction of DOC leadership and their stated commitment to working toward 
+compliance. 
+The Monitoring Team’s most recent report underscores that some facility leadership teams 
+require additional support to develop stronger operational problem -solving capacity.  In this 
+period, I will address this need by directing DOC to strengthen the structure and frequency o f 
+engagement between executive leadership and facility leadership, particularly around operational 
+deficiencies and the timely implementation of corrective actions.  
+Effective leadership also depends on the ability to communicate clearl y and consistently 
+across the organization—an operational baseline that DOC has not yet fully achieved.  I will direct 
+DOC to implement a system that enables reliable communication with all staff, ensuring directives, 
+policy changes, and operational priorities are clearly conveyed and consistently understood 
+throughout the Department.  This will be a foundational tool for driving alignment and 
+accountability across facilities. 
+Beyond structural improvements, this work also requires close attention to institutional 
+values.  In May 2026, Commissioner Richards and I traveled to Germany to observe correctional 
+facilities that are widely regarded as among the most humane and professionally operated in the 
+world.  While German correctional systems are not directly transferable to New York, they reflect 
+a fundamentally different orientation—one that places human dignity at the center of incarceration.  
+Article 1 of Germany’s Basic Law states that “Human dignity shall be inviolable. ”  In practice, 
+this principle shapes a system in which conditions of confinement are designed, to the extent 
+possible, to approximate life in the community, with a strong emphasis on rehabilitation and 
+reintegration.  Correctional staff operate within a framework that prioritizes safety, 
+professionalism, and a rehabilitative mission.  
+By contrast, in the United States, correctional systems are organized primarily around 
+custody, control, and order.
+xi   While those functions are necessary, they are not sufficient to 
+produce safe, stable, or constitutional jail environments.  Nor are they explicitly grounded in a 
+shared commitment to human dignity or the reciprocal obligation of safety for those who live and 
+work in custody settings. 
+The City and DOC can draw on international best practices to define a clearer and more 
+explicit set of governing values .
+xii  One step in that direction is the development of a framework 
+of values for people who live and work in City jails.  Grounded in human dignity, safety, and 
+professional responsibility, this framework will be developed in consultation with stakeholders 
+and made publicly available upon completion.  It will not replace governing law or existing court 
+orders, but it will provide an explicit institutional baseline that clarifies expectations, strengthens 
+accountability, and helps guide daily practice across the system.  
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 13 of 33
+ 
+ 
+   
+ 11 
+ 
+ 
+CONCLUSION 
+For more than a decade, this Court, the Monitoring Team, the parties, advocates, and 
+successive City administrations devoted immense effort to reforming the New York City jail 
+system.  Yet violence remains pervasive, basic correctional practices remain unreliable, and 
+unconstitutional conditions persist.  The system has reached the point where incrementalism is 
+itself a form of failure.  The political structures that failed to lead the City into compliance during 
+this crisis will not lead it out of contempt. 
+That is why this Court granted my office broad powers to exercise “oversight, direction, 
+and management of all aspects of the DOC necessary” to spur transformative change in the City 
+jails. See May 13, 2025, Order (Dkt. 846), at 18, 36–37.  This authority extends beyond the 
+traditional powers of the Commissioner or the City’s political officials.  Where necessary, it 
+permits me to seek relief from “any legal or contractual requirements that impede [me] from 
+carrying out [my] duties” in striving to achieve constitutional compliance.  See May 13, 2025, 
+Order (Dkt. 846), at 41.  I do not hold this responsibility lightly.  But I will use my full authority 
+to bring immediate and lasting change to the City jails.   
+This Remediation Action Plan begins a new chapter.  It is grounded in the power of this 
+Court, guided by measurable objectives, and determined to make real change.  This is why this 
+effort not only maps the path to compliance but provides the direction and guidance to finally 
+arrive at sustainable reform.  The Plan’s timelines are aggressive because the moment demands it.  
+Meeting them will require the Department’s immediate and focused attention.  And if these 
+timelines are not met, our intervention will deepen. 
+ Every person who enters these facilities—to await trial, to serve a sentence, to report for 
+duty, to provide medical care, to visit a loved one, to participate in a community-based program, 
+or to deliver an essential service—should expect to leave safely.  With new borough-based 
+facilities on the horizon, we have a rare opportunity to heal this institution before its failures are 
+carried into the next generation of City jails.   
+Accordingly, I respectfully request the Court approve this First Remediation Action Plan 
+so that this work may proceed without delay. 
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+___________________     
+Nicholas J. Deml 
+Remediation Manager 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 14 of 33
+ 
+ 
+   
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE FIRST REMEDIATION ACTION PLAN  
+ 
+ 
+Year 1 
+July 14, 2026 – June 30, 2027  
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 15 of 33
+ 
+ 
+   
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR 1 
+This is the first Nunez Remediation Action Plan (“RAP”).  It sets forth the priorities, 
+directives, and measures of compliance that the Remediation Manager (“RM”) established to guide 
+reform of the New York City jail system from July 14, 2026, through June 30, 2027.   
+Starting with practices, protocols, and systems most closely related to institutional safety  
+and most urgently in need of reform, the RAP organizes the first year of work around five Priority 
+Areas: (I) improving core correctional and s ecurity functions; (II) transforming staffing models 
+and practices; (III) strengthening individual and institutional accountability; (IV) modernizing data 
+systems and technology; and (V) promoting effective organizational leadership and governance.  
+These five Priority Areas are not an exhaustive catalog of the multi -year remedial action necessary 
+to achieve Substantial Compliance with the Contempt Provisions.   Instead, they are foundational 
+and necessary predicates on which durable and sustainable reform depends.  The RM cannot 
+empower DOC to achieve, much less sustain, substantial compliance with the Contempt Provisions 
+unless and until DOC first establishes the basic operational competencies these Priority Areas 
+represent.  Accordingly, this first RAP does not implicate all the Contempt Provisions ; successive 
+RAPs will do so as they build on this initial framework. 
+Each Priority Area sets a goal describing normative conditions and model practices that 
+reflect a healthy and functional system.  These goals set the vision for each Priority Area, and 
+many will not be achieved in the first year of the Plan.  However, each Priority Area also prescribes 
+specific and concrete Action Steps , which, carried out effectively over time, will cumulatively 
+move DOC toward Substantial Compliance with the Contempt Provisions.  In short: the goals of 
+the Priority Areas identify the destination while the Action Steps mark the route. 
+The Action Steps are also measurable.  Substantial remediation of the City jails will be a 
+yearslong effort, not a single event, and progress will be incremental.  The RAP sets measures of 
+remediation for each Action Step within twelve months and notes where some measures extend 
+beyond one year.  These measures allow the RM to track progress toward each Priority Area ’s 
+goal, identify shortfalls early, and correct course as needed.  The RAP also identifies areas of work 
+that necessarily extend beyond the first year; future RAPs will take them up.  
+The RAP’s initial approach to DOC is generally twofold: to direct and to guide.  The RM 
+will direct DOC by setting a vision, establishing the requirements and standards, prescribing and 
+approving the Department’s plans, and holding DOC to account for meeting its obligations.  But 
+the RM will also guide DOC, deliberately identifying and supporting growth opportunities within 
+the DOC enterprise to build the institution’s capacity to carry the work itself and establish the basis 
+for long-term self-management by DOC, thereby resolving the need for an RM .   
+ 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 16 of 33
+ 
+ 
+   
+ 14 
+ 
+ 
+The dates set forth below are working deadlines set by the RM.  The RM may make 
+reasonable adjustments to deadlines for good cause.  Where an order of priority or implementation 
+plan governs sequencing, the corresponding dates shall be fixed upon the RM ’s approval of that 
+order or plan.  To the extent DOC becomes aware of any impediment that risks inability to meet a 
+deadline, DOC must promptly notify the RM.   
+Where the RM directs the Department to submit proposals for approval, the Department 
+must communicate and collaborate with the RM during proposal development to ensure the final 
+proposal will meet the RM’s expectations.   The Department’s responsibilities to notify, report to, 
+and obtain the approval of the RM are not limited to those explicitly enumerated in this RAP. 
+ 
+ 
+ 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 17 of 33
+ 
+ 
+   
+ 15 
+ 
+ 
+PRIORITY AREA I  
+  
+  
+Improve Core Correctional and Security Functions  
+ 
+ 
+Goal: DOC reliably and routinely performs nationally accepted core correctional and security 
+functions, including securing doors; staffing posts; controlling keys and OC spray; conducting tours 
+and searches on schedule; using restraints and escorted movement in accordance with protocol; and 
+promptly and effectively responding to emergencies.  DOC effectively limits contraband and controls 
+unauthorized movement.  When rare security failures occur, DOC quickly contains them, conducts 
+thorough and timely reviews, and implements corrective action as necessary to prevent recurrences.  
+DOC provides diverse and impactful programming through partnerships with community-based 
+service providers to reduce idle time, foster behavioral change, and support rehabilitation and 
+successful return to the community.  DOC’s housing options for individuals engaged in serious acts 
+of violence promote safety, follow national best practice, and encourage engagement in meaningful 
+programming. 
+ 
+ 
+Action Step 1: Develop and Begin Executing the Security Plan 
+1.1 The RM shall direct DOC to submit for the RM’s approval a proposed order of priority for 
+addressing lapses in core correctional and security practices.   DOC shall devise the order 
+of priority so that it is aligned to the Contempt Provisions, DOC’s prior work, and the 
+Monitoring Team’s recommendations.  DOC’s proposed order shall encompass, at a 
+minimum: unsecured doors; abandonment of post; officer key control; post orders; routine 
+tours; searches; facility emergency response teams; escorted movement with r estraints 
+where required; control of undue congregation of detainees around secure ingress/egress 
+doors; management of vestibules; and the securing of officer keys and OC spray.  
+1.2  By October 1, 2026, DOC shall submit its proposed priority order, together with a 
+proposed timeline, to the RM for review and final approval.  
+1.3  Beginning with the highest-priority item and proceeding in order, the RM shall direct and 
+guide DOC to develop, for the RM’s approval, a written practice-change plan for each item 
+that specifies: (a) the leadership official accountable for the item; (b) performance 
+expectations disaggregated by rank; (c) required revisions to policy and to pre-service and 
+in-service training, including revisions for training for first-line supervisors; (d) the metrics 
+and data sources by which DOC will measure changes in staff practice; (e) the supervisory, 
+reinforcement, and accountability mechanisms that will sustain the change , and (f) the 
+communication plan to announce the change. 
+1.4  DOC shall execute each approved practice-change plan in priority order and shall report 
+progress to the RM on a monthly basis against the metrics established under 1.3.  
+1.5  The RM shall convene periodic reviews w ith DOC leadership to identify and remove 
+barriers to progress and to determine when DOC shall commence the next priority item. 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 18 of 33
+ 
+ 
+   
+ 16 
+ 
+ 
+Execution of the items enumerated in 1.1 is expected to extend into subsequent 
+Remediation Action Plans and reporting periods.  
+ 
+ 
+Action Step 1 Measures of Remediation  
+• Within one year:   
+o DOC will obtain RM’s approval for the proposed priority order and associated 
+timeline. 
+o In accordance with the timeline, DOC will obtain RM approval of and begin 
+operationalizing the practice -change plan(s) and providing monthly progress 
+reports on operationalized practice-change plans. 
+o RM and DOC will conduct periodic reviews. 
+o Drafting of practice-change plans for the full set of enumerated items will be 
+completed. 
+• Beyond one year:   
+o Execution of practice-change plans for the full set of enumerated items will 
+continue into subsequent RAPs and reporting periods. 
+ 
+ 
+Action Step 2: Validate and Replace Defective Doors 
+2.1  No later than September 1, 2026, DOC shall validate and document, by facility and 
+housing area, the number and location of defective doors . 
+2.2  No later than October 1, 2026, DOC shall submit for the RM’s approval a procurement 
+and replacement schedule that specifies milestone dates, sequencing by risk, and funding 
+requirements, coordinating with the City  on appropriations and procurement as needed. 
+2.3  The City and DOC shall obtain necessary funding and execute the approved schedule and 
+shall report replacement progress, including any barriers or delays to progress, against 
+milestones to the RM on a monthly basis. 
+2.4 The City and DOC shall promptly notify the RM of any issue or event that risks preventing 
+DOC from procuring and replacing the doors on schedule.  
+ 
+ 
+Action Step 2 Measures of Remediation  
+• Within one year: 
+o DOC will complete and submit to the RM a validated inventory of defective doors. 
+o DOC will obtain RM’s approval of procurement and replacement schedule. 
+o The City and DOC will obtain necessary funding and procure and replace doors on 
+schedule. 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 19 of 33
+ 
+ 
+   
+ 17 
+ 
+ 
+o DOC will regularly report on progress to the RM. 
+• Beyond one year:  
+o Full door replacement will likely extend beyond one year. 
+ 
+ 
+Action Step 3: Evaluate Existing Placement Options and Develop New Placement Options for 
+Individuals Following Serious Acts of Violence 
+3.1  The RM shall direct and guide DOC to create and submit for approval an implementation 
+plan for a pilot housing program for individuals following serious acts of violence, which 
+covers, among other things: the process for staff selection, inclusion cri teria for the 
+population, a staffing plan, staff training, a schedule for the unit(s), and programming for 
+the population in the unit(s).  Goals of the pilot shall include improved security practices 
+(e.g., routine tours and well-conducted searches), behavior change, and increased 
+engagement in meaningful programming. 
+3.2  Once launched, the RM shall direct and guide DOC to assess pilot housing program 
+progress and shall determine whether and how to extend the model to additional units and 
+populations.  This work shall be planned in consultation with the Monitor and develo ped 
+in accordance with Action Plan Section E, Paragraph 4.  
+3.3 The RM shall direct and guide DOC to develop data-driven short-term strategies for 
+managing the population of persistently violent persons in custody (“PVPs”) with the goal 
+of reducing the rate at which PVPs commit violent infractions, including a schedule for 
+operationalizing these strategies.  
+ 
+ 
+Action Step 3 Measures of Remediation  
+• Within one year:  
+o DOC will obtain the RM’s approval of implementation plan.  
+o DOC will execute the implementation plan  in a timely fashion. 
+o The pilot will be launched. 
+o DOC will assess pilot progress to inform decisions regarding potential expansion.  
+o DOC will complete data analysis concerning PVPs to inform potential housing and 
+programming strategies. 
+o DOC will begin operationalizing strategies for managing the PVP populatio n. 
+• Beyond one year:   
+o Implementation of any approved pilot expansion and strategies for managing PVPs 
+may extend beyond one year. 
+ 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 20 of 33
+ 
+ 
+   
+ 18 
+ 
+ 
+Action Step 4: Establish Classification Leadership  
+4.1  No later than September 1, 2026, DOC shall submit for the RM’s approval a position 
+description and rank for an appropriately senior leadership role to oversee the strategic 
+classification of persons in custody consistent with the requirements of Action Plan Section 
+E, Paragraph 1. 
+4.2  Upon approval, DOC shall commence recruitment of a qualified official to the approved 
+role. 
+4.3  Within 60 days of the start date of the appointed official in the new role, the official shall 
+present to the RM a concrete and specific plan of action regarding  DOC’s classification 
+practices, deficiencies, and priorities.  
+4.4 The appointed official will continue refining the plan of action , as needed, and begin 
+operationalizing the plan. 
+ 
+ 
+Action Step 4 Measures of Remediation  
+• Within one year: 
+o DOC will obtain RM approval of a classification leadership role. 
+o DOC will fill the classification leadership role with a qualified official.  
+o The classification official will present a concrete and specific plan of action  to the 
+RM. 
+o The classification official will begin operationalizing the plan.  
+• Beyond one year:  
+o Execution of the plan of action will likely continue beyond one year . 
+ 
+ 
+Action Step 5: Establish a Rapid Executive Reporting Procedure for Serious Security Incidents  
+5.1  The RM shall direct DOC to submit for the RM’s approval, no later than October 15, 2026, 
+a rapid executive reporting procedure that requires preparation of a standardized executive 
+summary within a fixed period—presumptively 24 hours—of serious security incidents or 
+breaches, pursuant to a definition to be proposed by DOC; and that designates the ranks 
+responsible for preparing, reviewing, and escalating the report.  
+5.2  The procedure shall prescribe the content of the executive summary, which shall include, 
+at a minimum: a concise factual account of the incident , including identification of the 
+individuals involved; the immediate actions taken; a preliminary assessme nt of 
+contributing causes (including any staffing breakdowns that contributed to the incident) ; 
+the follow-up procedures initiated; and any best practices or corrective measures identified 
+for dissemination. 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 21 of 33
+ 
+ 
+   
+ 19 
+ 
+ 
+5.3  The procedure shall establish the escalatio n path by which the executive summary is 
+conveyed upward to executive leadership, the RM and the Monitor, within the prescribed 
+timeframe. 
+5.4  No later than December 1, 2026, DOC shall implement the approved procedure and shall  
+take steps to enhance the timeliness, quality, and completeness of executive summaries  as 
+needed. 
+ 
+ 
+Action Step 5 Measures of Remediation  
+• Within one year:   
+o DOC will propose definition of serious security incidents or breaches that will be 
+subject to the rapid reporting procedure. 
+o Rapid-reporting procedure will be approved and implemented. 
+o DOC will track timeliness, quality, and completion of executive summaries.  
+ 
+ 
+Action Step 6: Allocate Annual Funding for Programming to Increase Engagement, Promote 
+Rehabilitation, and Reduce Violence in the City Jails 
+6.1 The City and DOC shall conduct an assessment to determine the appropriate amount of 
+dedicated annual funding (approximated here as $50 million) for community -based 
+programming to increase engagement, promote rehabilitation, and reduce violence across 
+the City jails. 
+6.2  DOC shall present to the RM for approval, by October 15, 2026, a plan to administer the 
+funding for community-based programming.  The plan shall address, among other things : 
+potential activities; the types of service providers; selection criteria and a vetting process 
+for providers; and security and operational considerations, including financial oversight.  
+ 
+ 
+Action Step 6 Measure of Remediation 
+ 
+• Within one year: 
+o The City will approve or provide, and DOC will have obtained, an estimated $50 
+million in annual funding for community-based programming. 
+o DOC has begun to bring new and additional programming into the jails.   
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 22 of 33
+ 
+ 
+   
+ 20 
+ 
+ 
+PRIORITY AREA II 
+  
+  
+Transforming Staffing Models and Practices  
+ 
+ 
+Goal: DOC has completed a sophisticated, independent staffing analysis so that staff can be 
+efficiently deployed to meet operational needs.  In accordance with that analysis, DOC reliably fills 
+posts and provides appropriate levels of supervision.  DOC minimizes absenteeism, overtime, and 
+security failures resulting from staffing breakdowns. 
+ 
+ 
+Action Step 7: Validate and Assess Staffing  
+7.1  The RM will assume oversight of the independent staffing analysis being conducted by a 
+consultant previously engaged by DOC.  The analysis shall validate the Department’s 
+staffing data, including posts, schedules, deployment, and supervision.  
+7.2  No later than October 1, 2026, the RM and consultant shall deliver a completed staffing 
+assessment, supported by validated data, that identifies deficiencies in posts, scheduling, 
+deployment (including distribution of uniform staff across security and civilian roles) , and 
+supervision (including the number of supervisors in the facilities) . 
+7.3 The RM shall direct and guide DOC to develop a plan to operationalize the 
+recommendations of the independent staffing analysis. 
+ 
+ 
+Action Step 7 Measures of Remediation 
+• Within one year: 
+o Validation of staffing data (posts, schedules, deployment, supervision).  
+o Completed staffing assessment, supported by validated data, and accepted by the 
+RM. 
+o DOC shall provide a plan approved by the RM to operationalize the staffing 
+analysis recommendations. 
+• Beyond one year:  
+o The work to operationalize the plan shall likely extend beyond one year. 
+ 
+ 
+Action Step 8: Develop and Execute Staffing Plan 
+8.1  Following completion of Action Step 7, the RM shall direct and guide DOC to develop for 
+the RM’s approval a staffing plan that defines, prioritizes, and assigns timelines to the tasks 
+necessary to maximize staff deployment, including supervision, scheduling, and 
+assignment.  DOC shall update or modify the plan as directed by the RM . 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 23 of 33
+ 
+ 
+   
+ 21 
+ 
+ 
+8.2  Upon the RM’s approval, DOC shall execute the plan and shall report task completion 
+against timeline to the RM on a monthly basis.  
+ 
+Action Step 8 Measures of Remediation 
+• Within one year:  
+o Staffing plan approved by RM. 
+o DOC is executing the staffing plan consistent with the timelines established in the 
+plan. 
+o DOC is reporting progress to the RM. 
+• Beyond one year:   
+o Full execution of staffing plan is expected to extend beyond one year.  Additionally, 
+development and execution of a model staffing structure that maximizes human 
+resources will occur after the first year.  
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 24 of 33
+ 
+ 
+   
+ 22 
+ 
+ 
+PRIORITY AREA I II 
+  
+  
+Strengthen Individual and Institutional Accountability  
+ 
+ 
+Goal: Misconduct and serious incidents are investigated promptly, objectively, and competently by 
+an adequately staffed investigative function; findings reliably lead to proportionate, timely 
+discipline; and staff and persons in custody experience a credible, consistent system of accountability. 
+Functionally, accountability is swift and even-handed, deterring misconduct and reinforcing lawful, 
+professional practice. 
+ 
+ 
+Action Step 9: Improve Investigations Staffing, Structure, and Training 
+9.1  The RM shall direct DOC to submit, by September 1, 2026, for the RM’s approval, a 
+proposal for a redesigned Investigations, Intelligence, and Accountability Division  (the 
+“Division”) that is responsible for members-of-service related investigations, person-in-
+custody (“PIC”)-related investigations, intelligence functions, and a special investigations 
+unit for use in investigating discrete issues at the direction of the RM . 
+9.2  By October 1, 2026, DOC shall submit for the RM’s approval a plan through June 30, 
+2027 to improve initial staffing levels of the Division, including target staffing levels and 
+a hiring and assignment timeline. 
+9.3 By October 1, 2026, DOC shall prepare a proposal of resources (e.g., budget, equipment, 
+technology) required by the Division.  On receipt of the proposal, the RM shall direct the 
+City to take all necessary steps to provide DOC with the Division resources. 
+9.4 By February 1, 2027, DOC shall prepare a proposed training plan detailing all facets of 
+investigative and intelligence training, including any needs for remedial training for 
+existing investigators. 
+9.5 DOC shall enact each approved plan or proposal, coordinating with the City as needed. 
+ 
+ 
+Action Step 9 Measures of Remediation 
+• Within one year: 
+o DOC will obtain RM approval of redesigned Division, initial investigations staffing 
+plan, resources proposal, and training plan. 
+o DOC will execute the above plans and proposals. 
+o The City shall provide DOC with the necessary resources to implement the Division 
+staffing plan. 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 25 of 33
+ 
+ 
+   
+ 23 
+ 
+ 
+• Beyond one year: 
+o DOC will continue updating its staffing, resources, and training plans and will work 
+to achieve long-term sustainable staffing levels for its investigations teams. 
+ 
+ 
+Action Step 10: Develop the Investigations, Intelligence, and Accountability Division Strategic 
+Plan 
+10.1  The RM shall direct and guide DOC to submit a proposal no later than September 1, 2026 
+that outlines how the new Division will be restructured to operate in a streamlined and 
+efficient manner.  The proposal shall include short- and long-term action items designed to 
+produce reliable, objective, high-quality, transparent, and expeditious investigations and 
+outcomes, and improvements to the Department’s accountability framework , accounting 
+for the Monitor’s recommendations .  The list shall specifically address (a) potential 
+revisions to the employee disciplinary framework and (b) practices for referring to 
+prosecutors cases involving apparently criminal conduct by staff or persons in custody.   
+Each action item shall identify an accountable owner and a targ et completion date. 
+ 
+ 
+Action Step 10 Measures of Remediation 
+• Within one year:  
+o DOC will obtain RM approval of the Division’s strategic plan. 
+o DOC will operationalize the plan in accordance with the plan’s target completion 
+dates. 
+• Beyond one year:  
+o Long-term action items are expected to extend beyond one year.  
+o Periodic review of the Division’s Strategic Plan, with modifications submitted to 
+the RM for approval as needed. 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 26 of 33
+ 
+ 
+   
+ 24 
+ 
+ 
+PRIORITY AREA I V 
+  
+  
+Modernizing Data System s and Technology  
+ 
+ 
+Goal: DOC’s data systems reliably capture accurate, timely, and complete operational, health, and 
+mental health information; that information flows to the decision-makers who need it—including 
+for classification, housing, incident prevention and response; and le adership has trustworthy 
+business-intelligence tools to manage their enterprise, monitor conditions, act proactively, target 
+problems, and measure whether reforms are working. Functionally, the institution manages its 
+operations using reliable data rather than anecdote, and information gaps no longer impair safe 
+operations. 
+ 
+ 
+Action Step 11: Develop the Technology Strategic Plan 
+11.1  The RM shall direct and guide DOC to produce, no later than October 1, 2026, for the 
+RM’s approval, a report identifying and documenting gaps in its data management systems, 
+accounting for the Monitor’s recommendations.  
+11.2  The RM shall direct and guide DOC to submit, no later than April 1, 2027, for the RM’s 
+approval, an integrated technology strategic plan that prioritizes and sequences th e actions 
+necessary to remediate the identified gaps and to modernize DOC’s data systems in support 
+of the Priority Areas and Action Steps as outlined in the Remediation Action Plan . 
+11.3  As part of this process, the City and DOC shall report to the RM on any gaps in data 
+available to DOC regarding health and mental health data that impede DOC operational 
+functions (including the proper classification and housing of PICs, and placement in 
+specialized housing).  The City and DOC shall specify the necessary steps that must be 
+taken to ensure DOC has the information to safely operate the jails, consistent with sound 
+and standard correctional practice.  The RM shall direct the City to ensure that Correctional 
+Health Service (“CHS”) provides DOC with all information the RM or Monitoring Team 
+determine is necessary for safe operations of the jails.  
+ 
+ 
+Action Step 11 Measures of Remediation 
+• Within one year: 
+o DOC will identify data gaps and communicate them to the RM. 
+o DOC and the City will identify any gaps in information-sharing with CHS and any 
+proposed actions needed to ensure DOC has all necessary information. 
+o DOC will obtain RM’s approval of an integrated technology strategic plan.  
+o DOC will execute the integrated technology strategic plan  in a timely fashion. 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 27 of 33
+ 
+ 
+   
+ 25 
+ 
+ 
+• Beyond one year:   
+o Modernization of DOC’s data systems is expected to extend beyond one year.  
+ 
+ 
+Action Step 12: Develop a Business Intelligence Tool 
+12.1 The RM shall direct and guide DOC to produce, by October 1, 2026, for the RM’s approval, 
+a proposed business intelligence tool (e.g., dashboard, daily executive briefing document) 
+providing regular insight into the status of key Department functions and performance 
+indicators to inform executive oversight and decision-making.  The proposal shall specify 
+the data inputs, indicators, and refresh cadence, along with a timeline for development and 
+rollout. 
+12.2  Upon the RM’s approval, DOC shall develop and deploy the approved tool for use by 
+executive and facility leadership  in accordance with the approved timeline. 
+ 
+ 
+Action Step 12 Measures of Remediation 
+• Within one year: 
+o DOC will obtain RM approval of proposed business intelligence tool. 
+o DOC will deploy tool in accordance with the timeline, refining the tool as necessary 
+beyond October 1, 2026. 
+ 
+ 
+Action Step 13: Develop a Remediation Compliance Tool 
+13.1 By October 15, 2026, the RM will design and launch a remediation compliance tool to 
+ensure real-time tracking of the activities of the City, DOC, RM, and the Monitoring Team 
+to assess the status of initiatives and work, and identify gaps and barriers to addressing the 
+goals of this Remediation Action Plan. 
+ 
+ 
+Action Step 13 Measures of Remediation 
+• Within one year:   
+o RM will launch the remediation compliance tool.  
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 28 of 33
+ 
+ 
+   
+ 26 
+ 
+ 
+PRIORITY AREA V 
+  
+  
+Promoting Effective Organizational Leadership and Governance  
+ 
+ 
+Goal: DOC leadership actively manages operations using reliable information, engages in 
+structured problem solving and corrective action, is equipped to imagine, design, and lead 
+sustainable reform, and models a dignity-based culture oriented toward safety and rehabilitation.  
+Functionally, DOC leadership drives sustained, accountable operation of the facilities—
+anticipating and correcting problems—rather than reacting to crises.  Leadership eff ectively and 
+proactively communicates with staff at all levels and across all locations within the organization.  
+ 
+ 
+Action Step 14: Develop New Support for Facility Leaders 
+14.1 The RM shall direct and guide DOC to propose, no later than January 1, 2027, for the 
+RM’s approval, a new approach to coaching Facility Leadership in maintaining safety and 
+implementing sustainable reforms. The proposal shall include  cadence, participants, data 
+to be reviewed, and decisions and corrective actions to be tracked and shall focus on 
+building leadership and problem-solving capabilities . 
+14.2  DOC shall implement the approved new engagement and shall maintain a log of corrective 
+actions and their resolution. 
+ 
+ 
+Action Step 14 Measures of Remediation  
+• Within one year:  
+o DOC will obtain the RM’s approval of the restructuring of engagement betwee n 
+Executive and Facility Leadership.  
+o DOC will implement the restructured engagement.   
+ 
+ 
+Action Step 15: Adopt a Dignity -Based Values Statement 
+15.1 The RM shall direct and guide DOC to draft, by April 1, 2027, for the RM’s approval, a 
+Departmental values statement emphasizing the dignity of all persons in custody and DOC 
+staff as well as a proposed process for periodically assessing the consistency of 
+organizational practices with the values statement.  
+15.2  Following the RM’s approval, DOC shall formally adopt the finalized values statement 
+and, using a communication plan, distribute the statement  to staff and persons in custody. 
+ 
+ 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 29 of 33
+ 
+ 
+   
+ 27 
+ 
+ 
+Action Step 15 Measures of Remediation  
+• Within one year:  
+o DOC will obtain the RM’s approval of, adopt, and disseminate the values statement 
+to staff and persons in custody. 
+• Beyond one year:  
+o DOC will continue conducting periodic assessments of the consistency of 
+organizational practices with the values statement. 
+ 
+ 
+Action Step 16: Assess Compliance-Focused Resource Use 
+16.1 The RM shall direct DOC to produce for approval, within 30 days of the approval of this 
+RAP and every three months thereafter, an assessment of (a) what, if any, additional 
+resources (including personnel) are necessary and appropriate for DOC to timely complete 
+the tasks required of DOC under this Remediation Action Plan and Nunez Court orders and 
+(b) how those resources can be expeditiously obtained.  
+16.2 Upon approval by the RM of each resource need assessment, the RM shall direct the City 
+and DOC to procure the additional required resources.  
+ 
+ 
+Action Step 16 Measures of Remediation 
+• Within one year:  
+o DOC will timely submit each resource assessment to the RM.  
+o DOC will obtain the RM’s approval of the resource assessments. 
+o To the extent the RM approves additional resources, the City will approve or 
+provide, and DOC will  obtain, the resources. 
+• Beyond one year:  
+o DOC will continue conducting periodic resource assessments.  
+ 
+ 
+Action Step 17: Enhance Staff Communication 
+17.1 The RM shall direct and guide DOC to submit by August 31, 2026, for the RM’s approval, 
+a new means of effectively communicating with all staff across all posts within the 
+organization.  The proposal shall aim to address the deficiencies of communicating via 
+teletypes and roll calls. 
+17.2  The RM shall direct and guide DOC to operationalize the approved new communication 
+strategies no later than October 30, 2026. 
+ 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 30 of 33
+ 
+ 
+   
+ 28 
+ 
+ 
+Action Step 17 Measures of Remediation  
+• Within one year:  
+o DOC will roll out a new method for effectively communicating with all staff across 
+all posts within the organization 
+ 
+  
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 31 of 33
+ 
+ 
+   
+ 29 
+ 
+ 
+Endnotes 
+ 
+i See November 27, 2024, Order (Dkt. 803), at 11 (finding “the unsafe and dangerous conditions in the jails” have 
+persisted notwithstanding nearly a decade of Court -ordered reform); see also May 13, 2025, Order (Dkt. 846), at 3–5 
+(recounting the history of DOC’s noncompliance warranting the RM’s appointment); Homer Venters, Life and 
+Death in Rikers Island (2019) (documenting, from the perspective of the jail system’s former chief medical officer, 
+systemic harms produced by conditions plaguing the City jails); see generally Margo Schlanger, Civil Rights 
+Injunctions Over Time: A Case Study of Jail and Prison Court Orders , 81 N.Y.U. L. Rev. 550 (2006) (documenting 
+the decades-long lifecycle of correctional court orders nationwide).  
+ii Internal DOC data reflect overtime expenditures of more than $370 million for Fiscal Year 2026 (July 1, 2025 –
+June 30, 2026). 
+iii ⁠See, e.g., July 10, 2023, Monitor Special Report (Dkt. 557), at 12 –13 (finding that the use- of-force rate and rates 
+of violence are “far higher than in any jurisdiction with which the Monitoring Team is familiar”); id. at 17–18 (DOC 
+staff used head strikes nearly 400 times in 2022, compared to 52 in the larger Los Angeles County jail system).   
+iv These figures reflect internal incident data maintained by DOC for the period January 1 through May 31, 2026 . 
+v As one example, new DOC leadership worked closely with my team to restructure the Department’s organizational 
+chart.  While I was not required to amend the chart until the Court approved the Remediation Action Plan, new DOC 
+leadership, the Monitoring Team, and I agreed: clarifying who oversees each part of the organization was critical to 
+collectively charting a new course for the jails.  As a result, in May 2026, I reversed the prior mayoral 
+administration’s decision to fracture the Department’ s investigative, intelligence, and accountability functions—a 
+decision that created operational silos and weakened accountability among PICs and staff alike.   Now these 
+functions, covering both staff and PICs, sit in a single division under a Senior Deputy Commissioner ( “SDC”).  I 
+selected the SDC, who reports directly to my team; the Commissioner and I together make final determinations on 
+staff discipline.  In consultation with the Monitoring Team, I also urged DOC to move its Administration unit, which 
+handles officer scheduling, out of the officer chain of command and under the SDC of Administration.  And the 
+Chief of Department, the top uniformed officer , now reports to both the Commissioner  and me.  I view each of these 
+changes as vital to robust individual and institutional accountability in service of reform.  
+vi See, e.g., Erika Harrell et al., U.S. Dep’t of Just., Bureau of Just. Stat., NCJ 250748, Indicators of Workplace 
+Violence, 2019 (2022), https://bjs.ojp.gov/content/pub/pdf/iwv19.pdf (reporting an average annual rate of 149.1 
+nonfatal violent victimizations per 1,000 workers in corrections occupations during 2015 –2019—the highest rate 
+among all occupations measured—compared with 8.0 per 1,000 for workers overall).  
+vii See, e.g., Jeremy Travis, But They All Come Back: Facing the Challenges of Prisoner Reentry (2005) (arguing 
+that because nearly all incarcerated people eventually return to their communities, correctional policy should be 
+organized around preparing them for that return); Bruce Western, Homeward: Life in the Year After Prison (2018) 
+(documenting, through a longitudinal study of people in their first year after release, the material hardship, unstable 
+housing, and untreated health needs that often follow unprepared reentry).  
+viii See, e.g., The Fortune Society, https://fortunesociety.org (providing reentry programming in the City jails since 
+1967 through staff and leadership substantially comprising formerly incarcerated people); Osborne Association, 
+https://www.osborneny.org (providing family, education, and reentry programming inside New York City and State 
+correctional systems). 
+ix DOC staff perform a wide range of functions —security posts, intake, escort, transportation, court production, 
+hospital coverage, visit operations, and administrative assignments—each of which bears on the number and type of 
+posts the Department must fill on a day- to-day basis. 
+x Over the last 20 years, DOC has had seven commissioners—an average tenure of about 3.3 years, excluding the 
+current commissioner.  Since 2021 alone, the Department has had four commissioners.  
+xi See generally Judith Resnik, Impermissible Punishments: How Prison Became a Problem for Democracy  (2025) 
+(chronicling the American corrections profession’s construction of imprisonment around custody and control as its 
+organizing premises); Sharon Dolovich, Exclusion and Control in the Carceral State, 16 Berkeley J. Crim. L. 259 
+(2011) (arguing that American incarceration is organized around the imperatives of excluding and controlling those 
+it confines, rather than around their eventual successful return to society ). 
+xii See Ruth Delaney et al., Vera Inst. of Just., Reimagining Prison (2018), 
+https://www.vera.org/publications/reimagining-prison-print-report (drawing on the German model to propose human 
+dignity as the governing principle of American correctional policy and practice); Ram Subramanian et al., Brennan 
+Ctr. for Just., Prison Reform in the United States  (2026), https://www.brennancenter.org/our-work/research-
+reports/prison-reform-united-states (documenting dignity-centered correctional reforms underway in Maine, 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 32 of 33
+ 
+ 
+   
+ 30 
+ 
+ 
+ 
+Michigan, North Dakota, Pennsylvania, and South Carolina, including a Pennsylvania housing unit modeled on 
+Scandinavian practice that recorded almost no violent episodes in 2024 even as violence rose 22 percent across the 
+state’s other facilities). 
+Case 1:11-cv-05845-LTS     Document 988     Filed 07/14/26     Page 33 of 33

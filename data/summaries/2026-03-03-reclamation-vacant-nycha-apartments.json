@@ -1,0 +1,55 @@
+{
+  "id": "2026-03-03-reclamation-vacant-nycha-apartments",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI's Investigation into the Reclamation of Vacant NYCHA Apartments",
+  "plain_title": "Vacant public housing units are a growing safety risk",
+  "agency": "New York City Housing Authority",
+  "issued": "2026-03-03",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined the public safety risks posed by the growing number of vacant New York City Housing Authority (NYCHA) apartments and how well NYCHA secures those units against illegal occupancy.",
+  "background": "Vacant NYCHA apartments rose from about 2,840 in January 2022 to 6,740 as of May 2025, with the average vacancy lasting about a year, while 165,000 applicants sit on the public housing waitlist. Lead and asbestos abatement requirements and funding constraints drive the lengthy turnover process.",
+  "findings": [
+    {
+      "plain": "Vacant apartments without adequate security create opportunities for illegal occupancy, and some unauthorized occupants use the units as a base for illegal activities.",
+      "quote": "vacant apartments, without adequate security measures, create opportunities for illegal occupancy by \nunauthorized individuals, some of whom use the apartments as a base for illegal activities."
+    },
+    {
+      "plain": "From January 2022 to May 2025, the New York City Police Department reclaimed 548 apartments from unauthorized occupants, 60 through joint efforts with DOI, and those joint efforts produced 81 arrests on charges including trespassing, drug possession and weapon possession.",
+      "quote": "the NYPD reclaimed 548 apartments  from \nunauthorized occupants, 60 of which were reclaimed through joint efforts  by the NYPD and DOI."
+    },
+    {
+      "plain": "NYCHA does not proactively inspect vacant apartments throughout the turnover cycle, which lets trespassing and other illegal activity go undetected and delays the discovery of unauthorized occupants.",
+      "quote": "NYCHA does not proactively inspect vacant apartments to ensure that the unit is in fact vacant \nthroughout the entirety of the apartment turnover cycle."
+    },
+    {
+      "plain": "NYCHA procedure requires every vacant apartment in a development to use the same lockset and key, so anyone with the key can enter any vacant unit. Some employees instead use a generic \"65 key\" that also opens utility rooms and management offices authority-wide, adding to the risk.",
+      "quote": "presenting the risk that individuals could, upon acquiring a key, access any vacant unit in the \ndevelopment."
+    },
+    {
+      "plain": "Turning over an apartment costs about $52,000 on average, including roughly $17,000 for lead abatement, $25,000 for asbestos abatement and $10,000 for general renovations, and funding constraints make it hard for NYCHA to shorten the process.",
+      "quote": "The average cost to complete the turnover process is approximately $52,000"
+    }
+  ],
+  "numbers": [
+    {"value": "6,740", "label": "Vacant NYCHA apartments as of May 2025"},
+    {"value": "2,840", "label": "Vacant apartments in January 2022"},
+    {"value": "548", "label": "Apartments reclaimed from unauthorized occupants"},
+    {"value": "81", "label": "Arrests from joint NYPD-DOI reclamation efforts"},
+    {"value": "165,000", "label": "Applicants on the public housing waitlist"},
+    {"value": "$52,000", "label": "Average cost to turn over a vacant apartment"}
+  ],
+  "recommendations": [
+    "NYCHA should revise its apartment turnover procedure to require monthly property management inspections of vacant apartments not yet ready for rental, secure windows and door locks during those inspections and report any unauthorized occupants to NYCHA's law department within 72 hours.",
+    "NYCHA should evaluate alternative locksets or security technologies such as electronic locks, and meanwhile require each development to rotate among at least two or three versions of move-out cylinders and keys, with no two developments sharing the same keys.",
+    "NYCHA should revise its Resident Watch guidelines to require volunteers to report suspected unauthorized inhabitants or illegal activity in vacant apartments to their supervisor, who should inform property management by the end of the shift and log the reports.",
+    "When property management receives such a report from a Resident Watch supervisor, it should immediately seek to confirm it and, if verified, report to NYCHA's law department within 72 hours.",
+    "If NYCHA receives additional refurbishment funding, it should deploy the money to shorten the time needed to complete apartment turnovers."
+  ],
+  "agency_response": "NYCHA accepted all five recommendations, noting it will need about a year to build automated work orders for the monthly inspections, six months to a year to update the Quality of Life form and that the funding recommendation is subject to available money.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["housing", "public safety"],
+  "is_followup": false
+}

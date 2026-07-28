@@ -1,0 +1,53 @@
+{
+  "id": "2026-05-05-access-denied-oversight-child-welfare",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System",
+  "plain_title": "State law blocks watchdog scrutiny of child welfare cases",
+  "agency": "New York City Administration for Children's Services",
+  "issued": "2026-05-05",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined how New York State Social Services Law and the state Office of Children and Family Services (OCFS) restrict DOI's access to Administration for Children's Services (ACS) records, hindering its City Charter-mandated oversight of the child welfare system.",
+  "background": "ACS investigates reports of child abuse and maltreatment, while OCFS, a state agency, regulates many of ACS's policies and maintains the statewide child abuse hotline register. DOI is the city's inspector general and investigates systemic failures, criminality, corruption and inefficiencies at city agencies.",
+  "findings": [
+    {
+      "plain": "Five provisions of the state Social Services Law significantly restrict DOI's access to ACS records essential for rigorous oversight, including investigations of systemic failures, criminality and corruption.",
+      "quote": "five provisions in the law  significantly restrict DOI’s access to records of the City Administration for Children’s \nServices (ACS) that are essential for rigorous oversight"
+    },
+    {
+      "plain": "Three provisions require OCFS authorization before DOI can access almost any records about children who had contact with ACS, and OCFS often exercises that discretion in ways DOI found more restrictive than the law requires, delaying investigations for months.",
+      "quote": "OCFS’s responses \nto DOI record requests are often more restrictive than what the applicable laws intend or require"
+    },
+    {
+      "plain": "Two other provisions bar DOI entirely from records of abuse reports ACS deemed unfounded and reports diverted to the CARES alternative-to-investigation program, so DOI cannot investigate, for example, whether an employee failed to investigate abuse because of a bribe.",
+      "quote": "Two other provisions of State law prohibit DOI from accessing certain categories of ACS records \naltogether"
+    },
+    {
+      "plain": "In 2025 DOI was notified of 18 child fatalities where ACS had prior involvement with the family in the past decade, but state law barred access to the full ACS history in 17 of them. The numbers were 13 of 16 in 2024 and 19 of 25 in 2023.",
+      "quote": "current state law bars DOI from accessing the full ACS history in 17 of those matters"
+    },
+    {
+      "plain": "Unfounded and diverted reports are precisely where lapses in ACS supervision or decision-making would likely appear, and the restrictions also prevent DOI from reviewing alleged systemic unfairness such as racial disparities.",
+      "quote": "unfounded reports , and reports diverted to \nCARES, are exactly where one c ould expect to find lapses in ACS supervision or decision- making."
+    },
+    {
+      "plain": "Years of negotiations with OCFS have produced no tangible improvements; the authorization process has grown more burdensome over time, even when ACS itself referred the allegations to DOI and is cooperating.",
+      "quote": "the authorization process has become more burdensome over time, even in cases \nwhere ACS itself referred the initial allegations to DOI and is cooperating with the investigation."
+    }
+  ],
+  "numbers": [
+    {"value": "five", "label": "State law provisions restricting DOI's access to records"},
+    {"value": "18", "label": "Child fatalities with prior ACS involvement reported to DOI in 2025"},
+    {"value": "17", "label": "Of those fatalities where law barred full record access"},
+    {"value": "19", "label": "Fatality cases blocked of 25 reported in 2023"}
+  ],
+  "recommendations": [
+    "The state Social Services Law provisions restricting DOI's access to ACS records should be amended so DOI can carry out its City Charter-mandated oversight of ACS; DOI supports pending state legislation by Senator Jabari Brisport and Assemblymember Andrew Hevesi that would provide that access."
+  ],
+  "agency_response": "A draft of the report was provided to ACS and OCFS for comment, and DOI considered their comments in finalizing it. OCFS has repeatedly said it follows its legal obligations and does not wish to obstruct or delay DOI's work.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["children and youth", "social services", "transparency"],
+  "is_followup": false
+}

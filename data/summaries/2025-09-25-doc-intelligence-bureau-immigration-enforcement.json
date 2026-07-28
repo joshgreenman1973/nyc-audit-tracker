@@ -1,0 +1,57 @@
+{
+  "id": "2025-09-25-doc-intelligence-bureau-immigration-enforcement",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI Investigation into DOC Correction Intelligence Bureau Investigator Assisting Federal Agents with Immigration Enforcement",
+  "plain_title": "Jail investigator broke sanctuary laws by helping ICE",
+  "agency": "New York City Department of Correction",
+  "issued": "2025-09-25",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) investigated allegations that Department of Correction (DOC) officers on a joint federal task force helped Immigration and Customs Enforcement (ICE) agents arrest a person in custody, and examined DOC's guidance and training on the city's sanctuary laws.",
+  "background": "New York City local laws and mayoral executive orders, referred to as \"Sanctuary City\" laws, limit when local officials can share information with immigration authorities about non-citizens for civil immigration enforcement. DOC policy likewise prohibits employees from using city resources to assist federal civil immigration enforcement.",
+  "findings": [
+    {
+      "plain": "A DOC Correction Intelligence Bureau investigator assigned to the Homeland Security Investigations Violent Gang Task Force assisted immigration authorities in the February 2025 apprehension of a person released from Rikers Island, in violation of the city's sanctuary laws and DOC policy.",
+      "quote": "did in fact assist immigration authorities in \nthe apprehension of Concepcion, as alleged by the complainant, in violation of New York City’s Sanctuary \nCity l aws and DOC policy."
+    },
+    {
+      "plain": "DOI uncovered a second incident in which the same investigator gave federal immigration authorities information about another person in custody, including a screenshot with his booking photo, criminal charges and next court date, also in violation of city law and DOC policy.",
+      "quote": "CIB Investigator A \nprovided information to federal immigration authorities about another PIC, Pedro Mujica Villa Nueva, in \nfurtherance of immigration enforcement"
+    },
+    {
+      "plain": "In the arrest case, immigration authorities presented neither a civil immigration detainer nor a judicial warrant, and the man's conviction for third-degree assault did not meet the \"violent or serious crime\" definition that could have permitted assistance.",
+      "quote": "Immigration authorities did not present either a civil \nimmigration detainer or a judicial warrant"
+    },
+    {
+      "plain": "In both instances the investigator did not understand that the help he provided furthered civil immigration enforcement rather than a criminal investigation, a failure DOI traced to a lack of training and guidance by DOC.",
+      "quote": "CIB Investigator A’s failure to inquire further \nwith respect to the purpose of the assistance that HSI asked that he provide was the result of a lack of \ntraining and guidance by DOC."
+    },
+    {
+      "plain": "DOC provided no training to officers or staff on the sanctuary laws or its own related policy, and had issued no other guidance on interacting with law enforcement agencies involved in immigration enforcement before DOI raised the issue.",
+      "quote": "DOC does not provide any training to its officers or staff about NYC “Sanctuary City” laws or DOC’s \npolicy issued pursuant to those laws."
+    },
+    {
+      "plain": "The two immigration enforcement assistance requests were not reported to the Mayor's Office of Immigrant Affairs or posted on the department's website as city law requires.",
+      "quote": "not reported to the Mayor’s Office of Immigrant Affairs or posted on the Department’s website, as \nrequired by City Law."
+    }
+  ],
+  "numbers": [
+    {"value": "seven", "label": "Policy and procedure recommendations issued to DOC"},
+    {"value": "two", "label": "Persons in custody whose information was improperly shared"}
+  ],
+  "recommendations": [
+    "Provide updated guidance to DOC employees on the city's immigration enforcement laws and DOC policy, including in-person training and memorandums with DOC-specific scenarios.",
+    "Give staff specific guidance on responding to requests from law enforcement partners, including follow-up questions about the request's purpose and when to seek supervisory or general counsel approval.",
+    "Instruct all DOC staff to direct any immigration-related requests from other law enforcement authorities to the ICE Unit and the general counsel's office.",
+    "Amend Operations Order 9/19 to require the ICE Unit to regularly ask other DOC units whether they have received immigration enforcement-related requests and to require a written response.",
+    "Have senior DOC officials confer with senior officials at partner federal agencies to remind them that DOC staff are bound by city law and cannot assist civil immigration enforcement except in very limited circumstances.",
+    "Conduct a department-wide audit to determine whether there were other instances where the department, intentionally or not, assisted in immigration enforcement.",
+    "Report any previously unknown or unreported immigration enforcement-related requests to the Mayor's Office of Immigrant Affairs as the administrative code requires."
+  ],
+  "agency_response": "DOC accepted four recommendations, partially accepted two and is considering one. It has already conducted in-person training for intelligence and investigative staff, issued a department-wide teletype directing referral of immigration requests to its ICE Unit and legal division, and said a full agency-wide audit is impractical but targeted reviews will be considered.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

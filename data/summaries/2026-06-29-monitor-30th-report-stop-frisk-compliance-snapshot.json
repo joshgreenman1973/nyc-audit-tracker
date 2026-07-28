@@ -1,0 +1,59 @@
+{
+  "id": "2026-06-29-monitor-30th-report-stop-frisk-compliance-snapshot",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Thirtieth Report of the Independent Monitor: Compliance Snapshot of NYPD’s Stop, Frisk, and Search Practices",
+  "plain_title": "Stop and frisk compliance snapshot for summer 2025",
+  "agency": "New York City Police Department",
+  "issued": "2026-06-29",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2026/06/08-1034-As-Filed.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2026/06/08-1034-As-Filed.pdf",
+  "what_they_audited": "A quarterly visual \"compliance snapshot\" updating the monitor's Twenty-Ninth Report on the New York City Police Department's (NYPD) compliance with the federal court's requirements in Floyd v. City of New York and Davis v. City of New York, covering the third quarter (July to September) of 2025.",
+  "background": "The report covers the third quarter of 2025 and in several slides compares it to the third quarter of 2024. It draws on the monitor team's audits of 100 stop reports per month and quarterly body-worn camera video audits, plus audits by the NYPD Quality Assurance Section, command self-inspections and first-line supervisor reviews; the quarter's sample includes 22 Community Response Team stops.",
+  "findings": [
+    {
+      "plain": "In the third quarter of 2025, the monitor's audits found 94% of reported stops, 81% of frisks and 74% of searches lawful, minimal improvement over the same quarter of 2024, with search compliance still far below acceptable levels.",
+      "quote": "compliance rates were 94% for stops, 81% for frisks, and..."
+    },
+    {
+      "plain": "Self-initiated stop compliance has improved over time, reaching a department-wide rate of 87% for the quarter, though frisks and searches during self-initiated stops were lawful only 68% and 66% of the time.",
+      "quote": "Self-initiated stop compliance rates have improved over time, with a Department-wide..."
+    },
+    {
+      "plain": "While assembling the data, the monitor discovered that the department's Quality Assurance Section never audited any stops by the Citywide Community Response Team from March 2023 to March 2026. The monitor requested and assessed a sample of 100 of those stops and included the results in the snapshot.",
+      "quote": "QAS never audited stops by this command"
+    },
+    {
+      "plain": "Supervisor review remained poor. The monitor found 6% of stops, 18% of frisks and 27% of searches unlawful, while reviewing supervisors flagged only 1% of stops, 4% of frisks and 7% of searches.",
+      "quote": "supervisors found that only 1% of stops, 4% of frisks, and 7% of searches"
+    },
+    {
+      "plain": "Officers failed to complete stop reports for 29% of stops identified in the monitor's audit (10 of 35), down from 47% in the third quarter of 2024, though the monitor said underreporting continues at an unacceptable rate and likely affects the accuracy of compliance figures.",
+      "quote": "For 29% of stops identified in the Monitor's audit for underreporting in the third"
+    },
+    {
+      "plain": "Officers recorded 96% of stops in their entirety on body-worn camera, up from 90% a year earlier.",
+      "quote": "for 96% of stops identified in the Monitor's audit"
+    },
+    {
+      "plain": "Housing Bureau compliance was low, especially for searches: 82% of stops, 75% of frisks and only 43% of searches were lawful, a sharp decline in search lawfulness from the previous quarter. Trespass arrest compliance was 96% on both the reason to approach and probable cause.",
+      "quote": "decline in the percentage of searches found lawful from the second quarter of 2025 to the third quarter of 2025."
+    }
+  ],
+  "numbers": [
+    {"value": "94%", "label": "Reported stops found lawful, third quarter of 2025"},
+    {"value": "81%", "label": "Frisks found lawful, third quarter of 2025"},
+    {"value": "74%", "label": "Searches found lawful, third quarter of 2025"},
+    {"value": "87%", "label": "Self-initiated stops found lawful, third quarter of 2025"},
+    {"value": "29%", "label": "Stops missing a stop report in the monitor's audit"},
+    {"value": "43%", "label": "Housing Bureau searches found lawful"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "The monitor found minimal improvement in the third quarter of 2025: stop compliance and self-initiated stop compliance rose, but search compliance remained far below acceptable levels, supervisors still identified almost no unlawful encounters, underreporting continued at an unacceptable rate and the department's audit section had never audited the Citywide Community Response Team's stops.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

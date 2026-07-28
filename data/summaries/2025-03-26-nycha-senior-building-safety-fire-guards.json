@@ -1,0 +1,66 @@
+{
+  "id": "2025-03-26-nycha-senior-building-safety-fire-guards",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "Safeguarding NYCHA Residents: A Review of Select Safety Measures at Senior Buildings & Compliance with Fire Guard Requirements",
+  "plain_title": "Guards at public housing senior buildings often just weren't there",
+  "agency": "New York City Housing Authority",
+  "issued": "2025-03-26",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) examined oversight of contracted security guards at New York City Housing Authority (NYCHA) senior buildings, which house residents 62 and older, and compliance with fire guard requirements at NYCHA developments.",
+  "background": "The investigation was prompted by March 2022 media reports on security lapses at NYCHA's Corsi Houses in East Harlem, where the front door did not lock. NYCHA contracted with FJC Security, doing business as Allied Universal Security Services, for guard services, and the city fire code requires round-the-clock fire guards in buildings with uncorrected fire safety deficiencies.",
+  "findings": [
+    {
+      "plain": "In DOI's surveillance of randomly selected senior buildings, 64 of 94 scheduled security guards, about 68%, were absent for all or part of their required shift. Fifty-four abandoned their post for an average of about two hours and five never showed for their entire eight-hour shift.",
+      "quote": "64 of the 94 scheduled security guards (approximately 68%) were absent for all or part of their \nrequired shift"
+    },
+    {
+      "plain": "Some absent guards falsified handwritten timesheets to indicate they worked a full shift, causing NYCHA to be billed for services that were not provided.",
+      "quote": "falsified their handwritten timesheets to indicate that they had worked \ntheir entire shift, jeopardizing the safety of NYCHA residents"
+    },
+    {
+      "plain": "During in-person inspections, about nine of 28 lobby doors, roughly 32%, were not secure, and 44 of 63 senior buildings, about 70%, had closed-circuit cameras that were inoperable or could not be viewed remotely.",
+      "quote": "44 of the 63 Senior Buildings (approximately 70%) had CCTV \ncameras that were inoperable or unable to be viewed remotely."
+    },
+    {
+      "plain": "At fire watch sites, only 23 of 60 scheduled fire guards, about 38%, were present at their posts for the duration of DOI's inspections, and guards kept abandoning posts even after DOI shared its findings with NYCHA.",
+      "quote": "only 23 of 60 \nscheduled fire guards (approximately 38%) were present at their assigned posts for the duration of \nthe inspection"
+    },
+    {
+      "plain": "Scheduled fire guards were absent during three fires at the Douglass, Taft and Ingersoll Houses, two of which caused minor injuries, and the guards had falsified timesheets claiming to be present.",
+      "quote": "Scheduled fire guards were absent during three fires that occurred in three different buildings"
+    },
+    {
+      "plain": "Over the contract term from October 2019 to February 2024, both NYCHA and Allied Universal failed to consistently exercise required oversight. NYCHA's Office of Safety and Security failed to consistently conduct or document field inspections for multiple consecutive years.",
+      "quote": "failed, among other things, to consistently conduct field inspections of the security and \nfire guards, and to document the inspections that it did conduct, for multiple consecutive years of the \ncontract term."
+    }
+  ],
+  "numbers": [
+    {"value": "68%", "label": "Guards absent for all or part of their shift"},
+    {"value": "38%", "label": "Fire guards present for the full inspection period"},
+    {"value": "70%", "label": "Senior buildings with broken or unviewable cameras"},
+    {"value": "32%", "label": "Lobby doors found not secure"},
+    {"value": "39", "label": "In-person inspections of senior buildings"},
+    {"value": "12", "label": "Recommendations issued to NYCHA"}
+  ],
+  "recommendations": [
+    "Require guard vendors to provide a smartphone app with geofencing and electronic timekeeping that alerts vendor managers when guards leave their post, with QR code scans along patrol routes and backup call-in procedures when the app is down.",
+    "Require vendors to provide geofencing and electronic timekeeping records as invoice backup, with the vendor's invoicing system configured to block invoices when records show a guard did not complete the scheduled shift.",
+    "Include in guard contracts a definition of \"post abandonment\" specifying the minimum number of minutes, such as no more than 15 minutes.",
+    "Provide security guards a designated desk or podium bearing NYCHA's insignia in the lobby to serve as their central duty location.",
+    "Require property management to post lobby signage with contact information for NYCHA's Office of Safety and Security for emergencies and complaints about guards.",
+    "Require a minimum number of documented unannounced monthly inspections of guard performance and biweekly briefings up the chain on vendor performance.",
+    "Revise the field inspection form so inspectors check that lobby and stairwell doors are secure with working self-closing hardware and that cameras work with unobstructed views, and train inspection staff accordingly.",
+    "Revise the manual so the safety office immediately reports security infrastructure deficiencies it cannot fix to property management, which must generate a work order ticket within 12 hours.",
+    "Revise the field inspection report form to require electronic delivery, such as scanning and uploading or submission through NYCHA's ServiceNow platform.",
+    "Revise the manual to define the Security Manager role and specify the titles and duties of employees responsible for managing the guard contracts.",
+    "Establish a process to receive and verify invoices, certified payroll, electronic timekeeping and geofencing records and confirm they accurately reflect hours worked before paying.",
+    "Require biweekly vendor invoices and retain relevant camera footage until invoices are reviewed and approved so NYCHA can cross-reference them when needed."
+  ],
+  "agency_response": "NYCHA accepted eight recommendations and accepted four in part, saying it will build the technology, invoicing and post-abandonment requirements into future contracts but that changing current contracts would be too costly and time consuming.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": ["housing", "public safety", "seniors"],
+  "is_followup": false
+}

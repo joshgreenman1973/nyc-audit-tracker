@@ -1,0 +1,58 @@
+{
+  "id": "2025-05-21-monitor-24th-report-stop-frisk-compliance-snapshot",
+  "source": "monitor",
+  "auditor": "Federal monitor (NYPD stop and frisk)",
+  "title": "Twenty-Fourth Report of the Independent Monitor: Compliance Snapshot of NYPD’s Stop, Frisk, and Search Practices",
+  "plain_title": "NYPD stop and frisk compliance snapshot for 2024",
+  "agency": "New York City Police Department",
+  "issued": "2025-05-21",
+  "url": "https://www.nypdmonitor.org/wp-content/uploads/2025/05/2025.05.21-960-Monitors-Twenty-Fourth-Report.pdf",
+  "pdf": "https://www.nypdmonitor.org/wp-content/uploads/2025/05/2025.05.21-960-Monitors-Twenty-Fourth-Report.pdf",
+  "what_they_audited": "A visual \"compliance snapshot\" of how well New York City Police Department (NYPD) stops, frisks and searches complied with the federal court's requirements in Floyd v. City of New York, Ligon v. City of New York and Davis v. City of New York, based on the monitor team's audits of stop reports and body-worn camera videos through 2024.",
+  "background": "The independent monitor oversees the NYPD's compliance with federal court orders in the Floyd, Ligon and Davis stop and frisk cases. The monitor's audits assess whether stops, frisks and searches complied with the Fourth Amendment, reviewing samples of 100 stop reports per month and 225 body-worn camera videos per quarter.",
+  "findings": [
+    {
+      "plain": "Compliance rose over the first three quarters of 2024. In the third quarter, the monitor's audits found 91% of reported stops, 79% of frisks and 78% of searches were lawful.",
+      "quote": "91% of stops, 79% of frisks, and 78% of searches were assessed as lawful"
+    },
+    {
+      "plain": "Stops that officers initiated on their own observations were far less lawful than stops responding to 911 or 311 calls or witness information. For the first three quarters of 2024, self-initiated stops were lawful 79% of the time, with frisks at 60% and searches at 66%.",
+      "quote": "...complainant information were lawful, and 79% of self-initiated stops were lawful."
+    },
+    {
+      "plain": "Most NYPD commands fell short of even an 85% lawfulness rate for frisks and searches: in the third quarter of 2024 only 46% of commands cleared that bar for frisks and only 27% did for searches.",
+      "quote": "In other words, most NYPD commands did not achieve minimum..."
+    },
+    {
+      "plain": "Supervision was a critical gap. The monitor found 11% of stops, 26% of frisks and 26% of searches unlawful in the third quarter of 2024, while NYPD reviewing supervisors approved nearly everything, flagging only 3% of stops, 1% of frisks and 7% of searches. The NYPD's own Quality Assurance Section audits, by contrast, had improved and closely mirrored the monitor's findings.",
+      "quote": "...approved close to 100% of all stops, frisks, and searches and barely identified any..."
+    },
+    {
+      "plain": "Officers often did not document stops. About 38% of stops identified in the monitor's audits over 2022 to 2024 went unreported, and in the fourth quarter of 2024 officers failed to complete stop reports for 30% of stops the audit identified.",
+      "quote": "approximately 38% of stops in the Monitor’s audits have gone..."
+    },
+    {
+      "plain": "Stops prompted by complainants or radio runs led to arrests far more often than self-initiated stops. In the fourth quarter of 2024 the arrest rate was 41% for complainant stops and 42% for radio run stops, versus 11% for self-initiated stops and just 7% for self-initiated stops for suspected weapon possession.",
+      "quote": "the arrest rate for RR stops was 42%; the arrest rate for all SI stops was 11%"
+    },
+    {
+      "plain": "Housing Bureau officers had lower compliance than the department overall: in the first half of 2024, 77% of their stops, 52% of frisks and 48% of searches were lawful, though trespass arrests showed high compliance (98% had an objective credible reason to approach and 99% had probable cause).",
+      "quote": "77% of stops, 52% of frisks, and 48% of searches were assessed as lawful"
+    }
+  ],
+  "numbers": [
+    {"value": "91%", "label": "Reported stops found lawful, third quarter of 2024"},
+    {"value": "38%", "label": "Stops that went unreported, 2022 through 2024"},
+    {"value": "30%", "label": "Stops missing a stop report, fourth quarter of 2024"},
+    {"value": "7%", "label": "Arrest rate for self-initiated weapon stops, fourth quarter of 2024"},
+    {"value": "27%", "label": "Commands with search compliance above 85%, third quarter of 2024"}
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "The monitor found compliance improving during 2024 but still short of the court's requirements: most commands did not reach 85% lawfulness for frisks and searches, supervisors approved nearly all stops including unlawful ones and underreporting of stops continued to be a problem.",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}
