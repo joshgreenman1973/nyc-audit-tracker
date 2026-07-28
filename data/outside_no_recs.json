@@ -200,5 +200,29 @@
     "publisher": "cuf",
     "issued": "2025-08-01",
     "reason": "Not NYC government: all three recommendations are addressed to New York State leaders."
+  },
+  {
+    "url": "http://www.centernyc.org/reports-briefs/testimony-on-joint-legislative-budget-hearing-on-taxes",
+    "title": "Testimony on Joint Legislative Budget Hearing on Taxes",
+    "publisher": "cnycaffairs",
+    "reason": "Testimony, which the outside spec excludes, and it addresses New York State budget tax proposals rather than New York City government."
+  },
+  {
+    "url": "http://www.centernyc.org/reports-briefs/testimony-before-the-joint-legislative-labor-and-workforce-development-budget-hearing",
+    "title": "Testimony before the Joint Legislative Labor and Workforce Development Budget Hearing",
+    "publisher": "cnycaffairs",
+    "reason": "Testimony, which the outside spec excludes, and it concerns the state unemployment insurance trust fund rather than New York City government."
+  },
+  {
+    "url": "https://nycfuture.org/research/the-emerging-financial-security-crisis-facing-older-adults-across-new-york",
+    "title": "The Emerging Financial Security Crisis Facing Older Adults Across New York State",
+    "publisher": "cuf",
+    "reason": "Not NYC government: statewide analysis whose policy proposals are addressed to New York State policymakers."
+  },
+  {
+    "url": "https://citizensunion.org/document/2025-01-24/twice-as-many-senior-city-officials-indicted-or-resigned-amid-ethical-scandal-under-mayor-adams-as-under-the-past-four-mayors-combined-citizens-union-analysis-finds/",
+    "title": "Twice as Many Senior City Officials Indicted or Resigned Amid Ethical Scandal Under Mayor Adams as Under the Past Four Mayors Combined, Citizens Union Analysis Finds",
+    "publisher": "citizensunion",
+    "reason": "No recommendations: a comparative tally of senior officials indicted or resigned across five administrations, with a general call for ethics reform but no specific proposals."
   }
 ]

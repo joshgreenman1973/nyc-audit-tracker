@@ -20478,6 +20478,167 @@
    ]
   },
   {
+   "id": "2025-01-01-cuf-15-policy-ideas-2025",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "15 Policy Ideas for NYC to Start 2025",
+   "plain_title": "Fifteen local policy ideas for the city to take up in 2025",
+   "agency": "New York City government",
+   "issued": "2025-01-01",
+   "url": "https://nycfuture.org/research/15-policy-ideas-for-new-york-to-start-2025",
+   "pdf": "",
+   "what_they_audited": "A short compilation from the Center for an Urban Future, a New York City based think tank, gathering 15 policy ideas the group wrote about during 2024 and putting them forward for city leaders at the start of 2025.",
+   "background": "The group frames the list around its expectation that New York will get less help from Washington, and argues city leaders will need locally driven solutions. The ideas cover the City University of New York, workforce training, parks, housing, small business and the arts.",
+   "findings": [
+    {
+     "plain": "Small unpaid bills keep students from coming back to finish a City University of New York degree.",
+     "quote": "these unpaid balances, even those as little as $250, are a major factor in preventing students from reenrolling in CUNY"
+    },
+    {
+     "plain": "The city has roughly 20,000 Black- and Latino-owned businesses, but few grow past the small stage, and they take in far less revenue on average than white-owned firms.",
+     "quote": "the city’s average minority-owned employer business generates less than half the revenue—45 percent—of the average white-owned employer business"
+    },
+    {
+     "plain": "Four-year graduation rates at CUNY's senior colleges remain low, and lower still for Black and Hispanic students, while the program shown to lift them reaches a small share of students.",
+     "quote": "today only 36 percent of full-time students at CUNY’s senior colleges graduate in four years"
+    },
+    {
+     "plain": "Parks concessions, the department's largest revenue source, have not grown in a decade and have lost ground to inflation.",
+     "quote": "concessions revenue has flatlined just above $42 million for more than a decade—and has declined 25 percent since 2012, after adjusting for inflation"
+    },
+    {
+     "plain": "The creative economy pays above the citywide median and employs more than 300,000 people, but Black New Yorkers hold a small share of those jobs.",
+     "quote": "Black workers hold fewer than 8 percent of the city’s advertising jobs, while comprising nearly 21 percent of the city’s total workforce"
+    },
+    {
+     "plain": "About a third of new city teachers come out of CUNY, but very few arrive prepared to teach computing concepts.",
+     "quote": "fewer than 5 percent of all new teachers are prepared to teach computational thinking"
+    },
+    {
+     "plain": "Nonprofits delivering city human services cannot fill their jobs, and immigrant training programs are turning away hundreds of applicants.",
+     "quote": "the average human services nonprofit has more than 15 percent of its positions vacant"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$1,000",
+     "label": "Unpaid CUNY balance the proposed Fresh Start would clear"
+    },
+    {
+     "value": "20,000",
+     "label": "Black- and Latino-owned businesses in the five boroughs"
+    },
+    {
+     "value": "36 percent",
+     "label": "Four-year graduation rate at CUNY senior colleges"
+    },
+    {
+     "value": "$42 million",
+     "label": "Yearly Parks Department concessions revenue"
+    },
+    {
+     "value": "300,000",
+     "label": "New Yorkers employed in the creative economy"
+    },
+    {
+     "value": "15 percent",
+     "label": "Average vacancy rate at human services nonprofits"
+    },
+    {
+     "value": "11,000",
+     "label": "Aspiring teachers enrolled at CUNY each year"
+    }
+   ],
+   "recommendations": [
+    "Create CUNY Fresh Start, a city and state partnership that wipes out unpaid balances of up to $1,000 so former students can re-enroll and finish their degrees.",
+    "Create a competitive Scale-Up Challenge Fund, modeled on Race to the Top, that awards flexible three-year city grants to nonprofit economic mobility programs with demonstrated results, judged by an independent panel.",
+    "Launch a New York City Minority Business Accelerator modeled on Cincinnati's, giving a selected group of established Black- and Latino-owned firms business strategy help, access to expansion capital and procurement commitments from large regional companies.",
+    "Add restaurants, cafes and other concessions in parks, keep the revenue with parks rather than the General Fund and split future concession revenue 80 percent to the host park and 20 percent to a fund for parks in less affluent neighborhoods.",
+    "Baseline funding for CUNY ACE in the fiscal 2025 budget and grow the program over two years so it reaches more senior college students.",
+    "Create an annual five-borough cultural festival, starting with the mayor picking a week on the calendar and convening cultural leaders to design it.",
+    "Run three challenge-based artificial intelligence procurement competitions with the Economic Development Corporation, each starting as a pilot and scaling to a citywide contract tied to performance milestones, focused on housing affordability, safer streets and social services.",
+    "Start a Creative Economy Talent Pipeline in the Mayor's Office of Talent and Workforce Development, modeled on the Tech Talent Pipeline, to open creative industry careers to underrepresented New Yorkers.",
+    "Invest in decarbonizing CUNY's roughly 300 buildings and put CUNY students to work on the upgrades as training for green economy careers.",
+    "Expand CUNY's Computing Integrated Teacher Education program so it reaches all 11,000 aspiring teachers enrolled at the university each year.",
+    "Make it easier for nonprofits and community groups to help maintain and fund parks, with the mayor directing the Law Department and agency lawyers to speed up agreements and a handbook for community groups to follow.",
+    "Create a Pathways to Human Services Initiative that expands the Human Services Career Advancement Scholarship at CUNY by 1,000 people, designs a CUNY human services fellowship and launches a training accelerator with stipends for on-the-job training.",
+    "Commit to at least a dozen more projects over five years that rebuild an aging branch library with affordable housing above it, following the Sunset Park and Inwood examples.",
+    "Create CUNY Flex, a wraparound support program modeled on CUNY ASAP but built for part-time and returning adult students, who make up most adult learners.",
+    "Increase funding for adult literacy programs serving immigrants and write future requests for proposals so they support joint English language and job training programs run by CUNY, the public libraries and nonprofits."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "labor",
+    "small business"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create CUNY Fresh Start, a city and state partnership that wipes out unpaid balances of up to $1,000 so former students can re-enroll and finish their degrees."
+    },
+    {
+     "n": 2,
+     "text": "Create a competitive Scale-Up Challenge Fund, modeled on Race to the Top, that awards flexible three-year city grants to nonprofit economic mobility programs with demonstrated results, judged by an independent panel."
+    },
+    {
+     "n": 3,
+     "text": "Launch a New York City Minority Business Accelerator modeled on Cincinnati's, giving a selected group of established Black- and Latino-owned firms business strategy help, access to expansion capital and procurement commitments from large regional companies."
+    },
+    {
+     "n": 4,
+     "text": "Add restaurants, cafes and other concessions in parks, keep the revenue with parks rather than the General Fund and split future concession revenue 80 percent to the host park and 20 percent to a fund for parks in less affluent neighborhoods."
+    },
+    {
+     "n": 5,
+     "text": "Baseline funding for CUNY ACE in the fiscal 2025 budget and grow the program over two years so it reaches more senior college students."
+    },
+    {
+     "n": 6,
+     "text": "Create an annual five-borough cultural festival, starting with the mayor picking a week on the calendar and convening cultural leaders to design it."
+    },
+    {
+     "n": 7,
+     "text": "Run three challenge-based artificial intelligence procurement competitions with the Economic Development Corporation, each starting as a pilot and scaling to a citywide contract tied to performance milestones, focused on housing affordability, safer streets and social services."
+    },
+    {
+     "n": 8,
+     "text": "Start a Creative Economy Talent Pipeline in the Mayor's Office of Talent and Workforce Development, modeled on the Tech Talent Pipeline, to open creative industry careers to underrepresented New Yorkers."
+    },
+    {
+     "n": 9,
+     "text": "Invest in decarbonizing CUNY's roughly 300 buildings and put CUNY students to work on the upgrades as training for green economy careers."
+    },
+    {
+     "n": 10,
+     "text": "Expand CUNY's Computing Integrated Teacher Education program so it reaches all 11,000 aspiring teachers enrolled at the university each year."
+    },
+    {
+     "n": 11,
+     "text": "Make it easier for nonprofits and community groups to help maintain and fund parks, with the mayor directing the Law Department and agency lawyers to speed up agreements and a handbook for community groups to follow."
+    },
+    {
+     "n": 12,
+     "text": "Create a Pathways to Human Services Initiative that expands the Human Services Career Advancement Scholarship at CUNY by 1,000 people, designs a CUNY human services fellowship and launches a training accelerator with stipends for on-the-job training."
+    },
+    {
+     "n": 13,
+     "text": "Commit to at least a dozen more projects over five years that rebuild an aging branch library with affordable housing above it, following the Sunset Park and Inwood examples."
+    },
+    {
+     "n": 14,
+     "text": "Create CUNY Flex, a wraparound support program modeled on CUNY ASAP but built for part-time and returning adult students, who make up most adult learners."
+    },
+    {
+     "n": 15,
+     "text": "Increase funding for adult literacy programs serving immigrants and write future requests for proposals so they support joint English language and job training programs run by CUNY, the public libraries and nonprofits."
+    }
+   ]
+  },
+  {
    "id": "2025-01-01-cuf-parks-ticket-surcharge",
    "source": "outside",
    "auditor": "Center for an Urban Future",
