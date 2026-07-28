@@ -1,0 +1,174 @@
+[
+ {
+  "id": "cbc",
+  "name": "Citizens Budget Commission",
+  "short_name": "Citizens Budget Commission",
+  "url": "https://cbcny.org",
+  "listing_url": "https://cbcny.org/research",
+  "fetch": "browser",
+  "feed_url": null,
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "Cloudflare blocks scripted fetches (403) but the page renders in a real browser. Types its own items: REPORT, TESTIMONY, STATEMENT, OP ED, PRESENTATION, DATA DASHBOARD.",
+  "include_types": [
+   "REPORT",
+   "TESTIMONY",
+   "PRESENTATION"
+  ],
+  "verdict": "include"
+ },
+ {
+  "id": "cuf",
+  "name": "Center for an Urban Future",
+  "short_name": "Center for an Urban Future",
+  "url": "https://nycfuture.org",
+  "listing_url": "https://nycfuture.org/research",
+  "fetch": "html",
+  "feed_url": null,
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "Paginated listing typed as Reports / Data / Commentary-Op-Ed / Testimony.",
+  "include_types": [
+   "Report",
+   "Testimony"
+  ],
+  "verdict": "include",
+  "page_urls": [
+   "https://nycfuture.org/research",
+   "https://nycfuture.org/research/P20",
+   "https://nycfuture.org/research/P40",
+   "https://nycfuture.org/research/P60"
+  ],
+  "item_pattern": "<h4 class=\"type\">\\s*(?P<kind>[^<\\-]+?)\\s*-\\s*(?P<date>[A-Za-z]+ \\d{4})</h4>\\s*<a\\s*href=\"(?P<url>/research/[^\"]+)\"[^>]*class=\"index_title\">(?P<title>.*?)</a>"
+ },
+ {
+  "id": "mi",
+  "name": "Manhattan Institute",
+  "short_name": "Manhattan Institute",
+  "url": "https://manhattan.institute",
+  "listing_url": "https://manhattan.institute/research",
+  "fetch": "html",
+  "feed_url": "https://search.manhattan.institute/mi/feed",
+  "nyc_focus": "partial",
+  "makes_recommendations": true,
+  "note": "manhattan.institute/research is a 404 and the WordPress backend is headless (no /feed/ and no /wp-json). The only backfillable listing is the search service feed at search.manhattan.institute/mi/feed, which accepts page= and limit= (limit=500 works; 4 pages reach July 2024). Heavy national output: items carry <category>New York</category> / <category>New York City</category> when relevant, so the New York City filter can key off that or the full text.",
+  "verdict": "include",
+  "page_urls": [
+   "https://search.manhattan.institute/mi/feed?page=1&limit=500",
+   "https://search.manhattan.institute/mi/feed?page=2&limit=500",
+   "https://search.manhattan.institute/mi/feed?page=3&limit=500",
+   "https://search.manhattan.institute/mi/feed?page=4&limit=500"
+  ],
+  "item_pattern": "<item>(?:(?!</item>).)*?<title><!\\[CDATA\\[(?P<title>(?:(?!\\]\\]>).)*)\\]\\]></title>(?:(?!</item>).)*?<link>(?P<url>[^<]+)</link>(?:(?!</item>).)*?<pubDate>(?P<date>[^<]+)</pubDate>",
+  "nyc_filter": true
+ },
+ {
+  "id": "fpi",
+  "name": "Fiscal Policy Institute",
+  "short_name": "Fiscal Policy Institute",
+  "url": "https://fiscalpolicy.org",
+  "listing_url": "https://fiscalpolicy.org",
+  "fetch": "wp-json",
+  "feed_url": "https://fiscalpolicy.org/wp-json/wp/v2/posts",
+  "nyc_focus": "partial",
+  "makes_recommendations": true,
+  "note": "WordPress REST API. State and city mix; needs a city filter.",
+  "verdict": "include",
+  "nyc_filter": true
+ },
+ {
+  "id": "fiveboro",
+  "name": "5BORO Institute",
+  "short_name": "5BORO Institute",
+  "url": "https://fiveboro.nyc",
+  "listing_url": "https://fiveboro.nyc",
+  "fetch": "wp-json",
+  "feed_url": "https://fiveboro.nyc/wp-json/wp/v2/posts",
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "Announced a merger with Citizens Union; treat as one publisher going forward.",
+  "verdict": "include"
+ },
+ {
+  "id": "cnycaffairs",
+  "name": "Center for New York City Affairs at The New School",
+  "short_name": "Center for New York City Affairs",
+  "url": "https://www.centernyc.org",
+  "listing_url": "https://www.centernyc.org/reports-briefs",
+  "fetch": "html",
+  "feed_url": "https://www.centernyc.org/reports-briefs?format=rss",
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "Squarespace RSS returns only 20 items, which stops at Feb 2025 and misses the Jan-Feb 2025 tail. Squarespace accepts &offset=<epoch-ms> on the same feed and returns the 20 items published before that instant, so the crawl reads the feed twice: live, then pinned at 2025-03-01 (offset=1740787200000). Read through the html adapter because the rss adapter takes a single URL.",
+  "verdict": "include",
+  "page_urls": [
+   "https://www.centernyc.org/reports-briefs?format=rss",
+   "https://www.centernyc.org/reports-briefs?format=rss&offset=1740787200000"
+  ],
+  "item_pattern": "<item><title>(?P<title>[^<]*)</title>(?:(?!</item>).)*?<pubDate>(?P<date>[^<]+)</pubDate>(?:(?!</item>).)*?<link>(?P<url>[^<]+)</link>"
+ },
+ {
+  "id": "citizensunion",
+  "name": "Citizens Union",
+  "short_name": "Citizens Union",
+  "url": "https://citizensunion.org",
+  "listing_url": "https://citizensunion.org/library",
+  "fetch": "html",
+  "feed_url": null,
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "FacetWP library, server-rendered, 10 rows per page, paged with ?_paged=N (749 documents / 75 pages total; page 15 reaches July 2024). Document types seen: Report, Testimony, Letters, Bill Memo, Statement, Press Release, Media. Searchlight is a separate editorial platform, excluded as commentary.",
+  "verdict": "include",
+  "page_urls": [
+   "https://citizensunion.org/library/",
+   "https://citizensunion.org/library/?_paged=2",
+   "https://citizensunion.org/library/?_paged=3",
+   "https://citizensunion.org/library/?_paged=4",
+   "https://citizensunion.org/library/?_paged=5",
+   "https://citizensunion.org/library/?_paged=6",
+   "https://citizensunion.org/library/?_paged=7",
+   "https://citizensunion.org/library/?_paged=8",
+   "https://citizensunion.org/library/?_paged=9",
+   "https://citizensunion.org/library/?_paged=10",
+   "https://citizensunion.org/library/?_paged=11",
+   "https://citizensunion.org/library/?_paged=12",
+   "https://citizensunion.org/library/?_paged=13",
+   "https://citizensunion.org/library/?_paged=14",
+   "https://citizensunion.org/library/?_paged=15"
+  ],
+  "item_pattern": "<div class=\"fwpl-item type\">(?:<span class=\"fwpl-term[^\"]*\"><a href=\"[^\"]*\">[^<]+</a></span>,\\s*)*<span class=\"fwpl-term[^\"]*\"><a href=\"[^\"]*\">(?P<kind>[^<]+)</a></span></div>\\s*<div class=\"fwpl-item date\">(?P<date>[^<]+)</div>.*?<div class=\"fwpl-item title\"><a href=\"(?P<url>[^\"]+)\">(?P<title>.*?)</a>",
+  "include_types": [
+   "Report",
+   "Testimony",
+   "Letters",
+   "Bill Memo"
+  ]
+ },
+ {
+  "id": "furman",
+  "name": "NYU Furman Center",
+  "short_name": "Furman Center",
+  "url": "https://furmancenter.org",
+  "listing_url": "https://www.furmancenter.org/publications/",
+  "fetch": "wp-json",
+  "feed_url": "https://www.furmancenter.org/wp-json/wp/v2/publication",
+  "nyc_focus": "primary",
+  "makes_recommendations": false,
+  "note": "furmancenter.org/research redirects to a single publication; the real listing is /publications/, but it renders only three slider cards server-side and loads the archive from wp-json/fur/v1, so there is nothing for an HTML pattern to match. The site's standard REST route for the 'publication' post type (wp-json/wp/v2/publication) returns the full archive, so this uses the wp-json adapter. Largely empirical housing research; many items will fail the recommendations bar. Include only items that make explicit recommendations.",
+  "verdict": "borderline"
+ },
+ {
+  "id": "vitalcity",
+  "name": "Vital City",
+  "short_name": "Vital City",
+  "url": "https://www.vitalcitynyc.org",
+  "listing_url": "https://www.vitalcitynyc.org",
+  "fetch": "ghost",
+  "feed_url": "https://www.vitalcitynyc.org/ghost/api/content/posts/",
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "Ghost Content API. Journal essays and data pieces; include only those making explicit recommendations.",
+  "verdict": "include",
+  "ghost_key": "dd8e178e9ddfc883537e71dd07"
+ }
+]

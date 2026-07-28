@@ -21,6 +21,7 @@
   --doi: #8a4d1c;
   --monitor: #5d2a52;
   --other: #3f4d5c;
+  --outside: #7a4f9e;
   --ok: #1e5c46;
   --warn: #8a6400;
   --bad: #a8232a;
@@ -90,6 +91,15 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
 }
 .chip.on { background: var(--stamp); border-color: var(--stamp); color: #fff; }
 .chip.special { border-style: dashed; }
+.chip.outside-chip { border-color: var(--outside); color: var(--outside); font-weight: 700; }
+.chip.outside-chip.on { background: var(--outside); border-color: var(--outside); color: #fff; }
+.badge.outside { background: var(--outside); }
+.outside-note {
+  margin-top: 12px; font-size: 13px; color: var(--ink-soft);
+  border-left: 3px solid var(--outside); padding: 4px 0 4px 12px; max-width: 60em;
+}
+.file.is-outside .file-body { background: #f7f4ef; border-style: solid; }
+.file.is-outside .file-tab { background: #ded4e4; }
 .resultline { font-family: "Courier Prime", monospace; font-size: 13px; color: var(--ink-soft); margin: 16px 0 4px; }
 
 .yearrule {
@@ -284,6 +294,7 @@ ol.recs li.recflash { border-radius: 2px; }
   <div class="chips">
     <button class="chip special" id="unimpChip">Not implemented only</button>
     <button class="chip special" id="fuChip">Follow-ups only</button>
+    <button class="chip outside-chip" id="outsideChip" aria-pressed="false">+ Add outside groups' proposals</button>
   </div>
   <div class="searchrow" style="margin-top:16px">
     <div class="toggle" id="viewToggle" role="group" aria-label="Choose view">
@@ -315,7 +326,7 @@ ol.recs li.recflash { border-radius: 2px; }
 <script>
 let DATA = null;
 let state = { q: "", auditor: "all", topics: new Set(), unimp: false, followup: false,
-              view: "reports", group: "agency", sort: "newest" };
+              view: "reports", group: "agency", sort: "newest", outside: false };
 
 const $ = s => document.querySelector(s);
 const fmtDate = iso => {
@@ -356,6 +367,19 @@ function init() {
   $("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
   $("#unimpChip").addEventListener("click", () => { state.unimp = !state.unimp; $("#unimpChip").classList.toggle("on"); render(); });
   $("#fuChip").addEventListener("click", () => { state.followup = !state.followup; $("#fuChip").classList.toggle("on"); render(); });
+  const oc = $("#outsideChip");
+  if (DATA.audits.some(isOutside)) {
+    oc.addEventListener("click", () => {
+      state.outside = !state.outside;
+      oc.classList.toggle("on", state.outside);
+      oc.setAttribute("aria-pressed", String(state.outside));
+      oc.textContent = state.outside ? "− Outside groups included" : "+ Add outside groups' proposals";
+      renderStats();
+      render();
+    });
+  } else {
+    oc.style.display = "none";
+  }
   $("#aiBtn").addEventListener("click", () => $("#aiPop").classList.toggle("show"));
   renderStats();
   render();
@@ -373,7 +397,7 @@ function hasUnimplemented(a) {
 }
 
 function renderStats() {
-  const A = DATA.audits;
+  const A = state.outside ? DATA.audits : DATA.audits.filter(a => !isOutside(a));
   const recs = A.reduce((n, a) => n + (a.rec_display || a.recommendations).length, 0);
   const imp = A.reduce((n, a) => n + ((a.rec_statuses || []).filter(s => s.status === "Implemented").length), 0);
   const stats = [
@@ -395,8 +419,11 @@ function haystack(a) {
     a.recommendations.join(" ")].join(" ").toLowerCase();
 }
 
+function isOutside(a) { return a.source === "outside"; }
+
 function filtered() {
-  let rows = DATA.audits;
+  // Government watchdogs are the default; outside groups join only on request.
+  let rows = state.outside ? DATA.audits : DATA.audits.filter(a => !isOutside(a));
   if (state.auditor !== "all") rows = rows.filter(a => a.source === state.auditor);
   if (state.topics.size) rows = rows.filter(a => a.topics.some(t => state.topics.has(t)));
   if (state.followup) rows = rows.filter(a => a.is_followup);
@@ -595,7 +622,8 @@ function jumpToRec(auditId, n) {
   }
 }
 
-const BADGE_LABEL = { nyc: "City comptroller", osc: "State comptroller", doi: "Investigation Dept.", monitor: "Court monitor", other: "Oversight body" };
+const BADGE_LABEL = { nyc: "City comptroller", osc: "State comptroller", doi: "Investigation Dept.",
+                      monitor: "Court monitor", other: "Oversight body", outside: "Outside group" };
 
 function statusLine(a) {
   const t = a.status_tally;
@@ -623,9 +651,9 @@ function card(a) {
     const chip = s && ST_CLASS[s.status] ? `<span class="st ${ST_CLASS[s.status]}">${esc(s.status)}</span>` : "";
     return `<li>${esc(r)}${chip}</li>`;
   }).join("");
-  const auditorLine = a.source === "monitor" || a.source === "doi" || a.source === "other" ? ` · ${esc(a.auditor)}` : "";
+  const auditorLine = a.source !== "nyc" && a.source !== "osc" ? ` · ${esc(a.auditor)}` : "";
   return `
-  <article class="file" id="${esc(a.id)}">
+  <article class="file${isOutside(a) ? " is-outside" : ""}" id="${esc(a.id)}">
     ${a.is_followup ? `<div class="stamp-followup">Follow-up</div>` : ""}
     <div class="file-tab">${badge}<span>${fmtDate(a.issued)}</span></div>
     <div class="file-body">
@@ -640,8 +668,9 @@ function card(a) {
         <p class="bg">${esc(a.background)}</p>
         <h3>What they found</h3>
         ${findings}
-        <h3>What they said should change</h3>
+        <h3>${isOutside(a) ? "What it proposes" : "What they said should change"}</h3>
         <ol class="recs">${recs}</ol>
+        ${isOutside(a) ? `<div class="outside-note">${esc(a.auditor)} is an outside organization, not a government watchdog. No agency is required to respond to these proposals or to report whether they were adopted, so they carry no implementation status.</div>` : ""}
         ${a.implementation_note ? `<h3>Implementation</h3><div class="notebox">${esc(a.implementation_note)}</div>` : ""}
         ${a.compliance_note ? `<h3>Compliance assessment</h3><div class="notebox">${esc(a.compliance_note)}</div>` : ""}
         ${a.agency_response ? `<h3>How the agency responded</h3><p class="response">${esc(a.agency_response)}</p>` : ""}
