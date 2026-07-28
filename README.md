@@ -1,6 +1,6 @@
 # The audit files
 
-Tracker of official watchdog reports on New York City government since January 1, 2025 — city comptroller and state comptroller audits, Department of Investigation reports and federal court monitor reports — restated in plain language with implementation status and links to official sources.
+Tracker of official watchdog reports on New York City government since January 1, 2025 — city comptroller and state comptroller audits, Department of Investigation reports, court monitor reports and independent oversight board reports — restated in plain language with implementation status and links to official sources.
 
 Live: https://joshgreenman1973.github.io/nyc-audit-tracker/
 
@@ -11,6 +11,7 @@ Live: https://joshgreenman1973.github.io/nyc-audit-tracker/
 - `data/summaries/*.json` — one plain-language summary per report, written only from the official text per `data/SUMMARY_SPEC.md` (and `SUMMARY_SPEC_EXTRA.md` for DOI/monitor sources). DOI and monitor source text is preserved in `data/raw_extra/`.
 - `scripts/verify_summaries.py` — verifies every quote and number in every summary against its source text.
 - `scripts/build_site.py` — merges summaries into `docs/audits.json`, joining implementation statuses by audit number; fails if any scraped comptroller audit lacks a summary.
+- `data/sources_*.json` — per-body indexes of the non-comptroller reports folded in: `sources_doi`, `sources_floyd` (NYPD stop and frisk monitor), `sources_nunez` (Rikers jails monitor), `sources_nycha` (NYCHA federal co-monitors), `sources_lv` (L.V. v. DOE special master and independent auditor), `sources_boc` (Board of Correction) and `sources_ccpc` (Commission to Combat Police Corruption).
 - `docs/` — the static site, served by GitHub Pages.
 - `.github/workflows/check-new-audits.yml` — weekly: refreshes audits and implementation statuses, rebuilds and commits; opens a GitHub issue when new audits need summaries.
 

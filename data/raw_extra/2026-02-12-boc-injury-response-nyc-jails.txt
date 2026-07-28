@@ -1,0 +1,962 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2026 
+Injury Response in NYC Jails 
+NYC BOARD OF CORRECTION ANALYSIS OF 2024 DATA 
+FEBRUARY 2026 
+
+ 
+ 
+1 
+ 
+Injury Response in NYC Jails 
+Board of Correction Analysis of 2024 (January 1 – December 31, 2024) Data 
+Table of Contents 
+Executive Summary ................................................................................................................................................. 2 
+Introduction ............................................................................................................................................................ 4 
+Background .......................................................................................................................................................... 4 
+Methods .................................................................................................................................................................. 5 
+Findings ................................................................................................................................................................... 8 
+§3-16(a) Policy ..................................................................................................................................................... 8 
+§3-16(b) Investigations ........................................................................................................................................ 9 
+§3-16(c) Coordination ....................................................................................................................................... 10 
+§3-16(d) Reporting and Review......................................................................................................................... 11 
+Recommendations ................................................................................................................................................ 14 
+§3-16(a) Policy ................................................................................................................................................... 14 
+§3-16(b) Investigations ...................................................................................................................................... 14 
+§3-16(c) Coordination ....................................................................................................................................... 14 
+§3-16(d) Reporting and Review......................................................................................................................... 14 
+Conclusion ............................................................................................................................................................. 15 
+References ............................................................................................................................................................ 16 
+Appendix A ............................................................................................................................................................ 17 
+Appendix B ............................................................................................................................................................ 21 
+Appendix C ............................................................................................................................................................ 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authored by Claire Loredan, MA, Research & Compliance Associate, Alexander Hoffman, PhD, MA, Research 
+& Compliance Associate, and Navena Chaitoo, PhD, MS, Assistant Executive Director of Research. Thank you 
+to Jasmine Georges-Yilla, JD, Executive Director, for her review. Thanks also to DOC and CHS staff for their 
+review and comments on the report. 
+ 
+
+ 
+ 
+2 
+ 
+Executive Summary 
+Pursuant to §626(c) and (h) of the New York City Charter (Charter), the New York City Board of Correction (BOC) 
+assessed whether the New York City Department of Correction (DOC) and New York City Health + 
+Hospitals/Correctional Health Services (CHS) complied with §3-16 of Title 40 of the Rules of the City of New York 
+(RCNY) concerning injury response during calendar year 2024 (CY2024).  
+BOC conducted a mixed-methods review, including analysis of administrative data, monthly and annual reports, 
+and a randomized sample of CY2024 Injury-to-Inmate forms. The assessment examined compliance with each 
+subsection of §3-16—Policy (§3-16(a)), Investigations (§3-16(b)), Coordination (§3-16(c)), and Reporting and 
+Review (§3-16(d)). In addition, pursuant to Charter § 626(c)(4), BOC evaluated the effectiveness of DOC’s policies 
+and procedures developed under 40 RCNY § 3-16(a). 
+Overall, the review found that DOC and CHS have operationalized several requirements of §3-16, including 
+maintaining relevant directives, completing investigations, holding quarterly meetings, and producing monthly 
+reports. However, the assessment also identified persistent gaps in timeliness, data reconciliation, 
+transparency, and documentation that limit the effectiveness of §3-16 as a system for injury response and 
+prevention.  
+Based on these findings, BOC recommends: 
+§3-16(a) Policy 
+1. DOC and CHS should revise and update their policies and procedures for addressing and preventing 
+injuries to people in custody so they align with the investigative, coordination, and reporting 
+requirements of Minimum Standard §3-16.  
+2. DOC policies should explicitly clarify how investigative findings are systematically used to inform injury 
+prevention measures, strengthening the connection between investigation outputs and proactive 
+corrective actions. 
+3. CHS policies should explicitly clarify expected timelines for injury response, documentation (e.g. Injury-
+to-Inmate forms), and reporting (e.g. Joint Monthly Injury Report and Monthly Public Self-Harm Report). 
+§3-16(b) Investigations 
+4. DOC should enhance the completeness and accuracy of Injury-to-Inmate forms by digitizing the form 
+and requiring mandatory fields to be filled before submission, thereby reducing missing or inconsistent 
+data. The digitized version of the Injury-to-Inmate form should also allow the inclusion of supporting 
+evidence (e.g., video footage) and enable electronic signatures to improve accountability and reduce 
+reliance on handwritten concurrence, which currently predominates. 
+5. DOC should establish internal monitoring processes to track investigation timeliness, including clear 
+deadlines for investigation closure, to address observed delays where some investigations extended 
+beyond longer than average timeframes. 
+6. Given the observed high rate of refusal by people in custody to participate in investigations, DOC should 
+explore strategies to better engage people in custody during investigations to enhance completeness 
+and accuracy, while respecting their rights and the Standards’ requirements. 
+§3-16(c) Coordination 
+
+ 
+ 
+3 
+ 
+7. To enhance transparency and support effective oversight, DOC and CHS should voluntarily provide BOC 
+with detailed minutes or summaries of quarterly meetings conducted under §3-16(c)(1), documenting 
+the review of injury data, identification of trends, and quality assurance activities. 
+8. DOC and CHS must fulfill the mandate to develop and maintain a coordinated electronic injury tracking 
+system that integrates both serious and non-serious injury data in a single reconciled platform, as 
+required by §3-16(c)(2). 
+§3-16(d) Reporting and Review 
+9. DOC and CHS should implement internal controls and monitoring to ensure timely submission of Injury-
+to-Inmate forms and Joint Monthly Injury Reports to BOC, addressing chronic delays that undermine 
+effective oversight (§3-16(d)(1)-(3)). 
+10. DOC and CHS should reconcile their differing injury and self-injurious behavior counts into a single 
+unified Joint Monthly Injury Report, that includes all required disaggregation, to comply fully with §3-
+16(d)(1)-(3). 
+11. DOC should ensure that its annual review of Joint Monthly Injury Reports required by § 3-16(d)(4) 
+includes documented findings regarding compliance with § 3-16, identification of systemic issues, and 
+detailed corrective action plans with associated steps and timelines. In addition to submitting these 
+annual reports to BOC, DOC should publicly disseminate the reports in accordance with the Standard. 
+12. To comply fully with §3-16(d)(5), CHS should ensure that its monthly public reports on self-harm 
+incidents consistently disaggregate data by seriousness (serious vs. non-serious injuries) as required by 
+the Minimum Standards. 
+ 
+ 
+ 
+
+ 
+ 
+4 
+ 
+Introduction 
+In January 2019, the New York City (NYC) Board of Correction (BOC) published a report titled “Serious Injury 
+Reports in NYC Jails” analyzing aggregate data on serious injuries to people in custody from NYC Department of 
+Correction (DOC) data from 2008 to 2017 and NYC Health + Hospitals/Correctional Health Services (CHS) data 
+from June 2016 to September 2018.  
+In July 2019, BOC adopted amended rules related to injury tracking and reporting in jails and other facilities 
+operated by DOC (CROL, 2019). The purpose of the rule amendment was to “improve DOC’s and CHS’s ability to 
+address and prevent injuries to people in custody and strengthen the Board’s oversight of the agencies’ progress 
+toward achieving these goals” (ibid.). BOC’s amended Minimum Standards outlined three phases of data 
+collection and coordination over the three years following their effective date. DOC and CHS were in the 
+implementation stage of these phases through August 2022, making 2023 the first full year of data collection 
+following implementation.  
+In accordance with §626(c) and (h) of the New York City Charter (Charter), BOC now seeks to assess DOC and 
+CHS’s progress in meeting the requirements of §3-16 of Title 40 of the Rules of the City of New York (RCNY) 
+concerning injury response. Additionally, under Charter § 626(c)(4), BOC evaluated the effectiveness of DOC 
+policies and procedures developed under 3-16(a). 
+Background 
+Effective injury response is critical in correctional settings because it directly informs injury prevention strategies 
+(Smith et al. 2024). BOC has monitored injury response and prevention practices since at least 2013 through the 
+review and approval of 12 variances between 2013 and 2019 and public reporting in 2019. Its 2019 report, 
+together with findings from the Nunez monitoring process, documented longstanding deficiencies in injury 
+reporting and response. The Nunez monitoring—initiated by a 2011 class action lawsuit (Nunez and United 
+States v. City of New York, 2011) and governed by a federal consent decree—focused on violent incidents that 
+frequently resulted in injuries (Martin et al. 2017). Early monitoring periods (e.g., October 22, 2015–February 
+29, 2016) and subsequent reports, including the Third Independent Monitor Report (August–December 2016), 
+highlighted discrepancies in DOC’s documentation of violent incidents, underscoring a decade-long concern 
+about injury response. BOC has since provided informal feedback regarding timeliness of report submissions. 
+Between 2013 and 2019, BOC granted 12 variances allowing CHS to share diagnosis data with DOC for injury-
+reporting purposes. The 2019 Serious Injury Report—originally intended to assess the need for these 
+variances—identified persistent gaps in documentation. For April–June 2018, CHS reported 169 serious injuries, 
+but BOC could audit only 149 because DOC did not generate, or could not produce, corresponding Injury to 
+Inmate Report forms for all cases. BOC found that DOC underreported serious injuries and lacked a single metric 
+for determining their actual number. Notably, 67 percent (n=100) of the CHS-designated serious injuries audited 
+by BOC were never reported by DOC as any type of incident (BOC 2019). 
+In response, BOC promulgated amendments to § 3-08 of the Minimum Standards (Privacy and Confidentiality) 
+in 2019 to modernize the Standards in line with electronic medical record practices and reduce the need for 
+repeated variance requests. 
+Public Board meetings throughout 2019 documented the transition from reliance on variances to adoption of 
+new rules. In February 2019, CHS did not seek renewal of its variance under § 3-08(c)(3), citing a Law Department 
+
+ 
+ 
+5 
+ 
+opinion. The Board subsequently passed a resolution on disclosure of injury diagnoses. In March 2019, Board 
+Members again raised concerns about transparency and injury investigation. By May 2019, the Board proposed 
+new rules to address the deficiencies identified in BOC’s Serious Injury Report, calling for more consistent data 
+collection and reporting between DOC and CHS. After CHS reviewed the proposed rules in June 2019, it 
+voluntarily agreed to provide BOC with a recurring self-harm report expressing “the strongest objections to a 
+DOC investigative process around self-harm, which among other negative outcomes will disincentivize patients 
+from engaging in honest therapeutic relationships with the mental health staff and could lead to patient harm” 
+(Yang 2019).  
+The new rules, effective August 2019, required DOC and CHS to establish and maintain a coordinated electronic 
+injury tracking system for serious injuries by August 2020 and a coordinated electronic injury tracking system 
+for all injuries, both serious and non-serious by August 2021 (40 RCNY 3-16(c)(2)). The new rules also required 
+DOC and CHS to submit a Joint Monthly Injury Report starting in September 2019 ((40 RCNY 3-16(d)). These 
+reporting requirements were implemented in three phases. Each phase progressively expanded the scope and 
+detail of reporting, beginning with basic counts and characteristics of serious and non-serious injuries. 
+Subsequent phases added more granular information on injury circumstances, investigations, and reporting 
+processes, culminating in a comprehensive, standardized monthly dataset designed to support oversight, 
+identify trends, and inform injury prevention efforts. 
+Methods 
+BOC employed a structured, mixed-methods design (Creswell & Plano 2018) combining quantitative and 
+qualitative analysis to assess compliance with Minimum Standard §3-16 and evaluate effectiveness of DOC 
+policies and procedures developed under this standard.  
+BOC developed a compliance checklist aligned to each subsection of §3-16 (Appendix A) to guide its analytic 
+work. Checklist-based reviews are widely used in compliance monitoring as a structured, replicable means of 
+assessing implementation (Gibbs, 2018). BOC used the checklist to determine its methodology for assessing 
+whether each provision was met, partially met, or unmet, and to document areas of inconsistency. 
+To assess compliance with Minimum Standard §3-16(a)1, BOC reviewed DOC and CHS policies related to injury 
+response and prevention. This review included DOC directives 4516R-D (Injury to Inmate Reports), 7001R 
+(Investigation Division), and 5001R-A (Report and Notification of Incarcerated Individual Death or Serious Injury 
+or Illness) as well as the CHS policy MED 7 (Injured Inmate Evaluation). 
+To assess compliance with Minimum Standard §3-16(b)2, BOC performed content analysis (Merriam & Tisdell 
+2016) to systematically examine the information recorded on each Injury-to-Inmate form. Content analysis is an 
+unobtrusive technique for interpreting the meaning, symbolic qualities, and communicative roles of recorded 
+data (Krippendorff 2013). 
+ 
+1 “Policy. The Department of Correction and the Health Authority ("Agencies") shall establish policies and procedures to address and 
+prevent injuries to people in custody.” [40 RCNY 3-16(a)] 
+2 “Investigations. Investigations of injuries of people in custody, including all supporting documentation such as Injury-to-Inmate 
+forms, shall be completed in a prompt, accurate, and objective manner. For the purposes of this section, investigations shall mean 
+investigations conducted in the manner required by the Department of Correction ("Department") including, but not limited to, 
+investigations conducted by the facility or investigations contained in Injury-to-Inmate forms.” [40 RCNY 3-16(b)] 
+
+ 
+ 
+6 
+ 
+Review dates for the content analysis were randomly selected in proportion to the number of injuries reported 
+per month in 2024 so that higher-volume months contributed proportionally more cases (Table 1). For each 
+sampled date, one investigation form was randomly3 selected. Although the sample represents <1% of the 
+~30,000 injury forms, the sampling proportion has a negligible effect on statistical precision. In probability 
+sampling, representativeness is achieved through random selection rather than the proportion of the 
+population sampled. Using a standard 95% confidence level and a sample of n=99 cases, the margin of error 
+(MOE) 4 ranges from ±4% to ±10% which is acceptable for identifying patterns, assessing compliance, and guiding 
+further investigation. 
+Table 1: Sampling Methodology for BOC Injury Form Audit 
+Month 
+DOC Reported Injuries (N) 
+DOC Reported Injuries (%) 
+BOC Audit Sample Size 
+Jan-24 
+           2,183  
+8% 
+                                  8  
+Feb-24 
+           2,053  
+7% 
+                                  7  
+Mar-24 
+           2,290  
+8% 
+                                  8  
+Apr-24 
+           2,282  
+8% 
+                                  8  
+May-24 
+           2,433  
+9% 
+                                  9  
+Jun-24 
+           2,285  
+8% 
+                                  8  
+Jul-24 
+           2,280  
+8% 
+                                  8  
+Aug-24 
+           2,358  
+8% 
+                                  8  
+Sep-24 
+           2,382  
+8% 
+                                  8  
+Oct-24 
+           2,618  
+9% 
+                                  9  
+Nov-24 
+           2,508  
+9% 
+                                  9  
+Dec-24 
+           2,601  
+9% 
+                                  9  
+Total 
+         28,273  
+100% 
+99 
+Source: BOC analysis of administrative project data 
+The content analysis assessed compliance with Minimum Standard 3-16(b) requirements that investigations be 
+completed in a prompt, accurate, and objective manner in the following ways: 
+• Promptness was assessed using the mean (average) number of days between the date of injury and the 
+date of investigation closure. Unlike the median, which represents the midpoint of the distribution, the 
+mean reflects the magnitude of all observations, including extreme values (outliers), and therefore 
+captures delays that would not affect the median. 
+• Accuracy was assessed based on the presence of missing, inconsistent, or incorrect dates within the 
+investigative documentation. 
+• Objectivity was assessed through independent review by two research staff who coded the Injury-to-
+Inmate Reports separately before discussing their assessments. Interrater reliability – a  measure of 
+ 
+3 Randomization was performed in R (version 4.3.3) using the slice_sample() function from the dplyr package. 
+4 The margin of error is calculated as 1.96 ∗√[𝑝(1 −𝑝)/𝑛] where p is the proportion being estimated (e.g., the share of cases meeting 
+a given standard) and n is the sample size. The value 1.96 reflects the standard multiplier used to capture 95% of the expected results 
+in a normal distribution. For a sample size of n=99, the margin of error equals about ±10% when p = 0.50 (i.e., when an outcome occurs 
+half of the time) and about ±4% when p is near 0.05 (i.e., when an outcome is very rare or very common).   
+
+ 
+ 
+7 
+ 
+agreement between two reviewers – was assessed using Gwet’s AC15. Reports were classified as 
+objective when the narrative described the incident in a neutral, factual, and unbiased manner. 
+To assess compliance with Minimum Standard §3-16(c), BOC (1) inquired with DOC and CHS regarding the 
+quarterly meetings6 and (2) conducted descriptive statistical analysis of the injury metrics reported by DOC and 
+CHS7. For the descriptive analysis, we compared the overall number of injuries reported, the overall number of 
+self-injurious behavior (SIB) incidents reported, and the additional stream of self-harm incidents reported by 
+CHS during clinical encounters. Because each agency reports its own totals8, these comparisons allowed us to 
+assess alignment and highlight inconsistencies in the absence of a single reconciled figure.  
+To assess compliance with Minimum Standard §3-16(d) we assessed (1) the number of Injury-to-Inmate forms 
+uploaded to the BOC and DOC shared folder relative to the number of injuries reported9, (2) the timeliness and 
+completeness of the Joint Monthly Report by calculating the number of days between each monthly report’s 
+mandated due date and its actual submission date and reviewing report completeness against the information 
+required in the Minimum Standards10, (3) whether the monthly data file includes injury-level information 
+corresponding to the data enumerated in the Joint Monthly Report11, (4) whether DOC has provided an annual 
+report detailing (a) the steps taken in their review, (b) findings, and any plans for corrective action, and (c) status 
+ 
+5 Interrater Reliability measures how consistently two or more independent judges or observers agree when evaluating the same 
+subject or phenomenon (Gibbs, 2018). Interrater reliability was assessed using Gwet’s AC1, which accounts for agreement that may 
+occur by chance and remains stable when certain responses are much more common than others. This makes it less prone to bias 
+than other commonly used measures of agreement, such as Cohen’s kappa (Gwet 2008). 
+6 “(1)   Quarterly Meetings. The Agencies shall engage in regular communication and quarterly meetings, to review data on injuries, 
+identify trends, and perform quality assurance on injury report documentation. These communications and quarterly meetings shall 
+include data-informed development of corrective action plans.” [40 RCNY 3-16(c)(1)] 
+7 “(2)   Injury Tracking System. Within one year of the effective date of this rule, the Agencies shall maintain a coordinated electronic 
+injury tracking system for serious injuries, which for purposes of 40 RCNY § 3-16 are defined as injuries designated as serious by the 
+Health Authority for the sole purpose of tracking injuries. Within two years of the effective date of this rule, the Agencies shall maintain 
+a coordinated electronic injury tracking system for all injuries, both serious and non-serious.” [40 RCNY 3-16(c)(2)] 
+8 This discrepancy in totals is due to CHS reporting on the total number of injury reports documented by their agency during the 
+reporting period, whereas DOC reports on the total number of injuries during the reporting period that have received a medical 
+designation at the time the report is compiled. The Department can investigate an injury at any time; investigative timeliness is not 
+tied to CHS medical determinations. 
+9 “(1)   By the fourth Friday of September 2019 and on the fourth Friday of every month thereafter, the Department shall provide the 
+Board with all Injury-to-Inmate forms (or any other injury reporting mechanism that may replace the Injury-to-Inmate form) created 
+in the previous month and any forms updated in the previous month.” [40 RCNY 3-16(d)(1)] 
+10 On the fourth Friday of every month, “(2)  The Agencies shall provide the Board with a joint, monthly, public report of data on 
+injuries and serious injuries to people in custody ("Joint Monthly Injury Report"), as follows: [Subsections i to iii omitted to conserve 
+space; See Appendix A for a complete listing].” [40 RCNY 3-16(d)(2)] 
+11 “(3)   Starting on the fourth Friday of September 2019, the Agencies shall provide the Board with a monthly data file with injury-
+level information corresponding to the data enumerated in the Joint Monthly Injury Report. This file shall also include all relevant 
+identifying injury-level information (e.g., injury report number, Central Operations Desk/Use of Force report number, injury date, date 
+of injury report, specific unit and housing area, housing area type, date investigation was closed, incarcerated person-identifiers, and 
+witnessing-staff identifiers) for each injury reported. Each file shall be shared in an electronic, machine-readable format and shall be 
+updated cumulatively from each prior data reporting period. The file shall be maintained as confidential by the Board.” [40 RCNY 3-
+16(d)(3)] 
+
+ 
+ 
+8 
+ 
+of corrective actions described in prior reports12, and (5) whether CHS has provided the Board with a monthly 
+public report on self-harm disaggregated according to the requirements of the Minimum Standards13.    
+Findings 
+§3-16(a) Policy 
+Minimum Standard §3-16(a) requires that DOC and CHS establish policies and procedures to address and 
+prevent injuries to people in custody. Our review confirmed that both agencies maintain directives and policies. 
+Because §3-16(a) does not prescribe specific content or timelines, the existence of these directives and policies 
+satisfies the minimum requirement to “establish procedures” for injury reporting and investigation. Although 
+the existence of the policies is technically in compliance with 3-16(a), BOC evaluated the effectiveness of the 
+policies as it relates to prevention which necessarily depends on the timely completion of investigations and the 
+availability of accurate investigative data. 
+The current DOC directives (DOC Directive 4516R-D Injury to Inmate Reports, effective date 10/03/2019 and 
+DOC Directive 7001R: Investigation Division, effective date 9/28/1992) and related guidance do not clearly 
+establish timelines for completing investigations or describe how investigative findings are systematically used 
+to prevent future injuries. The only timeline is stipulated in Directive 5001R-A: Report and Notification of 
+Incarcerated Individual Death or Serious Injury or Illness (effective date 2/26/2021). This directive uses words 
+like "expeditiously" and “as promptly as possible” throughout the document. The only defined time requirement 
+is under Section V.(A)(2) which specifies that the Tour Commander must notify the Central Operations Desk 
+(COD) within 15 minutes of learning that a PIC has sustained a serious injury or illness,  and V.(A)(4) which states 
+that the Tour Commander must notify the COD within 15 minutes of a PIC having died from illness or injuries or 
+is found dead and also after the person in custody is pronounced dead by the physician. The absence of a defined 
+investigation completion timeframe has implications beyond prevention, as it can affect compliance with §3-
+16(d)(1)-(3) which requires that Injury to Inmate forms and related data from the preceding month be submitted 
+to BOC by the fourth Friday of each month. The lack of a formal definition for “prompt” and “expeditious” in 
+these directives leaves BOC to rely on calculated averages. 
+CHS Policy MED 7 governs the evaluation of injuries to people in custody. The policy requires that individuals 
+receive a physical examination and a treatment plan following an injury and specifies that completion of an 
+injury form must not delay medical treatment. For Use of Force–related incidents, the policy requires that 
+medical attention be provided “as soon as possible,” but it does not establish a specific response-time standard. 
+The policy defines the injuries that CHS classifies as serious. With respect to investigation, the policy assigns 
+responsibility to the DOC Investigating Captain. For incidents involving self-injurious behavior, the policy 
+requires referral to Mental Health. In addition, CHS staff are directed to immediately notify CHS Operations if 
+they become aware of an imminent threat to patient safety or well-being. The policy does not establish specific 
+ 
+12 “(4)   On at least an annual basis, beginning on the first day of the sixth month after the effective date of this Rule, the Department 
+shall review all Joint Monthly Injury Reports submitted in the previous year pursuant to subdivision 40 RCNY § 3-16(d)(2). Within 60 
+days of each such annual review, the Department shall provide the Board with a written public report detailing: [Subsections i to iii 
+omitted to conserve space; See Appendix A for a complete listing].” [40 RCNY 3-16(d)(4)] 
+13 “(5)   Starting on the fourth Friday of September 2019 and on the fourth Friday of every month thereafter, the Health Authority shall 
+provide the Board with a monthly public report on self-harm, including the following information in a machine-readable format using 
+both numerical values and percentages, for the previous month and for the year-to-date: [Subsections A to C omitted to conserve 
+space; See Appendix A for a complete listing].” [40 RCNY 3-16(d)(5)] 
+
+ 
+ 
+9 
+ 
+timelines for medical response, nor does it include explicit procedures for monitoring delayed responses or for 
+ensuring that injury-related data are available within the timeframes required for monthly reporting to BOC. 
+These findings suggest that despite the presence of policy frameworks, the lack of defined timelines and 
+systematic processes for using investigative findings may hinder effective injury prevention and compromise 
+timely, accurate reporting essential for BOC oversight. 
+§3-16(b) Investigations 
+Minimum Standard §3-16(b) requires that investigations of injuries to people in custody, including all supporting 
+documentation such as Injury-to-Inmate forms, be completed in a prompt, accurate, and objective manner. 
+To assess compliance, BOC conducted a systematic content analysis (Merriam & Tisdell 2016) of a randomly 
+selected sample of Injury-to-Inmate forms from 2024, using a probability sampling approach proportional to 
+monthly injury volume (Table 1). This method ensured representativeness of the sample despite its small size 
+relative to the total number of injury reports (~30,000). The 99 cases reviewed provide a margin of error ranging 
+from ±4% to ±10% at a 95% confidence level, sufficient for identifying compliance patterns and guiding further 
+inquiry. 
+Promptness was assessed as the average number of days between the injury date and the date of investigation 
+closure recorded on the form. The analysis revealed a mean closure time of nine days (standard deviation: 15 
+days; range: 0 to 91 days). This variability indicates that while many investigations are completed within a nine-
+day timeframe, some experience significant delays. These delays may reduce the effectiveness of investigations 
+in informing timely injury prevention and meeting reporting requirements. 
+Accuracy was assessed by identifying missing, inconsistent, or incorrect dates within the investigative 
+documentation.  This approach reflects a threshold assessment of record accuracy, rather than a full factual 
+validation of incident narratives, which would require review of external corroborating sources (e.g., grievances, 
+medical records, or video footage) and was outside the scope of this review. 10 of 99 (10%) of forms contained 
+incomplete or inconsistent date information, which compromises the reliability of the investigation records. The 
+most common inaccuracies involved missing, inconsistent (e.g., an investigation closure date before the injury 
+date), or incorrect dates (e.g., dates prior to 1/1/2000). Dates are the first line of data received by BOC. They 
+are necessary to sequence events and initiate any follow-up investigations or oversight actions. If the dates are 
+incorrect or missing, it severely obstructs BOC’s ability to conduct follow-up investigations.  
+Objectivity was assessed through independent, blinded14 coding of the investigating officer’s narrative 
+descriptions by two research staff members to determine neutrality and factual tone. Reports were classified 
+as objective when the narrative described the incident in a neutral, factual, and unbiased manner. Interrater 
+reliability before peer debriefing was substantial and improved following peer debriefing and consensus 
+discussions15. Overall, 86 of 99 (87%) reports were rated as fully objective.  
+During the content analysis, BOC noted that DOC investigators formally agreed with investigative findings in 92 
+of 99 cases (93%), either by handwritten notes or stamps stating “I concur” or “I agree”. This indicates a routine 
+ 
+14 Independent, blinded coding means that each researcher coded the material as objective or not objective independently and neither 
+researcher had access to each other’s coding (Gibbs, 2018). 
+15  Interrater reliability was assessed using Gwet’s AC1. Initial agreement was 0.77, indicating substantial agreement. Following peer 
+debriefing and clarification of coding definitions, interrater reliability increased to 0.88. 
+
+ 
+ 
+10 
+ 
+practice of investigators endorsing the investigation outcomes. Additionally, BOC observed that in 97 of 99 cases 
+(98%), people in custody refused to participate in the investigation process. While the Minimum Standards do 
+not require participation, this consistently high refusal rate may impact the completeness of investigations and 
+highlights an opportunity to explore ways to better engage people in custody in the investigative process. 
+BOC’s review finds that DOC is formally compliant with §3-16(b) in completing injury investigations in a prompt, 
+accurate, and objective manner. Nonetheless, variability in timeliness, data completeness, and narrative 
+objectivity highlight areas where clearer investigation timelines, enhanced training on report documentation, 
+and routine quality assurance could strengthen the investigative process and better fulfill the standard’s intent 
+of injury prevention and oversight. 
+§3-16(c) Coordination 
+Minimum Standard §3-16(c)(1) requires DOC and CHS to hold quarterly meetings to review injury data, identify 
+trends, and develop corrective action plans. DOC and CHS reported to BOC that these quarterly meetings occur; 
+however, neither agency provides minutes or related documentation, which limits BOC’s ability to verify the 
+content of these meetings or assess how data are being used to guide corrective actions. 
+Section §3-16(c)(2) requires DOC and CHS to maintain a coordinated electronic injury tracking system. This 
+requirement has not been met. The agencies continue to maintain separate systems, and no unified, reconciled 
+dataset exists. As part of this assessment, BOC compared the injury totals reported by each agency. Across 
+CY2024, CHS reported 29,405 injuries and DOC reported 28,273—a 4% difference (Figure 1).  
+CHS also reported more injuries than DOC across all months of CY2024. The monthly reports include a standing 
+note clarifying that CHS reports all injuries it evaluates during the month, whereas DOC reports only injuries 
+confirmed to have occurred during that month; CHS’s totals therefore include cases from prior months and 
+cases still pending clinical determination. As a result, the two agencies’ monthly injury counts are drawn from 
+different underlying incident sets and cannot be reconciled into a single monthly figure. 
+Figure 1: Monthly Injuries Reported by DOC and CHS in CY2024 
+ 
+Source: BOC analysis of administrative project data 
+0
+500
+1000
+1500
+2000
+2500
+3000
+Jan-24
+Feb-24
+Mar-24
+Apr-24
+May-24
+Jun-24
+Jul-24
+Aug-24
+Sep-24
+Oct-24
+Nov-24
+Dec-24
+CHS
+DOC
+
+ 
+ 
+11 
+ 
+In addition to injury totals, CHS reports on self-harm incidents identified during clinical encounters, creating a 
+third, unreconciled reporting stream (Figure 2). As a result, the Joint Monthly Injury Report includes three 
+distinct figures for self-injurious behavior: two reported by CHS and one reported by DOC. The first CHS number 
+appears on page 3 (“Injury Reports by Injury Determination”), the second on page 12 (“Incidents of Self-Harm 
+by Type as Determined by CHS Staff”), and the DOC figure appears in the DOC section of the report. None of 
+these numbers match, and the report does not include an explanation or footnote clarifying the differences. 
+Figure 2: Monthly Self-Injurious Behavior Incidents Reported by DOC and CHS in CY2024 
+ 
+Source: BOC analysis of administrative project data 
+BOC contacted CHS regarding this discrepancy in July 2025 and learned that while the SIB incidents in Summary 
+Data Table 13 are documented during medical injury report visits, instances of “self-harm” may originate from 
+an injury visit, another medical encounter, or a patient’s self-report to a mental health clinician. BOC also 
+learned that only the self-injury data is shared with DOC, while self-harm data is maintained within CHS’ mental 
+health service and is not shared. The data files exchanged among DOC, CHS, and BOC do not include line-level 
+self-harm data from CHS, meaning that a portion of self-harm incidents is not investigated by DOC. 
+The absence of a coordinated electronic injury tracking system, combined with the existence of multiple 
+unreconciled reporting streams, represents a compliance gap under §3-16(c)(2). Without an integrated system 
+and shared, consistent line-level data, DOC and CHS cannot jointly monitor injury and self-harm trends or 
+produce a unified count of incidents as required by the Standard. 
+§3-16(d) Reporting and Review 
+Minimum Standard §3-16(d) establishes comprehensive reporting and review obligations for DOC and CHS 
+related to injury data. BOC’s assessment identified several areas of partial compliance and ongoing challenges 
+that impact the effectiveness of oversight. 
+Under §3-16(d)(1), DOC is required to provide BOC with all Injury-to-Inmate forms created or updated in the 
+previous month by the fourth Friday of each month. BOC initially received 23,664 forms, representing 84% of 
+the 28,273 injuries DOC reported that year, indicating partial compliance. Following their review of an earlier 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Jan-24
+Feb-24
+Mar-24
+Apr-24
+May-24
+Jun-24
+Jul-24
+Aug-24
+Sep-24
+Oct-24
+Nov-24
+Dec-24
+CHS Self-Injuries pg3
+CHS Self-Harm pg12
+DOC - Self-Injuries Table 14
+
+ 
+ 
+12 
+ 
+draft of this report, DOC uploaded the May 2024 Injury-to-Inmate forms in November 2025, increasing the total 
+to 26,493 forms, or 94% of reported injuries, reflecting progress but still not full compliance. 
+With respect to §3-16(d)(2), DOC and CHS submit Joint Monthly Injury Reports; however, these reports were 
+consistently late. In 2023, the average delay was 17 days, increasing substantially to 72 days in 2024. These 
+chronic delays undermine the timeliness and utility of oversight activities. Given that the average time to 
+complete investigations following an injury is approximately nine days, it remains unclear why the Joint Monthly 
+Reports continue to experience such protracted delays. This ongoing issue suggests that §3-16(d)(2) is only 
+partially met. 
+Section §3-16(d)(3) requires DOC and CHS to provide BOC with monthly injury-level data files containing the 
+same detailed elements enumerated in the Joint Monthly Injury Reports. Currently, BOC receives these files 
+only from DOC, not from CHS. The absence of corresponding injury-level data from CHS limits BOC’s ability to 
+verify individual cases, reconcile discrepancies, and conduct comprehensive oversight across both agencies. This 
+gap significantly restricts effective monitoring of injury reporting and investigation processes. 
+Under §3-16(d)(4), DOC must annually review all Joint Monthly Injury Reports from the prior year and provide 
+BOC with a written public report detailing (i) the steps taken in the review, (ii) findings and any plans for 
+corrective action, and (iii) the status of corrective actions described in prior reports submitted over the past five 
+years.  
+DOC submitted its 2024 Annual Injury Review to BOC in August 2025 (Appendix B). The report stated that DOC 
+reviewed the twelve monthly injury reports and associated raw data for 2024, which fell under the final 
+reporting phase of BOC’s injury reporting rules (§3-16). DOC acknowledged a 4% year-over-year increase in total 
+injuries, stating, “this increase was driven by a rising census” (Appendix B).  
+However, BOC’s analysis of injury rates per 1,000 people in custody shows a decline from 372 in 2023 to 365 in 
+2024, indicating that population growth alone does not fully explain the increase in injury counts. The 2024 
+report also noted a 9% decrease in serious injuries and a 5% increase in non-serious injuries but lacked context 
+using injury rates, which could misrepresent the actual magnitude of change.  
+Review of DOC’s 2024 Annual Injury Review indicates that the report did not document findings identifying 
+deficiencies related to compliance with § 3-16 or assess DOC’s performance against the requirements of the 
+standard. While DOC acknowledged challenges related to the timeliness of injury reporting and referenced 
+ongoing efforts to improve submission timelines, the report stated that DOC had “no newfound findings of our 
+own to share” and did not articulate corrective action plans with defined steps or timelines responsive to those 
+challenges (Appendix B). This omission is notable given that, in the 2023 Annual Injury Review, DOC 
+acknowledged that BOC had begun tracking submission compliance against the reporting rules, including 
+timeliness requirements under § 3-16 (Appendix C). 
+Overall, DOC’s 2024 Annual Injury Review partially meets the reporting requirements of §3-16(d)(4) but falls 
+short in fully satisfying the standard’s expectations for transparency and accountability. 
+Finally, §3-16(d)(5) requires CHS to provide BOC with monthly public reports on self-harm incidents 
+disaggregated by seriousness and other factors. While many elements of this requirement are addressed, some 
+remain incomplete. For instance, self-injurious behavior incidents reported in Section XII “Self-Harm” of the 
+Joint Monthly Injury Reports are not disaggregated by seriousness as required, and does not correspond to Table 
+
+ 
+ 
+13 
+ 
+13 of the public report. See Figures 3 and 4 demonstrating differing totals in number of self-harm injuries in 
+GRVC in December of 2024 (CHS and DOC, 2025). This inconsistency hinders the Board’s ability to fully assess 
+self-harm trends and related responses. 
+ 
+Figure 3: December 2024 CHS and DOC Joint Injury Report: GRVC Table 13 as reported by CHS (Highlight 
+Added) 
+ 
+Figure 4: December 2024 CHS and DOC Joint Injury Report: Self-Harm data as reported by CHS (Highlight 
+Added) 
+ 
+
+ 
+ 
+14 
+ 
+Recommendations 
+Based on BOC’s assessment of DOC and CHS’s compliance with Minimum Standard §3-16 and the findings 
+detailed above, the following recommendations are provided to address identified gaps and strengthen injury 
+response, investigation, coordination, and reporting practices in NYC correctional facilities. 
+§3-16(a) Policy 
+1. DOC and CHS should revise and update their policies and procedures for addressing and preventing 
+injuries to people in custody so they align with the investigative, coordination, and reporting 
+requirements of Minimum Standard §3-16.  
+2. DOC policies should explicitly clarify how investigative findings are systematically used to inform injury 
+prevention measures, strengthening the connection between investigation outputs and proactive 
+corrective actions. 
+3. CHS policies should explicitly clarify expected timelines for injury response, documentation (e.g. Injury-
+to-Inmate forms), and reporting (e.g. Joint Monthly Injury Report and Monthly Public Self-Harm Report). 
+§3-16(b) Investigations 
+4. DOC should enhance the completeness and accuracy of Injury-to-Inmate forms by digitizing the form 
+and requiring mandatory fields to be filled before submission, thereby reducing missing or inconsistent 
+data. The digitized version of the Injury-to-Inmate form should also allow the inclusion of supporting 
+evidence (e.g., video footage) and enable electronic signatures to improve accountability and reduce 
+reliance on handwritten concurrence, which currently predominates. 
+5. DOC should establish internal monitoring processes to track investigation timeliness, including clear 
+deadlines for investigation closure, to address observed delays where some investigations extended 
+beyond longer than average timeframes. 
+6. Given the observed high rate of refusal by people in custody to participate in investigations, DOC should 
+explore strategies to better engage people in custody during investigations to enhance completeness 
+and accuracy, while respecting their rights and the Standards’ requirements. 
+§3-16(c) Coordination 
+7. To enhance transparency and support effective oversight, DOC and CHS should voluntarily provide BOC 
+with detailed minutes or summaries of quarterly meetings conducted under §3-16(c)(1), documenting 
+the review of injury data, identification of trends, and quality assurance activities. 
+8. DOC and CHS must fulfill the mandate to develop and maintain a coordinated electronic injury tracking 
+system that integrates both serious and non-serious injury data in a single reconciled platform, as 
+required by §3-16(c)(2). 
+§3-16(d) Reporting and Review 
+9. DOC and CHS should implement internal controls and monitoring to ensure timely submission of Injury-
+to-Inmate forms and Joint Monthly Injury Reports to BOC, addressing chronic delays that undermine 
+effective oversight (§3-16(d)(1)-(3)). 
+10. DOC and CHS should reconcile their differing injury and self-injurious behavior counts into a single 
+unified Joint Monthly Injury Report, that includes all required disaggregation, to comply fully with §3-
+16(d)(1)-(3). 
+
+ 
+ 
+15 
+ 
+11. DOC should ensure that its annual review of Joint Monthly Injury Reports required by § 3-16(d)(4) 
+includes documented findings regarding compliance with § 3-16, identification of systemic issues, and 
+detailed corrective action plans with associated steps and timelines. In addition to submitting these 
+annual reports to BOC, DOC should publicly disseminate the reports in accordance with the Standard. 
+12. To comply fully with §3-16(d)(5), CHS should ensure that its monthly public reports on self-harm 
+incidents consistently disaggregate data by seriousness (serious vs. non-serious injuries) as required by 
+the Minimum Standards. 
+Conclusion 
+This assessment of DOC and CHS’s implementation of Minimum Standard §3-16 reveals important progress 
+alongside persistent gaps that limit the effectiveness of injury response, investigation, coordination, and 
+reporting in NYC jails. While both agencies maintain foundational policies and conduct investigations in 
+compliance with basic requirements, the absence of clear timelines, inconsistent data reconciliation, and 
+incomplete reporting hinder transparency and oversight. The lack of a coordinated injury tracking system and 
+ongoing delays in submitting comprehensive reports reduce the ability to identify trends and implement timely 
+preventive measures. 
+Addressing these challenges through strengthened policies, improved data integration, and enhanced 
+accountability mechanisms is essential to fulfill the intent of the Minimum Standards and safeguard the health 
+and safety of people in custody. The recommendations herein provide a roadmap for DOC and CHS to enhance 
+their injury reporting systems, improve interagency coordination, and increase transparency to BOC and the 
+public. 
+Sustained commitment to these improvements will better position the agencies to identify and prevent injuries, 
+ensure more timely and objective investigations, and ultimately promote safer conditions within NYC’s 
+correctional facilities. 
+ 
+
+ 
+ 
+16 
+ 
+References 
+Board of Correction. (2019). Serious Injury Reports in NYC Jails 
+The City Record Online (CROL). Final Rule Regarding Injury Reporting in NYC Jails. (2019, July 22). New York City. 
+https://a856-cityrecord.nyc.gov/RequestDetail/20190717105  
+CHS and DOC (2025, March 12). Joint Injury Report December 2024. New York City. 
+Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (3rd ed.). SAGE 
+Publications. 
+Department of Correction Directive 7001R (1992) 
+Department of Correction Directive 4516R-D (2019) 
+Department of Correction Directive 5001R-A (2021) 
+Gibbs, G. R. (2018). Analyzing Qualitative Data. 
+Gwet, K. L. (2008). Computing inter-rater reliability and its variance in the presence of high agreement. British 
+Journal of Mathematical and Statistical Psychology, 61(1), 29–48. 
+Health + Hospitals/Correctional Health Services Policy MED 7 (2019) 
+Krippendorff, K.H. (2013). Content analysis: An introduction to its methodology. Thousand Oaks, CA: Sage. 
+Martin, S., Dedel, K., Friedberg, A. E., Gonzalez, D. O., Hurley, P., Lee, S. R., Sparkman, E., & Bucci Vanderveer, 
+C. (2017, April 3). Third Report of the Nunez Independent Monitor. New York City; The Nunez Monitoring Team.  
+Merriam, S.B. & Tisdell, E.J. (2016). Qualitative Research: A Guide to Design and Implementation. (4th Ed.). San 
+Francisco, CA: Jossey-Bass. 
+New York City Board of Correction. (2019, February 12). February 12, 2019 PUBLIC MEETING MINUTES. New 
+York City.  
+New York City Board of Correction. (2019, March 12). March 12, 2019 PUBLIC MEETING MINUTES. New York 
+City. 
+New York City Board of Correction. (2019, May 14). May 14, 2019 PUBLIC MEETING MINUTES. New York City. 
+Nunez and United States v. City of New York (2011) 
+United States Attorney's Office, Southern District of New York. (2014, August 4). RE: CRIPA investigation of the 
+New 
+York 
+City 
+Department 
+of 
+Correction [Letter]. 
+U.S. 
+Department 
+of 
+Justice. 
+https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/SDNY%20Rikers%20Report.pdf 
+Smith, H. P., Slade, K., Ferdik, F., Potter, A., & Baguley, T. (2024). Sentinel events in prison: surveillance of dual-
+harming incarcerated populations. Journal of Offender Rehabilitation, 63(1), 1-20. 
+Yang, P. Correectional NYC Health + Hospitals (2019, June 19) CHS Testimony on BOC Proposed Injury Rule 
+[Letter] 
+https://www.nyc.gov/assets/boc/downloads/pdf/chs_testimony_on_boc_proposed_injury_rule_6_19_19.pdf 
+
+ 
+ 
+17 
+ 
+Appendix A 
+Compliance (Circle One) 
+40 RCNY § 3-16 (Injury Response) 
+Yes/No/Partial 
+   (a)   Policy. The Department of Correction and the Health Authority ("Agencies") 
+shall establish policies and procedures to address and prevent injuries to people in 
+custody. 
+Yes/No/Partial 
+   (b)   Investigations. Investigations of injuries of people in custody, including all 
+supporting documentation such as Injury-to-Inmate forms, shall be completed in a 
+prompt, accurate, and objective manner. For the purposes of this section, 
+investigations shall mean investigations conducted in the manner required by the 
+Department of Correction ("Department") including, but not limited to, 
+investigations conducted by the facility or investigations contained in Injury-to-
+Inmate forms. 
+Yes/No/Partial 
+   (c)   Coordination.  
+Yes/No/Partial 
+      (1)   Quarterly Meetings. The Agencies shall engage in regular communication 
+and quarterly meetings, to review data on injuries, identify trends, and perform 
+quality assurance on injury report documentation. These communications and 
+quarterly meetings shall include data-informed development of corrective action 
+plans. 
+Yes/No/Partial 
+      (2)   Injury Tracking System. Within one year of the effective date of this rule, 
+the Agencies shall maintain a coordinated electronic injury tracking system for 
+serious injuries, which for purposes of 40 RCNY § 3-16 are defined as injuries 
+designated as serious by the Health Authority for the sole purpose of tracking 
+injuries. Within two years of the effective date of this rule, the Agencies shall 
+maintain a coordinated electronic injury tracking system for all injuries, both 
+serious and non-serious. 
+Yes/No/Partial 
+   (d)   Reporting and Review.  
+
+ 
+ 
+18 
+ 
+Yes/No/Partial 
+      (1)   By the fourth Friday of September 2019 and on the fourth Friday of every 
+month thereafter, the Department shall provide the Board with all Injury-to-
+Inmate forms (or any other injury reporting mechanism that may replace the 
+Injury-to-Inmate form) created in the previous month and any forms updated in 
+the previous month. 
+Yes/No/Partial 
+      (2)   The Agencies shall provide the Board with a joint, monthly, public report of 
+data on injuries and serious injuries to people in custody ("Joint Monthly Injury 
+Report"), as follows: 
+Yes/No/Partial 
+         (i)   Phase 1. Starting on the fourth Friday of September 2019 and on the 
+fourth Friday of every month thereafter, the Joint Monthly Injury Report shall 
+include the following information in a machine-readable format using both 
+numerical values and percentages, for the previous month and for the year-to-
+date: 
+Yes/No/Partial 
+            (A)   The Health Authority's definition of serious injuries for that reporting 
+period; 
+Yes/No/Partial 
+            (B)   A list of the Health Authority's injury reporting codes used during that 
+reporting period; 
+Yes/No/Partial 
+            (C)   Total number of injury reports made, overall and disaggregated by 
+treating facility; 
+Yes/No/Partial 
+            (D)   Total number of injuries presented to and confirmed by health care 
+personnel, overall and disaggregated by treating facility, and then further 
+disaggregated by serious and non-serious injuries; 
+Yes/No/Partial 
+            (E)   Total number of injuries confirmed by heath personnel that required 
+urgent care, overall and disaggregated by treating facility, and then further 
+disaggregated by serious and non-serious injuries; 
+Yes/No/Partial 
+            (F)   Total number of injuries confirmed by heath personnel that required 
+hospital emergency care, overall and disaggregated by treating facility, and then 
+further disaggregated by serious and non-serious injuries; 
+Yes/No/Partial 
+            (G)   Age of persons with injuries confirmed by health personnel, overall and 
+disaggregated by treating facility, disaggregated by serious and non-serious 
+injuries, and then re-aggregated by age group (i.e. adolescents ages 16 and 17, 
+young adults ages 18 to 21, and adults ages 22 and over); 
+Yes/No/Partial 
+            (H)   Whether persons with injuries presented to health personnel received 
+or refused treatment, grouped and totaled by "received treatment" or "refused 
+treatment," and then further disaggregated by serious and non-serious injuries; 
+Yes/No/Partial 
+            (I)   Mean, median, minimum, and maximum time between the time of 
+Department Supervisor notification and the time of initial medical evaluation for 
+serious injuries, overall and disaggregated by treating facility; 
+Yes/No/Partial 
+            (J)   Types of serious injuries as defined by the Health Authority, grouped 
+and totaled by serious injury type, overall and disaggregated by treating facility; 
+
+ 
+ 
+19 
+ 
+Yes/No/Partial 
+            (K)   Types of non-serious injuries, including head injuries, lacerations, and 
+other, grouped and totaled by injury type, overall and disaggregated by specific 
+command; 
+Yes/No/Partial 
+            (L)   Bodily location of injuries, grouped and totaled by bodily location, 
+overall and disaggregated by specific command, and then further disaggregated by 
+serious and non-serious injuries; 
+Yes/No/Partial 
+            (M)   Cause of injuries as reported by the injured person to Health 
+Authority, including self-injury, grouped and totaled by reported cause of injury, 
+overall and disaggregated by treating facility, and then further disaggregated by 
+serious and non-serious injuries; 
+Yes/No/Partial 
+            (N)   Any other information deemed notable by the Agencies. 
+Yes/No/Partial 
+         (ii)   Phase 2. Starting one year after the effective date of this rule, and 
+continuing on the fourth Friday of every month thereafter for a period of one year, 
+the Joint Monthly Injury Report shall also include the following information in a 
+machine-readable format using both numerical values and percentages, for the 
+previous month and for the year-to-date: 
+Yes/No/Partial 
+            (A)   Locations within the commands where the serious injuries occurred, 
+grouped and totaled by location, overall and disaggregated by specific command 
+(i.e. facility, transportation, court); 
+Yes/No/Partial 
+            (B)   For serious injuries occurring in housing areas, the specific locations 
+within the housing area where the injuries occurred, overall and disaggregated by 
+specific command; 
+Yes/No/Partial 
+            (C)   Total number of pending facility investigations for serious injuries 
+reported in the previous month, overall and disaggregated by specific command; 
+Yes/No/Partial 
+            (D)   Total number of completed investigations for serious injuries reported 
+in the previous month, overall and disaggregated by specific command; 
+Yes/No/Partial 
+            (E)   Cause of serious injuries, including self-injury, as recorded in the facility 
+investigation, grouped and totaled by cause of injury, overall and disaggregated by 
+specific command; 
+Yes/No/Partial 
+            (F)   Mean, median, minimum, and maximum time between time of 
+Department Supervisor notification and completion of facility investigation for all 
+serious injuries reported in the previous month, overall and disaggregated by 
+specific command; and 
+Yes/No/Partial 
+            (G)   Whether incidents resulting in serious injuries were witnessed by the 
+staff persons who completed the Injury to Inmate reports, grouped and totaled by 
+"witnessed" or "not witnessed," overall and disaggregated by specific command. 
+Yes/No/Partial 
+         (iii)   Phase 3. Starting two years after the effective date of this rule, and 
+continuing on the fourth Friday of every month thereafter, the Joint Monthly 
+Injury Report shall also include all information required pursuant to 40 RCNY §§ 3-
+16(d)(2)(ii)(A) - (B), (D) - (G) for serious and non-serious injuries, in a machine-
+readable format using both numerical values and percentages, for the previous 
+month and the year-to-date. 
+
+ 
+ 
+20 
+ 
+Yes/No/Partial 
+      (3)   Starting on the fourth Friday of September 2019, the Agencies shall 
+provide the Board with a monthly data file with injury-level information 
+corresponding to the data enumerated in the Joint Monthly Injury Report. This file 
+shall also include all relevant identifying injury-level information (e.g., injury report 
+number, Central Operations Desk/Use of Force report number, injury date, date of 
+injury report, specific unit and housing area, housing area type, date investigation 
+was closed, incarcerated person-identifiers, and witnessing-staff identifiers) for 
+each injury reported. Each file shall be shared in an electronic, machine-readable 
+format and shall be updated cumulatively from each prior data reporting period. 
+The file shall be maintained as confidential by the Board. 
+Yes/No/Partial 
+      (4)   On at least an annual basis, beginning on the first day of the sixth month 
+after the effective date of this Rule, the Department shall review all Joint Monthly 
+Injury Reports submitted in the previous year pursuant to subdivision 40 RCNY § 3-
+16(d)(2). Within 60 days of each such annual review, the Department shall provide 
+the Board with a written public report detailing: 
+Yes/No/Partial 
+         (i)   Steps taken in its review; 
+Yes/No/Partial 
+         (ii)   Findings, and any plans for corrective action; and 
+Yes/No/Partial 
+         (iii)   Status of corrective actions described in prior reports submitted over the 
+past five years. 
+Yes/No/Partial 
+      (5)   Starting on the fourth Friday of September 2019 and on the fourth Friday 
+of every month thereafter, the Health Authority shall provide the Board with a 
+monthly public report on self-harm, including the following information in a 
+machine-readable format using both numerical values and percentages, for the 
+previous month and for the year-to-date: 
+Yes/No/Partial 
+         (A)   Total number of injuries reflecting self-harm, as determined by health 
+care personnel, overall and disaggregated by serious and non-serious injuries; 
+Yes/No/Partial 
+         (B)   Injuries reflecting self-harm, disaggregated by age (adolescents ages 16 
+and 17, young adults ages 18 to 21, and adults ages 22 and older), and further 
+disaggregated serious and non-serious injuries; and 
+Yes/No/Partial 
+         (C)   Injuries reflecting self-harm, disaggregated by housing type, and further 
+disaggregated serious and non-serious injuries. 
+  
+(Added City Record 7/22/2019, eff. 8/21/2019) 
+ 
+ 
+ 
+
+ 
+ 
+21 
+ 
+Appendix B 
+ 
+
+ 
+ 
+22 
+ 
+ 
+ 
+
+ 
+ 
+23 
+ 
+Appendix C 
+ 
+
+ 
+ 
+24 
+ 
+ 

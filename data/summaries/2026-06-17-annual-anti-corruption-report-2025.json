@@ -1,0 +1,82 @@
+{
+  "id": "2026-06-17-annual-anti-corruption-report-2025",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "2025 Annual Anti-Corruption Report",
+  "plain_title": "Half of city agencies have no internal audit plan",
+  "agency": "New York City agencies (citywide)",
+  "issued": "2026-06-17",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2026/13AnnualAntiCorrRpt.Release.06.17.2026.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2026/13AnnualAntiCorrRpt.Release.06.17.2026.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) surveyed city agencies about their internal auditing capacity: who performs audits, whether agencies can hire and keep auditors, what kinds of audits they run, whether they have an audit plan and whether they buy outside audit services. The report covers October 1, 2024, through September 30, 2025, and draws on responses from 50 agencies.",
+  "background": "Mayoral Executive Order No. 105 makes the DOI commissioner the city's independent inspector general and requires this annual report. City Charter section 389(a) requires agency heads to maintain an internal control system that reduces the agency's vulnerability to fraud, waste, abuse, error, conflict of interest and corruption. Like DOI's other annual anti-corruption reports, this one summarizes what agencies report about themselves rather than DOI's own investigative findings.",
+  "findings": [
+    {
+      "plain": "Seventy percent of responding agencies have staff who perform internal audit functions, and 30 percent have no such staff at all.",
+      "quote": "A majority of agencies (70%) reported having staff who perform internal audit \nfunctions, while 30% reported that they do not  have such staff."
+    },
+    {
+      "plain": "Agencies split evenly on whether they have an internal audit plan, which sets out the audit work expected over a given period. DOI notes that having one is best practice.",
+      "quote": "Internal audit plans enhance the ability of agencies to achieve their \nobjectives, and it is best practice to have one."
+    },
+    {
+      "plain": "Seventeen agencies had fewer auditors actually working than their budget allowed. Nine agencies whose budgeted audit headcount fell between January 2022 and September 2025 blamed attrition, vacancy reductions or extended vacancies and citywide budget cuts.",
+      "quote": "they cited attrition, vacancy reductions or extended vacancies, and Citywide budget \nreductions, among other rea sons."
+    },
+    {
+      "plain": "Sixteen of the 50 agencies reported trouble recruiting or keeping auditors, pointing to funding, salary levels and difficulty finding qualified candidates, along with hiring freezes and long hiring approvals.",
+      "quote": "numerous \nagencies cited issues of funding, salary and financial compensation, and identifying \nqualified candidates."
+    },
+    {
+      "plain": "Most agencies said their auditors issue written reports and make recommendations for improvement, and several described tracking corrective action through follow-up audits, management reviews and tools for open action plans.",
+      "quote": "the majority of agencies also reported that their auditors \nmake recommendations for improvement."
+    },
+    {
+      "plain": "Seven agencies said their auditing staff reported findings from completed audits to DOI during the year.",
+      "quote": "Seven agencies also reported that in the last year, the ir respective  auditing \nstaff/departments had made a report to DOI regarding findings from performed or \ncompleted audits."
+    },
+    {
+      "plain": "Twenty-one of the 50 agencies had hired outside auditors in the past five years. Agencies without internal auditors were not more likely to buy external audits: of the 15 agencies with no internal audit staff, only one had procured an external audit in that period.",
+      "quote": "agencies without inte rnal auditors were not more likely to hire external \nauditors."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "70%",
+      "label": "Agencies with staff performing internal audit functions"
+    },
+    {
+      "value": "Seventeen agencies",
+      "label": "Agencies with fewer active auditors than budgeted"
+    },
+    {
+      "value": "Sixteen of the 50 agencies",
+      "label": "Agencies reporting auditor recruitment or retention problems"
+    },
+    {
+      "value": "Thirty-three agencies",
+      "label": "Agencies whose auditors make recommendations"
+    },
+    {
+      "value": "42%",
+      "label": "Agencies that hired outside auditors in five years"
+    },
+    {
+      "value": "Seven agencies",
+      "label": "Agencies that referred audit findings to DOI"
+    }
+  ],
+  "recommendations": [
+    "City agencies should conduct audits on a consistent basis.",
+    "Agencies that do not have an internal audit plan should consider putting one together.",
+    "Agencies should review their existing auditing frameworks with the aim of maximizing audit capacity in a way that still fits the agency's overall capacity and specific mission."
+  ],
+  "agency_response": "The report is based on the agencies' own questionnaire responses. The commissioner thanked the responding agencies for assessing their audit functions and answering DOI's questionnaire.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

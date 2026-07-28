@@ -1,0 +1,2511 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+Special Master Program Monitoring
+Prepared for
+Loretta A. Preska
+Senior United States District Judge
+March 19, 2025
+thru
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 1 of 72
+
+thru
+When a special education hearing is 
+held, an Impartial Hearing Officer 
+overseeing the case can issue the 
+decision that a service be provided or 
+payment be made on behalf of the 
+student. NYCPS then has 35 days to 
+implement the order (unless otherwise 
+specified), whether by making a 
+payment and/or arranging the 
+necessary service(s) for the student.
+2
+In 2007, the parties settled a 
+class action lawsuit, resulting in 
+a settlement which developed a 
+governing document, the 
+Stipulation, to measure 
+compliance moving forward. The 
+parties agreed to the Stipulation 
+and an Independent Auditor has 
+been in the role of measuring 
+compliance.
+NYCPS created an office, termed the 
+Implementation Unit (IU), to manage 
+the process by which these payments 
+are authorized and services are 
+arranged. 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 2 of 72
+
+thru
+Obligation #39
+Every 120 days from the date of this Order [7/19/2023], the Special Master will file 
+a report with the Court on NYCPS’s progress in implementing the obligations that 
+have come due in the prior 120 days pursuant to this Order (the “Obligations”).  
+Each such report shall set forth (i) the Special Master’s analysis as to whether 
+each Obligation has been fulfilled; (ii) for any Obligation that the Special Master 
+has concluded has been fulfilled, a detailed explanation of the basis for such 
+conclusion; (iii) for any Obligation that has not been fulfilled, the impediments to 
+fulfilling such Obligation, the measures necessary to overcome such 
+impediments, and the timeframe for fulfilling the Obligation; (iv) for any Obligation 
+that has not been fulfilled, a summary of NYCPS’s efforts to consult with Plaintiffs, 
+the Special Master, or other relevant entities in order to fulfill the Obligation, or an 
+explanation of good cause why no such consultation was held; (v) the next steps 
+to be taken to fulfill the Obligations; and (vi) any additional recommendations of 
+steps NYCPS must take to meet the Stipulation’s benchmarks, including but not 
+limited to those identified as future recommendations in the Special Master’s 
+March 29, 2023 report.  NYCPS should provide all reasonable assistance to the 
+Special Master in preparing this report, and Plaintiffs will be permitted to provide 
+feedback.
+3
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 3 of 72
+
+thru
+Contents
+4
+1.
+Executive Summary
+2.
+Obligations Not Yet Fulfilled
+•
+Appendix I: Independent Technology Assessment
+•
+Appendix II: Obligations Fulfilled
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 4 of 72
+
+thru
+1. Executive Summary
+5
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 5 of 72
+
+thru
+#14c Recruit additional staff
+#3b Redesign workflows
+#33 New services process
+#16b Build parent notification
+#22b NYCPS report on hiring
+#2b KPI monthly analysis
+#9 Documentation for payments
+#11 Prevent overpayments
+#12b Service communications
+#19 Medical forms required
+#28a Collect data assets
+#28b KPI analysis and solutions
+#28c KPI report to Plaintiffs
+#35 Home instruction orders
+#36 Placement orders
+#37 Training updates
+#38 Ongoing user research
+#16c Timesheet solution 
+#27 Case status indicator (web)
+#31/#17 Document management
+#34 Document management tool
+January 19, 2024
+July 19,2024
+Other (no due date)
+April 19, 2024
+January
+Feb-March
+Apr-May
+Jun-Jul
+2025
+Timeline of Obligations 2024-2025
+#20 Nursing protocol
+#22a Recruiting/hiring plan
+#23 Training Lead
+#24b DAITS enhancements
+#29 Impl. Systems Analyst
+#30 IU SOPM
+#32 Mobile 
+timesheet 
+solution
+Jan.19, 2025
+#5 Decision/order web form
+#8 Documentation capture
+#10 Timesheets solution
+#13 Requirements for services
+#14a Customer support hotline
+#14b Staffing plan
+#16a Parent notifications design
+Today
+March 19, 2025
+6
+2023 
+Due dates (# of 
+obligations due)
+• 9/2 (1)
+• 9/19 (3)
+• 10/19 (9)
+• 11/19 (2)
+Aug-Sep
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 6 of 72
+
+thru
+Key Takeaways
+7
+• Since my last report, very little progress was made on the development of the 
+Impartial Hearing Management System (IHMS), while the project waited for Phase 2 
+funding. After Your Honor requested an explanation of the current obstacles, NYC 
+OMB approved the funding for change request on 2/26/2025, though IBM’s contract 
+review/sign-off and the Comptroller’s approval remain key steps. NYCPS/IBM have 
+suggested that they may be ready to resume development work in the April / May 
+timeframe.
+• SupportHub, the platform for providing customer support (obligation #14), is now 
+live, and it is also available to a subset of vendors. To understand the community's 
+experience, I surveyed attorneys and parents who have interacted with SupportHub 
+and conducted an independent user experience review of the platform. While I 
+applaud NYCPS for deploying SupportHub as a short-term solution as IHMS is 
+delayed, there are many opportunities for NYCPS to improve processes and 
+communications as they interact with parents and advocates. 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 7 of 72
+
+thru
+Key Takeaways
+8
+• On December 5, 2024, Your Honor held a conference to address process changes 
+and communication protocols around various public-facing initiatives. During this 
+meeting, Your Honor ordered NYCPS to take a series of actions by 12/27/24, 
+including changes made to public communications and guidelines (obligation #9) - 
+some of these changes/actions remain outstanding, and I am attaching a status 
+report tracking these items. In short, NYCPS has not satisfied all of the directives 
+ordered on 12/5. 
+• Polaris, the new custom-built invoicing tool (obligation #10), went live with 57 
+vendors in late December 2024 and will continue for a 3-month period before rolling 
+out to the larger community of vendors in April. DFO is processing these payments 
+from Polaris now and processed 207 invoices in January, (98% within 5 days). 
+While conversations with the team indicate that the application is performing well 
+and leading to shorter invoice processing times, we have not reviewed technical 
+documentation to validate this.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 8 of 72
+
+thru
+Key Takeaways
+9
+• Technical resources in NYCPS/DIIT are continuing their stabilization work 
+(obligation #24) on the current Implementation application, DAITS. The DAITS 
+database was recently updated and we await feedback from the IU team on 
+whether that has improved performance of the system. 
+• Most staffing request funding appears to be approved, and NYCPS is now going 
+through recruiting processes to onboard outstanding positions. To date, NYCPS 
+reports they have onboarded 100 staff (full-time and temp) out of 148 needed 
+positions. See the attached for more details. 
+• Recently, I collaborated with OATH to modify the method by which hearing officers 
+tag cases as high-priority or time-sensitive. OATH has informed its Hearing Officer 
+community about the new procedure. I hope this will enhance the effectiveness of 
+the intake process for high-priority orders (obligation #12), and I await feedback 
+from NYCPS on its performance. I understand that NYCPS will not be able to 
+effectively track the intake of these orders until DAITS enhancements are 
+implemented. 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 9 of 72
+
+thru
+Key Takeaways
+10
+• Currently, Guidehouse, the firm responsible for auditing and reporting on LV 
+compliance, is significantly backlogged on their quarterly reports, similar to the IU, 
+due to high volume of action items. To help understand how fulfilment of 
+obligations to date has affected NYCPS’s efforts more recently, I proposed that 
+Guidehouse modify their reporting process and conduct an audit of the most recent 
+month of orders due.  I collaborated with NYCPS, Plaintiffs and Guidehouse to 
+achieve consensus on the approach. Guidehouse is now auditing orders due in 
+March 2025 and should report their final report of this one-month snapshot in May 
+2025.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 10 of 72
+
+thru
+Progress Snapshot by Due Date
+11
+The obligations in the LV order dated 7/19/2023 are enumerated in the order itself, but many of 
+these obligations consist of multiple actions. Often, the various actions have different due dates, 
+and several obligations do not have due dates. We have updated this snapshot to illustrate this 
+full list of actions to be taken, (51). For example, obligation #22a entails a recruiting and hiring 
+strategy, and obligation #22b entails the staffing report provided with this report.
+•
+NYCPS has fulfilled one obligation since my last 
+report in November 2024, specifically obligation 
+#22 concerning a recruiting and hiring strategy 
+for staff to support implementation. As of March 
+7, 2025, a total of nineteen (19) obligations 
+have been fulfilled, while thirty-two (32) remain 
+unfulfilled. All remaining unfulfilled obligations 
+are now past due as of January 19, 2025.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 11 of 72
+
+thru
+2. Obligations Not Yet Fulfilled
+12
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 12 of 72
+
+thru
+Obligations Not Yet Fulfilled
+13
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+5
+With endorsement from Plaintiffs, NYCPS, OATH 
+and NYSED leadership, within six months of the 
+date of this Order, NYCPS will research and 
+design a web-based interface for Impartial Hearing 
+Officers to issue decisions and build the 
+user-friendly web form for capturing orders … 
+allowing both common and uncommon relief to be 
+ordered. The web-based interface must include 
+the ability to capture the decision and order, both 
+via structured input fields (e.g., a dropdown menu) 
+and/or in writing (e.g., a free-form text field), with 
+the full independence and discretion of the 
+Hearing Officer; 
+1/19/2024
+Impediments are being 
+mitigated, and progress 
+is now being made. The 
+next impediment may be 
+the build of this 
+functionality as it relates 
+to the IHMS Phase 2 
+release schedule.
+We have collected feedback 
+from both OATH and NYSED 
+regarding the draft form fields. 
+NYCPS has been working on 
+finalizing the list of fields to be 
+included in the IHMS 
+specifications. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS finalizing list of form fields 
+-
+IHMS team to design/build functionality
+-
+NYCPS/SM to share list of form fields with OATH to 
+promote integration between future data systems
+See steps to be taken
+TBD
+Release of IHMS estimated in 
+2027
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 13 of 72
+
+thru
+Obligations Not Yet Fulfilled
+14
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+8a
+Within six months of the date of this Order, 
+NYCPS will design a process by which NYCPS 
+can collect relevant implementation 
+documentation from parents and guardians, 
+parent representatives, and providers before the 
+hearing; NYCPS will conduct user research with 
+parents to design a web-based and offline data 
+collection process to facilitate this.  
+1/19/2024
+NYCPS has designed for 
+IHMS/NYCSA and 
+ServiceNow/SupportHub to 
+capture documentation 
+following an order. NYCPS 
+has not shared plans for 
+capturing documentation 
+pre-hearing, as this 
+obligation states.
+NYCPS/Nagarro have included 
+me in the design of the tools to 
+capture LV authorizations and 
+vendor invoices. We have not 
+discussed capturing the 
+parents’ documentation 
+pre-hearing.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- NYCPS to conduct “user research with parents” and draft ”a 
+process” by which to collect relevant documentation “before 
+the hearing,” (with input from Plaintiffs).
+See Steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 14 of 72
+
+thru
+Obligations Not Yet Fulfilled
+15
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+8b
+NYCPS will modify any necessary 
+policies or technologies to allow 
+parents to submit payment 
+documentation as multiple files or 
+different formats;
+1/19/2024
+This functionality will not be available 
+broadly until the full deployment of IHMS. 
+Users of SupportHub can now submit 
+multiple files, but not all parents/reps are 
+utilizing SupportHub. Therefore, where 
+email remains the method for sharing 
+documentation, NYCPS reports that they 
+must request the documentation as one 
+PDF. 
+No solutions have been 
+presented to me for a 
+short-term fix to this 
+problem.
+Steps to be Taken
+Special Master Recommendations
+Timeframe to resolve
+- Assess if there are ways to communicate a benefit 
+of using SupportHub is that multiple files can be 
+shared at once.
+Encourage (in communications) 
+parents/reps to use SupportHub if they 
+would like to submit multiple documents 
+for authorization.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 15 of 72
+
+thru
+Obligations Not Yet Fulfilled
+16
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+10
+NYCPS will assess and implement a solution to 
+support the submission and immediate approval of 
+timesheets within six months of the date of this 
+Order.
+1/19/2024
+Polaris, the new custom-built 
+invoicing tool (obligation #10), 
+went live with 57 vendors in late 
+December 2024 and will 
+continue for a 3-month period 
+before rolling out to the larger 
+community of vendors in April 
+2025.
+While conversations with the 
+team indicate that the 
+application is performing 
+well and leading to shorter 
+invoice processing times, we 
+have not reviewed technical 
+documentation to validate 
+this.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Deploy Polaris to full community of vendors
+-
+Please refer to slides 52-54 for additional details
+See steps
+Q2 2025
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 16 of 72
+
+thru
+Obligations Not Yet Fulfilled
+17
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+13
+Within six months of the date of this Order, NYCPS 
+will define data and system requirements for 
+monitoring incoming and tracking the ongoing 
+implementation of orders comprised of service action 
+items.  
+1/19/2024
+This obligation is dependent 
+on functionality contained 
+within NYCPS’ special 
+education data management 
+system. 
+IU is designing DAITS 
+reports to help 
+Implementation Liaisons 
+track service action items.
+NYCPS shared an email 
+pointing me to the various 
+sections of IHMS BRDs 
+that contain some of this 
+functionality. I am 
+requesting that NYCPS 
+share project 
+documentation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+SESIS and IHMS teams have started, and should continue, 
+discussions regarding integration of the systems
+-
+NYCPS to share ATLAS project documentation when available.
+Establish a working group to 
+meet regularly to discuss 
+the integration needed
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 17 of 72
+
+thru
+Obligations Not Yet Fulfilled
+18
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+14a
+NYCPS will (a) within six months of 
+the date of this Order, deploy a 
+customer support hotline and formal 
+network structure for the 
+Implementation Manager role to 
+serve as the point-of-contact for the 
+case and coordinate service action 
+items across NYCPS offices, schools, 
+attorneys and parents,
+1/19/2024
+NYCPS launched its customer support 
+platform, SupportHub, on January 8. As 
+NYCPS could not provide useful data on the 
+pilot phase, I surveyed attorneys and 
+parents who interacted with SupportHub to 
+better understand the community's 
+experience, and I shared some of those 
+results with Your Honor. About 9% of 
+respondents felt their experience was “ok” 
+and 0% found it very helpful. About 52% did 
+not find it helpful or had a “bad experience.”
+NYCPS and Nagarro have 
+regularly shared status 
+updates with me on the 
+progress of launching 
+SupportHub. I interviewed 
+an attorney to gather input 
+on the usefulness of the 
+SupportHub and reported 
+the results to NYCPS. I 
+plan to discuss many of the 
+issues with the new 
+Communications staff.
+ 
+Steps to be Taken
+Special Master Recommendations
+Timeframe to resolve
+-
+NYCPS/Nagarro to continue improving the 
+tool/SupportHub/process in response to 
+community feedback
+See steps
+Q2 2024
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 18 of 72
+
+thru
+Obligations Not Yet Fulfilled
+19
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16a
+Within six months of the date of this Order, NYCPS 
+will design an automated service to generate emails 
+to parents, attorneys and advocates, and providers at 
+key milestones in the administrative workflow of the 
+implementation of an order, such as when an 
+Implementation Manager unpacks the hearing order, 
+when a service provider has been identified, when a 
+payment action item has been authorized, and when 
+the payment has been sent to the parent or provider. 
+1/19/2024
+I am not aware of any 
+discussions around this 
+functionality. SupportHub 
+notifies parents/reps once 
+action items have been 
+unpacked, but there is not 
+an end-to-end journey of 
+milestones defined.
+NYCPS shared the NYCSA 
+BRD with me on 7/17, 
+however I responded 
+providing feedback and 
+have not received any 
+updates on this obligation 
+since. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- DIIT is reviewing the mechanism by which the automated 
+notifications are generated (i.e. from IHMS directly, through 
+NYSCA).
+- NYCPS to draft the requirements/content of “an automated 
+service to generate emails to parents…”
+See Steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 19 of 72
+
+thru
+Obligations Not Yet Fulfilled
+20
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16b
+Within nine months of the date of this order, NYCPS 
+will build the notification function and begin testing
+4/19/2024
+NYCPS has not designed 
+the notification function as 
+per obligation #16a, which is 
+a dependency for this 
+obligation (to build the 
+notification function). 
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+Same as #16a
+- DIIT is reviewing the mechanism by which the automated 
+notifications are generated (i.e. from IHMS directly, through 
+NYSCA).
+- NYCPS to draft the requirements/content of “an automated 
+service to generate emails to parents…”
+See steps
+As soon as possible 
+(overdue)
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 20 of 72
+
+thru
+Obligations Not Yet Fulfilled
+21
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16c
+Within twelve months NYCPS will deploy the 
+function publicly; (see 16a and 16b)
+7/19/2024
+This obligation depends on the 
+design of the build of the 
+notification function and testing 
+(#16b). The origin of this 
+obligation stemmed from a 
+capability DAITS already has. 
+This is a missed opportunity for a 
+near-term solution.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- See #16a
+See #16a
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 21 of 72
+
+thru
+Obligations Not Yet Fulfilled 
+22
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+20
+Within six months of the date of this Order, NYCPS 
+and the Office of School Health will modify any 
+applicable procedures with nursing agencies to 
+specify that postings and assignments for a nurse 
+will remain open until an individual nurse has been 
+formally assigned to a student rather than when the 
+nursing agency has claimed the posting;
+1/19/2024
+On 5/13, NYCPS provided a 
+URL for general nursing 
+forms. I am awaiting 
+additional information from 
+NYCPS/OSH, including a 
+response to an email string 
+around the communication to 
+the nursing agencies.
+NYCPS provided me with an 
+update on 5/13/2024 sharing 
+their efforts to date. I have 
+requested follow-up 
+documentation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS/IHO/OSH to provide copy of communications to 
+health agencies
+See Steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 22 of 72
+
+thru
+Obligations Not Yet Fulfilled
+23
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+24b
+Within six months of the date of this order, 
+NYCPS will develop, test, and release the 
+DAITS enhancements
+1/19/2024
+DAITS technical resources are 
+continuing their stabilization work 
+(obligation #24). The team 
+recently updated its database. I 
+received a status update from IU 
+on 3/13/25, that performance was 
+improved in certain areas, but 
+issues remain that are being fixed 
+at the time of this writing.
+My team has been briefed 
+on NYCPS’s progress on 
+this obligation. See also 
+Appendix I (slide 51)
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Confirm if changes have led to increased stabilization 
+of the application.
+-
+DIIT/IU to share documentation, stabilization plan and 
+enhancement plan
+See Appendix I DAITS (slides 
+60-61)
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 23 of 72
+
+thru
+Obligations Not Yet Fulfilled
+24
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+30
+Within six months of the date of this Order, 
+NYCPS will expand the LV Payment and Service 
+Guidelines for Implementation Unit staff into an 
+Operating Procedures Manual, and design and 
+implement a professional development series on 
+order implementation for NYCPS staff;
+1/19/2024
+Capacity to develop and write 
+the Operating Procedures has 
+been a challenge, however 
+NYCPS shared a draft of this 
+deliverable on 5/8/2024. I 
+responded with feedback and 
+questions on 5/21/2024 and am 
+awaiting an updated version 
+from NYCPS
+NYCPS has shared a draft 
+of the SOPM with me. I am 
+awaiting revisions based 
+on my feedback shared on 
+5/21. NYCPS has reported 
+they will revise in early 
+2025, so I plan to follow up 
+with NYCPS shortly.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS to revise first draft of the Operating Procedures 
+Manual based on my feedback 
+-
+Share an updated version for Plaintiffs and I to review
+See Steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 24 of 72
+
+thru
+Obligations Not Yet Fulfilled
+25
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+33
+Within nine months of the date of this Order, NYCPS 
+will launch the process of monitoring and coordinating 
+service action items, as defined in paragraphs 14-16
+4/19/2024
+This obligation first requires 
+the development of an 
+improved process to monitor 
+and coordinate service 
+action items as per 
+obligation #13 – this 
+obligation is not yet fulfilled.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Develop the necessary process and documentation as per 
+obligation #13
+-
+Plan for the launch of the process (e.g., training)
+Articulate the new process 
+for monitoring service action 
+items (obligation #13) and 
+assess impacts 
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 25 of 72
+
+thru
+Obligations Not Yet Fulfilled
+26
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+27
+Within one year of the date of this Order, 
+NYCPS will develop and deploy an accessible 
+status indicator (web-based) for parents to 
+easily view their case’s status in the due 
+process workflow;
+7/19/2024
+NYCPS has not communicated 
+to me that this functionality is 
+planned for development. This 
+functionality was not included in 
+the development of IHMS BRDs 
+thus far to my knowledge. 
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS to gather business requirements and share
+This functionality should be 
+added to the scope of the next 
+phase of IHMS.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 26 of 72
+
+thru
+Obligations Not Yet Fulfilled
+27
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+31
+Within twelve months of the date of this Order, 
+NYCPS will centralize the collection, submission 
+and sharing of pertinent documents among 
+NYCPS’s impartial hearing representatives and 
+Implementation Unit on a single platform. 
+NYCPS will establish a process by which 
+documentation from families is captured by 
+NYCPS representative at the hearing;
+7/19/2024
+This obligation is dependent on 
+the successful launch of IHMS. 
+My team continues to 
+observe the progress of 
+IHMS and are providing 
+guidance around certain 
+aspects.  
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- TBD
+-
+TBD
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 27 of 72
+
+thru
+Obligations Not Yet Fulfilled
+28
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+34
+Within one year of the date of this Order, 
+NYCPS will build the necessary document 
+management functionality into the new special 
+education data system to share documents 
+across special education processes, as defined 
+in paragraph 17
+7/19/2024
+This obligation is dependent on 
+the successful launch of ATLAS, 
+similar to obligation #13. 
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+See obligation #13 on slide 16.
+-
+Plan and design for the sharing of documents in 
+accordance with other data integrations for IHMS/ATLAS
+See obligation #13 on slide 17
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 28 of 72
+
+thru
+Obligations Not Yet Fulfilled
+29
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+32
+Within eighteen months of the date of this 
+Order, NYCPS will build or procure a mobile 
+application by which providers can enter their 
+hours on their phone upon providing a service 
+and NYCPS will not require a traditional invoice 
+for payment.  The new invoicing process and 
+tool will be designed to streamline the invoice 
+approval process.  NYCPS will conduct user 
+research with providers and parents to identify 
+the mobile application
+1/19/2025
+The Polaris team has indicated 
+that they conducted testing on 
+mobile devices. NYCPS has 
+communicated to me that they 
+intend to share additional 
+documentation re: mobile 
+functionality. 
+NYCPS provided my team 
+with documentation on the 
+Polaris solution, which did 
+not indicate any future 
+mobile functionality. I would 
+like to see a demo of the 
+mobile functionality to 
+assess this obligation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS to provide documentation on mobile functionality, 
+such as requirements, user research findings, etc.
+-
+Polaris team/NYCPS to provide demo of mobile 
+functionality
+- See steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 29 of 72
+
+thru
+Obligations Not Yet Fulfilled
+30
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+2b
+(b) Once the required data assets are 
+integrated, the Implementation Unit and 
+NYCPS’s Office of General Counsel will monitor 
+progress of implementation, and KPIs, and 
+report on the progress of KPIs to the Special 
+Master and Plaintiffs on a monthly basis.
+-
+NYCPS is still in the process of 
+gathering and integrating all of 
+the data that would be needed to 
+report on KPIs. 
+NYCPS has provided 
+samples of KPIs based on 
+recent progress made. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- NYCPS to gather and integrate data assets
+- NYCPS to update Parties on delivery date for 
+future KPI reports
+-
+See steps
+As soon as possible
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 30 of 72
+
+thru
+Obligations Not Yet Fulfilled
+31
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+9
+NYCPS will make payments pursuant to the 
+timelines in the Stipulation for Timely 
+Implementation upon calculation or confirmation 
+of the payment amount required by an Action 
+Item in an Order and the payee being registered 
+with the City.  Based on the representations 
+contained in the attached declaration, NYCPS 
+will identify for the Special Master the specific 
+documents that NYCPS will require in any 
+payment and publicly provide a list of those 
+documents on NYCPS’s website and as an 
+attachment to every Payment Order; 
+-
+NYCPS publicly provides the list 
+of documents (as specified in 
+this obligation) online via the 
+HUHY Guide. NYCPS has made 
+several updates to its website 
+and HUHY Guide in recent 
+months. Only a few items remain 
+from the 12/5 Court conference 
+for NYCPS to resolve – please 
+see attachment to this report on 
+website/public communications 
+(Payment Authorization Doc.). 
+Discussions have been 
+ongoing, including in the 
+12/5 meeting with Your 
+Honor, about the current 
+contents of the list. I am 
+providing an update on the 
+Implementation website’s 
+progress attached to this 
+report. I will continue to 
+monitor the implementation 
+of these recommendations. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- NYCPS to make final changes as decided on 12/5
+- Communications staff should review and improve the 
+contents of the Implementation website
+NYCPS should continue to 
+review and improve the 
+Implementation website
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 31 of 72
+
+thru
+Obligations Not Yet Fulfilled
+32
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+11
+NYCPS will assess the creation of a 
+systems-generated notification to inform the 
+Implementation Unit that the Office of General 
+Counsel/Special Education Unit has settled a 
+case where payments are being distributed from 
+an Order.  The assessment will define the 
+business and technical requirements to do so;
+-
+NYCPS has not provided an 
+update or documentation on this 
+obligation.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+TBD
+- NYCPS to incorporate this 
+business rule into IHMS design
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 32 of 72
+
+thru
+Obligations Not Yet Fulfilled
+33
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+12a
+Within two months of the date of this Order, the 
+Implementation Unit will assign resources to flag 
+incoming orders deemed high priority, as 
+NYCPS and Plaintiffs agree upon the term 
+“high-priority.” The Implementation Unit will 
+triage and route orders accordingly. NYCPS 
+should consult and obtain feedback from 
+Plaintiffs on what orders should be deemed 
+“high priority.” Should NYCPS and Plaintiffs fail 
+to agree on what orders should be deemed 
+“high priority,” the Special Master will advise the 
+Parties and/or raise the issue with the Court for 
+determination
+9/19/23
+NYCPS has not demonstrated 
+they are following an effective 
+process to triage high-priority 
+orders. I have been working with 
+OATH to help hearing officers 
+specify the type of high-priority 
+order in their decision (filename). 
+The NYCPS reports that these 
+cases may be tagged incorrectly 
+by the hearing officer.
+I proposed a process by 
+which NYCPS could use 
+data from the impartial 
+hearing system to identify 
+high-priority cases. NYCPS 
+has indicated that they are 
+following the High-Priority 
+Triage Plan (obligation 
+#25), and that alleviating 
+the DAITS access issues 
+should help the process.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS to determine lessons learned from missed cases
+-
+NYCPS to update their processes based on lessons 
+learned
+- See steps
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 33 of 72
+
+thru
+Obligations Not Yet Fulfilled
+34
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+12b
+Implementation Unit staff will communicate all 
+service orders and action items to New York City 
+public schools, charter schools and 
+State-approved non-public schools (as 
+applicable) within a time that allows for the order 
+to be Timely Implemented within the definition of 
+the Stipulation.
+-
+NYCPS has not provided an 
+update or documentation on this 
+obligation.
+I have communicated my 
+expectations on fulfillment 
+of this obligation, (i.e., a 
+communications plan).
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+TBD
+-
+I have provided guidance 
+to NYCPS to produce and 
+share a communications 
+plan
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 34 of 72
+
+thru
+Obligations Not Yet Fulfilled
+35
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+19
+Aside from the Medication Administration Form 
+(MAF) and HIPAA forms, no other 
+documentation or evidence is required before 
+implementation of an impartial hearing order for 
+the provision of nursing services;
+-
+NYCPS has been coordinating 
+internally on dissemination of a 
+written communication to health 
+agencies. 
+NYCPS shared an update 
+on this on 3/13/24, to which 
+I responded with feedback 
+and guidance on 3/21/24 (a 
+year ago) specifically 
+requesting updates around 
+a formal communication to 
+the community planned 
+around this obligation, 
+(e.g., a website update). I 
+am still awaiting a 
+response.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- NYCPS to respond to my email sent on 3/21/24
+- See steps
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 35 of 72
+
+thru
+Obligations Not Yet Fulfilled
+36
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28a
+NYCPS will copy and collect data assets from 
+implementation-related data sources, including 
+but not limited to DAITS, IHS, FAMIS, and 
+SESIS, to analyze for Implementation Unit 
+workflow purposes. NYCPS will report to 
+Plaintiffs on a quarterly basis the results of this 
+analysis and meet with the Plaintiffs on a 
+quarterly basis to identify solutions to problems 
+and answer questions and hypotheses 
+regarding failure to meet the Stipulations 
+benchmarks based upon the analysis.  
+-
+See obligation #2b (p.30) 
+(NYCPS is still in the process 
+of gathering and integrating all 
+of the data that would be 
+needed to report on KPIs.) 
+I know that NYCPS IU is in 
+early stages of using data to 
+inform their operations, and 
+was able to submit some 
+KPIs in recent letters to the 
+Court. A broader series of 
+KPIs was also defined in the 
+fulfillment of obligation #2a. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-See obligation #2b (p.30)
+- Draft the outline and template 
+of the quarterly report (as per 
+obligation #2a).
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 36 of 72
+
+thru
+Obligations Not Yet Fulfilled
+37
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28b
+NYCPS will report to Plaintiffs on a quarterly 
+basis the results of this analysis and meet with 
+the Plaintiffs on a quarterly basis to identify 
+solutions to problems and answer questions and 
+hypotheses regarding failure to meet the 
+Stipulations benchmarks based upon the 
+analysis. 
+-
+See obligation #2b (NYCPS is 
+still in the process of gathering 
+and integrating all of the data 
+that would be needed to report 
+on KPIs.) 
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- See obligation #2b
+-
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 37 of 72
+
+thru
+Obligations Not Yet Fulfilled
+38
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28c
+The Special Master will include in reports to be 
+provided to the Court every six months 
+NYCPS’s analysis of such data;
+-
+NYCPS is still in the process of 
+gathering and integrating all of 
+the data that would be needed to 
+report on KPIs. This obligation is 
+also dependent on several 
+ongoing technology initiatives, 
+(IHMS).
+I have consulted on the 
+definition of KPIs in 
+obligation #2a, but not in 
+reporting obligations, (#2b, 
+#28).
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-See obligation #2b
+- TBD
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 38 of 72
+
+thru
+Obligations Not Yet Fulfilled
+39
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+35
+For each home instruction order, the 
+Implementation Unit Staff should confirm the 
+actual provision of home instruction as defining 
+implementation of the order
+-
+NYCPS has not provided 
+updates on this
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+NYCPS to draft a process document on the provision of 
+home instruction
+I have recommended that 
+NYCPS creates a process 
+document for confirming 
+student is receiving home 
+instruction
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 39 of 72
+
+thru
+Obligations Not Yet Fulfilled
+40
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+36
+For each order placing a student at a NYCPS 
+school, Implementation Unit Staff and OSE 
+should confirm the actual placement as 
+appropriate and meeting the need of the 
+student, (per order and IEP)
+-
+NYCPS has not provided an 
+update on this obligation.
+I provided NYCPS with 
+guidance on the 
+expectation for this 
+deliverable (see below).
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+NYCPS to draft a process document on the placement of the 
+student
+I have recommended that 
+NYCPS creates a process 
+document for confirming student 
+is placed in the school
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 40 of 72
+
+thru
+Obligations Not Yet Fulfilled
+41
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+37
+NYCPS will develop a continual process of 
+updating training materials to reflect changing 
+policies and business rules
+-
+NYCPS has not provided an 
+update on this obligation in over 
+a year, other than to say they are 
+having internal obstacles. 
+Impediments unknown.
+NYCPS and I 
+communicated over a year 
+ago on this subject 
+(2/7/24), but there has 
+been no follow-up or clear 
+documentation of the 
+process to update training 
+materials. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+NYCPS to develop and share Annual Training Publication 
+Schedule
+I have provided guidance to 
+NYCPS to share an Annual 
+Training Publication Schedule 
+and process for updating training 
+materials
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 41 of 72
+
+thru
+Obligations Not Yet Fulfilled
+42
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+38
+NYCPS will continue to conduct ongoing user 
+research on this proceeding and due process 
+functions in an effort to modernize and redesign 
+NYCPS due process functions and align them 
+with (migrate to) the special education system
+-
+User research is not being 
+conducted on IHMS/ATLAS at 
+this time. NYCPS has requested 
+funding for user research as part 
+of IHMS Phase II.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- NYCPS/DIIT/IBM to define the scope of the research to be 
+conducted, with schedule for engaging with users
+NYCPS to plan and scope user 
+research for Phase II IHMS.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 42 of 72
+
+thru
+Appendix I: Independent Technology 
+Assessment
+43
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 43 of 72
+
+thru
+Background and Approach
+44
+Of the 40 LV Order Obligations being monitored by the Special Master, 19 obligations 
+have a specific dependency on technology solutions utilized by NYCPS.  
+As noted in earlier progress reports, many of the improvements and optimizations of 
+new processes will rest on the success of the technology solutions in place and being 
+developed.  To assess the viability of the technology applications, Beacon Consulting 
+Partners (BCP) conducted an independent assessment on four (4) applications that are 
+key to the fulfillment of the LV Order Obligations, specifically Impartial Hearing 
+Management System (IHMS), Decision Action Item Tracking System (DAITS), Nagarro 
+SupportHub Customer Service Platform, and the Polaris invoicing application.
+BCP uses an evidenced-based approach consisting of reviewing available project 
+documentation and artifacts, conducting interviews and observing standing meetings to 
+create their assessment.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 44 of 72
+
+thru
+Executive Summary
+An initial assessment of the technology used by the Implementation Unit (IU) was conducted 
+as a part of the Special Master’s mandate in January 2024 to determine if NYCPS’s 
+technology and application development initiatives will be able to support the mandates of the 
+LV Orders.  Reports were updated in July 2024 and November 2024.
+Each of the technology initiatives to support the LV Orders has had some delays, primarily 
+from resource constraints in business and DIIT.  Currently, the technology system linked to 
+most of the LV Orders is the Impartial Hearing Management System (IHMS), which has been 
+delayed indefinitely pending a contract change order (CR).  While NYCPS has OMB’s 
+approval for the funding, it is unclear when IBM’s contract will be ready to resume 
+development work.  NYCPS has suggested that the April / May timeframe would be the target, 
+however there is still uncertainty on the overall project plan.
+Progress has been made regarding the work to stabilize the DAITS application including a 
+release on February 21, 2025.  NYCPS indicated in mid-March that they will be sharing a 
+stabilization plan and enhancement plan by end of March. The team has indicated once the 
+application is stabilized, they will begin further enhancements. 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 45 of 72
+
+thru
+Can the IHMS implementation be successful?
+Yes – we continue to believe that the overall technical architecture approaches for IHMS are 
+viable. 
+What are biggest source of deployment delays?
+A combination of factors has delayed the IHMS project, including (a) inconsistent project 
+management, (b) the failure of NYCPS to dedicate staff to review requirements and perform 
+User Acceptance Testing (UAT), (c) the slow pace of remediating and approving requested 
+fixes, and (d) issues with uptime of the environments, and (e) delays in approving the 
+continuation of the IBM development contract.
+When will IHMS be deployed?
+It is currently unclear when application development, testing and deployment will be 
+completed.  In a best-case scenario, with IBM resuming work on Phase 2 development in the 
+April/May 2025 timeframe and NYCPS following our recommendations regarding availability 
+of subject matter experts and server environments, we estimate the best-case timing for the 
+remaining development and testing will be the first quarter 2027.
+IHMS Key Takeaways
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 46 of 72
+
+thru
+IHMS Assessment:  IHMS Project Scoring
+47
+IHMS’ Beacon Score has decreased since 
+the last assessment..
+Factors affecting Clarity Score
+• There has been continued delays in signing off 
+Phase 1 and ambiguity around the start of 
+development for Phase 2
+Factors affecting Design Difficulty Score
+• Design Difficulty score has remained steady 
+throughout
+Factors affecting Implementation 
+Difficulty Score
+• UAT for Phase 1 has taken much longer than 
+expected and is only provisionally accepted – 
+meaning there are outstanding items
+• IBM’s  change request, although approved by 
+OMB, is still pending, and previous resources 
+have been rolled off the project – losing key 
+historical knowledge of project decisions
+Scores indicate there is ambiguity on when 
+application will be deployed.
+Indicates prior assessment score
+Beacon Score
+IHMS
+Expected score for a 
+public sector project of 
+this size/scope
+Clarity
+Design Difficulty
+Implementation 
+Difficulty
+Indicates prior assessment score
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 47 of 72
+
+thru
+IHMS Previously Reported Findings (1/3)
+48
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+Project timelines have continued to 
+be heavily delayed as testing and 
+remediation of defects is ongoing
+Current plans are pending change 
+request approval and re-engagement 
+by IBM
+Once re-engaged, have IBM and 
+NYCPS work together to 
+re-baseline project plans
+Clarity
+The project still suffers from chronic 
+delay and resource constraints 
+from NYCPS business users who 
+have to juggle priorities and 
+schedules and a heavily reduced 
+IBM staff
+No observable changes
+Assign dedicated business SMEs to 
+the project (e.g., X days/week 
+during peak testing phases). This 
+may require backfilling their current 
+roles for a set period of time
+Clarity
+There continues to some 
+inconsistencies including reporting 
+on functionality that is ready for 
+testing or whether development is 
+truly complete
+No observable changes
+Designate an authority to direct 
+project resources and who can 
+work with OGC and DIIT leadership 
+to align resources when necessary 
+to ensure the project progresses
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 48 of 72
+
+thru
+IHMS Previously Reported Findings (2/3)
+49
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Design 
+Difficulty 
+(technical 
+design)
+Defects continue to be more 
+related to the UI or workflows 
+versus architectural issues and IBM 
+has conducted more demos to 
+inform users how the Phase 1 
+BRDs were interpreted and built 
+out in the application
+No observable changes
+Design 
+Difficulty
+The team has yet to validate data 
+migrated from legacy or integrated 
+applications
+No observable changes
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 49 of 72
+
+thru
+IHMS Previously Reported Findings (3/3)
+50
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Implementation 
+Difficulty
+DIIT believes that all infrastructure 
+issues have been remediated
+IBM has reported servers to be 
+unavailable, working through a 
+downtime since 2/4/25 and additional 
+authentication issues which are 
+affecting the team’s ability to test 
+integrations
+Ensure DIIT reviews their 
+infrastructure and environment 
+policies and institute environment 
+monitoring with regard to IHMS 
+servers to ensure no protracted 
+downtimes.  (NYCPS used their 
+own product cloud, IBM reported 
+inability to publish fixes)
+Implementation 
+Difficulty
+There has been no evidence of 
+planning for how DIIT will support 
+and maintenance of Phase 1 
+functionality as IBM develops 
+Phases 2 and 3
+Current plans are for Phase 1 to go 
+live after Phase 2 functionality is 
+ready but the timeline for release is 
+unknown given the delays in the 
+approval of the IBM change request 
+and uncertainty if Phase 1 UAT will 
+be completed on schedule
+Ensure there is joint IBM-business 
+planning if there is a pause in the 
+project
+Implementation 
+Difficulty
+OCM activities would have set 
+expectations for more timely 
+execution of UAT and helped 
+organize the team for validating 
+migrated data from legacy 
+applications
+No observable changes
+Ensure that OCM is woven into the 
+work surrounding Phase 2, 
+particularly as it relates to IU work 
+that is currently executed in DAITS 
+as this will have a significant 
+process difference
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 50 of 72
+
+thru
+DAITS: Key Takeaways
+51
+DAITS resources are beginning stabilization work. A new stabilization release went 
+live on February 24, 2025.  In this release, the team worked up upgrade the application 
+database, ensure that the application is accessible in a modern browser and addressed 
+some of the issues related to time outs and degraded performance.
+The Special Master’s team is awaiting updates on whether performance has been 
+improved.
+Once performance has been stabilized, we understand DIIT will work together with the 
+IU Team will prioritize enhancements to be made.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 51 of 72
+
+thru
+Polaris: Key Takeaways
+52
+Polaris, the new custom-built invoicing tool (obligation #10), went live with 57 vendors in 
+late December 2024 and will continue for a 3-month period before rolling out to the 
+larger community of vendors in April. DFO is processing these payments from Polaris 
+now and processed 207 invoices in January, (98% within 5 days). 
+While conversations with the team indicate that the application is performing well and 
+leading to shorter invoice processing times, we are awaiting technical documentation to 
+corroborate the processes of development and testing that occured.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 52 of 72
+
+thru
+Polaris Previously Reported Findings (1/2)
+53
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+There is strong project 
+management over this project and 
+thus far the project has adhered to 
+schedule
+The DFO team and vendor team 
+(Spruce) continue to adhere to the 
+stated project schedule
+Ensure that project schedules 
+highlight possible risks of delay 
+stemming from over-allocated 
+business SMEs and the ongoing 
+work on DAITS stabilization
+Design Difficulty
+Polaris is dependent on 
+integration with DAITS and 
+specifically requires data from the 
+DAITS connection to IHF/FAMIS.  
+With the DAITS stabilization 
+underway, DFO will need to ensure 
+that Polaris NYCPSsn’t encounter 
+errors
+Ensure there is joint DFO-DIIT 
+session to discuss any effects of 
+the DAITS work on Polaris
+Design Difficulty
+Polaris uses a multitude of 
+technologies including UI 
+frameworks, MS Rules Engine 
+and logging engines along with a 
+database structure which is 
+appropriately complex for the 
+function it serves – as this 
+application grows for other units, 
+diagnosing performance issues 
+may become difficult
+No observable changes
+Ensure business logic is contained 
+(e.g. not spread across database 
+and the rules engine) to reduce 
+overlap in business logic across the 
+tech stack
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 53 of 72
+
+thru
+Polaris Previously Reported Findings (2/2)
+54
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Implementation 
+Difficulty
+There is a good amount of 
+documentation and coordination 
+amongst the different teams within 
+NYCPS business (DFO-PO and 
+IU)
+End-users are still not entirely clear 
+when to use Polaris vs other support 
+mechanisms (SupportHub or Vendor 
+Pilot emails)
+Update FAQs and communication 
+mechanisms
+Implementation 
+Difficulty
+The Polaris pilot is underway with 
+57 vendors. In a review of 
+unsolicited feedback to the 
+Special Master’s team from users, 
+there seem to be some 
+requirements and processes that 
+are confusing to vendors.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 54 of 72
+
+thru
+SupportHub Customer Service Assessment
+55
+SupportHub is meant to help track customer support activities to parents, parents’ 
+representatives, independent providers/agencies in the implementation of impartial hearing 
+orders.  Trained support agents will utilize custom forms built out on the ServiceNow platform 
+for both incoming and outgoing proactive support.
+On the last update call, metrics were presented to show that 175 unique users generated 
+2,319 total support tickets.  The majority of those tickets (68%) have stayed in the 
+New/On-hold status, meaning that the users have yet to respond.  Given that the tool is new 
+to the community, more communication on how to use the tool and what users get out of it 
+will be necessary.
+The Special Master’s team has not reviewed written technical documentation but has had the 
+opportunity to see a demonstration of functionality and was presented with the product 
+roadmap.  By all accounts, the system is working as intended, with the Nagarro vendor team 
+moving to a quarterly release schedule to include expanded functionality.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 55 of 72
+
+thru
+Nagarro SupportHub Customer Service Findings (1/2)
+56
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+Post first release, the team is 
+moving to an agile release cycle 
+with a stated backlog for 
+enhancements
+New updates will add more 
+self-service functionality in the March 
+26th release
+It will be critical for NYCPS to 
+ensure that users are aware of how 
+their processes could change
+Clarity
+Metrics have been shared to 
+show the total number of tickets 
+and their statuses, demonstrating 
+that the majority of users have 
+not responded
+No metrics have been shared to 
+demonstrate the volume of tickets 
+per agent, per user, etc.
+Build on current metric capabilities 
+to show the number of tickets per 
+week, per agent and the total 
+turnaround time for processing 
+tickets
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 56 of 72
+
+thru
+Nagarro SupportHub Customer Service Findings (2/2)
+57
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Design Difficulty
+More contact information needs 
+to be extracted from DAITS to 
+support outreach the Nagarro 
+Customer Support 
+communication the DaaP feed will 
+need to be amended to add 
+additional data
+DAITS has undergone a large 
+stabilization release that could affect 
+the data extracted to the SupportHub
+Ensure the new release of DAITS 
+has no downstream effects on 
+SupportHub information
+Implementation 
+Difficulty
+The Nagarro process using 
+ServiceNow and SharePoint has 
+proven to be less onerous than 
+current process of downloading 
+documents out of personal email 
+boxes
+No observable changes
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 57 of 72
+
+thru
+Customer Support Platform Assessment
+58
+As a result of the Court conference on December 5, 2024, the NYCPS was ordered to 
+institute a process by December 12 that allows vendors to email the Implementation Unit 
+(IU).  To facilitate this process, the vendor, Nagarro, extended the use of their ServiceNow 
+SupportHub platform to track the emails for reporting purposes only, according to NYCPS.
+In the period of February 11-March 3, 2025, NYCPS received 2,021 tickets; 19% of those 
+tickets had a corresponding follow-up, and 81% received no response from the 
+parent/representative.  Additionally, the team was able to record that 83% of those emails 
+came from a single vendor.
+The data collected in this pilot will provide meaningful data on both the volume of vendors 
+who are emailing the IU and whether those vendors have valid questions.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 58 of 72
+
+thru
+Appendix II: Obligations Fulfilled
+59
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 59 of 72
+
+thru
+Obligations Fulfilled
+60
+Obl.#
+Obligation
+Due Date
+Rationale
+14b
+(b) within six months of the date of this Order, 
+design a plan for additional staffing within the 
+Implementation Unit,
+1/19/24
+NYCPS has shown recent progress in recruiting multiple 
+personnel for the IU. Initially, the development of a staffing plan 
+and the creation of job descriptions were delayed due to budget 
+restraints. Following the Mayor/OMB budget approval, NYCPS 
+has since shared job descriptions and staffing plan with Special 
+Master, leading to the fulfillment of the obligation.
+26
+Within three months of the date of this Order, the 
+Special Master and NYCPS will identify the types 
+of action items that require the greatest levels of 
+effort to process as well as those most likely to 
+contribute to the backlog of hearing order 
+implementation. Based on the analysis, NYCPS 
+will develop solutions to remove the causes for the 
+backlog attributable to NYCPS;
+10/19/23
+NYCPS was able to identify 60+ pain points in obligation #3, 
+and drafted corresponding potential solutions. The themes 
+included staff, process, and communications. As obligation #26 
+calls for NYCPS to develop solutions to the issues, I asked 
+NYCPS to envision a series of projects to solve the three 
+problems (staff, process, and communications). I provided a 
+template of a high-level project plan for NYCPS to outline the 
+objectives, activities, timeframe, etc. of each project (3). 
+NYCPS responded with a document outlining a plan for each 
+project in a format I found acceptable. I consider these three 
+new projects as additional items to monitor – future reports to 
+the Court will include status updates. 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 60 of 72
+
+thru
+Obligations Fulfilled (continued)
+61
+Obl.#
+Obligation
+Due Date
+Rationale
+7
+Within three months of the date of this Order, 
+NYCPS will identify a file-sharing process and 
+tool to improve transparency of all 
+documentation presented as evidence at the 
+hearing so that all pertinent documents can be 
+continually accessed by the Implementation 
+Unit;
+10/19/23
+NYCPS identified its upcoming Impartial Hearing Management 
+System (IHMS) as the solution for document management in due 
+process. A business requirements document (BRD) was 
+developed by the IHMS team around document management 
+functions. I determined it fulfills the obligation to identify a 
+solution.
+24(a)
+(a)
+Within 45 days of the date of this Order, the 
+Special Master and NYCPS will inventory all 
+functional issues of DAITS that impede the 
+hearing order implementation workflow, 
+including but not limited to system crashes, 
+system outages, and system timeouts, and 
+prioritize enhancements.  
+(b)
+Within six months of the date of this Order, 
+NYCPS will develop, test, and release the 
+DAITS enhancements;
+9/4/2023
+In August, Implementation Unit (IU) staff developed an initial list of 
+enhancements needed to DAITS (.xls), which was then prioritized 
+by the IU as critical or nice to have. NYCPS and SM discussed 
+the contents and finalized the list; (IBM responded with how IHMS 
+will address the needs). Once signed off, NYCPS DIIT has since 
+used the list to begin estimating the level of effort to deliver the 
+fixes and is gathering more detailed requirements.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 61 of 72
+
+thru
+Obligations Fulfilled (continued)
+62
+Obl.#
+Obligation
+Due Date
+Rationale
+3
+Within two months of the date of this Order, the 
+Special Master will identify by type of Action Item 
+the key pain points around the implementation of 
+payment orders and service orders. 
+9/19/2023
+Using the list of all possible action item types (e.g., tuition 
+reimbursement, PT), NYCPS documented the key issues in the 
+process of implementation (.xls), respectively. NYCPS also 
+supplied a general sense of the volume and level of effort to 
+implement each action item type. I held discussions with IU to 
+understand the pain points and added my assessment of the 
+root causes. Plaintiffs provided their feedback on the 
+analysis,(several points of feedback will be addressed by 
+obligation #26).
+21
+Within two months of the date of this Order, 
+NYCPS will formalize, designate, and confirm a 
+liaison role in OPT, with an escalation path, to 
+coordinate the implementation of transportation 
+orders between the Implementation Unit, OPT, and 
+OSH as applicable.  NYCPS will improve 
+communications and track implementation of 
+impartial hearing orders requiring transportation 
+and provide monthly status updates to parents on 
+the implementation of such orders, except where 
+NYCPS is not in compliance with a transportation 
+9/19/2023
+NYCPS produced a “chart” (.doc) of Implementation Liaisons 
+for OPT and OSH with escalation points, coordination protocols 
+between offices, and procedures for implementing 
+transportation orders. I reviewed the document and provided 
+feedback, as did Plaintiffs, and NYCPS incorporated the 
+comments into a new version which was finalized, (but will be 
+updated in the future, as applicable). 
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 62 of 72
+
+thru
+Obligations Fulfilled (continued)
+63
+Obl.#
+Obligation
+Due Date
+Rationale
+1
+Within three months of the date of this Order, 
+NYCPS will develop a customer support plan, 
+including people and tools, for the 
+Implementation Unit to address questions from 
+parents and providers, routing Tier II questions 
+to Implementation Unit Implementation 
+Managers;
+10/19/2023
+I provided a template (.doc) of a customer support plan to 
+NYCPS incorporating standard elements of such a plan 
+(cross-industry) in outline form. NYCPS then developed a draft 
+Customer Support Plan (.doc) from the template, detailing 
+intended audience groups, outline of a support hotline and its 
+objectives, training for hotline staff, and metrics to evaluate the 
+effectiveness of the program going forward. I provided feedback 
+which NYCPS incorporated into a final version. (The subsequent 
+obligation is #14.) Plaintiffs currently have this document, 
+however are awaiting the appendices items (which are other 
+obligations that have not yet been fulfilled) to provide feedback.
+2
+Within three months of the date of this Order, 
+the Special Master and NYCPS will identify the 
+Key Performance Indicators (“KPIs”) for 
+monitoring the internal administrative 
+workflows of the Implementation Unit.  KPIs will 
+be presented to the Plaintiffs for feedback. 
+10/19/2023
+NYCPS developed a list in table form (.xls) of metrics that could 
+inform the day-to-day performance and decision-making of the 
+Implementation Unit, (i.e., KPIs). I reviewed the file and 
+suggested a number of additional attributes to characterize the 
+KPI, which was incorporated. The list has also been reviewed by 
+Plaintiffs who made suggestions of additional metrics. NYCPS 
+should now be developing more detailed requirements (e.g., 
+calculation formulas, suggested by Plaintiffs) to gather the data 
+and report on the respective metrics. (The subsequent obligation 
+is #28.)
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 63 of 72
+
+thru
+Obligations Fulfilled (continued)
+64
+Obl.#
+Obligation
+Due Date
+Rationale
+18
+Within three months of the date of this Order, 
+NYCPS Implementation Unit will develop 
+and communicate a clear procedure to 
+inform schools and CSEs that an IEP 
+meeting has been ordered and to ensure 
+that the IEP was updated pursuant to that 
+order;
+10/19/2023
+NYCPS submitted a draft of a procedures document, “Protocols for 
+Communicating Orders for IEP Meetings,” for which I provided 
+suggestions to improve the contents of the document, to be more 
+clear, expand in areas, etc. NYCPS addressed the feedback and 
+provided an updated version of the protocol document, which I 
+accepted.
+6
+Within three months of the date of this Order, 
+NYCPS will formalize an approach to 
+sustaining knowledge of implementation 
+processes, to enable experienced staff to 
+onboard, train and mentor more junior staff;
+10/19/2023
+My team shared a template of a professional learning plan 
+deliverable in advance of the work. NYCPS developed a 
+Professional Learning Plan and submitted it in late October, which I 
+reviewed and provided feedback, and eventually I accepted. The 
+plan includes, among other things, a process for conducting internal 
+trainings, interdepartmental trainings, public-facing trainings,  
+hearing officer trainings, and customer support hotline training.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 64 of 72
+
+thru
+Obligations Fulfilled (continued)
+65
+Obl.#
+Obligation
+Due Date
+Rationale
+15
+Within three months of the date of this Order, 
+NYCPS will formally designate Implementation 
+Liaisons in all Districts and relevant Central offices 
+(e.g., OPT, OSH, OSE) to act as points-of-contact in 
+their respective areas for Implementation Managers 
+to facilitate the arrangement of the ordered 
+service(s). NYCPS will also establish an escalation 
+process when an Implementation Liaison is 
+unavailable or unable to resolve a particular issue, 
+with the escalation role being in an executive role 
+within the respective NYCPS office;
+10/19/2023
+NYCPS developed an Implementation Liaison Directory and 
+Escalation Protocol document (.pdf), which designates 
+Implementation Liaisons for all relevant NYCPS offices and 
+districts, and defines a protocol when that office NYCPSs not 
+address the order in a timely manner (i.e. escalation 
+protocol). I provided feedback, as did Plaintiffs, which 
+NYCPS addressed. An updated version of the protocol 
+document was submitted back to me, reviewed, and I 
+accepted.
+4
+Within three months of the date of this Order, 
+NYCPS will build and maintain a toolkit of existing 
+assistive technology, schools, programs, and 
+services that NYCPS can Timely Implement (as 
+defined in the Stipulation) any Action Items for 
+provision of assistive technology;
+10/19/2023
+NYCPS compiled a spreadsheet of assistive technology (AT) 
+products from those that are readily available for NYCPS to 
+quickly identify or procure for the student (“Timely 
+Implement”). I reviewed the various categories and asked 
+that NYCPS document how it will maintain the toolkit going 
+forward, which NYCPS did. There is an open question as to 
+the component of the obligation addressing “schools, 
+programs, and services.”
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 65 of 72
+
+thru
+Obligations Fulfilled (continued)
+66
+Obl.#
+Obligation
+Due Date
+Rationale
+25
+Within three months of the date of this Order, 
+NYCPS will assign an additional team of 
+Implementation Unit Staff to expedite the 
+implementation of any hearing order that is 
+more than 35 days past the date of the hearing 
+order. This team will continue its work until 
+such time as orders are consistently being 
+implemented within the implementation 
+deadlines;
+10/19/2023
+NYCPS documented a “Backlog Triage Plan” (.doc) to describe 
+the procedures the additional team will perform in expediting 
+orders 35+ days old. The plan includes documentation of a 
+workflow, staffing plan, operational plan, data reporting and 
+dependencies. Dependencies include resources/funding for the 
+additional team, and as per other notes in this report, the budget 
+is pending request to OMB at the time of this writing. That is why I 
+have tentatively accepted this obligation, with the agreement that 
+we continue to monitor the identification of the team members 
+and launch of the process. 
+29
+Within six months of the date of this Order, 
+NYCPS will add the role of Implementation 
+Systems Analyst to the Due Process Systems 
+and Analytics Office to maintain documentation 
+of workflows and continue the process of 
+streamlining implementation processes;
+1/19/24
+NYCPS has indicated that a candidate has been identified for this 
+role and the offer is awaiting OMB approval to move forward
+As of previous report on 3/19/2024: Previously, NYCPS indicated 
+that funding constraints prevented filling this role. However, 
+following the allocation of funding for this position, NYCPS has 
+publicly posted this role. I will consider this obligation fulfilled once 
+the position is filled.
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 66 of 72
+
+thru
+Obligations Fulfilled (continued)
+67
+Obl.#
+Obligation
+Due Date
+Rationale
+22
+(a) Within six months, NYCPS will develop a 
+recruitment and hiring strategy for new staff to 
+meet the volume of backlogged orders that 
+have not been implemented and orders as they 
+are issued currently and in the future. (b) 
+NYCPS will report to the Court on a quarterly 
+basis its progress on hiring, including the 
+nature and impact of any impediments to the 
+implementation of that strategy
+1/19/2025
+NYCPS presented its new approach to identifying qualified 
+candidates and the recruiting/hiring process it has been following. 
+The latest status of positions being recruited/hired is attached to 
+this report. Per the report, of NYCPS’ 148 total needed positions 
+for LV (permanent and temporary), 100 have been onboarded, 
+(62 permanent staff members have been onboarded out of the 
+104 needed).
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 67 of 72
+
+thru
+68
+Obl.#
+Obligation
+Due Date
+Rationale
+40
+Within four months, the DOE will identify a 
+part-time resource (50%) focused on recruiting 
+and hiring staff for the Implementation Unit.
+11/19/24
+The DOE has identified a resource to fill this role, and I have 
+interviewed DOE leadership as a formal acknowledgement of this 
+placement and completion of the obligation. DOE leadership had 
+previously shared an email confirming this resource appointment 
+and the interview confirmed the role as fulfilled. I marked this 
+obligation as fulfilled on 5/2/2024.
+I have requested that DOE provides periodic updates on the work 
+streams they are leading. For the HR resource, a periodic
+update of the staffing table they have previously shared that 
+includes updates on roles filled will suffice. 
+Obligations Fulfilled (continued)
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 68 of 72
+
+thru
+69
+Obl.#
+Obligation
+Due Date
+Rationale
+23
+The DOE will designate a dedicated resource 
+to plan, develop, and deliver training materials 
+for Implementation Unit and OGC staff and 
+within six months of the date of this Order, 
+create a training plan, develop materials, and 
+deliver training pertinent to the implementation 
+of orders.  The DOE will update training 
+materials to reflect changing policies and 
+processes;
+1/19/24
+The DOE has identified someone for the role and provided me 
+with the name in addition to training materials they developed for 
+Implementation Liaisons. I interviewed DOE leadership as a 
+formal acknowledgement of this placement and completion of the 
+obligation. DOE leadership had previously shared an email 
+confirming this resource appointment and the interview confirmed 
+the role as fulfilled. I marked this obligation as fulfilled on 
+5/2/2024. 
+For ongoing monitoring, I have requested that DOE also provide a 
+periodic report that includes details such as types of trainings 
+conducted and number of employees that attended trainings. 
+Where appropriate, I have asked that DOE provide samples of 
+training materials used (PowerPoint presentations, WeLearn 
+usage/details, attendance records, training schedules, surveys, 
+etc.). To date, the DOE has been sharing these materials with me 
+on an ongoing basis.
+Obligations Fulfilled (continued)
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 69 of 72
+
+thru
+70
+Obl.#
+Obligation
+Due Date
+Rationale
+3b
+Within nine months of the date of this Order, 
+the DOE will redesign the workflows and 
+address key pain points around the 
+implementation of payment orders and service 
+orders. The DOE will document the improved 
+processes and incorporate new workflows into 
+trainings and communications with its staff, 
+parents, parent attorneys and advocates, and 
+providers;
+4/19/24
+I marked this obligation as fulfilled on 5/29/2024 following DOE’s 
+submission of the “Beyond Access” training slides, which includes 
+the documentation of improved processes. In doing so, they 
+“incorporate new workflows into trainings...” The slides/training 
+also points out what improvements have been made to certain 
+processes. 
+I requested that DOE continue to share process improvements 
+made and how they are incorporated into trainings.
+14c
+and (c) within nine months of the date of this 
+Order, fund and recruit all additional personnel 
+required by the staffing plan;
+4/19/24
+The DOE shared a chart of hiring positions and job descriptions 
+which shows significant efforts on the recruiting front and 
+progress in filling roles, in alignment with obligation #14c. I have 
+accepted this obligation and marked it fulfilled on 
+5/1/2024. 
+I have requested that the DOE continue to send me updated 
+hiring charts and progress updates as they continue to recruit 
+additional personnel. 
+Obligations Fulfilled (continued)
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 70 of 72
+
+thru
+Future Schedule of These Reports
+71
+Report #
+Draft Submitted to 
+Parties
+Parties’ Feedback 
+Due (If Any)
+Report Submitted 
+to the Court
+6
+7/9/2025
+7/16/2025
+7/21/2025
+7
+11/7/2025
+11/14/2025
+11/19/2025
+8
+3/5/2026
+3/12/2026
+3/16/2026
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 71 of 72
+
+thru
+Contact
+72
+David Irwin
+Special Master to the Court (LV v. NYCPS)
+david@thru.co
+(646) 489-7078
+Case 1:03-cv-09917-LAP-KNF     Document 380     Filed 03/19/25     Page 72 of 72

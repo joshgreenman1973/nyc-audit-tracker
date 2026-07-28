@@ -1,0 +1,71 @@
+{
+  "id": "2025-03-25-ccpc-twenty-second-annual-report",
+  "source": "other",
+  "auditor": "Commission to Combat Police Corruption",
+  "title": "Twenty-Second Annual Report of the Commission",
+  "plain_title": "Police corruption watchdog: faster cases, weaker interviews",
+  "agency": "New York City Police Department",
+  "issued": "2025-03-25",
+  "url": "https://www.nyc.gov/site/ccpc/reports/annual-reports.page",
+  "pdf": "https://www.nyc.gov/assets/ccpc/downloads/pdf/FINAL-REPORT-03-25-2025.pdf",
+  "what_they_audited": "This is the annual monitoring report of the Commission to Combat Police Corruption (CCPC), not a financial audit. The Commission read the case files of a random sample of closed New York City Police Department (NYPD) Internal Affairs Bureau (IAB) investigations, 46 closed in 2022 and 35 closed in 2023, to judge whether they were fair, thorough, accurate and impartial, and it also reprints a summary of its March 2024 review of how the Department carried out the recommendations of the 2019 Independent Panel on the Disciplinary System.",
+  "background": "The Commission was created in 1995 by Mayoral Executive Order No. 18 to monitor how the NYPD gathers information, investigates allegations and sets policy to detect, control and deter corruption among its members. IAB is the bureau inside the Department that investigates allegations of corruption and serious misconduct against members of the service, and the Commission monitors it by attending briefings, steering committee meetings and case reviews and by reading closed case files.",
+  "findings": [
+    {
+      "plain": "Investigations moved faster than at any point the Commission has tracked. Cases reviewed in 2022 took 8.9 months on average, the shortest in eight years of reviews, and the 2023 average of 10.4 months fell to 8.6 months once a single 73-month case was set aside.",
+      "quote": "In 2022 and 2023, the Commission observed the lowest average length of time IAB \ninvestigations were pending since we began tracking this metric."
+    },
+    {
+      "plain": "The Commission's satisfaction rate fell in all seven areas it tracks in the 2023 sample, after mostly small declines in 2022. It attributes the drop partly to dropping failed drug tests from its sample and partly to turnover among IAB executives and group commanders.",
+      "quote": "In 2023, our \nsatisfaction rates decreased in all seven areas."
+    },
+    {
+      "plain": "Interview quality remains the weakest part of IAB's work. The Commission found problems in 13 of the 46 cases reviewed in 2022 and 13 of the 35 reviewed in 2023, most often failure to ask follow-up questions and failure to cover all relevant issues, with questioning that at times seemed designed only to elicit a denial.",
+      "quote": "we identified interview quality issues in 13 of the 46 cases we \nreviewed in 2022 and 13 of the 35 cases we reviewed in 2023"
+    },
+    {
+      "plain": "Investigators repeatedly failed to interview people who were available to them. The Commission flagged missed civilian or officer interviews in 12 cases from the 2022 sample and 13 cases from the 2023 sample, and in some property cases officers who had access to the missing property were never made subjects.",
+      "quote": "The Commission noted deficiencies related to the failure to interview witnesses in 12 of \nthe cases reviewed in 2022."
+    },
+    {
+      "plain": "The Commission disagreed with more case outcomes than in any of the previous four years. It found three cases in the 2022 sample where the overall disposition was wrong, and in the 2023 sample it identified three cases where allegations closed as unsubstantiated should have been substantiated; IAB agreed with its assessment in two of those.",
+      "quote": "We disagreed with more overall dispositions of investigations in this review than we have \nhad in the prior four years."
+    },
+    {
+      "plain": "Body-worn camera footage has been a clear benefit to IAB investigations, but officers who failed to record properly were rarely punished beyond a warning, even though the Department's own penalty guidelines call for the forfeiture of one to five days.",
+      "quote": "it did not appear that penalties beyond \nwarnings were given in a majority of these cases"
+    },
+    {
+      "plain": "Long stretches of inactivity persisted in some files even when cases closed on time, and supervisors' directions were not always carried out. Eight investigations in the 2023 sample sat for more than 30 days with no explained activity, and in six 2023 cases team leaders ordered steps that were never taken and never explained.",
+      "quote": "there were eight investigations that we reviewed in 2023 \nthat had unexplained gaps of longer than 30 days"
+    }
+  ],
+  "numbers": [
+    {"value": "46 IAB investigations", "label": "Closed 2022 cases the Commission reviewed"},
+    {"value": "35 IAB investigations", "label": "Closed 2023 cases the Commission reviewed"},
+    {"value": "8.9 months", "label": "Average length of investigations, 2022 sample"},
+    {"value": "10.4", "label": "Average months pending, 2023 sample"},
+    {"value": "93%", "label": "Commission agreed with the disposition, 2022 sample"},
+    {"value": "86%", "label": "Commission agreed with the disposition, 2023 sample"},
+    {"value": "17.8%", "label": "Most serious allegation substantiated, 2023 sample"}
+  ],
+  "recommendations": [
+    "Conduct investigations promptly and without lapses in activity, but do not sacrifice quality for speed; IAB has directed each group commander to name backup investigators who can take over when the primary investigator is unavailable.",
+    "Identify subject officers as early as possible, and in property cases treat every officer who had access to the missing property as a subject unless there is a specific reason to exclude them.",
+    "Interview civilian witnesses without delay and interview witness officers close in time to the incident absent a strategic reason; the assigned investigator should personally contact the complainant, and civilians should be shown body-worn camera footage that contradicts their account unless there is a strategic or privacy reason not to.",
+    "Document in the case file, preferably on the worksheet summarizing the interview, any reason for departing from best interview practices.",
+    "Train newly assigned investigators in interviewing techniques and give all investigators routine refresher courses; the current Department Advocate should put this training in place with the attorneys in that office.",
+    "Have supervisors who are skilled at interviewing help less experienced investigators, both in preparing for interviews and during the questioning.",
+    "Include every allegation against a subject in the investigation even if it will end up unsubstantiated, and notify subjects' commanding officers of any allegation IAB did not fully investigate or address.",
+    "Before conducting surveillance, have investigators discuss the objectives with supervisors and plan the surveillance for the times they are most likely to observe what they are looking for.",
+    "When summarizing recorded interviews, include only what can be heard on the audio, record anything said outside the recording on a separate worksheet or clearly mark it as before or after the recording, and have supervisors confirm the summaries are accurate and complete.",
+    "Search for relevant video as soon as the complaint comes in, have supervisors check within the first one to two weeks that a video canvass was done, and follow up quickly on cameras whose footage could not be accessed.",
+    "Promptly perform investigative steps directed in team leader or commanding officer reviews, document any reason a step was not taken, and admonish or discipline investigators who skip a step without a legitimate reason.",
+    "Follow the penalty ranges in the Department's disciplinary guidelines, known as the Matrix, when officers negligently fail to activate body-worn cameras in cases where footage would have been relevant, or at minimum monitor whether warnings alone are enough to change behavior."
+  ],
+  "agency_response": "The Commission gives the Department a draft of each annual report for comment before publication, and it reports that in response to this draft the Department said it is building and testing a search function for its Trial Decisions Library. In the Independent Panel review reprinted here, the Department defended keeping the Citizen's Liaison inside the Department Advocate's Office and said that recording informal contacts about disciplinary cases was unnecessary and would be burdensome.",
+  "implementation_note": "The report reprints the Commission's March 2024 review of the Department's implementation of the 13 recommendations of the 2019 Independent Panel and reports that, since that review, none of the Commission's three public reporting recommendations had been adopted and only two of its proposed additions to the disciplinary Matrix, penalty ranges for failing to notify IAB and for fraternization, appeared in the revised version.",
+  "compliance_note": "",
+  "topics": ["public safety", "transparency"],
+  "is_followup": false
+}

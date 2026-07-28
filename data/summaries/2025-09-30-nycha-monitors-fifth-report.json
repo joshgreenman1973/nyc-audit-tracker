@@ -1,0 +1,66 @@
+{
+  "id": "2025-09-30-nycha-monitors-fifth-report",
+  "source": "monitor",
+  "auditor": "Federal monitors (NYCHA public housing)",
+  "title": "New York City Housing Authority Monitorship: Monitors' Report (Fifth Report)",
+  "plain_title": "New heat data: 84% of apartments lost heating service last winter",
+  "agency": "New York City Housing Authority",
+  "issued": "2025-09-30",
+  "url": "https://www.nychamonitor.com/reports",
+  "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Fifth-Report.pdf",
+  "what_they_audited": "The federal monitors' fifth quarterly report on the New York City Housing Authority's (NYCHA) compliance with its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change. It reports data for May 1, 2025 to July 31, 2025 and serves as the annual heat report for the full 2024-2025 heating season.",
+  "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to improve housing conditions, and a monitor was appointed to evaluate compliance. This is the first report in which NYCHA and the monitors had an agreed method for measuring heating failures inside individual apartments, so it is also the first to show apartment-level heat performance.",
+  "findings": [
+    {
+      "plain": "Measured for the first time at the apartment level, heating failures turned out to be near universal. In the 2024-2025 season 84% of occupied apartments had at least one heating service interruption, the highest since the monitorship began. The monitors caution this does not mean those apartments fell below the legal minimum temperature. NYCHA also had 388 unplanned heating outages, 104 more than the prior season.",
+      "quote": "2025 season, 84% of occupied apartments experienced at least one"
+    },
+    {
+      "plain": "Heat came back faster when it failed. Average restoration time for verified in-apartment heating complaints fell from 26.3 hours in the 2022-2023 season to 13.9 hours, and NYCHA resolved 94% of central heating outages within 12 hours and 100% within 24 hours, meeting those requirements in the first season they applied.",
+      "quote": "restoration times from 26.3 hours in 2022‒2023 to 13.9 hours in"
+    },
+    {
+      "plain": "The heating system itself is aging and underfunded. NYCHA estimates it would need $4 billion in additional funding to repair or replace heating infrastructure at or past its useful life, and it is behind on boiler replacements, having done 146 of the required 297 as of July 31, 2025 and expecting to miss the December 31, 2026 deadline by about two months.",
+      "quote": "would require $4 billion in additional funding. Moreover, according"
+    },
+    {
+      "plain": "Mold repairs improved but remain far from compliance. Through the second quarter of Year 7, NYCHA met the agreement's mold timeframes 28% of the time, up from 8% in the same period of Year 6, against a 95% requirement. The monitors call it the first potential path to compliance in the monitorship.",
+      "quote": "blended obligation 28% of the time through the second quarter of"
+    },
+    {
+      "plain": "Lead testing neared the finish line. NYCHA had completed X-Ray Fluorescence (XRF) testing in 86.2% of apartments and expected to finish testing every apartment by the end of the year.",
+      "quote": "testing, having completed 86.2% of apartments, and"
+    },
+    {
+      "plain": "On pests, NYCHA hit two milestones and one setback. For the first time it met the requirement to send staff trained in integrated pest management to every pest complaint, and it began publishing estimated rat, mouse, cockroach and bed bug populations for each development on its website. But estimated populations for all four pests rose compared with the same period in Year 6, though they still met the agreement's reduction targets.",
+      "quote": "Year 7, NYCHA’s pest population estimates for rats,"
+    },
+    {
+      "plain": "NYCHA still shuts elevators down during protected hours with little warning, but a pilot showed a fix. There were 820 no-service conditions from planned outages during restricted hours this year, 383 fewer than the same period last year. At South Jamaica Houses, where NYCHA scheduled preventive maintenance and gave 24 hours' notice by robocall, no planned outages happened in restricted hours and residents told the monitors the elevators work better.",
+      "quote": "indicates that NYCHA should add other developments to the pilot"
+    }
+  ],
+  "numbers": [
+    {"value": "84%", "label": "Occupied apartments with a heating interruption in 2024-25"},
+    {"value": "388", "label": "Unplanned heating outages, up 104 from the prior season"},
+    {"value": "13.9 hours", "label": "Average time to restore heat inside an apartment"},
+    {"value": "$4 billion", "label": "Extra funding NYCHA estimates its heating system needs"},
+    {"value": "28%", "label": "Mold work orders finished within required timeframes"},
+    {"value": "86.2%", "label": "Apartments tested for lead paint as of July 31, 2025"},
+    {"value": "78%", "label": "Occupied apartments self-inspected in 2025 so far"},
+    {"value": "4%", "label": "Skilled trades repair appointments missed in July 2025"}
+  ],
+  "recommendations": [
+    "Repair or replace the aging heating infrastructure, which the high rate of heating service interruptions makes urgent.",
+    "Strengthen maintenance processes, improve data systems, improve performance on in-apartment heating failures and manage preventive and corrective maintenance more efficiently.",
+    "Expand the South Jamaica Houses elevator pilot to other developments and use the results to improve preventive maintenance scheduling across NYCHA.",
+    "Apply pest control methods more consistently and improve their quality so pest populations at developments actually fall.",
+    "Standardize across developments the way residents are told about second attempts to enter their apartments for annual inspections.",
+    "Sustain the workforce accountability work already under way, including managerial and nonmanagerial performance evaluations, revised job descriptions and better onboarding."
+  ],
+  "agency_response": "NYCHA is trying to recover the boiler replacement delays by adding construction shifts and resequencing work. It has responded positively to the monitors' inspection feedback, including adding training on inspection protocols to daily maintenance worker meetings, and has used a new missed appointments dashboard to cut missed skilled trades appointments from 7% in January 2025 to 4% in July 2025.",
+  "implementation_note": "",
+  "compliance_note": "The monitors say NYCHA has continued to build on the progress in their last report and should be commended, while mold, heat and pest management still require sustained focus. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+  "topics": ["housing", "health", "transparency"],
+  "is_followup": false
+}

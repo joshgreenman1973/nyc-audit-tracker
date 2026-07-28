@@ -1,0 +1,94 @@
+{
+  "id": "2026-06-18-boc-observation-aide-assessment",
+  "source": "other",
+  "auditor": "New York City Board of Correction",
+  "title": "Suicide Prevention in City Jails: March 2026 Observation Aide Assessment",
+  "plain_title": "Suicide watch aides missing from about a third of special units",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-06-18",
+  "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+  "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/Reports/BOC-Reports/BOC-March-2026-Observation-Aide-Assessment.pdf",
+  "what_they_audited": "Staff of the New York City Board of Correction (BOC), the city's jail oversight board, ran two structured audits in March and early April 2026 of the New York City Department of Correction's (DOC) Observation Aide program, which uses trained people in custody to watch over units where individuals may be at risk of suicide. Auditors visited housing areas, reviewed logbooks and interviewed aides and correction officers.",
+  "background": "New York City Charter section 626(e) charges the Board with setting minimum standards for the care and supervision of people held by DOC, and city rules require DOC to run an Observation Aide program to monitor individuals at risk of suicide. Under DOC's directive, aides must tour designated housing areas every 10 minutes, and if no aide is assigned uniformed staff must tour every 15 minutes.",
+  "findings": [
+    {
+      "plain": "In the March baseline survey, 41 of the 62 housing units visited had an observation aide assigned and present. About one in three units had no aide at the time of inspection.",
+      "quote": "about one in three units lacked coverage"
+    },
+    {
+      "plain": "Officer paperwork was almost always incomplete. In only 4 of the 41 staffed units did the control room officer record the aide's name and identifying number in the logbook as DOC's directive requires.",
+      "quote": "only 4 (9.8%) had proper “A” post officer"
+    },
+    {
+      "plain": "Where no aide was assigned, the backup safeguard often did not happen. Only 7 of 21 unstaffed units met the 15-minute tour requirement, and staff in one restrictive housing area said they skipped the tours when nobody was on suicide watch.",
+      "quote": "if there is no suicide watch on the tier, we do not make"
+    },
+    {
+      "plain": "Aides frequently lacked the gear they need. Only 11 of the 41 staffed units had all required equipment, with flashlights, logbooks and working clocks the most common items missing, and some aides used tablets or televisions to time their rounds.",
+      "quote": "Only 11 of 41 staffed units (26.8%) had all required equipment."
+    },
+    {
+      "plain": "The follow-up audit three weeks later found real gains. Aide coverage, aide logbook use and equipment availability all rose.",
+      "quote": "Observation aide coverage improved (66.1% to 82.8%)"
+    },
+    {
+      "plain": "Two measures stayed weak or got worse. Officer documentation moved only from 9.8 percent to 12.5 percent, and 15-minute tour compliance in units without an aide fell from 33.3 percent to 20 percent.",
+      "quote": "remained low (9.8% to 12.5%)"
+    },
+    {
+      "plain": "One unit was outside the program entirely. Officers do not let people housed in the Rose M. Singer Enhanced Supervision Housing (RESH) serve as observation aides, citing security risk, and staff there log tours every 30 minutes rather than the 15 minutes the policy requires when no aide is present.",
+      "quote": "allow individuals in RESH to participate in the Observation Aide program"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "62 housing areas",
+      "label": "Housing areas visited in the March baseline audit"
+    },
+    {
+      "value": "41 of the 62 housing units",
+      "label": "Units with an observation aide present at baseline"
+    },
+    {
+      "value": "9.8%",
+      "label": "Units with correct officer logbook entries at baseline"
+    },
+    {
+      "value": "12.5%",
+      "label": "Units with correct officer logbook entries at follow-up"
+    },
+    {
+      "value": "26.8%",
+      "label": "Staffed units with all required equipment at baseline"
+    },
+    {
+      "value": "45.8%",
+      "label": "Staffed units with all required equipment at follow-up"
+    },
+    {
+      "value": "33.3%",
+      "label": "Unstaffed units meeting 15-minute tours at baseline"
+    },
+    {
+      "value": "82.8%",
+      "label": "Units with observation aide coverage at follow-up"
+    }
+  ],
+  "recommendations": [
+    "Policy 1: Area supervisors must make sure \"B\" post officers conduct 15-minute tours in specialized units that have no observation aide, as Directive #4017R-D requires.",
+    "Policy 2: RESH should start using observation aides on a modified alternating schedule tied to tier lockdowns, per Directive #4009-R on lock-in and lockout.",
+    "Review 1: Correctional staff should ask observation aides and housing area staff for feedback to identify barriers and improve operations.",
+    "Coordination 1: Facility programs or job assignment staff should send out updated observation aide rosters every week so everyone knows who is covering which unit.",
+    "Coordination 2: The Eric M. Taylor Center should train and assign qualified city sentenced candidates as observation aides to offset high turnover in intake areas.",
+    "Reporting 1: \"A\" post officers must write the name of the observation aide on duty in the \"A\" post logbook.",
+    "Reporting 2: Leadership should set up a centralized inventory system with routine audits so aides have required equipment such as flashlights, logbooks, vests and clocks."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "public safety",
+    "health"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "2026-04-07-nycha-monitors-second-annual-report",
+  "source": "monitor",
+  "auditor": "Federal monitors (NYCHA public housing)",
+  "title": "New York City Housing Authority Monitorship: Monitors' Report (Second Annual Report, Seventh Overall)",
+  "plain_title": "Year seven: pests and mold improve, elevators and IT go backward",
+  "agency": "New York City Housing Authority",
+  "issued": "2026-04-07",
+  "url": "https://www.nychamonitor.com/reports",
+  "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-SEVENTH-Report-MASTER-FINAL.pdf",
+  "what_they_audited": "The federal monitors' annual review of the New York City Housing Authority (NYCHA) for the seventh year of the monitorship, January 31, 2025 to January 31, 2026. It covers the six property areas of the 2019 agreement with the federal government, heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus the 47 initiatives in NYCHA's Transformation Plan, capital spending and the monitors' own budget.",
+  "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to fix housing conditions, and a monitor was appointed. About two-thirds of NYCHA's funding comes from federal grants, and the monitors write that contemplated federal budget cuts could cost NYCHA as much as $100 million starting next year.",
+  "findings": [
+    {
+      "plain": "Pest response times improved sharply while pest populations went the other way. NYCHA answered 87% of mouse, cockroach and bed bug complaints within seven calendar days, a 22 percentage point jump, and kept meeting its rat targets at 98% within two business days. But its estimated populations rose 19% for rats, 39% for mice, 21% for bed bugs and 4% for cockroaches compared with Year 6, though all four remain far below where they stood at the start of the monitorship.",
+      "quote": "increased from Year 6, with a 19% increase for rats, 39% for"
+    },
+    {
+      "plain": "Mold work improved but stayed far short of the standard. NYCHA met the agreement's mold timeframes 29% of the time, up from 9% in Year 6 and well below the 95% requirement, and average remediation time fell from 120 days in Year 4 to 12 days. Severity remains a problem, with 85% of complaints involving mold covering ten square feet or more, and the combined mold and leak backlog is over 65,000 open work orders.",
+      "quote": "mold and leak backlog—over 65,000 open work orders—"
+    },
+    {
+      "plain": "NYCHA finished its boiler obligation a year early, replacing 198 boilers itself and transferring 698 to private partners who replaced 462, but heating outages rose. There were 307 unplanned central heating outages in the first half of the 2025-2026 season against 206 a year earlier, affecting 61% of occupied apartments compared with 54%.",
+      "quote": "there have been 307 unplanned central heating outages,"
+    },
+    {
+      "plain": "Elevator performance stalled or declined after three years of gains. NYCHA finally completed its obligation to replace or modernize 275 elevators, a year late, and restored service within ten hours for 89% of unplanned outages, but the average outage lasted 6.5 hours, 16% worse than the 5.6 hours of the prior year.",
+      "quote": "elevator outages in an average of 6.5 hours per outage,"
+    },
+    {
+      "plain": "HUD inspection results improved markedly. NYCHA passed 64 of 89 inspections in 2025, or 72%, compared with 46% of 138 inspections in 2024, and completed annual self-inspections in 95% of occupied apartments, up from 91%. The monitors found HUD had flagged problems NYCHA's own inspectors could have caught, such as missing smoke detectors and kitchen and bathroom outlets without ground-fault protection.",
+      "quote": "passed 64 of 89 inspections (72%), a signiﬁcant"
+    },
+    {
+      "plain": "A large lead paint remediation backlog remains open. Of 19,835 remediation work orders identified in December 2024, NYCHA completed 9,412 and cancelled 610, leaving 9,813 open, many unresolved because NYCHA cannot get into the apartment or more work is needed. Separately, NYCHA has completed X-Ray Fluorescence (XRF) testing in about 97% of units known or presumed to have lead paint.",
+      "quote": "remediation work orders. Of 19,835 remediation work"
+    },
+    {
+      "plain": "NYCHA's biggest technology project collapsed. The replacement of its Resident Case Management System, first due to go live in April 2025, has no launch date after NYCHA terminated the vendor's contract in 2025, and two other major systems also slipped. The monitors traced the failure to vendor selection, heavy customization and weak vendor management, and NYCHA paid $350,000 for a second outside technical assessment.",
+      "quote": "either select vendors with more public housing experience or take"
+    }
+  ],
+  "numbers": [
+    {"value": "87%", "label": "Mouse, cockroach and bed bug complaints answered in 7 days"},
+    {"value": "29%", "label": "Mold work orders finished within required timeframes"},
+    {"value": "65,000", "label": "Open mold and leak work orders"},
+    {"value": "307", "label": "Unplanned heating outages, first half of the 2025-26 season"},
+    {"value": "6.5 hours", "label": "Average length of an unplanned elevator outage"},
+    {"value": "64 of 89", "label": "HUD inspections passed in 2025"},
+    {"value": "$100 million", "label": "Possible loss of federal support starting next year"},
+    {"value": "$19,902,453.90", "label": "Budget for the monitorship's work"}
+  ],
+  "recommendations": [
+    "Keep replacing boilers and invest in the heating distribution system, which NYCHA estimates would take $4 billion in additional funding to fully repair or replace.",
+    "Improve the quality of pest control treatments, not just their timeliness, so pest populations actually fall.",
+    "Strengthen annual self-inspections so health and safety problems are caught and fixed before HUD inspectors arrive.",
+    "Pick technology vendors with real public housing experience, or move faster to enforce contract terms requiring a vendor to bring in that expertise.",
+    "Minimize customization when buying the next resident case management system, taking account of HUD requirements that are common to public housing agencies.",
+    "Adopt vendor performance measures earlier in technology projects and enforce contract requirements more proactively.",
+    "Share the monitors' findings about the failed project with candidates for NYCHA's new technology leadership.",
+    "Simplify the employee performance evaluation process, add a second layer of review, tie evaluations to objective performance indicators and connect low ratings to corrective action including training."
+  ],
+  "agency_response": "NYCHA agreed to adopt several of the monitors' performance evaluation recommendations in the cycle that began in January 2026, including a four-point rating scale and review by next-level supervisors, and plans to use key performance indicators in evaluations in 2027. It declined to add training for low-rated employees, saying that kind of follow-up is already part of its traditional progressive management of staff. NYCHA also agreed to share the monitors' technology findings with candidates for new information technology leadership.",
+  "implementation_note": "",
+  "compliance_note": "The monitors found NYCHA built on earlier progress and should be commended, but that performance regressed in several areas and full compliance will require both continued cultural and organizational reform and enough money for operations and capital work. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+  "topics": ["housing", "technology", "money and contracts"],
+  "is_followup": false
+}

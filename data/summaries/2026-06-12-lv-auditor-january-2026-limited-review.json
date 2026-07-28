@@ -1,0 +1,84 @@
+{
+  "id": "2026-06-12-lv-auditor-january-2026-limited-review",
+  "source": "monitor",
+  "auditor": "Independent auditor (NYC special education hearing orders)",
+  "title": "Independent Auditor's Post Corrective Action January 2026 Limited Review",
+  "plain_title": "Special education orders: 36% of services, 13% of payments on time",
+  "agency": "New York City Public Schools",
+  "issued": "2026-06-12",
+  "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+  "pdf": "https://advocatesforchildren.org/wp-content/uploads/DOEIndependentAudit_PostCorrectiveAction_JanuaryLimitedReview_Final.pdf",
+  "what_they_audited": "A one-month limited review by the court-appointed independent auditor, Guidehouse, measuring whether the New York City Department of Education (DOE) carried out orders issued by Impartial Hearing Officers in special education cases on time. It covers orders issued between November 27 and December 27, 2025 whose individual tasks, called Action Items, were finally due in January 2026.",
+  "background": "Advocates for Children of New York (AFC) and the law firm Milbank filed the class action L.V. v. D.O.E. in 2003 on behalf of parents of special needs children who won hearing orders against the DOE but did not get them carried out fully and on time. A 2007 Stipulation and Agreement of Settlement requires an independent auditor to report on how much of what hearing officers order is Timely Implemented, meaning done within the time the order sets or within 35 days if it sets none.",
+  "findings": [
+    {
+      "plain": "The department implemented on time 12.8% of payment orders, 11.7% of payment action items, 36.4% of service orders and 33.4% of service action items in the January 2026 window.",
+      "quote": "determined that the DOE timely implemented 12.8% of Payment Orders, 11.7% of"
+    },
+    {
+      "plain": "Those rates were a large jump from recent full quarters. Across the last eight quarterly reports the department had averaged 3.0% of payment orders and 8.7% of service orders on time.",
+      "quote": "average, 3.0% of Payment Orders, 3.2% of Payment Actions, 8.7% of Service Orders"
+    },
+    {
+      "plain": "Even with the improvement, the auditor stressed that on-time performance stayed low, below 13% for payments and below 37% for services.",
+      "quote": "Timely Implemented Payment Action Items remain below 13% and Timely"
+    },
+    {
+      "plain": "Payments remained the biggest failure. Of 1,115 counted payment action items, 985 were unimplemented, and the prospective payment group as a whole was carried out on time only 9.3% of the time.",
+      "quote": "Guidehouse reviewed the 1,115 counted Payment Action Items and noted 939 Action"
+    },
+    {
+      "plain": "Some categories of ordered services failed entirely. Nothing in the CSE Evaluation category was done on time, and nearly all orders to reconvene a hearing or meeting or to offer a placement were missed too.",
+      "quote": "CSE Evaluation (100.0%), followed by Reconvene Hearing or Meeting (94.4%) and"
+    },
+    {
+      "plain": "Three categories of prospective payments were never made on time: private evaluations that had been ordered, ABA Therapy and counseling.",
+      "quote": "category were Private Evaluations Ordered (100.0%), ABA Therapy (100.0%) and..."
+    },
+    {
+      "plain": "Not everything the hearing system produced counted toward the score. The auditor set aside 5 orders and 18 action items as Uncounted, found 154 orders that contained no action items at all and put another 66 orders plus 33 action items outside the scope of review.",
+      "quote": "In addition, Guidehouse determined that 5 Orders and 18 Action Items issued during"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "36.4%",
+      "label": "Service orders carried out on time"
+    },
+    {
+      "value": "12.8%",
+      "label": "Payment orders carried out on time"
+    },
+    {
+      "value": "33.4%",
+      "label": "Service action items carried out on time"
+    },
+    {
+      "value": "11.7%",
+      "label": "Payment action items carried out on time"
+    },
+    {
+      "value": "1,115",
+      "label": "Payment action items counted in the review"
+    },
+    {
+      "value": "985",
+      "label": "Payment action items left unimplemented"
+    },
+    {
+      "value": "154",
+      "label": "Orders issued that contained no action items"
+    }
+  ],
+  "recommendations": [
+    "The report makes no new formal recommendations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "On-time compliance rose sharply compared with the department's final quarterly reports, but the auditor noted it stayed below 13% for payments and below 37% for services, meaning most hearing orders in the month reviewed were still not carried out on time.",
+  "topics": [
+    "education",
+    "children and youth"
+  ],
+  "is_followup": false
+}

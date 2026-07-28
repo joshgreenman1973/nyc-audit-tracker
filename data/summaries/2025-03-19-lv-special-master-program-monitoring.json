@@ -1,0 +1,113 @@
+{
+  "id": "2025-03-19-lv-special-master-program-monitoring",
+  "source": "monitor",
+  "auditor": "Special master (NYC special education hearing orders)",
+  "title": "Special Master Program Monitoring Report",
+  "plain_title": "Special education fixes stall: one obligation met in four months",
+  "agency": "New York City Public Schools",
+  "issued": "2025-03-19",
+  "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+  "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/380.pdf",
+  "what_they_audited": "A periodic monitoring report to the court, filed as a slide deck, on how far New York City Public Schools (NYCPS) has gotten in meeting the obligations imposed by the court's order of July 19, 2023 in L.V. v. D.O.E. It includes an independent assessment of the four technology systems the obligations depend on.",
+  "background": "When a special education hearing is held, an Impartial Hearing Officer can order that a service be provided or a payment be made on a student's behalf, and the school system then has 35 days to carry the order out unless the order says otherwise. NYCPS runs an Implementation Unit (IU) to authorize the payments and arrange the services. Obligation #39 of the 2023 order requires the special master to report to the court every 120 days on whether each obligation has been fulfilled, what is blocking the unfulfilled ones and what comes next.",
+  "findings": [
+    {
+      "plain": "As of March 7, 2025, 19 of the 51 tracked obligations had been fulfilled and 32 remained unfulfilled. Only one had been fulfilled since the November 2024 report, a recruiting and hiring strategy, and every remaining obligation was past due as of January 19, 2025.",
+      "quote": "have been fulfilled, while thirty-two (32) remain"
+    },
+    {
+      "plain": "Work on the Impartial Hearing Management System (IHMS), the system most of the obligations depend on, had nearly stopped while the project waited for funding for its second phase. Funding for the change request was approved on February 26, 2025, but the contract and comptroller steps remained.",
+      "quote": "OMB approved the funding for change request on 2/26/2025"
+    },
+    {
+      "plain": "The independent technology assessment estimated that even in a best case the remaining development and testing of the hearing system would not finish until the first quarter of 2027.",
+      "quote": "remaining development and testing will be the first quarter 2027."
+    },
+    {
+      "plain": "SupportHub, the new customer support platform, went live on January 8, but the special master's survey of attorneys and parents who used it found no one rated it very helpful and about half reported it unhelpful or a bad experience.",
+      "quote": "and 0% found it very helpful. About 52% did"
+    },
+    {
+      "plain": "The school system had not carried out everything the judge ordered at the December 5, 2024 conference on public communications and process changes, and the special master attached a status report tracking the outstanding items.",
+      "quote": "report tracking these items. In short, NYCPS has not satisfied all of the directives"
+    },
+    {
+      "plain": "Polaris, the new custom-built invoicing tool, launched with 57 vendors in late December 2024 and processed 207 invoices in January, 98% of them within five days, though the special master's team had not yet reviewed technical documentation to verify the results.",
+      "quote": "from Polaris now and processed 207 invoices in January, (98% within 5 days)."
+    },
+    {
+      "plain": "Hiring was moving: the school system reported 100 of the 148 needed implementation positions filled with full-time or temporary staff. Meanwhile the independent auditor was so far behind on its quarterly compliance reports that the special master arranged for it to audit a single recent month of orders instead.",
+      "quote": "reports they have onboarded 100 staff (full-time and temp) out of 148 needed"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nineteen (19)",
+      "label": "Obligations fulfilled as of March 7, 2025"
+    },
+    {
+      "value": "thirty-two (32)",
+      "label": "Obligations still unfulfilled"
+    },
+    {
+      "value": "first quarter 2027",
+      "label": "Best-case finish for the new hearing system"
+    },
+    {
+      "value": "0%",
+      "label": "Survey respondents who found SupportHub very helpful"
+    },
+    {
+      "value": "207 invoices",
+      "label": "Invoices processed through Polaris in January"
+    },
+    {
+      "value": "100 staff",
+      "label": "Implementation positions filled of 148 needed"
+    },
+    {
+      "value": "2,021 tickets",
+      "label": "Vendor emails logged February 11 to March 3, 2025"
+    }
+  ],
+  "recommendations": [
+    "Obligation 5, hearing officer web form: finalize the list of form fields, have the hearing system team design and build the functionality and share the field list with OATH to promote integration between future data systems.",
+    "Obligation 8a, capturing documentation: conduct user research with parents and draft a process for collecting relevant documentation before the hearing, with input from plaintiffs.",
+    "Obligation 8b, multiple-file uploads: tell parents and representatives that SupportHub lets them submit several documents at once for authorization.",
+    "Obligation 10, timesheet solution: deploy the Polaris invoicing tool to the full community of vendors.",
+    "Obligation 13, monitoring service orders: establish a working group that meets regularly to discuss the integration needed between the hearing system and the special education system.",
+    "Obligation 14a, customer support hotline: keep improving SupportHub and its processes in response to community feedback.",
+    "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
+    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
+    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
+    "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
+    "Obligation 24b, DAITS enhancements: confirm whether the database changes stabilized the older tracking system and share the stabilization and enhancement plans.",
+    "Obligation 30, operating procedures manual: revise the first draft based on the special master's feedback and share an updated version with plaintiffs and the special master.",
+    "Obligation 33, new services process: articulate the new process for monitoring service action items and assess its impacts.",
+    "Obligation 27, case status indicator: add the parent-facing case status function to the scope of the next phase of the hearing system.",
+    "Obligation 31, document management: no recommendation stated; the item is listed as to be determined.",
+    "Obligation 34, document management tool: see obligation 13, and plan and design document sharing in line with the other data integrations.",
+    "Obligation 32, mobile timesheets: provide documentation on the mobile functionality, including requirements and user research findings, and give the special master's team a demo.",
+    "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
+    "Obligation 9, payment documentation: make the final changes decided at the December 5 conference and keep reviewing and improving the implementation website.",
+    "Obligation 11, settlement notifications: build the settlement notification rule into the design of the new hearing system.",
+    "Obligation 12a, high-priority orders: determine lessons learned from missed cases and update the processes accordingly.",
+    "Obligation 12b, service communications: produce and share a communications plan for service orders and action items.",
+    "Obligation 19, nursing documentation: respond to the special master's email of March 21, 2024 about formally communicating the policy on required nursing forms.",
+    "Obligation 28a, collecting data assets: draft the outline and template of the quarterly performance report.",
+    "Obligation 28b, quarterly analysis: no separate recommendation stated; see obligation 2b.",
+    "Obligation 28c, six-month report to the court: no recommendation stated; the item is listed as to be determined.",
+    "Obligation 35, home instruction: create a process document for confirming that a student is receiving ordered home instruction.",
+    "Obligation 36, placement orders: create a process document for confirming that a student is placed in the school called for by the order.",
+    "Obligation 37, training updates: share an annual training publication schedule and the process for updating training materials.",
+    "Obligation 38, user research: plan and scope user research for Phase II of the hearing management system."
+  ],
+  "agency_response": "",
+  "implementation_note": "Of the 51 obligations in the July 19, 2023 court order, 19 were fulfilled and 32 remained unfulfilled as of March 7, 2025, one more fulfilled than at the November 2024 report.",
+  "compliance_note": "The special master found compliance stalled: only one obligation was fulfilled in the four months since the last report, all remaining obligations were past due, the school system had not satisfied every directive the judge issued on December 5, 2024 and the technology the order depends on was not expected to be finished before 2027.",
+  "topics": [
+    "education",
+    "children and youth"
+  ],
+  "is_followup": false
+}

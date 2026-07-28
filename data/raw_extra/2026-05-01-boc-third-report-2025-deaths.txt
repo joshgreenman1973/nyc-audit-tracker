@@ -1,0 +1,842 @@
+ 
+BOARD OF CORRECTION 
+CITY OF NEW YORK 
+ 
+ 
+ 
+ 
+ 
+Third Report and Recommendations on 2025 Deaths in New 
+York City Department of Correction Custody1 
+ 
+ 
+Date: May 1, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Authored by Director of Special Investigations Rahzeem Gray. 
+
+2 
+ 
+Table of Contents 
+Introduction...................................................................... 3 
+Deaths in Custody ............................................................. 5 
+1. Edwin Ramos .............................................................. 5 
+2. Aramis Furse .............................................................. 9 
+3. Kyron Randall ........................................................... 13 
+Key Findings .................................................................... 18 
+Recommendations .......................................................... 20 
+ 
+ 
+ 
+
+3 
+ 
+Introduction 
+The New York City Board of Correction (“Board” or “BOC”) investigates the 
+circumstances of deaths in custody pursuant to New York City Charter § 626(i)(2)2 
+and § 3-10(c)(2) of Title 40 of the Rules of the City of New York.3 These 
+investigations do not focus on ﬁnding criminality or individual shortcomings, but on 
+identifying systemic ﬂaws and policy failures, and making recommendations to the 
+New York City Department of Correction (“DOC” or “Department”) and NYC Health 
++ Hospitals/Correctional Health Services (“CHS”). CHS’s response to these 
+recommendations is appended to this report. 
+DOC operates eight housing facilities on Rikers Island and provides security at 
+hospital prison wards in Manhattan and Queens. Additionally, DOC operates court 
+pens in each of the ﬁve boroughs. In 2025, 15 individuals died while in custody or 
+shortly after the court issued an order releasing them on their own recognizance. 
+In a previous report titled “First Report and Recommendations on 2025 Deaths in 
+New York City Department of Correction Custody,” the Board detailed ﬁndings and 
+recommendations concerning ﬁve deaths that occurred between February and 
+March 2025. In its “Second Report and Recommendations on 2025 Deaths in New 
+York City Department of Correction Custody,” the Board covered seven deaths that 
+occurred between June and September 2025. This report details the circumstances 
+and recommendations related to the deaths of Edwin Ramos, Aramis Furse, and 
+Kyron Randall, who died in November and December 2025.  
+ 
+2 Except where the commissioner of investigation, the attorney general, or the district attorney 
+for the county in which a death of an incarcerated individual held or conﬁned under the 
+jurisdiction of the department occurred investigates such death or prosecutes any alleged 
+criminal oﬀense related to such death and requests or directs the board not to investigate such 
+death, the board shall investigate such death and prepare a report about such investigation. Such 
+report shall include any recommendations about measures the department or correctional health 
+services may implement to prevent the circumstances that contributed to the individual’s death. 
+Nothing in this subdivision shall be construed to limit the board’s discretion to investigate a death 
+of an incarcerated individual held or conﬁned under the jurisdiction of the department, including 
+any death the board attributes to a person’s time in the custody of the department.  
+3 The Board of Correction shall conduct an investigation of inmate deaths including the review of 
+all medical records of the deceased. 
+
+4 
+ 
+Board staﬀ responded to the respective facilities where each person died within 24 
+hours of receiving notiﬁcation from DOC. BOC’s investigations consist of collecting 
+and reviewing all relevant DOC, CHS, New York City Office of the Chief Medical 
+Examiner (“OCME”), Emergency Medical Services (“EMS”), and hospital records. In 
+addition, staff reviewed relevant fixed surveillance videos and footage from body-
+worn cameras. Lastly, staff interviewed both uniformed and non-uniformed staff 
+as well as individuals in custody. 
+Some matters of concern staﬀ discovered during these investigations include: 
+• The “B” post oﬃcers assigned to Mr. Furse’s and Mr. Randall’s housing areas 
+abandoned their assigned posts multiple times during their tours. 
+• The “B” post oﬃcer left Mr. Randall in his cell, unsupervised and unsecured, 
+for 24 minutes during his medical emergency. 
+• Logbook entries recorded by the oﬃcer in Mr. Randall’s housing area 
+reﬂecting consistent 30-minute tours are inaccurate, as video footage shows 
+the oﬃcer did not tour according to policy. 
+• The “B” post oﬃcer in Mr. Randall’s housing area did not conduct tours in 
+accordance with DOC Directive #4514R-C, which requires oﬃcers assigned to 
+cell areas to conduct visual observations at 30-minute intervals, observing 
+signs of life in each person in custody. 
+• Multiple cell windows in Mr. Furse’s housing area were partially or 
+completely covered, obstructing correction oﬃcers’ views into the cells. 
+• Individuals in Mr. Ramos’ housing area appeared to possess drug 
+paraphernalia.  
+• Individuals in custody in Mr. Furse’s housing area accessed unauthorized cells 
+during lockout periods, congregating in single cells designated for one 
+person. 
+• Housing area staﬀ allowed individuals in Mr. Furse’s housing area to remain 
+locked out after 9:00 pm lock-in. After the 9:00 pm mandatory lock-in period, 
+individuals were out of their cells and covered stationary cameras with 
+tissues. 
+ 
+
+5 
+ 
+Deaths in Custody 
+1. Edwin Ramos 
+Mr. Ramos entered DOC custody as a new 
+admission on August 15, 2025. Intake 
+staﬀ at the Eric M. Taylor Center (“EMTC”) 
+secured him in a new admission holding 
+pen and began the screening process. 
+After completing the DOC portion of the 
+screening, CHS staﬀ examined Mr. Ramos.  
+During the exam, CHS staﬀ identiﬁed two 
+health conditions. The clinician noted Mr. 
+Ramos was obese and had elevated blood 
+pressure. For the next three days, Mr. Ramos was escorted to the clinic to check his 
+blood pressure. 
+During the medical screening, Mr. Ramos told CHS staﬀ that he used fentanyl and 
+cocaine in the community. Urinalysis test results were negative for drugs. He 
+requested to be enrolled in the Key Extended Entry Program (“KEEP”), a program 
+for medication management of moderate to severe opioid use disorder. Records 
+show Mr. Ramos did not meet the criteria outlined in the DSM-54 for moderate to 
+severe opioid use disorder in keeping with federal Opioid Treatment Program 
+(“OTP”) guidelines and, therefore, did not qualify for enrollment in the KEEP 
+ 
+4 According to the United States Centers for Disease Control and Prevention (“CDC”), the DSM-5 
+(Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) defines Opioid Use Disorder 
+(“OUD”) as a problematic pattern of opioid use leading to clinically significant impairment or 
+distress. OUD is demonstrated by two of 11 criteria occurring within a year, including taking 
+opioids in larger amounts or over a longer period of time than intended, a persistent desire or 
+unsuccessful attempts to reduce or control opioid use, continued opioid use causing inability to 
+fulfill work, home, or school responsibilities, exhibiting withdrawal symptoms, among others. 
+ 
+Age 
+38 
+Date of death 
+November 21, 
+2025 
+Admission date August 15, 2025 
+Cause of death 
+Pending 
+Facility at time 
+of death 
+Otis Bantum 
+Correctional 
+Center (“OBCC”) 
+Bail amount 
+$20,000 
+
+6 
+ 
+program. CHS determined that general population housing was clinically 
+appropriate for Mr. Ramos.5 
+On August 18, 2025, DOC assigned Mr. Ramos to a new admission dormitory area 
+in EMTC. Two days later, he was transferred to a dormitory area at the Rose M. 
+Singer Center Enhanced Supervision Housing (“RESH”) Annex.6 While in the RESH 
+Annex, he received an infraction for his role in an assault on staﬀ. The hearing 
+captain found him guilty on all charges at the hearing.  
+On October 29, 2025, two months after entering DOC custody, CHS received Mr. 
+Ramos’ medical record from the New York State Oﬃce of Mental Health. Unlike 
+what Mr. Ramos stated at intake, records showed a history of behavioral health 
+diagnoses, such as psychoactive substance-related disorders, alcohol-related 
+disorders, cocaine use disorder, tobacco-related disorders, major depressive 
+disorder, unspeciﬁed psychotic disorders, and unspeciﬁed anxiety disorders. In 
+addition, the records also mention Type 2 Diabetes Mellitus.  
+Later in the month, at 1:00 pm on October 30, 2025, correctional staﬀ in Mr. Ramos’ 
+housing area activated a medical emergency after learning he was experiencing 
+pain in his right shoulder and chest for two consecutive days. CHS staﬀ arrived at 
+1:06 pm. Medical responders assisted him onto a gurney and departed the area for 
+the clinic. Once in the clinic, CHS staﬀ checked his blood pressure. It was elevated, 
+at 199/118. The on-site doctor ordered a stat dosage of clonidine to bring down his 
+blood pressure. Repeat blood pressure was 195/110. CHS staﬀ called EMS to 
+request a hospital transport. Following treatments and EMS arrival, Mr. Ramos’ 
+blood pressure was 134/88; 20 minutes later it was 134/91. EMS departed the clinic 
+with Mr. Ramos for Elmhurst Hospital. Elmhurst staﬀ examined Mr. Ramos and did 
+not ﬁnd any abnormalities, which prompted them to process him for discharge back 
+to Rikers Island. 
+On October 31, 2025, Elmhurst staﬀ discharged Mr. Ramos from the hospital. 
+Correctional staﬀ transferred him to a general population housing area in the 
+ 
+5 General population housing is designed by custody level for individuals who do not require 
+special housing. 
+6 General population dormitory at RMSC that exclusively houses men. 
+
+7 
+ 
+George R. Vierno Center (“GRVC”). Upon his return that day, CHS staﬀ prescribed 
+him a 10-day supply of amlodipine and lisinopril, commonly known to treat high 
+blood pressure. 
+On November 6, 2025, correctional staﬀ transferred Mr. Ramos to a general 
+population dormitory in OBCC. He remained in this unit incident-free until 
+November 20, 2025. 
+On November 20, Mr. Ramos’ housing area had a “B” post oﬃcer assigned to the 
+unit.7 Despite having a “B” post oﬃcer, video surveillance captured several 
+individuals in possession of or smoking unknown paraphernalia during the “B” 
+oﬃcer’s shift.  At 6:14 pm, while the oﬃcer sat at the “B” post desk by the housing 
+area entrance, one individual sat on Mr. Ramos’ bed and appeared to a roll slim, 
+white paraphernalia resembling a cigarette. Individuals appeared to smoke the 
+paraphernalia at 6:18 pm but quickly extinguished it before the “B” oﬃcer reached 
+their area during their tour. Mr. Ramos was not one of the individuals smoking the 
+paraphernalia. 
+At 7:15 pm, the individuals lit new paraphernalia that resembled a cigarette while 
+the oﬃcer conducted another tour. At 10:44 pm, six individuals gathered between 
+two beds and appeared to share the contraband resembling a cigarette while the 
+“B” oﬃcer was seated at the “B” post. During this time, video showed the oﬃcer 
+exiting the unit twice from 6:50 pm through 6:54 pm and 9:54 pm through 10:05 
+pm.  
+At 11:24 pm, video surveillance captured Mr. Ramos removing an unknown item 
+from a folder next to his bed and placing the contents in his mouth. At 11:56 pm, 
+shortly after ingesting the item, he entered the bathroom holding a roll of toilet 
+paper. He appeared lethargic as he suddenly leaned over the bathroom partition. 
+He exited the bathroom for a moment then reentered at 12:00 am. At 12:05 am, 
+appearing to be done using the bathroom, he stood up and suddenly fell forward, 
+face down. An individual in the unit entered the bathroom moments after Mr. 
+ 
+7 DOC uses the term “B” post when referring to a correction oﬃcer assigned to a housing area 
+ﬂoor post. “B” post oﬃcers interact with and directly supervise people in custody inside the living 
+area. 
+
+8 
+ 
+Ramos fell to the ﬂoor. The individual appeared to alert the “B” post oﬃcer, which 
+prompted them to enter the bathroom. Once inside, the “B” oﬃcer observed Mr. 
+Ramos on the ﬂoor with a white sheet over his body. Subsequently, the “B” oﬃcer 
+appeared to call out for the “A” post oﬃcer and advise them to activate a medical 
+emergency.8 Body-worn video captured the oﬃcer state that Mr. Ramos was 
+appearing to have a seizure. Video footage also captured the oﬃcer removing the 
+sheet and pulling up Mr. Ramos’ pants. The oﬃcer then turned Mr. Ramos onto his 
+side, at which time he could be heard snoring and slightly moving his right hand. 
+The “B” oﬃcer started rubbing Mr. Ramos’ arm and checked his pulse. The oﬃcer 
+then instructed an individual in the bathroom to go to the “A” station window to 
+retrieve Narcan9 from the “A” post oﬃcer. At 12:10 am, ﬁve minutes after observing 
+Mr. Ramos in distress, the “B” post oﬃcer administered Narcan. At 12:11 am, the 
+oﬃcer administered a second dose of Narcan and began chest compressions.   
+At 12:15 am, CHS staﬀ arrived with portable emergency response equipment, 
+including a ﬂat board, a CPR disposable mask, and a medical supply bag. According 
+to CHS records, Mr. Ramos was on the ﬂoor in a supine position, and his skin 
+appeared to be discolored. Body-worn camera footage shows a nurse instructing 
+that EMS be immediately notiﬁed at 12:17 am, and a DOC captain relaying the 
+message to Central Control. The DOC captain began administering chest 
+compressions while the nurse placed automated external deﬁbrillator (“AED”) pads 
+on Mr. Ramos. At 12:20 am, CHS staﬀ noted that the reading on the AED device was 
+“not ﬂat” and that Mr. Ramos had a pulse. Staﬀ administered a third dose of Narcan 
+before placing Mr. Ramos on a ﬂat board and carrying him to the clinic at 12:21 am, 
+arriving at 12:25 am. EMS arrived at the clinic at 12:37 am and immediately 
+provided ﬂuids intravenously, administered ﬁve doses of epinephrine, and 
+completed intubation. The Urgicare physician administered an additional dose of 
+ 
+8 “A” post oﬃcers remain inside the “A” station, colloquially known as the “bubble.” The “A” 
+station is the housing area’s secured control room and cannot be accessed by people in custody. 
+9 Per DOC Directive #2/22, eﬀective June 30, 2022, Naloxone (Narcan) is a life-saving medication 
+in the form of a nasal spray that can reverse the eﬀects of an opioids overdose. Trained staﬀ 
+members and incarcerated individuals can administer Narcan if an individual displays 
+unresponsiveness, slow or no breathing, blue or grey lips and/or ﬁngernails, or snoring or gurgling 
+sounds. 
+
+9 
+ 
+epinephrine and administered sodium bicarbonate. EMS administered one round 
+of calcium before departing the facility with Mr. Ramos. EMS transported Mr. 
+Ramos to Mount Sinai Queens, where he was pronounced deceased at 1:25 am. 
+Immediately after CHS departed the housing area with Mr. Ramos, the “B” post 
+oﬃcer exited the bathroom and conducted a tour of the area. The oﬃcer observed 
+an individual sleeping on a bed holding what appeared to be lit contraband. The 
+contraband resembled a cigarette as it was slim and white. The oﬃcer removed the 
+contraband without waking the individual and continued the tour. In addition to 
+conﬁscating contraband following the incident, all individuals in custody housed in 
+Mr. Ramos’ unit were drug tested. Some individuals refused to cooperate. Most 
+tested negative. However, test results for four individuals were presumed positive. 
+Reports do not indicate the substance for which the individuals tested positive. 
+DOC dispatched a Special Search Team to Mr. Ramos’ housing area. The team 
+searched all individuals in custody in the unit, their beds, property, and community 
+areas. Staﬀ did not recover drug-related contraband. 
+DOC’s Special Investigations Unit assigned staﬀ to investigate this incident. Their 
+investigation is ongoing; however, preliminary ﬁndings do not identify wrongdoing 
+or staﬀ misconduct. 
+OCME has yet to provide the Board with records on Mr. Ramos’ cause of death. 
+2. Aramis Furse 
+Aramis Furse arrived at EMTC as a new 
+admission on May 3, 2025. During the 
+new admission assessment, intake staﬀ 
+noted Mr. Furse had a history of using 
+cocaine and consuming alcohol.  
+CHS staﬀ examined Mr. Furse after he 
+completed DOC’s screening. He informed 
+staﬀ that he had a history of asthma and reported sustaining a head injury that 
+caused him to lose consciousness one year earlier. In addition, he expressed feeling 
+Age 
+32 
+Date of death 
+December 7, 2025 
+Admission date May 3, 2025 
+Cause of death 
+Pending 
+Facility at time 
+of death 
+OBCC 
+Bail amount 
+$45,002 
+
+10 
+ 
+depressed. The clinician made a stat referral for a mental health evaluation. 
+Urinalysis testing returned positive for cocaine and marijuana.  
+A mental health clinician evaluated Mr. Furse shortly after he completed the 
+medical screening. Mr. Furse denied feeling suicidal, hopeless or worthless, or 
+having current mental health or emotional problems. He did state that he was 
+depressed due to being on Rikers Island for the second time. The clinician diagnosed 
+him with adjustment disorder with depressed mood. CHS determined he was 
+clinically appropriate for general population housing with mental health follow-up. 
+On May 5, 2025, almost 48 hours after entering custody.10 Mr. Furse was assigned 
+to a new admission general population dormitory in EMTC.  
+On May 14, 2025, Mr. Furse called CHS’s Health Triage Line11 to report that he was 
+feeling depressed and that he felt like hurting others, but not himself. Later that 
+same day, a clinician met with Mr. Furse and diagnosed him with other speciﬁed 
+depressive disorder, as well as cocaine use disorder. The clinician referred him to 
+the KEEP program. CHS reviewed his records and determined that he did not meet 
+the federal OTP criteria for enrollment in KEEP. Although CHS did not enroll him in 
+KEEP, the team scheduled supportive counseling and a mental health follow-up. 
+On May 22, 2025, one week after Mr. Furse met with mental health to discuss 
+feelings of depression, he had a follow-up visit. He reported increased depression 
+symptoms since the last meeting and other concerns, such as feeling sad, sleep 
+deprived and frustrated to the point where he displays anger by punching a wall. 
+The examiner prescribed melatonin on May 23 and sertraline on May 26. 
+From May through November 2025, Mr. Furse received three infractions for 
+ﬁghting, assaulting staﬀ, and refusing to follow facility rules. 
+ 
+10 According to Operations Order #22/07, eﬀective December 14, 2007, newly processed 
+individuals must be provided with appropriate housing within 24 hours of their arrival into the 
+custody of the Department. 
+11 CHS’s Health Triage Line is a channel of communication for patients to contact CHS directly 
+about their non-emergency health concerns. 
+
+11 
+ 
+On December 6, 2025, surveillance video showed all individuals locked in their cells 
+while the unit was on lockdown. Despite the lockdown at 7:50 pm, individuals 
+began to exit their cells. They appeared to pass a white rolled cigarette and access 
+unassigned cells. DOC policy prohibits multiple individuals from occupying a single 
+cell and from being inside a cell that is not their own. During this time, the “B” 
+oﬃcer was on the unit and observed individuals out of their cells. 
+At 8:03 pm, the oﬃcer conducted a tour while individuals accessed unauthorized 
+cells. During the tour, the oﬃcer did not stop at Mr. Furse’s cell. At the time, another 
+individual was inside Mr. Furse’s cell with him and remained there for the next 30 
+minutes. During the subsequent tour, at 8:36 pm, the oﬃcer observed the other 
+person in custody inside Mr. Furse’s cell, prompting them to utilize the DOC radio 
+to ask the “A” post oﬃcer to open the cell. Once open, the “B” oﬃcer directed the 
+individual to step out. They complied, exiting the cell without further interaction. 
+Mr. Furse’s cell was then closed. The oﬃcer returned to the “B” desk. 
+A short time later, at 9:12 pm, the oﬃcer walked the unit, communicating with 
+individuals who were outside of their cells. From 9:12 pm through 9:18 pm, video 
+footage showed the “B” oﬃcer conducting the institutional lock-in. The area captain 
+entered the housing and conducted a tour after the individuals were locked in. After 
+the captain completed their tour and exited the unit, individuals began to exit their 
+cells and resume rolling and passing contraband resembling a white rolled cigarette. 
+The oﬃcer did not appear to instruct the individuals to return to their cells. 
+Throughout this, Mr. Furse remained in his cell. 
+At 9:55 pm, the “B” post oﬃcer exited the unit and entered the “A” station. While 
+the “B” oﬃcer was oﬀ post, individuals gathered in two cells, appearing to roll 
+paraphernalia that resembled a white cigarette. They used tissues to cover two 
+stationary ﬁxed cameras in the area directly above the cells. 
+At 10:13 pm, 18 minutes later, the “B” oﬃcer reentered the unit and returned to 
+their post. One individual was on their knees, crawling to their cell as the “B” oﬃcer 
+entered the unit. The “B” oﬃcer did not appear to oﬀer aid or inquire why the 
+individual was crawling on the ﬂoor.  
+
+12 
+ 
+The “B” oﬃcer conducted a tour at 10:20 pm. During the tour, the oﬃcer brieﬂy 
+stopped and ﬂicked the lights inside Mr. Furse’s cell, then continued touring. 
+Logbook entries around this time reﬂect routine entries stating, “nothing to report.” 
+Shortly after completing the tour, the “B” oﬃcer exited the unit at 10:59 pm.  
+At 11:03 pm, while the “B” oﬃcer was oﬀ post, an individual appeared to slide 
+something resembling a cigarette under Mr. Furse’s door. One minute later, a group 
+of individuals stopped at Mr. Furse’s cell to check on him. They ﬂicked the lights 
+multiple times and appeared to have a four-minute exchange with him before 
+walking away. At 11:14 pm, 15 minutes after departing the area, the “B” oﬃcer 
+reentered the unit. 
+In the early hours of December 7, individuals checked on Mr. Furse multiple times 
+after passing suspected contraband under his door. At 12:43 am, multiple 
+individuals entered Mr. Furse’s cell. The “B” oﬃcer then approached the cell. The 
+individuals exited, closing the cell door behind them.  
+From 1:12 am through 2:00 am, individuals stopped by Mr. Furse’s cell numerous 
+times to check on him through his cell window. According to people in custody, they 
+alerted the “B” oﬃcer of Mr. Furse's condition after hearing him make “weird 
+noises” at 2:00 am. The oﬃcer responded and observed him unresponsive, which 
+prompted them to utilize the DOC radio to advise the “A” post oﬃcer to activate a 
+medical emergency. The “B” oﬃcer administered one application of Narcan while 
+awaiting medical staﬀ. 
+CHS staﬀ entered the unit at 2:10 am. According to CHS reports, responders found 
+Mr. Furse in bed, water and vomit on the bed, the ﬂoor, and his mouth. He showed 
+no signs of breathing, had no pulse, his pupils were ﬁxed and dilated, and he was 
+not responding to any stimuli. The team moved him from the bed to the ﬂoor and 
+began chest compressions. In addition, they connected him to a LifePak to monitor 
+his vital signs, administered two doses of Narcan and Glucagon, and connected him 
+to a Lund University Cardiopulmonary Assist System (“LUCAS”) device. EMS and 
+Urgicare arrived at 2:30 am and continued aid. At 2:47 am, EMS departed the area 
+with Mr. Furse for transport to Mount Sinai Queens Hospital. 
+
+13 
+ 
+At 3:14 am, Mount Sinai staﬀ called DOC to inform them Mr. Furse passed away. 
+After being notiﬁed of Mr. Furse’s death, DOC dispatched a Special Search Team and 
+K-9 unit to report to Mr. Furse’s housing area. The search team found 66 pills inside 
+of a cup located on the desk in the cell, two burnt rolled up papers on the sink, and 
+a burnt piece of paper on the ﬂoor in the doorway of the cell. In addition, the search 
+team found a three-inch piece of plexiglass in the common area. 
+DOC’s Special Investigations Unit assigned staﬀ to investigate this incident. The 
+investigation led to the “B” post oﬃcer receiving a 30-day suspension for: 
+• Failing to observe signs of life in each individual in the unit. 
+• Failing to be constantly alert while on duty, observing everything that takes 
+place on the post within sight or hearing, and constantly patrolling the post 
+during the tour of duty. 
+• Conduct unbecoming of an oﬃcer or employee. 
+• Conduct of nature to bring discredit to DOC. 
+• False logbook entries. 
+The Board has not received OCME records reﬂecting Mr. Furse’s cause of death.  
+3. Kyron Randall 
+Kyron Randall entered DOC custody in 
+June 2023. During the new admission 
+medical screening, he informed CHS that 
+he periodically used crystal meth, 
+methadone, suboxone, marijuana, K2, 
+and drank alcohol in the community. He 
+also informed CHS of prior diagnoses of 
+post-traumatic stress disorder (“PTSD”), 
+bipolar disorder, manic disorder, schizophrenia, and social disorder, and previously 
+prescribed medications for related symptoms. 
+Age 
+33 
+Date of death 
+December 22, 2025 
+Admission date July 2, 2023 
+Cause of death 
+Pending 
+Facility at time 
+of death 
+GRVC 
+Bail amount 
+$25,000 
+
+14 
+ 
+Due to Mr. Randall’s previous mental health history, which included chronic suicidal 
+ideation and depression, CHS advised DOC that mental observation housing was 
+most appropriate for him.12  
+From July 2023 through January 2024, CHS placed Mr. Randall on suicide watch 
+multiple times and referred him to Bellevue Hospital eight times. Throughout his 
+incarceration, CHS reported that Mr. Randall demonstrated persistent and severe 
+psychiatric decompensation as well as poor medication compliance, from zero to 
+14 percent. CHS records note that, despite transfers to specialized units such as the 
+Program for Accelerated Clinical Effectiveness (“PACE”) unit,13 and continued 
+efforts to encourage medication compliance, Mr. Randall’s psychiatric condition 
+remained unstable and could not be safely managed within DOC custody.  
+Subsequently, in May 2024, the judge assigned to Mr. Randall’s case rendered him 
+unfit to stand trial and remanded him to the custody of the New York State Office 
+of Mental Health. On May 30, 2024, Mr. Randall was transported to Mid-Hudson 
+Forensic Psychiatric Center, where he remained for restoration treatment until July 
+2, 2024.  
+On July 2, 2024, Mr. Randall returned to DOC custody. He underwent new 
+admission screening at GRVC. During the screening, Mr. Randall once again advised 
+CHS that he periodically used cocaine, marijuana, amphetamine, and heroin and 
+drank alcohol in the community before being arrested. In addition, he disclosed 
+that he had a history of schizophrenia. After completing the screening, based on 
+Mr. Randall's previous and current mental health diagnoses, CHS advised DOC to 
+assign him to the PACE unit. 
+Mr. Randall was housed in the PACE unit for the rest of his incarceration. Between 
+June 2025 and October 2025, he received three infractions: two for engaging in a 
+physical altercation with another person in custody resulting in injuries, and the 
+ 
+12 Mental observation housing is designed for individuals in custody who have signiﬁcant mental 
+health needs and would beneﬁt from increased patient-provider engagement and enhanced 
+treatment. 
+13 PACE houses individuals diagnosed with a serious mental illness who require a higher level of 
+care. 
+
+15 
+ 
+other for engaging in a struggle with the same person in custody, which did not 
+result in injuries. The hearing captain dismissed the first two infractions but found 
+him guilty of the third infraction. Mr. Randall’s housing assignment was not 
+affected as a result of the guilty disposition.  
+CHS records from admission in July 2024 through December 15, 2025 show that 
+Mr. Randall generally took his medication, missing only a few doses. Beginning on 
+December 16, 2025 through December 21, he went without medication. According 
+to CHS records, Mr. Randall did not receive his medication for various reasons, 
+including being at court, at the hospital, “no response,” and refusal. Per CHS, 
+medications are available to patients prior to leaving and upon return from court; 
+if a patient doesn’t receive a medication, for any reason, including non-production, 
+it is available at the next distribution time. 
+CHS notes reflect that Mr. Randall was fully oriented during an assessment at 9:43 
+am on December 18, 2025. He complained of having a stomachache, stating, 
+“[w]hen I went to court, they fed us hummus, and that didn’t sit well with my 
+stomach.” CHS staff advised Mr. Randall to follow up with the nurse about his 
+stomachache, but he declined. The case was discussed with the clinical supervisor, 
+and that afternoon, at 1:55 pm, the unit nurse returned to Mr. Randall’s cell and 
+attempted to speak to him. He refused. Later in the day, at 5:14 pm, another CHS 
+staff member checked on Mr. Randall. He again complained about having a 
+stomachache and loose stool. The nurse attempted to get him to exit the cell to 
+check his vital signs, but he refused, stating that he preferred to stay in his cell for 
+now. 
+In the days that followed, on December 19 and 20, CHS staff made multiple 
+attempts to get Mr. Randall out of his cell so he could be examined. Each time he 
+refused, stating that he felt better. 
+At 5:19 am on December 21, video footage captured the “B” post officer exiting the 
+unit, leaving it unsupervised for eight minutes until the area captain arrived to tour 
+at 5:27 am. Not too long after the captain completed their tour and departed the 
+unit, the “B” officer once again exited the unit at 5:58 am. The unit was left 
+unsupervised until 8:42 am, when the “B” officer reentered the area.  
+
+16 
+ 
+Medical staff entered the unit at 10:08 am. They appeared to speak to Mr. Randall 
+through the cell window. Following the interaction, they appeared to relay their 
+observations to a group of officers at the “B” post desk. One officer then left the 
+group to check on Mr. Randall. A second officer walked over to observe Mr. Randall, 
+followed by CHS staff. At 10:11 am, it appears (via video footage) that CHS staff 
+requested officers activate a medical emergency for Mr. Randall after finding him 
+in bed with his pants pulled down and unable to provide intelligible answers to 
+questions. They observed vomit soiling his bed and linen. The “B” officer 
+subsequently communicated the need for medical attention to the “A” post officer, 
+who activated a medical emergency at 10:11 am. Mr. Randall’s cell remained closed 
+during this time. While awaiting the emergency response staff a nurse talked with 
+officers at the front of the housing area, by the “B” post desk.  
+The “A” post officer did not open Mr. Randall’s cell again until CHS’s emergency 
+response staff arrived at 10:22 am. Upon arrival, they observed Mr. Randall in bed, 
+his pants below his waist, awake and alert. Initially, emergency response staff spoke 
+to Mr. Randall from outside the cell. However, at 10:29 am, an emergency response 
+staff member entered the cell, but exited after 20 seconds. Shortly after, the same 
+staffer reentered the cell for 15 seconds, then continued to observe and speak to 
+Mr. Randall from outside the cell. It appears that the emergency response staff 
+member checked Mr. Randall’s vital signs while in the cell, as records show that his 
+breathing was shallow with a respiratory rate in the low 20s. He had a rash over his 
+chest and body, and he was unable to stand. After observing Mr. Randall, 
+emergency response staff requested EMS. 
+CHS responders report that Mr. Randall’s weight, approximately 350 pounds, 
+prevented them from transporting him to the clinic, so they requested that EMS 
+report to the unit. While awaiting EMS, Mr. Randall fell out of bed. For the next 30 
+minutes, with the exception of the nurse briefly entering the cell two times, DOC 
+and CHS staff observed him from outside his cell.  
+Eventually, CHS staff entered Mr. Randall’s cell at 10:56 am, rolled him onto a 
+blanket with assistance from three individuals in the unit, carried him out of the 
+
+17 
+ 
+cell, and placed him on a gurney. CHS staff connected him to a cardiac monitor and 
+departed the area with him. 
+According to DOC, EMS arrived at GRVC at 11:00 am and entered the clinic at 11:03 
+am. At 11:07 am, CHS staﬀ arrived at the clinic with Mr. Randall. By 11:15 am, EMS 
+was measuring his blood pressure. Records show his airway and lungs were clear, 
+he breathed normally, his eyes reacted to light, and he was able to provide his 
+name. His blood pressure was high, and his oxygen levels were low, causing rapid 
+breathing. His heart rate was normal. Repeat vital signs measurements by EMS 
+showed his blood pressure dropped slightly, but oxygen remained low, and his heart 
+rate slowed. Subsequently, EMS departed GRVC for Elmhurst Hospital with Mr. 
+Randall at 11:33 am. While enroute to the hospital, EMS administered epinephrine, 
+dexamethasone, and diphenhydramine intravenously.  
+EMS arrived at Elmhurst Hospital at 12:05 pm. Upon arrival, staff connected Mr. 
+Randall to a Bilevel Positive Airway Pressure (“BIPAP”) machine. Next, staff 
+intubated him and provided more fluids intravenously. He was admitted to the 
+Medical Intensive Care Unit for further evaluation. Although admitted, the unit did 
+not have a bed, so he remained in the resuscitation and critical care room.  Mr. 
+Randall’s condition began to worsen rapidly. His blood pressure dropped and his 
+organs began to fail. Despite treatment, including multiple maximum doses of 
+vasopressors, he lost consciousness. Elmhurst staﬀ declared Mr. Randall dead at 
+12:57 am on December 22, 2025. According to hospital records, the preliminary 
+cause of death is septic shock. 
+On December 22, DOC’s Special Search Team and K-9 unit searched Mr. Randall’s 
+housing area. The search team did not recover any form of contraband. DOC’s 
+Special Investigations Unit did not note any concerns, violations, or wrongdoing 
+during the investigation. 
+The Board has not received records regarding Mr. Randall’s cause of death from 
+OCME.  
+ 
+ 
+
+18 
+ 
+Key Findings 
+DOC staﬀ abandoned assigned posts  
+The “B” post oﬃcer assigned to Mr. Furse’s and Mr. Randall’s housing area walked 
+oﬀ post to enter the “A” station multiple times during their tours. Neither oﬃcer 
+recorded a logbook entry reﬂecting that they notiﬁed their area supervisors. In one 
+instance, the oﬃcer was oﬀ post for two hours and 44 minutes. DOC Rules and 
+Regulations #7.05.070 prohibits correctional staﬀ from leaving their post without 
+approval from their supervisor or without being properly relieved. This lack of 
+supervision allowed individuals in Mr. Furse’s housing area to congregate on the tier 
+and appear to use toilet paper to obstruct cameras. According to the DOC’s Inmate 
+Rule Book Section 1-03(c)(27), “[i]nmates shall not tamper with, destroy, or 
+sabotage any security related devices or equipment.” 
+Lack of touring 
+The “B” oﬃcer assigned to Mr. Randall’s housing area did not conduct tours in 
+accordance with DOC Directive #4514R-C, which requires oﬃcers assigned to cell 
+areas to conduct visual observations at 30-minute intervals, observing for signs of 
+life in each individual. 
+Unsecured cell doors 
+The “B” post oﬃcer assigned to Mr. Furse’s housing area observed individuals 
+accessing cells other than those assigned to them during the lockout period. DOC 
+Directive #4009R-C states, “[i]ndividuals may be locked in their cells during optional 
+lock-in/lockout periods. Individuals choosing to remain locked-in during an optional 
+lock-in/lockout period may request to be locked out of their cells at the hourly 
+optional lock-in/lockout period. Individuals who are locked-out during this period 
+may request to be locked-in their cell at any time during the optional lock-in/lockout 
+period.” In this instance, individuals did not need to make a request because area 
+staﬀ did not lock cell doors throughout the day during the lockout period. 
+Individuals out cell during the mandatory lock-in period 
+DOC Directive #4009R-C notes that mandatory lock-in begins at 9:00 pm. Once 
+locked in, the next opportunity to exit the cell is 5:00 am, unless there are 
+extenuating circumstances. After 9:00 pm on December 6 and before 5:00 am on 
+
+19 
+ 
+December 7, individuals in Mr. Furse’s housing area were out of their cells, roaming 
+the tier, and passing contraband that resembled a cigarette. The “B” oﬃcer 
+observed the individuals but did not appear to make an eﬀort to have them return 
+to their cells. The “B” oﬃcer also did not record an entry in the “B” post logbook 
+noting that they notiﬁed the area supervisor that individuals were out of their cells. 
+Individuals congregating in unassigned single cells 
+DOC Directive #4517R, “Inmate Count Procedures,” prohibits multiple individuals 
+from occupying a single cell. The policy states, “[c]orrection oﬃcers shall ensure 
+each cell is occupied by the individual authorized to be in the cell. Single occupancy 
+cells shall contain one individual.” On December 6, 2025, from 8:04 pm through 
+8:34 pm, video footage showed another individual inside Mr. Furse’s cell. During a 
+tour, the oﬃcer observed the individual and instructed them to step out. 
+Inaccurate logbook entries 
+“B” post staﬀ assigned to Mr. Randall’s housing area recorded inaccurate logbook 
+entries that reﬂect 30-minute tours. Video footage showed that at the time of the 
+logbook entry, the “B” oﬃcer was oﬀ post. DOC Directive #4514R-C on housing area 
+logbooks states that logbook entries shall be made accurately and without delay. 
+Adequate supervision of person in custody in distress 
+The “B” post oﬃcer assigned to Mr. Randall’s housing area left him in his cell, 
+unsupervised, for 24 minutes while he experienced a medical emergency. DOC 
+Rules and Regulations #7.05.060 require oﬃcers to remain in close proximity to the 
+individual’s cell when there is a medical emergency in order to keep them under 
+close observation. 
+CHS emergency response staﬀ left Mr. Randall unattended while in distress 
+Emergency response medical staﬀ did not perform continuous monitoring after 
+ﬁnding Mr. Randall in distress, as required in CHS Medical Policies Section 10, 
+Emergency Response. From 10:36 am to 10:41 am and 10:52 am to 10:55 am, CHS 
+staﬀ were away from the cell. 
+Presence of contraband 
+Through surveillance video, Board staﬀ observed multiple individuals appearing to 
+possess paraphernalia that resembled a white rolled-up cigarette, in violation of 
+
+20 
+ 
+DOC’s Inmate Rule Book Section 1-03(c)(4)(103.11), which states that individuals 
+shall not make, possess, sell, or exchange any number of narcotic paraphernalia or 
+controlled substances.  
+Covered cell windows 
+Multiple individuals in Mr. Furse’s housing area partially or completely covered their 
+cell windows. DOC policy prohibits cell window coverings. DOC’s Inmate Rule Book 
+Section 1-03(c)(6)(105.24) states that individuals shall not block the view into or out 
+of any cell by placing items on the cell window. 
+Mental health history 
+Mr. Ramos, Mr. Furse and Mr. Randall all had documented mental health diagnoses. 
+While in custody, CHS mental health providers assessed them regularly and 
+prescribed medication to treat the symptoms associated with their diagnosis. 
+The Board highlighted trends cited in the Preliminary Fiscal 2026 Mayor’s 
+Management Report (“MMR”) in previous reports.14 The 2026 preliminary MMR 
+shows an upward trend of individuals in custody with a serious mental health 
+diagnosis from FY24 (20.3%) to FY25 (20.7%) to FY26 (22.0%). 
+Recommendations15 
+To CHS 
+1. CHS should reinforce and retrain staff on the necessity and requirement of 
+performing continuous monitoring after people in custody in medical 
+distress, as required in CHS Medical Policies Section 10, Emergency 
+Response. 
+ 
+14 As noted in the ﬁrst and second reports on 2025 deaths in Department custody. 
+15 Pursuant to NYC Administrative Code 9-171(h), “the department or correctional health services 
+shall respond to any recommendation included in any report about such death the board of 
+correction posts pursuant to subdivision i of section 626 of the charter to state whether the 
+department or correctional health services has determined to implement such recommendation 
+and, where the department or correctional health services has determined not to implement 
+such recommendation, the reasons for such determination.” 
+
+21 
+ 
+To DOC 
+1. Reinforce and retrain staff on basic supervision, touring, and logbook entry 
+practices, including but not limited to, correction officers’ responsibility to 
+remain on post and remain vigilant. Training should also focus on accurately 
+and legibly documenting personal breaks, meals, tours, and incidents in 
+logbooks, and tour units as required by Directive #4514R-C and Rules and 
+Regulations #2.30.010.16 
+2. Facility leadership must designate supervisors to periodically review 
+surveillance video to identify correctional staff who frequently demonstrate 
+poor touring and documenting practices inconsistent with policy. 
+Correctional staff found to be operating outside of policy must meet with 
+facility leadership before returning to their post. If deemed necessary, they 
+should also be scheduled for refresher training in the identified areas of 
+deficiency. 
+3. Housing area correctional staff must immediately notify their immediate 
+supervisor when they observe the presence or use of contraband and 
+intervene to confiscate it. DOC staff must arrange an unscheduled search of 
+the unit immediately after such notification is received and drug test the 
+individuals in custody assigned to that unit.17 
+4. The Nunez Federal Monitor’s November 8, 2023 status report highlighted an 
+audit conducted of cell doors, which found that: 
+“While the doors’ operability may be part of the problem, merely 
+ensuring the doors’ good working condition has not resolved the 
+ 
+16 As recommended in the Second Report and Recommendations on 2025 Deaths in [NYC DOC] 
+Custody, First Report and Recommendations on 2025 Deaths in [NYC DOC] Custody, Second Report 
+and Recommendations on 2024 Deaths in [NYC DOC] Custody, and Second Report and 
+Recommendations on 2023 Deaths in [NYC DOC] Custody.  
+17 Similar recommendations featured in First Report and Recommendations on 2025 Deaths in 
+[NYC DOC] Custody, First Report and Recommendations on 2023 Deaths in [NYC DOC] Custody, 
+Third Report and Recommendations on 2022 Deaths in [NYC DOC] Custody, and Second Report 
+and Recommendations on 2022 Deaths in [NYC DOC] Custody. 
+
+22 
+ 
+issue of ensuring the doors are actually locked and secured. 
+Were the underlying causes so rudimentary, the pervasive issues 
+identiﬁed would not continue once those issues have been 
+addressed. For instance, at RNDC, the Department installed 950 
+new doors over the past few years, yet incidents continue to 
+occur in which doors were not properly secured. NCU’s security 
+audit in October 2023 revealed that “Cell doors were observed 
+unsecured throughout the audit.”18  
+DOC must address the 2023 audit’s findings and conduct an updated audit, 
+if necessary, which must aim to address these root issues. DOC must 
+develop an action plan to ensure staff are securing cell doors and reporting 
+malfunctioning doors promptly, along with any other identified causes of 
+routinely unsecured cell doors, to be shared with the Board at least 30 days 
+before implementation. 
+5. Per DOC protocol, housing area correctional staff must instruct individuals to 
+remove all cell window obstructions. If verbal commands to remove all 
+coverings does not take its desired effect, staff must immediately notify a 
+supervisor and document the encounter in their logbook. Upon receiving 
+notification, a DOC supervisor must physically remove the coverings. 
+Uniformed supervisory staff must regularly monitor housing areas and audit 
+logbooks to ensure staff follow protocol.19 
+6. Post and distribute notices advising individuals in custody to comply with 
+Security Bulletin #001/13, Cell Window Obstruction/Officer Safety, effective 
+ 
+18 Status Report on DOC’s Action Plan by the Nunez Independent Monitor dated November 8, 
+2023, page 21. 
+19 As recommended in First Report and Recommendations on 2025 Deaths in [NYC DOC] Custody 
+and Second Report and Recommendations on 2023 Deaths in [NYC DOC] Custody. 
+
+23 
+ 
+January 4, 2013, or risk losing items in their cells used to obstruct staff’s 
+view.20 
+7. Utilize the Video Monitoring Unit for its intended purpose as noted in 
+Operations Order # 2/19, to support facilities in identifying security concerns 
+that include individuals using and/or in possession of illegal substances and 
+tobacco.21 Improve record keeping to track and monitor individuals found to 
+possess impermissible items. 
+8. Enforce BOC Minimum Standard §1-04 (a)(b)(1), which prohibits more than 
+one individual occupying a single cell.22 
+9. Report refusals to lock-in at 9:00 pm to the Central Operations Desk (“COD”) 
+and respond accordingly as noted in Directive #4009R-C on lock-in/lockout, 
+which may include requesting support from other DOC units. Improve 
+reporting to track and monitor housing areas where individuals refuse to 
+comply with the lock-in procedures. 
+10. Distribute teletypes reemphasizing that DOC prohibits officers from 
+departing their assignment without their supervisors’ approval or being 
+relieved as required in DOC Rules and Regulations #3.05.130.23 
+11. Retrain staff operating outside of the protocol noted in DOC Rules and 
+Regulations #7.05.060, which requires that they remain in close proximity to 
+an individual in need of medical attention in order to keep them under close 
+ 
+20 A variation of this recommendation was included in the First Report and Recommendations on 
+2025 Deaths in [NYC DOC] Custody and Second Report and Recommendations on 2023 Deaths in 
+[NYC DOC] Custody. 
+21 As recommended in the First Report and Recommendations on 2025 Deaths in [NYC DOC] 
+Custody, Second Report and Recommendations on 2025 Deaths in [NYC DOC] Custody, Second 
+Report and Recommendations on 2024 Deaths in [NYC DOC] Custody, First Report and 
+Recommendations on 2024 Deaths in [NYC DOC] Custody, and First Report and Recommendations 
+on 2023 Deaths in [NYC DOC] Custody. 
+22 As recommended in the Second Report and Recommendations on 2025 Deaths in [NYC DOC] 
+Custody. 
+23 As recommended in the Second Report and Recommendation on 2025 Deaths in [NYC DOC] 
+Custody. 
+
+24 
+ 
+observation in the event there is a need to render first aid until medical 
+response arrives.24 
+12. Remain alert on post, as required in DOC Rules and Regulations #7.05.090, 
+and report any individual observed tampering with DOC equipment. 
+ 
+24 A variation of this recommendation was featured in First Report and Recommendations on 2025 
+Deaths in [NYC DOC] Custody and Second Report and Recommendations on 2022 Deaths in [NYC 
+DOC] Custody. 
+
+Patsy Yang, DrPH 
+Senior Vice President 
+55 Water Street, 18th Floor 
+New York, New York. 10041 
+Patricia.Yang@nychhc.org  
+347-774-7000 
+               
+ 
+ 
+April 28, 2026 
+ 
+Jasmine Georges-Yilla 
+Executive Director, New York City Board of Correction 
+2 Lafayette, Suite 1221 
+New York, New York 10007 
+ 
+ 
+Dear Ms. Georges-Yilla, 
+ 
+NYC Health + Hospitals/Correctional Health Services (CHS) accepts the recommendation the Board 
+made to CHS in the Third Report and Recommendations on 2025 Deaths in DOC Custody.   
+ 
+Pursuant to NYC Administrative Code § 9-171(h), which stipulates that in most cases the NYC 
+Department of Correction and NYC Health + Hospitals/Correctional Health Services “shall respond to any 
+recommendation included in any report about such death the board of correction posts…to state whether 
+the department or correctional health services has determined to implement such recommendation and, 
+where the department or correctional health services has determined not to implement such 
+recommendation, the reasons for such determination,” CHS is providing the response below to the 
+Board’s recommendation. 
+ 
+BOC Recommendation: “CHS should reinforce and retrain staff on the necessity and requirement of 
+performing continuous monitoring after people in custody in medical distress, as required in CHS Medical 
+Policies Section 10, Emergency Response.” 
+ 
+CHS Response: CHS will continue to reinforce with clinical staff the necessity of continuously monitoring 
+patients who are in medical distress, as outlined in CHS Medical Policies Section 10, Emergency 
+Response.  
+ 
+Sincerely, 
+ 
+Patsy Yang, DrPH 
+Senior Vice President  
+ 
+ 
+ 

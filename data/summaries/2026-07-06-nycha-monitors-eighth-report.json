@@ -1,0 +1,66 @@
+{
+  "id": "2026-07-06-nycha-monitors-eighth-report",
+  "source": "monitor",
+  "auditor": "Federal monitors (NYCHA public housing)",
+  "title": "New York City Housing Authority Monitorship: Monitors' Report (Eighth Report)",
+  "plain_title": "Mold repairs speed up while heat and elevators slip",
+  "agency": "New York City Housing Authority",
+  "issued": "2026-07-06",
+  "url": "https://www.nychamonitor.com/reports",
+  "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Eighth-Report.pdf",
+  "what_they_audited": "The federal monitors' eighth quarterly report on whether the New York City Housing Authority (NYCHA) is meeting the housing conditions it promised under its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change and capital spending. It reports data for February 1, 2026 to April 30, 2026.",
+  "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to fix housing conditions, and a monitor was appointed to evaluate compliance. Neil Barofsky and Matthew Cipolla of Jenner & Block LLP began a five-year term as co-monitors on February 28, 2024.",
+  "findings": [
+    {
+      "plain": "Mold repairs got much faster. NYCHA met the agreement's mold timeframes 42% of the time in the first quarter of Year 8, up from 20% in the same period of Year 7, including removing mold within five business days 36% of the time compared with 16%. The monitors still call NYCHA substantially out of compliance with the 95% standard.",
+      "quote": "dramatically improved its response rates to mold"
+    },
+    {
+      "plain": "The mold that residents report is still overwhelmingly severe. In the first quarter of Year 8, 86% of verified mold complaints involved visible mold covering ten square feet or more, against an agreement limit of 15%.",
+      "quote": "86% of verified mold complaints"
+    },
+    {
+      "plain": "Heat came back faster but went out more often. NYCHA restored heat after in-apartment heating failures in an average of 13 hours, down from 14.6 hours at the same point last season, yet the share of occupied apartments hit by more than three heating service interruptions rose from 28% to 36% and unplanned heating outages climbed from 358 to 472.",
+      "quote": "heat in an average of 13 hours, down from an average"
+    },
+    {
+      "plain": "Elevator service slipped even though NYCHA beat one target. It resolved 89% of unplanned elevator car outages within ten hours, above the 85% requirement, but the average length of an unplanned outage grew 27% from 4.9 hours to 6.2 hours.",
+      "quote": "from 4.9 hours during the ﬁrst quarter of last year to 6.2"
+    },
+    {
+      "plain": "Pest results were mixed. NYCHA answered 98% of rat complaints within two business days against a 90% target and cut its estimated mouse population by 23% and bed bugs by 11.5%, but its estimated rat population rose 46% from the same period last year.",
+      "quote": "NYCHA’s rat population estimate in the ﬁrst quarter of"
+    },
+    {
+      "plain": "Lead work stayed on schedule. NYCHA has finished X-Ray Fluorescence (XRF) testing in about 94% of apartments presumed to have lead-based paint and has removed lead paint from 19,416 apartments, roughly 31.2% of those known to contain it, keeping it on track to abate half by 2029. Two children under six were reported with elevated blood lead levels in the quarter, down from 10 and 8 in the same period of the two prior years.",
+      "quote": "testing initiative. NYCHA has abated 19,416 apartments"
+    },
+    {
+      "plain": "The repair backlog remains enormous. NYCHA has roughly 62,000 open mold and leak work orders. Its Mold and Leak Restore and Renew program, which sends dedicated crews to the highest-need developments, has closed 1,981 work orders open for more than 100 days across four developments since August 2025, but a growing share of those closures involve no physical repair.",
+      "quote": "NYCHA has approximately 62,000 open mold and leak work"
+    }
+  ],
+  "numbers": [
+    {"value": "42%", "label": "Mold work orders done on time, first quarter of Year 8"},
+    {"value": "86%", "label": "Verified mold complaints covering ten square feet or more"},
+    {"value": "13 hours", "label": "Average time to restore heat after an in-apartment failure"},
+    {"value": "27%", "label": "Rise in average length of an unplanned elevator outage"},
+    {"value": "19,416", "label": "Apartments with lead paint removed as of April 30, 2026"},
+    {"value": "46%", "label": "Rise in the estimated rat population from a year earlier"},
+    {"value": "62,000", "label": "Open mold and leak work orders"},
+    {"value": "$1.6 billion", "label": "Total city capital funding under the agreement"}
+  ],
+  "recommendations": [
+    "Secure enough money for both operating costs and capital repairs, which the monitors say NYCHA needs to fully comply with the agreement, especially given possible federal budget cuts.",
+    "Keep up the work on the mold and leak crew program, the new contract management group and the improved tracking of supervisory inspections.",
+    "Tailor efforts to get into apartments so crews reach residents who will grant access without repeatedly spending time on those who will not.",
+    "Use the dedicated mold and leak crews for the hands-on repair work the program was created to do, rather than closing work orders administratively.",
+    "Finish defining contract management roles with input from the staff most involved, including neighborhood contract managers, then communicate those roles to relevant staff.",
+    "Centralize management of the Transformation Plan initiatives and resources, standardize performance indicators across departments and build a framework for measuring whether the initiatives actually improve service."
+  ],
+  "agency_response": "The monitors describe NYCHA's leaders and staff as taking a constructive and collaborative approach. NYCHA launched its Contract Management Initiative in December 2025, delivered upgrades to its Maximo work order system a month ahead of schedule and expects a system for tracking supervisory inspections of maintenance workers by August 2026, months earlier than planned.",
+  "implementation_note": "",
+  "compliance_note": "The monitors say NYCHA has continued to build on earlier progress and should be commended, while several important areas still need work and NYCHA remains substantially out of compliance with the agreement's mold requirements. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+  "topics": ["housing", "money and contracts"],
+  "is_followup": false
+}

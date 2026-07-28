@@ -235,6 +235,99 @@
    "is_followup": false
   },
   {
+   "id": "2026-07-06-nycha-monitors-eighth-report",
+   "source": "monitor",
+   "auditor": "Federal monitors (NYCHA public housing)",
+   "title": "New York City Housing Authority Monitorship: Monitors' Report (Eighth Report)",
+   "plain_title": "Mold repairs speed up while heat and elevators slip",
+   "agency": "New York City Housing Authority",
+   "issued": "2026-07-06",
+   "url": "https://www.nychamonitor.com/reports",
+   "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Eighth-Report.pdf",
+   "what_they_audited": "The federal monitors' eighth quarterly report on whether the New York City Housing Authority (NYCHA) is meeting the housing conditions it promised under its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change and capital spending. It reports data for February 1, 2026 to April 30, 2026.",
+   "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to fix housing conditions, and a monitor was appointed to evaluate compliance. Neil Barofsky and Matthew Cipolla of Jenner & Block LLP began a five-year term as co-monitors on February 28, 2024.",
+   "findings": [
+    {
+     "plain": "Mold repairs got much faster. NYCHA met the agreement's mold timeframes 42% of the time in the first quarter of Year 8, up from 20% in the same period of Year 7, including removing mold within five business days 36% of the time compared with 16%. The monitors still call NYCHA substantially out of compliance with the 95% standard.",
+     "quote": "dramatically improved its response rates to mold"
+    },
+    {
+     "plain": "The mold that residents report is still overwhelmingly severe. In the first quarter of Year 8, 86% of verified mold complaints involved visible mold covering ten square feet or more, against an agreement limit of 15%.",
+     "quote": "86% of verified mold complaints"
+    },
+    {
+     "plain": "Heat came back faster but went out more often. NYCHA restored heat after in-apartment heating failures in an average of 13 hours, down from 14.6 hours at the same point last season, yet the share of occupied apartments hit by more than three heating service interruptions rose from 28% to 36% and unplanned heating outages climbed from 358 to 472.",
+     "quote": "heat in an average of 13 hours, down from an average"
+    },
+    {
+     "plain": "Elevator service slipped even though NYCHA beat one target. It resolved 89% of unplanned elevator car outages within ten hours, above the 85% requirement, but the average length of an unplanned outage grew 27% from 4.9 hours to 6.2 hours.",
+     "quote": "from 4.9 hours during the ﬁrst quarter of last year to 6.2"
+    },
+    {
+     "plain": "Pest results were mixed. NYCHA answered 98% of rat complaints within two business days against a 90% target and cut its estimated mouse population by 23% and bed bugs by 11.5%, but its estimated rat population rose 46% from the same period last year.",
+     "quote": "NYCHA’s rat population estimate in the ﬁrst quarter of"
+    },
+    {
+     "plain": "Lead work stayed on schedule. NYCHA has finished X-Ray Fluorescence (XRF) testing in about 94% of apartments presumed to have lead-based paint and has removed lead paint from 19,416 apartments, roughly 31.2% of those known to contain it, keeping it on track to abate half by 2029. Two children under six were reported with elevated blood lead levels in the quarter, down from 10 and 8 in the same period of the two prior years.",
+     "quote": "testing initiative. NYCHA has abated 19,416 apartments"
+    },
+    {
+     "plain": "The repair backlog remains enormous. NYCHA has roughly 62,000 open mold and leak work orders. Its Mold and Leak Restore and Renew program, which sends dedicated crews to the highest-need developments, has closed 1,981 work orders open for more than 100 days across four developments since August 2025, but a growing share of those closures involve no physical repair.",
+     "quote": "NYCHA has approximately 62,000 open mold and leak work"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "42%",
+     "label": "Mold work orders done on time, first quarter of Year 8"
+    },
+    {
+     "value": "86%",
+     "label": "Verified mold complaints covering ten square feet or more"
+    },
+    {
+     "value": "13 hours",
+     "label": "Average time to restore heat after an in-apartment failure"
+    },
+    {
+     "value": "27%",
+     "label": "Rise in average length of an unplanned elevator outage"
+    },
+    {
+     "value": "19,416",
+     "label": "Apartments with lead paint removed as of April 30, 2026"
+    },
+    {
+     "value": "46%",
+     "label": "Rise in the estimated rat population from a year earlier"
+    },
+    {
+     "value": "62,000",
+     "label": "Open mold and leak work orders"
+    },
+    {
+     "value": "$1.6 billion",
+     "label": "Total city capital funding under the agreement"
+    }
+   ],
+   "recommendations": [
+    "Secure enough money for both operating costs and capital repairs, which the monitors say NYCHA needs to fully comply with the agreement, especially given possible federal budget cuts.",
+    "Keep up the work on the mold and leak crew program, the new contract management group and the improved tracking of supervisory inspections.",
+    "Tailor efforts to get into apartments so crews reach residents who will grant access without repeatedly spending time on those who will not.",
+    "Use the dedicated mold and leak crews for the hands-on repair work the program was created to do, rather than closing work orders administratively.",
+    "Finish defining contract management roles with input from the staff most involved, including neighborhood contract managers, then communicate those roles to relevant staff.",
+    "Centralize management of the Transformation Plan initiatives and resources, standardize performance indicators across departments and build a framework for measuring whether the initiatives actually improve service."
+   ],
+   "agency_response": "The monitors describe NYCHA's leaders and staff as taking a constructive and collaborative approach. NYCHA launched its Contract Management Initiative in December 2025, delivered upgrades to its Maximo work order system a month ahead of schedule and expects a system for tracking supervisory inspections of maintenance workers by August 2026, months earlier than planned.",
+   "implementation_note": "",
+   "compliance_note": "The monitors say NYCHA has continued to build on earlier progress and should be commended, while several important areas still need work and NYCHA remains substantially out of compliance with the agreement's mold requirements. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+   "topics": [
+    "housing",
+    "money and contracts"
+   ],
+   "is_followup": false
+  },
+  {
    "id": "2026-06-29-monitor-30th-report-stop-frisk-compliance-snapshot",
    "source": "monitor",
    "auditor": "Federal monitor (NYPD stop and frisk)",
@@ -315,6 +408,182 @@
    "is_followup": false
   },
   {
+   "id": "2026-06-18-boc-observation-aide-assessment",
+   "source": "other",
+   "auditor": "New York City Board of Correction",
+   "title": "Suicide Prevention in City Jails: March 2026 Observation Aide Assessment",
+   "plain_title": "Suicide watch aides missing from about a third of special units",
+   "agency": "New York City Department of Correction",
+   "issued": "2026-06-18",
+   "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+   "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/Reports/BOC-Reports/BOC-March-2026-Observation-Aide-Assessment.pdf",
+   "what_they_audited": "Staff of the New York City Board of Correction (BOC), the city's jail oversight board, ran two structured audits in March and early April 2026 of the New York City Department of Correction's (DOC) Observation Aide program, which uses trained people in custody to watch over units where individuals may be at risk of suicide. Auditors visited housing areas, reviewed logbooks and interviewed aides and correction officers.",
+   "background": "New York City Charter section 626(e) charges the Board with setting minimum standards for the care and supervision of people held by DOC, and city rules require DOC to run an Observation Aide program to monitor individuals at risk of suicide. Under DOC's directive, aides must tour designated housing areas every 10 minutes, and if no aide is assigned uniformed staff must tour every 15 minutes.",
+   "findings": [
+    {
+     "plain": "In the March baseline survey, 41 of the 62 housing units visited had an observation aide assigned and present. About one in three units had no aide at the time of inspection.",
+     "quote": "about one in three units lacked coverage"
+    },
+    {
+     "plain": "Officer paperwork was almost always incomplete. In only 4 of the 41 staffed units did the control room officer record the aide's name and identifying number in the logbook as DOC's directive requires.",
+     "quote": "only 4 (9.8%) had proper “A” post officer"
+    },
+    {
+     "plain": "Where no aide was assigned, the backup safeguard often did not happen. Only 7 of 21 unstaffed units met the 15-minute tour requirement, and staff in one restrictive housing area said they skipped the tours when nobody was on suicide watch.",
+     "quote": "if there is no suicide watch on the tier, we do not make"
+    },
+    {
+     "plain": "Aides frequently lacked the gear they need. Only 11 of the 41 staffed units had all required equipment, with flashlights, logbooks and working clocks the most common items missing, and some aides used tablets or televisions to time their rounds.",
+     "quote": "Only 11 of 41 staffed units (26.8%) had all required equipment."
+    },
+    {
+     "plain": "The follow-up audit three weeks later found real gains. Aide coverage, aide logbook use and equipment availability all rose.",
+     "quote": "Observation aide coverage improved (66.1% to 82.8%)"
+    },
+    {
+     "plain": "Two measures stayed weak or got worse. Officer documentation moved only from 9.8 percent to 12.5 percent, and 15-minute tour compliance in units without an aide fell from 33.3 percent to 20 percent.",
+     "quote": "remained low (9.8% to 12.5%)"
+    },
+    {
+     "plain": "One unit was outside the program entirely. Officers do not let people housed in the Rose M. Singer Enhanced Supervision Housing (RESH) serve as observation aides, citing security risk, and staff there log tours every 30 minutes rather than the 15 minutes the policy requires when no aide is present.",
+     "quote": "allow individuals in RESH to participate in the Observation Aide program"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "62 housing areas",
+     "label": "Housing areas visited in the March baseline audit"
+    },
+    {
+     "value": "41 of the 62 housing units",
+     "label": "Units with an observation aide present at baseline"
+    },
+    {
+     "value": "9.8%",
+     "label": "Units with correct officer logbook entries at baseline"
+    },
+    {
+     "value": "12.5%",
+     "label": "Units with correct officer logbook entries at follow-up"
+    },
+    {
+     "value": "26.8%",
+     "label": "Staffed units with all required equipment at baseline"
+    },
+    {
+     "value": "45.8%",
+     "label": "Staffed units with all required equipment at follow-up"
+    },
+    {
+     "value": "33.3%",
+     "label": "Unstaffed units meeting 15-minute tours at baseline"
+    },
+    {
+     "value": "82.8%",
+     "label": "Units with observation aide coverage at follow-up"
+    }
+   ],
+   "recommendations": [
+    "Policy 1: Area supervisors must make sure \"B\" post officers conduct 15-minute tours in specialized units that have no observation aide, as Directive #4017R-D requires.",
+    "Policy 2: RESH should start using observation aides on a modified alternating schedule tied to tier lockdowns, per Directive #4009-R on lock-in and lockout.",
+    "Review 1: Correctional staff should ask observation aides and housing area staff for feedback to identify barriers and improve operations.",
+    "Coordination 1: Facility programs or job assignment staff should send out updated observation aide rosters every week so everyone knows who is covering which unit.",
+    "Coordination 2: The Eric M. Taylor Center should train and assign qualified city sentenced candidates as observation aides to offset high turnover in intake areas.",
+    "Reporting 1: \"A\" post officers must write the name of the observation aide on duty in the \"A\" post logbook.",
+    "Reporting 2: Leadership should set up a centralized inventory system with routine audits so aides have required equipment such as flashlights, logbooks, vests and clocks."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "health"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2026-06-17-annual-anti-corruption-report-2025",
+   "source": "doi",
+   "auditor": "Department of Investigation",
+   "title": "2025 Annual Anti-Corruption Report",
+   "plain_title": "Half of city agencies have no internal audit plan",
+   "agency": "New York City agencies (citywide)",
+   "issued": "2026-06-17",
+   "url": "https://www.nyc.gov/assets/doi/reports/pdf/2026/13AnnualAntiCorrRpt.Release.06.17.2026.pdf",
+   "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2026/13AnnualAntiCorrRpt.Release.06.17.2026.pdf",
+   "what_they_audited": "The Department of Investigation (DOI) surveyed city agencies about their internal auditing capacity: who performs audits, whether agencies can hire and keep auditors, what kinds of audits they run, whether they have an audit plan and whether they buy outside audit services. The report covers October 1, 2024, through September 30, 2025, and draws on responses from 50 agencies.",
+   "background": "Mayoral Executive Order No. 105 makes the DOI commissioner the city's independent inspector general and requires this annual report. City Charter section 389(a) requires agency heads to maintain an internal control system that reduces the agency's vulnerability to fraud, waste, abuse, error, conflict of interest and corruption. Like DOI's other annual anti-corruption reports, this one summarizes what agencies report about themselves rather than DOI's own investigative findings.",
+   "findings": [
+    {
+     "plain": "Seventy percent of responding agencies have staff who perform internal audit functions, and 30 percent have no such staff at all.",
+     "quote": "A majority of agencies (70%) reported having staff who perform internal audit \nfunctions, while 30% reported that they do not  have such staff."
+    },
+    {
+     "plain": "Agencies split evenly on whether they have an internal audit plan, which sets out the audit work expected over a given period. DOI notes that having one is best practice.",
+     "quote": "Internal audit plans enhance the ability of agencies to achieve their \nobjectives, and it is best practice to have one."
+    },
+    {
+     "plain": "Seventeen agencies had fewer auditors actually working than their budget allowed. Nine agencies whose budgeted audit headcount fell between January 2022 and September 2025 blamed attrition, vacancy reductions or extended vacancies and citywide budget cuts.",
+     "quote": "they cited attrition, vacancy reductions or extended vacancies, and Citywide budget \nreductions, among other rea sons."
+    },
+    {
+     "plain": "Sixteen of the 50 agencies reported trouble recruiting or keeping auditors, pointing to funding, salary levels and difficulty finding qualified candidates, along with hiring freezes and long hiring approvals.",
+     "quote": "numerous \nagencies cited issues of funding, salary and financial compensation, and identifying \nqualified candidates."
+    },
+    {
+     "plain": "Most agencies said their auditors issue written reports and make recommendations for improvement, and several described tracking corrective action through follow-up audits, management reviews and tools for open action plans.",
+     "quote": "the majority of agencies also reported that their auditors \nmake recommendations for improvement."
+    },
+    {
+     "plain": "Seven agencies said their auditing staff reported findings from completed audits to DOI during the year.",
+     "quote": "Seven agencies also reported that in the last year, the ir respective  auditing \nstaff/departments had made a report to DOI regarding findings from performed or \ncompleted audits."
+    },
+    {
+     "plain": "Twenty-one of the 50 agencies had hired outside auditors in the past five years. Agencies without internal auditors were not more likely to buy external audits: of the 15 agencies with no internal audit staff, only one had procured an external audit in that period.",
+     "quote": "agencies without inte rnal auditors were not more likely to hire external \nauditors."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "70%",
+     "label": "Agencies with staff performing internal audit functions"
+    },
+    {
+     "value": "Seventeen agencies",
+     "label": "Agencies with fewer active auditors than budgeted"
+    },
+    {
+     "value": "Sixteen of the 50 agencies",
+     "label": "Agencies reporting auditor recruitment or retention problems"
+    },
+    {
+     "value": "Thirty-three agencies",
+     "label": "Agencies whose auditors make recommendations"
+    },
+    {
+     "value": "42%",
+     "label": "Agencies that hired outside auditors in five years"
+    },
+    {
+     "value": "Seven agencies",
+     "label": "Agencies that referred audit findings to DOI"
+    }
+   ],
+   "recommendations": [
+    "City agencies should conduct audits on a consistent basis.",
+    "Agencies that do not have an internal audit plan should consider putting one together.",
+    "Agencies should review their existing auditing frameworks with the aim of maximizing audit capacity in a way that still fits the agency's overall capacity and specific mission."
+   ],
+   "agency_response": "The report is based on the agencies' own questionnaire responses. The commissioner thanked the responding agencies for assessing their audit functions and answering DOI's questionnaire.",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "transparency",
+    "money and contracts"
+   ],
+   "is_followup": false
+  },
+  {
    "id": "2026-06-17-twenty-first-monitor-report",
    "source": "monitor",
    "auditor": "Nunez independent monitor (Rikers jails)",
@@ -372,6 +641,90 @@
    "compliance_note": "The monitor reports the risk of harm in the jails remains unreasonably high for incarcerated people and staff, with the department's entrenched problem centers showing little to no change despite years of work and multiple court orders.",
    "topics": [
     "public safety"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2026-06-12-lv-auditor-january-2026-limited-review",
+   "source": "monitor",
+   "auditor": "Independent auditor (NYC special education hearing orders)",
+   "title": "Independent Auditor's Post Corrective Action January 2026 Limited Review",
+   "plain_title": "Special education orders: 36% of services, 13% of payments on time",
+   "agency": "New York City Public Schools",
+   "issued": "2026-06-12",
+   "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/DOEIndependentAudit_PostCorrectiveAction_JanuaryLimitedReview_Final.pdf",
+   "what_they_audited": "A one-month limited review by the court-appointed independent auditor, Guidehouse, measuring whether the New York City Department of Education (DOE) carried out orders issued by Impartial Hearing Officers in special education cases on time. It covers orders issued between November 27 and December 27, 2025 whose individual tasks, called Action Items, were finally due in January 2026.",
+   "background": "Advocates for Children of New York (AFC) and the law firm Milbank filed the class action L.V. v. D.O.E. in 2003 on behalf of parents of special needs children who won hearing orders against the DOE but did not get them carried out fully and on time. A 2007 Stipulation and Agreement of Settlement requires an independent auditor to report on how much of what hearing officers order is Timely Implemented, meaning done within the time the order sets or within 35 days if it sets none.",
+   "findings": [
+    {
+     "plain": "The department implemented on time 12.8% of payment orders, 11.7% of payment action items, 36.4% of service orders and 33.4% of service action items in the January 2026 window.",
+     "quote": "determined that the DOE timely implemented 12.8% of Payment Orders, 11.7% of"
+    },
+    {
+     "plain": "Those rates were a large jump from recent full quarters. Across the last eight quarterly reports the department had averaged 3.0% of payment orders and 8.7% of service orders on time.",
+     "quote": "average, 3.0% of Payment Orders, 3.2% of Payment Actions, 8.7% of Service Orders"
+    },
+    {
+     "plain": "Even with the improvement, the auditor stressed that on-time performance stayed low, below 13% for payments and below 37% for services.",
+     "quote": "Timely Implemented Payment Action Items remain below 13% and Timely"
+    },
+    {
+     "plain": "Payments remained the biggest failure. Of 1,115 counted payment action items, 985 were unimplemented, and the prospective payment group as a whole was carried out on time only 9.3% of the time.",
+     "quote": "Guidehouse reviewed the 1,115 counted Payment Action Items and noted 939 Action"
+    },
+    {
+     "plain": "Some categories of ordered services failed entirely. Nothing in the CSE Evaluation category was done on time, and nearly all orders to reconvene a hearing or meeting or to offer a placement were missed too.",
+     "quote": "CSE Evaluation (100.0%), followed by Reconvene Hearing or Meeting (94.4%) and"
+    },
+    {
+     "plain": "Three categories of prospective payments were never made on time: private evaluations that had been ordered, ABA Therapy and counseling.",
+     "quote": "category were Private Evaluations Ordered (100.0%), ABA Therapy (100.0%) and..."
+    },
+    {
+     "plain": "Not everything the hearing system produced counted toward the score. The auditor set aside 5 orders and 18 action items as Uncounted, found 154 orders that contained no action items at all and put another 66 orders plus 33 action items outside the scope of review.",
+     "quote": "In addition, Guidehouse determined that 5 Orders and 18 Action Items issued during"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "36.4%",
+     "label": "Service orders carried out on time"
+    },
+    {
+     "value": "12.8%",
+     "label": "Payment orders carried out on time"
+    },
+    {
+     "value": "33.4%",
+     "label": "Service action items carried out on time"
+    },
+    {
+     "value": "11.7%",
+     "label": "Payment action items carried out on time"
+    },
+    {
+     "value": "1,115",
+     "label": "Payment action items counted in the review"
+    },
+    {
+     "value": "985",
+     "label": "Payment action items left unimplemented"
+    },
+    {
+     "value": "154",
+     "label": "Orders issued that contained no action items"
+    }
+   ],
+   "recommendations": [
+    "The report makes no new formal recommendations."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "On-time compliance rose sharply compared with the department's final quarterly reports, but the auditor noted it stayed below 13% for payments and below 37% for services, meaning most hearing orders in the month reviewed were still not carried out on time.",
+   "topics": [
+    "education",
+    "children and youth"
    ],
    "is_followup": false
   },
@@ -445,6 +798,90 @@
    "is_followup": true,
    "implementation_note": "",
    "compliance_note": ""
+  },
+  {
+   "id": "2026-05-15-lv-auditor-sixtieth-quarterly-report",
+   "source": "monitor",
+   "auditor": "Independent auditor (NYC special education hearing orders)",
+   "title": "Independent Auditor's Post Corrective Action Sixtieth Quarterly Report",
+   "plain_title": "Fewer than 5% of special education hearing orders carried out on time",
+   "agency": "New York City Public Schools",
+   "issued": "2026-05-15",
+   "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/DOEIndependentAudit_PostCorrectiveAction_SixtiethQuarterReport_Final.pdf",
+   "what_they_audited": "The sixtieth quarterly report by the court-appointed independent auditor, Guidehouse, measuring whether the New York City Department of Education (DOE) carried out special education hearing orders on time. It covers orders issued from April 9 through July 8, 2024, with individual tasks, called Action Items, finally due between May 14 and August 12, 2024.",
+   "background": "Advocates for Children of New York (AFC) and the law firm Milbank filed the class action L.V. v. D.O.E. in 2003 on behalf of parents of special needs children who won orders from Impartial Hearing Officers against the DOE but did not get them carried out fully and on time. A 2007 Stipulation and Agreement of Settlement requires an independent auditor to report each quarter on how much is Timely Implemented, meaning done within the time the order sets or within 35 days if it sets none.",
+   "findings": [
+    {
+     "plain": "The department carried out on time 2.2% of payment orders, 2.4% of payment action items, 4.8% of service orders and 3.9% of service action items during the quarter.",
+     "quote": "DOE timely implemented 2.2% of Payment Orders, 2.4% of Payment Action Items,"
+    },
+    {
+     "plain": "Performance got worse rather than better. On-time rates fell from the eight preceding quarterly reports, which averaged 8.4% for service orders and 3.2% for payment orders.",
+     "quote": "Guidehouse identified a decrease in the percentage of Timely Implemented Orders"
+    },
+    {
+     "plain": "The auditor noted that payment compliance stayed under 3% and service compliance dropped under 5% for the quarter.",
+     "quote": "Timely Implemented Payment Action Items remains below 3% and Timely"
+    },
+    {
+     "plain": "The volume of missed work was large. Of 7,159 counted payment action items, 6,990 were unimplemented, and of 2,689 counted service action items, 2,583 were unimplemented.",
+     "quote": "Guidehouse reviewed the 7,159 counted Payment Action Items and noted 5,922"
+    },
+    {
+     "plain": "Several service categories failed completely: no ordered correspondence and no physical therapy was delivered on time, and the CSE Evaluation category failed 99.2% of the time.",
+     "quote": "Correspondence (100.0%), followed by Physical Therapy (100.0%) and CSE"
+    },
+    {
+     "plain": "On the payment side, privately ordered evaluations were never paid on time, and compensatory services and counseling payments failed almost every time.",
+     "quote": "category were Private Evaluations Ordered (100.0%), followed by Compensatory"
+    },
+    {
+     "plain": "The auditor set aside 9 orders and 17 action items as Uncounted, identified 1,235 orders that contained no action items and placed another 439 orders plus 131 action items outside the scope of review.",
+     "quote": "In addition, Guidehouse determined that 9 Orders and 17 Action Items issued during"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "4.8%",
+     "label": "Service orders carried out on time"
+    },
+    {
+     "value": "2.2%",
+     "label": "Payment orders carried out on time"
+    },
+    {
+     "value": "3.9%",
+     "label": "Service action items carried out on time"
+    },
+    {
+     "value": "2.4%",
+     "label": "Payment action items carried out on time"
+    },
+    {
+     "value": "7,159",
+     "label": "Payment action items counted in the quarter"
+    },
+    {
+     "value": "6,990",
+     "label": "Payment action items left unimplemented"
+    },
+    {
+     "value": "1,235",
+     "label": "Orders issued that contained no action items"
+    }
+   ],
+   "recommendations": [
+    "The report makes no new formal recommendations."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "The auditor found compliance fell in this quarter compared with the eight before it: fewer than 5% of service orders and fewer than 3% of payment orders were carried out on time, leaving 95% to 98% of everything measured unimplemented.",
+   "topics": [
+    "education",
+    "children and youth"
+   ],
+   "is_followup": false
   },
   {
    "id": "review-of-the-citys-animal-population-control-efforts",
@@ -653,6 +1090,102 @@
     "children and youth",
     "social services",
     "transparency"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2026-05-01-boc-third-report-2025-deaths",
+   "source": "other",
+   "auditor": "New York City Board of Correction",
+   "title": "Third Report and Recommendations on 2025 Deaths in New York City Department of Correction Custody",
+   "plain_title": "Missed tours and abandoned posts before three jail deaths",
+   "agency": "New York City Department of Correction",
+   "issued": "2026-05-01",
+   "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+   "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/Third-Report-and-Recommendations-on-2025-Deaths-and-CHS-Response.pdf",
+   "what_they_audited": "The New York City Board of Correction (BOC), the city's jail oversight board, investigated the deaths of Edwin Ramos, Aramis Furse and Kyron Randall, three people who died in November and December 2025 in the custody of the New York City Department of Correction (DOC). Board staff reviewed DOC, medical, medical examiner, emergency medical and hospital records, surveillance and body-worn camera video, and interviewed staff and people in custody.",
+   "background": "The New York City Charter and city rules require the Board to investigate deaths in DOC custody and to recommend measures to DOC and NYC Health + Hospitals/Correctional Health Services (CHS) that could prevent the circumstances that contributed to a death. The Board says these investigations look for systemic flaws and policy failures rather than criminality, and this is its third report on the 15 people who died in custody in 2025.",
+   "findings": [
+    {
+     "plain": "Officers left their assigned housing area posts repeatedly during the tours in which Mr. Furse and Mr. Randall died, without logging that they had told a supervisor. In one case the officer was away from the post for nearly three hours.",
+     "quote": "the oﬃcer was oﬀ post for two hours and 44 minutes"
+    },
+    {
+     "plain": "The officer assigned to Mr. Randall's housing area did not tour as DOC policy requires, which calls for a visual check for signs of life in every person in a cell area twice an hour.",
+     "quote": "conduct visual observations at 30-minute intervals"
+    },
+    {
+     "plain": "Logbook entries in Mr. Randall's unit recorded 30-minute tours that video shows did not happen, because the officer was not on the post at the times logged.",
+     "quote": "logbook entry, the “B” oﬃcer was oﬀ post"
+    },
+    {
+     "plain": "When Mr. Randall was found in medical distress, the housing officer left him alone in his cell for 24 minutes, contrary to DOC rules requiring staff to stay close to a person needing medical attention.",
+     "quote": "unsupervised, for 24 minutes while he experienced a medical emergency"
+    },
+    {
+     "plain": "CHS emergency responders also stepped away from Mr. Randall twice while he was in distress, which CHS policy on emergency response does not allow.",
+     "quote": "CHS emergency response staﬀ left Mr. Randall unattended while in distress"
+    },
+    {
+     "plain": "Supervision lapses let people in Mr. Furse's unit stay out of their cells after the 9:00 pm mandatory lock-in, gather in single cells assigned to someone else, cover fixed cameras with tissues and pass items that looked like rolled cigarettes. Video in Mr. Ramos' unit also showed apparent drug paraphernalia in use.",
+     "quote": "individuals in Mr. Furse’s housing area were out of their cells, roaming"
+    },
+    {
+     "plain": "Cell windows in Mr. Furse's housing area were blocked, obstructing officers' view into the cells, which DOC's own rule book prohibits.",
+     "quote": "Multiple individuals in Mr. Furse’s housing area partially or completely covered their"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "15 individuals died",
+     "label": "People who died in DOC custody in 2025"
+    },
+    {
+     "value": "two hours and 44 minutes",
+     "label": "Longest single stretch an officer was off post"
+    },
+    {
+     "value": "24 minutes",
+     "label": "Time Mr. Randall was left alone during his emergency"
+    },
+    {
+     "value": "30-day suspension",
+     "label": "Discipline given to the officer in Mr. Furse's unit"
+    },
+    {
+     "value": "66 pills",
+     "label": "Pills found in Mr. Furse's cell after his death"
+    },
+    {
+     "value": "eight times",
+     "label": "Times Mr. Randall was referred to Bellevue Hospital"
+    },
+    {
+     "value": "22.0%",
+     "label": "Share of people in custody with serious mental illness, FY26"
+    }
+   ],
+   "recommendations": [
+    "To CHS 1: CHS should reinforce and retrain staff on the requirement to continuously monitor people in custody who are in medical distress, as set out in CHS Medical Policies Section 10 on emergency response.",
+    "To DOC 1: Reinforce and retrain staff on basic supervision, touring and logbook practices, including staying on post, staying alert and accurately documenting breaks, meals, tours and incidents.",
+    "To DOC 2: Facility leadership must assign supervisors to periodically review surveillance video to spot officers who tour and document poorly, require those officers to meet with leadership before returning to post and schedule refresher training when needed.",
+    "To DOC 3: Housing area staff must immediately notify a supervisor when they see contraband and step in to confiscate it, and DOC must then arrange an unscheduled search of the unit and drug test the people housed there.",
+    "To DOC 4: DOC must address the findings of the 2023 cell door audit cited by the Nunez federal monitor, conduct an updated audit if needed and develop an action plan for securing cell doors and promptly reporting broken ones, to be shared with the Board at least 30 days before it is put in place.",
+    "To DOC 5: Staff must tell people in custody to remove cell window coverings, notify a supervisor and log the encounter if that does not work, have a supervisor physically remove the coverings, and have supervisors regularly monitor housing areas and audit logbooks.",
+    "To DOC 6: Post and distribute notices telling people in custody to comply with the security bulletin on cell window obstruction or risk losing the items used to block the view.",
+    "To DOC 7: Use the Video Monitoring Unit as intended to help facilities spot security problems including drug and tobacco use, and improve records tracking people found with prohibited items.",
+    "To DOC 8: Enforce the Board's Minimum Standard barring more than one person from occupying a single cell.",
+    "To DOC 9: Report refusals to lock in at 9:00 pm to the Central Operations Desk and respond as the lock-in and lockout directive requires, which may include calling in other DOC units, and improve reporting to track housing areas where people refuse to lock in.",
+    "To DOC 10: Send out teletypes restating that officers may not leave their assignment without a supervisor's approval or being relieved.",
+    "To DOC 11: Retrain staff who do not follow the rule requiring them to stay close to a person needing medical attention so the person stays under close observation until medical responders arrive.",
+    "To DOC 12: Stay alert on post as the rules require and report anyone seen tampering with DOC equipment."
+   ],
+   "agency_response": "In a letter appended to the report, CHS accepted the single recommendation directed to it and said it will continue to reinforce with clinical staff the need to continuously monitor patients in medical distress. The report does not include a DOC response.",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "health"
    ],
    "is_followup": false
   },
@@ -1104,6 +1637,102 @@
    "is_followup": false,
    "implementation_note": "",
    "compliance_note": ""
+  },
+  {
+   "id": "2026-04-07-nycha-monitors-second-annual-report",
+   "source": "monitor",
+   "auditor": "Federal monitors (NYCHA public housing)",
+   "title": "New York City Housing Authority Monitorship: Monitors' Report (Second Annual Report, Seventh Overall)",
+   "plain_title": "Year seven: pests and mold improve, elevators and IT go backward",
+   "agency": "New York City Housing Authority",
+   "issued": "2026-04-07",
+   "url": "https://www.nychamonitor.com/reports",
+   "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-SEVENTH-Report-MASTER-FINAL.pdf",
+   "what_they_audited": "The federal monitors' annual review of the New York City Housing Authority (NYCHA) for the seventh year of the monitorship, January 31, 2025 to January 31, 2026. It covers the six property areas of the 2019 agreement with the federal government, heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus the 47 initiatives in NYCHA's Transformation Plan, capital spending and the monitors' own budget.",
+   "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to fix housing conditions, and a monitor was appointed. About two-thirds of NYCHA's funding comes from federal grants, and the monitors write that contemplated federal budget cuts could cost NYCHA as much as $100 million starting next year.",
+   "findings": [
+    {
+     "plain": "Pest response times improved sharply while pest populations went the other way. NYCHA answered 87% of mouse, cockroach and bed bug complaints within seven calendar days, a 22 percentage point jump, and kept meeting its rat targets at 98% within two business days. But its estimated populations rose 19% for rats, 39% for mice, 21% for bed bugs and 4% for cockroaches compared with Year 6, though all four remain far below where they stood at the start of the monitorship.",
+     "quote": "increased from Year 6, with a 19% increase for rats, 39% for"
+    },
+    {
+     "plain": "Mold work improved but stayed far short of the standard. NYCHA met the agreement's mold timeframes 29% of the time, up from 9% in Year 6 and well below the 95% requirement, and average remediation time fell from 120 days in Year 4 to 12 days. Severity remains a problem, with 85% of complaints involving mold covering ten square feet or more, and the combined mold and leak backlog is over 65,000 open work orders.",
+     "quote": "mold and leak backlog—over 65,000 open work orders—"
+    },
+    {
+     "plain": "NYCHA finished its boiler obligation a year early, replacing 198 boilers itself and transferring 698 to private partners who replaced 462, but heating outages rose. There were 307 unplanned central heating outages in the first half of the 2025-2026 season against 206 a year earlier, affecting 61% of occupied apartments compared with 54%.",
+     "quote": "there have been 307 unplanned central heating outages,"
+    },
+    {
+     "plain": "Elevator performance stalled or declined after three years of gains. NYCHA finally completed its obligation to replace or modernize 275 elevators, a year late, and restored service within ten hours for 89% of unplanned outages, but the average outage lasted 6.5 hours, 16% worse than the 5.6 hours of the prior year.",
+     "quote": "elevator outages in an average of 6.5 hours per outage,"
+    },
+    {
+     "plain": "HUD inspection results improved markedly. NYCHA passed 64 of 89 inspections in 2025, or 72%, compared with 46% of 138 inspections in 2024, and completed annual self-inspections in 95% of occupied apartments, up from 91%. The monitors found HUD had flagged problems NYCHA's own inspectors could have caught, such as missing smoke detectors and kitchen and bathroom outlets without ground-fault protection.",
+     "quote": "passed 64 of 89 inspections (72%), a signiﬁcant"
+    },
+    {
+     "plain": "A large lead paint remediation backlog remains open. Of 19,835 remediation work orders identified in December 2024, NYCHA completed 9,412 and cancelled 610, leaving 9,813 open, many unresolved because NYCHA cannot get into the apartment or more work is needed. Separately, NYCHA has completed X-Ray Fluorescence (XRF) testing in about 97% of units known or presumed to have lead paint.",
+     "quote": "remediation work orders. Of 19,835 remediation work"
+    },
+    {
+     "plain": "NYCHA's biggest technology project collapsed. The replacement of its Resident Case Management System, first due to go live in April 2025, has no launch date after NYCHA terminated the vendor's contract in 2025, and two other major systems also slipped. The monitors traced the failure to vendor selection, heavy customization and weak vendor management, and NYCHA paid $350,000 for a second outside technical assessment.",
+     "quote": "either select vendors with more public housing experience or take"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "87%",
+     "label": "Mouse, cockroach and bed bug complaints answered in 7 days"
+    },
+    {
+     "value": "29%",
+     "label": "Mold work orders finished within required timeframes"
+    },
+    {
+     "value": "65,000",
+     "label": "Open mold and leak work orders"
+    },
+    {
+     "value": "307",
+     "label": "Unplanned heating outages, first half of the 2025-26 season"
+    },
+    {
+     "value": "6.5 hours",
+     "label": "Average length of an unplanned elevator outage"
+    },
+    {
+     "value": "64 of 89",
+     "label": "HUD inspections passed in 2025"
+    },
+    {
+     "value": "$100 million",
+     "label": "Possible loss of federal support starting next year"
+    },
+    {
+     "value": "$19,902,453.90",
+     "label": "Budget for the monitorship's work"
+    }
+   ],
+   "recommendations": [
+    "Keep replacing boilers and invest in the heating distribution system, which NYCHA estimates would take $4 billion in additional funding to fully repair or replace.",
+    "Improve the quality of pest control treatments, not just their timeliness, so pest populations actually fall.",
+    "Strengthen annual self-inspections so health and safety problems are caught and fixed before HUD inspectors arrive.",
+    "Pick technology vendors with real public housing experience, or move faster to enforce contract terms requiring a vendor to bring in that expertise.",
+    "Minimize customization when buying the next resident case management system, taking account of HUD requirements that are common to public housing agencies.",
+    "Adopt vendor performance measures earlier in technology projects and enforce contract requirements more proactively.",
+    "Share the monitors' findings about the failed project with candidates for NYCHA's new technology leadership.",
+    "Simplify the employee performance evaluation process, add a second layer of review, tie evaluations to objective performance indicators and connect low ratings to corrective action including training."
+   ],
+   "agency_response": "NYCHA agreed to adopt several of the monitors' performance evaluation recommendations in the cycle that began in January 2026, including a four-point rating scale and review by next-level supervisors, and plans to use key performance indicators in evaluations in 2027. It declined to add training for low-rated employees, saying that kind of follow-up is already part of its traditional progressive management of staff. NYCHA also agreed to share the monitors' technology findings with candidates for new information technology leadership.",
+   "implementation_note": "",
+   "compliance_note": "The monitors found NYCHA built on earlier progress and should be commended, but that performance regressed in several areas and full compliance will require both continued cultural and organizational reform and enough money for operations and capital work. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+   "topics": [
+    "housing",
+    "technology",
+    "money and contracts"
+   ],
+   "is_followup": false
   },
   {
    "id": "review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement",
@@ -1921,6 +2550,105 @@
    "topics": [
     "public safety",
     "transparency"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2026-02-12-boc-injury-response-nyc-jails",
+   "source": "other",
+   "auditor": "New York City Board of Correction",
+   "title": "Injury Response in NYC Jails: Board of Correction Analysis of 2024 Data",
+   "plain_title": "Jail injury counts still do not match and reports run months late",
+   "agency": "New York City Department of Correction",
+   "issued": "2026-02-12",
+   "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+   "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/2026-Board-of-Correction-Report-Injury-Response.pdf",
+   "what_they_audited": "The New York City Board of Correction (BOC) checked whether the New York City Department of Correction (DOC) and New York City Health + Hospitals/Correctional Health Services (CHS) followed the Board's minimum standard on injury response during calendar year 2024. The review combined analysis of administrative data, the agencies' monthly and annual reports and a random sample of 99 Injury-to-Inmate forms.",
+   "background": "The Board published a report on serious injuries in 2019 that found DOC underreported serious injuries and had no single reliable count, and it then adopted rules requiring the two agencies to build a shared electronic injury tracking system and file joint monthly injury reports. Those requirements were phased in through August 2022, making 2023 the first full year of data collection after implementation.",
+   "findings": [
+    {
+     "plain": "Both agencies have written injury policies, which technically satisfies the standard, but the Board found the policies do not set deadlines for closing investigations or explain how investigative findings feed into preventing future injuries.",
+     "quote": "The lack of a formal definition for “prompt” and “expeditious” in"
+    },
+    {
+     "plain": "Injury investigations closed in nine days on average, but the spread ran from same day to about three months, and one in ten sampled forms carried date problems: missing dates, a closure date before the injury date or dates from before 2000. The Board says bad dates undercut its ability to sequence events and follow up.",
+     "quote": "a mean closure time of nine days"
+    },
+    {
+     "plain": "Most narratives read as neutral, with 86 of 99 rated fully objective, but people in custody declined to take part in the investigation in 97 of the 99 sampled cases.",
+     "quote": "people in custody refused to participate in the investigation process"
+    },
+    {
+     "plain": "The shared electronic injury tracking system the rules require still does not exist. DOC and CHS keep separate systems, and for 2024 CHS counted 29,405 injuries against DOC's 28,273, a gap the agencies say cannot be reconciled month to month because each counts a different set of cases.",
+     "quote": "The agencies continue to maintain separate systems"
+    },
+    {
+     "plain": "Self-harm reporting runs through three separate unreconciled figures in the same joint monthly report, two from CHS and one from DOC, with no explanation of the differences. CHS shares self-injury data with DOC but not its mental health self-harm data, so some self-harm incidents are never investigated by DOC.",
+     "quote": "these numbers match, and the report does not include an explanation or footnote"
+    },
+    {
+     "plain": "Reporting to the Board was late and incomplete. DOC first supplied 23,664 of the 28,273 injury forms for 2024, or 84 percent, rising to 94 percent after it uploaded missing May 2024 forms in November 2025, and the joint monthly reports slipped from an average 17 days late in 2023 to 72 days late in 2024.",
+     "quote": "In 2023, the average delay was 17 days, increasing substantially to 72 days in 2024."
+    },
+    {
+     "plain": "DOC's 2024 annual injury review attributed a 4 percent rise in injuries to a growing jail population, but the Board's own rate calculation shows injuries per 1,000 people in custody fell from 372 in 2023 to 365 in 2024. The review also identified no compliance problems and set out no corrective action plan.",
+     "quote": "did not articulate corrective action plans with defined steps or timelines"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "29,405 injuries",
+     "label": "Injuries CHS reported for 2024"
+    },
+    {
+     "value": "28,273",
+     "label": "Injuries DOC reported for 2024"
+    },
+    {
+     "value": "23,664 forms",
+     "label": "Injury-to-Inmate forms DOC first gave the Board"
+    },
+    {
+     "value": "72 days",
+     "label": "Average lateness of joint monthly injury reports in 2024"
+    },
+    {
+     "value": "nine days",
+     "label": "Average time to close an injury investigation"
+    },
+    {
+     "value": "10 of 99 (10%)",
+     "label": "Sampled forms with missing or inconsistent dates"
+    },
+    {
+     "value": "86 of 99 (87%)",
+     "label": "Sampled investigation narratives rated fully objective"
+    },
+    {
+     "value": "97 of 99 cases",
+     "label": "Cases where the injured person declined to participate"
+    }
+   ],
+   "recommendations": [
+    "DOC and CHS should update their policies on addressing and preventing injuries so they line up with the investigation, coordination and reporting requirements of Minimum Standard 3-16.",
+    "DOC policies should spell out how investigative findings are used to inform injury prevention, tying investigation results to corrective action.",
+    "CHS policies should spell out expected timelines for injury response, documentation such as Injury-to-Inmate forms and reporting such as the joint monthly injury report and the monthly public self-harm report.",
+    "DOC should digitize the Injury-to-Inmate form with required fields, room for supporting evidence such as video and electronic signatures, to cut down on missing data and handwritten sign-offs.",
+    "DOC should set up internal monitoring of investigation timeliness, including clear deadlines for closing an investigation, to address the cases that run long.",
+    "Given how often people in custody decline to take part, DOC should look for ways to engage them during investigations while respecting their rights and the standards.",
+    "DOC and CHS should voluntarily give the Board detailed minutes or summaries of the quarterly meetings the rules require, showing the data review, trends identified and quality assurance work.",
+    "DOC and CHS must build and maintain the coordinated electronic injury tracking system the rules require, covering serious and non-serious injuries in one reconciled platform.",
+    "DOC and CHS should put internal controls in place to submit Injury-to-Inmate forms and joint monthly injury reports on time.",
+    "DOC and CHS should reconcile their differing injury and self-injurious behavior counts into a single joint monthly injury report with all required breakdowns.",
+    "DOC should make its required annual review of the joint monthly reports document compliance findings, systemic issues and corrective action plans with steps and timelines, and should publish the annual reports as well as send them to the Board.",
+    "CHS should make its monthly public self-harm reports consistently break the data out by seriousness, separating serious from non-serious injuries as the minimum standards require."
+   ],
+   "agency_response": "The report notes that DOC and CHS staff reviewed and commented on it. After reviewing an earlier draft, DOC uploaded the missing May 2024 Injury-to-Inmate forms in November 2025, raising the share of 2024 forms provided to the Board from 84 percent to 94 percent.",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "health"
    ],
    "is_followup": false
   },
@@ -3348,6 +4076,98 @@
    ],
    "is_followup": false,
    "compliance_note": ""
+  },
+  {
+   "id": "2025-12-19-nycha-monitors-sixth-report",
+   "source": "monitor",
+   "auditor": "Federal monitors (NYCHA public housing)",
+   "title": "New York City Housing Authority Monitorship: Monitors' Report (Sixth Report)",
+   "plain_title": "Heating outages spike and a chimney falls as mold work improves",
+   "agency": "New York City Housing Authority",
+   "issued": "2025-12-19",
+   "url": "https://www.nychamonitor.com/reports",
+   "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Sixth-Report.pdf",
+   "what_they_audited": "The federal monitors' sixth quarterly report on the New York City Housing Authority's (NYCHA) compliance with its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change and capital spending. It reports data for August 1, 2025 to October 31, 2025.",
+   "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to improve housing conditions, and a monitor was appointed to evaluate compliance. Neil Barofsky and Matthew Cipolla of Jenner & Block LLP began a five-year term as co-monitors on February 28, 2024.",
+   "findings": [
+    {
+     "plain": "The heating season opened badly. There were 30 unplanned central heating outages in October 2025 compared with four in October 2024, affecting 13% of occupied apartments rather than 2%, though NYCHA still resolved them in an average of 7.3 hours. October 2025 was colder, with 198 heating degree days against 128 a year earlier.",
+     "quote": "season, there have been 30 unplanned central heating"
+    },
+    {
+     "plain": "A 20-story exterior chimney serving the boiler room at Mitchel Houses in the Bronx collapsed on October 1, 2025. No one was hurt, but 38 apartments were evacuated, about 88 residents went to hotels and gas service to the whole development was shut off. The Fire Department, the Department of Buildings and the Department of Investigation are all investigating.",
+     "quote": "approximately 88 residents were temporarily relocated to hotels"
+    },
+    {
+     "plain": "Mold response kept improving from a very low base. NYCHA removed mold within five business days 24% of the time in the third quarter of Year 7, up from 7% a year earlier, and met the agreement's combined mold timeframes 28% of the time across three quarters versus 8%. The requirement is 95%.",
+     "quote": "days 24% of the time, compared to 7% of the time"
+    },
+    {
+     "plain": "The mold and leak backlog stayed far too high, with 61,675 work orders pending for 16 days or more. A new Mold and Leaks Restore and Renew program at Sotomayor Houses had closed roughly 65% of targeted work orders by November 17, 2025, including repairs that had gone unaddressed for more than 1,000 days.",
+     "quote": "high, with 61,675 work orders that have been pending"
+    },
+    {
+     "plain": "Pest response times improved but populations did not. NYCHA answered 86% of mouse, cockroach and bed bug complaints within seven calendar days, 27 percentage points better than a year earlier, yet its estimated rat population rose about 33% and the cumulative rat reduction stood at 48%, short of the 75% target.",
+     "quote": "to 86% of these pest complaints within seven calendar"
+    },
+    {
+     "plain": "Elevator performance slipped modestly across nearly every requirement, and NYCHA still had not finished replacing 275 elevators, an obligation due December 31, 2024. It had completed 258 replacements as of October 31, 2025. Low voltage conditions, including Con Edison voltage reductions during summer heat waves, contributed to outages.",
+     "quote": "met this obligation, completing 258 total elevator replacements as of"
+    },
+    {
+     "plain": "HUD inspection scores improved overall but a group of developments got much worse. NYCHA passed 63% of 87 inspections in 2025 compared with 46% of 138 in 2024, and 42 developments gained ten points or more, but 14 developments lost ten points or more and Farragut Houses drew a preliminary score of nine. Annual self-inspections reached 91% of occupied apartments, up from 82%.",
+     "quote": "improved its overall NSPIRE pass rate to 63% in 2025 as"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "13%",
+     "label": "Occupied apartments hit by an unplanned outage in October"
+    },
+    {
+     "value": "88 residents",
+     "label": "Moved to hotels after the Mitchel Houses chimney collapse"
+    },
+    {
+     "value": "61,675",
+     "label": "Mold and leak work orders pending 16 days or more"
+    },
+    {
+     "value": "48%",
+     "label": "Cumulative rat reduction, against a 75% target"
+    },
+    {
+     "value": "258",
+     "label": "Elevators replaced of the 275 due by the end of 2024"
+    },
+    {
+     "value": "63%",
+     "label": "HUD inspections passed in 2025, up from 46% in 2024"
+    },
+    {
+     "value": "91%",
+     "label": "Occupied apartments self-inspected as of October 31, 2025"
+    },
+    {
+     "value": "15,000",
+     "label": "Apartments where lead paint has been removed"
+    }
+   ],
+   "recommendations": [
+    "Improve the quality of pest control treatments so that pest populations actually decline, not just the speed of the response.",
+    "Find additional funding to install automatic voltage regulators on more elevators, since only a small fraction will get them under projected funding.",
+    "Formalize the process for third and later attempts to enter an apartment for annual inspections and record those attempts in the work order system so residents get notice and NYCHA can enforce access.",
+    "Investigate and fix the root causes at the 14 developments whose HUD inspection scores fell ten points or more.",
+    "Strengthen self-inspections so health and safety problems such as missing smoke detectors and outlets without ground-fault protection are found and fixed before HUD inspects."
+   ],
+   "agency_response": "NYCHA says it is cooperating fully with the investigations into the Mitchel Houses collapse. It installed mobile boilers within a week, later added a third, gave residents electric hot plates while cooking gas was out and is appealing numerous failing HUD inspection scores, having already persuaded HUD to change ten scores from failing to passing.",
+   "implementation_note": "",
+   "compliance_note": "The monitors say NYCHA has continued to build on earlier progress and should be commended, while heat, elevators, mold and inspections all need continued focus. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+   "topics": [
+    "housing",
+    "health"
+   ],
+   "is_followup": false
   },
   {
    "id": "2025-12-18-coib-advisory-opinion-moonlighting-waivers",
@@ -5124,6 +5944,100 @@
    "status_as_of": "2026-06-25"
   },
   {
+   "id": "2025-09-30-nycha-monitors-fifth-report",
+   "source": "monitor",
+   "auditor": "Federal monitors (NYCHA public housing)",
+   "title": "New York City Housing Authority Monitorship: Monitors' Report (Fifth Report)",
+   "plain_title": "New heat data: 84% of apartments lost heating service last winter",
+   "agency": "New York City Housing Authority",
+   "issued": "2025-09-30",
+   "url": "https://www.nychamonitor.com/reports",
+   "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Fifth-Report.pdf",
+   "what_they_audited": "The federal monitors' fifth quarterly report on the New York City Housing Authority's (NYCHA) compliance with its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change. It reports data for May 1, 2025 to July 31, 2025 and serves as the annual heat report for the full 2024-2025 heating season.",
+   "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to improve housing conditions, and a monitor was appointed to evaluate compliance. This is the first report in which NYCHA and the monitors had an agreed method for measuring heating failures inside individual apartments, so it is also the first to show apartment-level heat performance.",
+   "findings": [
+    {
+     "plain": "Measured for the first time at the apartment level, heating failures turned out to be near universal. In the 2024-2025 season 84% of occupied apartments had at least one heating service interruption, the highest since the monitorship began. The monitors caution this does not mean those apartments fell below the legal minimum temperature. NYCHA also had 388 unplanned heating outages, 104 more than the prior season.",
+     "quote": "2025 season, 84% of occupied apartments experienced at least one"
+    },
+    {
+     "plain": "Heat came back faster when it failed. Average restoration time for verified in-apartment heating complaints fell from 26.3 hours in the 2022-2023 season to 13.9 hours, and NYCHA resolved 94% of central heating outages within 12 hours and 100% within 24 hours, meeting those requirements in the first season they applied.",
+     "quote": "restoration times from 26.3 hours in 2022‒2023 to 13.9 hours in"
+    },
+    {
+     "plain": "The heating system itself is aging and underfunded. NYCHA estimates it would need $4 billion in additional funding to repair or replace heating infrastructure at or past its useful life, and it is behind on boiler replacements, having done 146 of the required 297 as of July 31, 2025 and expecting to miss the December 31, 2026 deadline by about two months.",
+     "quote": "would require $4 billion in additional funding. Moreover, according"
+    },
+    {
+     "plain": "Mold repairs improved but remain far from compliance. Through the second quarter of Year 7, NYCHA met the agreement's mold timeframes 28% of the time, up from 8% in the same period of Year 6, against a 95% requirement. The monitors call it the first potential path to compliance in the monitorship.",
+     "quote": "blended obligation 28% of the time through the second quarter of"
+    },
+    {
+     "plain": "Lead testing neared the finish line. NYCHA had completed X-Ray Fluorescence (XRF) testing in 86.2% of apartments and expected to finish testing every apartment by the end of the year.",
+     "quote": "testing, having completed 86.2% of apartments, and"
+    },
+    {
+     "plain": "On pests, NYCHA hit two milestones and one setback. For the first time it met the requirement to send staff trained in integrated pest management to every pest complaint, and it began publishing estimated rat, mouse, cockroach and bed bug populations for each development on its website. But estimated populations for all four pests rose compared with the same period in Year 6, though they still met the agreement's reduction targets.",
+     "quote": "Year 7, NYCHA’s pest population estimates for rats,"
+    },
+    {
+     "plain": "NYCHA still shuts elevators down during protected hours with little warning, but a pilot showed a fix. There were 820 no-service conditions from planned outages during restricted hours this year, 383 fewer than the same period last year. At South Jamaica Houses, where NYCHA scheduled preventive maintenance and gave 24 hours' notice by robocall, no planned outages happened in restricted hours and residents told the monitors the elevators work better.",
+     "quote": "indicates that NYCHA should add other developments to the pilot"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "84%",
+     "label": "Occupied apartments with a heating interruption in 2024-25"
+    },
+    {
+     "value": "388",
+     "label": "Unplanned heating outages, up 104 from the prior season"
+    },
+    {
+     "value": "13.9 hours",
+     "label": "Average time to restore heat inside an apartment"
+    },
+    {
+     "value": "$4 billion",
+     "label": "Extra funding NYCHA estimates its heating system needs"
+    },
+    {
+     "value": "28%",
+     "label": "Mold work orders finished within required timeframes"
+    },
+    {
+     "value": "86.2%",
+     "label": "Apartments tested for lead paint as of July 31, 2025"
+    },
+    {
+     "value": "78%",
+     "label": "Occupied apartments self-inspected in 2025 so far"
+    },
+    {
+     "value": "4%",
+     "label": "Skilled trades repair appointments missed in July 2025"
+    }
+   ],
+   "recommendations": [
+    "Repair or replace the aging heating infrastructure, which the high rate of heating service interruptions makes urgent.",
+    "Strengthen maintenance processes, improve data systems, improve performance on in-apartment heating failures and manage preventive and corrective maintenance more efficiently.",
+    "Expand the South Jamaica Houses elevator pilot to other developments and use the results to improve preventive maintenance scheduling across NYCHA.",
+    "Apply pest control methods more consistently and improve their quality so pest populations at developments actually fall.",
+    "Standardize across developments the way residents are told about second attempts to enter their apartments for annual inspections.",
+    "Sustain the workforce accountability work already under way, including managerial and nonmanagerial performance evaluations, revised job descriptions and better onboarding."
+   ],
+   "agency_response": "NYCHA is trying to recover the boiler replacement delays by adding construction shifts and resequencing work. It has responded positively to the monitors' inspection feedback, including adding training on inspection protocols to daily maintenance worker meetings, and has used a new missed appointments dashboard to cut missed skilled trades appointments from 7% in January 2025 to 4% in July 2025.",
+   "implementation_note": "",
+   "compliance_note": "The monitors say NYCHA has continued to build on the progress in their last report and should be commended, while mold, heat and pest management still require sustained focus. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+   "topics": [
+    "housing",
+    "health",
+    "transparency"
+   ],
+   "is_followup": false
+  },
+  {
    "id": "2025-09-25-doc-intelligence-bureau-immigration-enforcement",
    "source": "doi",
    "auditor": "Department of Investigation",
@@ -6418,6 +7332,89 @@
    "is_followup": false
   },
   {
+   "id": "2025-09-03-annual-anti-corruption-report-2024",
+   "source": "doi",
+   "auditor": "Department of Investigation",
+   "title": "DOI's 2024 Annual Anti-Corruption Report",
+   "plain_title": "Complicated city rules can create corruption risk",
+   "agency": "New York City agencies (citywide)",
+   "issued": "2025-09-03",
+   "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf",
+   "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf",
+   "what_they_audited": "The Department of Investigation (DOI) asked city agencies, through a questionnaire, whether their own regulatory and enforcement processes create openings for corruption. This annual report covers October 1, 2023, to September 30, 2024, and analyzes responses from 51 agencies.",
+   "background": "Mayoral Executive Order No. 105 makes the DOI commissioner the city's independent inspector general and requires DOI to prepare an annual anti-corruption report describing corruption risks agencies identify and how they plan to address them. Unlike DOI's other reports, this one is not the product of DOI's own investigative work but summarizes what agencies say about themselves, with individual responses aggregated or anonymized.",
+   "findings": [
+    {
+     "plain": "Of the 51 agencies that answered the questionnaire, 24 said they review applications for licenses, permits, certifications, grants or registrations, while only seven review applications for public benefits or services such as food stamps, childcare vouchers or cash assistance.",
+     "quote": "Out of the 51 respondents, 24 (47.1%) reported they review applications for \nlicenses, permits, certifications, grants, and/or registrations"
+    },
+    {
+     "plain": "Most agencies showed an understanding of the corruption risks in their own processes, but several agencies denied that any risk of corruption or fraud existed, which DOI said seems implausible given its experience.",
+     "quote": "there were several agencies that denied any risk of corruption or fraud \nexisted, a claim that seems implausible based on DOI’s experience."
+    },
+    {
+     "plain": "In application and determination processes, agencies most often pointed to falsified or altered documents as the corruption risk. In compliance and enforcement, the risk cited most often was bribery of inspectors or other enforcement staff.",
+     "quote": "With respect to \napplication and determination processes, agencies overwhelmingly pointed to the \nsubmission of fraudulent documents or misrepresentation of information as the \nprimary fraud and corruption risk."
+    },
+    {
+     "plain": "About two-thirds of respondents said they conduct inspections, issue violations or take other steps to enforce regulations, and several rely on the city's 311 system or public complaints to learn about noncompliance rather than proactive monitoring.",
+     "quote": "several \nagencies stated that they rely on the City’s 311 reporting system or public complaints \nto address allegations of noncompliance, while others reported engaging in proactive \nmonitoring."
+    },
+    {
+     "plain": "Only a third of responding agencies track complaints from the public about their programs, even though those complaints can reveal burdens or complexities that push people toward workarounds.",
+     "quote": "Only 17 (33.3%) of the agencies that \nresponded to the questionnaire answered in the affirmative."
+    },
+    {
+     "plain": "Agencies described applications that are complicated because multiple agencies must sign off, there is no online submission option or the paperwork is heavy. At least two agencies said their process is so technical that applicants need a third-party expert to guide them.",
+     "quote": "At least two agencies reported that the \napplication process was so complicated and technical as to require the assistance of a \nthird-party s ubject matter expert to guide the applicant through the process."
+    },
+    {
+     "plain": "Sixteen agencies suggested reforms, including more staff, changes to burdensome or confusing rules and moving applications online. Agencies split evenly on whether more staffing would reduce corruption risk.",
+     "quote": "Sixteen agencies offered suggestions for reform including resources for additional staffing; \nproposed changes in burdensome, confusing, or unnecessary laws, rules, or regulations; and technology \nchanges, including moving applications to an online platform."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "51 respondents",
+     "label": "Agencies that answered DOI's questionnaire"
+    },
+    {
+     "value": "24 (47.1%)",
+     "label": "Agencies reviewing license or permit applications"
+    },
+    {
+     "value": "Thirty-two (62.7%)",
+     "label": "Agencies that inspect or enforce regulations"
+    },
+    {
+     "value": "17 (33.3%)",
+     "label": "Agencies that track public complaints"
+    },
+    {
+     "value": "Sixteen agencies",
+     "label": "Agencies that offered reform suggestions"
+    },
+    {
+     "value": "$25 per application",
+     "label": "Low end of reported application fees"
+    }
+   ],
+   "recommendations": [
+    "City agencies should stay alert to the corruption and fraud risks built into any municipal process, review those processes regularly and put risk mitigation measures in place.",
+    "Agencies should streamline application and determination processes where they can, while still collecting the information and approvals they need, so that applicants have less motive to work around a slow or burdensome process.",
+    "Agencies should evaluate the regulations they implement and enforce with corruption risk in mind, weighing that risk against how necessary the process is.",
+    "In designing regulatory, application and enforcement processes, agencies should make sure the rules are strong enough to do their job without imposing burdens so heavy that they raise the risk of fraud."
+   ],
+   "agency_response": "The report is built on the agencies' own questionnaire responses. Agencies described integrity controls already in place, including anti-corruption training, multi-level reviews and audits, and 16 agencies proposed reforms.",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "transparency",
+    "small business"
+   ],
+   "is_followup": false
+  },
+  {
    "id": "peer-review-final-report",
    "source": "nyc",
    "auditor": "New York City Comptroller",
@@ -6520,6 +7517,117 @@
    ],
    "is_followup": false,
    "compliance_note": ""
+  },
+  {
+   "id": "2025-07-21-lv-special-master-program-monitoring",
+   "source": "monitor",
+   "auditor": "Special master (NYC special education hearing orders)",
+   "title": "Special Master Program Monitoring Report",
+   "plain_title": "Two years on, 59% of the special education court order is unmet",
+   "agency": "New York City Public Schools",
+   "issued": "2025-07-21",
+   "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/383.pdf",
+   "what_they_audited": "A periodic monitoring report to the court, filed as a slide deck, on how far the New York City Public Schools (DOE) has gotten in meeting the obligations imposed by the court's order of July 19, 2023 in L.V. v. D.O.E. It includes an independent assessment of the four technology systems the obligations depend on.",
+   "background": "In a special education due process proceeding an Impartial Hearing Officer (IHO) can order services for a student or payment on the student's behalf, and the department must carry the order out within 35 days unless the order sets a different timeline. The department runs an Implementation Unit (IU) to authorize those payments and arrange those services. Obligation #39 of the 2023 order requires the special master to report to the court every 120 days on whether each obligation has been fulfilled, what is blocking the unfulfilled ones and what steps come next.",
+   "findings": [
+    {
+     "plain": "As of July 8, 2025, the department had fulfilled 21 of the 51 obligations tracked and 30 were still unfulfilled.",
+     "quote": "As of July 8, 2025, twenty-one (21) obligations"
+    },
+    {
+     "plain": "Every unfulfilled obligation was past due, some by more than a year, leaving 59% of the July 2023 order unmet two years after it was issued.",
+     "quote": "DOE has yet to fulfill 59% of the obligations from the 7/19/23 order."
+    },
+    {
+     "plain": "Two obligations were tentatively fulfilled since the March 2025 report: collecting documentation from parents and notifying the Implementation Unit when a case is settled. The evidence was contained in business requirements documents for the new hearing system.",
+     "quote": "In recent weeks, DOE has tentatively fulfilled two obligations from the LV order"
+    },
+    {
+     "plain": "IBM and the department set December 15, 2025 as the go-live date for the Impartial Hearing Management System (IHMS), with final design sign-off due August 29, 2025. The special master remained concerned that the schedule left almost no room for problems, particularly for migrating data out of existing systems.",
+     "quote": "IBM and DOE/DIIT have set a Go-Live date of 12/15/2025 for IHMS. The work plan"
+    },
+    {
+     "plain": "Technology is the choke point. Of the 40 obligations being monitored, 19 depend on specific technology systems, and the delayed hearing management system is the one most of them rest on.",
+     "quote": "has been the most delayed and is the lynchpin for many of the LV Orders."
+    },
+    {
+     "plain": "Polaris, the custom-built invoicing tool, was working. It went live with 57 vendors in late December 2024 and invoices were being processed within five days, with a July release planned to bring the vendor total toward 200.",
+     "quote": "been positive with the team processing invoices through the system within 5 days of"
+    },
+    {
+     "plain": "A pilot letting vendors email the Implementation Unit generated 3,557 tickets between February 11 and May 9, 2025, but only 26% drew a confirmation from a parent or parent representative and most of the email came from three vendors.",
+     "quote": "system generated 3,557 tickets but only 26% of the tickets received a confirmation"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "twenty-one (21)",
+     "label": "Obligations fulfilled as of July 8, 2025"
+    },
+    {
+     "value": "thirty (30)",
+     "label": "Obligations not yet fulfilled"
+    },
+    {
+     "value": "59%",
+     "label": "Share of the July 2023 order still unmet"
+    },
+    {
+     "value": "12/15/2025",
+     "label": "Go-live date set for the new hearing system"
+    },
+    {
+     "value": "57 vendors",
+     "label": "Vendors using the new Polaris invoicing tool"
+    },
+    {
+     "value": "3,557",
+     "label": "Vendor email tickets logged February 11 to May 9, 2025"
+    },
+    {
+     "value": "26%",
+     "label": "Tickets confirmed by a parent or representative"
+    }
+   ],
+   "recommendations": [
+    "Obligation 5, hearing officer web form: include hearing officers in user acceptance testing of the new hearing management system.",
+    "Obligation 8b, multiple-file uploads: update the policy so parents can submit payment documentation as multiple files, and communicate the change internally and publicly.",
+    "Obligation 10, timesheet solution: test the invoicing application on multiple browser types to match what the public will use.",
+    "Obligation 13, monitoring service orders: set up a working group that meets regularly on the functionality needed in the special education system.",
+    "Obligation 14a, customer support hotline: keep improving the SupportHub tool and process in response to community feedback.",
+    "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
+    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
+    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
+    "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
+    "Obligation 24b, DAITS enhancements: confirm that further enhancements to the older tracking system will be postponed so resources can support the new hearing system.",
+    "Obligation 30, operating procedures manual: have the communications lead revise the draft manual and share an updated version with plaintiffs and the special master.",
+    "Obligation 33, new services process: create a working group for the hearing system and special education system teams to work out the integration between them.",
+    "Obligation 27, case status indicator: make sure the parent-facing status function is tested with parents during user acceptance testing.",
+    "Obligation 31, document management: clarify and define the process and technologies for capturing and storing documentation from parents.",
+    "Obligation 34, document management tool: see obligation 13.",
+    "Obligation 32, mobile timesheets: share the mobile testing results for Polaris with the special master.",
+    "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
+    "Obligation 9, payment documentation: keep reviewing the content of the implementation website and align it with the SupportHub site.",
+    "Obligation 12a, high-priority orders: gather data on high-priority cases, share it with the special master and determine lessons learned from missed cases.",
+    "Obligation 12b, service communications: produce and share a communications plan for service orders and action items.",
+    "Obligation 19, nursing documentation: report the obstacles at the August steering committee meeting and formally communicate the policy to nursing providers.",
+    "Obligation 28a, collecting data assets: share the agreed list of performance indicators with the hearing system team, assess what can be reported from it and identify the gaps.",
+    "Obligation 28b, quarterly analysis: share an outline and template of the quarterly report for feedback from plaintiffs and the special master.",
+    "Obligation 28c, six-month report to the court: share an outline and template of the six-month report for feedback.",
+    "Obligation 35, home instruction: create a process document for confirming that ordered home instruction was actually provided.",
+    "Obligation 36, placement orders: create a process document for confirming that the student is appropriately placed in the school called for by the order and the student's IEP.",
+    "Obligation 37, training updates: share an annual training publication schedule and the process for updating training materials.",
+    "Obligation 38, user research: plan and scope user research for Phase II of the hearing management system, including feedback from plaintiffs."
+   ],
+   "agency_response": "",
+   "implementation_note": "Of the 51 obligations in the July 19, 2023 court order, 21 were fulfilled and 30 were not yet fulfilled as of July 8, 2025, two more than at the March 2025 report.",
+   "compliance_note": "The special master found the department still short of compliance: 59% of the obligations remained unfulfilled and all of them were past due, some by more than a year, though he credited progress on the invoicing tool and on the schedule for the new hearing management system.",
+   "topics": [
+    "education",
+    "children and youth"
+   ],
+   "is_followup": false
   },
   {
    "id": "2025-07-14-new-york-city-department-homeless-services-oversight-contract-expenditures-church-avenue",
@@ -9130,6 +10238,214 @@
     "housing",
     "public safety",
     "seniors"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2025-03-25-ccpc-twenty-second-annual-report",
+   "source": "other",
+   "auditor": "Commission to Combat Police Corruption",
+   "title": "Twenty-Second Annual Report of the Commission",
+   "plain_title": "Police corruption watchdog: faster cases, weaker interviews",
+   "agency": "New York City Police Department",
+   "issued": "2025-03-25",
+   "url": "https://www.nyc.gov/site/ccpc/reports/annual-reports.page",
+   "pdf": "https://www.nyc.gov/assets/ccpc/downloads/pdf/FINAL-REPORT-03-25-2025.pdf",
+   "what_they_audited": "This is the annual monitoring report of the Commission to Combat Police Corruption (CCPC), not a financial audit. The Commission read the case files of a random sample of closed New York City Police Department (NYPD) Internal Affairs Bureau (IAB) investigations, 46 closed in 2022 and 35 closed in 2023, to judge whether they were fair, thorough, accurate and impartial, and it also reprints a summary of its March 2024 review of how the Department carried out the recommendations of the 2019 Independent Panel on the Disciplinary System.",
+   "background": "The Commission was created in 1995 by Mayoral Executive Order No. 18 to monitor how the NYPD gathers information, investigates allegations and sets policy to detect, control and deter corruption among its members. IAB is the bureau inside the Department that investigates allegations of corruption and serious misconduct against members of the service, and the Commission monitors it by attending briefings, steering committee meetings and case reviews and by reading closed case files.",
+   "findings": [
+    {
+     "plain": "Investigations moved faster than at any point the Commission has tracked. Cases reviewed in 2022 took 8.9 months on average, the shortest in eight years of reviews, and the 2023 average of 10.4 months fell to 8.6 months once a single 73-month case was set aside.",
+     "quote": "In 2022 and 2023, the Commission observed the lowest average length of time IAB \ninvestigations were pending since we began tracking this metric."
+    },
+    {
+     "plain": "The Commission's satisfaction rate fell in all seven areas it tracks in the 2023 sample, after mostly small declines in 2022. It attributes the drop partly to dropping failed drug tests from its sample and partly to turnover among IAB executives and group commanders.",
+     "quote": "In 2023, our \nsatisfaction rates decreased in all seven areas."
+    },
+    {
+     "plain": "Interview quality remains the weakest part of IAB's work. The Commission found problems in 13 of the 46 cases reviewed in 2022 and 13 of the 35 reviewed in 2023, most often failure to ask follow-up questions and failure to cover all relevant issues, with questioning that at times seemed designed only to elicit a denial.",
+     "quote": "we identified interview quality issues in 13 of the 46 cases we \nreviewed in 2022 and 13 of the 35 cases we reviewed in 2023"
+    },
+    {
+     "plain": "Investigators repeatedly failed to interview people who were available to them. The Commission flagged missed civilian or officer interviews in 12 cases from the 2022 sample and 13 cases from the 2023 sample, and in some property cases officers who had access to the missing property were never made subjects.",
+     "quote": "The Commission noted deficiencies related to the failure to interview witnesses in 12 of \nthe cases reviewed in 2022."
+    },
+    {
+     "plain": "The Commission disagreed with more case outcomes than in any of the previous four years. It found three cases in the 2022 sample where the overall disposition was wrong, and in the 2023 sample it identified three cases where allegations closed as unsubstantiated should have been substantiated; IAB agreed with its assessment in two of those.",
+     "quote": "We disagreed with more overall dispositions of investigations in this review than we have \nhad in the prior four years."
+    },
+    {
+     "plain": "Body-worn camera footage has been a clear benefit to IAB investigations, but officers who failed to record properly were rarely punished beyond a warning, even though the Department's own penalty guidelines call for the forfeiture of one to five days.",
+     "quote": "it did not appear that penalties beyond \nwarnings were given in a majority of these cases"
+    },
+    {
+     "plain": "Long stretches of inactivity persisted in some files even when cases closed on time, and supervisors' directions were not always carried out. Eight investigations in the 2023 sample sat for more than 30 days with no explained activity, and in six 2023 cases team leaders ordered steps that were never taken and never explained.",
+     "quote": "there were eight investigations that we reviewed in 2023 \nthat had unexplained gaps of longer than 30 days"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "46 IAB investigations",
+     "label": "Closed 2022 cases the Commission reviewed"
+    },
+    {
+     "value": "35 IAB investigations",
+     "label": "Closed 2023 cases the Commission reviewed"
+    },
+    {
+     "value": "8.9 months",
+     "label": "Average length of investigations, 2022 sample"
+    },
+    {
+     "value": "10.4",
+     "label": "Average months pending, 2023 sample"
+    },
+    {
+     "value": "93%",
+     "label": "Commission agreed with the disposition, 2022 sample"
+    },
+    {
+     "value": "86%",
+     "label": "Commission agreed with the disposition, 2023 sample"
+    },
+    {
+     "value": "17.8%",
+     "label": "Most serious allegation substantiated, 2023 sample"
+    }
+   ],
+   "recommendations": [
+    "Conduct investigations promptly and without lapses in activity, but do not sacrifice quality for speed; IAB has directed each group commander to name backup investigators who can take over when the primary investigator is unavailable.",
+    "Identify subject officers as early as possible, and in property cases treat every officer who had access to the missing property as a subject unless there is a specific reason to exclude them.",
+    "Interview civilian witnesses without delay and interview witness officers close in time to the incident absent a strategic reason; the assigned investigator should personally contact the complainant, and civilians should be shown body-worn camera footage that contradicts their account unless there is a strategic or privacy reason not to.",
+    "Document in the case file, preferably on the worksheet summarizing the interview, any reason for departing from best interview practices.",
+    "Train newly assigned investigators in interviewing techniques and give all investigators routine refresher courses; the current Department Advocate should put this training in place with the attorneys in that office.",
+    "Have supervisors who are skilled at interviewing help less experienced investigators, both in preparing for interviews and during the questioning.",
+    "Include every allegation against a subject in the investigation even if it will end up unsubstantiated, and notify subjects' commanding officers of any allegation IAB did not fully investigate or address.",
+    "Before conducting surveillance, have investigators discuss the objectives with supervisors and plan the surveillance for the times they are most likely to observe what they are looking for.",
+    "When summarizing recorded interviews, include only what can be heard on the audio, record anything said outside the recording on a separate worksheet or clearly mark it as before or after the recording, and have supervisors confirm the summaries are accurate and complete.",
+    "Search for relevant video as soon as the complaint comes in, have supervisors check within the first one to two weeks that a video canvass was done, and follow up quickly on cameras whose footage could not be accessed.",
+    "Promptly perform investigative steps directed in team leader or commanding officer reviews, document any reason a step was not taken, and admonish or discipline investigators who skip a step without a legitimate reason.",
+    "Follow the penalty ranges in the Department's disciplinary guidelines, known as the Matrix, when officers negligently fail to activate body-worn cameras in cases where footage would have been relevant, or at minimum monitor whether warnings alone are enough to change behavior."
+   ],
+   "agency_response": "The Commission gives the Department a draft of each annual report for comment before publication, and it reports that in response to this draft the Department said it is building and testing a search function for its Trial Decisions Library. In the Independent Panel review reprinted here, the Department defended keeping the Citizen's Liaison inside the Department Advocate's Office and said that recording informal contacts about disciplinary cases was unnecessary and would be burdensome.",
+   "implementation_note": "The report reprints the Commission's March 2024 review of the Department's implementation of the 13 recommendations of the 2019 Independent Panel and reports that, since that review, none of the Commission's three public reporting recommendations had been adopted and only two of its proposed additions to the disciplinary Matrix, penalty ranges for failing to notify IAB and for fraternization, appeared in the revised version.",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "transparency"
+   ],
+   "is_followup": false
+  },
+  {
+   "id": "2025-03-19-lv-special-master-program-monitoring",
+   "source": "monitor",
+   "auditor": "Special master (NYC special education hearing orders)",
+   "title": "Special Master Program Monitoring Report",
+   "plain_title": "Special education fixes stall: one obligation met in four months",
+   "agency": "New York City Public Schools",
+   "issued": "2025-03-19",
+   "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/380.pdf",
+   "what_they_audited": "A periodic monitoring report to the court, filed as a slide deck, on how far New York City Public Schools (NYCPS) has gotten in meeting the obligations imposed by the court's order of July 19, 2023 in L.V. v. D.O.E. It includes an independent assessment of the four technology systems the obligations depend on.",
+   "background": "When a special education hearing is held, an Impartial Hearing Officer can order that a service be provided or a payment be made on a student's behalf, and the school system then has 35 days to carry the order out unless the order says otherwise. NYCPS runs an Implementation Unit (IU) to authorize the payments and arrange the services. Obligation #39 of the 2023 order requires the special master to report to the court every 120 days on whether each obligation has been fulfilled, what is blocking the unfulfilled ones and what comes next.",
+   "findings": [
+    {
+     "plain": "As of March 7, 2025, 19 of the 51 tracked obligations had been fulfilled and 32 remained unfulfilled. Only one had been fulfilled since the November 2024 report, a recruiting and hiring strategy, and every remaining obligation was past due as of January 19, 2025.",
+     "quote": "have been fulfilled, while thirty-two (32) remain"
+    },
+    {
+     "plain": "Work on the Impartial Hearing Management System (IHMS), the system most of the obligations depend on, had nearly stopped while the project waited for funding for its second phase. Funding for the change request was approved on February 26, 2025, but the contract and comptroller steps remained.",
+     "quote": "OMB approved the funding for change request on 2/26/2025"
+    },
+    {
+     "plain": "The independent technology assessment estimated that even in a best case the remaining development and testing of the hearing system would not finish until the first quarter of 2027.",
+     "quote": "remaining development and testing will be the first quarter 2027."
+    },
+    {
+     "plain": "SupportHub, the new customer support platform, went live on January 8, but the special master's survey of attorneys and parents who used it found no one rated it very helpful and about half reported it unhelpful or a bad experience.",
+     "quote": "and 0% found it very helpful. About 52% did"
+    },
+    {
+     "plain": "The school system had not carried out everything the judge ordered at the December 5, 2024 conference on public communications and process changes, and the special master attached a status report tracking the outstanding items.",
+     "quote": "report tracking these items. In short, NYCPS has not satisfied all of the directives"
+    },
+    {
+     "plain": "Polaris, the new custom-built invoicing tool, launched with 57 vendors in late December 2024 and processed 207 invoices in January, 98% of them within five days, though the special master's team had not yet reviewed technical documentation to verify the results.",
+     "quote": "from Polaris now and processed 207 invoices in January, (98% within 5 days)."
+    },
+    {
+     "plain": "Hiring was moving: the school system reported 100 of the 148 needed implementation positions filled with full-time or temporary staff. Meanwhile the independent auditor was so far behind on its quarterly compliance reports that the special master arranged for it to audit a single recent month of orders instead.",
+     "quote": "reports they have onboarded 100 staff (full-time and temp) out of 148 needed"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "nineteen (19)",
+     "label": "Obligations fulfilled as of March 7, 2025"
+    },
+    {
+     "value": "thirty-two (32)",
+     "label": "Obligations still unfulfilled"
+    },
+    {
+     "value": "first quarter 2027",
+     "label": "Best-case finish for the new hearing system"
+    },
+    {
+     "value": "0%",
+     "label": "Survey respondents who found SupportHub very helpful"
+    },
+    {
+     "value": "207 invoices",
+     "label": "Invoices processed through Polaris in January"
+    },
+    {
+     "value": "100 staff",
+     "label": "Implementation positions filled of 148 needed"
+    },
+    {
+     "value": "2,021 tickets",
+     "label": "Vendor emails logged February 11 to March 3, 2025"
+    }
+   ],
+   "recommendations": [
+    "Obligation 5, hearing officer web form: finalize the list of form fields, have the hearing system team design and build the functionality and share the field list with OATH to promote integration between future data systems.",
+    "Obligation 8a, capturing documentation: conduct user research with parents and draft a process for collecting relevant documentation before the hearing, with input from plaintiffs.",
+    "Obligation 8b, multiple-file uploads: tell parents and representatives that SupportHub lets them submit several documents at once for authorization.",
+    "Obligation 10, timesheet solution: deploy the Polaris invoicing tool to the full community of vendors.",
+    "Obligation 13, monitoring service orders: establish a working group that meets regularly to discuss the integration needed between the hearing system and the special education system.",
+    "Obligation 14a, customer support hotline: keep improving SupportHub and its processes in response to community feedback.",
+    "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
+    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
+    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
+    "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
+    "Obligation 24b, DAITS enhancements: confirm whether the database changes stabilized the older tracking system and share the stabilization and enhancement plans.",
+    "Obligation 30, operating procedures manual: revise the first draft based on the special master's feedback and share an updated version with plaintiffs and the special master.",
+    "Obligation 33, new services process: articulate the new process for monitoring service action items and assess its impacts.",
+    "Obligation 27, case status indicator: add the parent-facing case status function to the scope of the next phase of the hearing system.",
+    "Obligation 31, document management: no recommendation stated; the item is listed as to be determined.",
+    "Obligation 34, document management tool: see obligation 13, and plan and design document sharing in line with the other data integrations.",
+    "Obligation 32, mobile timesheets: provide documentation on the mobile functionality, including requirements and user research findings, and give the special master's team a demo.",
+    "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
+    "Obligation 9, payment documentation: make the final changes decided at the December 5 conference and keep reviewing and improving the implementation website.",
+    "Obligation 11, settlement notifications: build the settlement notification rule into the design of the new hearing system.",
+    "Obligation 12a, high-priority orders: determine lessons learned from missed cases and update the processes accordingly.",
+    "Obligation 12b, service communications: produce and share a communications plan for service orders and action items.",
+    "Obligation 19, nursing documentation: respond to the special master's email of March 21, 2024 about formally communicating the policy on required nursing forms.",
+    "Obligation 28a, collecting data assets: draft the outline and template of the quarterly performance report.",
+    "Obligation 28b, quarterly analysis: no separate recommendation stated; see obligation 2b.",
+    "Obligation 28c, six-month report to the court: no recommendation stated; the item is listed as to be determined.",
+    "Obligation 35, home instruction: create a process document for confirming that a student is receiving ordered home instruction.",
+    "Obligation 36, placement orders: create a process document for confirming that a student is placed in the school called for by the order.",
+    "Obligation 37, training updates: share an annual training publication schedule and the process for updating training materials.",
+    "Obligation 38, user research: plan and scope user research for Phase II of the hearing management system."
+   ],
+   "agency_response": "",
+   "implementation_note": "Of the 51 obligations in the July 19, 2023 court order, 19 were fulfilled and 32 remained unfulfilled as of March 7, 2025, one more fulfilled than at the November 2024 report.",
+   "compliance_note": "The special master found compliance stalled: only one obligation was fulfilled in the four months since the last report, all remaining obligations were past due, the school system had not satisfied every directive the judge issued on December 5, 2024 and the technology the order depends on was not expected to be finished before 2027.",
+   "topics": [
+    "education",
+    "children and youth"
    ],
    "is_followup": false
   },

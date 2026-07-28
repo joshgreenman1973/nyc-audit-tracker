@@ -1,0 +1,832 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L.V. v. D.O.E. 
+03 Civ. 9917 (RJH) 
+Stipulation and Agreement of Settlement 
+Independent Auditor’s Post Corrective Action  
+Sixtieth Quarterly Report 
+ 
+ 
+ 
+May 15, 2026 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i 
+ 
+Table of Contents 
+ 
+I. 
+Introduction ........................................................................................................................ 1 
+II. 
+Executive Summary and Statistical Overview .................................................................... 2 
+III. 
+Implementation of Service Action Items by Category ........................................................ 4 
+IV. 
+Implementation of Payment Action Items by Category ...................................................... 5 
+V. 
+Comparison of Timely Implemented Orders and Action Items ........................................... 7 
+VI. 
+Limitations .......................................................................................................................... 8 
+VII. 
+Conclusion ......................................................................................................................... 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii 
+ 
+Appendices  
+A. List of Post Corrective Action Sixtieth Quarter Unimplemented Orders 
+B. List of Post Corrective Action Sixtieth Quarter Timely Implemented Orders 
+C. List of Post Corrective Action Sixtieth Quarter Uncounted Orders  
+D. Post Corrective Action Sixtieth Quarter Orders Grouped with Related Action Items 
+E. List of Post Corrective Action Sixtieth Quarter Unimplemented Action Items 
+F. List of Post Corrective Action Sixtieth Quarter Timely Implemented Action Items 
+G. List of Post Corrective Action Sixtieth Quarter Uncounted Action Items 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+I. 
+Introduction 
+ 
+On December 12, 2003, Advocates for Children of New York (“AFC”) and Milbank, 
+Tweed, Hadley & McCloy LLP (“Milbank”) filed a class action, L.V. v. D.O.E.  03 Civ. 
+9917 (RJH).  The class was comprised of parents of special needs children who 
+alleged that while they had obtained a favorable order from an Impartial Hearing 
+Officer against the New York City Department of Education (“DOE”) or stipulation of 
+settlement placed on the record at an impartial hearing with the DOE, the DOE failed 
+to obtain full and timely implementation of such order or settlement.   
+ 
+On December 11, 2007, the Corporation Counsel of the City of New York on behalf of 
+the DOE and AFC and Milbank on behalf of Lead Plaintiffs and Class1 (“Plaintiffs”), 
+referred to collectively herein as (“the Parties”), signed a Stipulation and Agreement of 
+Settlement (“Stipulation”) in connection with L.V. v. D.O.E. 03 Civ. 9917 (RJH).  
+Pursuant to the terms of the Stipulation, Daylight Forensic & Advisory LLC (“Daylight”) 
+was appointed as Independent Auditor on March 27, 2008.  On May 9, 2008, the DOE 
+formally engaged Daylight to commence the independent audit.   
+ 
+The Stipulation requires the Independent Auditor to generate reports concerning the 
+DOE’s implementation of Orders and Action Items for all Quarterly Measurement 
+Periods (each a “Quarterly Report”) and Benchmark Measurement Periods (each a 
+“Benchmark Report”). 
+ 
+Guidehouse 2 issued the following reports in conjunction with the Injunctive Relief 
+Subclass: (1) Gap Period Report (dated August 6, 2008); (2) First Quarterly Report 
+(dated January 9, 2009); (3) Third Quarterly Report and First Benchmark Report 
+(dated June 11, 2009); and (4) Post Corrective Action3 First Quarterly Report (dated 
+April 9, 2010).4  
+ 
+Guidehouse issued reports in conjunction with the Injunctive Relief Subclass, including 
+the Post Corrective Action (“PCA”) First Benchmark Report dated August 13, 2010, as 
+well as reports for the PCA Third Quarter through the PCA Fifty-Ninth Quarter. 
+Guidehouse issued the final PCA quarterly reports during the time period of August 
+13, 2010 through November 26, 2025.   
+ 
+1 Pursuant to Section I.1.f. of the Stipulation, “Class” is defined as the Compensatory Relief Subclass and the Injunctive Relief 
+Subclass. 
+2 On October 11, 2019, Guidehouse LLP completed its previously announced acquisition of Navigant.  In the months ahead, we will 
+be working to integrate the Guidehouse and Navigant businesses.  In furtherance of this effort, we will refer to Navigant and Daylight 
+as ‘Guidehouse’ for consistency purposes under the terms of this engagement.  We will continue to perform according to the terms of 
+the Engagement Letter, using the same personnel and methods and without changes to the schedule, price, or level of effort. 
+ 
+3 Pursuant to Section III.10.a. of the Stipulation, “If the DOE fails to meet the First Benchmark or Fifth Benchmark at the required 
+date…the DOE must, within three months of issuance of the final Benchmark Report notifying the parties of the missed benchmark, 
+formulate and implement a Corrective Action Plan designed to correct the problems that caused the DOE to miss the benchmark at 
+issue.” 
+ 
+4 Pursuant to Sections I.1.r. and I.1.h of the Stipulation, “Injunctive Relief Subclass” is defined as the class of all persons who, on or 
+subsequent to the Commencement Date of December 12, 2003, (1) obtain or obtained a favorable Order by an Impartial Hearing 
+Officer against the DOE or stipulation of settlement placed on the record at an impartial hearing with the DOE and (2) fail or failed to 
+obtain full and timely implementation of such Order or settlement. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+The current report focuses on Guidehouse’s review of Injunctive Relief Subclass 
+Orders and summarizes our analysis of the Total Orders and Total Action Items that 
+were part of the post corrective action Sixtieth Quarterly Measurement Period (“PCA 
+Sixtieth Quarter”) and includes Orders issued between April 9, 2024 through July 8, 
+2024 with Action Item final due dates between May 14, 2024 through August 12, 2024. 
+ 
+The terms defined in Section I. Definitions of the Stipulation apply to the present report.   
+ 
+II. 
+Executive Summary and Statistical Overview 
+ 
+During the PCA Sixtieth Quarter, Guidehouse determined that the DOE Timely 
+Implemented 5  4.8% of Service Orders; 6  3.9% of Service Action Items; 2.2% of 
+Payment Orders;7 and 2.4% of Payment Action Items during this timeframe.   
+ 
+The following table summarizes the counted PCA Sixtieth Quarter Orders and Action 
+Items by type of relief: 
+ 
+ 
+Service Orders 
+Payment 
+Orders 
+Service Action 
+Items 
+Payment Action 
+Items 
+Timely Implemented 
+66 (4.8%) 
+70 (2.2%) 
+106 (3.9%) 
+169 (2.4%) 
+Unimplemented8 
+ 1,312 (95.2%) 
+ 3,065 (97.8%) 
+2,583 (96.1%) 
+ 6,990 (97.6%) 
+Total 
+1,378 
+3,135 
+2,689 
+7,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 “Timely Implemented” is defined as an Order or Action Item that was implemented within the length of time specified in the Order or, 
+if no such time is specified in the Order, within 35 days of issuance (of the Order itself or of the Order containing the Action Item), 
+except that particular Orders or Action Items will also be considered to have been timely implemented for measurement purposes 
+pursuant to the additional requirements included in Section I.1.ii. of the Stipulation. 
+ 
+6 Pursuant to Section I.1.dd. of the Stipulation, “Service Order” is defined as an Order, or all Action Items within an Order that requires 
+the DOE to take any action other than make a payment directly to a parent, private service provider, or private school. 
+ 
+7 Pursuant to Section I.1.v. of the Stipulation, “Payment Order” is defined as an Order, or all Action Items within an Order, requiring 
+the DOE to make a direct payment to a parent, private service provider, or private school. 
+ 
+8 Pursuant to Section I,1. mm of the Stipulation, “Unimplemented” or “Unimplemented Order” is defined as an Order or Action Item 
+that is found by the Independent Auditor to have not been Timely Implemented. Guidehouse assessed Action Items as Unimplemented 
+when 1) there was no indication that implementation occurred or 2) the analysis determined that implementation occurred after the 
+due date. Orders were deemed Unimplemented when one or more of the Action Items associated with the Order was determined to 
+be Unimplemented. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+In addition, Guidehouse determined that 9 Orders and 17 Action Items issued during 
+the PCA Sixtieth Quarter were Uncounted.9 There were 1,235 Orders issued during 
+the PCA Sixtieth Quarter that did not include Action Items, such as Orders of Dismissal 
+and Orders where the parent’s relief was denied. 
+ 
+Further, Guidehouse identified 439 Orders (comprising 807 Action Items) and 131 
+additional Action Items where the DOE was not required to implement the Action Items 
+because they were beyond the scope of review.  These Action Items were beyond our 
+scope of review for multiple reasons, including but not limited to:  
+ 
+- 
+Situations where the parent refused an ordered service; 
+- 
+Implementation performed pursuant to a prior Order; and 
+- 
+Payment was made in conjunction with a previously analyzed Action Item.10  
+  
+ 
+ 
+ 
+ 
+9 Pursuant to Section I.1. ll. of the Stipulation, Orders or Action Items are deemed “Uncounted Orders” or “Uncounted Action Items,” 
+respectively, when an Order or Action item could not be Timely Implemented because: 
+ 
+i. It required the DOE to take action that would either violate applicable law or is factually impossible; 
+ii. The DOE had made a substantial showing of attempts to reach the parent and attempts to obtain compliance with the 
+parent’s obligations under the Order; 
+iii. It required the provision of a DOE designated shortage area service which includes, inter alia, occupational, physical and 
+speech therapy and where the DOE made a substantial showing that it offered the parent an appropriate substitute service 
+within 35 calendar days of the issuance of the relevant Order or Action Item; and 
+iv. The Order or Action item was timely appealed by the DOE. 
+ 
+10 A complete list of these Orders and Action Items will be provided to the Parties. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+III. 
+Implementation of Service Action Items by Category 
+ 
+Guidehouse reviewed the 2,689 counted Service Action Items and noted that the top 
+three most frequently identified categories were Speech and Language Therapy (632 
+Action Items or 23.5%), followed by Occupational Therapy (433 Action Items or 16.1%) 
+and Reconvene Hearing of Meeting (431 Action Items or 16.0%).  
+ 
+The categories with the highest percentage of Unimplemented Action Items with 
+respect to the total number of counted Service Action Items within the category were 
+Correspondence (100.0%), followed by Physical Therapy (100.0%) and CSE 
+Evaluation (99.2%). 
+ 
+The following table sets forth the top 10 Service Action Item categories based on the 
+number of counted Action Items:  
+ 
+Action Item Category 
+Total 
+Counted 
+Service 
+Action 
+Items 
+% Total 
+Counted 
+Service 
+Action 
+Items 
+# Timely 
+Implemented 
+by Category 
+% Timely 
+Implemented 
+by Category 
+# 
+Unimplemented 
+by Category 
+% 
+Unimplemented 
+by Category 
+1 
+Speech and 
+Language 
+Therapy 
+632 
+23.5% 
+8 
+1.3% 
+624 
+98.7% 
+2 
+Occupational 
+Therapy 
+433 
+16.1% 
+9 
+2.1% 
+424 
+97.9% 
+3 
+Reconvene 
+Hearing or 
+Meeting 
+431 
+16.0% 
+19 
+4.4% 
+412 
+95.6% 
+4 
+CSE Evaluation 
+254 
+9.4% 
+2 
+0.8% 
+252 
+99.2% 
+5 
+Counseling 
+244 
+9.1% 
+6 
+2.5% 
+238 
+97.5% 
+6 
+Transportation 
+239 
+8.9% 
+54 
+22.6% 
+185 
+77.4% 
+7 
+Physical Therapy 
+98 
+3.6% 
+0 
+0.0% 
+98 
+100.0% 
+8 
+Correspondence  
+58 
+2.2% 
+0 
+0.0% 
+58 
+100.0% 
+9 
+Comp Services 
+56 
+2.1% 
+1 
+1.8% 
+55 
+98.2% 
+10 
+Paraprofessional  
+50 
+1.9% 
+1 
+2.0% 
+49 
+98.0% 
+ 
+Remaining 
+Categories with 
+41 or Less 
+Action Items 
+194 
+7.2% 
+6 
+3.1% 
+188 
+96.9% 
+ 
+TOTAL 
+2,689 
+100.0% 
+106 
+3.9% 
+2,583 
+96.1% 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+IV. 
+Implementation of Payment Action Items by Category 
+ 
+Guidehouse reviewed the 7,159 counted Payment Action Items and noted 5,922 
+Action Items categorized as prospective payments and 1,237 Action Items categorized 
+as reimbursements.  The top three most frequently identified categories of prospective 
+Payment Action Items were Special Education Teacher Support Services (1,699 
+Action Items or 28.7%), followed by Compensatory Services (1,150 Action Items or 
+19.4%), and Tuition (793 Action Items or 13.4%). 
+ 
+The categories with the highest percentage of Unimplemented Action Items with 
+respect to the total number of counted prospective Payment Action Items within the 
+category were Private Evaluations Ordered (100.0%), followed by Compensatory 
+Services (99.7%) and Counseling (99.3%). 
+ 
+The following table sets forth the top 10 prospective Payment Action Item categories 
+based on the number of counted Action Items:  
+ 
+Action Item Category 
+Total 
+Counted 
+Payment 
+Action 
+Items 
+% Total 
+Counted 
+Payment 
+Action 
+Items 
+# Timely 
+Implemented 
+by Category 
+% Timely 
+Implemented 
+by Category 
+# 
+Unimplemented 
+by Category 
+% 
+Unimplemented 
+by Category 
+1 
+Special 
+Education 
+Teacher Support 
+Services 
+1,699 
+28.7% 
+40 
+2.4% 
+1,659 
+97.6% 
+2 
+Compensatory 
+Services 
+1,150 
+19.4% 
+4 
+0.3% 
+1,146 
+99.7% 
+3 
+Tuition 
+793 
+13.4% 
+25 
+3.2% 
+768 
+96.8% 
+4 
+Speech and 
+Language 
+Therapy 
+645 
+10.9% 
+16 
+2.5% 
+629 
+97.5% 
+5 
+Occupational 
+Therapy 
+554 
+9.4% 
+15 
+2.7% 
+539 
+97.3% 
+6 
+Private 
+Evaluations 
+Ordered  
+256 
+4.3% 
+0 
+0.0% 
+256 
+100.0% 
+7 
+SEIT Services 
+183 
+3.0% 
+9 
+4.9% 
+174 
+95.1% 
+8 
+Counseling 
+153 
+2.6% 
+1 
+0.7% 
+152 
+99.3% 
+9 
+ABA Therapy 
+105 
+1.8% 
+5 
+4.8% 
+100 
+95.2% 
+10 
+Physical Therapy  
+89 
+1.5% 
+2 
+2.2% 
+87 
+97.8% 
+ 
+Remaining 
+Categories with 
+73 or Less 
+Action Items 
+295 
+5.0% 
+7 
+2.4% 
+288 
+97.6% 
+ 
+TOTAL 
+5,922 
+100.0% 
+124 
+2.1% 
+5,798 
+97.9% 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+The top three most frequently identified categories of reimbursement Action Items 
+were Tuition (721 Action Items or 58.3%), followed by Special Education Teacher 
+Support Services (94 Action Items or 7.6%) and Transportation (89 Action Items or 
+7.2%).  
+ 
+The categories with the highest percentage of Unimplemented Action Items with 
+respect to the total number of counted reimbursement Action Items within the category 
+were Special Education Teacher Support Services (100.0%) and Transportation 
+(97.8%). 
+ 
+The following table sets forth the top three reimbursement Action Item categories 
+based on the number of counted Action Items:  
+ 
+Action Item Category 
+Total 
+Counted 
+Payment 
+Action 
+Items 
+% Total 
+Counted 
+Payment 
+Action 
+Items 
+# Timely 
+Implemented 
+by Category 
+% Timely 
+Implemented 
+by Category 
+# 
+Unimplemented 
+by Category 
+% 
+Unimplemented 
+by Category 
+1 
+Tuition 
+721 
+58.3% 
+40 
+5.5% 
+681 
+94.5% 
+2 
+Special 
+Education 
+Teacher Support 
+Services 
+94 
+7.6% 
+0 
+0.0% 
+94 
+100.0% 
+3 
+Transportation 
+89 
+7.2% 
+2 
+2.2% 
+87 
+97.8% 
+ 
+Remaining 
+Categories with 
+66 or Less 
+Action Items 
+333 
+26.9% 
+3 
+0.9% 
+330 
+99.1% 
+ 
+TOTAL 
+1,237 
+100.0% 
+45 
+3.6% 
+1,192 
+96.4% 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+V. 
+Comparison of Timely Implemented Orders and Action Items 
+ 
+Guidehouse identified a decrease in the percentage of Timely Implemented Orders 
+and Timely Implemented Action Items in the PCA Sixtieth Quarter. Guidehouse 
+analyzed the statistics from the final PCA Fifty-Second through the PCA Fifty-Ninth 
+Quarterly Reports and determined that the DOE timely implemented, on average, 
+3.2% of Payment Orders, 2.4% of Payment Actions, 8.4% of Service Orders and 6.8% 
+of Service Action Items. In the PCA Sixtieth Quarter, Guidehouse determined that the 
+DOE timely implemented 2.2% of Payment Orders, 2.4% of Payment Action Items, 
+4.8% of Service Orders, and 3.9% of Service Action Items.  
+It is worth noting that the percentage of Timely Implemented Payment Orders and 
+Timely Implemented Payment Action Items remains below 3% and Timely 
+Implemented Service Orders and Timely Implemented Service Action Items fell below 
+5% in the final PCA Sixtieth Quarterly report.  The table below and the graph on the 
+following page depict the Timely Implemented percentages in the final reports from 
+Q52A through Q60A. 
+Final Quarterly Reports 
+52A 
+4/12/2022- 
+7/11/2022 
+53A 
+7/12/2022- 
+10/10/2022 
+54A 
+10/11/2022- 
+1/9/2023 
+55A 
+1/10/2023- 
+4/10/2023 
+56A 
+4/11/2023- 
+7/10/2023 
+57A 
+7/11/2023- 
+10/9/2023 
+58A 
+10/10/2023- 
+1/8/2024 
+59A        
+1/9/2024- 
+4/8/2024 
+60A 
+4/9/2024- 
+7/8/2024 
+Timely Implemented Payment 
+Orders 
+4.0% 
+3.0% 
+1.9% 
+4.1% 
+8.1% 
+3.1% 
+1.0% 
+0.6% 
+2.2% 
+Timely Implemented Payment 
+Action Items 
+4.9% 
+4.3% 
+1.7% 
+3.8% 
+6.7% 
+3.9% 
+1.8% 
+1.1% 
+2.4% 
+Timely Implemented Service 
+Orders 
+2.5% 
+8.6% 
+5.8% 
+7.2% 
+12.6% 
+10.4% 
+9.5% 
+10.4% 
+4.8% 
+Timely Implemented Service 
+Action Items 
+2.6% 
+6.0% 
+4.0% 
+5.9% 
+9.2% 
+7.2% 
+9.0% 
+10.4% 
+3.9% 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+VI. 
+Limitations  
+ 
+The conclusions, observations and assessments detailed in this report are based on 
+Guidehouse’s methodology and the procedures performed.  Had Guidehouse 
+performed additional procedures or testing, it is possible that our conclusions, 
+observations and assessments could be different.   Guidehouse also relied on 
+information provided by the DOE and AFC during its work. 
+ 
+VII. 
+Conclusion 
+ 
+Guidehouse has continued with its analysis of the Injunctive Relief Subclass Orders 
+and Action Items relating to subsequent reporting periods. 
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+14.0%
+52A
+4/12/2022-
+7/11/2022
+53A
+7/12/2022-
+10/10/2022
+54A
+10/11/2022-
+1/9/2023
+55A
+1/10/2023-
+4/10/2023
+56A
+4/11/2023-
+7/10/2023
+57A
+7/11/2023-
+10/9/2023
+58A
+10/10/2023-
+1/8/2024
+59A
+1/9/2024-
+4/8/2024
+60A
+4/9/2024-
+7/8/2024
+Timely Implemented Orders and Action Items
+Timely Implemented Payment Orders
+Timely Implemented Payment Action Items
+Timely Implemented Service Orders
+Timely Implemented Service Action Items

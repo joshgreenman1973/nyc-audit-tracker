@@ -1,0 +1,99 @@
+{
+  "id": "2026-02-12-boc-injury-response-nyc-jails",
+  "source": "other",
+  "auditor": "New York City Board of Correction",
+  "title": "Injury Response in NYC Jails: Board of Correction Analysis of 2024 Data",
+  "plain_title": "Jail injury counts still do not match and reports run months late",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-02-12",
+  "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+  "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/2026-Board-of-Correction-Report-Injury-Response.pdf",
+  "what_they_audited": "The New York City Board of Correction (BOC) checked whether the New York City Department of Correction (DOC) and New York City Health + Hospitals/Correctional Health Services (CHS) followed the Board's minimum standard on injury response during calendar year 2024. The review combined analysis of administrative data, the agencies' monthly and annual reports and a random sample of 99 Injury-to-Inmate forms.",
+  "background": "The Board published a report on serious injuries in 2019 that found DOC underreported serious injuries and had no single reliable count, and it then adopted rules requiring the two agencies to build a shared electronic injury tracking system and file joint monthly injury reports. Those requirements were phased in through August 2022, making 2023 the first full year of data collection after implementation.",
+  "findings": [
+    {
+      "plain": "Both agencies have written injury policies, which technically satisfies the standard, but the Board found the policies do not set deadlines for closing investigations or explain how investigative findings feed into preventing future injuries.",
+      "quote": "The lack of a formal definition for “prompt” and “expeditious” in"
+    },
+    {
+      "plain": "Injury investigations closed in nine days on average, but the spread ran from same day to about three months, and one in ten sampled forms carried date problems: missing dates, a closure date before the injury date or dates from before 2000. The Board says bad dates undercut its ability to sequence events and follow up.",
+      "quote": "a mean closure time of nine days"
+    },
+    {
+      "plain": "Most narratives read as neutral, with 86 of 99 rated fully objective, but people in custody declined to take part in the investigation in 97 of the 99 sampled cases.",
+      "quote": "people in custody refused to participate in the investigation process"
+    },
+    {
+      "plain": "The shared electronic injury tracking system the rules require still does not exist. DOC and CHS keep separate systems, and for 2024 CHS counted 29,405 injuries against DOC's 28,273, a gap the agencies say cannot be reconciled month to month because each counts a different set of cases.",
+      "quote": "The agencies continue to maintain separate systems"
+    },
+    {
+      "plain": "Self-harm reporting runs through three separate unreconciled figures in the same joint monthly report, two from CHS and one from DOC, with no explanation of the differences. CHS shares self-injury data with DOC but not its mental health self-harm data, so some self-harm incidents are never investigated by DOC.",
+      "quote": "these numbers match, and the report does not include an explanation or footnote"
+    },
+    {
+      "plain": "Reporting to the Board was late and incomplete. DOC first supplied 23,664 of the 28,273 injury forms for 2024, or 84 percent, rising to 94 percent after it uploaded missing May 2024 forms in November 2025, and the joint monthly reports slipped from an average 17 days late in 2023 to 72 days late in 2024.",
+      "quote": "In 2023, the average delay was 17 days, increasing substantially to 72 days in 2024."
+    },
+    {
+      "plain": "DOC's 2024 annual injury review attributed a 4 percent rise in injuries to a growing jail population, but the Board's own rate calculation shows injuries per 1,000 people in custody fell from 372 in 2023 to 365 in 2024. The review also identified no compliance problems and set out no corrective action plan.",
+      "quote": "did not articulate corrective action plans with defined steps or timelines"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "29,405 injuries",
+      "label": "Injuries CHS reported for 2024"
+    },
+    {
+      "value": "28,273",
+      "label": "Injuries DOC reported for 2024"
+    },
+    {
+      "value": "23,664 forms",
+      "label": "Injury-to-Inmate forms DOC first gave the Board"
+    },
+    {
+      "value": "72 days",
+      "label": "Average lateness of joint monthly injury reports in 2024"
+    },
+    {
+      "value": "nine days",
+      "label": "Average time to close an injury investigation"
+    },
+    {
+      "value": "10 of 99 (10%)",
+      "label": "Sampled forms with missing or inconsistent dates"
+    },
+    {
+      "value": "86 of 99 (87%)",
+      "label": "Sampled investigation narratives rated fully objective"
+    },
+    {
+      "value": "97 of 99 cases",
+      "label": "Cases where the injured person declined to participate"
+    }
+  ],
+  "recommendations": [
+    "DOC and CHS should update their policies on addressing and preventing injuries so they line up with the investigation, coordination and reporting requirements of Minimum Standard 3-16.",
+    "DOC policies should spell out how investigative findings are used to inform injury prevention, tying investigation results to corrective action.",
+    "CHS policies should spell out expected timelines for injury response, documentation such as Injury-to-Inmate forms and reporting such as the joint monthly injury report and the monthly public self-harm report.",
+    "DOC should digitize the Injury-to-Inmate form with required fields, room for supporting evidence such as video and electronic signatures, to cut down on missing data and handwritten sign-offs.",
+    "DOC should set up internal monitoring of investigation timeliness, including clear deadlines for closing an investigation, to address the cases that run long.",
+    "Given how often people in custody decline to take part, DOC should look for ways to engage them during investigations while respecting their rights and the standards.",
+    "DOC and CHS should voluntarily give the Board detailed minutes or summaries of the quarterly meetings the rules require, showing the data review, trends identified and quality assurance work.",
+    "DOC and CHS must build and maintain the coordinated electronic injury tracking system the rules require, covering serious and non-serious injuries in one reconciled platform.",
+    "DOC and CHS should put internal controls in place to submit Injury-to-Inmate forms and joint monthly injury reports on time.",
+    "DOC and CHS should reconcile their differing injury and self-injurious behavior counts into a single joint monthly injury report with all required breakdowns.",
+    "DOC should make its required annual review of the joint monthly reports document compliance findings, systemic issues and corrective action plans with steps and timelines, and should publish the annual reports as well as send them to the Board.",
+    "CHS should make its monthly public self-harm reports consistently break the data out by seriousness, separating serious from non-serious injuries as the minimum standards require."
+  ],
+  "agency_response": "The report notes that DOC and CHS staff reviewed and commented on it. After reviewing an earlier draft, DOC uploaded the missing May 2024 Injury-to-Inmate forms in November 2025, raising the share of 2024 forms provided to the Board from 84 percent to 94 percent.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "public safety",
+    "health"
+  ],
+  "is_followup": false
+}

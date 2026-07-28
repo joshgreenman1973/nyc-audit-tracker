@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The audit files — watchdog reports on New York City government</title>
-<meta name="description" content="Every comptroller audit, Department of Investigation report and court monitor report on New York City government since January 1, 2025, in plain language, with implementation status and links to official sources.">
+<meta name="description" content="Every comptroller audit, Department of Investigation report, court monitor report and independent oversight report on New York City government since January 1, 2025, in plain language, with implementation status and links to official sources.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Besley:wght@700;800;900&family=Public+Sans:wght@400;600;700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
@@ -20,6 +20,7 @@
   --state: #1e5c46;
   --doi: #8a4d1c;
   --monitor: #5d2a52;
+  --other: #3f4d5c;
   --ok: #1e5c46;
   --warn: #8a6400;
   --bad: #a8232a;
@@ -112,6 +113,7 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
 .badge.osc { background: var(--state); }
 .badge.doi { background: var(--doi); }
 .badge.monitor { background: var(--monitor); }
+.badge.other { background: var(--other); }
 .file-body {
   border: 1.5px solid var(--ink); background: #fbf7ea;
   box-shadow: 4px 5px 0 rgba(27,23,18,.16);
@@ -212,9 +214,9 @@ footer a { color: var(--ink); }
 <div class="wrap">
 
 <header class="masthead">
-  <div class="kicker">Comptroller audits, investigations and court monitor reports on New York City government</div>
+  <div class="kicker">Comptroller audits, investigations, court monitor reports and oversight board reports on New York City government</div>
   <h1>The audit files</h1>
-  <p class="dek">New York City government answers to a small army of official watchdogs: the city comptroller, the state comptroller, the Department of Investigation and federal court-appointed monitors. Their findings land in long PDFs that few people read. This tracker collects every report on city agencies and programs since January 1, 2025 and restates what the watchdogs examined, what they found, what they told the agency to fix and what has actually been fixed, in plain language, with links to every official source.</p>
+  <p class="dek">New York City government answers to a small army of official watchdogs: the city comptroller, the state comptroller, the Department of Investigation, court-appointed monitors and independent oversight boards. Their findings land in long PDFs that few people read. This tracker collects every report on city agencies and programs since January 1, 2025 and restates what the watchdogs examined, what they found, what they told the agency to fix and what has actually been fixed, in plain language, with links to every official source.</p>
   <div class="fileline">
     <span>File opened: <b>Jan 1, 2025</b></span>
     <span>Last updated: <b id="updated">—</b></span>
@@ -233,6 +235,7 @@ footer a { color: var(--ink); }
       <button data-aud="osc">State comptroller</button>
       <button data-aud="doi">Investigation Dept.</button>
       <button data-aud="monitor">Court monitors</button>
+      <button data-aud="other">Other oversight</button>
     </div>
   </div>
   <div class="chips" id="topicChips" aria-label="Filter by topic"></div>
@@ -246,7 +249,7 @@ footer a { color: var(--ink); }
 <main id="list" aria-live="polite"></main>
 
 <footer>
-  <p><strong>About this tracker.</strong> Audits, investigations and monitor reports on New York City agencies, programs and spending issued on or after January 1, 2025 by the New York City Comptroller's Office, the Office of the New York State Comptroller, the New York City Department of Investigation and federal court-appointed monitors. Plain-language summaries are drawn only from the text of each official report; every card links to the official source. Implementation statuses for city comptroller audits come from the comptroller's own Audit Recommendations Tracker and are agency-reported.</p>
+  <p><strong>About this tracker.</strong> Audits, investigations and monitor reports on New York City agencies, programs and spending issued on or after January 1, 2025 by the New York City Comptroller's Office, the Office of the New York State Comptroller, the New York City Department of Investigation, court-appointed monitors in the Floyd stop and frisk, Nunez jails, NYCHA public housing and L.V. special education cases, the New York City Board of Correction and the Commission to Combat Police Corruption. Plain-language summaries are drawn only from the text of each official report; every card links to the official source. Implementation statuses for city comptroller audits come from the comptroller's own Audit Recommendations Tracker and are agency-reported.</p>
   <div class="footrow">
     <a class="methlink" href="methodology.html">Methodology</a>
     <button class="ai-btn" id="aiBtn">AI caution</button>
@@ -254,7 +257,7 @@ footer a { color: var(--ink); }
   <div class="ai-pop" id="aiPop">
     This tracker was built with AI assistance. Report lists, dates, agencies, source links and implementation statuses come directly from official government websites, and every summary is written from the text of the official reports, but AI-written summaries can contain errors of emphasis or interpretation. Before relying on any figure or finding, read the official report linked on each card.
   </div>
-  <p>Built by Josh Greenman. Data from <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, <a href="https://www.nyc.gov/site/doi/newsroom/press-releases.page">nyc.gov/doi</a>, <a href="https://www.nypdmonitor.org/resources-reports/">nypdmonitor.org</a> and <a href="https://tillidgroup.com/projects/nunez-monitorship/">tillidgroup.com</a>.</p>
+  <p>Built by Josh Greenman. Data from <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, <a href="https://www.nyc.gov/site/doi/newsroom/press-releases.page">nyc.gov/doi</a>, <a href="https://www.nypdmonitor.org/resources-reports/">nypdmonitor.org</a>, <a href="https://tillidgroup.com/projects/nunez-monitorship/">tillidgroup.com</a>, <a href="https://www.nychamonitor.com/reports">nychamonitor.com</a>, <a href="https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/">advocatesforchildren.org</a>, <a href="https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page">nyc.gov/boc</a> and <a href="https://www.nyc.gov/site/ccpc/reports/annual-reports.page">nyc.gov/ccpc</a>.</p>
 </footer>
 
 </div>
@@ -357,7 +360,7 @@ function render() {
   });
 }
 
-const BADGE_LABEL = { nyc: "City comptroller", osc: "State comptroller", doi: "Investigation Dept.", monitor: "Court monitor" };
+const BADGE_LABEL = { nyc: "City comptroller", osc: "State comptroller", doi: "Investigation Dept.", monitor: "Court monitor", other: "Oversight body" };
 
 function statusLine(a) {
   const t = a.status_tally;
@@ -385,7 +388,7 @@ function card(a) {
     const chip = s && ST_CLASS[s.status] ? `<span class="st ${ST_CLASS[s.status]}">${esc(s.status)}</span>` : "";
     return `<li>${esc(r)}${chip}</li>`;
   }).join("");
-  const auditorLine = a.source === "monitor" || a.source === "doi" ? ` · ${esc(a.auditor)}` : "";
+  const auditorLine = a.source === "monitor" || a.source === "doi" || a.source === "other" ? ` · ${esc(a.auditor)}` : "";
   return `
   <article class="file" id="${esc(a.id)}">
     ${a.is_followup ? `<div class="stamp-followup">Follow-up</div>` : ""}

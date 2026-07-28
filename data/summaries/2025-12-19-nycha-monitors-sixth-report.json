@@ -1,0 +1,65 @@
+{
+  "id": "2025-12-19-nycha-monitors-sixth-report",
+  "source": "monitor",
+  "auditor": "Federal monitors (NYCHA public housing)",
+  "title": "New York City Housing Authority Monitorship: Monitors' Report (Sixth Report)",
+  "plain_title": "Heating outages spike and a chimney falls as mold work improves",
+  "agency": "New York City Housing Authority",
+  "issued": "2025-12-19",
+  "url": "https://www.nychamonitor.com/reports",
+  "pdf": "https://www.nychamonitor.com/s/NYCHA-Monitorship-Sixth-Report.pdf",
+  "what_they_audited": "The federal monitors' sixth quarterly report on the New York City Housing Authority's (NYCHA) compliance with its 2019 agreement with the federal government, covering heat, elevators, pests and waste, mold and leaks, lead paint and inspections, plus organizational change and capital spending. It reports data for August 1, 2025 to October 31, 2025.",
+  "background": "On January 31, 2019 NYCHA agreed with the U.S. Attorney's Office for the Southern District of New York (SDNY), the U.S. Department of Housing and Urban Development (HUD) and the City of New York to improve housing conditions, and a monitor was appointed to evaluate compliance. Neil Barofsky and Matthew Cipolla of Jenner & Block LLP began a five-year term as co-monitors on February 28, 2024.",
+  "findings": [
+    {
+      "plain": "The heating season opened badly. There were 30 unplanned central heating outages in October 2025 compared with four in October 2024, affecting 13% of occupied apartments rather than 2%, though NYCHA still resolved them in an average of 7.3 hours. October 2025 was colder, with 198 heating degree days against 128 a year earlier.",
+      "quote": "season, there have been 30 unplanned central heating"
+    },
+    {
+      "plain": "A 20-story exterior chimney serving the boiler room at Mitchel Houses in the Bronx collapsed on October 1, 2025. No one was hurt, but 38 apartments were evacuated, about 88 residents went to hotels and gas service to the whole development was shut off. The Fire Department, the Department of Buildings and the Department of Investigation are all investigating.",
+      "quote": "approximately 88 residents were temporarily relocated to hotels"
+    },
+    {
+      "plain": "Mold response kept improving from a very low base. NYCHA removed mold within five business days 24% of the time in the third quarter of Year 7, up from 7% a year earlier, and met the agreement's combined mold timeframes 28% of the time across three quarters versus 8%. The requirement is 95%.",
+      "quote": "days 24% of the time, compared to 7% of the time"
+    },
+    {
+      "plain": "The mold and leak backlog stayed far too high, with 61,675 work orders pending for 16 days or more. A new Mold and Leaks Restore and Renew program at Sotomayor Houses had closed roughly 65% of targeted work orders by November 17, 2025, including repairs that had gone unaddressed for more than 1,000 days.",
+      "quote": "high, with 61,675 work orders that have been pending"
+    },
+    {
+      "plain": "Pest response times improved but populations did not. NYCHA answered 86% of mouse, cockroach and bed bug complaints within seven calendar days, 27 percentage points better than a year earlier, yet its estimated rat population rose about 33% and the cumulative rat reduction stood at 48%, short of the 75% target.",
+      "quote": "to 86% of these pest complaints within seven calendar"
+    },
+    {
+      "plain": "Elevator performance slipped modestly across nearly every requirement, and NYCHA still had not finished replacing 275 elevators, an obligation due December 31, 2024. It had completed 258 replacements as of October 31, 2025. Low voltage conditions, including Con Edison voltage reductions during summer heat waves, contributed to outages.",
+      "quote": "met this obligation, completing 258 total elevator replacements as of"
+    },
+    {
+      "plain": "HUD inspection scores improved overall but a group of developments got much worse. NYCHA passed 63% of 87 inspections in 2025 compared with 46% of 138 in 2024, and 42 developments gained ten points or more, but 14 developments lost ten points or more and Farragut Houses drew a preliminary score of nine. Annual self-inspections reached 91% of occupied apartments, up from 82%.",
+      "quote": "improved its overall NSPIRE pass rate to 63% in 2025 as"
+    }
+  ],
+  "numbers": [
+    {"value": "13%", "label": "Occupied apartments hit by an unplanned outage in October"},
+    {"value": "88 residents", "label": "Moved to hotels after the Mitchel Houses chimney collapse"},
+    {"value": "61,675", "label": "Mold and leak work orders pending 16 days or more"},
+    {"value": "48%", "label": "Cumulative rat reduction, against a 75% target"},
+    {"value": "258", "label": "Elevators replaced of the 275 due by the end of 2024"},
+    {"value": "63%", "label": "HUD inspections passed in 2025, up from 46% in 2024"},
+    {"value": "91%", "label": "Occupied apartments self-inspected as of October 31, 2025"},
+    {"value": "15,000", "label": "Apartments where lead paint has been removed"}
+  ],
+  "recommendations": [
+    "Improve the quality of pest control treatments so that pest populations actually decline, not just the speed of the response.",
+    "Find additional funding to install automatic voltage regulators on more elevators, since only a small fraction will get them under projected funding.",
+    "Formalize the process for third and later attempts to enter an apartment for annual inspections and record those attempts in the work order system so residents get notice and NYCHA can enforce access.",
+    "Investigate and fix the root causes at the 14 developments whose HUD inspection scores fell ten points or more.",
+    "Strengthen self-inspections so health and safety problems such as missing smoke detectors and outlets without ground-fault protection are found and fixed before HUD inspects."
+  ],
+  "agency_response": "NYCHA says it is cooperating fully with the investigations into the Mitchel Houses collapse. It installed mobile boilers within a week, later added a third, gave residents electric hot plates while cooking gas was out and is appealing numerous failing HUD inspection scores, having already persuaded HUD to change ten scores from failing to passing.",
+  "implementation_note": "",
+  "compliance_note": "The monitors say NYCHA has continued to build on earlier progress and should be commended, while heat, elevators, mold and inspections all need continued focus. Under Paragraph 28 of the agreement, NYCHA does not yet meet the criteria for ending the monitorship.",
+  "topics": ["housing", "health"],
+  "is_followup": false
+}

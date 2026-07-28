@@ -1,0 +1,96 @@
+{
+  "id": "2026-05-01-boc-third-report-2025-deaths",
+  "source": "other",
+  "auditor": "New York City Board of Correction",
+  "title": "Third Report and Recommendations on 2025 Deaths in New York City Department of Correction Custody",
+  "plain_title": "Missed tours and abandoned posts before three jail deaths",
+  "agency": "New York City Department of Correction",
+  "issued": "2026-05-01",
+  "url": "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
+  "pdf": "https://www.nyc.gov/assets/boc/downloads/pdf/Third-Report-and-Recommendations-on-2025-Deaths-and-CHS-Response.pdf",
+  "what_they_audited": "The New York City Board of Correction (BOC), the city's jail oversight board, investigated the deaths of Edwin Ramos, Aramis Furse and Kyron Randall, three people who died in November and December 2025 in the custody of the New York City Department of Correction (DOC). Board staff reviewed DOC, medical, medical examiner, emergency medical and hospital records, surveillance and body-worn camera video, and interviewed staff and people in custody.",
+  "background": "The New York City Charter and city rules require the Board to investigate deaths in DOC custody and to recommend measures to DOC and NYC Health + Hospitals/Correctional Health Services (CHS) that could prevent the circumstances that contributed to a death. The Board says these investigations look for systemic flaws and policy failures rather than criminality, and this is its third report on the 15 people who died in custody in 2025.",
+  "findings": [
+    {
+      "plain": "Officers left their assigned housing area posts repeatedly during the tours in which Mr. Furse and Mr. Randall died, without logging that they had told a supervisor. In one case the officer was away from the post for nearly three hours.",
+      "quote": "the oﬃcer was oﬀ post for two hours and 44 minutes"
+    },
+    {
+      "plain": "The officer assigned to Mr. Randall's housing area did not tour as DOC policy requires, which calls for a visual check for signs of life in every person in a cell area twice an hour.",
+      "quote": "conduct visual observations at 30-minute intervals"
+    },
+    {
+      "plain": "Logbook entries in Mr. Randall's unit recorded 30-minute tours that video shows did not happen, because the officer was not on the post at the times logged.",
+      "quote": "logbook entry, the “B” oﬃcer was oﬀ post"
+    },
+    {
+      "plain": "When Mr. Randall was found in medical distress, the housing officer left him alone in his cell for 24 minutes, contrary to DOC rules requiring staff to stay close to a person needing medical attention.",
+      "quote": "unsupervised, for 24 minutes while he experienced a medical emergency"
+    },
+    {
+      "plain": "CHS emergency responders also stepped away from Mr. Randall twice while he was in distress, which CHS policy on emergency response does not allow.",
+      "quote": "CHS emergency response staﬀ left Mr. Randall unattended while in distress"
+    },
+    {
+      "plain": "Supervision lapses let people in Mr. Furse's unit stay out of their cells after the 9:00 pm mandatory lock-in, gather in single cells assigned to someone else, cover fixed cameras with tissues and pass items that looked like rolled cigarettes. Video in Mr. Ramos' unit also showed apparent drug paraphernalia in use.",
+      "quote": "individuals in Mr. Furse’s housing area were out of their cells, roaming"
+    },
+    {
+      "plain": "Cell windows in Mr. Furse's housing area were blocked, obstructing officers' view into the cells, which DOC's own rule book prohibits.",
+      "quote": "Multiple individuals in Mr. Furse’s housing area partially or completely covered their"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "15 individuals died",
+      "label": "People who died in DOC custody in 2025"
+    },
+    {
+      "value": "two hours and 44 minutes",
+      "label": "Longest single stretch an officer was off post"
+    },
+    {
+      "value": "24 minutes",
+      "label": "Time Mr. Randall was left alone during his emergency"
+    },
+    {
+      "value": "30-day suspension",
+      "label": "Discipline given to the officer in Mr. Furse's unit"
+    },
+    {
+      "value": "66 pills",
+      "label": "Pills found in Mr. Furse's cell after his death"
+    },
+    {
+      "value": "eight times",
+      "label": "Times Mr. Randall was referred to Bellevue Hospital"
+    },
+    {
+      "value": "22.0%",
+      "label": "Share of people in custody with serious mental illness, FY26"
+    }
+  ],
+  "recommendations": [
+    "To CHS 1: CHS should reinforce and retrain staff on the requirement to continuously monitor people in custody who are in medical distress, as set out in CHS Medical Policies Section 10 on emergency response.",
+    "To DOC 1: Reinforce and retrain staff on basic supervision, touring and logbook practices, including staying on post, staying alert and accurately documenting breaks, meals, tours and incidents.",
+    "To DOC 2: Facility leadership must assign supervisors to periodically review surveillance video to spot officers who tour and document poorly, require those officers to meet with leadership before returning to post and schedule refresher training when needed.",
+    "To DOC 3: Housing area staff must immediately notify a supervisor when they see contraband and step in to confiscate it, and DOC must then arrange an unscheduled search of the unit and drug test the people housed there.",
+    "To DOC 4: DOC must address the findings of the 2023 cell door audit cited by the Nunez federal monitor, conduct an updated audit if needed and develop an action plan for securing cell doors and promptly reporting broken ones, to be shared with the Board at least 30 days before it is put in place.",
+    "To DOC 5: Staff must tell people in custody to remove cell window coverings, notify a supervisor and log the encounter if that does not work, have a supervisor physically remove the coverings, and have supervisors regularly monitor housing areas and audit logbooks.",
+    "To DOC 6: Post and distribute notices telling people in custody to comply with the security bulletin on cell window obstruction or risk losing the items used to block the view.",
+    "To DOC 7: Use the Video Monitoring Unit as intended to help facilities spot security problems including drug and tobacco use, and improve records tracking people found with prohibited items.",
+    "To DOC 8: Enforce the Board's Minimum Standard barring more than one person from occupying a single cell.",
+    "To DOC 9: Report refusals to lock in at 9:00 pm to the Central Operations Desk and respond as the lock-in and lockout directive requires, which may include calling in other DOC units, and improve reporting to track housing areas where people refuse to lock in.",
+    "To DOC 10: Send out teletypes restating that officers may not leave their assignment without a supervisor's approval or being relieved.",
+    "To DOC 11: Retrain staff who do not follow the rule requiring them to stay close to a person needing medical attention so the person stays under close observation until medical responders arrive.",
+    "To DOC 12: Stay alert on post as the rules require and report anyone seen tampering with DOC equipment."
+  ],
+  "agency_response": "In a letter appended to the report, CHS accepted the single recommendation directed to it and said it will continue to reinforce with clinical staff the need to continuously monitor patients in medical distress. The report does not include a DOC response.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "public safety",
+    "health"
+  ],
+  "is_followup": false
+}

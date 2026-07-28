@@ -1,0 +1,576 @@
+ 
+ 
+ 
+BOARD OF CORRECTION 
+CITY OF NEW YORK 
+SUICIDE PREVENTION IN CITY JAILS: 
+MARCH 2026 OBSERVATION AIDE ASSESSMENT 
+JUNE 18, 2026 
+Table of Contents 
+Introduction ........................................................................................................... 2 
+Assessment Tool .................................................................................................... 2 
+Methodology ......................................................................................................... 3 
+Initial Survey Findings ............................................................................................ 4 
+Follow-up Findings ................................................................................................. 7 
+Conclusion ........................................................................................................... 10 
+Recommendations ............................................................................................... 10 
+Addendum ........................................................................................................... 12 
+ 
+ 
+ 
+
+ 
+2 
+ 
+Introduction 
+New York City Charter § 626(e) charges the New York City Board of Correction 
+(“Board” or “BOC”) with establishing minimum standards for the care, custody, 
+correction, treatment, supervision, and discipline of all persons held or confined 
+under the jurisdiction of the New York City Department of Correction (“DOC” or 
+“Department”). 
+Section 2-02(d) of Title 40 of the Rules of the City of New York requires the 
+Department to establish an Observation Aide program1 to monitor individuals 
+identified to be at risk of potential suicide, as well as to recognize warning signals 
+of suicidal behavior in individuals not previously identified. As outlined in DOC 
+Directive #4017R-D,2 these aides shall be assigned to areas such as new admission 
+housing, mental health housing, protective custody, restrictive housing, and intake, 
+and are required to complete tours of these housing areas every 10 minutes. If no 
+aide is assigned, uniformed staff must conduct tours every 15 minutes.  
+As the Board requires DOC to establish and maintain a program to monitor 
+individuals housed in these designated areas, Board staff conducted a three-week 
+assessment in March 2026 to evaluate DOC's compliance with these standards and 
+existing policies. 
+Assessment Tool 
+To assess compliance with relevant minimum standards and DOC’s directive, Board 
+staff developed a structured auditing tool of nine questions focused on capturing 
+ 
+1 “Observation Aide” is defined as a person in custody with no position of authority who has been 
+trained to identify unusual and/or suicidal behavior and immediately report such behavior to the 
+housing unit officer. New York City Department of Correction, Directive #4521R-A, Suicide 
+Prevention and Intervention, Section IV(f) (effective February 2, 2021). The full directive is publicly 
+available here:  https://www.nyc.gov/assets/doc/downloads/directives/Directive%204521R-
+A%20Suicide%20Prevention%20and%20Intervention.pdf 
+2 Observation aides must conduct vigilant patrols at irregular intervals not to exceed ten minutes 
+between tours (minimum of six per hour), promptly report any unusual or suicidal behavior to 
+the correction officer on duty, talk with incarcerated individuals to identify their needs and 
+communicate those needs to the officer on duty, and provide assistance to the officer or 
+supervisory staff as directed following a suicide attempt. New York City Department of 
+Correction, Directive #4521R-A, Suicide Prevention and Intervention, Section III(E)(1) (effective 
+February 2, 2021).   
+
+ 
+3 
+ 
+data about observation aide staffing, equipment made available to observation 
+aides to perform their role, and correctional staff tour compliance in units without 
+an observation aide. 
+The survey also included open-ended response fields to capture operational 
+challenges, resource gaps, staff and observation aide concerns, and suggestions for 
+improving efficiency and compliance. This enabled both quantitative measurement 
+and qualitative insight (see page 12 for list of survey questions) into recurring issues 
+impacting program performance. For both audits, Board staff visited designated 
+housing areas and collected data through a combination of housing area logbook 
+reviews and structured interviews with observation aides and correctional staff. In 
+housing areas without an assigned observation aide, interviews were conducted 
+with correctional staff. Board staff documented visual observations, including the 
+availability of required equipment, verified logbook entries, and reviewed whether 
+observation aides’ names and identification numbers were recorded in the “A” post 
+and observation aide logbooks. All findings and survey responses were recorded 
+using a standardized survey form administered through Microsoft Forms.  
+Methodology 
+Board staff conducted two structured audits of the Observation Aide program to 
+establish baseline conditions and assess subsequent improvement. While the 
+audits capture conditions present at the time of the inspection, Board staff visited 
+a broad cross-section of specialized housing areas across multiple facilities, 
+allowing for the identification of recurring operational practices and compliance 
+trends. 
+The initial baseline survey was conducted from March 1 through March 9, 2026. 
+During this initial period, the team visited 62 housing areas across seven of the 
+eight operational housing facilities at the time. West Facility was excluded from the 
+survey due to its current housing designations, which include general population 
+and the communicable disease unit, a medical therapeutic unit comprised of single 
+cells designed to isolate individuals with a communicable disease. This initial audit 
+identified established practices, operational deficiencies and areas requiring 
+
+ 
+4 
+ 
+corrective actions. Observations made were shared with DOC facility staff following 
+the initial audit period. 
+The second assessment, conducted from March 23 through April 3, 2026, used the 
+same methodology and evaluation criteria to ensure consistency and allow for 
+direct comparisons. The North Infirmary Command (“NIC”) was excluded from the 
+follow-up audit because it no longer housed individuals in units eligible for the 
+survey at the time of the assessment, resulting in a reduced sample of 58 units 
+compared to 62 during the baseline audit.  To promote comparability between the 
+initial and follow-up assessment, Board staff returned to the same housing areas 
+and conducted the survey during the same tours. The follow-up assessment was 
+designated to measure progress, evaluate the effectiveness of corrective actions, 
+and identity remaining gaps.  
+The inspection form captured key data points, including facility, housing area, unit 
+category, census, observation aide staffing levels, logbook compliance (officer and 
+aide), communication practices, equipment availability, and 15-minute tour 
+compliance in units without aide coverage.  
+Quantitative data were analyzed using frequencies and percentages, with subgroup 
+denominators applied where appropriate. Measures related to documentation and 
+equipment were assessed only in units with assigned observation aides, while 15-
+minute tour compliance was evaluated only in units without aide coverage. 
+Qualitative findings were used to provide context and highlight recurring themes. 
+Initial Survey Findings 
+At the time of inspection, 41 of the 62 housing units had at least one observation 
+aide present and actively assigned to the housing area. The remaining 21 units did 
+not have an observation aide assigned to the unit at the time of the inspection. This 
+indicates that about one in three units lacked coverage. Despite staffing in most 
+units, gaps remained in documentation, equipment, and required practices.  
+
+ 
+5 
+ 
+Table 1. Areas visited during initial survey by facility3  
+Facility 
+Adult/MO Adult/PC YA/MO YA/PC 
+New 
+Admin 
+PACE Intake Other4 
+EMTC 
+4 
+0 
+0 
+0 
+6 
+0 
+1 
+0 
+GRVC 
+6 
+0 
+0 
+0 
+N/A 
+6 
+1 
+2 
+OBCC 
+3 
+2 
+0 
+0 
+N/A 
+0 
+1 
+3 
+RMSC 
+2 
+1 
+0 
+0 
+N/A 
+1 
+1 
+3 
+RNDC 
+3 
+6 
+1 
+1 
+N/A 
+1 
+1 
+0 
+NIC 
+0 
+2 
+0 
+0 
+N/A 
+0 
+0 
+2 
+RESH 
+Annex 
+2 
+0 
+0 
+0 
+N/A 
+0 
+0 
+0 
+Summary 
+While most units had observation aide coverage during daytime tours, program 
+and recordkeeping effectiveness was limited by documentation gaps, inconsistent 
+recordkeeping, and equipment shortages. “B” post officers in units without 
+observation aide coverage frequently failed to meet 15-minute tour requirements, 
+weakening a key safeguard in the event an observation aide is not touring or 
+assigned. 
+Documentation Compliance in Staffed Units 
+Among 41 units staffed with aides, only 4 (9.8%) had proper “A” post officer 
+documentation reflecting observation aides’ names and Book and Case numbers 
+required by Directive #4017R-D,5 while 37 (90.2%) did not. Observation aide 
+ 
+3 “MO” refers to mental observation housing, designed for individuals in custody who have 
+significant mental health needs and would benefit from increased patient-provider engagement 
+and enhanced treatment. “PC” refers to protective custody housing. “New Admin” refers to 
+housing for those newly admitted to custody. “PACE” refers to the Program for Accelerated 
+Clinical Effectiveness, which houses individuals diagnosed with a serious mental illness who 
+require a higher level of care. 
+4 Other refers to the Special Consideration Unit (“SCU”), Special Management Unit (“SMU”), 
+Centrally Monitored Cases (“CMC”) unit, Groups for Addictive Treatment Enhancement (“GATE”) 
+unit, and Supportive Transitional Engagement Program (“STEP”) unit. 
+5 “A” post officers are responsible for: 1) obtaining equipment for observation aides; 2) recording 
+the name and number of observation aides on duty and those who are replaced or relieved in 
+the housing area logbook; 3) notifying a supervisor of any aide who is replaced or relieved; 4) 
+
+ 
+6 
+ 
+logbooks were present in 28 units (68.3%) and absent in 13 (31.7%). All 41 units 
+(100%) confirmed aides did not work more than one tour in 24 hours. One aide 
+reported restricted overnight access to water due to the removal of the water 
+container and locked cells. 
+Compliance in Units Without Observation Aide Coverage 
+Of 21 units without observation aides, only 7 (33.3%) complied with required 15-
+minute tours by “B” post officers, while 14 (66.7%) did not. Correctional staff 
+assigned to restrictive housing at the Main Building of the North Infirmary 
+Command reported that “if there is no suicide watch on the tier, we do not make 
+15-minute tours.” 6  
+Equipment Deficiencies 
+Only 11 of 41 staffed units (26.8%) had all required equipment. Missing items 
+included flashlights (19), logbooks (17), and working clocks (7). Some aides relied 
+on tablets or televisions to keep track of time to ensure they were meeting touring 
+requirements. Directive 4017R-D, Section F on equipment, states: “while on duty, 
+each Observation Aide shall be assigned the following equipment which must be in 
+working order: hand-held utility light (4x12 and 12x8 tours if applicable) and access 
+to a working clock.” Access to tablets or televisions can be limited based on 
+availability, location, and time of day. 
+Eric M. Taylor Center 
+ 
+immediately notifying a supervisor if an aide is absent or cannot perform their duties to ensure 
+the “B” post officer tours every 15 minutes and a second “B” post officer is assigned; 5) ensuring 
+aides are on post and performing their duties; 6) notifying a supervisor of any aide who cannot 
+perform their duties; 7) notifying a supervisor of any person who has attempted suicide, is 
+displaying suicidal behavior or indicating behavior that requires medical treatment or a mental 
+health evaluation; 8) making appropriate entries in the housing area logbook; and 9) making 
+appropriate referrals to mental health services. New York City Department of Correction, 
+Directive #4017R-D, Observation Aide Program, Section III(J) on “A” Post Officer 
+Duties/Responsibilities. 
+6 Observation aides shall be assigned to all special housing areas where the incarcerated 
+population has been placed under observation, including mental health housing areas, restrictive 
+housing, protective custody housing areas, intake areas, and new admission housing areas.  
+
+ 
+7 
+ 
+The Eric M. Taylor Center (“EMTC”) serves as an intake facility that houses newly- 
+admitted male people in custody prior their transfer to their designated facilities, 
+as well as City sentenced individuals. Due to high turnover driven by frequent 
+reassignment and movement between housing units and facilities on Rikers Island, 
+EMTC experiences constant population fluctuation. Based on observations from 
+prior observation aide surveys and direct field observations, the frequent 
+movement of staff appears to increase the number of qualified observation aides 
+available across facilities; however, it also contributes to inconsistent staffing 
+coverage and observable gaps in the implementation of the Observation Aide 
+program. This pattern was further supported through conversations with EMTC Job 
+Assignment staff, who noted a high rate of aide turnover in new admission housing 
+areas due to frequent and ongoing staff transfers across assignments.  
+Follow-up Findings 
+Overall Observation Aide Coverage 
+During the baseline audit, Board staff identified and flagged concerns directly with 
+officers within each facility. Following the completion of the initial audit, the 
+findings were relayed to job assignment officers and, in some instances, the tour 
+commander within each facility in real time, allowing for immediate awareness, 
+transparency and clarification where necessary. Facility staff were receptive to 
+feedback, and open lines of communication were established to discuss identified 
+issues and potential corrective actions. 
+A three-week interval between assessments was intentionally scheduled to ensure 
+that findings reflected conditions over a broader timeframe rather than a single 
+day. This approach allowed for a more representative evaluation of practices 
+withing the program. At the conclusion of this period, a follow-up audit was 
+conducted using the same mythology and survey as the initial assessment. The 
+second assessment was designed to reassess conditions, determine whether 
+previously identified issued persisted across time, and assess whether frontline 
+staff demonstrated awareness of concerns raised in the initial audit.  
+Of 58 housing units included in the follow-up review, 48 were staffed with 
+observation aides and ten were not. As previously noted, NIC was excluded from 
+
+ 
+8 
+ 
+the follow-up audit because it no longer housed individuals in units subject to 
+observation aide requirements at the time of the second assessment, resulting in a 
+reduced and non-comparable sample between the two periods.7 
+Documentation Compliance in Staffed Units 
+Board staff’s review of the housing area logbooks noted that officer documentation 
+improved slightly in 6 units (12.5%) from 9.8%. Observation aide logbook use 
+increased to 79.2% from 68.3%. No aides worked more than one tour in 24 hours. 
+Observation aide touring issues persisted due to clocks being inoperable or not 
+available for use. 
+Compliance in Units Without Observation Aide Coverage 
+Of 10 units without observation aides,8 only 20% complied with 15-minute tours by 
+“B” post officers, down from 33.3%. DOC staff continued to report they were not 
+aware they were required to conduct 15-minute tours when an observation aide 
+was not on shift. These findings reflect units that, consistent with DOC’s directive, 
+require observation aide coverage, and were specifically reviewed during the 
+assessment for compliance with those staffing and tour requirements. 
+Equipment Availability 
+Units equipped with all required equipment increased to 22 of 48 staffed units 
+(45.8%), up from 26.8%. However, 54.2% still lacked at least one required item 
+(flashlights, logbooks, or clocks). 
+Comparative Summary 
+Observation aide coverage improved (66.1% to 82.8%), as did logbook use (68.3% 
+to 79.2%), and equipment availability (26.8% to 45.8%). However, officer 
+ 
+7 New York City Department of Correction, Teletype Order HQ-00659-0, Bellevue Hospital 
+Outpost Therapeutic Housing Unit / Update on North Infirmary Command (dated April 7, 2026). 
+8 The procedures defined in Directive 4017R-D, entitled “Inmate Observation Aide Program,” 
+state: “In the event an Observation Aide is absent or unable to perform assigned duties, the 
+Correction Officer assigned to the “A” Post shall immediately notify the housing area supervisor. 
+The supervisor shall direct the Security Post Officer to conduct fifteen (15) minute tours of 
+inspection and make corresponding logbook entries. The Correction Officer shall remain assigned 
+to the housing area until a qualified Observation Aide reports for duty.” 
+
+ 
+9 
+ 
+documentation as required by DOC policy remained low (9.8% to 12.5%), and 15-
+minute tour compliance in areas without an observation aide declined (33.3% to 
+20%). Overall, improvements were observed but key compliance gaps persist. 
+Rose M. Singer Enhanced Supervision Housing (“RESH”)9 
+RESH does not operate pursuant to DOC Directive #4017R-D, as officers do not 
+allow individuals in RESH to participate in the Observation Aide program. A DOC 
+area supervisor informed the Board that, based on the infraction history of 
+individuals placed in RESH, they are considered a “security risk” and are therefore 
+not permitted to serve as observation aides. The DOC area supervisor further 
+stated that individuals in RESH are frequently moved between housing areas, which 
+creates challenges in maintaining consistent observation aide coverage. 
+Furthermore, DOC does not permit individuals not assigned to RESH to enter the 
+unit, limiting options for observation aides. However, according to DOC’s Enhanced 
+Supervision Housing (“ESH”) directive, individuals housed in RESH Level II are 
+eligible to fulfill observation aide roles.10 
+Per DOC supervisory staff, required tours of the unit are electronically recorded at 
+30-minute intervals with a touring wand,11 and any tours conducted outside of the 
+scheduled timeframe may be flagged as anomalies within the system. However, 
+this explanation contradicts the touring policy, as RESH is considered specialized 
+housing warranting 15-minute tours in the absence of an observation aide.12 
+ 
+9 § 1-16(b) of the Board’s Minimum Standards (previously repealed but reinstated by mayoral 
+emergency executive order) states that a person in custody may be confined in Enhanced 
+Supervision Housing if they present a significant threat to the safety and security of the facility if 
+housed elsewhere. 
+10 Directive #4491, Enhanced Supervision Housing (ESH), on work assignments within housing 
+units Level II only. 
+11New York City Department of Correction, Operations Order No. 1/23: Guard 1 Plus Patrol 
+System (PIPE), § V(A)(2), (E)(1) (effective March 7, 2023).  
+12 Directive #4017R-D, Observation Aide Program, states that in the event an observation aide is 
+absent or cannot perform the prescribed duties, the correction officer assigned to the “A” post 
+shall make immediate notification to the housing area supervisor. The area supervisor shall 
+instruct the security post officer to commence making 15-minute tours of inspection and logbook 
+entries. The correction officer shall ensure that they are touring the housing area and observing 
+
+ 
+10 
+ 
+Conclusion  
+A follow-up assessment of the Observation Aide program conducted from March 
+23 through April 3, 2026 across DOC facilities showed improvement in observation 
+aide staffing, communication, and equipment availability since the initial survey. 
+However, significant gaps persist in documentation by correction officers, 
+compliance with 15-minute tours in areas lacking an observation aide, and 
+consistent access to required equipment. 
+Recommendations  
+Recommendations are categorized to address operational improvements through 
+policy enforcement, enhanced coordination, strengthened oversight, and 
+improved reporting: 
+Policy: 
+1. Area supervisors must ensure 15-minute tours are conducted by “B” post 
+officers in specialized units without observation aide coverage, per Directive 
+#4017R-D. 
+2. RESH should transition to employing observation aides on a modified 
+alternating schedule aligned with tier lockdowns, per Directive #4009-R on 
+lock-in/lockout. 
+Review: 
+1. Correctional staff should seek feedback from observation aides and housing 
+area staff to identify barriers and improve operations. 
+Coordination: 
+1. Facility programs or job assignment staff should distribute updated 
+observation aide rosters weekly to ensure all stakeholders are informed of 
+current coverage.  
+ 
+signs of life of all individuals housed in the area. A second correction officer shall be assigned to 
+the housing area until a qualified observation aide has reported for duty. 
+ 
+ 
+
+ 
+11 
+ 
+2. EMTC should train and assign qualified City sentenced candidates as 
+observation aides to address high turnover in intake areas.  
+Reporting: 
+1. “A” post officers must document the name of the observation aide on duty 
+in the “A” post logbook. 
+2. Leadership should implement a centralized inventory system with routine 
+audits to ensure observation aides have required equipment, such as 
+flashlights, logbooks, vests, and clocks. 
+ 
+ 
+
+ 
+12 
+ 
+Addendum 
+Survey: 
+1. Is the area staffed with an observation aide? If yes, how many? 
+(Enter number here) 
+2. If yes, did the “A” post officer13 note the name and Book and Case number14 
+of the observation aide in the logbook? 
+(Yes or No) 
+3. Does the observation aide have a logbook to record their observations? 
+(Yes or No) 
+4. Does the observation aide communicate their observations to the housing 
+area officer? 
+(Yes or No) 
+5. Is the observation aide required or expected to work more than one tour 
+within 24 hours? 
+(Yes or No) 
+6. Does the observation aide have the necessary equipment such as a 
+flashlight, a working clock, logbook, or vest to perform their role? 
+(Yes or No) 
+7. If they do not have the necessary equipment, what is missing? 
+(Check choice of item missing: Flashlight, Logbook, Working Clock) 
+8. Is there anything the observation aide would like us to know or want to add 
+that can improve the efficiency of their work? 
+(Enter comments here) 
+9. In the absence of an observation aide, are “B” post officers15 assigned to  
+restrictive housing, new admission, mental health, protective custody, and 
+the intake on post, touring every 15 minutes as required by DOC policy?  
+(Yes or No) 
+ 
+ 
+13 “A” post officers remain inside the “A” station, colloquially known as the “bubble.” The “A” 
+station is the housing area’s secured control room and cannot be accessed by people in custody. 
+14 Internal Department identifier for people in custody. 
+15 DOC uses the term “B” post when referring to a correction officer assigned to a housing area 
+floor post. “B” post officers interact with and directly supervise people in custody inside the living 
+area. 
+
+ 
+13 
+ 
+Table 2. Areas visited during follow-up survey by facility16 
+Facility 
+Adult/
+MO 
+Adult/
+PC 
+YA/MO 
+YA/PC 
+New 
+Admin 
+PACE 
+Intake 
+Other 
+EMTC 
+4 
+0 
+0 
+0 
+6 
+0 
+1 
+1 
+GRVC 
+3 
+0 
+0 
+0 
+0 
+6 
+1 
+3 
+OBCC 
+3 
+1 
+0 
+0 
+0 
+0 
+1 
+2 
+RMSC 
+2 
+1 
+0 
+0 
+1 
+1 
+1 
+2 
+RNDC 
+3 
+6 
+1 
+1 
+0 
+2 
+1 
+1 
+NIC17 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+RESH 
+Annex 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+ 
+ 
+ 
+16 NIC was excluded from the follow-up audit because it no longer housed individuals in units 
+eligible for the survey at the time of the assessment, resulting in a reduced sample of 58 units 
+compared to 62 during the baseline audit. 
+17 NIC stopped housing individuals prior to the follow-up survey.  
+
+ 
+14 
+ 
+Figure 1. Initial and follow-up survey by housing area category 18 
+ 
+ 
+18 Other refers to the Special Consideration Unit (“SCU”), Special Management Unit (“SMU”), 
+Centrally Monitored Cases (“CMC”) unit, Groups for Addictive Treatment Enhancement (“GATE”) 
+unit, and Supportive Transitional Engagement Program (“STEP”) unit. 
+
+ 
+15 
+ 
+Figure 2. Follow-up survey question documenting missing observation aide 
+equipment, amended to include vests19 
+ 
+ 
+ 
+19New York City Department of Correction, Chief of Security, Security Memorandum No. 01/26, 
+issued February 3, 2026 on SPA Identification Vest (Pinnies): “SPAs will be required to have the 
+following equipment in accordance with Directive 4017R-D _INMATE OBSERVATION AIDE 
+PROGRAM” while performing their duties: Fluorescent SPA Vest, DOC issued Flashlight, Access to 
+a clock, and SPA Logbook.” Vests were formally introduced on February 3, 2026; however, 
+distribution did not occur until approximately one month later. This figure reflects compliance 
+with newly issued vests at the time of the follow-up survey. 
+
+ 
+16 
+ 
+Figure 3. Overall improvement comparison 
+ 
+ 

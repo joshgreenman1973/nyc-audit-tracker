@@ -1,0 +1,83 @@
+{
+  "id": "2025-09-03-annual-anti-corruption-report-2024",
+  "source": "doi",
+  "auditor": "Department of Investigation",
+  "title": "DOI's 2024 Annual Anti-Corruption Report",
+  "plain_title": "Complicated city rules can create corruption risk",
+  "agency": "New York City agencies (citywide)",
+  "issued": "2025-09-03",
+  "url": "https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf",
+  "pdf": "https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf",
+  "what_they_audited": "The Department of Investigation (DOI) asked city agencies, through a questionnaire, whether their own regulatory and enforcement processes create openings for corruption. This annual report covers October 1, 2023, to September 30, 2024, and analyzes responses from 51 agencies.",
+  "background": "Mayoral Executive Order No. 105 makes the DOI commissioner the city's independent inspector general and requires DOI to prepare an annual anti-corruption report describing corruption risks agencies identify and how they plan to address them. Unlike DOI's other reports, this one is not the product of DOI's own investigative work but summarizes what agencies say about themselves, with individual responses aggregated or anonymized.",
+  "findings": [
+    {
+      "plain": "Of the 51 agencies that answered the questionnaire, 24 said they review applications for licenses, permits, certifications, grants or registrations, while only seven review applications for public benefits or services such as food stamps, childcare vouchers or cash assistance.",
+      "quote": "Out of the 51 respondents, 24 (47.1%) reported they review applications for \nlicenses, permits, certifications, grants, and/or registrations"
+    },
+    {
+      "plain": "Most agencies showed an understanding of the corruption risks in their own processes, but several agencies denied that any risk of corruption or fraud existed, which DOI said seems implausible given its experience.",
+      "quote": "there were several agencies that denied any risk of corruption or fraud \nexisted, a claim that seems implausible based on DOI’s experience."
+    },
+    {
+      "plain": "In application and determination processes, agencies most often pointed to falsified or altered documents as the corruption risk. In compliance and enforcement, the risk cited most often was bribery of inspectors or other enforcement staff.",
+      "quote": "With respect to \napplication and determination processes, agencies overwhelmingly pointed to the \nsubmission of fraudulent documents or misrepresentation of information as the \nprimary fraud and corruption risk."
+    },
+    {
+      "plain": "About two-thirds of respondents said they conduct inspections, issue violations or take other steps to enforce regulations, and several rely on the city's 311 system or public complaints to learn about noncompliance rather than proactive monitoring.",
+      "quote": "several \nagencies stated that they rely on the City’s 311 reporting system or public complaints \nto address allegations of noncompliance, while others reported engaging in proactive \nmonitoring."
+    },
+    {
+      "plain": "Only a third of responding agencies track complaints from the public about their programs, even though those complaints can reveal burdens or complexities that push people toward workarounds.",
+      "quote": "Only 17 (33.3%) of the agencies that \nresponded to the questionnaire answered in the affirmative."
+    },
+    {
+      "plain": "Agencies described applications that are complicated because multiple agencies must sign off, there is no online submission option or the paperwork is heavy. At least two agencies said their process is so technical that applicants need a third-party expert to guide them.",
+      "quote": "At least two agencies reported that the \napplication process was so complicated and technical as to require the assistance of a \nthird-party s ubject matter expert to guide the applicant through the process."
+    },
+    {
+      "plain": "Sixteen agencies suggested reforms, including more staff, changes to burdensome or confusing rules and moving applications online. Agencies split evenly on whether more staffing would reduce corruption risk.",
+      "quote": "Sixteen agencies offered suggestions for reform including resources for additional staffing; \nproposed changes in burdensome, confusing, or unnecessary laws, rules, or regulations; and technology \nchanges, including moving applications to an online platform."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "51 respondents",
+      "label": "Agencies that answered DOI's questionnaire"
+    },
+    {
+      "value": "24 (47.1%)",
+      "label": "Agencies reviewing license or permit applications"
+    },
+    {
+      "value": "Thirty-two (62.7%)",
+      "label": "Agencies that inspect or enforce regulations"
+    },
+    {
+      "value": "17 (33.3%)",
+      "label": "Agencies that track public complaints"
+    },
+    {
+      "value": "Sixteen agencies",
+      "label": "Agencies that offered reform suggestions"
+    },
+    {
+      "value": "$25 per application",
+      "label": "Low end of reported application fees"
+    }
+  ],
+  "recommendations": [
+    "City agencies should stay alert to the corruption and fraud risks built into any municipal process, review those processes regularly and put risk mitigation measures in place.",
+    "Agencies should streamline application and determination processes where they can, while still collecting the information and approvals they need, so that applicants have less motive to work around a slow or burdensome process.",
+    "Agencies should evaluate the regulations they implement and enforce with corruption risk in mind, weighing that risk against how necessary the process is.",
+    "In designing regulatory, application and enforcement processes, agencies should make sure the rules are strong enough to do their job without imposing burdens so heavy that they raise the risk of fraud."
+  ],
+  "agency_response": "The report is built on the agencies' own questionnaire responses. Agencies described integrity controls already in place, including anti-corruption training, multi-level reviews and audits, and 16 agencies proposed reforms.",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency",
+    "small business"
+  ],
+  "is_followup": false
+}

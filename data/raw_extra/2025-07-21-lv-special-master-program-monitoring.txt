@@ -1,0 +1,2452 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+Special Master Program Monitoring
+Prepared for
+Loretta A. Preska
+Senior United States District Judge
+July 21, 2025
+thru
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 1 of 67
+
+thru
+In a special education due process 
+proceeding, the Impartial Hearing 
+Officer (IHO) may issue a decision 
+directing that specific services be 
+provided to a student or that payment 
+be made on the student’s behalf. 
+Pursuant to applicable regulations, the 
+New York City Public Schools (DOE) is 
+required to implement the IHO’s order 
+within 35 days of its issuance, unless 
+the order specifies a different timeline. 
+Implementation may include arranging 
+for the delivery of the ordered services 
+and/or processing the mandated 
+payment. DOE created an office, 
+termed the Implementation Unit (IU), to 
+manage the process by which these 
+payments are authorized and services 
+are arranged.
+2
+In 2007, the parties settled a 
+class action lawsuit, resulting 
+in a settlement which 
+developed a governing 
+document, the Stipulation, to 
+measure compliance moving 
+forward. The parties agreed to 
+the Stipulation and an 
+Independent Auditor has been 
+in the role of measuring 
+compliance.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 2 of 67
+
+thru
+Obligation #39
+Every 120 days from the date of this Order [7/19/2023], the Special Master will file 
+a report with the Court on DOE’s progress in implementing the obligations that 
+have come due in the prior 120 days pursuant to this Order (the “Obligations”).  
+Each such report shall set forth (i) the Special Master’s analysis as to whether 
+each Obligation has been fulfilled; (ii) for any Obligation that the Special Master 
+has concluded has been fulfilled, a detailed explanation of the basis for such 
+conclusion; (iii) for any Obligation that has not been fulfilled, the impediments to 
+fulfilling such Obligation, the measures necessary to overcome such 
+impediments, and the timeframe for fulfilling the Obligation; (iv) for any Obligation 
+that has not been fulfilled, a summary of DOE’s efforts to consult with Plaintiffs, 
+the Special Master, or other relevant entities in order to fulfill the Obligation, or an 
+explanation of good cause why no such consultation was held; (v) the next steps 
+to be taken to fulfill the Obligations; and (vi) any additional recommendations of 
+steps DOE must take to meet the Stipulation’s benchmarks, including but not 
+limited to those identified as future recommendations in the Special Master’s 
+March 29, 2023 report.  DOE should provide all reasonable assistance to the 
+Special Master in preparing this report, and Plaintiffs will be permitted to provide 
+feedback.
+3
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 3 of 67
+
+thru
+Contents
+4
+1.
+Executive Summary
+2.
+Obligations Not Yet Fulfilled
+•
+Appendix I: Independent Technology Assessment
+•
+Appendix II: Obligations Fulfilled
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 4 of 67
+
+thru
+Executive Summary
+5
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 5 of 67
+
+thru
+#14c Recruit additional staff
+#3b Redesign workflows
+#33 New services process
+#16b Build parent notification
+#22b DOE report on hiring
+#2b KPI monthly analysis
+#9 Documentation for payments
+#11 Prevent overpayments
+#12b Service communications
+#19 Medical forms required
+#28a Collect data assets
+#28b KPI analysis and solutions
+#28c KPI report to Plaintiffs
+#35 Home instruction orders
+#36 Placement orders
+#37 Training updates
+#38 Ongoing user research
+#16c Timesheet solution 
+#27 Case status indicator (web)
+#31/#17 Document management
+#34 Document management tool
+January 19, 2024
+July 19,2024
+Other (no due date)
+April 19, 2024
+January
+Feb-March
+Apr-May
+Jun-Jul
+2025
+Timeline of Obligations 2024-2025
+#20 Nursing protocol
+#22a Recruiting/hiring plan
+#23 Training Lead
+#24b DAITS enhancements
+#29 Impl. Systems Analyst
+#30 IU SOPM
+#32 Mobile 
+timesheet 
+solution
+Jan.19, 2025
+#5 Decision/order web form
+#8 Documentation capture
+#10 Timesheets solution
+#13 Requirements for services
+#14a Customer support hotline
+#14b Staffing plan
+#16a Parent notifications design
+Today
+July 21, 2025
+6
+2023 
+Due dates (# of 
+obligations due)
+• 9/2 (1)
+• 9/19 (3)
+• 10/19 (9)
+• 11/19 (2)
+Aug-Sep
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 6 of 67
+
+thru
+Progress Snapshot
+7
+As stated in the previous report, the obligations outlined in the July 19, 2023 LV Order may 
+comprise multiple distinct actions the DOE must take within a single obligation. These 
+actions often have separate deadlines, while others lack due dates. I recently updated this 
+snapshot to provide a comprehensive view of all 51 obligations. 
+•
+DOE fulfilled two obligations since my last 
+report in March 2025: #8a, regarding the 
+collection of documentation from parents, and 
+#11, concerning notification to the 
+Implementation Unit (IU) regarding settlements. 
+•
+As of July 8, 2025, twenty-one (21) obligations 
+have been fulfilled, while thirty (30) are not yet 
+fulfilled.
+•
+All remaining unfulfilled obligations are now 
+past due, as of 1/19/2025.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 7 of 67
+
+thru
+Key Takeaways
+8
+• In recent weeks, DOE has tentatively fulfilled two obligations from the LV order 
+(pending official submission by DOE and Special Master acceptance): #8a 
+regarding the collection of documentation from parents and #11 about notifying 
+the Implementation Unit (IU) concerning settlements. The evidence of fulfilling 
+these obligations is contained in several Business Requirements Documents for 
+IHMS. 
+• DOE has yet to fulfill 59% of the obligations from the 7/19/23 order. All obligations 
+are now past due and some by more than a year.
+• On December 20, 2024, Judge Preska ordered DOE to identify a lead resource to 
+coordinate communications and messaging related to LV, and this individual is 
+now onboard and engaged in the work. We have spoken and are aligned on a 
+number of the challenges. I look forward to progress on this topic in the coming 
+weeks, because little has been accomplished to date.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 8 of 67
+
+thru
+Key Takeaways
+9
+• LV obligation #13 involves designing a process to monitor the implementation of 
+service orders (action items), which will rely on functionality in SESIS/ATLAS. 
+This has created a dependency on the SESIS/ATLAS product managers and 
+release schedules. I am requesting that DIIT or SEU provide an update on this 
+obligation.
+• The IU has made significant progress in finalizing the web form fields for the 
+Impartial Hearing Officer’s order in IHMS (obligation #5). I shared the near-final 
+draft (xls) with Plaintiffs in May for a final review and endorsement, and they 
+have now provided me with their final comments, which DOE is reviewing.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 9 of 67
+
+thru
+Key Takeaways
+10
+• IBM and DOE/DIIT have set a Go-Live date of 12/15/2025 for IHMS. The work plan 
+entails a final design sign-off by DIIT by 8/29/2025, followed by testing activities 
+leading up to go-live. While my team remains concerned about the tight timelines 
+and little buffer time to absorb issues that may come up, I am encouraged to see the 
+commitment of the DOE IU team to focus on this important work. I have advised and 
+expect the DOE to include the Plaintiffs in the testing activities that will occur later 
+this summer.
+• Just as the DOE IU team has increased their focus on reviewing IBM’s work, the 
+DIIT team has been more involved to ensure that with the accelerated pace of 
+development by IBM, that the team is being connected to the right resources to 
+support critical integrations.
+• One element of the IHMS work that I remain concerned about is data migration.  
+With IHMS’ Phases 1 and 2 going live concurrently, there will be little time to fully 
+validate and test data that will be migrated from existing DOE systems.  I encourage 
+the team to make more resources available for these activities.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 10 of 67
+
+thru
+Obligations Not Yet Fulfilled
+11
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 11 of 67
+
+thru
+Obligations Not Yet Fulfilled
+12
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+5
+With endorsement from Plaintiffs, DOE, OATH and 
+NYSED leadership, within six months of the date 
+of this Order, DOE will research and design a 
+web-based interface for Impartial Hearing Officers 
+to issue decisions and build the user-friendly web 
+form for capturing orders … allowing both 
+common and uncommon relief to be ordered. The 
+web-based interface must include the ability to 
+capture the decision and order, both via structured 
+input fields (e.g., a dropdown menu) and/or in 
+writing (e.g., a free-form text field), with the full 
+independence and discretion of the Hearing 
+Officer; 
+1/19/2024
+The web form fields are 
+nearly finalized. The next 
+impediment may be the 
+actual development of 
+this functionality as it 
+relates to the IHMS 
+release schedule.
+I shared the near-final draft (xls) 
+with Plaintiffs in May for a final 
+review and endorsement, and 
+they have now provided me with 
+their final comments, which DOE 
+is reviewing at the time of this 
+writing.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- DOE finalizing list of form fields and will incorporate into a 
+BRD for IHMS
+- DOE to share the final version of the BRD (or appendix)
+- IHMS team to design/confirm the UI/workflow/functionality
+In the course of UAT for 
+IHMS, I recommend 
+including Hearing 
+Officers in the tests.
+July 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 12 of 67
+
+thru
+Obligations Not Yet Fulfilled
+13
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+8b
+DOE will modify any necessary 
+policies or technologies to allow 
+parents to submit payment 
+documentation as multiple files or 
+different formats;
+1/19/2024
+(1) Users of SupportHub can now submit 
+multiple files; (2) email enables the 
+sending of multiple files; and (3) 
+IHMS/NYCSA will support the upload of 
+multiple files. DOE should now change its 
+policy of requiring a single PDF for 
+payment documentation. There are no 
+more significant technological 
+impediments.
+None
+Steps to be Taken
+Special Master Recommendations
+Timeframe to resolve
+-
+Communications Lead to review current process/ 
+policy and lead change effort
+-
+Encourage parents/reps to use SupportHub if 
+they would like to submit multiple documents for 
+authorization.
+Update the policy for submitting payment 
+documentation (to allow multiple files), 
+and communicate internally and publicly. 
+September 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 13 of 67
+
+thru
+Obligations Not Yet Fulfilled
+14
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+10
+DOE will assess and implement a solution to 
+support the submission and immediate approval of 
+timesheets within six months of the date of this 
+Order.
+1/19/2024
+Testing documentation has 
+recently been shared with the 
+Special Masters team 
+(7/14/2025) but is still under 
+review at the time of this 
+writing.
+Polaris, the new 
+custom-built invoicing tool 
+went live with a pilot of 57 
+vendors in late December 
+2024. Results of the pilot 
+have been encouraging in 
+recent months regarding the 
+decreased time to process 
+orders.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Deploy Polaris to full community of vendors
+-
+Please refer to Appendix I (slide 57) for additional details
+While the team has 
+completed comprehensive 
+testing, the team should 
+ensure that the application is 
+also tested on multiple 
+browser types to mimic what 
+the public will use.
+July 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 14 of 67
+
+thru
+Obligations Not Yet Fulfilled
+15
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+13
+Within six months of the date of this Order, DOE 
+will define data and system requirements for 
+monitoring incoming and tracking the ongoing 
+implementation of orders comprised of service 
+action items.  
+1/19/2024
+This obligation’s fulfillment is 
+dependent on functionality 
+contained within DOE’ special 
+education system. It is not 
+apparent the IHMS and 
+special ed teams are 
+coordinating on the functional 
+aspects of this obligation. .
+DOE has provided my 
+team and I with updates on 
+the systems’ data 
+integration progress, but 
+not on whether 
+conversations around 
+functionality are being 
+conducted.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE to provide update on the ongoing coordination activities 
+with IHMS and special ed system teams
+-
+If none, establish the working group to do so
+Establish a working group to 
+meet regularly to discuss the 
+functionality needed in the 
+special ed system
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 15 of 67
+
+thru
+Obligations Not Yet Fulfilled
+16
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+14a
+DOE will (a) within six months of the date of this 
+Order, deploy a customer support hotline and 
+formal network structure for the Implementation 
+Manager role to serve as the point-of-contact for 
+the case and coordinate service action items 
+across DOE offices, schools, attorneys and 
+parents
+1/19/2024
+The release of the public-facing 
+customer support platform 
+(SupportHub) is scheduled for 
+July, and I understand the hotline 
+has been hiring staff. I would like 
+to review call analytics and other 
+metrics post-go-live.
+Plaintiffs have been 
+providing feedback on the 
+user experience of 
+SupportHub to the IU 
+Communications Lead. 
+DOE and Nagarro have 
+regularly shared status 
+updates with me on the 
+progress of launching 
+SupportHub.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE/Nagarro to improve the tool/SupportHub/process 
+in response to community feedback
+See steps.
+August 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 16 of 67
+
+thru
+Obligations Not Yet Fulfilled
+17
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16a
+Within six months of the date of this Order, DOE will 
+design an automated service to generate emails to 
+parents, attorneys and advocates, and providers at 
+key milestones in the administrative workflow of the 
+implementation of an order, such as when an 
+Implementation Manager unpacks the hearing order, 
+when a service provider has been identified, when a 
+payment action item has been authorized, and when 
+the payment has been sent to the parent or provider. 
+1/19/2024
+DOE has confirmed to me 
+that both IHMS and 
+SupportHub have the 
+capability to generate 
+emails. DOE has not shown 
+me a BRD that details 
+notifications for the key 
+milestones listed in this 
+obligation.
+DOE has provided the 
+NYCSA BRD to 
+demonstrate the design of 
+this functionality, but as I 
+responded on 8/4/2024, 
+the BRD does not specify 
+notifications for the 
+milestones in this 
+obligation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- DOE to draft the requirements/content of “an automated service 
+to generate emails to parents…”
+See steps.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 17 of 67
+
+thru
+Obligations Not Yet Fulfilled
+18
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16b
+Within nine months of the date of this order, DOE will 
+build the notification function and begin testing
+4/19/2024
+DOE has not designed the 
+notification function as per 
+obligation #16a, which is a 
+dependency for this 
+obligation (to build the 
+notification function). 
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+Same as #16a
+- DIIT is reviewing the mechanism by which the automated 
+notifications are generated (i.e. from IHMS directly, through 
+NYSCA).
+- DOE to draft the requirements/content of “an automated service 
+to generate emails to parents…”
+See steps.
+As soon as possible 
+(overdue)
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 18 of 67
+
+thru
+Obligations Not Yet Fulfilled
+19
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+16c
+Within twelve months DOE will deploy the 
+function publicly; (see 16a and 16b)
+7/19/2024
+This obligation depends on the 
+design of the build of the 
+notification function and testing 
+(#16b). The origin of this 
+obligation stemmed from a 
+capability DAITS already has. 
+This is a missed opportunity for a 
+near-term solution.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- See #16a
+See #16a (slide 18).
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 19 of 67
+
+thru
+Obligations Not Yet Fulfilled 
+20
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+20
+Within six months of the date of this Order, DOE 
+and the Office of School Health will modify any 
+applicable procedures with nursing agencies to 
+specify that postings and assignments for a nurse 
+will remain open until an individual nurse has been 
+formally assigned to a student rather than when the 
+nursing agency has claimed the posting;
+1/19/2024
+DOE provided a URL for 
+general nursing forms. I am 
+awaiting additional 
+information from DOE/OSH, 
+including a response to an 
+email string around the 
+communication to the nursing 
+agencies.
+DOE provided me with an 
+update on 5/13/2024 sharing 
+their efforts to date. I have 
+requested follow-up 
+documentation but have not 
+seen any documentation of new 
+procedures as outlined in the 
+obligation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-DOE/IHO/OSH to provide copy of communications to health 
+agencies
+See steps.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 20 of 67
+
+thru
+Obligations Not Yet Fulfilled
+21
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+24b
+Within six months of the date of this order, DOE 
+will develop, test, and release the DAITS 
+enhancements
+1/19/2024
+DAITS technical resources have 
+continuing their stabilization work 
+(obligation #24). The team has 
+executed 4 releases, but with 
+IHMS going live in December, it 
+may not be possible to continue 
+enhancements
+My team has been briefed 
+on DOE’s progress on this 
+obligation. See also 
+Appendix I (slide 49) and
+the IU Team has provided 
+verbal confirmation that 
+performance has improved
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DIIT/IU to confirm further DAITS enhancements will be 
+postponed and resources utilized to support IHMS 
+development
+See Appendix I DAITS (slide 49)
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 21 of 67
+
+thru
+Obligations Not Yet Fulfilled
+22
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+30
+Within six months of the date of this Order, DOE 
+will expand the LV Payment and Service 
+Guidelines for Implementation Unit staff into an 
+Operating Procedures Manual, and design and 
+implement a professional development series on 
+order implementation for DOE staff;
+1/19/2024
+Capacity to develop and write 
+the Operating Procedures has 
+been a challenge, however 
+DOE shared a draft of this 
+deliverable on 5/8/2024. I 
+responded with feedback and 
+questions on 5/21/2024 and 
+have been waiting for further 
+updates for over a year.
+This is a task that I hope 
+the new IU 
+Communications Lead can 
+take ownership of to 
+produce a high-quality 
+SOPM.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE to review and revise first draft of the Operating 
+Procedures Manual, led by Communications Lead
+-
+Share an updated version for Plaintiffs and Special Master 
+to review
+See steps.
+Q3 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 22 of 67
+
+thru
+Obligations Not Yet Fulfilled
+23
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+33
+Within nine months of the date of this Order, DOE will 
+launch the process of monitoring and coordinating 
+service action items, as defined in paragraphs 14-16
+4/19/2024
+This obligation is dependent 
+on the development of a 
+process to monitor and 
+coordinate service action 
+items, as per obligation #13 
+which is not yet fulfilled.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Ensure close coordination among SESIS and IHMS teams as 
+new modules are developed
+-
+Document/share business requirements for SESIS/ATLAS and 
+determine release schedule
+Create a working group (or 
+equivalent) for IHMS and 
+ATLAS/SESIS teams to 
+discuss the integration 
+needed between systems.
+July 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 23 of 67
+
+thru
+Obligations Not Yet Fulfilled
+24
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+27
+Within one year of the date of this Order, DOE 
+will develop and deploy an accessible status 
+indicator (web-based) for parents to easily view 
+their case’s status in the due process workflow;
+7/19/2024
+Through the NYCSA BRD, DOE 
+defined the function for a parent 
+or parent advocate to log into 
+NYCSA to view their case’s 
+status. Fulfilling this obligation 
+though requires the deployment 
+of the functionality, (not just 
+documenting in the BRD).
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- Test the function with parents and parent representatives 
+before its release.
+Ensure the function is tested with 
+parents in the User Acceptance 
+Testing phase for IHMS.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 24 of 67
+
+thru
+Obligations Not Yet Fulfilled
+25
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+31
+Within twelve months of the date of this 
+Order, DOE will centralize the collection, 
+submission and sharing of pertinent 
+documents among DOE’s impartial hearing 
+representatives and Implementation Unit on a 
+single platform. DOE will establish a process 
+by which documentation from families is 
+captured by DOE representative at the 
+hearing;
+7/19/2024
+In obligation #7, DOE defined IHMS 
+as the central platform for IU 
+documents in the future with 
+integration of documents from 
+SESIS and NYCSA in the future. 
+DOE, however, has since built 
+functionality to gather 
+documentation from parents in 
+SupportHub (Nagarro) with some 
+documentation stored on 
+SharePoint.
+DOE did not consult with 
+Plaintiffs or I in building this 
+functionality in 
+SupportHub, and I do not 
+believe there is a clear 
+strategy to centralize all 
+documents as outlined in 
+this obligation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Develop a strategy for centralizing due process 
+documents considering existing plans for 
+IHMS/SharePoint/ SupportHub
+-
+User Acceptance Testing of document management 
+functionality in IHMS
+DOE should clarify and define the 
+process and technologies for 
+capturing and storing 
+documentation from parents in the 
+future.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 25 of 67
+
+thru
+Obligations Not Yet Fulfilled
+26
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+34
+Within one year of the date of this Order, DOE 
+will build the necessary document management 
+functionality into the new special education data 
+system to share documents across special 
+education processes, as defined in paragraph 
+17
+7/19/2024
+This obligation is dependent on 
+the new special education 
+system, similar to obligation #13. 
+It is not clear if the 
+Implementation Unit and special 
+education (SEU) teams are 
+coordinating at this time, as 
+discussed on slide 15.
+DOE has shared updates 
+on the data currently 
+planned for integration, but 
+this obligation and #13 are 
+dependent on functionality 
+in the special education 
+system. I am unclear if 
+discussions on the topics 
+of functionality are 
+ongoing.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Define design and requirements for the sharing of 
+documents among IHMS/special ed system
+See obligation #13 on slide 15
+TBD.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 26 of 67
+
+thru
+Obligations Not Yet Fulfilled
+27
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+32
+Within eighteen months of the date of this 
+Order, DOE will build or procure a mobile 
+application by which providers can enter their 
+hours on their phone upon providing a service 
+and DOE will not require a traditional invoice for 
+payment.  The new invoicing process and tool 
+will be designed to streamline the invoice 
+approval process.  DOE will conduct user 
+research with providers and parents to identify 
+the mobile application
+1/19/2025
+While Polaris is being developed 
+and rolled out, DOE has not 
+provided a demo or testing 
+documentation to show the 
+mobile functionality. 
+Our understanding is that the 
+application is built to be 
+mobile-responsive.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Provide testing results as to Polaris mobile functionality to 
+SM team
+-
+Provide demo of mobile functionality to SM team
+DOE should share the testing 
+results with the Special Master 
+(Note: on 7/8/2025, DOE 
+submitted some documentation, 
+but as of this writing, it is still in 
+review.)
+September, 2025
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 27 of 67
+
+thru
+Obligations Not Yet Fulfilled
+28
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+2b
+(b) Once the required data assets are 
+integrated, the Implementation Unit and DOE’s 
+Office of General Counsel will monitor progress 
+of implementation, and KPIs, and report on the 
+progress of KPIs to the Special Master and 
+Plaintiffs on a monthly basis.
+-
+DOE has been collecting data to 
+inform KPIs, such as volume of 
+authorizations per month or 
+invoices processed. The full list 
+of KPIs defined in #2a will likely 
+require the deployment of IHMS, 
+SupportHub, and Polaris later 
+this year.
+DOE has provided samples 
+of data related to KPIs in 
+recent monthly status 
+meetings. DOE has not yet 
+begun producing monthly 
+reports as per this 
+obligation, but I will work 
+with the IU to develop a 
+report template of KPIs to 
+share with Plaintiffs and 
+Special Master.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- DOE to gather and integrate data assets
+- DOE to update Parties on delivery date for future KPI reports
+See steps.
+Q1 2026
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 28 of 67
+
+thru
+Obligations Not Yet Fulfilled
+29
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+9
+DOE will make payments pursuant to the 
+timelines in the Stipulation for Timely 
+Implementation upon calculation or confirmation 
+of the payment amount required by an Action 
+Item in an Order and the payee being registered 
+with the City.  Based on the representations 
+contained in the attached declaration, DOE will 
+identify for the Special Master the specific 
+documents that DOE will require in any payment 
+and publicly provide a list of those documents 
+on DOE’s website and as an attachment to 
+every Payment Order; 
+-
+DOE publicly provides the list of 
+documents (as specified in this 
+obligation) online via the HUHY 
+Guide. DOE agreed to certain 
+changes to this content in Court 
+with your honor on 12/5/25. This 
+list has only been partially 
+implemented and several key 
+pieces of content remain 
+unchanged. DOE should update 
+this content now.
+Earlier this year, DOE 
+informed me that somce 
+changes had been made to 
+the website, but 3 key 
+areas remain unchanged 
+as of 6/30/25: loan 
+agreements, SSNs, pro se 
+parents
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- Communications staff to review and improve the contents of 
+the Implementation website
+DOE should continue to review 
+content and align with the 
+SupportHub IU website.
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 29 of 67
+
+thru
+Obligations Not Yet Fulfilled
+30
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+12a
+Within two months of the date of this Order, the 
+Implementation Unit will assign resources to flag 
+incoming orders deemed high priority, as DOE 
+and Plaintiffs agree upon the term “high-priority.” 
+The Implementation Unit will triage and route 
+orders accordingly. DOE should consult and 
+obtain feedback from Plaintiffs on what orders 
+should be deemed “high priority.” Should DOE 
+and Plaintiffs fail to agree on what orders should 
+be deemed “high priority,” the Special Master 
+will advise the Parties and/or raise the issue 
+with the Court for determination
+9/19/23
+I do not know the volume or 
+success rate of the high-priority 
+process. I have asked DOE for 
+evidence (data) of how the 
+high-priority process is working, 
+but have not received a 
+response. I am again requesting 
+that DOE share the pertinent 
+data.
+Earlier this year, I proposed 
+a process by which DOE 
+could use data from the 
+impartial hearing system to 
+identify high-priority cases. 
+DOE decided not to 
+consider this 
+recommendation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE to gather data on high-priority cases and share it 
+with the Special Master
+-
+DOE to determine lessons learned from missed cases
+See steps.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 30 of 67
+
+thru
+Obligations Not Yet Fulfilled
+31
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+12b
+Implementation Unit staff will communicate all 
+service orders and action items to New York City 
+public schools, charter schools and 
+State-approved non-public schools (as 
+applicable) within a time that allows for the order 
+to be Timely Implemented within the definition of 
+the Stipulation.
+-
+DOE has not provided an update 
+or documentation on this 
+obligation. DOE has briefly 
+described this process in its 
+Implementation Liaison Directory 
+and Escalation Protocol, but 
+more details are needed to 
+satisfy this obligation.
+I have communicated my 
+expectations on fulfillment 
+of this obligation, (i.e., a 
+communications plan).
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Discuss/clarify the topic with the new Communications 
+Lead for IU
+-
+DOE to develop the Communications Plan for service 
+orders/action items
+I have provided guidance to DOE 
+to produce and share a 
+communications plan
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 31 of 67
+
+thru
+Obligations Not Yet Fulfilled
+32
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures to 
+Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+19
+Aside from the Medication Administration Form 
+(MAF) and HIPAA forms, no other 
+documentation or evidence is required before 
+implementation of an impartial hearing order for 
+the provision of nursing services;
+-
+I conveyed to DOE that fulfillment 
+of this obligation must include a 
+formal communication to the 
+nursing providers. DOE continues 
+to state that they are coordinating 
+internally on a formal 
+message/update to nursing 
+agencies, communicating this 
+policy. 
+DOE shared an update on 
+this on 3/13/24, to which I 
+responded with feedback 
+and guidance on 3/21/24, 
+specifically requesting 
+updates around a formal 
+communication to the 
+community, (e.g., a website 
+update). I have been 
+waiting for a response for 
+more than a year.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE to report obstacles and the status in the August 
+Steering Committee meeting
+-
+DOE to formally communicate the policy to the nursing 
+providers
+See steps.
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 32 of 67
+
+thru
+Obligations Not Yet Fulfilled
+33
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and 
+Measures to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28a
+DOE will copy and collect data assets from 
+implementation-related data sources, including 
+but not limited to DAITS, IHS, FAMIS, and 
+SESIS, to analyze for Implementation Unit 
+workflow purposes. 
+-
+See obligation #2b (p. 28) 
+DOE is still in the process of 
+gathering and integrating all of 
+the data that would be needed 
+to report on the KPIs. A series 
+of KPIs was defined in the 
+fulfillment of obligation #2a – 
+but a modernized system will 
+likely be needed to report on 
+the full series.
+As mentioned in #2b (slide 
+29), DOE has begun sharing 
+some initial KPIs in our 
+monthly status meetings, and 
+we have discussed if they are 
+helpful to the IU leadership. I 
+think this effort is headed in 
+the right direction if DOE 
+continues to gather data from 
+the various systems.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+Confirm data sources and estimate when data will be 
+available for reporting
+Share list of KPIs documented 
+in #2a with the IHMS team to 
+assess what can be done via 
+IHMS reporting; assess gaps
+Q1 2026
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 33 of 67
+
+thru
+Obligations Not Yet Fulfilled
+34
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28b
+DOE will report to Plaintiffs on a quarterly basis 
+the results of this analysis and meet with the 
+Plaintiffs on a quarterly basis to identify 
+solutions to problems and answer questions and 
+hypotheses regarding failure to meet the 
+Stipulations benchmarks based upon the 
+analysis. 
+-
+See obligation #2b (p.28). DOE 
+is still in the process of gathering 
+and integrating all of the data 
+that would be needed to report 
+on KPIs.
+As mentioned on slide 28 
+regarding obligation #2b, I 
+will begin advising DOE on 
+the production of a monthly 
+KPI report to share with 
+Plaintiffs and Special 
+Master.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- Draft the outline and template of the quarterly report
+Share the outline and template of 
+the quarterly report for feedback 
+from Plaintiffs and myself
+Q1 2026
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 34 of 67
+
+thru
+Obligations Not Yet Fulfilled
+35
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+28c
+The Special Master will include in reports to be 
+provided to the Court every six months DOE’s 
+analysis of such data;
+-
+This obligation is dependent on 
+obligations #2b, #28a, and #28b. 
+DOE is still in the process of 
+gathering and integrating all the 
+data that would be needed to 
+report on KPIs. 
+I have consulted on the 
+definition of KPIs in 
+obligation #2a, but as 
+mentioned, I will advise 
+and begin working with 
+DOE on the production of 
+the report described in this 
+obligation.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- Draft the outline and template of the six-month KPI report to 
+the Court
+Share the outline and template of 
+the six-month report for feedback
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 35 of 67
+
+thru
+Obligations Not Yet Fulfilled
+36
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+35
+For each home instruction order, the 
+Implementation Unit Staff should confirm the 
+actual provision of home instruction as defining 
+implementation of the order
+-
+DOE reported that they are 
+preparing to share this document 
+describing the process around 
+confirmation of provision of home 
+instruction – but I have not 
+received anything to date.
+None. 
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE to draft a process document on the confirmation of 
+the provision of home instruction
+I have recommended that DOE 
+creates a process document for 
+confirmation of provision of home 
+instruction.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 36 of 67
+
+thru
+Obligations Not Yet Fulfilled
+37
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+36
+For each order placing a student at a DOE 
+school, Implementation Unit Staff and OSE 
+should confirm the actual placement as 
+appropriate and meeting the need of the 
+student, (per order and IEP)
+-
+DOE reported that they are 
+preparing to share this document 
+describing the process around 
+confirmation of the appropriate 
+placement of the student – but I 
+have not received anything to 
+date.
+None. I provided DOE with 
+guidance on the 
+expectation for this 
+deliverable (see below).
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+- DOE to draft a process document for confirming the 
+appropriate placement of the student
+I have recommended that DOE 
+creates a process document for 
+confirming the student is 
+appropriately placed in the 
+school (as per order/IEP).
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 37 of 67
+
+thru
+Obligations Not Yet Fulfilled
+38
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+37
+DOE will develop a continual process of 
+updating training materials to reflect changing 
+policies and business rules
+-
+DOE has not provided an update 
+on this obligation in some time. 
+Impediments unknown.
+DOE and I communicated 
+on this subject last on 
+2/7/24, but in more than a 
+year there has been no 
+follow-up or clear 
+documentation of the 
+process to update training 
+materials.
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+DOE to develop and share Annual Training Publication 
+Schedule
+I have provided guidance to DOE 
+to share an Annual Training 
+Publication Schedule and 
+process for updating training 
+materials
+As soon as possible 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 38 of 67
+
+thru
+Obligations Not Yet Fulfilled
+39
+Obl.#
+Obligation
+Orig.Due 
+Date
+Impediments and Measures 
+to Overcome
+Efforts to Consult with 
+Plaintiffs or SM
+38
+DOE will continue to conduct ongoing user 
+research on this proceeding and due process 
+functions in an effort to modernize and redesign 
+DOE due process functions and align them with 
+(migrate to) the special education system
+-
+User research is not being 
+conducted on IHMS/ATLAS at 
+this time. DOE requested funding 
+for user research as part of 
+IHMS Phase II.
+None
+Steps to be Taken
+Special Master 
+Recommendations
+Timeframe to resolve
+-
+DOE/DIIT/IBM to define the scope of the research to be 
+conducted, with a schedule for engaging and testing the 
+system with users
+-
+DOE/DIIT/IBM to identify the resources required for this 
+work
+DOE to plan and scope user 
+research for Phase II IHMS, 
+including Plaintiffs’ feedback.
+TBD
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 39 of 67
+
+thru
+Appendix I: Independent Technology 
+Assessment
+40
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 40 of 67
+
+thru
+Background and Approach
+41
+Of the 40 LV Order Obligations being monitored by the Special Master, 19 obligations 
+have a specific dependency on technology solutions utilized by DOE.  
+As noted in earlier progress reports, many of the improvements and optimizations of 
+new processes will rest on the success of the technology solutions in place and being 
+developed.  To assess the viability of the technology applications, Beacon Consulting 
+Partners (BCP) conducted an independent assessment on four (4) applications that are 
+key to the fulfillment of the LV Order Obligations, specifically Impartial Hearing 
+Management System (IHMS), Decision Action Item Tracking System (DAITS), Nagarro 
+SupportHub Customer Service Platform, and the Polaris invoicing application.
+BCP uses an evidenced-based approach consisting of reviewing available project 
+documentation and artifacts, conducting interviews and observing standing meetings to 
+create their assessment.  This Assessment is based on data collected during calls and 
+limited documents shared, work products related to testing, integration, design have 
+not been provided.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 41 of 67
+
+thru
+Executive Summary
+An initial assessment of the technology used by the Implementation Unit (IU) was conducted 
+as a part of the Special Master’s mandate in January 2024 to determine if DOE’s technology 
+and application development initiatives will be able to support the mandates of the LV Orders.  
+Updated reports have been issued in July 2024, November 2024 and March 2025.
+Each of the technology initiatives to support the LV Orders has had some delays, primarily 
+from resource constraints in DOE business and DIIT.  The Impartial Hearing Management 
+System (IHMS) has been the most delayed and is the lynchpin for many of the LV Orders. 
+A major update from our last report is that the IHMS go-live date has been set for 12/15/2025, 
+with final design sign off due in late August 2025.  This date was set by IBM and DIIT and has 
+leant an urgency to finally complete this application.  While the new date leaves little buffer 
+time to absorb delays, we are encouraged to see the entire team, IBM, DOE and DIIT, 
+prioritizing meetings and dedicating resources to make it possible.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 42 of 67
+
+thru
+Will IHMS be deployed in December 2025?
+In our last report, we reported there was uncertainty with the IBM contract that led to delays.  
+Given the work delay and the historically slow pace of development, we reported that it was 
+unlikely IHMS would be live until early 2027.  However, with the new contract and resumption of 
+development, IBM, DIIT and DOE have set December 2025 as the go-live date for IHMS.  The 
+team has dedicated more resources to complete Phase 2 development, and we have observed 
+an increased effort to meet timelines.
+Even with the higher level of engagement observed, we remain concerned about little buffer in 
+the project timeline and the amount of complex work to complete in a short amount of time.  We 
+have observed early small delays related to creation of User Interfaces (UIs), that may 
+compound delays in development and erode time required for testing.  Additionally, IHMS is a 
+highly integrated application and will require a significant data migration that includes multiple 
+data sets from multiple legacy systems. It is highly likely this effort that will require more 
+resources than currently allocated to complete.
+We applaud efforts to meet timelines, but in the event the team misses the December go-live, 
+there needs to be an alternate plan on how this effort can be completed.
+IHMS Key Takeaways
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 43 of 67
+
+thru
+IHMS Assessment:  IHMS Project Scoring
+44
+IHMS’ Beacon Score has increased 
+slightly since the last assessment.
+Factors affecting Clarity Score
+• The team coordination and planning has been 
+more thorough since beginning of the new 
+contract and establishing a go-live date
+Factors affecting Design Difficulty Score
+• Design Difficulty score has decreased slightly due 
+further clarity in the complexity involved in 
+executing the many integrations planned for 
+IHMS
+Factors affecting Implementation 
+Difficulty Score
+• More resources have been allocated to the 
+project and there has been much better 
+engagement from DOE and DIIT 
+• Testing expectations are clearer than they had 
+been in Phase 1
+• Concern remains about whether there are enough 
+data migration and validation resources
+Scores indicate there is ambiguity on when 
+application will be deployed.
+Indicates prior assessment score
+Beacon Score
+IHMS
+Expected score for a 
+public sector project of 
+this size/scope
+Clarity
+Design Difficulty
+Implementation 
+Difficulty
+Indicates prior assessment score
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 44 of 67
+
+thru
+IHMS Previously Reported Findings (1/3)
+45
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+Current plans are pending change 
+request approval and 
+re-engagement by IBM
+There is a new project plan and 
+go-live date
+Ensure that all activities (such as 
+test case development, data 
+migration and validation, etc.) are 
+represented on the timeline and 
+socialized with the greater team
+Clarity
+The project still suffers from chronic 
+delay and resource constraints 
+from DOE business users who 
+have to juggle priorities and 
+schedules and a heavily reduced 
+IBM staff
+IBM is ramping up resources and 
+more DOE and DIIT resources have 
+been allocated to the project
+Ensure there are enough resources 
+to complete all tasks, particularly 
+testing and data migration / 
+validation from legacy systems
+Clarity
+There continues to some 
+inconsistencies including reporting 
+on functionality that is ready for 
+testing or whether development is 
+truly complete
+Focus on has been on Phase 2 
+functionality
+Combining Phase 1 and Phase 2 
+functionality and data will require 
+careful coordination across DOE 
+units, ensure there are project tasks 
+for end-to-end test case creation 
+with assigned roles for each
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 45 of 67
+
+thru
+IHMS Previously Reported Findings (2/3)
+46
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Design 
+Difficulty
+The team has yet to validate data 
+migrated from legacy or integrated 
+applications
+Phase 1 data was not migrated and 
+not validated in a mock migration
+Perform a mock migration of Phase 
+1 data to test processes and ensure 
+there are resources available when 
+Phase 2 data needs to be migrated 
+and validated
+Design 
+Difficulty
+N/A
+IHMS has 13 data integrations 
+planned with active DOE systems. 
+Integrations will leverage DIIT’s Data 
+as a Platform (DaaP), API or sFTP 
+batch load.  Currently IBM and DIIT 
+have not shared updated integration 
+plans that would demonstrate holistic 
+approaches across integration 
+initiatives
+If integrations are not carefully 
+choregraphed, it may result in data 
+not being available when expected 
+which would lead to longer testing 
+times and project delays
+Focus on the end-for-end capability 
+for each stakeholder type (e.g., 
+students, parents/reps, vendors) 
+and follow the data flow to identify 
+the test points to ensure the correct 
+data in the right state when the 
+integration occurs
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 46 of 67
+
+thru
+IHMS Previously Reported Findings (3/3)
+47
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Implementation 
+Difficulty
+IBM has reported servers to be 
+unavailable, working through a 
+downtime since 2/4/25 and 
+additional authentication issues 
+which are affecting the team’s 
+ability to test integrations
+DIIT has made the IHMS project a 
+priority development initiative and 
+made resources available
+IBM should continue to team with 
+DIIT resources to ensure issues are 
+addressed quickly
+Implementation 
+Difficulty
+Current plans are for Phase 1 to 
+go live after Phase 2 functionality 
+is ready but the timeline for 
+release is unknown given the 
+delays in the approval of the IBM 
+change request and uncertainty if 
+Phase 1 UAT will be completed on 
+schedule
+With IBM’s contract concluding upon 
+IHMS go-live, there is concern about 
+how the application will be support 
+and maintained going forward
+Ensure there is a plan for ongoing 
+support and maintenance and that 
+the DIIT resources who will support 
+and maintain IHMS are directly 
+involved with testing and defect 
+remediation with IBM
+Implementation 
+Difficulty
+OCM activities would have set 
+expectations for more timely 
+execution of UAT and helped 
+organize the team for validating 
+migrated data from legacy 
+applications
+It’s unclear what the DOE strategy is 
+for training its users, parents, reps 
+and advocates, no comprehensive 
+plan has been shared
+Ensure that OCM activities are 
+scheduled and begin to execute 
+during the UAT period in October
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 47 of 67
+
+thru
+DAITS: Key Takeaways
+48
+DAITS resources have continued stabilization work.  The team has had three 
+releases that have stabilized the application and notably, made it accessible via a 
+modern browser and users have reported better performance.  The subsequent two 
+releases addressed priority enhancements requested by the IU Team.  Release 5, 
+expected this summer will make it possible to send an Authorization email to multiple 
+recipients.  
+Given that DAITS functionality and data will be merged into IHMS and the application 
+sunset, the Special Master’s Team has recommended that the rest of the DAITS 
+enhancements that had been requested be postponed to enable the IU Team and the 
+DAITS resources to focus their time on IHMS Phase 2 development and data migration.  
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 48 of 67
+
+thru
+Polaris: Key Takeaways
+49
+Polaris, the custom-built invoicing tool (obligation #10), went live with 57 vendors in late 
+December 2024 and has continued with that number of vendors.  Early results have 
+been positive with the team processing invoices through the system within 5 days of 
+receipt of the invoice.  There are plans to execute a July release and onboard more 
+vendors, bringing the total number of vendors toward 200.
+Conversations with the team indicate that the application is performing well and leading 
+to shorter invoice processing times.  In our review of testing documentation shared on 
+July 14, 2025, we believe the testing undertaken was thorough, consisting of both 
+happy path and negative testing.  The only gaps we observed in the testing was that 
+there was no mention of testing on different browsers and no mention of the mobile 
+responsiveness tests.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 49 of 67
+
+thru
+Polaris Previously Reported Findings (1/2)
+50
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+The DFO team and vendor team 
+(Spruce) continue to adhere to the 
+stated project schedule
+In addition to planned improvements, 
+the Polaris team will need to be 
+available to assist with building the 
+IHMS integration
+Ensure that future project plans 
+allocate time and resources to the 
+IHMS integration development 
+efforts
+Design Difficulty
+Polaris is dependent on 
+integration with DAITS and 
+specifically requires data from the 
+DAITS connection to IHF/FAMIS 
+Polaris will need to continue its 
+connection to DAITS but plan for 
+integration with IHMS
+The Polaris development team will 
+need to plan for updates on how to 
+incorporate the same data coming 
+from IHMS starting in December
+Design Difficulty
+Polaris uses a multitude of 
+technologies including UI 
+frameworks, MS Rules Engine 
+and logging engines along with a 
+database structure which is 
+appropriately complex for the 
+function it serves – as this 
+application grows for other units, 
+diagnosing performance issues 
+may become difficult
+Testing artifacts were reviewed for 
+695 functional test cases as well as 
+performance tests.
+Ensure business logic is contained 
+(e.g. not spread across database 
+and the rules engine) to reduce 
+overlap in business logic across the 
+tech stack
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 50 of 67
+
+thru
+Polaris Previously Reported Findings (2/2)
+51
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Implementation 
+Difficulty
+The Polaris pilot is underway with 
+57 vendors. In a review of 
+unsolicited feedback to the 
+Special Master’s team from users, 
+there seem to be some 
+requirements and processes that 
+are confusing to vendors.
+The July 2025 release will expand 
+the number of vendors using Polaris 
+DFO and IU Team should update 
+FAQs and communication 
+mechanisms to ensure newly 
+onboarded vendors understand the 
+process
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 51 of 67
+
+thru
+Nagarro SupportHub Customer Service Assessment
+52
+SupportHub is meant to help track customer support activities to parents, parents’ 
+representatives, independent providers/agencies in the implementation of impartial 
+hearing orders.  Trained support agents will utilize custom forms built out on the 
+ServiceNow platform for both incoming and outgoing proactive support.
+The Special Masters Team has attended regular meetings with the OGC team and 
+Nagarro to walk through plans for new functionality and the metrics on # of service 
+tickets generated.  The team has done a good job of expanding functionality to include 
+new end-user dashboards and has plans to go live with a new hotline functionality.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 52 of 67
+
+thru
+Nagarro SupportHub Customer Service Findings (1/2)
+53
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Clarity
+New updates will add more 
+self-service functionality in the 
+March 26th release
+The team maintains their project 
+plans well, has met their release 
+dates, and will complete 2 Q2 
+releases in support of public-facing 
+functionality 
+Going forward the project timeline 
+should also include internal 
+activities such as KPI reporting and 
+metric analysis
+Clarity
+No metrics have been shared to 
+demonstrate the volume of tickets 
+per agent, per user, etc.
+KPIs have been defined by DOE and 
+Nagarro teams which will help 
+determine effectiveness and use of 
+the SupportHub
+Reporting on achievement of the 
+KPIs or any analysis on the 
+outcomes of using the application 
+have yet to be shared
+Provide reporting on how the KPIs 
+are being achieved
+Build upon the defined KPIs to 
+focus on measurement of intended 
+outcomes (for example understand 
+whether using SupportHub is 
+resulting in faster resolution of 
+issues, more efficiencies etc.)
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 53 of 67
+
+thru
+Nagarro SupportHub Customer Service Findings (2/2)
+54
+Positive 
+Progress
+Some 
+Progress
+No 
+Progress
+Legend
+Metric
+Progress
+Previous Finding
+Current Status
+Recommendation
+Design Difficulty
+DAITS has undergone a large 
+stabilization release that could 
+affect the data extracted to the 
+SupportHub
+Once IHMS goes live, SupportHub 
+will need to get order information 
+from IHMS, DIIT will need to confirm 
+how they will integrate the data that 
+was previously stored in DAITS into 
+IHMS
+Coordinate closely with DIIT to 
+determine the best method for 
+integration between IHMS and 
+SupportHub
+Implementation 
+Difficulty
+The Nagarro process using 
+ServiceNow and SharePoint has 
+proven to be less onerous than 
+current process of downloading 
+documents out of personal email 
+boxes
+No observable changes
+There should be some clarity of 
+how documents will be handled and 
+stored once IHMS goes live in 
+December
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 54 of 67
+
+thru
+SupportHub Findings (Nagarro)
+55
+As a result of the court meeting of December 5, 2024, the DOE was asked to institute 
+a process of allowing vendors to email the Implementation Unit (IU).  To facilitate this 
+process, DOE directed the Nagarro team to extend the use of their ServiceNow 
+SupportHub platform to assign tickets to emails received by vendors.
+With tool in use, DOE has reported that they are preparing a report to Judge Preska 
+on the effectiveness of the solution. In the period of February 11-May 9, 2025, the 
+system generated 3,557 tickets but only 26% of the tickets received a confirmation 
+from parents or parent reps to confirm the vendor’s identity and the majority of emails 
+were received from 3 main vendors.
+The data collected in this pilot provided meaningful data on which vendors are 
+emailing the IU and the volume of those emails.  Questions remain on whether those 
+vendors have valid questions that can be addressed in an alternative 
+channel/method.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 55 of 67
+
+thru
+Appendix II: Obligations Fulfilled
+56
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 56 of 67
+
+thru
+Obligations Fulfilled
+57
+Obl.#
+Obligation
+Due Date
+Rationale
+14b
+(b) within six months of the date of this Order, design a 
+plan for additional staffing within the Implementation 
+Unit,
+1/19/24
+Initially, the development of a staffing plan and the 
+creation of job descriptions were delayed due to budget 
+constraints. Following the Mayor/OMB budget approval, 
+DOE has since shared job descriptions and a staffing 
+plan, which was signed off in March, 2024. Other 
+obligations track the progress of hiring/staffing, such as 
+obligation #22 and #26.
+26
+Within three months of the date of this Order, the 
+Special Master and DOE will identify the types of action 
+items that require the greatest levels of effort to process 
+as well as those most likely to contribute to the backlog 
+of hearing order implementation. Based on the analysis, 
+DOE will develop solutions to remove the causes for the 
+backlog attributable to DOE;
+10/19/23
+In the Pain Point Analysis document, DOE defined the 
+objectives and deliverables for three projects around 
+staffing, communications and process improvement 
+(November, 2023). DOE is making progress towards 
+many of the milestones documented, such as recent 
+hiring (see attached report) and a new communications 
+lead for Implementation. 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 57 of 67
+
+thru
+Obligations Fulfilled (continued)
+58
+Obl.#
+Obligation
+Due Date
+Rationale
+7
+Within three months of the date of this Order, 
+DOE will identify a file-sharing process and tool 
+to improve transparency of all documentation 
+presented as evidence at the hearing so that 
+all pertinent documents can be continually 
+accessed by the Implementation Unit;
+10/19/23
+DOE identified its upcoming Impartial Hearing Management 
+System (IHMS) as the solution for document management in due 
+process. A business requirements document (BRD) was 
+developed by the IHMS team around document management 
+functions. I determined it fulfills the obligation to identify a 
+file-sharing solution.
+24(a)
+(a)
+Within 45 days of the date of this Order, the 
+Special Master and DOE will inventory all 
+functional issues of DAITS that impede the 
+hearing order implementation workflow, 
+including but not limited to system crashes, 
+system outages, and system timeouts, and 
+prioritize enhancements.  
+(b)
+Within six months of the date of this Order, 
+DOE will develop, test, and release the 
+DAITS enhancements;
+9/4/2023
+See Appendix I (slide 59) for the status of DAITS
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 58 of 67
+
+thru
+Obligations Fulfilled (continued)
+59
+Obl.#
+Obligation
+Due Date
+Rationale
+3
+Within two months of the date of this Order, the Special 
+Master will identify by type of Action Item the key pain 
+points around the implementation of payment orders 
+and service orders. 
+9/19/2023
+Using the list of all possible action item types (e.g., tuition 
+reimbursement, PT), DOE documented the key issues in 
+the process of implementation (.xls), respectively. DOE 
+also supplied a general sense of the volume and level of 
+effort to implement each action item type. I held 
+discussions with IU to understand the pain points and 
+added my assessment of the root causes. Plaintiffs 
+provided their feedback on the analysis,(several points of 
+feedback will be addressed by obligation #26).
+21
+Within two months of the date of this Order, DOE will 
+formalize, designate, and confirm a liaison role in OPT, 
+with an escalation path, to coordinate the 
+implementation of transportation orders between the 
+Implementation Unit, OPT, and OSH as applicable.  
+DOE will improve communications and track 
+implementation of impartial hearing orders requiring 
+transportation and provide monthly status updates to 
+parents on the implementation of such orders, except 
+where DOE is not in compliance with a transportation 
+order, DOE will provide weekly updates to parents until 
+existing deficiencies are cured; 
+9/19/2023
+DOE produced a “chart” (.doc) of Implementation 
+Liaisons for OPT and OSH with escalation points, 
+coordination protocols between offices, and procedures 
+for implementing transportation orders. I reviewed the 
+document and provided feedback, as did Plaintiffs, and 
+DOE incorporated the comments into a new version 
+which was finalized, (but will be updated in the future, as 
+applicable). 
+As of this report, I am requesting DOE provide an update 
+on the status of the OPT Liaison and the monthly updates 
+to parents. I will follow up with a formal request.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 59 of 67
+
+thru
+Obligations Fulfilled (continued)
+60
+Obl.#
+Obligation
+Due Date
+Rationale
+1
+Within three months of the date of this Order, 
+DOE will develop a customer support plan, 
+including people and tools, for the 
+Implementation Unit to address questions from 
+parents and providers, routing Tier II questions 
+to Implementation Unit Implementation 
+Managers;
+10/19/2023
+I provided a template (.doc) of a customer support plan to DOE, 
+incorporating standard elements of such a plan (cross-industry) 
+in outline form. DOE then developed a draft Customer Support 
+Plan (.doc) from the template, detailing intended audience 
+groups, an outline of a support hotline and its objectives, training 
+for hotline staff, and metrics to evaluate the effectiveness of the 
+program going forward. I provided feedback, which DOE 
+incorporated into a final version.
+The execution of this plan is now being monitored through 
+obligation #14.
+2a
+Within three months of the date of this Order, 
+the Special Master and DOE will identify the 
+Key Performance Indicators (“KPIs”) for 
+monitoring the internal administrative 
+workflows of the Implementation Unit.  KPIs will 
+be presented to the Plaintiffs for feedback. 
+10/19/2023
+DOE developed a list in table form (.xls) of metrics that could 
+inform the day-to-day performance and decision-making of the 
+Implementation Unit, (i.e., KPIs). Plaintiffs and I reviewed the file 
+and suggested a number of enhancements, which were 
+incorporated and signed off in October 2023. 
+In our recent monthly status meetings with DOE, the IU and DFO 
+have been presenting initial figures of KPIs, such as number of 
+action items unpacked per month, dollar amount of authorizations 
+per month, invoices processed, etc. I anticipate DOE’s ability to 
+provide these metrics will evolve with the release of IHMS.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 60 of 67
+
+thru
+Obligations Fulfilled (continued)
+61
+Obl.#
+Obligation
+Due Date
+Rationale
+18
+Within three months of the date of this Order, 
+DOE Implementation Unit will develop and 
+communicate a clear procedure to inform 
+schools and CSEs that an IEP meeting has 
+been ordered and to ensure that the IEP was 
+updated pursuant to that order;
+10/19/2023
+DOE submitted a draft of a procedures document, “Protocols for 
+Communicating Orders for IEP Meetings,” for which I provided 
+suggestions to improve the contents of the document, to be more 
+clear, expand in areas, etc. DOE addressed the feedback and 
+provided an updated version of the protocol document, which I 
+accepted.
+As of this report, I am requesting DOE provide a status update on 
+this process around IEPs and its effectiveness. I will follow up with a 
+formal request.
+6
+Within three months of the date of this Order, 
+DOE will formalize an approach to sustaining 
+knowledge of implementation processes, to 
+enable experienced staff to onboard, train 
+and mentor more junior staff;
+10/19/2023
+My team shared a template of a professional learning plan 
+deliverable in advance of the work. DOE developed a Professional 
+Learning Plan and submitted it in late October, which I reviewed and 
+provided feedback, and eventually I accepted. 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 61 of 67
+
+thru
+Obligations Fulfilled (continued)
+62
+Obl.#
+Obligation
+Due Date
+Rationale
+15
+Within three months of the date of this Order, DOE 
+will formally designate Implementation Liaisons in all 
+Districts and relevant Central offices (e.g., OPT, 
+OSH, OSE) to act as points-of-contact in their 
+respective areas for Implementation Managers to 
+facilitate the arrangement of the ordered service(s). 
+DOE will also establish an escalation process when 
+an Implementation Liaison is unavailable or unable 
+to resolve a particular issue, with the escalation role 
+being in an executive role within the respective DOE 
+office;
+10/19/2023
+DOE developed an Implementation Liaison Directory and 
+Escalation Protocol document (.pdf), which designates 
+Implementation Liaisons for all relevant DOE offices and 
+districts, and defines a protocol when that office DOEs not 
+address the order in a timely manner (i.e. escalation 
+protocol). 
+As of this report, I am requesting a status update from DOE 
+on the effectiveness and use of this protocol to date. I will 
+follow up with a formal request.
+4
+Within three months of the date of this Order, DOE 
+will build and maintain a toolkit of existing assistive 
+technology, schools, programs, and services that 
+DOE can Timely Implement (as defined in the 
+Stipulation) any Action Items for provision of 
+assistive technology;
+10/19/2023
+DOE compiled a spreadsheet of assistive technology (AT) 
+products to quickly identify and procure those that are readily 
+available for DOE to use with students. 
+There is an open question regarding the component of the 
+obligation concerning “schools, programs, and services.” 
+This obligation was fulfilled under the premise that 
+DOE/NYSED provide the materials used to train IHOs on the 
+topic of schools/programs/services, but no materials have 
+been shared. This obligation will revert to ‘unfulfilled without 
+a response to this request by August 2025.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 62 of 67
+
+thru
+Obligations Fulfilled (continued)
+63
+Obl.#
+Obligation
+Due Date
+Rationale
+25
+Within three months of the date of this Order, 
+DOE will assign an additional team of 
+Implementation Unit Staff to expedite the 
+implementation of any hearing order that is 
+more than 35 days past the date of the hearing 
+order. This team will continue its work until 
+such time as orders are consistently being 
+implemented within the implementation 
+deadlines;
+10/19/2023
+DOE documented a “Backlog Triage Plan” (.doc) to describe the 
+procedures the additional team will perform in expediting orders 
+35+ days old. The plan includes documentation of a workflow, 
+staffing plan, operational plan, data reporting and dependencies. 
+As of this report, I am requesting a status update from DOE on 
+the operation and effectiveness of this new team. I will follow up 
+with a more formal request.
+29
+Within six months of the date of this Order, 
+DOE will add the role of Implementation 
+Systems Analyst to the Due Process Systems 
+and Analytics Office to maintain documentation 
+of workflows and continue the process of 
+streamlining implementation processes;
+1/19/24
+DOE has reported in the attached report on hiring that two 
+Implementation Systems Analysts have been onboarded.
+As of this report, I am requesting a status update from DOE on 
+the responsibilities and progress made by this new resource. I will 
+follow up with a more formal request.
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 63 of 67
+
+thru
+Obligations Fulfilled (continued)
+64
+Obl.#
+Obligation
+Due Date
+Rationale
+8a
+Within six months of the date of this Order, 
+DOE will design a process by which DOE can 
+collect relevant implementation documentation 
+from parents and guardians, parent 
+representatives, and providers before the 
+hearing; DOE will conduct user research with 
+parents to design a web-based and offline data 
+collection process to facilitate this.  
+1/19/2024
+In our review of a number of Business Requirements Documents 
+for IHMS (regarding DPCs, TDNs, NYCSA, evidence disclosure), 
+I determined and signed off that DOE satisfactorily designed and 
+documented the requirements for capturing documentation from 
+parents and parent advocates before the hearing. I intend to 
+monitor the functionality built into IHMS. My expectation is that 
+DOE will leverage this new functionality to improve the 
+management of documents requested of parents.
+22
+(a) Within six months, DOE will develop a 
+recruitment and hiring strategy for new staff to 
+meet the volume of backlogged orders that 
+have not been implemented and orders as they 
+are issued currently and in the future. (b) DOE 
+will report to the Court on a quarterly basis its 
+progress on hiring, including the nature and 
+impact of any impediments to the 
+implementation of that strategy
+1/19/2025
+DOE presented their new approach to identifying qualified 
+candidates and the recruiting/hiring process they have been 
+following. 
+Attached to this report is the latest status of positions being 
+recruited/hired. 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 64 of 67
+
+thru
+Obligations Fulfilled (continued)
+65
+Obl.#
+Obligation
+Due Date
+Rationale
+11
+DOE will assess the creation of a 
+systems-generated notification to inform the 
+Implementation Unit that the Office of General 
+Counsel/Special Education Unit has settled a 
+case where payments are being distributed 
+from an Order.  The assessment will define the 
+business and technical requirements to do so;
+n/a
+In my review of Business Requirements Documents for IHMS 
+(specifically Implementation), I determined and signed off that 
+DOE satisfactorily documented the requirements for 
+communication mechanism between the two offices in the case of 
+a settlement. 
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 65 of 67
+
+thru
+Future Schedule of These Reports
+66
+Report #
+Draft Submitted to 
+Parties
+Parties’ Feedback 
+Due (If Any)
+Report Submitted 
+to the Court
+6
+7/9/2025
+7/16/2025
+7/21/2025
+7
+11/7/2025
+11/14/2025
+11/19/2025
+8
+3/5/2026
+3/13/2026
+3/19/2026
+9
+7/2/2026
+7/13/2026
+7/20/2026
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 66 of 67
+
+thru
+Contact
+67
+David Irwin
+Special Master to the Court (LV v. DOE)
+david@thru.co
+(646) 489-7078
+Case 1:03-cv-09917-LAP-KNF     Document 383     Filed 07/21/25     Page 67 of 67
