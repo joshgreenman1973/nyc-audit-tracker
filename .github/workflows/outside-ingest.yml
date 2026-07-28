@@ -1,0 +1,50 @@
+name: Fortnightly outside-groups ingest
+
+on:
+  schedule:
+    # 1st and 15th of each month, 13:00 UTC (~8-9am New York)
+    - cron: "0 13 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl outside publishers and diff against what is summarized
+        id: ingest
+        continue-on-error: true
+        run: python3 scripts/ingest_outside.py
+
+      - name: Commit the refreshed crawl index
+        run: |
+          git config user.name "audit-files-bot"
+          git config user.email "actions@github.com"
+          git add data/outside_index.json data/outside_new.md || true
+          git diff --cached --quiet || git commit -m "Fortnightly outside crawl"
+          git push || true
+
+      - name: Open an issue listing the new reports
+        if: steps.ingest.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f data/outside_new.md ]; then
+            gh issue create \
+              --title "Outside reports to summarize ($(date +%Y-%m-%d))" \
+              --body-file data/outside_new.md \
+              --repo "$GITHUB_REPOSITORY"
+          else
+            gh issue create \
+              --title "Outside ingest failed ($(date +%Y-%m-%d))" \
+              --body "scripts/ingest_outside.py exited nonzero but wrote no worklist. A publisher's site has probably changed shape. Check the run log." \
+              --repo "$GITHUB_REPOSITORY"
+          fi

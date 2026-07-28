@@ -11,9 +11,7 @@
   "makes_recommendations": true,
   "note": "Cloudflare blocks scripted fetches (403) but the page renders in a real browser. Types its own items: REPORT, TESTIMONY, STATEMENT, OP ED, PRESENTATION, DATA DASHBOARD.",
   "include_types": [
-   "REPORT",
-   "TESTIMONY",
-   "PRESENTATION"
+   "REPORT"
   ],
   "verdict": "include"
  },
@@ -29,8 +27,7 @@
   "makes_recommendations": true,
   "note": "Paginated listing typed as Reports / Data / Commentary-Op-Ed / Testimony.",
   "include_types": [
-   "Report",
-   "Testimony"
+   "Report"
   ],
   "verdict": "include",
   "page_urls": [
@@ -60,7 +57,9 @@
    "https://search.manhattan.institute/mi/feed?page=4&limit=500"
   ],
   "item_pattern": "<item>(?:(?!</item>).)*?<title><!\\[CDATA\\[(?P<title>(?:(?!\\]\\]>).)*)\\]\\]></title>(?:(?!</item>).)*?<link>(?P<url>[^<]+)</link>(?:(?!</item>).)*?<pubDate>(?P<date>[^<]+)</pubDate>",
-  "nyc_filter": true
+  "nyc_filter": true,
+  "auto_ingest": false,
+  "auto_ingest_note": "Its only backfillable feed is the search service, whose New York output is overwhelmingly New York Post and City Journal op-eds; reports are not distinguishable by URL, category or title."
  },
  {
   "id": "fpi",
@@ -74,7 +73,9 @@
   "makes_recommendations": true,
   "note": "WordPress REST API. State and city mix; needs a city filter.",
   "verdict": "include",
-  "nyc_filter": true
+  "nyc_filter": true,
+  "auto_ingest": false,
+  "auto_ingest_note": "WordPress posts mix reports with commentary and state-level work in one type."
  },
  {
   "id": "fiveboro",
@@ -138,10 +139,7 @@
   ],
   "item_pattern": "<div class=\"fwpl-item type\">(?:<span class=\"fwpl-term[^\"]*\"><a href=\"[^\"]*\">[^<]+</a></span>,\\s*)*<span class=\"fwpl-term[^\"]*\"><a href=\"[^\"]*\">(?P<kind>[^<]+)</a></span></div>\\s*<div class=\"fwpl-item date\">(?P<date>[^<]+)</div>.*?<div class=\"fwpl-item title\"><a href=\"(?P<url>[^\"]+)\">(?P<title>.*?)</a>",
   "include_types": [
-   "Report",
-   "Testimony",
-   "Letters",
-   "Bill Memo"
+   "Report"
   ]
  },
  {
@@ -169,6 +167,8 @@
   "makes_recommendations": true,
   "note": "Ghost Content API. Journal essays and data pieces; include only those making explicit recommendations.",
   "verdict": "include",
-  "ghost_key": "dd8e178e9ddfc883537e71dd07"
+  "ghost_key": "dd8e178e9ddfc883537e71dd07",
+  "auto_ingest": false,
+  "auto_ingest_note": "An essay journal: the Ghost feed returns every piece, and reports are not distinguishable from commentary by any field."
  }
 ]

@@ -27,12 +27,16 @@ OUT = ROOT / "data" / "outside_index.json"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
 
-# The bar: papers, reports and testimony. Commentary, op-eds, press statements,
-# events, newsletters and dashboards do not qualify.
+# The bar: white papers, reports, studies and substantial policy briefs.
+# Testimony, letters, memos, commentary, op-eds, press statements, events,
+# newsletters and dashboards do not qualify.
 EXCLUDE_TITLE = re.compile(
     r"\b(op-?ed|opinion|newsletter|press release|statement on|event|webinar|"
     r"podcast|video|announc\w+|in the news|media advisory|obituary|"
-    r"job posting|we're hiring|save the date)\b", re.I)
+    r"job posting|we're hiring|save the date|"
+    r"testimony|testifies|public comment|comments? on the proposed|"
+    r"letter to|joint letter|memo of (support|opposition)|bill memo|"
+    r"calls on|urges|responds? to)\b", re.I)
 
 
 def get(url, tries=3, timeout=45):
