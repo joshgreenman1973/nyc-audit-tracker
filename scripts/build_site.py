@@ -82,6 +82,32 @@ def attach_status(summary, raw_entry, by_num, by_title):
     summary["status_as_of"] = max(dates) if dates else ""
 
 
+# Some watchdogs number their items ("Obligation 16b, parent notifications: ...").
+# The report card keeps that wording; the recommendations list leads with the idea.
+PREFIX = re.compile(r"^\s*(?:Obligation|Recommendation|Provision|Item)\s*\d+[a-z]?\s*(?:,\s*[^:]{1,70})?:\s*", re.I)
+CROSSREF = re.compile(r"^\s*(?:see|same as)\s+obligation\s+\d+[a-z]?\s*,?\s*(?:and\s+)?", re.I)
+# Items that record the absence of a recommendation are not reform ideas.
+PLACEHOLDER = re.compile(
+    r"^\s*(?:the report makes no(?: new)? formal recommendations|"
+    r"no (?:separate )?recommendation stated|"
+    r"(?:see|same as) obligation \d+[a-z]?\.?\s*$)", re.I)
+
+
+def display_recs(summary):
+    """Idea-first recommendation text, with non-recommendations dropped."""
+    out = []
+    for i, r in enumerate(summary["recommendations"], 1):
+        body = PREFIX.sub("", r).strip()
+        if PLACEHOLDER.match(body) or "to be determined" in body.lower():
+            continue
+        body = CROSSREF.sub("", body).strip()
+        if not body or PLACEHOLDER.match(body):
+            continue
+        body = body[0].upper() + body[1:]
+        out.append({"n": i, "text": body})
+    return out
+
+
 def main():
     raw = json.loads(RAW.read_text())
     raw_by_slug = {slug_of(a["url"]): a for a in raw}
@@ -102,6 +128,7 @@ def main():
         s.setdefault("compliance_note", "")
         if s["source"] == "nyc":
             attach_status(s, raw_by_slug.get(f.stem), by_num, by_title)
+        s["rec_display"] = display_recs(s)
         audits.append(s)
 
     audits.sort(key=lambda a: a["issued"], reverse=True)
@@ -114,8 +141,10 @@ def main():
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(payload, indent=1, ensure_ascii=False))
     n_f = sum(len(a["findings"]) for a in audits)
-    n_r = sum(len(a["recommendations"]) for a in audits)
-    print(f"Wrote {len(audits)} reports, {n_f} findings, {n_r} recommendations, "
+    n_r = sum(len(a["rec_display"]) for a in audits)
+    dropped = sum(len(a["recommendations"]) - len(a["rec_display"]) for a in audits)
+    print(f"Wrote {len(audits)} reports, {n_f} findings, {n_r} recommendations "
+          f"({dropped} placeholder items excluded), "
           f"{n_status} with official implementation statuses -> {OUT}")
 
 

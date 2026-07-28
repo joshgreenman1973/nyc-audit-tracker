@@ -1,111 +1,111 @@
 {
-  "id": "2025-07-21-lv-special-master-program-monitoring",
-  "source": "monitor",
-  "auditor": "Special master (NYC special education hearing orders)",
-  "title": "Special Master Program Monitoring Report",
-  "plain_title": "Two years on, 59% of the special education court order is unmet",
-  "agency": "New York City Public Schools",
-  "issued": "2025-07-21",
-  "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
-  "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/383.pdf",
-  "what_they_audited": "A periodic monitoring report to the court, filed as a slide deck, on how far the New York City Public Schools (DOE) has gotten in meeting the obligations imposed by the court's order of July 19, 2023 in L.V. v. D.O.E. It includes an independent assessment of the four technology systems the obligations depend on.",
-  "background": "In a special education due process proceeding an Impartial Hearing Officer (IHO) can order services for a student or payment on the student's behalf, and the department must carry the order out within 35 days unless the order sets a different timeline. The department runs an Implementation Unit (IU) to authorize those payments and arrange those services. Obligation #39 of the 2023 order requires the special master to report to the court every 120 days on whether each obligation has been fulfilled, what is blocking the unfulfilled ones and what steps come next.",
-  "findings": [
-    {
-      "plain": "As of July 8, 2025, the department had fulfilled 21 of the 51 obligations tracked and 30 were still unfulfilled.",
-      "quote": "As of July 8, 2025, twenty-one (21) obligations"
-    },
-    {
-      "plain": "Every unfulfilled obligation was past due, some by more than a year, leaving 59% of the July 2023 order unmet two years after it was issued.",
-      "quote": "DOE has yet to fulfill 59% of the obligations from the 7/19/23 order."
-    },
-    {
-      "plain": "Two obligations were tentatively fulfilled since the March 2025 report: collecting documentation from parents and notifying the Implementation Unit when a case is settled. The evidence was contained in business requirements documents for the new hearing system.",
-      "quote": "In recent weeks, DOE has tentatively fulfilled two obligations from the LV order"
-    },
-    {
-      "plain": "IBM and the department set December 15, 2025 as the go-live date for the Impartial Hearing Management System (IHMS), with final design sign-off due August 29, 2025. The special master remained concerned that the schedule left almost no room for problems, particularly for migrating data out of existing systems.",
-      "quote": "IBM and DOE/DIIT have set a Go-Live date of 12/15/2025 for IHMS. The work plan"
-    },
-    {
-      "plain": "Technology is the choke point. Of the 40 obligations being monitored, 19 depend on specific technology systems, and the delayed hearing management system is the one most of them rest on.",
-      "quote": "has been the most delayed and is the lynchpin for many of the LV Orders."
-    },
-    {
-      "plain": "Polaris, the custom-built invoicing tool, was working. It went live with 57 vendors in late December 2024 and invoices were being processed within five days, with a July release planned to bring the vendor total toward 200.",
-      "quote": "been positive with the team processing invoices through the system within 5 days of"
-    },
-    {
-      "plain": "A pilot letting vendors email the Implementation Unit generated 3,557 tickets between February 11 and May 9, 2025, but only 26% drew a confirmation from a parent or parent representative and most of the email came from three vendors.",
-      "quote": "system generated 3,557 tickets but only 26% of the tickets received a confirmation"
-    }
-  ],
-  "numbers": [
-    {
-      "value": "twenty-one (21)",
-      "label": "Obligations fulfilled as of July 8, 2025"
-    },
-    {
-      "value": "thirty (30)",
-      "label": "Obligations not yet fulfilled"
-    },
-    {
-      "value": "59%",
-      "label": "Share of the July 2023 order still unmet"
-    },
-    {
-      "value": "12/15/2025",
-      "label": "Go-live date set for the new hearing system"
-    },
-    {
-      "value": "57 vendors",
-      "label": "Vendors using the new Polaris invoicing tool"
-    },
-    {
-      "value": "3,557",
-      "label": "Vendor email tickets logged February 11 to May 9, 2025"
-    },
-    {
-      "value": "26%",
-      "label": "Tickets confirmed by a parent or representative"
-    }
-  ],
-  "recommendations": [
-    "Obligation 5, hearing officer web form: include hearing officers in user acceptance testing of the new hearing management system.",
-    "Obligation 8b, multiple-file uploads: update the policy so parents can submit payment documentation as multiple files, and communicate the change internally and publicly.",
-    "Obligation 10, timesheet solution: test the invoicing application on multiple browser types to match what the public will use.",
-    "Obligation 13, monitoring service orders: set up a working group that meets regularly on the functionality needed in the special education system.",
-    "Obligation 14a, customer support hotline: keep improving the SupportHub tool and process in response to community feedback.",
-    "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
-    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
-    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
-    "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
-    "Obligation 24b, DAITS enhancements: confirm that further enhancements to the older tracking system will be postponed so resources can support the new hearing system.",
-    "Obligation 30, operating procedures manual: have the communications lead revise the draft manual and share an updated version with plaintiffs and the special master.",
-    "Obligation 33, new services process: create a working group for the hearing system and special education system teams to work out the integration between them.",
-    "Obligation 27, case status indicator: make sure the parent-facing status function is tested with parents during user acceptance testing.",
-    "Obligation 31, document management: clarify and define the process and technologies for capturing and storing documentation from parents.",
-    "Obligation 34, document management tool: see obligation 13.",
-    "Obligation 32, mobile timesheets: share the mobile testing results for Polaris with the special master.",
-    "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
-    "Obligation 9, payment documentation: keep reviewing the content of the implementation website and align it with the SupportHub site.",
-    "Obligation 12a, high-priority orders: gather data on high-priority cases, share it with the special master and determine lessons learned from missed cases.",
-    "Obligation 12b, service communications: produce and share a communications plan for service orders and action items.",
-    "Obligation 19, nursing documentation: report the obstacles at the August steering committee meeting and formally communicate the policy to nursing providers.",
-    "Obligation 28a, collecting data assets: share the agreed list of performance indicators with the hearing system team, assess what can be reported from it and identify the gaps.",
-    "Obligation 28b, quarterly analysis: share an outline and template of the quarterly report for feedback from plaintiffs and the special master.",
-    "Obligation 28c, six-month report to the court: share an outline and template of the six-month report for feedback.",
-    "Obligation 35, home instruction: create a process document for confirming that ordered home instruction was actually provided.",
-    "Obligation 36, placement orders: create a process document for confirming that the student is appropriately placed in the school called for by the order and the student's IEP.",
-    "Obligation 37, training updates: share an annual training publication schedule and the process for updating training materials.",
-    "Obligation 38, user research: plan and scope user research for Phase II of the hearing management system, including feedback from plaintiffs."
-  ],
-  "agency_response": "",
-  "implementation_note": "Of the 51 obligations in the July 19, 2023 court order, 21 were fulfilled and 30 were not yet fulfilled as of July 8, 2025, two more than at the March 2025 report.",
-  "compliance_note": "The special master found the department still short of compliance: 59% of the obligations remained unfulfilled and all of them were past due, some by more than a year, though he credited progress on the invoicing tool and on the schedule for the new hearing management system.",
-  "topics": [
-    "education",
-    "children and youth"
-  ],
-  "is_followup": false
+ "id": "2025-07-21-lv-special-master-program-monitoring",
+ "source": "monitor",
+ "auditor": "Special master (NYC special education hearing orders)",
+ "title": "Special Master Program Monitoring Report",
+ "plain_title": "Two years on, 59% of the special education court order is unmet",
+ "agency": "New York City Public Schools",
+ "issued": "2025-07-21",
+ "url": "https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/",
+ "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/383.pdf",
+ "what_they_audited": "A periodic monitoring report to the court, filed as a slide deck, on how far the New York City Public Schools (DOE) has gotten in meeting the obligations imposed by the court's order of July 19, 2023 in L.V. v. D.O.E. It includes an independent assessment of the four technology systems the obligations depend on.",
+ "background": "In a special education due process proceeding an Impartial Hearing Officer (IHO) can order services for a student or payment on the student's behalf, and the department must carry the order out within 35 days unless the order sets a different timeline. The department runs an Implementation Unit (IU) to authorize those payments and arrange those services. Obligation #39 of the 2023 order requires the special master to report to the court every 120 days on whether each obligation has been fulfilled, what is blocking the unfulfilled ones and what steps come next.",
+ "findings": [
+  {
+   "plain": "As of July 8, 2025, the department had fulfilled 21 of the 51 obligations tracked and 30 were still unfulfilled.",
+   "quote": "As of July 8, 2025, twenty-one (21) obligations"
+  },
+  {
+   "plain": "Every unfulfilled obligation was past due, some by more than a year, leaving 59% of the July 2023 order unmet two years after it was issued.",
+   "quote": "DOE has yet to fulfill 59% of the obligations from the 7/19/23 order."
+  },
+  {
+   "plain": "Two obligations were tentatively fulfilled since the March 2025 report: collecting documentation from parents and notifying the Implementation Unit when a case is settled. The evidence was contained in business requirements documents for the new hearing system.",
+   "quote": "In recent weeks, DOE has tentatively fulfilled two obligations from the LV order"
+  },
+  {
+   "plain": "IBM and the department set December 15, 2025 as the go-live date for the Impartial Hearing Management System (IHMS), with final design sign-off due August 29, 2025. The special master remained concerned that the schedule left almost no room for problems, particularly for migrating data out of existing systems.",
+   "quote": "IBM and DOE/DIIT have set a Go-Live date of 12/15/2025 for IHMS. The work plan"
+  },
+  {
+   "plain": "Technology is the choke point. Of the 40 obligations being monitored, 19 depend on specific technology systems, and the delayed hearing management system is the one most of them rest on.",
+   "quote": "has been the most delayed and is the lynchpin for many of the LV Orders."
+  },
+  {
+   "plain": "Polaris, the custom-built invoicing tool, was working. It went live with 57 vendors in late December 2024 and invoices were being processed within five days, with a July release planned to bring the vendor total toward 200.",
+   "quote": "been positive with the team processing invoices through the system within 5 days of"
+  },
+  {
+   "plain": "A pilot letting vendors email the Implementation Unit generated 3,557 tickets between February 11 and May 9, 2025, but only 26% drew a confirmation from a parent or parent representative and most of the email came from three vendors.",
+   "quote": "system generated 3,557 tickets but only 26% of the tickets received a confirmation"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty-one (21)",
+   "label": "Obligations fulfilled as of July 8, 2025"
+  },
+  {
+   "value": "thirty (30)",
+   "label": "Obligations not yet fulfilled"
+  },
+  {
+   "value": "59%",
+   "label": "Share of the July 2023 order still unmet"
+  },
+  {
+   "value": "12/15/2025",
+   "label": "Go-live date set for the new hearing system"
+  },
+  {
+   "value": "57 vendors",
+   "label": "Vendors using the new Polaris invoicing tool"
+  },
+  {
+   "value": "3,557",
+   "label": "Vendor email tickets logged February 11 to May 9, 2025"
+  },
+  {
+   "value": "26%",
+   "label": "Tickets confirmed by a parent or representative"
+  }
+ ],
+ "recommendations": [
+  "Obligation 5, hearing officer web form: include hearing officers in user acceptance testing of the new hearing management system.",
+  "Obligation 8b, multiple-file uploads: update the policy so parents can submit payment documentation as multiple files, and communicate the change internally and publicly.",
+  "Obligation 10, timesheet solution: test the invoicing application on multiple browser types to match what the public will use.",
+  "Obligation 13, monitoring service orders: set up a working group that meets regularly on the functionality needed in the special education system.",
+  "Obligation 14a, customer support hotline: keep improving the SupportHub tool and process in response to community feedback.",
+  "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
+  "Obligation 16b, building the notification function: draft the requirements and content for the automated service that emails parents at key milestones, with the department's technology division reviewing how those notifications will be generated.",
+  "Obligation 16c, deploying notifications publicly: draft the requirements and content for the automated parent notification service, the step needed before the notifications can go live publicly.",
+  "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
+  "Obligation 24b, DAITS enhancements: confirm that further enhancements to the older tracking system will be postponed so resources can support the new hearing system.",
+  "Obligation 30, operating procedures manual: have the communications lead revise the draft manual and share an updated version with plaintiffs and the special master.",
+  "Obligation 33, new services process: create a working group for the hearing system and special education system teams to work out the integration between them.",
+  "Obligation 27, case status indicator: make sure the parent-facing status function is tested with parents during user acceptance testing.",
+  "Obligation 31, document management: clarify and define the process and technologies for capturing and storing documentation from parents.",
+  "Obligation 34, document management tool: set up a working group that meets regularly on the functionality needed between the hearing system and the special education system, which governs the document management tool.",
+  "Obligation 32, mobile timesheets: share the mobile testing results for Polaris with the special master.",
+  "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
+  "Obligation 9, payment documentation: keep reviewing the content of the implementation website and align it with the SupportHub site.",
+  "Obligation 12a, high-priority orders: gather data on high-priority cases, share it with the special master and determine lessons learned from missed cases.",
+  "Obligation 12b, service communications: produce and share a communications plan for service orders and action items.",
+  "Obligation 19, nursing documentation: report the obstacles at the August steering committee meeting and formally communicate the policy to nursing providers.",
+  "Obligation 28a, collecting data assets: share the agreed list of performance indicators with the hearing system team, assess what can be reported from it and identify the gaps.",
+  "Obligation 28b, quarterly analysis: share an outline and template of the quarterly report for feedback from plaintiffs and the special master.",
+  "Obligation 28c, six-month report to the court: share an outline and template of the six-month report for feedback.",
+  "Obligation 35, home instruction: create a process document for confirming that ordered home instruction was actually provided.",
+  "Obligation 36, placement orders: create a process document for confirming that the student is appropriately placed in the school called for by the order and the student's IEP.",
+  "Obligation 37, training updates: share an annual training publication schedule and the process for updating training materials.",
+  "Obligation 38, user research: plan and scope user research for Phase II of the hearing management system, including feedback from plaintiffs."
+ ],
+ "agency_response": "",
+ "implementation_note": "Of the 51 obligations in the July 19, 2023 court order, 21 were fulfilled and 30 were not yet fulfilled as of July 8, 2025, two more than at the March 2025 report.",
+ "compliance_note": "The special master found the department still short of compliance: 59% of the obligations remained unfulfilled and all of them were past due, some by more than a year, though he credited progress on the invoicing tool and on the schedule for the new hearing management system.",
+ "topics": [
+  "education",
+  "children and youth"
+ ],
+ "is_followup": false
 }

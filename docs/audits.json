@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27",
+ "generated": "2026-07-28",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -76,7 +76,45 @@
    ],
    "is_followup": true,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create an interim action plan with milestones to strengthen claim checks and cut unclaimed services while the new MedSys claiming system is being built."
+    },
+    {
+     "n": 2,
+     "text": "Set up routine monitoring, such as sample-based reviews, so every therapy session has the required written order or referral before claims are submitted."
+    },
+    {
+     "n": 3,
+     "text": "Periodically review the licenses and national provider identifier numbers of existing employees and promptly fix wrong or incomplete provider records."
+    },
+    {
+     "n": 4,
+     "text": "Keep working to collect parental consent forms and add monitoring, such as sample-based reviews, to check compliance."
+    },
+    {
+     "n": 5,
+     "text": "Record every service session in the two tracking systems, determine whether unrecorded services were delivered but not logged or never delivered, and act on what it finds."
+    },
+    {
+     "n": 6,
+     "text": "Meet documentation and claiming requirements for all covered services for K-12 and eligible preschool students, file claims within the allowed window and resubmit correctable claims."
+    },
+    {
+     "n": 7,
+     "text": "Do a cost-benefit analysis of expanding claiming to more of the covered services and develop a staged expansion plan."
+    },
+    {
+     "n": 8,
+     "text": "Revisit the still-unimplemented recommendations once the Medicaid team is fully staffed and the new special education system is rolled out."
+    },
+    {
+     "n": 9,
+     "text": "Promptly give auditors the information and documents needed to complete legally authorized audits."
+    }
+   ]
   },
   {
    "id": "2026-07-22-elder-abuse-services-training-and-coordination",
@@ -140,7 +178,29 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Strengthen oversight and monitoring of elder abuse cases so contracted providers deliver timely and appropriate services."
+    },
+    {
+     "n": 2,
+     "text": "Take additional steps to make sure Elder Justice Program workers are properly trained."
+    },
+    {
+     "n": 3,
+     "text": "Collect better documentation and step up monitoring to confirm providers hold the required number of educational presentations and outreach activities."
+    },
+    {
+     "n": 4,
+     "text": "Enforce the requirement that providers submit annual plans and review those plans to see whether activities reach the intended people and communities with the right content."
+    },
+    {
+     "n": 5,
+     "text": "For future programs, define what success looks like and set up monitoring and evaluation measures, including lessons learned, to guide decisions."
+    }
+   ]
   },
   {
    "id": "2026-07-14-remediation-action-plan",
@@ -232,7 +292,77 @@
     "public safety",
     "money and contracts"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop and begin executing a cohesive Security Plan: the department must submit a priority order for fixing lapses in core security practices by October 1, 2026, then create and carry out an approved practice-change plan for each item with monthly progress reports."
+    },
+    {
+     "n": 2,
+     "text": "Validate and replace defective doors: document every defective door by September 1, 2026 and submit a procurement and replacement schedule by October 1, 2026, with the city funding the work."
+    },
+    {
+     "n": 3,
+     "text": "Evaluate existing placement options and develop new ones for people who commit serious acts of violence, including a pilot housing program and data-driven strategies for managing persistently violent individuals."
+    },
+    {
+     "n": 4,
+     "text": "Establish classification leadership by submitting a senior position description by September 1, 2026, recruiting a qualified official and having that official present a plan of action within 60 days of starting."
+    },
+    {
+     "n": 5,
+     "text": "Establish a rapid executive reporting procedure requiring a standardized executive summary, presumptively within 24 hours, of serious security incidents, approved by October 15, 2026 and implemented by December 1, 2026."
+    },
+    {
+     "n": 6,
+     "text": "Allocate dedicated annual funding, approximated at $50 million, for community-based programming, with a plan to administer the funding presented for approval by October 15, 2026."
+    },
+    {
+     "n": 7,
+     "text": "Validate and assess staffing: the remediation manager will oversee an independent staffing analysis, with a completed assessment identifying deficiencies in posts, scheduling, deployment and supervision delivered by October 1, 2026."
+    },
+    {
+     "n": 8,
+     "text": "Develop and execute a staffing plan that defines, prioritizes and assigns timelines to the tasks needed to maximize staff deployment, with monthly reporting on task completion."
+    },
+    {
+     "n": 9,
+     "text": "Improve investigations staffing, structure and training: submit a redesigned Investigations, Intelligence, and Accountability Division proposal by September 1, 2026, a staffing plan and resources proposal by October 1, 2026 and a training plan by February 1, 2027."
+    },
+    {
+     "n": 10,
+     "text": "Develop a strategic plan for the new investigations division by September 1, 2026 that streamlines operations and addresses the employee disciplinary framework and referral of apparently criminal conduct to prosecutors."
+    },
+    {
+     "n": 11,
+     "text": "Develop a technology strategic plan: document gaps in data management systems by October 1, 2026 and submit an integrated technology plan by April 1, 2027, including fixing gaps in health data shared by Correctional Health Services."
+    },
+    {
+     "n": 12,
+     "text": "Develop a business intelligence tool, such as a dashboard or daily executive briefing, proposed by October 1, 2026 and deployed for executive and facility leadership."
+    },
+    {
+     "n": 13,
+     "text": "The remediation manager will design and launch a remediation compliance tool by October 15, 2026 for real-time tracking of the city's, department's, his own and the monitoring team's activities."
+    },
+    {
+     "n": 14,
+     "text": "Develop new support for facility leaders: propose a new approach to coaching facility leadership by January 1, 2027 and maintain a log of corrective actions."
+    },
+    {
+     "n": 15,
+     "text": "Adopt a dignity-based departmental values statement, drafted by April 1, 2027 and distributed to staff and people in custody after approval."
+    },
+    {
+     "n": 16,
+     "text": "Assess compliance-focused resource use within 30 days of the plan's approval and every three months after, with the city directed to provide approved additional resources."
+    },
+    {
+     "n": 17,
+     "text": "Enhance staff communication by proposing a new way to reach all staff across all posts by August 31, 2026 and putting it into operation by October 30, 2026."
+    }
+   ]
   },
   {
    "id": "2026-07-06-nycha-monitors-eighth-report",
@@ -325,7 +455,33 @@
     "housing",
     "money and contracts"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Secure enough money for both operating costs and capital repairs, which the monitors say NYCHA needs to fully comply with the agreement, especially given possible federal budget cuts."
+    },
+    {
+     "n": 2,
+     "text": "Keep up the work on the mold and leak crew program, the new contract management group and the improved tracking of supervisory inspections."
+    },
+    {
+     "n": 3,
+     "text": "Tailor efforts to get into apartments so crews reach residents who will grant access without repeatedly spending time on those who will not."
+    },
+    {
+     "n": 4,
+     "text": "Use the dedicated mold and leak crews for the hands-on repair work the program was created to do, rather than closing work orders administratively."
+    },
+    {
+     "n": 5,
+     "text": "Finish defining contract management roles with input from the staff most involved, including neighborhood contract managers, then communicate those roles to relevant staff."
+    },
+    {
+     "n": 6,
+     "text": "Centralize management of the Transformation Plan initiatives and resources, standardize performance indicators across departments and build a framework for measuring whether the initiatives actually improve service."
+    }
+   ]
   },
   {
    "id": "2026-06-29-monitor-30th-report-stop-frisk-compliance-snapshot",
@@ -405,7 +561,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2026-06-18-boc-observation-aide-assessment",
@@ -499,7 +656,37 @@
     "public safety",
     "health"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Policy 1: Area supervisors must make sure \"B\" post officers conduct 15-minute tours in specialized units that have no observation aide, as Directive #4017R-D requires."
+    },
+    {
+     "n": 2,
+     "text": "Policy 2: RESH should start using observation aides on a modified alternating schedule tied to tier lockdowns, per Directive #4009-R on lock-in and lockout."
+    },
+    {
+     "n": 3,
+     "text": "Review 1: Correctional staff should ask observation aides and housing area staff for feedback to identify barriers and improve operations."
+    },
+    {
+     "n": 4,
+     "text": "Coordination 1: Facility programs or job assignment staff should send out updated observation aide rosters every week so everyone knows who is covering which unit."
+    },
+    {
+     "n": 5,
+     "text": "Coordination 2: The Eric M. Taylor Center should train and assign qualified city sentenced candidates as observation aides to offset high turnover in intake areas."
+    },
+    {
+     "n": 6,
+     "text": "Reporting 1: \"A\" post officers must write the name of the observation aide on duty in the \"A\" post logbook."
+    },
+    {
+     "n": 7,
+     "text": "Reporting 2: Leadership should set up a centralized inventory system with routine audits so aides have required equipment such as flashlights, logbooks, vests and clocks."
+    }
+   ]
   },
   {
    "id": "2026-06-17-annual-anti-corruption-report-2025",
@@ -581,7 +768,21 @@
     "transparency",
     "money and contracts"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "City agencies should conduct audits on a consistent basis."
+    },
+    {
+     "n": 2,
+     "text": "Agencies that do not have an internal audit plan should consider putting one together."
+    },
+    {
+     "n": 3,
+     "text": "Agencies should review their existing auditing frameworks with the aim of maximizing audit capacity in a way that still fits the agency's overall capacity and specific mission."
+    }
+   ]
   },
   {
    "id": "2026-06-17-twenty-first-monitor-report",
@@ -642,7 +843,21 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Take immediate, specific and concrete action to mitigate the current risk of harm, focusing on the small group of individuals engaged in the largest number of violent incidents."
+    },
+    {
+     "n": 2,
+     "text": "Provide the department with additional and new resources to support the reform effort, including administrative and project management support, policy development help and legal, compliance and operational expertise, without which reform cannot be catalyzed or sustained."
+    },
+    {
+     "n": 3,
+     "text": "The department and the remediation manager's team must develop an overarching plan that clearly defines reform priorities and how leadership, staffing and resources will be allocated to address them in a deliberate, concrete and systematic way."
+    }
+   ]
   },
   {
    "id": "2026-06-12-lv-auditor-january-2026-limited-review",
@@ -726,7 +941,8 @@
     "education",
     "children and youth"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2026-05-20-new-york-city-department-homeless-services-oversight-contract-expenditures-samaritan-daytop",
@@ -766,7 +982,13 @@
    ],
    "is_followup": true,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Department of Homeless Services officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+    }
+   ]
   },
   {
    "id": "2026-05-18-housing-seniors-follow",
@@ -797,7 +1019,13 @@
    ],
    "is_followup": true,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+    }
+   ]
   },
   {
    "id": "2026-05-15-lv-auditor-sixtieth-quarterly-report",
@@ -881,7 +1109,8 @@
     "education",
     "children and youth"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "review-of-the-citys-animal-population-control-efforts",
@@ -1022,7 +1251,45 @@
    "status_tally": {
     "Pending": 9
    },
-   "status_as_of": "2026-05-11"
+   "status_as_of": "2026-05-11",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Lead a re-evaluation of the city's overall approach to animal population control and develop a new strategy for reducing all major drivers of shelter intake, including what resources would cut dependence on shelter spending."
+    },
+    {
+     "n": 2,
+     "text": "Require the shelter operator, Animal Care and Control, to track why owners give up their pets and develop strategies to reduce those surrenders."
+    },
+    {
+     "n": 3,
+     "text": "Work on reducing community cat populations by considering new options, including a formal assessment of city-funded trap-neuter-return programs with appropriate oversight."
+    },
+    {
+     "n": 4,
+     "text": "Improve public awareness and enforcement of the rule that free-roaming cats be sterilized, formally track enforcement activity and create a dedicated 311 complaint category for free-roaming cats."
+    },
+    {
+     "n": 5,
+     "text": "Develop a strategic plan so dog licensing outreach and education events are spread across all five boroughs to raise awareness and licensing rates."
+    },
+    {
+     "n": 6,
+     "text": "Explore additional funding sources for the program, including asking the City Council to add mandatory revenue streams to the Animal Population Control Fund."
+    },
+    {
+     "n": 7,
+     "text": "Develop, formalize and carry out a monitoring plan for the ASPCA contract with clear, measurable and publicly reported performance indicators."
+    },
+    {
+     "n": 8,
+     "text": "Make sure the ASPCA submits the required reports when it performs fewer sterilization surgeries than expected."
+    },
+    {
+     "n": 9,
+     "text": "Consider surveying residents periodically to gauge the program's effectiveness and identify areas for improvement."
+    }
+   ]
   },
   {
    "id": "2026-05-05-access-denied-oversight-child-welfare",
@@ -1091,7 +1358,13 @@
     "social services",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The state Social Services Law provisions restricting DOI's access to ACS records should be amended so DOI can carry out its City Charter-mandated oversight of ACS; DOI supports pending state legislation by Senator Jabari Brisport and Assemblymember Andrew Hevesi that would provide that access."
+    }
+   ]
   },
   {
    "id": "2026-05-01-boc-third-report-2025-deaths",
@@ -1187,7 +1460,61 @@
     "public safety",
     "health"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "To CHS 1: CHS should reinforce and retrain staff on the requirement to continuously monitor people in custody who are in medical distress, as set out in CHS Medical Policies Section 10 on emergency response."
+    },
+    {
+     "n": 2,
+     "text": "To DOC 1: Reinforce and retrain staff on basic supervision, touring and logbook practices, including staying on post, staying alert and accurately documenting breaks, meals, tours and incidents."
+    },
+    {
+     "n": 3,
+     "text": "To DOC 2: Facility leadership must assign supervisors to periodically review surveillance video to spot officers who tour and document poorly, require those officers to meet with leadership before returning to post and schedule refresher training when needed."
+    },
+    {
+     "n": 4,
+     "text": "To DOC 3: Housing area staff must immediately notify a supervisor when they see contraband and step in to confiscate it, and DOC must then arrange an unscheduled search of the unit and drug test the people housed there."
+    },
+    {
+     "n": 5,
+     "text": "To DOC 4: DOC must address the findings of the 2023 cell door audit cited by the Nunez federal monitor, conduct an updated audit if needed and develop an action plan for securing cell doors and promptly reporting broken ones, to be shared with the Board at least 30 days before it is put in place."
+    },
+    {
+     "n": 6,
+     "text": "To DOC 5: Staff must tell people in custody to remove cell window coverings, notify a supervisor and log the encounter if that does not work, have a supervisor physically remove the coverings, and have supervisors regularly monitor housing areas and audit logbooks."
+    },
+    {
+     "n": 7,
+     "text": "To DOC 6: Post and distribute notices telling people in custody to comply with the security bulletin on cell window obstruction or risk losing the items used to block the view."
+    },
+    {
+     "n": 8,
+     "text": "To DOC 7: Use the Video Monitoring Unit as intended to help facilities spot security problems including drug and tobacco use, and improve records tracking people found with prohibited items."
+    },
+    {
+     "n": 9,
+     "text": "To DOC 8: Enforce the Board's Minimum Standard barring more than one person from occupying a single cell."
+    },
+    {
+     "n": 10,
+     "text": "To DOC 9: Report refusals to lock in at 9:00 pm to the Central Operations Desk and respond as the lock-in and lockout directive requires, which may include calling in other DOC units, and improve reporting to track housing areas where people refuse to lock in."
+    },
+    {
+     "n": 11,
+     "text": "To DOC 10: Send out teletypes restating that officers may not leave their assignment without a supervisor's approval or being relieved."
+    },
+    {
+     "n": 12,
+     "text": "To DOC 11: Retrain staff who do not follow the rule requiring them to stay close to a person needing medical attention so the person stays under close observation until medical responders arrive."
+    },
+    {
+     "n": 13,
+     "text": "To DOC 12: Stay alert on post as the rules require and report anyone seen tampering with DOC equipment."
+    }
+   ]
   },
   {
    "id": "2026-04-23-privacy-and-security-student-data",
@@ -1265,7 +1592,37 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Use the applicable national cybersecurity framework to identify gaps and improvements to the overall security posture."
+    },
+    {
+     "n": 2,
+     "text": "Build a mechanism to ensure notifications of breaches or unauthorized releases of personal information always go out within required time frames."
+    },
+    {
+     "n": 3,
+     "text": "Complete a written data and asset classification policy covering all systems and data, and classify all of the school system's data."
+    },
+    {
+     "n": 4,
+     "text": "Develop a way to account for every student information system used at schools."
+    },
+    {
+     "n": 5,
+     "text": "Put in place monitoring to ensure all employees with access to personally identifiable information complete privacy and security training every year."
+    },
+    {
+     "n": 6,
+     "text": "Implement the technical control fixes detailed in the confidential draft report."
+    },
+    {
+     "n": 7,
+     "text": "Cooperate more promptly with authorized state oversight inquiries."
+    }
+   ]
   },
   {
    "id": "2026-04-23-status-report-on-local-law-42",
@@ -1327,7 +1684,25 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop and refine the two restricted housing pilot projects, culminating in a work plan with benchmarks and timelines, to be discussed in the monitor's June 2026 report."
+    },
+    {
+     "n": 2,
+     "text": "The monitoring team and remediation manager team should determine when a detailed joint position on the stayed Local Law 42 provisions can be completed and provided to the parties and the court."
+    },
+    {
+     "n": 3,
+     "text": "The department, remediation manager team and monitoring team should continue engaging the Local Law 42 parties, including at least one meet and confer session and a confidential written submission to the City Council intervenors."
+    },
+    {
+     "n": 4,
+     "text": "The city should deploy additional resources and staff, including skilled project management support, to advance both the Nunez court orders and Local Law 42 obligations."
+    }
+   ]
   },
   {
    "id": "2026-04-21-implementation-selected-aspects-climate-mobilization-act",
@@ -1394,7 +1769,29 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Contact building owners, especially those at risk of missing emissions requirements, and document that contact."
+    },
+    {
+     "n": 2,
+     "text": "Reassess the resources assigned to contacting building owners about compliance."
+    },
+    {
+     "n": 3,
+     "text": "Create a system to track referrals to the service provider, record what assistance was given and follow up on buildings at risk of missing emissions requirements."
+    },
+    {
+     "n": 4,
+     "text": "Educate building owners on where energy efficiency labels must be posted."
+    },
+    {
+     "n": 5,
+     "text": "Inspect buildings to verify a label is posted near each public entrance where the public can see it."
+    }
+   ]
   },
   {
    "id": "review-of-schools-food-donation-and-composting-efforts",
@@ -1503,7 +1900,33 @@
    "status_tally": {
     "Pending": 5
    },
-   "status_as_of": "2026-04-21"
+   "status_as_of": "2026-04-21",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Set system-wide targets for participation in composting, food donation and other food waste reduction programs."
+    },
+    {
+     "n": 2,
+     "text": "Compile system-wide data to measure progress against those targets."
+    },
+    {
+     "n": 3,
+     "text": "Conduct and publish a centralized assessment of progress by school and by program, identify barriers and develop strategies for improvement."
+    },
+    {
+     "n": 4,
+     "text": "Develop system-wide training and outreach to increase participation, encourage idea sharing among sustainability coordinators, capture more food waste as compost and reduce contamination."
+    },
+    {
+     "n": 5,
+     "text": "Visit schools to verify that recycling and composting bins are properly placed in cafeterias and classrooms."
+    },
+    {
+     "n": 6,
+     "text": "Identify schools without appointed sustainability coordinators, fill those positions and support the new coordinators."
+    }
+   ]
   },
   {
    "id": "2026-04-15-oig-nypd-twelfth-annual-report",
@@ -1567,7 +1990,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2026-04-10-facilitated-programs-assist-small-businesses",
@@ -1636,7 +2060,33 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve monitoring so the programs align with the department's mission, including possibly expanding required reporting in future contracts to capture program outcomes."
+    },
+    {
+     "n": 2,
+     "text": "Improve oversight of provider data so records are complete and accurate and all required fields in the department's system are filled in."
+    },
+    {
+     "n": 3,
+     "text": "Ensure all served businesses are located in New York City or have a formal city presence."
+    },
+    {
+     "n": 4,
+     "text": "Require Business Solutions Centers to keep better attendance records for training webinars and workshops."
+    },
+    {
+     "n": 5,
+     "text": "Set a minimum attendance time before a participant counts as having received a contracted service."
+    },
+    {
+     "n": 6,
+     "text": "Revisit how post-training surveys are conducted, including whether the department should run them itself."
+    }
+   ]
   },
   {
    "id": "2026-04-07-nycha-monitors-second-annual-report",
@@ -1732,7 +2182,41 @@
     "technology",
     "money and contracts"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Keep replacing boilers and invest in the heating distribution system, which NYCHA estimates would take $4 billion in additional funding to fully repair or replace."
+    },
+    {
+     "n": 2,
+     "text": "Improve the quality of pest control treatments, not just their timeliness, so pest populations actually fall."
+    },
+    {
+     "n": 3,
+     "text": "Strengthen annual self-inspections so health and safety problems are caught and fixed before HUD inspectors arrive."
+    },
+    {
+     "n": 4,
+     "text": "Pick technology vendors with real public housing experience, or move faster to enforce contract terms requiring a vendor to bring in that expertise."
+    },
+    {
+     "n": 5,
+     "text": "Minimize customization when buying the next resident case management system, taking account of HUD requirements that are common to public housing agencies."
+    },
+    {
+     "n": 6,
+     "text": "Adopt vendor performance measures earlier in technology projects and enforce contract requirements more proactively."
+    },
+    {
+     "n": 7,
+     "text": "Share the monitors' findings about the failed project with candidates for NYCHA's new technology leadership."
+    },
+    {
+     "n": 8,
+     "text": "Simplify the employee performance evaluation process, add a second layer of review, tie evaluations to objective performance indicators and connect low ratings to corrective action including training."
+    }
+   ]
   },
   {
    "id": "review-of-the-small-business-forward-initiative-and-its-impact-on-violations-enforcement",
@@ -2251,7 +2735,45 @@
    "status_tally": {
     "Pending": 72
    },
-   "status_as_of": "2026-04-07"
+   "status_as_of": "2026-04-07",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Formally designate a lead agency to oversee and coordinate the initiative, track savings and ensure it stays effective."
+    },
+    {
+     "n": 2,
+     "text": "Publish regular public reports on the initiative's progress, realized savings for small businesses and compliance rates, with clearly defined indicators and methods."
+    },
+    {
+     "n": 3,
+     "text": "Adopt a uniform definition of \"small business\" used by all participating agencies."
+    },
+    {
+     "n": 4,
+     "text": "Have agencies prioritize violations and reforms based on their impact on businesses that fit that definition, not on businesses generally."
+    },
+    {
+     "n": 5,
+     "text": "Develop a framework for monitoring both financial savings and non-financial impacts such as reduced administrative burden and time savings."
+    },
+    {
+     "n": 6,
+     "text": "Have the six regulatory agencies consider adding a small business identifier to their systems to track violations, fine reductions, waivers and cure periods for small entities."
+    },
+    {
+     "n": 7,
+     "text": "Create a formal, documented methodology for calculating projected and realized savings from the reforms."
+    },
+    {
+     "n": 8,
+     "text": "Implement a formal protocol to monitor whether reduced penalties or extended cure periods affect how quickly health and safety violations are fixed."
+    },
+    {
+     "n": 9,
+     "text": "Have the lead agency review the reforms already implemented to determine whether the financial savings actually benefited small businesses."
+    }
+   ]
   },
   {
    "id": "2026-03-25-oversight-language-access-services",
@@ -2313,7 +2835,25 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop a system-wide database to collect and track clients' language preferences across all facilities and work with vendors to gather data on service delivery and unfulfilled requests."
+    },
+    {
+     "n": 2,
+     "text": "Make sure all communications aimed at people with limited English proficiency, including automated phone systems, signage, surveys and feedback boxes, are available in the appropriate languages and always accessible."
+    },
+    {
+     "n": 3,
+     "text": "Ensure all bilingual staff who provide interpretation complete the department's fluency assessment."
+    },
+    {
+     "n": 4,
+     "text": "Periodically assess each program and facility's language access equipment and connection needs."
+    }
+   ]
   },
   {
    "id": "2026-03-03-reclamation-vacant-nycha-apartments",
@@ -2389,7 +2929,29 @@
     "housing",
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "NYCHA should revise its apartment turnover procedure to require monthly property management inspections of vacant apartments not yet ready for rental, secure windows and door locks during those inspections and report any unauthorized occupants to NYCHA's law department within 72 hours."
+    },
+    {
+     "n": 2,
+     "text": "NYCHA should evaluate alternative locksets or security technologies such as electronic locks, and meanwhile require each development to rotate among at least two or three versions of move-out cylinders and keys, with no two developments sharing the same keys."
+    },
+    {
+     "n": 3,
+     "text": "NYCHA should revise its Resident Watch guidelines to require volunteers to report suspected unauthorized inhabitants or illegal activity in vacant apartments to their supervisor, who should inform property management by the end of the shift and log the reports."
+    },
+    {
+     "n": 4,
+     "text": "When property management receives such a report from a Resident Watch supervisor, it should immediately seek to confirm it and, if verified, report to NYCHA's law department within 72 hours."
+    },
+    {
+     "n": 5,
+     "text": "If NYCHA receives additional refurbishment funding, it should deploy the money to shorten the time needed to complete apartment turnovers."
+    }
+   ]
   },
   {
    "id": "2026-02-26-monitor-29th-report-stop-frisk-compliance-snapshot",
@@ -2469,7 +3031,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2026-02-17-monitor-2025-end-of-year-report",
@@ -2551,7 +3114,21 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Implement more robust corrective actions, including discipline, for supervisors and officers who repeatedly do not comply with legal requirements."
+    },
+    {
+     "n": 2,
+     "text": "Have leadership demand accountability through ComplianceStat at the same level required under CompStat, so poor supervisor performance consistently results in discipline or reassignment."
+    },
+    {
+     "n": 3,
+     "text": "Provide ongoing monitoring in the Early Intervention Program and have the Early Intervention Committee define and measure success for officers who come through the program."
+    }
+   ]
   },
   {
    "id": "2026-02-12-boc-injury-response-nyc-jails",
@@ -2650,7 +3227,57 @@
     "public safety",
     "health"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "DOC and CHS should update their policies on addressing and preventing injuries so they line up with the investigation, coordination and reporting requirements of Minimum Standard 3-16."
+    },
+    {
+     "n": 2,
+     "text": "DOC policies should spell out how investigative findings are used to inform injury prevention, tying investigation results to corrective action."
+    },
+    {
+     "n": 3,
+     "text": "CHS policies should spell out expected timelines for injury response, documentation such as Injury-to-Inmate forms and reporting such as the joint monthly injury report and the monthly public self-harm report."
+    },
+    {
+     "n": 4,
+     "text": "DOC should digitize the Injury-to-Inmate form with required fields, room for supporting evidence such as video and electronic signatures, to cut down on missing data and handwritten sign-offs."
+    },
+    {
+     "n": 5,
+     "text": "DOC should set up internal monitoring of investigation timeliness, including clear deadlines for closing an investigation, to address the cases that run long."
+    },
+    {
+     "n": 6,
+     "text": "Given how often people in custody decline to take part, DOC should look for ways to engage them during investigations while respecting their rights and the standards."
+    },
+    {
+     "n": 7,
+     "text": "DOC and CHS should voluntarily give the Board detailed minutes or summaries of the quarterly meetings the rules require, showing the data review, trends identified and quality assurance work."
+    },
+    {
+     "n": 8,
+     "text": "DOC and CHS must build and maintain the coordinated electronic injury tracking system the rules require, covering serious and non-serious injuries in one reconciled platform."
+    },
+    {
+     "n": 9,
+     "text": "DOC and CHS should put internal controls in place to submit Injury-to-Inmate forms and joint monthly injury reports on time."
+    },
+    {
+     "n": 10,
+     "text": "DOC and CHS should reconcile their differing injury and self-injurious behavior counts into a single joint monthly injury report with all required breakdowns."
+    },
+    {
+     "n": 11,
+     "text": "DOC should make its required annual review of the joint monthly reports document compliance findings, systemic issues and corrective action plans with steps and timelines, and should publish the annual reports as well as send them to the Board."
+    },
+    {
+     "n": 12,
+     "text": "CHS should make its monthly public self-harm reports consistently break the data out by seriousness, separating serious from non-serious injuries as the minimum standards require."
+    }
+   ]
   },
   {
    "id": "2026-01-20-monitor-28th-report-stop-frisk-compliance-snapshot",
@@ -2726,7 +3353,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2026-01-15-physical-and-financial-conditions-selected-mitchell-lama-developments",
@@ -2791,7 +3419,33 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve monitoring of the three developments, verifying that managing agents conduct annual unit inspections, complete related reports, correct deficiencies and keep self-closing fire doors working."
+    },
+    {
+     "n": 2,
+     "text": "Ensure immediate corrective action when hazardous conditions are identified."
+    },
+    {
+     "n": 3,
+     "text": "Develop and implement policies and procedures on bonus and gratuity payments."
+    },
+    {
+     "n": 4,
+     "text": "Ensure managing agents operate the developments in a fiscally sound way by adequately reviewing expenses and supporting documentation during annual reviews."
+    },
+    {
+     "n": 5,
+     "text": "Promptly fill vacant units."
+    },
+    {
+     "n": 6,
+     "text": "Periodically review expenses to identify vendor payments that reach $100,000 in a fiscal year and confirm the department approved them and contracts were competitively bid."
+    }
+   ]
   },
   {
    "id": "2026-01-14-status-report-on-local-law-42",
@@ -2849,7 +3503,25 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The monitor should confidentially provide the parties with its preliminary draft findings identifying specific conflicts between Local Law 42 provisions and the Nunez court orders, no later than January 29, 2026."
+    },
+    {
+     "n": 2,
+     "text": "Meet and confer sessions should be sequenced and timed so that the remediation manager, once onboarded, and the new mayor's correction commissioner can meaningfully participate in discussions of complex operational matters."
+    },
+    {
+     "n": 3,
+     "text": "The court should set a date certain for the monitor's next update on this work, which the monitor recommends be provided by March 26, 2026."
+    },
+    {
+     "n": 4,
+     "text": "The court should suspend its December 19, 2025 order outlining next steps so the three recommendations above can be adopted."
+    }
+   ]
   },
   {
    "id": "2026-01-13-twentieth-monitor-report",
@@ -2925,7 +3597,49 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop a strategic plan that clearly defines reform priorities and how leadership, staffing and resources will be allocated to address them."
+    },
+    {
+     "n": 2,
+     "text": "Officers and captains must properly manage and supervise housing units to reduce violence and assaults, with supervisors adopting a skill-development focus and consideration given to a larger organizational management strategy with the remediation manager."
+    },
+    {
+     "n": 3,
+     "text": "Basic and sound security practices must become embedded in staff's routine duties on housing units."
+    },
+    {
+     "n": 4,
+     "text": "Staff absenteeism must continue to be curtailed and the number of staff deployed to posts engaging the incarcerated population must be maximized."
+    },
+    {
+     "n": 5,
+     "text": "Tour commanders and control room captains must ensure sufficient staff are assigned to housing unit and ancillary posts so services are provided consistently and reliably."
+    },
+    {
+     "n": 6,
+     "text": "Unnecessary and excessive force must be reduced, especially high impact force such as head strikes, with consistent implementation of the use of force directive and greater staff understanding of proportionality."
+    },
+    {
+     "n": 7,
+     "text": "Facility leadership must be more directly involved in identifying and remediating poor staff practice, with an infusion of correctional expertise reaching more deeply into daily practice."
+    },
+    {
+     "n": 8,
+     "text": "The department must continue reducing investigative caseloads by allocating resources according to incident severity, expanding the triage pilot as appropriate."
+    },
+    {
+     "n": 9,
+     "text": "Accountability for staff misconduct must be imposed closer in time to the incidents in which it occurred."
+    },
+    {
+     "n": 10,
+     "text": "The department must engage the remediation manager and the monitoring team transparently and collaboratively, without which the synergy required to advance reform will remain elusive."
+    }
+   ]
   },
   {
    "id": "2026-01-07-administration-cityfheps-program-department-social-services-homebase-clients",
@@ -2993,7 +3707,25 @@
    ],
    "is_followup": false,
    "implementation_note": "",
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Establish policies and procedures to check for all housing violations during preclearance and expand preclearance checks to all CityFHEPS cases."
+    },
+    {
+     "n": 2,
+     "text": "Create a landlord disqualification list with written procedures for adding and removing landlords, and monitor for compliance."
+    },
+    {
+     "n": 3,
+     "text": "Follow eligibility verification policies, including income checks for all household members 18 and older, and keep all eligibility documents."
+    },
+    {
+     "n": 4,
+     "text": "Develop written procedures, and monitor compliance, to confirm no substantiated relationship exists between landlords, brokers and managing members and that rent payments go to the correct parties."
+    }
+   ]
   },
   {
    "id": "audit-of-the-new-york-city-board-of-corrections-governance-structure-and-accessibility-of-public-meetings-and-website",
@@ -3132,7 +3864,45 @@
     "Implemented": 3,
     "N/A": 1
    },
-   "status_as_of": "2026-05-29"
+   "status_as_of": "2026-05-29",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Hold board committee meetings in compliance with the state Open Meetings Law, including opening them to the public, giving advance notice and posting minutes or recordings on time."
+    },
+    {
+     "n": 2,
+     "text": "Write formal rules for each standing and ad hoc committee covering its authority, members' roles, meeting frequency and requirements for agendas, notices and minutes."
+    },
+    {
+     "n": 3,
+     "text": "Revisit the rules for creating committees and appointing their members and officers, and consider restoring collective decision-making by the full board."
+    },
+    {
+     "n": 4,
+     "text": "Work with the appointing authorities to fill board vacancies promptly so each authority is equally represented."
+    },
+    {
+     "n": 5,
+     "text": "Review digital content and coordinate with the Mayor's Office for People with Disabilities and the city's technology office to fix accessibility errors."
+    },
+    {
+     "n": 6,
+     "text": "Immediately switch to an accessible virtual meeting platform."
+    },
+    {
+     "n": 7,
+     "text": "Update the board's digital accessibility policy and make sure meeting notices include all legally required accessibility information, with accurate details about meeting locations."
+    },
+    {
+     "n": 8,
+     "text": "Train staff and officials to handle calls made through Telecommunications Relay Service and periodically reassess the need for assistive listening devices."
+    },
+    {
+     "n": 9,
+     "text": "The Mayor's Office of Appointments should share vetting results with board nominees and give them a chance to respond."
+    }
+   ]
   },
   {
    "id": "audit-of-the-financial-and-operating-practices-of-the-joint-health-insurance-stabilization-fund",
@@ -3240,7 +4010,21 @@
     "Partially Implemented": 1,
     "Implemented": 2
    },
-   "status_as_of": "2026-04-30"
+   "status_as_of": "2026-04-30",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Work with the Municipal Labor Committee to dissolve the fund and transfer carrier reserves and remaining balances to the city."
+    },
+    {
+     "n": 2,
+     "text": "Create a new restricted account for health insurance carrier reserves."
+    },
+    {
+     "n": 3,
+     "text": "Budget appropriately for the healthcare costs and benefits the city agrees to fund in collective bargaining."
+    }
+   ]
   },
   {
    "id": "audit-of-the-monitoring-of-the-citys-trade-waste-carting-industry-by-the-business-integrity-commission",
@@ -3346,7 +4130,21 @@
    "status_tally": {
     "Pending": 5
    },
-   "status_as_of": "2026-04-14"
+   "status_as_of": "2026-04-14",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop standard operating procedures that define when and how to escalate enforcement, with clear criteria and benchmarks, such as numbers of crashes or repeated inspection failures, that trigger review for audits, monitorships or license revocation."
+    },
+    {
+     "n": 2,
+     "text": "Adopt formal, risk-based criteria for choosing which companies to audit and write an audit procedures manual to standardize audit steps and ensure consistent quality."
+    },
+    {
+     "n": 3,
+     "text": "Set annual audit targets focused on high-risk companies and repeat offenders, and seek enough staff and resources to expand coverage and finish audits faster."
+    }
+   ]
   },
   {
    "id": "audit-of-the-new-york-city-department-of-environmental-protections-leak-detection-program",
@@ -3462,7 +4260,33 @@
     "Pending": 2,
     "Implemented": 4
    },
-   "status_as_of": "2026-05-15"
+   "status_as_of": "2026-05-15",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop a structured, risk-based survey planning process with written procedures for selecting grids using measurable risk indicators like the age, size and material of water mains, leak history, recent construction and proximity to critical infrastructure."
+    },
+    {
+     "n": 2,
+     "text": "Regularly measure and report progress toward the department's goals of surveying 30% of each borough's grids annually and full coverage within three years, using quarterly performance reviews to catch shortfalls."
+    },
+    {
+     "n": 3,
+     "text": "Create a formal process for scheduling and tracking survey coverage so work is spread across all grids, avoids unnecessary repeats and ensures every grid is inspected on schedule."
+    },
+    {
+     "n": 4,
+     "text": "Periodically review proactive detection rates, repair times and water main break trends to assess the program's effectiveness."
+    },
+    {
+     "n": 5,
+     "text": "Reevaluate whether current survey goals are feasible with existing staff, and consider reallocating personnel, adding training or shifts, and seeking additional funding to expand the program."
+    },
+    {
+     "n": 6,
+     "text": "Make sure the department's computer system, whether updated or new, can trace a leak from survey to scan to repair and includes performance dashboards and reporting tools for program-level monitoring."
+    }
+   ]
   },
   {
    "id": "audit-on-the-timeliness-of-civilian-complaint-review-boards-investigations-and-new-york-city-police-departments-implementation-of-the-boards-recommendations",
@@ -3555,7 +4379,81 @@
     "transparency"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The police department and the board should jointly enter a formal agreement setting timeframes for requesting and producing evidence other than body-worn camera footage."
+    },
+    {
+     "n": 2,
+     "text": "The two agencies should jointly agree on deadlines for the board to submit cases to the police department."
+    },
+    {
+     "n": 3,
+     "text": "The two agencies should jointly enter a formal agreement setting standardized protocols for reporting the police commissioner's final decisions on board cases."
+    },
+    {
+     "n": 4,
+     "text": "The two agencies should jointly work on integrating a system for tracking what happens to cases the board sends to the police department."
+    },
+    {
+     "n": 5,
+     "text": "The police department should write internal policies with timeframe guidelines for cases approaching the statute of limitations."
+    },
+    {
+     "n": 6,
+     "text": "The police department should set formal internal deadlines for answering the board's requests for evidence."
+    },
+    {
+     "n": 7,
+     "text": "The police department should step up recruiting for its Department Advocate's Office legal staff and seek funding to keep it adequately staffed."
+    },
+    {
+     "n": 8,
+     "text": "The police department should make sure penalties match discipline determinations under its disciplinary matrix."
+    },
+    {
+     "n": 9,
+     "text": "The police department should adopt policies requiring it to follow the City Charter and city rules and report specific officer penalties to the board."
+    },
+    {
+     "n": 10,
+     "text": "The police department should build recordkeeping system controls that allow automated, streamlined reporting on board cases, including the commissioner's final decision."
+    },
+    {
+     "n": 11,
+     "text": "The police department should make sure its recordkeeping system tracks compliance with city rules and the Charter when sharing case information with the board."
+    },
+    {
+     "n": 12,
+     "text": "The board should set formal timeframes for requesting evidence from the police department to fix the bottlenecks the auditors identified."
+    },
+    {
+     "n": 13,
+     "text": "The board should keep seeking additional funding so it can investigate every complaint in its jurisdiction and give the police time to act within the statute of limitations."
+    },
+    {
+     "n": 14,
+     "text": "The board should adopt internal policies on how to handle cases where the police never reported final dispositions and penalties."
+    },
+    {
+     "n": 15,
+     "text": "The appointing authorities should fill existing board vacancies and fill future ones within 60 days so the maximum number of review panels can meet each month."
+    },
+    {
+     "n": 16,
+     "text": "The appointing authorities should fill the board chair vacancy as the Charter requires to keep operations moving and protect the board's independence."
+    },
+    {
+     "n": 17,
+     "text": "The city should consider increasing the number of board members so more panels can meet and investigations finish faster."
+    },
+    {
+     "n": 18,
+     "text": "The city should comply with Charter-mandated funding levels for the board given rising complaints and its expanded responsibilities."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-new-york-city-office-of-technology-and-innovations-mycity-system",
@@ -3633,7 +4531,37 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Conduct a comprehensive review of the project's technical, economic, legal and operational feasibility to decide whether to continue, change scope or terminate it to minimize wasted resources."
+    },
+    {
+     "n": 2,
+     "text": "Develop a clear, detailed project plan for MyCity's end state, with detailed functional requirements and time and cost benchmarks."
+    },
+    {
+     "n": 3,
+     "text": "Establish a dedicated project management team responsible for meeting short and long-term goals on time and within budget."
+    },
+    {
+     "n": 4,
+     "text": "Hold vendors accountable for expected deliverables, timelines, budgets and standards."
+    },
+    {
+     "n": 5,
+     "text": "Build eligibility criteria into the childcare application to alert users to, or prevent submission of, applications that would be ineligible."
+    },
+    {
+     "n": 6,
+     "text": "Make sure MyCity meets the minimum standards in the city's own policy for performance testing of public-facing applications."
+    },
+    {
+     "n": 7,
+     "text": "Run structured testing exercises known as artificial intelligence red-teaming to find chatbot flaws such as inaccurate or inconsistent responses and improve data quality."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-office-of-administrative-tax-appeals-equitable-handling-of-appeals-of-real-property-assessment",
@@ -3725,7 +4653,21 @@
     "Pending": 2,
     "Implemented": 1
    },
-   "status_as_of": "2026-04-24"
+   "status_as_of": "2026-04-24",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Consider modifying how hearings are scheduled so processing times are not delayed based on the applicant's borough."
+    },
+    {
+     "n": 2,
+     "text": "Document supervisory reviews using standardized workpapers or templates, stored securely in a physical file or electronic system."
+    },
+    {
+     "n": 3,
+     "text": "Consult with the Department of Finance, the Office of Management and Budget and others on whether state small claims and OATA apply consistent property tax principles, and whether to close the \"no further review\" loophole."
+    }
+   ]
   },
   {
    "id": "audit-report-of-the-department-of-design-and-constructions-mitigation-of-delays-and-cost-overruns-on-capital-construction-projects",
@@ -3881,7 +4823,49 @@
    "status_tally": {
     "Pending": 10
    },
-   "status_as_of": "2025-12-26"
+   "status_as_of": "2025-12-26",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create a dedicated project cost management team to track and report cost overruns in the aggregate while planning system upgrades for full cost management."
+    },
+    {
+     "n": 2,
+     "text": "Report the full extent of cost and time overruns from the first baseline in the Mayor's Management Report and categorize the causes, per project and in aggregate."
+    },
+    {
+     "n": 3,
+     "text": "Improve the construction schedule set at project initiation, or consider not providing a completion date until the design phase ends."
+    },
+    {
+     "n": 4,
+     "text": "Work with City Hall to get private utility companies to better document and engineer their systems during design, and support extending the Joint Bidding Law."
+    },
+    {
+     "n": 5,
+     "text": "Launch a virtual design and construction practice, including updated building information modeling standards."
+    },
+    {
+     "n": 6,
+     "text": "Establish record-keeping requirements for project documentation in the Benchmark system."
+    },
+    {
+     "n": 7,
+     "text": "Continue implementing front-end planning, report its impact and compare it to non-front-end-planning project performance."
+    },
+    {
+     "n": 8,
+     "text": "City agencies should use the funding earmarked for pre-construction planning by increasing the number of scope development studies."
+    },
+    {
+     "n": 9,
+     "text": "City agencies should discuss using capital funds versus expense funding with the Office of Management and Budget and the incoming administration."
+    },
+    {
+     "n": 10,
+     "text": "The Mayor's Office of Operations should comply with Local Law 37 by updating the capital project dashboard on time with all needed information."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-nyc-department-of-veterans-services-coordination-of-housing-assistance",
@@ -4005,7 +4989,33 @@
    "status_tally": {
     "Pending": 6
    },
-   "status_as_of": "2025-12-26"
+   "status_as_of": "2025-12-26",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Train all current and new staff on the newly created written policies and standard operating procedures, including intake, request tracking, move-out tracking, aftercare tracking and documentation protocols."
+    },
+    {
+     "n": 2,
+     "text": "Completely and accurately transfer fiscal year 2025 data from the Master Tracker to the new VetConnectNYC system, removing duplicates and recording all dates."
+    },
+    {
+     "n": 3,
+     "text": "Completely and accurately transfer fiscal year 2025 Aftercare Tracker data to VetConnectNYC so housing outcomes are correctly recorded."
+    },
+    {
+     "n": 4,
+     "text": "Implement a mechanism to ensure housing assistance requests are tracked and processed within five business days."
+    },
+    {
+     "n": 5,
+     "text": "Accurately track and report the number of veterans given homelessness prevention and aftercare help in the Mayor's Management Report, or relabel the indicator as counting requests."
+    },
+    {
+     "n": 6,
+     "text": "Submit the annual services report and biannual veteran resource center reports on time as required by Local Laws 44 of 2019 and 215 of 2018."
+    }
+   ]
   },
   {
    "id": "2025-12-24-new-york-city-bike-share-program-oversight-revenue-collection-and-monitoring",
@@ -4075,7 +5085,21 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Verify Citi Bike data by inspecting stations and bicycles and reviewing the data received for accuracy and completeness."
+    },
+    {
+     "n": 2,
+     "text": "Make sure payments are received according to the terms of the agreement."
+    },
+    {
+     "n": 3,
+     "text": "Set up a process to track revenues from each source and ensure all money due to the city is deposited into the right accounts and transferred to the city's general fund as the agreement requires."
+    }
+   ]
   },
   {
    "id": "2025-12-19-nycha-monitors-sixth-report",
@@ -4167,7 +5191,29 @@
     "housing",
     "health"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve the quality of pest control treatments so that pest populations actually decline, not just the speed of the response."
+    },
+    {
+     "n": 2,
+     "text": "Find additional funding to install automatic voltage regulators on more elevators, since only a small fraction will get them under projected funding."
+    },
+    {
+     "n": 3,
+     "text": "Formalize the process for third and later attempts to enter an apartment for annual inspections and record those attempts in the work order system so residents get notice and NYCHA can enforce access."
+    },
+    {
+     "n": 4,
+     "text": "Investigate and fix the root causes at the 14 developments whose HUD inspection scores fell ten points or more."
+    },
+    {
+     "n": 5,
+     "text": "Strengthen self-inspections so health and safety problems such as missing smoke detectors and outlets without ground-fault protection are found and fixed before HUD inspects."
+    }
+   ]
   },
   {
    "id": "2025-12-18-coib-advisory-opinion-moonlighting-waivers",
@@ -4226,7 +5272,29 @@
    "topics": [
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "COIB should review the advice it gave First Deputy Mayor Mastro on his MSG representation to ensure it is consistent with the moonlighting restrictions, and amend the advice and issue a waiver if appropriate."
+    },
+    {
+     "n": 2,
+     "text": "COIB should review its previously issued advisory opinions to determine whether it has permitted other city-employed attorneys to represent private firms with city business, and where that conduct is ongoing, reconsider and amend the advice and issue waivers if appropriate."
+    },
+    {
+     "n": 3,
+     "text": "Alternatively, if COIB maintains that the moonlighting restrictions apply only to in-house attorneys of firms with city business, it should issue a formal rule saying so."
+    },
+    {
+     "n": 4,
+     "text": "COIB should publish waivers on its website in a searchable format so the public does not need to file Freedom of Information Law requests to see them."
+    },
+    {
+     "n": 5,
+     "text": "COIB should comply with the City Charter's requirement to publish its advisory opinions, including the March 2025 Mastro opinion, either with redactions or as summaries omitting the parties' identities."
+    }
+   ]
   },
   {
    "id": "audit-report-of-the-new-york-city-department-of-educations-oversight-of-its-contracted-bus-services",
@@ -4318,7 +5386,57 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Assign contract managers to vendor contracts to routinely review complaint and delay data, identify problem routes and vendors, require corrective action plans and assess damages when vendors do not improve."
+    },
+    {
+     "n": 2,
+     "text": "Review and use prior complaints as part of investigations to identify trends in vendors' poor performance."
+    },
+    {
+     "n": 3,
+     "text": "Consistently maintain the vehicle numbers serving each route and use them to run a GPS review for every no-show or late-service complaint."
+    },
+    {
+     "n": 4,
+     "text": "Routinely compare planned route start and end times to actual times to check compliance with contracts and individualized education programs, issuing violations and penalties as appropriate."
+    },
+    {
+     "n": 5,
+     "text": "Consider enhanced minimum performance standards in new bus contracts, including monthly metrics for on-time performance and ride times, a tiered penalty scale, GPS-based liquidated damages and taking routes away from the poorest performers."
+    },
+    {
+     "n": 6,
+     "text": "Collect curb-to-school route information, including pick-up and drop-off times, from vendors at the start of each school year rather than relying on vendors to keep it."
+    },
+    {
+     "n": 7,
+     "text": "Fully enforce bus contracts and assess penalties when GPS devices are not operational while buses are in service."
+    },
+    {
+     "n": 8,
+     "text": "Ensure DOE recovers any money paid to Via Transportation for required work that was not performed."
+    },
+    {
+     "n": 9,
+     "text": "Establish comprehensive policies and procedures for reviewing complaints, including required supervisory review before complaints are resolved."
+    },
+    {
+     "n": 10,
+     "text": "Provide vendors with reports comparing planned and actual route times, discuss them and document the discussions."
+    },
+    {
+     "n": 11,
+     "text": "Formally document and keep records of all performance discussions with vendors."
+    },
+    {
+     "n": 12,
+     "text": "Formally document amendments to Via Transportation's delivery dates and work plan and submit the amendment for registration."
+    }
+   ]
   },
   {
    "id": "audit-on-the-department-of-investigations-background-investigations-for-city-employees",
@@ -4487,7 +5605,57 @@
    "status_tally": {
     "Pending": 12
    },
-   "status_as_of": "2025-12-11"
+   "status_as_of": "2025-12-11",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Assign administrative staff to check the city's Payroll Management System for remaining backlog cases and administratively close cases where the person is no longer employed."
+    },
+    {
+     "n": 2,
+     "text": "Consider making recommendations or otherwise giving agencies guidance on how certain kinds of adverse information should affect the suitability of appointments."
+    },
+    {
+     "n": 3,
+     "text": "Consider tracking whether candidates are retained or terminated when investigations identify adverse information."
+    },
+    {
+     "n": 4,
+     "text": "Require the use of checklists and review forms so every applicable investigation step is conducted and documented."
+    },
+    {
+     "n": 5,
+     "text": "Establish written timeframes for completing expedited, priority and backlog investigations."
+    },
+    {
+     "n": 6,
+     "text": "Report separately in the Mayor's Management Report on completion timelines for routine, expedited, priority and backlog investigations."
+    },
+    {
+     "n": 7,
+     "text": "Consider creating additional closing categories, or severity levels within the catch-all \"Other\" category."
+    },
+    {
+     "n": 8,
+     "text": "Ensure fingerprints and results are removed from files within required timeframes and monitor compliance on a periodic sample basis."
+    },
+    {
+     "n": 9,
+     "text": "Conduct periodic reviews to make sure agencies are submitting all required candidates for background investigations."
+    },
+    {
+     "n": 10,
+     "text": "Consider tracking appointment dates to determine whether agencies submit applications within required timeframes."
+    },
+    {
+     "n": 11,
+     "text": "Issue updated memos or guidance to city agencies at least every two years on their responsibilities for submitting background investigation packages."
+    },
+    {
+     "n": 12,
+     "text": "Ensure Kaseware, the department's new case system, has adequate documentation, including a data dictionary."
+    }
+   ]
   },
   {
    "id": "letter-to-vice-chair-master-re-final-letter-report-on-the-processing-of-permit-applications-by-the-landmarks-preservation-commission",
@@ -4573,7 +5741,21 @@
     "Pending": 2,
     "Implemented": 1
    },
-   "status_as_of": "2026-04-09"
+   "status_as_of": "2026-04-09",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Ensure every permit carries the commission's approval stamp before it is issued."
+    },
+    {
+     "n": 2,
+     "text": "Make efforts to issue certificates of appropriateness within 10 business days."
+    },
+    {
+     "n": 3,
+     "text": "Consider setting percentage goals for issuing permits for minor work within established timeframes."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-office-of-city-clerks-enforcement-of-the-lobbying-law",
@@ -4693,7 +5875,33 @@
     "Pending": 4,
     "Implemented": 2
    },
-   "status_as_of": "2026-04-07"
+   "status_as_of": "2026-04-07",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Keep petitioning the City Council to amend the Lobbying Law to require training of city agencies and require agencies to report contacts with known or potential lobbyists, including names, meeting dates, locations and subjects discussed."
+    },
+    {
+     "n": 2,
+     "text": "Regularly review land use applicants and vendors awarded non-competitive contracts to determine whether they lobbied, registered as lobbyists and accurately recorded their lobbying activity."
+    },
+    {
+     "n": 3,
+     "text": "Require entities under review for possible unreported lobbying to respond to inquiries and explicitly state their lobbying or political fundraising activities, whether they met with city agencies and the purpose of those meetings."
+    },
+    {
+     "n": 4,
+     "text": "Formally establish the steps staff must follow when investigating alleged unreported lobbying, including contacting both the subjects of complaints and the alleged lobbying targets, and document all steps, evidence and conclusions."
+    },
+    {
+     "n": 5,
+     "text": "Establish written policies and procedures with detailed guidance for staff on carrying out their duties, including investigation steps."
+    },
+    {
+     "n": 6,
+     "text": "Continue advocating to the Office of Management and Budget for the funding needed to hire staff to carry out its mandated duties."
+    }
+   ]
   },
   {
    "id": "2025-12-03-nypd-compliance-sanctuary-laws",
@@ -4763,7 +5971,37 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Amend NYPD policies to require enhanced review of all custody transfers to federal agents, not only transfers to federal civil immigration agents presenting formal detainer paperwork."
+    },
+    {
+     "n": 2,
+     "text": "Adopt a standalone policy on custodial transfer requests from federal agents covering which requests are subject to the policy, what documentation to collect, which NYPD division handles them and the standards for deciding whether to honor them."
+    },
+    {
+     "n": 3,
+     "text": "Improve policies for processing federal assistance requests with guidance on assessing whether a request is for civil immigration enforcement and routing requests about unknown subjects, and require task force officers to document their verification steps."
+    },
+    {
+     "n": 4,
+     "text": "Provide officers further training on when and how to report and document requests for assistance from federal law enforcement."
+    },
+    {
+     "n": 5,
+     "text": "Improve recordkeeping and reporting under Local Law 228, including recording the nature of each request, the requesting agency and the NYPD's response, and reporting non-detainer requests to the Mayor's Office of Immigrant Affairs."
+    },
+    {
+     "n": 6,
+     "text": "Conduct an email audit of NYPD members assigned to federal task forces to ensure their compliance with local law."
+    },
+    {
+     "n": 7,
+     "text": "Adopt guidelines implementing Local Law 246 of 2017, which requires restricting non-local law enforcement officers' access to city property."
+    }
+   ]
   },
   {
    "id": "2025-12-02-enforcement-local-law-144-automated-employment-decision-tools",
@@ -4828,7 +6066,33 @@
     "labor"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Implement processes to make sure complaints about automated employment decision tools are properly handled and routed."
+    },
+    {
+     "n": 2,
+     "text": "Implement mechanisms to make sure such complaints received by 311 are properly routed to the department."
+    },
+    {
+     "n": 3,
+     "text": "Research and test why so few complaints about the tools come in and take steps to address those factors."
+    },
+    {
+     "n": 4,
+     "text": "Make sure the department's bias audit reviews address all potential non-compliance, including by using existing Office of Technology and Innovation resources such as the Enforcement Workbook."
+    },
+    {
+     "n": 5,
+     "text": "Create and implement a process to improve enforcement by identifying potential violations through research and other leads, not just complaints."
+    },
+    {
+     "n": 6,
+     "text": "Use the Office of Technology and Innovation's expertise to evaluate the technical workings of suspected automated tools in support of enforcement."
+    }
+   ]
   },
   {
    "id": "2025-12-02-oversight-housing-discrimination-complaints",
@@ -4893,7 +6157,21 @@
     "housing"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop policies and procedures to reduce delays in processing housing discrimination complaints, including setting time frames for each step of intake, filing and investigation, monitoring dates in the case management system, analyzing its data and assessing resources to find bottlenecks, and strengthening policies and monitoring compliance."
+    },
+    {
+     "n": 2,
+     "text": "Establish a procedure that prioritizes attorney reassignments to minimize disruption to investigations."
+    },
+    {
+     "n": 3,
+     "text": "Make sure staff use available tools for thorough case management, including documenting evidence of case supervision and recording all intake and investigation activities and essential documents in the case management system."
+    }
+   ]
   },
   {
    "id": "2025-11-26-oversight-practice-funeral-directing",
@@ -4967,7 +6245,41 @@
     "health"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "To the state Department of Health: take steps to better ensure funeral directors and firms know about and comply with required death tests and minimize the risk of misidentifying human remains."
+    },
+    {
+     "n": 2,
+     "text": "To the state Department of Health: take action to gain greater assurance that firms meet requirements for their preparation rooms."
+    },
+    {
+     "n": 3,
+     "text": "To the state Department of Health: work with the city health department on an approach to identify and follow up on the risk that bodies are buried or cremated before the death is registered."
+    },
+    {
+     "n": 4,
+     "text": "To the state Department of Health: strengthen methods to identify and address unauthorized funeral directing by unregistered directors or firms or at unregistered locations, which might include better internal communication between its funeral directing and vital records bureaus."
+    },
+    {
+     "n": 5,
+     "text": "To the state Department of Health: evaluate the benefit of inspecting funeral firms based on identified risks and document the results."
+    },
+    {
+     "n": 6,
+     "text": "To the state Department of Health: take steps to improve assurance that closing or closed firms have actually stopped operating."
+    },
+    {
+     "n": 7,
+     "text": "To both departments: improve interagency communication, which could include analyzing registration data and sharing results, to better identify and address unauthorized funeral directing activity."
+    },
+    {
+     "n": 8,
+     "text": "To both departments: improve the completeness and accuracy of Social Security number information on death certificates in their respective systems."
+    }
+   ]
   },
   {
    "id": "2025-11-25-oversight-language-access-services",
@@ -5051,7 +6363,45 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop procedures to ensure information for all language service requests is reported, and periodically review the data for completeness, accuracy and proof that services were delivered."
+    },
+    {
+     "n": 2,
+     "text": "Comply with the state hospital regulation, including conducting annual assessments of limited English proficiency needs and ensuring staff complete all annual trainings."
+    },
+    {
+     "n": 3,
+     "text": "Prepare and maintain centralized and facility-level lists of in-house interpreters and bilingual staff."
+    },
+    {
+     "n": 4,
+     "text": "Make sure every facility and program develops language access policies or updates existing ones to match systemwide guidelines."
+    },
+    {
+     "n": 5,
+     "text": "Ensure information in patient records is accurately translated into various languages."
+    },
+    {
+     "n": 6,
+     "text": "Review and keep documentation for patient calls lasting over 2 hours."
+    },
+    {
+     "n": 7,
+     "text": "Establish procedures to improve patients' experience accessing and navigating language service phone lines and mobile health units, for example through bilingual staff or phone and video interpretation."
+    },
+    {
+     "n": 8,
+     "text": "Review records and recoup outstanding overpayments made to vendors as appropriate."
+    },
+    {
+     "n": 9,
+     "text": "Establish procedures to select the most cost-effective language service vendors, based on negotiation or lower per-minute contract rates."
+    }
+   ]
   },
   {
    "id": "letter-to-commissioner-rehman-re-audit-report-on-the-new-york-city-office-of-administrative-trials-and-hearings-provision-of-language-access-services",
@@ -5114,7 +6464,8 @@
     "transparency"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": []
   },
   {
    "id": "2025-11-06-new-york-city-department-homeless-services-oversight-contract-expenditures-institute",
@@ -5158,7 +6509,13 @@
     "money and contracts"
    ],
    "is_followup": true,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+    }
+   ]
   },
   {
    "id": "review-of-the-new-york-city-police-departments-body-worn-camera-program",
@@ -5337,7 +6694,61 @@
     "Implemented": 5,
     "Not Implemented": 1
    },
-   "status_as_of": "2026-03-09"
+   "status_as_of": "2026-03-09",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Increase Legal Bureau staffing and make additional efforts to answer records requests on time."
+    },
+    {
+     "n": 2,
+     "text": "Promptly notify requesters when a required 160.50 waiver form is missing."
+    },
+    {
+     "n": 3,
+     "text": "Take steps to ensure all officers on patrol duty are immediately given cameras."
+    },
+    {
+     "n": 4,
+     "text": "Formalize a policy for dispatch call audits, including the number, frequency and sampling plan, and exclude interactions that did not require recording."
+    },
+    {
+     "n": 5,
+     "text": "Investigate why activation rates are lower in certain boroughs and precincts and keep improving them citywide."
+    },
+    {
+     "n": 6,
+     "text": "Conduct an overall assessment of whether the camera program has improved compliance with policies, regulations and laws, including respectful interaction with the public."
+    },
+    {
+     "n": 7,
+     "text": "Aggregate the results of the department's various camera reviews to identify anomalies or trends and address them."
+    },
+    {
+     "n": 8,
+     "text": "Ensure monthly self-inspections of camera activation are completed as required."
+    },
+    {
+     "n": 9,
+     "text": "Have the Professional Standards Division independently review self-inspections."
+    },
+    {
+     "n": 10,
+     "text": "Ensure monthly stop report worksheets are completed as required."
+    },
+    {
+     "n": 11,
+     "text": "Take additional steps to identify improper stops and ensure compliance with stop and frisk policy."
+    },
+    {
+     "n": 12,
+     "text": "Review a sample of footage from investigative encounters to identify force that was used and check whether the required report was completed."
+    },
+    {
+     "n": 13,
+     "text": "Ensure Threat, Resistance, or Injury Reports are completed for every use-of-force incident."
+    }
+   ]
   },
   {
    "id": "2025-10-22-monitor-27th-report-stop-frisk-compliance-snapshot",
@@ -5409,7 +6820,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "audit-on-the-effectiveness-of-the-mayors-office-of-housing-recovery-operations-build-it-back-program",
@@ -5520,7 +6932,17 @@
    "status_tally": {
     "Pending": 2
    },
-   "status_as_of": "2026-02-19"
+   "status_as_of": "2026-02-19",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "For future disaster recovery programs, document timeframes and deadlines in policies and procedures at the start so staff and contractors can monitor application processing and construction and keep them on schedule."
+    },
+    {
+     "n": 2,
+     "text": "Establish and track performance indicators in the recordkeeping system, including timeliness measures for the contractors handling application processing and construction management."
+    }
+   ]
   },
   {
    "id": "2025-10-15-nypd-criminal-group-database-update",
@@ -5613,7 +7035,61 @@
     "transparency",
     "children and youth"
    ],
-   "is_followup": true
+   "is_followup": true,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Ensure all uniformed personnel authorized to nominate people into the database are trained on the Impact and Use Policy and the Chief of Detectives Memorandum."
+    },
+    {
+     "n": 2,
+     "text": "Require the two independent reliable sources to give substantive explanations for their belief in an individual's criminal group membership and document those explanations on activation forms."
+    },
+    {
+     "n": 3,
+     "text": "Clarify that the two independent sources must be different from the reporting officer."
+    },
+    {
+     "n": 4,
+     "text": "Update the Impact and Use Policy to mirror the detailed guidelines in the Chief of Detectives Memorandum."
+    },
+    {
+     "n": 5,
+     "text": "Establish a multilevel review process for renewals with supervisor sign-off on all renewal forms, as previously recommended and accepted, and list the required supporting documentation."
+    },
+    {
+     "n": 6,
+     "text": "Require the nominating detective to notify a juvenile's parent or guardian within 60 days of activation into the database."
+    },
+    {
+     "n": 7,
+     "text": "Ensure renewal and activation forms include a required field with the individual's next review date."
+    },
+    {
+     "n": 8,
+     "text": "Create a written internal audit requirement to verify that parental notifications for minors are made, documented and recorded in a new database column."
+    },
+    {
+     "n": 9,
+     "text": "Confirm whether anyone activated at 16 or 17 went more than two years without review because of the coding error, and review whether they should be renewed or deactivated."
+    },
+    {
+     "n": 10,
+     "text": "Ensure supporting documentation is included for all renewals."
+    },
+    {
+     "n": 11,
+     "text": "Conduct quarterly audits so no entries are past due for review, and immediately renew or deactivate any that are."
+    },
+    {
+     "n": 12,
+     "text": "Review individuals renewed based on an arrest every six months to make sure renewals do not rest on arrests that were later sealed, at minimum exploring whether such an audit is feasible."
+    },
+    {
+     "n": 13,
+     "text": "Collect, analyze and publish data annually on the number of entries added, renewed and deactivated."
+    }
+   ]
   },
   {
    "id": "2025-10-14-monitor-26th-report-nypd-accountability",
@@ -5692,7 +7168,25 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Recognize that discipline and/or reassignment, for both officers and supervisors, may be necessary to address poor performance."
+    },
+    {
+     "n": 2,
+     "text": "Hold supervisors accountable for identifying the unlawful actions of officers under their command."
+    },
+    {
+     "n": 3,
+     "text": "Give the Early Intervention Program a strategic approach at the command level: commanders presenting to the committee should address not just the individual officer but what is being done to prevent other officers from engaging in triggering events."
+    },
+    {
+     "n": 4,
+     "text": "Track the results of Early Intervention Program interventions and conduct an evaluation of the program."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-office-of-the-new-york-city-public-advocates-provision-of-language-access-services",
@@ -5799,7 +7293,29 @@
    "status_tally": {
     "Implemented": 5
    },
-   "status_as_of": "2026-03-02"
+   "status_as_of": "2026-03-02",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Periodically test website features to make sure they work as intended."
+    },
+    {
+     "n": 2,
+     "text": "Going forward, make sure all frontline and managerial staff get annual language access training as Local Law 30 requires, and keep documentation such as attendance sheets and training materials."
+    },
+    {
+     "n": 3,
+     "text": "Continue publishing reports directly on the website so the translation feature can translate them in full, or if that is not feasible, post a notice that published reports can be translated on request."
+    },
+    {
+     "n": 4,
+     "text": "Post the newly created Language Access Implementation Plan in a conspicuous spot on the website."
+    },
+    {
+     "n": 5,
+     "text": "Continue to keep the Language Access Coordinator's name and title posted on the website as required."
+    }
+   ]
   },
   {
    "id": "2025-10-09-college-readiness-follow",
@@ -5843,7 +7359,8 @@
     "children and youth"
    ],
    "is_followup": true,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": []
   },
   {
    "id": "follow-up-audit-on-the-equal-employment-practices-commissions-compliance-with-its-charter-mandate-to-audit-city-agencies",
@@ -5941,7 +7458,21 @@
    "status_tally": {
     "Pending": 3
    },
-   "status_as_of": "2026-06-25"
+   "status_as_of": "2026-06-25",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Establish written procedures on when city agency audits open and close, in line with the Law Department's opinion."
+    },
+    {
+     "n": 2,
+     "text": "Continue updating the website and make sure future updates happen in a timely manner."
+    },
+    {
+     "n": 3,
+     "text": "Document all policy changes in writing and share them with the appropriate staff."
+    }
+   ]
   },
   {
    "id": "2025-09-30-nycha-monitors-fifth-report",
@@ -6035,7 +7566,33 @@
     "health",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Repair or replace the aging heating infrastructure, which the high rate of heating service interruptions makes urgent."
+    },
+    {
+     "n": 2,
+     "text": "Strengthen maintenance processes, improve data systems, improve performance on in-apartment heating failures and manage preventive and corrective maintenance more efficiently."
+    },
+    {
+     "n": 3,
+     "text": "Expand the South Jamaica Houses elevator pilot to other developments and use the results to improve preventive maintenance scheduling across NYCHA."
+    },
+    {
+     "n": 4,
+     "text": "Apply pest control methods more consistently and improve their quality so pest populations at developments actually fall."
+    },
+    {
+     "n": 5,
+     "text": "Standardize across developments the way residents are told about second attempts to enter their apartments for annual inspections."
+    },
+    {
+     "n": 6,
+     "text": "Sustain the workforce accountability work already under way, including managerial and nonmanagerial performance evaluations, revised job descriptions and better onboarding."
+    }
+   ]
   },
   {
    "id": "2025-09-25-doc-intelligence-bureau-immigration-enforcement",
@@ -6101,7 +7658,37 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Provide updated guidance to DOC employees on the city's immigration enforcement laws and DOC policy, including in-person training and memorandums with DOC-specific scenarios."
+    },
+    {
+     "n": 2,
+     "text": "Give staff specific guidance on responding to requests from law enforcement partners, including follow-up questions about the request's purpose and when to seek supervisory or general counsel approval."
+    },
+    {
+     "n": 3,
+     "text": "Instruct all DOC staff to direct any immigration-related requests from other law enforcement authorities to the ICE Unit and the general counsel's office."
+    },
+    {
+     "n": 4,
+     "text": "Amend Operations Order 9/19 to require the ICE Unit to regularly ask other DOC units whether they have received immigration enforcement-related requests and to require a written response."
+    },
+    {
+     "n": 5,
+     "text": "Have senior DOC officials confer with senior officials at partner federal agencies to remind them that DOC staff are bound by city law and cannot assist civil immigration enforcement except in very limited circumstances."
+    },
+    {
+     "n": 6,
+     "text": "Conduct a department-wide audit to determine whether there were other instances where the department, intentionally or not, assisted in immigration enforcement."
+    },
+    {
+     "n": 7,
+     "text": "Report any previously unknown or unreported immigration enforcement-related requests to the Mayor's Office of Immigrant Affairs as the administrative code requires."
+    }
+   ]
   },
   {
    "id": "a-compilation-of-audits-of-agencies-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
@@ -6185,7 +7772,41 @@
     "transparency"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Agencies should prevent payments to unapproved subcontractors by carefully reviewing prime vendors' invoices, periodically reviewing their general ledgers and requesting and reviewing subcontractors' agreements and invoices."
+    },
+    {
+     "n": 2,
+     "text": "Agencies should make sure prime vendors submit subcontractor information, including agreements and payment details, in the PASSPort procurement system."
+    },
+    {
+     "n": 3,
+     "text": "Agencies should document the process of vetting and running background checks on proposed subcontractors."
+    },
+    {
+     "n": 4,
+     "text": "Agencies should make sure prime vendors use competitive bidding when selecting subcontractors."
+    },
+    {
+     "n": 5,
+     "text": "Agencies should review subcontract agreements for prompt payment terms and make sure prime contractors pay subcontractors accordingly."
+    },
+    {
+     "n": 6,
+     "text": "Agencies should make sure subcontractor costs were actually paid by prime vendors before reimbursing them, a recommendation that applied only to the Department for the Aging."
+    },
+    {
+     "n": 7,
+     "text": "Agencies should implement the Department of Investigation's 2021 recommendations and comply with the Mayor's Office of Contract Services policies guiding their implementation."
+    },
+    {
+     "n": 8,
+     "text": "Agencies should consider using more Minority and Women-Owned Business Enterprise contractors and encourage prime vendors to use more M/WBE subcontractors."
+    }
+   ]
   },
   {
    "id": "audit-report-on-department-for-the-agings-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
@@ -6322,7 +7943,41 @@
    "status_tally": {
     "Implemented": 8
    },
-   "status_as_of": "2026-01-16"
+   "status_as_of": "2026-01-16",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Prevent payments to unapproved subcontractors by carefully reviewing invoices from prime vendors, periodically reviewing their general ledgers and requesting and reviewing subcontractors' agreements and invoices."
+    },
+    {
+     "n": 2,
+     "text": "Make sure prime vendors submit subcontractor information, including subcontract agreements and payment information, in PASSPort as required."
+    },
+    {
+     "n": 3,
+     "text": "Document the process of vetting proposed subcontractors and running background checks."
+    },
+    {
+     "n": 4,
+     "text": "Make sure prime vendors use competitive bidding when selecting subcontractors."
+    },
+    {
+     "n": 5,
+     "text": "Review subcontract agreements for prompt payment terms and make sure prime contractors pay their subcontractors according to those terms."
+    },
+    {
+     "n": 6,
+     "text": "Make sure costs for subcontractor goods and services were actually incurred by prime vendors before the city reimburses them."
+    },
+    {
+     "n": 7,
+     "text": "Implement DOI's 2021 recommendations to city agencies and comply with the policies and directives MOCS and the Mayor's Office of Risk Management and Compliance created to guide that work."
+    },
+    {
+     "n": 8,
+     "text": "Consider increasing use of M/WBE contractors and encourage prime vendors to increase their use of M/WBE subcontractors."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-department-of-social-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
@@ -6497,7 +8152,37 @@
     "Implemented": 2,
     "Partially Implemented": 2
    },
-   "status_as_of": "2026-05-07"
+   "status_as_of": "2026-05-07",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Prevent payments to unapproved subcontractors by carefully reviewing invoices submitted by primes, periodically reviewing prime vendors' general ledgers and requesting and reviewing subcontractors' agreements and invoices."
+    },
+    {
+     "n": 2,
+     "text": "Make sure prime vendors submit subcontractor information, including subcontract agreements and payment information, in PASSPort as required."
+    },
+    {
+     "n": 3,
+     "text": "Document the process of vetting proposed subcontractors and running background checks."
+    },
+    {
+     "n": 4,
+     "text": "Make sure prime vendors use competitive bidding when selecting subcontractors."
+    },
+    {
+     "n": 5,
+     "text": "Review subcontract agreements for prompt payment terms and make sure prime contractors pay their subcontractors according to those terms."
+    },
+    {
+     "n": 6,
+     "text": "Implement DOI's 2021 recommendations to city agencies and comply with the policies and directives MOCS and the Mayor's Office of Risk Management and Compliance created to guide that work."
+    },
+    {
+     "n": 7,
+     "text": "Continue to increase use of M/WBE contractors and encourage prime vendors to increase their use of M/WBE subcontractors in human services contracts."
+    }
+   ]
   },
   {
    "id": "the-administration-for-childrens-services-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
@@ -6619,7 +8304,33 @@
     "Pending": 4,
     "Implemented": 1
    },
-   "status_as_of": "2026-02-28"
+   "status_as_of": "2026-02-28",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Prevent payments to unapproved subcontractors by periodically reviewing prime vendors' general ledgers along with subcontract agreements and invoices."
+    },
+    {
+     "n": 2,
+     "text": "Make sure prime vendors submit subcontractor information, including agreements and payment details, in the PASSPort procurement system."
+    },
+    {
+     "n": 3,
+     "text": "Document the process of vetting and running background checks on proposed subcontractors."
+    },
+    {
+     "n": 4,
+     "text": "Review subcontract agreements for prompt payment terms and make sure prime vendors pay their subcontractors promptly."
+    },
+    {
+     "n": 5,
+     "text": "Implement the Department of Investigation's 2021 recommendations to city agencies and comply with related policies from the Mayor's Office of Contract Services and the Mayor's Office of Risk Management and Compliance."
+    },
+    {
+     "n": 6,
+     "text": "Consider using more Minority and Women-owned Business Enterprise contractors and encourage prime vendors to do the same with their subcontractors."
+    }
+   ]
   },
   {
    "id": "the-department-of-health-and-mental-hygienes-oversight-of-prime-vendors-use-of-subcontractors-on-health-and-human-services-contracts",
@@ -6760,7 +8471,41 @@
     "N/A": 1,
     "Partially Implemented": 1
    },
-   "status_as_of": "2026-02-19"
+   "status_as_of": "2026-02-19",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make sure payments for subcontracting expenses go only to vendors DOHMH has approved as subcontractors on those specific contracts."
+    },
+    {
+     "n": 2,
+     "text": "Prevent payments to unapproved subcontractors by carefully reviewing invoices submitted by prime vendors and continue periodically reviewing prime vendors' general ledgers, subcontract agreements and invoices."
+    },
+    {
+     "n": 3,
+     "text": "Make sure prime vendors submit subcontractor information, including agreements and payment details, in the PASSPort procurement system."
+    },
+    {
+     "n": 4,
+     "text": "Make all reasonable efforts to ensure the city's Financial Management System accurately reflects subcontractor approvals and industry classifications."
+    },
+    {
+     "n": 5,
+     "text": "Document the process of vetting and running background checks on proposed subcontractors."
+    },
+    {
+     "n": 6,
+     "text": "Make sure prime vendors use competitive bidding when selecting subcontractors."
+    },
+    {
+     "n": 7,
+     "text": "Review subcontract agreements and make sure prime contractors pay their subcontractors promptly."
+    },
+    {
+     "n": 8,
+     "text": "Consider using more Minority and Women-owned Business Enterprise contractors and continue encouraging prime vendors to use more M/WBE subcontractors."
+    }
+   ]
   },
   {
    "id": "2025-09-17-nycers-pension-theft-internal-controls",
@@ -6843,7 +8588,53 @@
     "seniors",
     "labor"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve internal controls with regular review of reactivated suspended accounts, especially those paying $3,000 or more a month, periodic audits of retroactive payments and returned-payment patterns and regular assessment of access controls."
+    },
+    {
+     "n": 2,
+     "text": "Periodically review all accounts suspended for three years to determine whether members are still alive, including contacting family and checking obituaries and probate court records."
+    },
+    {
+     "n": 3,
+     "text": "Expand bank account verification to cover electronic fund transfer requests received by mail."
+    },
+    {
+     "n": 4,
+     "text": "Provide enhanced training for NYCERS employees, including regular ethics training stressing personal responsibility in fraud prevention."
+    },
+    {
+     "n": 5,
+     "text": "Develop internal fraud algorithms that alert staff to duplicate bank accounts or shared contact information across profiles and to transfer requests going to high-risk banks tied to past fraud."
+    },
+    {
+     "n": 6,
+     "text": "Maintain electronic audit logs of all account access and changes, including who made them."
+    },
+    {
+     "n": 7,
+     "text": "Require two-factor authentication when members contact NYCERS to change account information."
+    },
+    {
+     "n": 8,
+     "text": "Notify members by email or text immediately when someone logs into their account, with device, browser and location details."
+    },
+    {
+     "n": 9,
+     "text": "Monitor IP addresses and review or block logins from geographic regions inconsistent with prior use."
+    },
+    {
+     "n": 10,
+     "text": "Replace mail, email and fax submission of sensitive documents with a secure upload portal using two-factor authentication and time-locked session links."
+    },
+    {
+     "n": 11,
+     "text": "Require identity confirmation by the relevant United States consulate plus a NYCERS video interview for reactivation requests from members living overseas."
+    }
+   ]
   },
   {
    "id": "review-of-the-department-of-sanitations-commercial-waste-zone-request-for-proposals-and-carter-selection-process",
@@ -6955,7 +8746,25 @@
     "Not Implemented": 1,
     "Implemented": 2
    },
-   "status_as_of": "2026-01-17"
+   "status_as_of": "2026-01-17",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Track indicators like vehicle miles traveled, safety violations, complaints and vehicle inspections to gauge whether the law's purposes are being met, and publish them quarterly in the Mayor's Management Report."
+    },
+    {
+     "n": 2,
+     "text": "Investigate why prices charged by carters differ so widely within certain zones and whether the differences keep businesses from getting carting services at a reasonable rate."
+    },
+    {
+     "n": 3,
+     "text": "Closely monitor the performance of Cogent Waste Solutions and New York Recycling to ensure compliance with the Commercial Waste Zone agreement."
+    },
+    {
+     "n": 4,
+     "text": "Make sure the independent monitor assigned to Cogent and New York Recycling submits its required investigation reports to DSNY."
+    }
+   ]
   },
   {
    "id": "2025-09-11-status-report-on-remedial-relief",
@@ -7011,7 +8820,17 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The remediation manager's team must consist of members with bona fide credentials in sound correctional practice and in stimulating the culture change needed for the department to improve practice and sustain progress."
+    },
+    {
+     "n": 2,
+     "text": "The court should permit the monitoring team to file a submission on September 24, 2025 with the outcome of the parties' still-pending negotiations over an information-sharing provision of the proposed order."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-department-of-educations-compliance-with-regulations-regarding-english-language-learners-audit",
@@ -7172,7 +8991,49 @@
     "Implemented": 5,
     "Not Implemented": 1
    },
-   "status_as_of": "2026-02-03"
+   "status_as_of": "2026-02-03",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Finalize rules for a tracking and monitoring system for bilingual education and English as a new language programs to make sure students are adequately served."
+    },
+    {
+     "n": 2,
+     "text": "Implement and further develop a system to monitor English as a new language units of study so students receive all required minutes from a certified teacher."
+    },
+    {
+     "n": 3,
+     "text": "Continue recruiting qualified teachers for English language learner classes and encourage current staff to earn the needed certifications."
+    },
+    {
+     "n": 4,
+     "text": "Develop a centralized system to track teachers' required professional development hours and designate a team to monitor compliance and provide periodic status reports."
+    },
+    {
+     "n": 5,
+     "text": "Continue regular audits and inspections during school support visits to make sure critical paperwork is completed, kept in student records and entered accurately in the department's data system."
+    },
+    {
+     "n": 6,
+     "text": "Improve oversight of waiver requests, evaluate recruitment efforts and expand bilingual programs in high-demand districts to reduce reliance on waivers."
+    },
+    {
+     "n": 7,
+     "text": "Set standardized procedures so all schools give parents complete and accurate program information on the parent survey and agreement forms."
+    },
+    {
+     "n": 8,
+     "text": "Establish a centralized process to collect, analyze and act on data from the parent survey and agreement forms across all schools."
+    },
+    {
+     "n": 9,
+     "text": "Develop a centralized tracking system for waitlist and transfer requests and strengthen oversight so bilingual program preferences are honored promptly."
+    },
+    {
+     "n": 10,
+     "text": "Implement a school-level monitoring system to make sure the identification process for English language learners is completed as required."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-new-york-city-office-of-collective-bargainings-responses-to-requests",
@@ -7251,7 +9112,17 @@
    "status_tally": {
     "Implemented": 2
    },
-   "status_as_of": "2026-01-16"
+   "status_as_of": "2026-01-16",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Document the office's procedures for responding to inquiries and complaints, including how calls and responses are recorded and a target timeframe for a response."
+    },
+    {
+     "n": 2,
+     "text": "Continue to ensure that all inquiries and complaints get timely responses and that all relevant information is documented according to those procedures."
+    }
+   ]
   },
   {
    "id": "2025-09-04-ebt-card-skimming",
@@ -7329,7 +9200,33 @@
     "money and contracts",
     "technology"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "New York should urgently install EMV chips in EBT cards to reduce skimming theft, by amending the social services law to require the state Office of Temporary and Disability Assistance (OTDA) to do so or by OTDA acting without legislation."
+    },
+    {
+     "n": 2,
+     "text": "OTDA should work with the EBT card vendor to create an alert that notifies clients when an out-of-state or suspicious transaction is pending and requires them to authenticate it through the app or an automated call."
+    },
+    {
+     "n": 3,
+     "text": "OTDA should work with the vendor on a real-time text alert when a client's PIN is changed, on by default with the option to opt out."
+    },
+    {
+     "n": 4,
+     "text": "OTDA should create an alert triggered by repetitive transactions at common locations between midnight and 2 a.m. and promptly report it to law enforcement."
+    },
+    {
+     "n": 5,
+     "text": "DSS should continue working with the United States Department of Agriculture and law enforcement to promptly remove and confiscate identified or suspected skimming devices."
+    },
+    {
+     "n": 6,
+     "text": "DSS should continue its early skimming detection and analytics work and keep informing the public of risks and precautions, including through flyers and public seminars."
+    }
+   ]
   },
   {
    "id": "2025-09-03-annual-anti-corruption-report-2024",
@@ -7412,7 +9309,25 @@
     "transparency",
     "small business"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "City agencies should stay alert to the corruption and fraud risks built into any municipal process, review those processes regularly and put risk mitigation measures in place."
+    },
+    {
+     "n": 2,
+     "text": "Agencies should streamline application and determination processes where they can, while still collecting the information and approvals they need, so that applicants have less motive to work around a slow or burdensome process."
+    },
+    {
+     "n": 3,
+     "text": "Agencies should evaluate the regulations they implement and enforce with corruption risk in mind, weighing that risk against how necessary the process is."
+    },
+    {
+     "n": 4,
+     "text": "In designing regulatory, application and enforcement processes, agencies should make sure the rules are strong enough to do their job without imposing burdens so heavy that they raise the risk of fraud."
+    }
+   ]
   },
   {
    "id": "peer-review-final-report",
@@ -7450,7 +9365,8 @@
     "transparency"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": []
   },
   {
    "id": "2025-07-24-management-student-school-matching-algorithm",
@@ -7516,7 +9432,21 @@
     "transparency"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve management of the matching algorithm so students get the admissions priority they are entitled to, including students in temporary housing, low-income students and students who need manual placements."
+    },
+    {
+     "n": 2,
+     "text": "Develop and implement written policies and procedures for the matching process so students are treated consistently and appropriately, in line with the Chancellor's Regulations and other requirements."
+    },
+    {
+     "n": 3,
+     "text": "Create policies and procedures to make sure complete and timely reports are publicly posted as required by Local Law 72 of 2018."
+    }
+   ]
   },
   {
    "id": "2025-07-21-lv-special-master-program-monitoring",
@@ -7597,15 +9527,15 @@
     "Obligation 13, monitoring service orders: set up a working group that meets regularly on the functionality needed in the special education system.",
     "Obligation 14a, customer support hotline: keep improving the SupportHub tool and process in response to community feedback.",
     "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
-    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
-    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
+    "Obligation 16b, building the notification function: draft the requirements and content for the automated service that emails parents at key milestones, with the department's technology division reviewing how those notifications will be generated.",
+    "Obligation 16c, deploying notifications publicly: draft the requirements and content for the automated parent notification service, the step needed before the notifications can go live publicly.",
     "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
     "Obligation 24b, DAITS enhancements: confirm that further enhancements to the older tracking system will be postponed so resources can support the new hearing system.",
     "Obligation 30, operating procedures manual: have the communications lead revise the draft manual and share an updated version with plaintiffs and the special master.",
     "Obligation 33, new services process: create a working group for the hearing system and special education system teams to work out the integration between them.",
     "Obligation 27, case status indicator: make sure the parent-facing status function is tested with parents during user acceptance testing.",
     "Obligation 31, document management: clarify and define the process and technologies for capturing and storing documentation from parents.",
-    "Obligation 34, document management tool: see obligation 13.",
+    "Obligation 34, document management tool: set up a working group that meets regularly on the functionality needed between the hearing system and the special education system, which governs the document management tool.",
     "Obligation 32, mobile timesheets: share the mobile testing results for Polaris with the special master.",
     "Obligation 2b, monthly performance reporting: gather and integrate the data assets and tell the parties when future performance reports will be delivered.",
     "Obligation 9, payment documentation: keep reviewing the content of the implementation website and align it with the SupportHub site.",
@@ -7627,7 +9557,121 @@
     "education",
     "children and youth"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Include hearing officers in user acceptance testing of the new hearing management system."
+    },
+    {
+     "n": 2,
+     "text": "Update the policy so parents can submit payment documentation as multiple files, and communicate the change internally and publicly."
+    },
+    {
+     "n": 3,
+     "text": "Test the invoicing application on multiple browser types to match what the public will use."
+    },
+    {
+     "n": 4,
+     "text": "Set up a working group that meets regularly on the functionality needed in the special education system."
+    },
+    {
+     "n": 5,
+     "text": "Keep improving the SupportHub tool and process in response to community feedback."
+    },
+    {
+     "n": 6,
+     "text": "Draft the requirements and content for the automated service that emails parents at key milestones."
+    },
+    {
+     "n": 7,
+     "text": "Draft the requirements and content for the automated service that emails parents at key milestones, with the department's technology division reviewing how those notifications will be generated."
+    },
+    {
+     "n": 8,
+     "text": "Draft the requirements and content for the automated parent notification service, the step needed before the notifications can go live publicly."
+    },
+    {
+     "n": 9,
+     "text": "Provide copies of the communications sent to the health agencies."
+    },
+    {
+     "n": 10,
+     "text": "Confirm that further enhancements to the older tracking system will be postponed so resources can support the new hearing system."
+    },
+    {
+     "n": 11,
+     "text": "Have the communications lead revise the draft manual and share an updated version with plaintiffs and the special master."
+    },
+    {
+     "n": 12,
+     "text": "Create a working group for the hearing system and special education system teams to work out the integration between them."
+    },
+    {
+     "n": 13,
+     "text": "Make sure the parent-facing status function is tested with parents during user acceptance testing."
+    },
+    {
+     "n": 14,
+     "text": "Clarify and define the process and technologies for capturing and storing documentation from parents."
+    },
+    {
+     "n": 15,
+     "text": "Set up a working group that meets regularly on the functionality needed between the hearing system and the special education system, which governs the document management tool."
+    },
+    {
+     "n": 16,
+     "text": "Share the mobile testing results for Polaris with the special master."
+    },
+    {
+     "n": 17,
+     "text": "Gather and integrate the data assets and tell the parties when future performance reports will be delivered."
+    },
+    {
+     "n": 18,
+     "text": "Keep reviewing the content of the implementation website and align it with the SupportHub site."
+    },
+    {
+     "n": 19,
+     "text": "Gather data on high-priority cases, share it with the special master and determine lessons learned from missed cases."
+    },
+    {
+     "n": 20,
+     "text": "Produce and share a communications plan for service orders and action items."
+    },
+    {
+     "n": 21,
+     "text": "Report the obstacles at the August steering committee meeting and formally communicate the policy to nursing providers."
+    },
+    {
+     "n": 22,
+     "text": "Share the agreed list of performance indicators with the hearing system team, assess what can be reported from it and identify the gaps."
+    },
+    {
+     "n": 23,
+     "text": "Share an outline and template of the quarterly report for feedback from plaintiffs and the special master."
+    },
+    {
+     "n": 24,
+     "text": "Share an outline and template of the six-month report for feedback."
+    },
+    {
+     "n": 25,
+     "text": "Create a process document for confirming that ordered home instruction was actually provided."
+    },
+    {
+     "n": 26,
+     "text": "Create a process document for confirming that the student is appropriately placed in the school called for by the order and the student's IEP."
+    },
+    {
+     "n": 27,
+     "text": "Share an annual training publication schedule and the process for updating training materials."
+    },
+    {
+     "n": 28,
+     "text": "Plan and scope user research for Phase II of the hearing management system, including feedback from plaintiffs."
+    }
+   ]
   },
   {
    "id": "2025-07-14-new-york-city-department-homeless-services-oversight-contract-expenditures-church-avenue",
@@ -7692,7 +9736,17 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Review and recover, as appropriate, the $4,501,692 in reported expenses that did not comply with the fiscal manuals and the shelter contracts."
+    },
+    {
+     "n": 2,
+     "text": "Review the eligibility of claimed expenses under the fiscal manuals and providers' contracts, making sure providers such as CAMBA keep documentation to support claimed expenses, maintain required inventories and complete year-end closeouts on time."
+    }
+   ]
   },
   {
    "id": "2025-07-14-oversight-contract-expenditures-bowery-residents-committee-follow",
@@ -7740,7 +9794,13 @@
     "money and contracts"
    ],
    "is_followup": true,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+    }
+   ]
   },
   {
    "id": "audit-of-the-queens-borough-public-librarys-emergency-preparedness",
@@ -7861,7 +9921,37 @@
    "status_tally": {
     "Implemented": 7
    },
-   "status_as_of": "2026-05-04"
+   "status_as_of": "2026-05-04",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Consider installing flood protection and mitigation measures at the Seaside branch because of its floodplain location."
+    },
+    {
+     "n": 2,
+     "text": "Consider installing generators or other backup power systems at additional branches so libraries can keep operating and serve the public during emergencies."
+    },
+    {
+     "n": 3,
+     "text": "Request that the federal Cybersecurity and Infrastructure Security Agency conduct an Infrastructure Survey Tool assessment to identify and document the library's overall security and resilience."
+    },
+    {
+     "n": 4,
+     "text": "Ensure the Disaster Recovery Plan includes a requirement to test, review and update the plan at least annually."
+    },
+    {
+     "n": 5,
+     "text": "Address the areas of improvement noted in Disaster Recovery Test Reports."
+    },
+    {
+     "n": 6,
+     "text": "Ensure twice-yearly fire drills are conducted at all branches and implement a centralized process for keeping documentation of each completed drill."
+    },
+    {
+     "n": 7,
+     "text": "Implement a centralized notification system to quickly relay information to all branch managers and staff, including local emergency updates and instructions on public health, weather or security situations."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-teachers-retirement-system-of-the-city-of-new-yorks-trs-other-than-personal-services-otps-expenditures",
@@ -7989,7 +10079,37 @@
     "Implemented": 2,
     "Pending": 2
    },
-   "status_as_of": "2026-10-15"
+   "status_as_of": "2026-10-15",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Ensure invoices are received before initiating payment and properly maintain the invoices that are received and paid."
+    },
+    {
+     "n": 2,
+     "text": "Process payments to vendors within 30 days after receiving the invoices."
+    },
+    {
+     "n": 3,
+     "text": "Immediately stop the practice of purchasing gift cards."
+    },
+    {
+     "n": 4,
+     "text": "Ensure all out-of-town travel is justified and the associated costs are approved."
+    },
+    {
+     "n": 5,
+     "text": "Request and obtain all necessary documents before processing payments and reimbursements to avoid paying unnecessary expenses."
+    },
+    {
+     "n": 6,
+     "text": "Comply with the directive's limits on how many employees attend the same conference and how many conferences each employee attends per year."
+    },
+    {
+     "n": 7,
+     "text": "Obtain post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits the system."
+    }
+   ]
   },
   {
    "id": "audit-of-the-new-york-public-librarys-emergency-preparedness",
@@ -8117,7 +10237,37 @@
     "Not Implemented": 1,
     "Implemented": 2
    },
-   "status_as_of": "2026-03-04"
+   "status_as_of": "2026-03-04",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Ask the federal Cybersecurity and Infrastructure Security Agency to conduct an infrastructure survey assessment of the library's overall security and resilience."
+    },
+    {
+     "n": 2,
+     "text": "Test, review and update the business continuity plan, cybersecurity plan and information technology incident response plan at least annually."
+    },
+    {
+     "n": 3,
+     "text": "Consider implementing a mesh Wi-Fi network, which supports communications in hard-to-reach areas and can be used in emergency response."
+    },
+    {
+     "n": 4,
+     "text": "Make sure annual fire drills are conducted at all locations."
+    },
+    {
+     "n": 5,
+     "text": "Establish a centralized tracking and reporting system so all branches submit their required security plans, checklists, safety surveys and resource lists."
+    },
+    {
+     "n": 6,
+     "text": "Make sure critical emergency alerts from New York City Emergency Management are promptly relayed to all branch managers and staff."
+    },
+    {
+     "n": 7,
+     "text": "Consider flood protection and mitigation measures at the Aquilar branch given its floodplain location."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-of-the-civil-service-practices-by-the-civil-service-commission",
@@ -8203,7 +10353,17 @@
    "status_tally": {
     "Implemented": 2
    },
-   "status_as_of": "2025-12-01"
+   "status_as_of": "2025-12-01",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Continue auditing all open cases in the Law Manager system every month to make sure cases are processed in a timely and appropriate way."
+    },
+    {
+     "n": 2,
+     "text": "Set timeframes for reviewing cases so they are processed in a timely manner."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-new-york-city-fire-pension-funds-other-than-personal-services-expenditures",
@@ -8361,7 +10521,37 @@
     "Pending": 6,
     "Not Implemented": 1
    },
-   "status_as_of": "2025-10-28"
+   "status_as_of": "2025-10-28",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Obtain post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits the fund."
+    },
+    {
+     "n": 2,
+     "text": "Stop reporting investment and member-related payments as other than personal services expenditures."
+    },
+    {
+     "n": 3,
+     "text": "Accurately report expenditures in the period the expenses are incurred."
+    },
+    {
+     "n": 4,
+     "text": "Segregate duties for the expenditure process or implement compensating controls such as management review and dual authorization."
+    },
+    {
+     "n": 5,
+     "text": "Promptly record payment transactions in the general ledger."
+    },
+    {
+     "n": 6,
+     "text": "Process payments to vendors within 30 days of receiving the invoices."
+    },
+    {
+     "n": 7,
+     "text": "Establish and implement internal procurement and travel policies and procedures."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-new-york-city-police-pension-funds-other-than-personal-services-expenditures",
@@ -8498,7 +10688,41 @@
     "Implemented": 4,
     "Pending": 4
    },
-   "status_as_of": "2025-10-29"
+   "status_as_of": "2025-10-29",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make sure spending other than salaries is economical and necessary to the fund's mission."
+    },
+    {
+     "n": 2,
+     "text": "Reevaluate vehicle use policies in light of general city requirements and document each business use of leased vehicles, noting the time, place and business purpose."
+    },
+    {
+     "n": 3,
+     "text": "Inform vendors of the fund's sales tax exemption and exclude sales tax from payments."
+    },
+    {
+     "n": 4,
+     "text": "Review and recoup all prior payments that included sales tax."
+    },
+    {
+     "n": 5,
+     "text": "Pay vendors within 30 days of receiving invoices."
+    },
+    {
+     "n": 6,
+     "text": "Report expenditures accurately in the period the expenses are incurred."
+    },
+    {
+     "n": 7,
+     "text": "Create an internal travel policy covering how travel is requested, approved, funded and reimbursed, in line with the comptroller's travel directive."
+    },
+    {
+     "n": 8,
+     "text": "Make sure all out-of-town travel expenses are economical, necessary and consistent with the comptroller's travel directive."
+    }
+   ]
   },
   {
    "id": "final-letter-report-on-the-audit-of-the-brooklyn-public-librarys-emergency-preparedness",
@@ -8624,7 +10848,37 @@
     "Implemented": 6,
     "Pending": 1
    },
-   "status_as_of": "2026-06-01"
+   "status_as_of": "2026-06-01",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Conduct facility assessments at all branches before the summer cooling and winter heating seasons to make sure heating and cooling systems work."
+    },
+    {
+     "n": 2,
+     "text": "Consider installing generators or other backup power systems at additional branches so libraries can serve the public during emergencies."
+    },
+    {
+     "n": 3,
+     "text": "Consider flood protection and mitigation measures at the Brighton Beach, Gerritsen Beach and Sheepshead Bay branches given their floodplain locations and past storm impacts."
+    },
+    {
+     "n": 4,
+     "text": "Create a comprehensive public safety and emergency plan that assigns responsibilities for specific actions to protect people, property, operations and the environment."
+    },
+    {
+     "n": 5,
+     "text": "Train all staff on the comprehensive plan and the business continuity plan, test the plans at least once a year and update them as necessary."
+    },
+    {
+     "n": 6,
+     "text": "Make sure twice-yearly fire drills are conducted at all locations."
+    },
+    {
+     "n": 7,
+     "text": "Implement a centralized notification system to quickly relay emergency information and instructions to all branch managers and staff."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-new-york-city-law-departments-timeliness-in-reviewing-agency-contracts",
@@ -8733,7 +10987,29 @@
     "Partially Implemented": 2,
     "Pending": 3
    },
-   "status_as_of": "2026-07-09"
+   "status_as_of": "2026-07-09",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Record key milestones in Law Manager or its planned successor LegalStratus or otherwise track them, including when agencies submit contracts, attorneys are assigned, contracts are returned or approved and agencies respond."
+    },
+    {
+     "n": 2,
+     "text": "Ask the Mayor's Office of Contract Services to create standard aging reports and reports of closed contracts showing key milestone dates."
+    },
+    {
+     "n": 3,
+     "text": "Use Law Manager, LegalStratus and PASSPort to generate biweekly aging reports that flag requests nearing or past the expected review timeframe, and to generate historical reports of closed requests to measure timeliness, identify the causes of delays and take corrective action."
+    },
+    {
+     "n": 4,
+     "text": "Assess whether staffing levels are adequate."
+    },
+    {
+     "n": 5,
+     "text": "Keep working with the Mayor's Office of Contract Services on issues including the PASSPort glitch involving returned contracts and the system's reporting capabilities."
+    }
+   ]
   },
   {
    "id": "2025-06-04-case-management-follow",
@@ -8789,7 +11065,13 @@
     "social services"
    ],
    "is_followup": true,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "DFTA officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+    }
+   ]
   },
   {
    "id": "2025-06-03-monitor-25th-report-community-response-team-stops",
@@ -8871,7 +11153,21 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "CRT officers should reach the same compliance levels the monitor set for Neighborhood Safety Team officers: at least 85% by the end of the third quarter of 2025 and at least 90% by the end of the year."
+    },
+    {
+     "n": 2,
+     "text": "The department should tell the monitor what steps it will take to keep officers within the bounds of the Fourth Amendment during traffic stops and consent searches, including any additional training, directives or monitoring that may be required."
+    },
+    {
+     "n": 3,
+     "text": "As the department finalizes its Fourteenth Amendment compliance plans, it should ensure an analysis of CRT operations is included in the plan's implementation."
+    }
+   ]
   },
   {
    "id": "final-audit-letter-report-on-the-new-york-city-employees-retirement-systems-nycers-other-than-personal-services-otps-expenditures",
@@ -8990,7 +11286,33 @@
    "status_tally": {
     "Implemented": 6
    },
-   "status_as_of": "2025-09-23"
+   "status_as_of": "2025-09-23",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make sure a purchase order or contract is created for every small or micro purchase."
+    },
+    {
+     "n": 2,
+     "text": "Pay vendors within 30 days of receiving their invoices."
+    },
+    {
+     "n": 3,
+     "text": "Recoup the $2,000 overpayment from the vendor or have it credited to NYCERS' account."
+    },
+    {
+     "n": 4,
+     "text": "Make sure all out-of-town travel costs are approved, including lodging that exceeds GSA rates and extra-legroom charges."
+    },
+    {
+     "n": 5,
+     "text": "Get all necessary documents before processing payments and reimbursements to avoid paying unnecessary expenses."
+    },
+    {
+     "n": 6,
+     "text": "Get post-travel attendance reports from everyone who attends out-of-town conferences to show how what they learned benefits NYCERS."
+    }
+   ]
   },
   {
    "id": "audit-of-the-behavioral-health-emergency-assistance-response-divisions-effectiveness-in-responding-to-individuals-with-mental-health-crises-and-meeting-its-goals",
@@ -9254,7 +11576,37 @@
    "status_tally": {
     "Pending": 28
    },
-   "status_as_of": "2025-05-22"
+   "status_as_of": "2025-05-22",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Formally assess the citywide need for B-HEARD mental health response teams."
+    },
+    {
+     "n": 2,
+     "text": "Work with partner agencies to expand the program's reach and number of teams in line with established need, including covering the overnight hours."
+    },
+    {
+     "n": 3,
+     "text": "Work with the fire department to explore additional ways, such as tuition assistance, livable wages or loan forgiveness, to recruit enough qualified EMS responders so all eligible calls are triaged and answered."
+    },
+    {
+     "n": 4,
+     "text": "Work with partner agencies to develop performance metrics and collect the data needed to evaluate the program, including reasons calls are ineligible or untriaged, reasons eligible calls get no response, police responses caused by team unavailability and reasons assessments are not performed."
+    },
+    {
+     "n": 5,
+     "text": "Work with the fire department to require EMS responders to consistently update the final call type on every call so eligible-call counts are accurate."
+    },
+    {
+     "n": 6,
+     "text": "Continue developing ways to increase contact with and assessments of patients when B-HEARD teams respond."
+    },
+    {
+     "n": 7,
+     "text": "Continue working with the New York State Office of Mental Health and Health Department to expand community-based care centers across all five boroughs."
+    }
+   ]
   },
   {
    "id": "2025-05-22-nineteenth-monitor-report",
@@ -9327,7 +11679,37 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Staff must reduce unnecessary uses of force, including head strikes and dangerous takedowns."
+    },
+    {
+     "n": 2,
+     "text": "Improved security practices must be embedded into staff practice through the department's security plan work."
+    },
+    {
+     "n": 3,
+     "text": "The department must continue reducing staff absenteeism and improve deployment of staff to housing unit and other facility posts that engage the incarcerated population."
+    },
+    {
+     "n": 4,
+     "text": "Officers and captains must properly manage and supervise housing units to reduce interpersonal violence and assaults on staff."
+    },
+    {
+     "n": 5,
+     "text": "Staff must be properly deployed to housing unit posts to ensure supervision and service delivery, and facility leadership must be more directly involved in identifying and fixing poor practice."
+    },
+    {
+     "n": 6,
+     "text": "The department must reduce investigative caseloads by triaging incidents so administrative reviews handle simpler cases and resources go to incidents needing in-depth investigation."
+    },
+    {
+     "n": 7,
+     "text": "Accountability for staff misconduct must be imposed closer in time to the incidents in which misconduct occurs."
+    }
+   ]
   },
   {
    "id": "2025-05-21-monitor-24th-report-stop-frisk-compliance-snapshot",
@@ -9403,7 +11785,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2025-05-19-doc-workers-compensation-claims",
@@ -9474,7 +11857,25 @@
     "money and contracts",
     "labor"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The Law Department should appoint a Director of Claims Integrity to identify potentially fraudulent workers' compensation claims by city employees and serve as a liaison referring possible fraud to DOI."
+    },
+    {
+     "n": 2,
+     "text": "The Law Department should evaluate the anti-fraud training it gives city employees who review and approve workers' compensation claims, in coordination with DOI, to decide whether changes are needed."
+    },
+    {
+     "n": 3,
+     "text": "The correction department should appoint a Director of Workplace Safety to monitor accident statistics, examine safety conditions at its facilities, develop clear safety protocols and train employees on workplace safety."
+    },
+    {
+     "n": 4,
+     "text": "The correction department should update and reissue Directive #1004, its procedures for filing workers' compensation claims."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-new-york-city-department-of-health-and-mental-hygienes-oversight-of-doula-programs-in-underserved-neighborhoods",
@@ -9610,7 +12011,37 @@
     "Pending": 5,
     "Not Implemented": 1
    },
-   "status_as_of": "2025-09-22"
+   "status_as_of": "2025-09-22",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make all reasonable efforts to collect or use available provisional citywide birth outcome data so CDI client rates can be compared with citywide rates sooner."
+    },
+    {
+     "n": 2,
+     "text": "Consolidate data collection into more efficient reporting to determine how well doula services reduce negative birth outcomes and maternal mortality."
+    },
+    {
+     "n": 3,
+     "text": "Increase the number of doulas who speak languages other than English."
+    },
+    {
+     "n": 4,
+     "text": "Continue working with the Department of Homeless Services to increase doula access to clients in shelters."
+    },
+    {
+     "n": 5,
+     "text": "Continue promoting doula-friendly policies in the Maternity Hospital Quality Improvement Network hospitals and expand the incorporation of doulas into hospital birthing teams."
+    },
+    {
+     "n": 6,
+     "text": "Build client satisfaction surveys into data collection and evaluate satisfaction by vendor, analyzing differences in practice that may affect satisfaction."
+    },
+    {
+     "n": 7,
+     "text": "Conduct additional studies of outcomes for AAPI and White women to understand why the program appears to help them less."
+    }
+   ]
   },
   {
    "id": "audit-of-the-new-york-city-department-of-buildings-enforcement-of-building-codes",
@@ -9758,7 +12189,45 @@
    "status_tally": {
     "Pending": 9
    },
-   "status_as_of": "2025-10-07"
+   "status_as_of": "2025-10-07",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Re-evaluate the total reliance on complaints to drive code enforcement and consider additional approaches."
+    },
+    {
+     "n": 2,
+     "text": "Consider ways to track the source of complaints and other remedies to make sure the 311 complaint system is not abused to target certain communities."
+    },
+    {
+     "n": 3,
+     "text": "Change processes so Failure to Comply summonses are not issued while correction plans are still pending DOB review, or within 60 days of DOB approving a plan."
+    },
+    {
+     "n": 4,
+     "text": "Establish education and engagement strategies in the communities most affected by illegal conversions, emphasizing the financial impact of violations, fines and penalties."
+    },
+    {
+     "n": 5,
+     "text": "Work with OATH to educate the public about the financial consequences of defaulting on summonses."
+    },
+    {
+     "n": 6,
+     "text": "Restore the practice of publicly reporting service levels, including plan approval times, on the agency's website tracker."
+    },
+    {
+     "n": 7,
+     "text": "Identify why review times vary among the boroughs, work to reduce those variances and minimize review times, and set time targets for plan reviews."
+    },
+    {
+     "n": 8,
+     "text": "Set key performance indicators for the Homeowner Relief Program to assess its effectiveness."
+    },
+    {
+     "n": 9,
+     "text": "Formally survey participants in homeowner-assistance initiatives about their satisfaction and possible improvements."
+    }
+   ]
   },
   {
    "id": "2025-04-10-oversight-horizon-and-crossroads-juvenile-centers",
@@ -9838,7 +12307,29 @@
     "public safety"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make sure ACS policies for intake, housing and case management are communicated to staff, and set up monitoring to ensure compliance."
+    },
+    {
+     "n": 2,
+     "text": "Report all incidents in ACS' internal database to the Office of Children and Family Services through the state system, and monitor the timeliness and accuracy of that reporting."
+    },
+    {
+     "n": 3,
+     "text": "Establish monitoring procedures and periodic reviews to make sure all incidents are entered into the state system on time and accurately."
+    },
+    {
+     "n": 4,
+     "text": "Evaluate and strengthen, as needed, policies and practices for preventing and detecting contraband."
+    },
+    {
+     "n": 5,
+     "text": "Work with New York City Public Schools, the Office of Children and Family Services and other stakeholders to minimize youth absenteeism from school."
+    }
+   ]
   },
   {
    "id": "2025-04-10-street-construction-related-permits-follow",
@@ -9885,7 +12376,13 @@
     "transportation"
    ],
    "is_followup": true,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "DOT officials are asked, but not required, to report within 30 days on any actions planned to address the unresolved issues in the follow-up report."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-new-york-city-department-of-education-school-construction-authoritys-asbestos-management-program",
@@ -10083,7 +12580,45 @@
    "status_tally": {
     "Implemented": 18
    },
-   "status_as_of": "2025-07-30"
+   "status_as_of": "2025-07-30",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Improve awareness and understanding of AHERA compliance among school officials and the designated compliance officer."
+    },
+    {
+     "n": 2,
+     "text": "Develop and adopt comprehensive policies and procedures for asbestos management in schools, including internal reporting and review mechanisms to ensure full compliance."
+    },
+    {
+     "n": 3,
+     "text": "Develop a plan with specific milestones to bring triennial and periodic inspections up to date, including a historical review of inspection data, a phased plan prioritizing buildings with the longest gaps, adequate resources and consultants, and a detailed schedule covering all 1,431 buildings."
+    },
+    {
+     "n": 4,
+     "text": "Implement a recordkeeping system with reporting features to ensure accountability and compliance."
+    },
+    {
+     "n": 5,
+     "text": "Document ongoing inspection and management-plan efforts to minimize potential penalties and demonstrate good-faith compliance."
+    },
+    {
+     "n": 6,
+     "text": "Make sure all custodians and asbestos handlers are adequately trained and keep evidence of that training."
+    },
+    {
+     "n": 7,
+     "text": "Make sure all stakeholders are adequately notified of asbestos-related activities."
+    },
+    {
+     "n": 8,
+     "text": "Develop a standard procedure for promptly determining a school's asbestos status, including timely receipt and monitoring of asbestos-free certification letters from SCA."
+    },
+    {
+     "n": 9,
+     "text": "SCA should keep the asbestos status of all new school buildings and additions current, and investigate and address delays in providing asbestos-free certification letters to DOE."
+    }
+   ]
   },
   {
    "id": "2025-04-01-oig-nypd-eleventh-annual-report",
@@ -10151,7 +12686,8 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": []
   },
   {
    "id": "2025-03-26-nycha-senior-building-safety-fire-guards",
@@ -10239,7 +12775,57 @@
     "public safety",
     "seniors"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Require guard vendors to provide a smartphone app with geofencing and electronic timekeeping that alerts vendor managers when guards leave their post, with QR code scans along patrol routes and backup call-in procedures when the app is down."
+    },
+    {
+     "n": 2,
+     "text": "Require vendors to provide geofencing and electronic timekeeping records as invoice backup, with the vendor's invoicing system configured to block invoices when records show a guard did not complete the scheduled shift."
+    },
+    {
+     "n": 3,
+     "text": "Include in guard contracts a definition of \"post abandonment\" specifying the minimum number of minutes, such as no more than 15 minutes."
+    },
+    {
+     "n": 4,
+     "text": "Provide security guards a designated desk or podium bearing NYCHA's insignia in the lobby to serve as their central duty location."
+    },
+    {
+     "n": 5,
+     "text": "Require property management to post lobby signage with contact information for NYCHA's Office of Safety and Security for emergencies and complaints about guards."
+    },
+    {
+     "n": 6,
+     "text": "Require a minimum number of documented unannounced monthly inspections of guard performance and biweekly briefings up the chain on vendor performance."
+    },
+    {
+     "n": 7,
+     "text": "Revise the field inspection form so inspectors check that lobby and stairwell doors are secure with working self-closing hardware and that cameras work with unobstructed views, and train inspection staff accordingly."
+    },
+    {
+     "n": 8,
+     "text": "Revise the manual so the safety office immediately reports security infrastructure deficiencies it cannot fix to property management, which must generate a work order ticket within 12 hours."
+    },
+    {
+     "n": 9,
+     "text": "Revise the field inspection report form to require electronic delivery, such as scanning and uploading or submission through NYCHA's ServiceNow platform."
+    },
+    {
+     "n": 10,
+     "text": "Revise the manual to define the Security Manager role and specify the titles and duties of employees responsible for managing the guard contracts."
+    },
+    {
+     "n": 11,
+     "text": "Establish a process to receive and verify invoices, certified payroll, electronic timekeeping and geofencing records and confirm they accurately reflect hours worked before paying."
+    },
+    {
+     "n": 12,
+     "text": "Require biweekly vendor invoices and retain relevant camera footage until invoices are reviewed and approved so NYCHA can cross-reference them when needed."
+    }
+   ]
   },
   {
    "id": "2025-03-25-ccpc-twenty-second-annual-report",
@@ -10334,7 +12920,57 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Conduct investigations promptly and without lapses in activity, but do not sacrifice quality for speed; IAB has directed each group commander to name backup investigators who can take over when the primary investigator is unavailable."
+    },
+    {
+     "n": 2,
+     "text": "Identify subject officers as early as possible, and in property cases treat every officer who had access to the missing property as a subject unless there is a specific reason to exclude them."
+    },
+    {
+     "n": 3,
+     "text": "Interview civilian witnesses without delay and interview witness officers close in time to the incident absent a strategic reason; the assigned investigator should personally contact the complainant, and civilians should be shown body-worn camera footage that contradicts their account unless there is a strategic or privacy reason not to."
+    },
+    {
+     "n": 4,
+     "text": "Document in the case file, preferably on the worksheet summarizing the interview, any reason for departing from best interview practices."
+    },
+    {
+     "n": 5,
+     "text": "Train newly assigned investigators in interviewing techniques and give all investigators routine refresher courses; the current Department Advocate should put this training in place with the attorneys in that office."
+    },
+    {
+     "n": 6,
+     "text": "Have supervisors who are skilled at interviewing help less experienced investigators, both in preparing for interviews and during the questioning."
+    },
+    {
+     "n": 7,
+     "text": "Include every allegation against a subject in the investigation even if it will end up unsubstantiated, and notify subjects' commanding officers of any allegation IAB did not fully investigate or address."
+    },
+    {
+     "n": 8,
+     "text": "Before conducting surveillance, have investigators discuss the objectives with supervisors and plan the surveillance for the times they are most likely to observe what they are looking for."
+    },
+    {
+     "n": 9,
+     "text": "When summarizing recorded interviews, include only what can be heard on the audio, record anything said outside the recording on a separate worksheet or clearly mark it as before or after the recording, and have supervisors confirm the summaries are accurate and complete."
+    },
+    {
+     "n": 10,
+     "text": "Search for relevant video as soon as the complaint comes in, have supervisors check within the first one to two weeks that a video canvass was done, and follow up quickly on cameras whose footage could not be accessed."
+    },
+    {
+     "n": 11,
+     "text": "Promptly perform investigative steps directed in team leader or commanding officer reviews, document any reason a step was not taken, and admonish or discipline investigators who skip a step without a legitimate reason."
+    },
+    {
+     "n": 12,
+     "text": "Follow the penalty ranges in the Department's disciplinary guidelines, known as the Matrix, when officers negligently fail to activate body-worn cameras in cases where footage would have been relevant, or at minimum monitor whether warnings alone are enough to change behavior."
+    }
+   ]
   },
   {
    "id": "2025-03-19-lv-special-master-program-monitoring",
@@ -10416,8 +13052,8 @@
     "Obligation 13, monitoring service orders: establish a working group that meets regularly to discuss the integration needed between the hearing system and the special education system.",
     "Obligation 14a, customer support hotline: keep improving SupportHub and its processes in response to community feedback.",
     "Obligation 16a, parent notifications: draft the requirements and content for the automated service that emails parents at key milestones.",
-    "Obligation 16b, building the notification function: same as obligation 16a, with the department's technology division reviewing how the automated notifications will be generated.",
-    "Obligation 16c, deploying notifications publicly: see obligation 16a.",
+    "Obligation 16b, building the notification function: draft the requirements and content for the automated service that emails parents at key milestones, with the department's technology division reviewing how those notifications will be generated.",
+    "Obligation 16c, deploying notifications publicly: draft the requirements and content for the automated parent notification service, the step needed before the notifications can go live publicly.",
     "Obligation 20, nursing postings: provide copies of the communications sent to the health agencies.",
     "Obligation 24b, DAITS enhancements: confirm whether the database changes stabilized the older tracking system and share the stabilization and enhancement plans.",
     "Obligation 30, operating procedures manual: revise the first draft based on the special master's feedback and share an updated version with plaintiffs and the special master.",
@@ -10447,7 +13083,117 @@
     "education",
     "children and youth"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Finalize the list of form fields, have the hearing system team design and build the functionality and share the field list with OATH to promote integration between future data systems."
+    },
+    {
+     "n": 2,
+     "text": "Conduct user research with parents and draft a process for collecting relevant documentation before the hearing, with input from plaintiffs."
+    },
+    {
+     "n": 3,
+     "text": "Tell parents and representatives that SupportHub lets them submit several documents at once for authorization."
+    },
+    {
+     "n": 4,
+     "text": "Deploy the Polaris invoicing tool to the full community of vendors."
+    },
+    {
+     "n": 5,
+     "text": "Establish a working group that meets regularly to discuss the integration needed between the hearing system and the special education system."
+    },
+    {
+     "n": 6,
+     "text": "Keep improving SupportHub and its processes in response to community feedback."
+    },
+    {
+     "n": 7,
+     "text": "Draft the requirements and content for the automated service that emails parents at key milestones."
+    },
+    {
+     "n": 8,
+     "text": "Draft the requirements and content for the automated service that emails parents at key milestones, with the department's technology division reviewing how those notifications will be generated."
+    },
+    {
+     "n": 9,
+     "text": "Draft the requirements and content for the automated parent notification service, the step needed before the notifications can go live publicly."
+    },
+    {
+     "n": 10,
+     "text": "Provide copies of the communications sent to the health agencies."
+    },
+    {
+     "n": 11,
+     "text": "Confirm whether the database changes stabilized the older tracking system and share the stabilization and enhancement plans."
+    },
+    {
+     "n": 12,
+     "text": "Revise the first draft based on the special master's feedback and share an updated version with plaintiffs and the special master."
+    },
+    {
+     "n": 13,
+     "text": "Articulate the new process for monitoring service action items and assess its impacts."
+    },
+    {
+     "n": 14,
+     "text": "Add the parent-facing case status function to the scope of the next phase of the hearing system."
+    },
+    {
+     "n": 16,
+     "text": "Plan and design document sharing in line with the other data integrations."
+    },
+    {
+     "n": 17,
+     "text": "Provide documentation on the mobile functionality, including requirements and user research findings, and give the special master's team a demo."
+    },
+    {
+     "n": 18,
+     "text": "Gather and integrate the data assets and tell the parties when future performance reports will be delivered."
+    },
+    {
+     "n": 19,
+     "text": "Make the final changes decided at the December 5 conference and keep reviewing and improving the implementation website."
+    },
+    {
+     "n": 20,
+     "text": "Build the settlement notification rule into the design of the new hearing system."
+    },
+    {
+     "n": 21,
+     "text": "Determine lessons learned from missed cases and update the processes accordingly."
+    },
+    {
+     "n": 22,
+     "text": "Produce and share a communications plan for service orders and action items."
+    },
+    {
+     "n": 23,
+     "text": "Respond to the special master's email of March 21, 2024 about formally communicating the policy on required nursing forms."
+    },
+    {
+     "n": 24,
+     "text": "Draft the outline and template of the quarterly performance report."
+    },
+    {
+     "n": 27,
+     "text": "Create a process document for confirming that a student is receiving ordered home instruction."
+    },
+    {
+     "n": 28,
+     "text": "Create a process document for confirming that a student is placed in the school called for by the order."
+    },
+    {
+     "n": 29,
+     "text": "Share an annual training publication schedule and the process for updating training materials."
+    },
+    {
+     "n": 30,
+     "text": "Plan and scope user research for Phase II of the hearing management system."
+    }
+   ]
   },
   {
    "id": "audit-report-on-controls-over-payroll-personnel-and-purchasing-at-the-14-queens-community-boards",
@@ -10568,7 +13314,29 @@
     "Implemented": 3,
     "Pending": 2
    },
-   "status_as_of": "2025-08-28"
+   "status_as_of": "2025-08-28",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "All Queens board chairpersons should encourage district managers and staff to use their annual leave, limit authorizations to carry over excess leave where practicable and make sure district managers' timesheets are approved on time and promptly sent to the Queens Borough President's Office."
+    },
+    {
+     "n": 2,
+     "text": "All Queens boards should actively monitor leave accruals and require written authorization or conversion of excess annual leave to sick leave, obtain and verify vendor invoices before every payment and develop written policies for managing employee leave and purchasing."
+    },
+    {
+     "n": 3,
+     "text": "Community Board 12 should make sure the $826.82 overpayment is fully recouped."
+    },
+    {
+     "n": 4,
+     "text": "Community Boards 12, 13 and 14 should record each paid invoice number in the Financial Management System."
+    },
+    {
+     "n": 5,
+     "text": "Community Board 13 should consider hiring support staff as needed to support the district office's operations."
+    }
+   ]
   },
   {
    "id": "letter-re-audit-of-the-financial-and-operating-practices-of-the-3-staten-island-community-boards",
@@ -10630,7 +13398,21 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service."
+    },
+    {
+     "n": 2,
+     "text": "Limit authorizations to carry over excess annual leave where practicable."
+    },
+    {
+     "n": 3,
+     "text": "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+    }
+   ]
   },
   {
    "id": "letters-re-audit-of-the-financial-and-operating-practices-of-12-bronx-community-boards",
@@ -10696,7 +13478,21 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service."
+    },
+    {
+     "n": 2,
+     "text": "Limit authorizations to carry over excess annual leave where practicable."
+    },
+    {
+     "n": 3,
+     "text": "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+    }
+   ]
   },
   {
    "id": "letters-re-audit-of-the-financial-and-operating-practices-of-the-12-manhattan-community-boards",
@@ -10758,7 +13554,21 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service."
+    },
+    {
+     "n": 2,
+     "text": "Limit authorizations to carry over excess annual leave where practicable."
+    },
+    {
+     "n": 3,
+     "text": "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+    }
+   ]
   },
   {
    "id": "letters-re-audit-of-the-financial-and-operating-practices-of-the-18-brooklyn-community-boards",
@@ -10828,7 +13638,21 @@
     "money and contracts"
    ],
    "is_followup": false,
-   "compliance_note": ""
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Encourage the district manager to use annual leave and shrink the accrued balance to limit the lump sum payment owed when the manager leaves city service."
+    },
+    {
+     "n": 2,
+     "text": "Limit authorizations to carry over excess annual leave where practicable."
+    },
+    {
+     "n": 3,
+     "text": "Establish protocols for monitoring future leave accruals and ensure compliance with the personnel order's leave regulations."
+    }
+   ]
   },
   {
    "id": "metropolitan-transportation-authoritys-express-bus-accessibility-and-user-satisfaction",
@@ -10968,7 +13792,41 @@
    "status_tally": {
     "Pending": 8
    },
-   "status_as_of": "2025-10-28"
+   "status_as_of": "2025-10-28",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Immediately conduct refresher trainings on wheelchair lift operation and on Americans with Disabilities Act and MTA requirements for serving people with disabilities, including informing the Bus Command Center of lift issues, safely boarding customers, securing wheelchairs, making stop announcements and appropriate etiquette."
+    },
+    {
+     "n": 2,
+     "text": "Ensure all express bus drivers receive annual hands-on training in operating wheelchair lifts and give drivers field instructions for the lifts."
+    },
+    {
+     "n": 3,
+     "text": "Report express bus wheelchair lift deployments separately, including the number of failed and successful deployments."
+    },
+    {
+     "n": 4,
+     "text": "Pilot additional low-floor entry buses or other accessible designs and consider adopting them as vehicles are retired."
+    },
+    {
+     "n": 5,
+     "text": "Make meaningful efforts to engage the accessibility community on new bus designs, including in selecting pilots and features, and involve enough people with disabilities that their feedback can be projected to the population."
+    },
+    {
+     "n": 6,
+     "text": "Compare scheduled pickup and drop-off times to actual times and revise schedules so they are realistic and as accurate as possible."
+    },
+    {
+     "n": 7,
+     "text": "Address driver shortages and mechanical failures to minimize the impact of cancelations, and if shortages cannot be addressed, revise service schedules to minimize cancelations."
+    },
+    {
+     "n": 8,
+     "text": "Improve the MTA's communication apps so they give customers accurate and timely information on service alerts, bus locations and estimated arrival times."
+    }
+   ]
   },
   {
    "id": "audit-report-on-estate-asset-identification-and-management-practices-of-the-kings-county-public-administrators-office",
@@ -11182,7 +14040,81 @@
     "Pending": 2,
     "Partially Implemented": 1
    },
-   "status_as_of": "2026-02-17"
+   "status_as_of": "2026-02-17",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop a systematic process for clearing the backlog of pending cases, including prioritizing cases by age and value, identifying all related assets, liquidating them and closing cases out."
+    },
+    {
+     "n": 2,
+     "text": "If feasible, consider hiring vendors to help, including consultant case managers, organizers to link assets to the correct estates, temporary staff to process financial assets and auctioneers to speed the sale of long-held property."
+    },
+    {
+     "n": 3,
+     "text": "Consider asking OMB to increase KCPA's budget to hire the additional staff needed for effective case management, backlog reduction and a reasonable pace of administering and closing estates."
+    },
+    {
+     "n": 4,
+     "text": "Maintain an accurate and detailed master inventory of all decedents' personal property and record all of it in the decedents' accounts in the CompuTrust case management system."
+    },
+    {
+     "n": 5,
+     "text": "Ensure all personal property is inventoried and tagged with the estate number or decedent's name when placed in the vault or warehouse, stored in an organized manner and protected from damage."
+    },
+    {
+     "n": 6,
+     "text": "Ensure staff follow estate administration policies and procedures, including required searches for decedents' assets, with adequate documented oversight."
+    },
+    {
+     "n": 7,
+     "text": "Hire a locksmith to open the safe with the unknown combination, account for the coins listed as stored there and reset the code if the safe stays in use."
+    },
+    {
+     "n": 8,
+     "text": "As funding allows, consider getting appraisals for certain personal property before auctions and record the appraised values in inventory records and CompuTrust."
+    },
+    {
+     "n": 9,
+     "text": "Routinely check the New York State Comptroller's unclaimed funds office for potential estate assets, conduct new searches every six months until a case closes and its funds are distributed and keep documentation of unclaimed funds in estate files."
+    },
+    {
+     "n": 10,
+     "text": "Collect all personal and real property known to belong to decedents and record it in the appropriate estate accounts in CompuTrust."
+    },
+    {
+     "n": 11,
+     "text": "Obtain appraisals before selling properties to establish fair market value and keep all sale documentation, including advertisements, offers and auction records, in estate files and CompuTrust."
+    },
+    {
+     "n": 12,
+     "text": "Keep all documentation on identifying, collecting and depositing funds and other assets in the estate case file and in CompuTrust."
+    },
+    {
+     "n": 13,
+     "text": "Maintain an accurate running master list of all decedents' real estate holdings and record every property in decedents' CompuTrust accounts."
+    },
+    {
+     "n": 14,
+     "text": "Ensure legal documents are completed correctly during real property sales and that sales are accurately recorded in the right property database, such as the city's Automated City Register Information System (ACRIS), and in decedents' accounts."
+    },
+    {
+     "n": 15,
+     "text": "Keep all case-related documents and information in the estate case files and in CompuTrust."
+    },
+    {
+     "n": 16,
+     "text": "Establish written policies and procedures giving staff detailed guidance, consistent with the Surrogate's Court Procedure Act and state public administrator guidelines, for performing their duties."
+    },
+    {
+     "n": 17,
+     "text": "Collect the information needed to use CompuTrust to track cases and monitor lengthy delays in administering any estate."
+    },
+    {
+     "n": 18,
+     "text": "Accurately report required estate information to the Surrogate's Court, the New York State Comptroller's Office and the New York City Comptroller's Office."
+    }
+   ]
   },
   {
    "id": "audit-report-on-estate-asset-identification-and-management-practices-of-the-new-york-county-public-administrators-office",
@@ -11359,7 +14291,61 @@
     "Partially Implemented": 6,
     "Implemented": 7
    },
-   "status_as_of": "2025-10-30"
+   "status_as_of": "2025-10-30",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Strengthen oversight of investigators' home searches so everything found is consistently documented on the required reports and inventory records."
+    },
+    {
+     "n": 2,
+     "text": "Set target timeframes for conducting initial searches of decedents' homes and for appraising collected property that is not on hold."
+    },
+    {
+     "n": 3,
+     "text": "Keep using the newly adopted tamper-proof sealed bags with pre-printed inventory numbers to secure collected personal property."
+    },
+    {
+     "n": 4,
+     "text": "Use the CompuTrust case management system to record inventory transactions on time and itemize personal property with detailed descriptions and quantities."
+    },
+    {
+     "n": 5,
+     "text": "Establish controls so that when assets at a financial institution are identified the office promptly gets the balance, collects the funds and keeps at it until everything is credited to estate accounts."
+    },
+    {
+     "n": 6,
+     "text": "Routinely check the state comptroller's unclaimed funds website for open cases, pursue collection where possible and document those funds in estate files."
+    },
+    {
+     "n": 7,
+     "text": "Investigate the three unclaimed accounts the auditors identified and pursue collection where possible."
+    },
+    {
+     "n": 8,
+     "text": "Keep inventory lists of stocks and bonds up to date, liquidate them and deposit the money promptly, and mark the current status of any that are inactive or have living beneficiaries."
+    },
+    {
+     "n": 9,
+     "text": "Keep all supporting documents in each estate file, covering searches, asset collection, property sales, payments to creditors and any delays, including explanations when properties go unsold for long periods."
+    },
+    {
+     "n": 10,
+     "text": "Close estates on time, with reasons for delays clearly documented in the files."
+    },
+    {
+     "n": 11,
+     "text": "Investigate the unassigned cases the auditors identified, decide whether to administer or close them and update their statuses."
+    },
+    {
+     "n": 12,
+     "text": "Make sure payments are adequately supported and that accountings and close-out memos are prepared and kept in estate files."
+    },
+    {
+     "n": 13,
+     "text": "Report open and closed cases to the applicable oversight authorities as required."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-department-of-housing-preservation-and-developments-administration-of-the-affordable-neighborhood-co-operative-program",
@@ -11501,7 +14487,41 @@
     "Pending": 1,
     "Implemented": 7
    },
-   "status_as_of": "2025-06-16"
+   "status_as_of": "2025-06-16",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Develop a centralized mechanism to readily identify the specific issues delaying each project."
+    },
+    {
+     "n": 2,
+     "text": "Analyze the most common recurring causes of delay and develop strategies to address them, making programmatic and contractual changes to remove obstacles upfront."
+    },
+    {
+     "n": 3,
+     "text": "Regularly measure project progress against time benchmarks and act promptly to mitigate delays as they occur."
+    },
+    {
+     "n": 4,
+     "text": "Update the program brochure on the department's website with the most recent benchmark timeframes and targets for each stage of conversion."
+    },
+    {
+     "n": 5,
+     "text": "Develop new conversion completion targets for each pending project, share them with tenants and track and report progress against them."
+    },
+    {
+     "n": 6,
+     "text": "Keep exploring ways to build better communication and relationships with tenants about the conversion process, including possible surveys, and continue soliciting tenant feedback."
+    },
+    {
+     "n": 7,
+     "text": "Work with other city entities such as the City Council, the Office of Management and Budget and the Department of Buildings to streamline the approval process."
+    },
+    {
+     "n": 8,
+     "text": "Collect and review all information required after conversion to help keep each building financially solvent and ensure maintenance fees rise with building needs."
+    }
+   ]
   },
   {
    "id": "2025-01-31-status-report-on-local-law-42",
@@ -11561,7 +14581,17 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "The specific problematic provisions of Local Law 42 identified in the report should not be implemented pending resolution of the legal issues raised by the monitoring team's findings, with the court and parties determining the appropriate legal pathway to mitigate the potential for harm."
+    },
+    {
+     "n": 2,
+     "text": "After the court decides on remedial relief in the contempt proceedings, the court should direct the monitor to provide within 30 days a timeline for finalizing specific recommendations on how to address the problematic provisions in a way that is narrowly tailored and permits safe operation of the jails."
+    }
+   ]
   },
   {
    "id": "2025-01-28-nypd-social-media-assessment",
@@ -11627,7 +14657,33 @@
     "technology",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Memorialize in writing an internal review and approval process for posts on executive accounts."
+    },
+    {
+     "n": 2,
+     "text": "Update all relevant Patrol Guide and Administrative Guide sections to align with the citywide social media policy."
+    },
+    {
+     "n": 3,
+     "text": "Review the citywide social media policy and ensure NYPD complies with all of its requirements."
+    },
+    {
+     "n": 4,
+     "text": "Update the department's social media use policy to include rules and guidance on appropriate content and language for official accounts."
+    },
+    {
+     "n": 5,
+     "text": "Assign Digital Communications Officers to all social media accounts, including executive accounts, to keep posts consistent with citywide and department policy, and put the requirement in writing."
+    },
+    {
+     "n": 6,
+     "text": "Train all staff who use official agency social media on the citywide policy, the department's policy and best practices."
+    }
+   ]
   },
   {
    "id": "2025-01-24-status-report-on-remedial-measures",
@@ -11690,7 +14746,29 @@
    "topics": [
     "public safety"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Structure remedial relief around continuity in managing the Nunez reforms: a practical leadership structure with clear lines of authority, leaders with deep correctional expertise, maximizing work already underway and a willingness to make unpopular decisions."
+    },
+    {
+     "n": 2,
+     "text": "Define the structure of the relief up front, including specific, measurable criteria for terminating the remedial measure and a design that sustains reforms after court control ends."
+    },
+    {
+     "n": 3,
+     "text": "Focus the relief on priority areas: sound correctional practice to reduce the risk of harm, streamlined budgeting and hiring, staff assignment and absenteeism, an expanded supervisory structure, managing people after serious violence, staff accountability and engaging staff in reform."
+    },
+    {
+     "n": 4,
+     "text": "Preserve a neutral and independent assessment of the department's functioning during and after any remedial measure."
+    },
+    {
+     "n": 5,
+     "text": "Direct the monitoring team to manage the process of streamlining the Nunez court orders, submitting a timeline to the court within 30 days of the ruling on remedial measures."
+    }
+   ]
   },
   {
    "id": "2025-01-08-boe-equal-employment-opportunity",
@@ -11759,7 +14837,33 @@
     "labor",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Formally appoint a qualified EEO Officer reporting directly to both the executive director and the president of the Board of Commissioners, and properly staff the EEO office with qualified professionals."
+    },
+    {
+     "n": 2,
+     "text": "Communicate the identity and contact information of the EEO Officer and other EEO professionals to all BOE staff annually and at other appropriate intervals."
+    },
+    {
+     "n": 3,
+     "text": "Formally adopt the citywide EEO policy as the BOE's own, follow Department of Citywide Administrative Services (DCAS) guidance and include requirements for confidential independent investigations, referral of allegations against top officials to another city entity and detailed complaint and recordkeeping procedures."
+    },
+    {
+     "n": 4,
+     "text": "Train all BOE personnel, including executive management and commissioners, at regular intervals on the EEO policy and sexual harassment prevention."
+    },
+    {
+     "n": 5,
+     "text": "Report regularly to an external city entity, such as DCAS, on EEO activities including complaints, investigations, reasonable accommodations and training."
+    },
+    {
+     "n": 6,
+     "text": "Formally subject the BOE to audits and oversight by the New York City Equal Employment Practices Commission."
+    }
+   ]
   },
   {
    "id": "2025-01-08-nypd-security-details-elected-officials",
@@ -11819,7 +14923,29 @@
     "public safety",
     "transparency"
    ],
-   "is_followup": false
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Further develop substantive guidance on proper security detail use, updating the Protection Detail Guidelines with executive protection best practices from outside experts and clear rules for officers and protectees reflecting the Conflicts of Interest Law."
+    },
+    {
+     "n": 2,
+     "text": "Require and provide high-quality executive protection training, ideally from outside experts, to all personnel assigned to elected officials' security details, both inside and outside the Executive Protection Unit."
+    },
+    {
+     "n": 3,
+     "text": "Maintain appropriate records for all security details, such as detailed memo books and car logs establishing the location and time of each stop and other duties undertaken by detail members."
+    },
+    {
+     "n": 4,
+     "text": "Promptly review whether written security determinations exist for all elected officials currently assigned details, make and document determinations where they are missing and adjust assignments if needed."
+    },
+    {
+     "n": 5,
+     "text": "Regularly update written security determinations for elected officials and adjust details to reflect changes in identified threats, given the need to use limited government resources efficiently."
+    }
+   ]
   },
   {
    "id": "audit-report-on-the-development-and-implementation-of-the-new-york-city-fire-departments-fire-inspection-revenue-and-enforcement-system",
@@ -11963,7 +15089,41 @@
     "Pending": 1,
     "Implemented": 4
    },
-   "status_as_of": "2025-05-16"
+   "status_as_of": "2025-05-16",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Consult with legal counsel about available contract remedies for system functions that were paid for under the contract but never developed, tested or approved."
+    },
+    {
+     "n": 2,
+     "text": "Consult with the fire prevention and fire operations bureaus on business needs, fully implement automated inspection scheduling and routing based on inspector availability and require all units to use it."
+    },
+    {
+     "n": 3,
+     "text": "Add a feature that automatically alerts units when an inspection needs scheduling and disable the feature that cancels inspections not assigned within a set time."
+    },
+    {
+     "n": 4,
+     "text": "Consult with the Bureau of Legal Affairs and implement functions and two-way interfaces to automate summons issuance and transmission, court date and inspector scheduling, hearing disposition updates and appeals."
+    },
+    {
+     "n": 5,
+     "text": "Conduct refresher training for all system users."
+    },
+    {
+     "n": 6,
+     "text": "Consider the survey results, solicit more feedback from internal and external users and promptly address concerns about ease of use, functionality, connectivity and customer service."
+    },
+    {
+     "n": 7,
+     "text": "Ensure future system development and testing contract requirements are fully met and results are approved and documented before deployment."
+    },
+    {
+     "n": 8,
+     "text": "Ensure department information systems continuously receive updates to improve functionality and optimize workflow."
+    }
+   ]
   }
  ]
 }
