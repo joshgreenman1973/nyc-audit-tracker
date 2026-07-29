@@ -1,0 +1,91 @@
+{
+  "id": "2026-05-05-buildingcongress-construction-workforce-snapshot",
+  "source": "outside",
+  "auditor": "New York Building Congress",
+  "title": "2026 Construction Outlook Update - Workforce Snapshot",
+  "plain_title": "Who builds New York, and what the industry wants next",
+  "agency": "New York City government",
+  "issued": "2026-05-05",
+  "url": "https://buildingcongress.com/report/2026-construction-outlook-update-workforce-snapshot/",
+  "pdf": "https://buildingcongress.com/wp-content/uploads/2026/05/2026-COU-Workforce-Snapshot.pdf",
+  "what_they_audited": "An annual snapshot from the New York Building Congress, a membership association for the city's building and construction industry, profiling who works in construction in New York City and New York State using 2024 American Community Survey data. It ends with seven proposals aimed at federal, state and city action to widen the pipeline into the trades.",
+  "background": "The report counts workers in building and infrastructure projects, design, site preparation and excavation, governmental activities and construction consulting, as self-reported in the 2024 American Community Survey. It says the statewide construction workforce has recovered to about 98 percent of its pre-pandemic level and projects a return to pre-pandemic numbers by the end of 2027.",
+  "findings": [
+    {
+      "plain": "The statewide construction workforce reached 568,000 in 2024, close to the pre-pandemic level of 585,000. New York City accounted for about 45 percent of the state total.",
+      "quote": "Statewide, the construction workforce rose to 568,000 workers in 2024"
+    },
+    {
+      "plain": "The city workforce edged up to 253,000 in 2024, and about three quarters of those workers lived in New York City.",
+      "quote": "to 253,000 workers in 2024.  At this level, 73% or 185,000 workers were residents of"
+    },
+    {
+      "plain": "The city's construction workforce is majority non-white, with no single group in the majority. Hispanic workers were the largest share at 44 percent in 2024, and women were 8.7 percent of city construction workers.",
+      "quote": "with 66% non-White workers, virtually unchanged from"
+    },
+    {
+      "plain": "English is no longer the primary language for most of the city's construction workers. English was primary for 40.9 percent in 2024 and Spanish for 35.5 percent.",
+      "quote": "at 35.5% of workers, with all other languages each"
+    },
+    {
+      "plain": "The workforce is getting younger. The share under 25 rose statewide from 6.6 percent in 2021 to 8 percent in 2024, and in the city from 4.9 percent in 2020 to 6.2 percent in 2024.",
+      "quote": "were under age 25, a share that has risen from 6.6% in"
+    },
+    {
+      "plain": "Earnings are rising. In the city, 21 percent of construction workers earned over $100,000 in 2024, up from 16 percent in 2021, and 59.7 percent reported household incomes above $100,000.",
+      "quote": "growth trend, with 21% earning over $100,000 in 2024"
+    },
+    {
+      "plain": "Public transit is again the main way city construction workers get to job sites, and city commutes are long, with about 42 percent taking more than an hour.",
+      "quote": "48% of workers in 2024, up from 44.5% in 2022. This"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "568,000",
+      "label": "Statewide construction workers, 2024"
+    },
+    {
+      "value": "253,000",
+      "label": "New York City construction workers, 2024"
+    },
+    {
+      "value": "185,000",
+      "label": "City construction workers who live in the city"
+    },
+    {
+      "value": "8.7%",
+      "label": "Share of city construction workers who are women"
+    },
+    {
+      "value": "35.5%",
+      "label": "Share of city construction workers whose language is Spanish"
+    },
+    {
+      "value": "13,000",
+      "label": "New Yorkers in construction apprenticeships statewide"
+    },
+    {
+      "value": "91%",
+      "label": "International engineering graduates who leave the country"
+    }
+  ],
+  "recommendations": [
+    "Create federal immigration tools for infrastructure work, starting with an H-1B visa cap exemption and fast-track approval program for government-funded infrastructure, targeted at workers educated and trained in the United States in fields such as engineering, architecture, construction management, planning and key technical trades.",
+    "Lower the fees for federal certification and required training courses, particularly Occupational Safety and Health Administration training.",
+    "Expand Workforce Innovation and Opportunity programs, including the Youth Activities program, the Adult Employment and Training Activities program and the Dislocated Worker Employment and Training Activities program.",
+    "Expand career and technical education in New York public schools to prepare students for architecture, engineering and technology careers, and put more money into science, technology, engineering and math education for children and professionals.",
+    "Keep building on the New York Building Congress Young Professionals Committee's work recruiting and retaining younger workers in construction.",
+    "Increase minority- and women-owned business enterprise participation statewide by building a single place where those firms can bid on state, city and public authority projects.",
+    "Create incentives to expand childcare hours so construction families have childcare when they have to be on job sites outside standard working hours."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "education",
+    "transportation"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,527 @@
+1
+How to Advance and Strengthen the Plan to Close Rikers
+THE INDISPENSABLE ROLE 
+OF JUDGES IN CURTAILING 
+EXCESSIVE PRETRIAL 
+DETENTION AND CLOSING 
+RIKERS ISLAND
+APRIL 2025
+
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+1
+Every day in New York City courtrooms, judges make crucial decisions that determine whether the New 
+York City jail population increases or decreases. If the City is to meet its legal and moral obligation to 
+close the atrocious jails on Rikers Island, judges must change an array of pretrial practices that do not 
+advance either public safety or the statutory goal of assuring return to court. Court administrators, City 
+policymakers, and City and State legislators also have essential roles to play in aiding judges who wish 
+to make sound decisions by offering them credible data, regular training, reliable decision-making tools, 
+and expanded pretrial options other than bail and jail.
+For the benefit of all parties invested in erasing the stain of Rikers from New York City, this policy brief 
+summarizes research findings since the implementation of bail reform in 2020 and offers concomitant 
+recommendations directed to parties with influence over judicial decision-making. New York has a 
+unique opportunity to become a national leader in pretrial justice. We urge swift action to that effect.
+The Harmful Impact of Pretrial Detention in 
+New York City
+As of February 2025, almost 85% of the more than 6,800 people in the City’s jails every 
+day are held pretrial, while awaiting the outcome of their criminal cases. Jail sentences 
+account for another 8% of the jail population, with the remaining categories (e.g. held on parole 
+violation or awaiting transfer to state prison) combining for just over 7%.
+Excessive pretrial detention fundamentally weakens the legal system’s legitimacy. In 1987, 
+the Supreme Court ruled, “In our society, liberty is the norm, and detention prior to trial or without trial 
+is the carefully limited exception.” Unjustified detention is tantamount to premature punishment in the 
+absence of a conviction—undermining the bedrock principle that people are presumed innocent as 
+long as their cases are pending. 
+Mirroring findings elsewhere, studies from New York City indicate that pretrial detention coerces 
+people to plead guilty, leaving them with significantly higher conviction rates than similarly situated 
+people who are released. The same research found that after controlling for other factors, detention 
+increases both the likelihood and length of jail and prison sentences.
+Pretrial detention also extracts a devastating human toll—especially from society’s most 
+vulnerable members. People incarcerated in the nation’s jails and prisons, and specifically at 
+Rikers, suffer disproportionately from mental illness. Pretrial detention only exacerbates mental health 
+problems, especially when people with mental illnesses are held for prolonged periods—a common 
+occurrence due to New York City’s well-documented case processing delays.
+Detaining people can precipitate the loss of housing, employment, and future income—and can 
+aggravate pre existing housing and employment instability. A recent study in New York City found 
+that people detained before trial were 420% more likely than released people to become homeless, 
+74% more likely to lose their jobs, and 41% more likely to experience adverse effects on their ability to 
+provide for their children. 
+
+2
+These harmful effects of pretrial detention ripple out to thousands of children and families, 
+predominantly families of color. While the effects of a parent’s pre-trial detention specifically are not 
+well-studied, parental incarceration is included among the CDC’s adverse childhood experiences 
+(ACES) and the negative effects of the criminal justice process (including the stigma this brings with it) 
+on children’s well-being, education and health are significant and well-documented. Furthermore, the 
+trauma and violence experienced during pre-trial detention can have lasting effects that whole families 
+grapple with for years to come.
+The repercussions are especially horrifying at Rikers Island. Longstanding inhumane 
+conditions have only grown more violent and deadly in recent years. From FY 2011 to FY 2024, 
+incidents and allegations of use of force by correction officers skyrocketed almost sevenfold. Since 
+2020, the City’s jails have seen significant spikes in violence and failures by correction staff to bring 
+people to scheduled medical appointments.
+Shocking news reports point to decades of sexual assaults by correction officers and medical 
+personnel against women held at Rikers. Gothamist reporters found that during a one-year window, 
+women filed over 700 civil lawsuits against the Department of Correction (DOC) alleging sexual abuse, 
+accounting for more than 55% of all lawsuits filed across the City under the Adult Survivors Act.
+More than ever, Rikers warehouses people with mental health and housing needs, who are far better 
+served in their communities. Of those now in jail, 57% have needed mental health services during their 
+incarceration. In February 2025, 21% of those held had been diagnosed with a serious mental illness, 
+up from 16% in August 2021. Additionally, Correctional Health Services reports that as of February 
+2025, 24% had been diagnosed with an opioid disorder, and 26% reported they were homeless at the 
+time of their incarceration and/or likely to become homeless at the time of discharge.
+No Benefit to Public Safety
+Contrary to widespread misinformation in the media, detaining people before trial does 
+not promote public safety. Research in jurisdictions nationwide has consistently found that pretrial 
+detention does not affect crime or recidivism, with some studies finding that pretrial detention actually 
+increases recidivism.
+The same is true in New York. Using a five-year NYC dataset from 2009 to 2013, researchers found 
+that while detention lowered re-arrest rates during the pretrial period itself—an inherent result of 
+temporarily removing people from their communities—detention’s harmful social and psychological 
+effects increased re-arrest rates in the two years after case disposition.
+A more recent study found that people released pretrial in New York City after bail reform 
+(because their charges became ineligible for bail) had a significantly lower two-year re-
+arrest rate than similarly situated people who were assigned bail or detention before bail 
+reform. As for those still eligible for bail, the same study found no recidivism effect in either direction 
+when judges used their discretion to release people versus setting bail or remand. Another study found 
+bail reform had no net effect on recidivism in suburban and upstate New York. Two additional studies 
+found that bail reform had no effect on crime rates in either direction in New York City or across the 
+entire State. 
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+3
+Beyond New York, bail reforms did not alter crime or recidivism in Cook County, Illinois; they 
+decreased misdemeanor crime (with no effect on felony crime) in New Jersey; and they decreased new 
+criminal cases over three years in Harris County, Texas.
+Unfortunately, some sources have undermined an honest, data-driven public discourse by ignoring 
+credible research or misstating or cherry-picking certain results—but, overall, an unbiased summary of 
+available facts from the Brennan Center shows that detaining people pretrial is not making New Yorkers 
+safer.
+The Improper Nexus Between Bail and Jail
+Often overlooked, the historical purpose of cash bail was never to serve as an instrument 
+of incarceration; the original idea was to promote pretrial release with a money incentive 
+(by having “skin in the game”) to return to court. Yet across the country, courts routinely set 
+bail irrespective of people’s ability to pay it. In response, courts in California, Louisiana, Maryland, and 
+Texas all recently ruled that judges must assess and consider people’s finances before setting bail. 
+A judge in Dutchess County, New York, even issued a non-binding decision that a failure to consider 
+people’s ability to pay violates the due process and equal protection clauses of both the U.S. and New 
+York State constitutions.
+New York’s bail reform law limits ambiguity by explicitly requiring judges to “consider 
+and take into account” people’s “individual financial circumstances” and ability to post 
+bail without “undue hardship.” The reform also required that judges offer people the opportunity 
+to post bail via a partially secured bond (involving upfront payment of no more than 10% of the 
+total) or an unsecured bond (involving no upfront payment at all), and that judges consider people’s 
+financial ability to post one of these bonds. (A person posting these “alternative” forms of bails is still 
+responsible for the balance if the individual facing charges absconds.) Previous research suggests 
+that court attendance rates are as high with partially secured bonds as with cash bail. Unfortunately, 
+the evidence points to poor implementation of every single one of bail reform’s “ability to pay” 
+provisions (see next page, “Bail as De Facto Remand”).
+Vast Racial and Neighborhood Disparities
+Black and Hispanic New Yorkers disproportionately suffer from the pernicious effects 
+of bail and jail. Combined, Black and Hispanic New Yorkers make up close to 90% of the City’s jail 
+population. Black people alone account for nearly 60% of the jail population, compared to just 23% of 
+the City’s general population. In relative terms, Black people are currently jailed at a rate 11 times higher 
+than that of white people. Recent studies show that Black-white and Hispanic-white disparities have 
+both increased since 2019.
+Pretrial detention also disproportionately impacts predominantly Black and Hispanic communities. Of 
+the City’s 178 zip codes, just 40 zip codes (23%) accounted for 60% of 2021 jail admissions. In 90% of 
+these 40 zip codes, the population was majority or plurality Black or Hispanic. 
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+4
+Furthermore, in 92% of all zip codes citywide, Black residents made up a higher share of the zip code’s 
+jail admissions than its general population (see related maps).
+Evidence indicates that the status quo’s steep racial disparities stem partly from judges’ 
+decisions. In 2021, the City’s judges assigned bail or remand to 56% of Black, 51% of Hispanic, and 
+43% of white people facing violent felony charges—precisely the types of charges where judges have 
+retained the most discretion under bail reform. In 2022, another study found that even after controlling 
+for people’s individual and case characteristics, judges in New York City assigned bail or remand 8 
+percentage points more for Black and 6 percentage points more for Hispanic than white people.
+The latter study also found that Black, Hispanic, and white people had statistically 
+identical rates of failure to appear in court—refuting any notion that judges’ racially 
+disparate decisions have a defensible empirical basis. Echoing these results, the City’s 
+validated release assessment recommends virtually identical percentages of people from each racial/
+ethnic group for release on recognizance. Therefore, racial disparities in judges’ decisions can only 
+occur because judges are substituting their discretion for the science-based recommendations of this 
+assessment.
+Assessing Current Judicial Practices
+Besides contributing to racial inequality, judges’ decisions may produce excessive 
+pretrial detention for all groups in three ways:
+1.  Overuse of Bail: Judges may set bail (or remand people directly to jail) unnecessarily.
+2.  Bail as De Facto Remand: Judges may fail to make bail affordable when setting it.
+3.  Protracted Length of Stay: Judges may permit case delays that prolong the detention period.
+All three of these things are taking place. It is worth emphasizing, however, that judges are far from 
+the only relevant actors. Prosecutors’ unwarranted or excessive bail requests, and delays by the 
+prosecution or defense in turning over discovery, filing timely motions, or completing other trial-
+readiness tasks play a role. Yet judges are the ultimate decision-makers in their courtrooms.
+1.  Overuse of Bail and Detention
+Bail Practices in Conflict with Low Rates of Failure to Appear (FTA). A recent study found 
+that in 2022, just 16% of people released before trial in NYC missed any of their court dates. After 
+controlling for other factors, people charged with violent felonies had a lower FTA rate (14%) than other 
+charges. Yet the City’s judges used their discretion to set bail or remand people charged with violent 
+felonies nearly half the time (49%). Researchers estimated that given their charge and criminal history 
+characteristics, the people whom NYC judges detained would have had an FTA rate of 18%—nearly as 
+low as the people judges released. 
+Previous research suggests that unguided judicial discretion tends to result in over-detention. A recent 
+study in a different jurisdiction found that a validated assessment outperformed the judgment of 90% 
+of judges at assessing future risk and making decisions around bail and detention. In fact, 70% of 
+judges made decisions whose predictive accuracy regarding re-arrest proved no better than flipping a 
+coin. 
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+5 The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+These findings do not reflect on judges’ legal acumen. Judges are not trained to be experts in the 
+factors associated with FTA or re-arrest—the outcomes we nonetheless ask judges nationwide 
+to assess every single day (though under New York law judges may only consider FTA). What the 
+research literature does call into question is the tendency among many judges to make insufficient use 
+of decision-making tools that could help them make significantly better judgments and decisions.
+In the status quo, even as the City’s release assessment would yield fairer and more empirically 
+sound outcomes, judges often override it. One study found that when this assessment specifically 
+recommended release on recognizance (ROR) for people charged with violent felonies, judges set ROR 
+only 44% of the time. Even for nonviolent felonies recommended for ROR, judges set ROR just 67% of 
+the time.
+Reversion to Bail and Detention in Mid-2020. From the first to second half of 2020, judges swung 
+toward setting bail significantly more often in the exact same types of cases. Some have hypothesized 
+this change reflected judges’ public safety concerns at a time when serious crime was increasing 
+in cities nationwide. Yet as indicated above, the hard evidence never linked 2020 crime increases 
+to pretrial release policies—and the State’s judges may not legally base their pretrial decisions on 
+perceptions of public safety risk. Supporting New York’s approach, in other states where judges may 
+consider public safety risk, their perceptions of who is “high risk” are often mistaken; and as cited 
+above, these mistaken perceptions generally err in the direction of over-detention.
+Disparate Decision-Making from Judge to Judge. Studies in New York City and other 
+jurisdictions have found that judges vary substantially in their pretrial decision-making on comparable 
+cases—both pre-reform and post-reform. A study released last year found that after controlling for 
+the charges and criminal histories in each case, 14 NYC judges’ highly disproportionate use of pretrial 
+detention over two and a half years resulted in an additional 580 people detained and 154 added years 
+of pretrial detention, compared to their peers. While this study named the “most carceral judges,” 
+it also drew attention to a larger systemic failure: given the considerable discretion judges have 
+retained at arraignments and their demonstrated wide variability in exercising that discretion, 
+NYC arraignment courts produce unreliable and therefore inherently unfair decisions that rely 
+excessively on the “luck of the draw” of which judge arraigns a given person’s case.
+2.  Misuse of Bail as De Facto Remand
+Judges’ decisions to set bail amounts that people are unable to pay operate as “de facto 
+remand”—pretrial detention under the false guise of providing a chance at release on bail.
+Increasing Bail Amounts. Since bail reform went into effect, bail amounts grew higher, not lower. 
+From 2019 to 2021, NYC judges’ average cash bail amounts rose from $19,000 to $30,000, and median 
+bail rose from $7,500 to $10,000. (When breaking out bail amounts separately for misdemeanor and 
+felony bail cases, the increases from 2019 onward are more modest in magnitude.) Illustrating the gulf 
+between current practice and what is affordable, one study cited the example of the Bronx, where one 
+in five cash bails exceeded the borough’s median household income of $41,432 for an entire year.
+Low Bail Payment Rates. Multiple studies also found that bail-posting rates in the City have 
+declined since the pre-reform 2019 year. In 2022, just 9% of people assigned bail in the City could 
+pay it at arraignment, and even after five days, only 18% had posted bail. An upstate study reported no 
+courtroom discussion of what people could pay in 73% of observed bail cases, and judges sought to 
+arrive at an affordable amount in only 8% of cases.
+
+6
+Obstacles to Bail Payment with a Partially Secured Bond (PSB). First, evidence indicates that 
+judges often inflate the total amount on a PSB—driving up the required upfront payment. An analysis 
+conducted for this brief found that in 2023, PSB totals in NYC were a median of two times higher 
+than cash totals in the same cases—with 44% of bail cases seeing a PSB set three or more times 
+higher than cash and 20% seeing a PSB set five or more times higher. Another new study echoed 
+these findings: Researchers found that contrary to legislators’ intent, judges did not make a PSB the 
+most affordable option in 82% of bail cases from 2020 to 2023. Instead, obtaining bail money from a 
+commercial bond company was the most affordable option in 78% of the cases. Second, past reporting 
+found that judges at times refuse to honor people’s efforts to post a PSB even if they swear to a signed 
+affidavit accepting responsibility for the balance if the individual absconds. Perhaps reflecting these 
+roadblocks, a 2022 analysis found that only 20% of successful bail postings in the NYC Supreme Court 
+involved PSBs. Together, these practices make it harder for people to use PSBs, steering them toward 
+private bail bond companies that charge nonrefundable fees. Third, research conducted for this brief 
+indicates that judges rarely accept bail via an unsecured bond (USB), offered in 0.9% of 2023 bail cases. 
+On top of the impediments imposed upon people facing charges and their families, PSBs and USBs 
+impose greater administrative burdens on judges and court staff than cash bail or commercial 
+bonds do. PSBs and USBs require bail payers and defense attorneys to complete complex paperwork 
+and attend a court hearing at which they must swear to their representations. In turn, judges and court 
+staff must interrupt their daily schedules to preside over these procedures. By contrast, when cash bail 
+or a commercial bond is set, people can simply post bail at a payment window or obtain a commercial 
+bond bail by having a private company handle the administrative work. The inefficiencies to courts may 
+partly explain why people’s legal right to a PSB or USB is routinely compromised.
+To align with legislators’ intent and prevent courts from steering people toward exploitative commercial 
+bonds, the New York Court System must make PSBs and USBs more accessible by streamlining 
+procedures and eliminating unnecessary barriers that make these options harder to use than cash bail 
+or private bail bonds.
+3.  Protracted Length of Stay
+Felony Case Processing Times Well Above National and State Standards. Mirroring a widely 
+adopted national standard, New York has long mandated that its trial courts resolve indicted felonies 
+within 180 days. Yet even before the onset of recent delays, just 35% of indicted felonies met this 
+180-day standard in 2019, with only two-thirds of indictments resolved even after a year. Two recent 
+analyses drew a direct line from growing court delays to ballooning lengths of stay for people held in 
+pretrial detention at Rikers.
+Limited Use of Effective Case Management Practices. Older research uncovered a multitude of 
+reasons for the City’s case processing delays— including the practices of judges, prosecutors, defense 
+attorneys, the Department of Correction, and the Office of the Chief Medical Examiner (the latter of 
+which is known for untimely DNA testing)—many of which undoubtedly persist today. However, a 
+groundbreaking multisite study from the National Center for State Courts underscores the preeminent 
+role of judges. Researchers found that outcomes were better in jurisdictions in which judges 
+proactively triaged simple versus complex cases at the first court date; curtailed lengthy adjournments 
+between dates; held attorneys strictly accountable for on-time discovery, motions, and trial-readiness; 
+and scheduled case conferences to discuss bottlenecks and plea options. A pilot project in Brooklyn 
+adapted these practices, leading 80% of indicted felonies to be resolved in 10 months, compared to 
+60% for a matched comparison group. 
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+7
+Recommendations to Improve Pretrial Decision-
+Making
+Our recommendations are listed concisely and follow from the research cited above. Some of 
+our recommendations draw explicitly from a range of previous publications identifying strategies 
+for reducing pretrial detention in New York City through better judicial decision-making. In many 
+ways, these recommendations build on and complement those of the recently released Lippman 
+Commission report, an excellent resource for ideas around mental health, housing, and other diversion 
+investments.
+A)  Court Administrators (and Individual Judges)
+New York’s Chief Judge, Rowan Wilson, was only inducted two years ago. Promising early steps under 
+his leadership include instituting expanded judicial training on bail reform; endorsing the Treatment 
+Not Jail Act, which would increase access to the City’s effective mental health courts; and supporting 
+“Second Look” legislation, which would shorten certain prison sentences. And Chief Administrative 
+Judge Joseph Zayas has written about the drivers of case processing delays and offered ideas to 
+address them. Recently announced protocols aiming to reduce felony case delays suggest that the 
+Office of Court Administration (OCA) intends to enact some of these ideas. We hope that OCA under 
+Chief Judge Wilson and Chief Administrative Judge Zayas will continue implementing helpful reforms 
+and supporting promising legislation.
+1.  Promote Culture Change via Training and Information Sharing. Partner with City agencies 
+to implement a rigorous system of live and online judicial trainings and bench card dissemination on key 
+topics (as proposed above), and pursue other avenues for sharing critical research with judges:
+	
+►Value of the Release Assessment: Ensure judges are acquainted with evidence supporting the 
+validity of the City’s release assessment and encourage greater adherence to it, especially for violent 
+felonies that are nearly all eligible for bail—given the reality that limited use of this assessment is 
+presently leading to over-detention, racial disparities, and variable decisions from judge to judge
+	
+►Role of Race: Share research demonstrating that people’s race and ethnicity have no credible link to 
+FTA, despite a reality of significant racial disparities in current bail and detention decisions.
+	
+►First Arrests: As recommended elsewhere, highlight for judges that research finds people with 
+no prior arrest pose an especially low FTA risk even when violence is alleged. Judges should also 
+consider that FTA risk remains low for people with only a single prior arrest or conviction and only 
+increases to any appreciable degree when there are multiple pending cases, prior misdemeanors 
+(especially five or more), or previous missed court appearances. It is, furthermore, imperative to 
+share with judges that people’s FTA risk does not increase merely because the current charge is a 
+violent felony; to the contrary, in all regions of the state including the city, a violent felony charge 
+is associated with a lower FTA risk. Lastly, it is important for judges to be secure in the knowledge 
+that even when people are charged with a bail-eligible violent felony, they see significant recidivism 
+reductions when they are released if it is a first-time arrest.
+	
+►Legal Purpose of Bail: Reinforce that pretrial decisions are solely to ensure return to court and that, 
+under State law, judges may not base decisions on their perceptions of public safety risk. Encourage 
+setting ROR in cases where the empirical evidence points to little or no FTA risk.
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+8 The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+2.  Revamp the Administration of Partially Secured and Unsecured Bonds. Offer guidance 
+to judges on the use of partially secured bonds (PSBs) and unsecured bonds (USBs) in tandem with 
+systemic reforms to ease the burdens judges and court staff now face when administering these bonds.
+	
+►Study Current Obstacles and Make Recommendations: Convene NYC judges, defense attorneys, 
+prosecutors, and experts to determine structural solutions. These could include, for each borough’s 
+criminal court, consolidating PSB and USB hearings in a single courtroom with sufficient time and 
+expertise to process these bonds, creating a way to pay PSB and USB during nights and weekends, 
+and disseminating advisory principles to all judges for setting PSBs and USBs—for example, PSB 
+totals comparable to cash totals on the same cases and automatic honoring of people’s efforts to pay 
+PSBs and USBs absent objections by prosecutors.1
+	
+►More Options Besides Cash and Commercial Bonds: Remind judges that New York has nine 
+forms of bail and there is no limit to the number of these forms that judges may make available. 
+Encourage judges to offer people and their families and friends more ways to post bail—but 
+to limit poor people’s exposure to exploitative, non-refundable fees, discourage reliance on 
+commercial bonds. 
+	
+►Unsecured Bonds: Recall that the reformed bail statute draws explicit attention to unsecured bonds 
+as a form of bail judges may order in lieu of a PSB. Encourage judges to set USBs in more cases and, 
+as a lawful process matter recommended by the NYC Comptroller’s Office, “direct judges to first 
+consider and state any reasons for not setting an unsecured bond.” 
+3.  Prepare Judges Newly Assigned to Arraignment. Ensure that all judges newly assigned 
+to arraignments—whether for a one-off evening, night, or weekend shift or a long-term daytime 
+arraignment assignment—have access to key information through training or reference documents. 
+Provide live or recorded training by researchers and experts concerning the release assessment, 
+factors that demonstrably do and don’t predict FTA, and findings from credible studies in New York and 
+nationwide around pretrial detention, crime, and recidivism. Consider requiring that judges complete an 
+online training on relevant legal and empirical issues before they sit in arraignments.
+4. Hold Mandatory Bail Reviews. Implement “second look” bail reviews, including at a minimum: 
+	
+►Early Rehearing When People Cannot Pay Bail: Hold an automatic bail review before a dedicated 
+Supreme Court judge in each borough when people cannot swiftly post bail (when they are detained 
+for more than 5-7 days). Also, pass a neglected legislative provision from the Governor’s FY 2019 
+budget bill that required such a rehearing—after which people must be “reasonably able to pay” any 
+resulting bail. 
+	
+►Standard and Goals Rehearing: Hold a pretrial detention hearing for everyone still detained 
+180 days after indictment (either on bail or remand), honoring the State’s official benchmark to 
+resolve indicted felonies by this juncture. At this hearing, judges should be encouraged to lower 
+bail or release people with conditions like supervised release—potentially alongside intensive case 
+management (ICM), treatment attendance, housing linkages, or other individualized supports that 
+can be identified by a needs assessment.
+1 As a matter of law, judges may only reject bail payers’ representations if the prosecutor first raises the issue and, based on 
+a further inquiry, if the judge also finds “reasonable cause” to believe that the individual wrongfully or illegally possesses the 
+money they propose to use.
+
+9
+5.  Reform Case Processing. Promote best practices for managing felony caseloads, such as:
+	
+►Training: Have experts at the National Center for State Courts (or other experts) train all judges on 
+case management practices that have been proven to be effective and ineffective across the country. 
+	
+►Brooklyn Model: Adapt the Brooklyn pilot to Supreme Courts in each borough in ways feasible for 
+each borough’s resources, culture, and practices.
+	
+►Discrete Reforms: Swiftly adopt one or more individual elements of good case processing (e.g., 
+regular case conferences, expedited discovery, or adjournments capped at time needed to complete 
+between-appearance tasks in lieu of generic 30-40-day intervals). In this regard, OCA has already 
+taken an important step forward with its announced new case processing strategies; they include 
+“scheduling orders” and “case conferences,” discrete reforms that align with best practices according 
+to both national research and findings from the Brooklyn pilot.
+	
+►Homicide Delay Task Force: It is well understood that homicides cannot be resolved as quickly as 
+other cases. Prior New York City research indicates that homicides average 1.8 times longer to reach 
+a disposition than other violent felonies and 2.6 times longer than nonviolent felonies. Yet research 
+also calls into question the need for homicides to require over 20 months of case processing time, as 
+they have in the City. To address the unnecessary reality that murder charges presently account for 
+close to 900 people held in pretrial detention, with attempted murders accounting for nearly another 
+600, launch a task force to identify the obstacles and propose solutions to shrink their pretrial 
+processing time. At a minimum, the task force could include judges, prosecutors, defense attorneys, 
+city officials, and experts on case processing data, as well as people skilled at meeting facilitation to 
+ensure the development of viable strategies and plans to promptly implement them.
+6.  Benchmarks. Enforce target performance standards for the city’s court system and monitor 
+progress in achieving them:
+	
+►Bail-Setting: Given documented high rates of return to court (e.g., only 16% of people in 2022 failed 
+to appear), set a commensurate benchmark for how often bail should be set on violent felonies and 
+other bail-eligible cases: e.g., bail or remand used in no more than 20% of cases.
+	
+►Bail Payment: Given documented low rates of bail payment (e.g., 9% at arraignment in 2022), 
+encourage more frequently setting bail at an amount that people can pay: e.g., a bail-posting rate of 
+50% at arraignment, 75% within a week, and 90% within a month.
+	
+►Detention Time Limits: Prioritize capping pretrial detention stays at a maximum of 180 days; to help 
+get there, set an adjournment length cap of no higher than 4 weeks between appearances. 
+7.  Make Public Data Improvements: Based on consultation between the State’s Office of Court 
+Administration and Division of Criminal Justice Services, make public additional case-level (i.e. raw) 
+pretrial data semi-annually, including: (1) bail eligibility status (yes/no); (2) any prior arrest; (3) number 
+of prior warrants for failure to appear; (4) number of pending cases; (5) prosecutor’s requested release 
+condition and, if bail, prosecutor’s requested bail amounts (by form of bail); and (6) number of bail 
+review hearings for people detained and outcome of each such hearing (continuation of prior decision, 
+revised bail amounts, ROR, supervised release, etc.).
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+10
+8.  Establish a Central Point of Contact. Appoint a senior Office of Court Administration (OCA) 
+attorney or a Deputy Chief Administrative Judge with relevant experience and a commitment to the 
+issues to oversee all court policy related to closing Rikers, and authorize this leader to seek and act on 
+counsel from a wide range of partners and experts. 
+B)  City Agencies
+Although not a part of the court system, New York City agencies have an important role to play in 
+pretrial reform. Through the mayoral administration’s ability to invest in new programs and tools, 
+conduct or fund research, and convene stakeholders, it can accomplish a great deal to help judges in 
+their work. 
+1.  Offer Training and Analysis. Provide judges with essential information via formal training and 
+regular retraining on the science and use of the City’s: (1) release assessment, (2) supervised release 
+model, and 3) available Alternative To Incarceration Programs. Create monthly and quarterly status 
+reports on the effectiveness of these programs to share with judges so that they understand the 
+programs’ impact. 
+2.  Disseminate Bench Cards. Work with court administrators to place “bench cards” (concise but 
+information-rich cheat sheets) in every courtroom reminding judges of key facts about, respectively: (1) 
+the release assessment; (2) supervised release; (3) electronic monitoring; (4) strategies for assessing 
+ability to pay bail; and (5) nationally and locally documented effective practices to reduce case delay.
+3.  Prioritize the Release Assessment: Besides training, take additional concerted action, including: 
+	
+►Public Dashboard: Create an information-rich dashboard updated monthly or quarterly that shows 
+citywide and borough-wide rates of adherence to the release assessment—especially for violent 
+felonies and other bail-eligible cases—with breakdowns by borough, charge severity and type, and 
+demographics. 
+	
+►Data Transparency: Make de-identified case-level release assessment, charge, demographic, 
+arraignment outcome, and FTA data public, enabling other researchers to independently analyze it.
+	
+►Revalidation: Study and, if needed, update the release assessment to ensure the City’s ongoing 
+ability to present it to judges as a state-of-the-art, fair, and reliable decision-making aid. (Note: State 
+law requires all pretrial assessments to be “regularly revalidated.”) Contrary to current practice, 
+consider validating and using the release assessment for all cases, including homicide cases.
+4.  Launch an Ability to Pay Assessment. Develop and implement a science-based ability to pay 
+assessment. Administer it after a judge sets bail or beforehand at the court’s request, and promptly 
+notify the court of the findings—potentially leading to a “second call” if the individual has not yet been 
+transported to jail. Report data on the tool’s results, the gap between these results and judges’ bail 
+amounts, and bail-posting rates, with key breakdowns (e.g., by borough, charge, and demographics).
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+11
+5.  Expand Pretrial Options for Judges. Fully fund expanded intensive options besides bail—
+especially given research that certain high-risk populations (e.g., pending case or recent prior violent 
+felony arrest) pose an outsize recidivism risk:
+	
+►Intensive Case Management (ICM): Expand the City’s underfunded pretrial ICM model to all 
+arraignment shifts and all five boroughs, train judges in how it works, and assure judges that all 
+eligible people will receive it.2
+	
+►Supervised Release Plus Treatment: In lieu of bail, remind judges that they may legally order 
+“mandatory programming”—supervised release PLUS treatment or social services—should an 
+individualized assessment indicate that a person faces significant barriers to court attendance, which 
+certain treatment programs or services could address.
+6.  Assess People’s Needs. For cases posing a modicum of FTA risk, invest in the capacity to 
+conduct a holistic pre-arraignment needs assessment to identify individualized community-based 
+services capable of mitigating risk. In addition, conduct a needs assessment once people are detained—
+leading to a report formally submitted to the court (and to the defense and prosecution) concerning 
+viable release options with services.
+7.  Convene Stakeholders. Use the City’s unique ability to convene system and community 
+stakeholders and experts to spur productive dialogue and fresh strategic planning. For starters, with a 
+revamped membership and well-organized action agendas, re-launch the Closing Rikers Implementation 
+Task Force (2017-2019) and Justice Reboot initiative (2015-2016), the latter of which previously provided 
+a key forum for tackling bottlenecks in felony case processing. Work to productively build on a novel 
+Review Program launched over the past year, featuring individualized assessments of detained 
+individuals. Encourage the judiciary, prosecution, defense bar, corrections, mayor’s office, and other 
+implicated agencies to forge agreements for releasing specific individuals unnecessarily detained before 
+trial; and to this end, consider establishing the research-based Population Review Team model in each 
+borough.
+B)  City Legislatures
+State legislators passed New York’s groundbreaking bail reform law, which reduced bail setting and 
+pretrial detention from what they would have been, while reducing recidivism and having no effect 
+on crime in the City. In turn, the City Council can take a number of steps to move the reform process 
+along.
+1.  Mandate an Ability to Pay Assessment. Pass a City law requiring the Mayor’s Office of Criminal 
+Justice (MOCJ), or a group contracted by MOCJ, to develop and administer a valid ability to pay 
+assessment (subject to defense consent) at the court’s request or, otherwise, immediately after the court 
+sets bail; mandate prompt notification to the court of the assessment’s findings; and provide for public 
+reporting (see above, recommendation #1d). 
+2 The Intensive Case Management (ICM) model is a supervised release track designed for high-risk people. While this 
+track’s existence offers the prospect of increasing judges’ confidence in ordering supervision in lieu of bail, the City to-date 
+is only making it available to a fraction of eligible people in Manhattan and Queens. Even in those boroughs, judges cannot 
+currently trust that the validly high-risk people they assign to supervised release will always receive this model.
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+12
+2.  Track Racial Disparities. Pass a City Council reporting bill that would require the Mayor’s Office 
+of Equity and Racial Justice to issue an annual report providing the following for all racial and ethnic 
+groups and with further breakdowns by borough, charge severity, bail eligibility status, and release 
+assessment recommendation:
+a. Pretrial Release Decisions: Number and percentage for each respective subgroup assigned: (1) 
+released on recognizance, (2) supervised release, (3) other non-monetary conditions, (4) bail (omitting 
+$1.00 bail), and (5) remand.
+b. Bail Amounts: Average and median cash, commercial bond, and partially secured bond total.
+c. Bail-Posting: Bail payment rates at arraignment and within one week.
+d. Forms of Bail: Of all cases assigned bail, number and percentage offered each of the nine possible 
+forms of bail; and of those posting bail, number and percentage of bail payers posting each form.
+The Staggering Financial and Human Cost of 
+Incarceration at Rikers
+Considering this brief’s evidence of unwarranted pretrial detention in the status quo, it is 
+astonishingly wasteful that according to the NYC Comptroller’s Office, taxpayers doled 
+out $507,317 per person per year to house people at Rikers in FY 2023 (up from $144,176 
+in FY 2011). The City’s Preliminary FY 26 Budget includes over $2.8 billion for the Department of 
+Correction—money that could be more productively spent on human needs such as mental health, 
+housing, education, and crime prevention. While the City blithely invests billions in Rikers every 
+year, a court-appointed federal monitor has released over 50 reports and letters since 2014 that 
+portray a correctional system defined by unremitting mismanagement, dysfunction, violence, and 
+dehumanization.
+ ********************************************************************************* 
+Ultimately, the cost of needless pretrial detention borne by taxpayers parallels the heartbreaking 
+human cost if New York City does not seize the opportunity its leaders and residents possess 
+to launch wide-ranging, data-driven reforms starting today. Since judges’ pretrial decisions 
+determine how many New Yorkers continue to languish needlessly at Rikers, it is imperative that 
+policymakers launch strategies expressly designed to improve judicial outcomes.
+The following organizations contributed to and support the findings and recommendations 
+outlined above: Freedom Agenda, Data Collaborative for Justice, Vera Institute of Justice, 
+Visionary V Ministries, Mental Health Project, Women’s Community Justice Association, Jails 
+Action Coalition, Black Attorneys of Legal Aid, Bronx Connect, and Center for Community 
+Alternatives.
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island
+
+The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing 
+Rikers Island
+APRIL 2025

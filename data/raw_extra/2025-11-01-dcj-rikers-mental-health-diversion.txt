@@ -1,0 +1,448 @@
+TITLE: Rikers Island and Mental Health: Pathways Toward Community-Based Diversion and Jail Population Reduction
+URL: https://datacollaborativeforjustice.org/work/diversion/rikers-island-and-mental-health-pathways-toward-community-based-diversion-and-jail-population-reduction/
+ISSUED: 2025-11-01
+PDF: https://datacollaborativeforjustice.org/wp-content/uploads/2025/11/Katal_DCJ_Report_.pdf
+
+Rikers Island and Mental Health:
+Pathways Toward Community-Based Diversion and Jail Population Reduction November 2025
+
+TABLE OF CONTENTS
+i
+EXECUTIVE SUMMARY..........................................................................................................ii Introduction and Context: Closing Rikers Island .............................................................1 Latest Facts about Mental Health in the New York City Jails........................................4 Case Studies............................................................................................................................9 Policy Recommendations....................................................................................................14 ENDNOTES............................................................................................................................23 AUTHORS' NOTE This report was prepared by Michael Rempel, Krystal Rodriguez, and Kellyann Bock from the Data Collaborative for Justice at John Jay College, and Yonah Zeitz, gabriel sayegh, and Melanie Dominguez from the Katal Center for Equity, Health, & Justice.
+The authors are deeply indebted to Zachary Katznelson at the Independent Rikers Commission for his many excellent suggestions after reviewing an earlier version of the report. We are also grateful to Casey Dalporto from the New York County Defender Services and Minister Chibueze Okorie, Director of Project Connect at the Church of Gethsemane, for helping connect us with individuals for the case studies.
+We appreciate the support of Dana Kralstein and Lenore Lebron for, respectively, analyzing data obtained by the Center for Justice Innovation on mental health court participants across New York City and providing initial referral reasons and participant numbers for the Brooklyn Mental Health Court.
+The original data source for citywide mental health court participation data is the New York State Office of Court Administration (OCA). The opinions, findings, and conclusions expressed in this publication are those of the authors and not those of the New York State Unified Court System, which assumes no liability for its contents or use thereof. OCA data provided herein does not constitute an official record of the New York State Unified Court System, which does not represent or warrant the accuracy thereof.
+The Katal Center is thankful to John Jay College’s Data Collaborative for Justice for their partnership and commitment to this report. Conversely, the Data Collaborative for Justice thanks the Katal Center for its leadership in conceiving the project and is grateful to Yonah Zeitz for coordinating the work throughout.
+
+ii
+Executive Summary
+The New York City Council established a legal deadline of August 31, 2027 for closing the jails on Rikers Island and building smaller modern jails in the City’s four large boroughs.1 The replacement jails, when combined with over 300 secure hospital beds for people with serious medical or mental health conditions, will hold a citywide capacity of about 4,200 people on any given day.2 However, since reaching a low watermark of 3,809 in April 2020,3 the City’s daily jail population has grown to nearly 7,000—alongside a ballooning sub-population in need of mental health treatment.4 Today, Rikers is the largest mental health facility in New York City and among the largest in the country.5 The goals of the current research and policy brief are threefold:
+1. Present updated data about the mental health needs of people held in the NYC jails.
+2. Reveal the individuals behind these facts through select case studies.
+3. Identify a continuum of safe and effective jail diversion strategies for this population.
+Latest Facts About Mental Health in NYC Jails Currently, close to 7,000 people are held in the City’s jails, of whom 85% have been detained before trial. Black people make up 58% of the jail population, compared to 23% of the City’s general population. In absolute terms, over twice as many Black people as the next highest racial/ ethnic group are in jail while flagging for mental health.
+ ■Mental Health Prevalence: Over the same 2020-to-2025 timeframe that saw a significant jail increase, overall, the fraction of the jail population receiving mental health services climbed from 44% to 60%,6 and the fraction diagnosed with a serious mental illness rose from 17% to 22%.7 The latest health data also indicates that 25% have an opioid use disorder, 30% have an alcohol use disorder, and 28% are homeless or “likely to be homeless” when released,8 a figure that rises to 42% for those with a serious mental illness.9 ■Medical Conditions: As of September 2025, 28% of people held in jail were diagnosed with lung disease, 15% with cardiovascular disease, 8% with neurologic disease (e.g., epilepsy or stroke history), 6% with diabetes, 4% with hepatitis B or C, 3% with stage 3+ chronic kidney disease, 3% with HIV/AIDS, and 1% with a malignancy.10 ■Missed Appointments: In September 2025, there were 15,823 missed medical appointments compared to 3,626 in September 2020.11 A recent monitors’ report indicated that from July to September 2024, people were produced for only 53% of scheduled mental health appointments and 77% of reentry planning appointments.12 ■Disproportionate Gender Impact: Of close to 500 women jailed at Rikers as of October 2025, 87% have needed mental health services, compared to 58% of men.13 ■Disproportionate Length of Stay: On average, as of October 31, 2025, people in the latest jail population needing mental health services had been held for 281 days, compared to 212 days for people not needing such services. Controlling for people’s background characteristics, a recent analysis found that flagging for mental health within ten days of jail intake predicted a total length of stay 34 days longer than people who never flagged.14
+
+iii
+Case Studies
+The four case studies in this report highlight the trauma, dehumanization, and lack of treatment that people with mental health diagnoses face while incarcerated at Rikers. These case studies feature two people who were incarcerated at Rikers while dealing with mental health issues, one mother whose son was previously incarcerated at Rikers, and one mother whose son is currently incarcerated at Rikers.
+Recommendations
+The rest of this summary headlines our 15 proposals. Please see the full report for details.
+A. City-Led Continuum of Expanded Diversion Options In interviews for a recent Rikers Commission report, judges indicated they would be amenable to releasing more people if they had confidence that suitable community-based treatment options existed.15 Yet, especially for people with a severe mental illness or co-occurring mental health and drug disorders, current community options are insufficient.
+1. The City should seek to maximize approved utilization of available funds from the New York State Opioid Settlements to support implementation of recommendations in this report.16
+2. To meet the needs of underserved individuals with co-occurring drug and mental health disorders: (a)
+establish more dedicated residential treatment beds, (b) train people with lived experience to provide peer support;17 (c) offer training to service providers; and (d) improve public data quality on the dually diagnosed population at Rikers.
+3. Increase the number of Justice Involved Supportive Housing (JISH) slots and rectify the late implementation of JISH housing that the City Council has already approved.18
+4. Expand transitional and emergency housing beds as additional alternatives to detention for people who would otherwise be unstably housed upon jail discharge.
+5. To alleviate pressure on residential treatment and supportive housing providers, pair in-home treatment with case management for those severely mentally ill people who have a place to reside— using established models including Health Homes, Assertive Community Treatment (ACT) teams, Forensic Assertive Community Treatment (FACT) teams, and the Intensive Mobile Treatment (IMT)
+model.
+6. Fund dedicated outpatient slots for a range of mental health needs among justice involved individuals, alongside service provider training and investments in evidence-based treatments.
+7. Ensure sustained care at the point of reentry, building on existing initiatives such as Osborne Kinship Reentry Housing and clubhouse models situated in community-based “drop-in” settings.
+EXECUTIVE SUMMARY
+
+iv
+EXECUTIVE SUMMARY
+B. Alternatives for People at All Stages of Mental Competency Proceedings About 200 or more people are held at Rikers due to pending proceedings to determine their mental fitness to stand trial: i.e., whether they can understand the court process or assist in their own defense.19 Apart from the intrinsic harms of jailing people who may need intensive treatment, reports indicate this population is at times subject to “deadlocking,” where correction officers lock people in mental health units for lengthy periods.20
+8. For people in mental competency proceedings, create and fund suitable community-based treatment options in lieu of incarceration at each of three key stages: (a) pending a mental competency assessment and determination, (b) after found unfit to stand trial, and (c) after subsequently restored to competency.
+C. Greater Access to Mental Health Courts Policymakers should take steps to expand access to New York City’s mental health courts, which enrolled less than 360 participants (representing 0.2% of arraigned cases) in 2023.21
+9. Pass the Treatment Court Expansion Act or similar legislation,22 granting judges the authority to order a clinical assessment and enroll anyone in a mental health court who is deemed to have a functional impairment, regardless of the charge.
+10. Ensure good implementation of mental health courts and take other measures to promote clinically informed decision making, such as training judges in mental illness, mental health court operations, and these courts’ effectiveness with varied populations, including those charged with a violent felony.23 D. Effective Linkages from Courts and Jails to Community-Based Treatment Even if ample community-based treatment options exist and judges and attorneys want to use them, this does not mean that people with pending criminal cases can automatically obtain a slot. City agencies, courts, and service providers must establish clear written protocols and train all parties in how to swiftly move people in need “from here to there.”
+11. Provide regularly scheduled updates to the court regarding the prevalence of mental illness and the latest data on conditions at Rikers Island.
+12. Inform and train judges, prosecutors, and defense attorneys in available community-based treatment and housing options.
+13. Ensure seamless coordination with treatment providers, including written protocols around how courts and court-based case managers can swiftly place people in treatment or housing slots reserved for system-involved individuals.
+14. Establish procedures for conducting individualized assessments to identify suitable community-based pretrial release options in lieu of jail, including: (a) pre-incarceration mental health screening either before or right after arraignment; (b) protocols to communicate a release recommendation to the court immediately after jail intake; (c) regular reassessments of people’s mental health if they remain
+
+v
+EXECUTIVE SUMMARY
+in jail; (d) ongoing monitoring of jail admission and discharge trends to inform what numbers of community-based providers and treatment slots are necessary; and (e) protocols to protect client confidentiality regarding sensitive personal information.
+E. Hospital-Based Secure Therapeutic Beds in Lieu of Rikers This recommendation is a last resort for people who would otherwise suffer at Rikers.
+15. Act swiftly to bring 350 promised secure off-jail hospital beds online for people with a serious medical condition or mental illness, while rigorously and objectively considering whether more such beds may be necessary.24
+
+1
+Introduction and Context: Closing Rikers Island In 2019, the New York City Council approved a plan to close the jails on Rikers Island by 2027.
+One of the essential components was reducing the City’s daily jail population. Yet since the spring of 2020, the jail population has grown to nearly 7,000—alongside a ballooning subpopulation with demonstrable mental health needs.25 The latest trends intensify preexisting challenges to the City’s ability to care for people sent to Rikers—a notorious jail complex long known for the dangerous conditions that afflict incarcerated people and correctional staff, alike. Conditions have become so severe that in May 2025, a U.S. District Court Judge issued a decision to take Rikers Island out of the City’s control and appoint an independent “remediation manager” to address widespread constitutional violations.26 Currently, 60% of the jail population has documented mental health needs,27 and 22% are diagnosed with a serious mental illness for which proper care at Rikers is impossible,28 even under the best efforts of Correctional Health Services. Accordingly, today’s policymakers have an opportunity to substantially—and safely—shrink the jail population by planning and investing in mental health diversion and treatment.
+The goals of this research and policy brief are threefold:
+1. Updated Data: Provide the latest facts concerning the prevalence and characteristics of people with mental health needs in the New York City jails.
+2. Case Studies: Reveal the people behind these facts through select stories and experiences of those impacted by traumatizing conditions at Rikers.
+3. Policy Recommendations: Integrate reform ideas introduced elsewhere with additional mental health diversion strategies capable of advancing both individual wellbeing and public safety.
+Context: The Plan to Close Rikers Island On October 17, 2019, the New York City Council voted to close Rikers Island and build smaller, modern jails near courthouses in each of the four large boroughs.29 The approved plan required capping the cumulative number of people incarcerated at 3,300 on any given day.
+On February 25, 2021, former Mayor Bill de Blasio signed additional legislation establishing a legal deadline of August 31, 2027 to end all incarceration at Rikers.30 Facilitating Rikers’ closure, nearly three decades of crime, enforcement, and incarceration reductions led New York City’s daily jail population to fall from over 20,000 people in 1991 to less than 7,300 when the Rikers closure plan received Council approval in 2019.31 Then, swiftly following implementation of the State’s bail reform law in January 2020,32 and purposeful and coordinated efforts to release people at the outset of the COVID-19 pandemic in March and April, the population plummeted to a low watermark not seen since World War II of 3,809 people held on April 29, 2020.33
+
+2
+INTRODUCTION
+However, since 2020, the jail population reversed course—increasing by over 80% to nearly 7,000 as of November 2025.34 Even after discounting temporary effects of a State prison staffing shortage in preventing timely jail-to-prison transfers, the City’s jail population would still have climbed to about 6,800 as of this report’s release—with about 85% consisting of people in pretrial detention, presumed innocent of the charges against them.35 Back in 2021, the administration of former Mayor Bill de Blasio responded to the rising jail population by modestly increasing the number of people who could be housed in off-jail secure hospitals beds from 275 under the original 2019 plan to nearly 400.36 The Adams administration later pulled this number back to about 350.37 At the same time, the Adams administration increased the numbers that could be housed in the borough-based jails from 3,300 to 3,900.* Controversially, this increase came at the cost of shrinking the number of large-sized therapeutic beds the jails would reserve for people with mental health or medical conditions.
+Making the 2027 deadline increasingly unfeasible, the Adams administration has missed numerous legal and process benchmarks required to close Rikers. This means the next mayoral administration taking office in January 2026 will inherit delays and need to work quickly to quell the ongoing crises on Rikers Island and make meaningful strides towards its closure. For instance, apart from the too-high jail population, the Department of Correction is supposed to transfer unused land on Rikers out of its control and to other city agencies every six months until
+2027. Under Mayor Adams, no land transfers have occurred. The current administration is also late in erecting the borough-based jails, with the fourth and last jail in Manhattan not slated for completion until 2032, five years after the legal deadline.38 Existing Resources on Reducing New York City’s Jail Population In 2021, two reports provided comprehensive roadmaps for safely reducing New York City’s jail population.39 Some of their still-unimplemented strategies were updated and amplified in a 2024 special issue of the journal, Vital City.40 In 2025, the Campaign to Close Rikers assembled a coalition of researchers and advocates to develop data-driven strategies for improving judges’ decisions in ways that could significantly curtail unnecessary pretrial detention.41 Complementing this critical focus on the judiciary, the Independent Rikers Commission’s 2025 report identified a series of worthwhile City-led diversion investments for people held before trial with a serious mental illness.42
+* Technically, the citywide number of jail beds under the original 2019 plan to close Rikers was 3,545. The Adams administration increased this number to 4,160. However, on any given day, about 7% of these jail beds must serve as surplus capacity, for instance to permit repairs in certain housing areas that are temporarily taken offline or to be ready for daily population fluctuations. As a result, despite a larger number of planned beds, the accurate daily jail population cap was originally 3,300 and is now nearly 3,900. Based on analogous practicalities, the planned 350 off-jail hospital beds translate to a likely daily population cap of a little over 300, making the system’s total capacity in both the planned new jails and secure hospital space about 4,200. Unfortunately, these numbers are often reported inaccurately. For further details, see, Campaign to Close Rikers.
+(2024). Countdown to Closing Rikers: Policy Brief.
+
+3
+INTRODUCTION
+Jail Reduction and Public Safety Researchers have repeatedly found that efforts to reduce local jail populations need not compromise public safety. In New York City, the Data Collaborative for Justice found that pretrial release under the State’s 2020 bail reform law produced significantly lower re-arrest rates compared to statistically similar people who previously faced bail and detention in 2019. This finding held up over both two-year and longer 50-month tracking periods.43 The conclusion that by averting the long-lasting harms of jail, pretrial release tends either to have no net effect or to reduce recidivism, on balance, is consistent with research across the country, including studies in Houston, Miami and Philadelphia, Pittsburgh and Philadelphia, and Kentucky.44
+
+4
+Latest Facts About Mental Health in the New York City Jails Over the same 2020-to-2025 timeframe that saw a significant increase in New York City’s jail population, the fraction needing mental health services climbed from 44% to 60%, and the fraction diagnosed with a serious mental illness rose from 17% to 22%.45 Today, Rikers is the largest mental health facility in New York City and among the largest in the country.46 Except where noted otherwise, the data provided below is updated as of October 2025.47 Results without a citation are based on original analysis for this report.
+Mental Health and Medical Conditions ■Mental Health (“Brad H”) Flag: While “Brad H” status does not signify a formal diagnosis,48 the latest data indicates that as of October 31, 2025, 60% of the City’s daily jail population needed mental health services while incarcerated, up from 42% in 2016 and 51% in October 2022 (Exhibit 1, Exhibit 2).49 Of people receiving services, 61% flagged for needing them within under ten days of admission.50 For the 39% who flagged after more time had elapsed, it is not possible to disentangle whether a preexisting mental health need was not identified earlier or whether their time at Rikers itself created a mental health condition that did not previously exist.
+Exhibit 1.
+Received Mental Health Services (“Brad H” Flag) Historical Trends, 2016-2025 Source: Data Collaborative for Justice. New York City Jail Population Tracker (screenshot as of November 3, 2025).
+
+5
+LATEST FACTS ABOUT MENTAL HEALTH IN NYC JAILS Exhibit 2.
+NYC Jail Population by Mental Health Status (as of October 31, 2025)
+ ■Serious Mental Illness and Other Conditions: As of September 2025,51 Correctional Health Services (CHS) identified the following prevalence rates:
+ ●Serious Mental Illness: 22% of the jail population (up from 17% in September 2020).52 ●Drug or Alcohol Addiction: 25% with opioid use disorder; 30% with alcohol use disorder.
+ ●Homelessness: 28% homeless or “likely to be homeless” when released—a figure that jumps to about 42% for people with a serious mental illness.53 ■Assessed for Mental Competency: According to data assembled by the Independent Rikers Commission, about 200 or more people are held in a New York City jail with pending mental competency proceedings.54 (If someone is found mentally unfit, it means they are unable to understand what is happening in court or to assist in their defense.) Reporting in Gothamist indicates that the numbers found unfit to stand trial grew 2.4 times higher from 2020 to 2024, with barely a change in State hospital bed capacity, a recipe for people being stuck at Rikers for potentially weeks and months before the necessary transfer to a hospital.55 ■Medical Conditions: As of September 2025, 28% of the jail population were diagnosed with lung disease (e.g., asthma or chronic obstructive pulmonary disease), 15% with cardiovascular disease (e.g., hypertension or heart failure), 8% with neurologic disease (e.g., epilepsy, cerebrovascular disease, or stroke history), 6% with diabetes, 4% with hepatitis B or C, 3% with stage 3+ chronic kidney disease, 3% with HIV/AIDS, and 1% with a malignancy.56 ■Medical No-Shows: In September 2025, Department of Correction (DOC) data indicated that there were 15,823 missed medical appointments compared to 3,626 in September 2020.57 After adjusting for the average jail population at each time point, the rate of missed appointments per 1,000 incarcerated people was 784 in September 2020, before increasing threefold to 2,207 in September 2025. In this latest month, “Production Refusal” was the highest recorded reason for a missed medical appointment (7,525 missed appointments), followed by “Other” (6,046), and Court Appearance (1,561). DOC defines “Production Refusal”
+as an instance when an incarcerated person refuses to be escorted to the clinic for their scheduled appointment. However, incarcerated persons have reported that there have been instances of not being notified of an appointment or being pressured to sign a “production refusal” form, despite not refusing the appointment; thus, the validity of the “Production Refusal” category is disputed.58 Mental Health Status Total Population % of Population Yes – Brad H flag 4,179 59.8% No 2,813 40.2% Total 6,992 100%
+
+6
+LATEST FACTS ABOUT MENTAL HEALTH IN NYC JAILS ■Exposure to Violence: The NYC Comptroller’s Rikers dashboard indicates that when comparing August 2019 to August 2025, rates of monthly stabbings and slashings per 1,000 people in the jail population rose from 0.95 to 2.94; fights among incarcerated people rose from 65.6 to 73.3; and assaults on staff declined from 15.5 to 9.5.59 Comparing 2020, Quarter 3 to 2025, Quarter 3, use of force rates per 1,000 ADP decreased (359.8 and 251.4 respectively). (Rates are recomputed based on the dashboard’s raw data.)
+Characteristics Associated with Mental Health Needs Women held at Rikers are far more likely than men to need mental health services. Mental health outcomes among other subgroups are noted below.
+ ■Gender: Close to 500 women are currently jailed at Rikers, 87% of whom needed mental health services while incarcerated, compared to 58% of men(Exhibit 3).60 The Department of Correction does not provide data for transgender or non-binary individuals.
+Exhibit 3.
+Mental Health Status by Gender (as of October 31, 2025)
+ ■Race/Ethnicity: White people in the City’s jails needed mental health services at a somewhat higher rate (69%) than Black (61%), Hispanic (55%), or Asian (66%) people. When it comes to absolute numbers, because Black people make up 58% of the jail population (compared to 23% of the City’s general population), over twice as many Black people as the next highest group were held while flagging for mental health.
+ ■Age: People ages 25 to 54 have the highest mental health needs (61%), followed by those 55 years and older (57%) and those under 25 (55%).
+ ■Reason for Incarceration: People held in pretrial detention made up nearly 87% of the jail population as of October 31, 2025. This subgroup flagged for mental health needs at a rate of 60%. People serving a jail sentence of under a year (representing 7% of the total jail population) flagged at a significantly lower rate of 52% (Exhibit 4).61
+
+Mental Health (Brad H) Flag?
+Gender
+Total N
+% of Jail Pop.
+Yes
+No
+Rate
+Women
+476
+6%
+415
+61
+87%
+Men
+6,494
+93%
+3,755
+2,739
+58%
+
+7
+LATEST FACTS ABOUT MENTAL HEALTH IN NYC JAILS Exhibit 4.
+Mental Health Status by Reason for Incarceration (as of October 31, 2025)
+
+ ■Charge: Mental health flagging rates in NYC jails were 64% for people charged with a violent felony offense (VFO), 52% for those charged with a nonviolent felony, and 55% for those charged with a misdemeanor. Within the VFO category, flagging was highest for assault (82%). There was little difference between sex offenses (66%), burglary (66%), robbery (63%), and murder (63%), while people charged with a firearms or weapons offense flagged at a much lower rate of 42%.62 ■Time in Custody: It has long been reported that people suffering from mental health conditions languish in jail for longer than others. On average, those who flagged for mental health as of October 31, 2025, were in custody for 281 days, while those who never flagged were in custody for 212 days. But pinpointing causality is complicated: Requiring services could reflect a preexisting mental health condition; or, alternatively, a longer stay under brutal conditions at Rikers could produce or aggravate mental health symptoms. A recent analysis found that after controlling for people’s background characteristics, flagging at or within ten days of initial intake predicted a total length of stay 34 days longer than people who never flagged for mental health needs.63 Department of Correction Compliance with the Brad H Settlement In the settlement stipulation of Brad H. v. City of New York,64 the City agreed to provide discharge planning services at least 24 hours before release for those who receive treatment for mental illness while incarcerated.* Discharge planning requirements also include appointment scheduling, community referrals, medication prescriptions, ensuring Medicaid enrollment, and additional services for anyone diagnosed with a serious mental illness.65 Two Brad H monitors appointed by the court submit regular joint reports regarding compliance with a long list of indicators. Among other findings, the most recent report indicated that from July to September 2024, the designated population was produced for mental health
+* Technically, the Brad H designation is limited to people receiving in-jail mental health services more than twice or assessed as needing follow-up services during their first or second appointment.
+Mental Health (Brad H) Flag Reason for Incarceration Total N % of Jail Pop.
+Yes
+No
+Rate
+Pretrial
+6,046
+86.5%
+3,653
+2,393
+60.4%
+City Sentenced
+511
+7.3%
+265
+246
+51.9%
+Parole Violation
+239
+3.4%
+154
+85
+64.4%
+State Prison Sentence:
+Awaiting Transfer
+196
+2.8%
+107
+89
+54.6%
+
+8
+LATEST FACTS ABOUT MENTAL HEALTH IN NYC JAILS appointments only 53% of the time and for reentry appointments 77% of the time, with significant variations in these production rates across eight different jails on Rikers Island.66 The report also noted that these data points carry some limitations and may not be precisely accurate.
+Having cautioned that important limitations may exist, the report stated, “Nonproduction presents a significant impediment to defendants’ meeting their performance goals under the Stipulation … [The City of New York] simply cannot provide a mental health or social work service if the class member is not produced.”
+For more information, see the Brad H. v. City of New York web page maintained by the Mental Health Project at the Urban Justice Center.
+
+9
+Case Studies
+Presented in their own words, below are four case studies highlighting the trauma, dehumanization, and lack of treatment that four people with mental health diagnoses faced while incarcerated at Rikers.
+Tracey Barber, member of Treatment Not Jails “In 2019, I was arrested and incarcerated at Rikers for nearly ten months. I have borderline personality disorder and have had this diagnosis for decades. I have been fortunate to be living in a supportive housing SRO for a long time, which has access to a free psychiatrist. However, from time to time, I have had various episodes, sometimes called splitting, that have required hospitalization and admission to the psych. ward. In 2019, around the time of my arrest, I was in an episode due to a combination of not getting my current medicine refilled and not sleeping well.
+When I was arrested, the police showed up at my SRO, and I voluntarily went into custody. I was immediately taken to central booking and put in a room for a recorded conversation with the arresting officers and assistant DA while still in the midst of a mental health crisis. From there, I was arraigned by a judge who set bail and sent me to Rikers, even though I had no criminal history. There was never an option for me to receive the treatment I needed, instead of being sent to jail. I was clearly in need of mental health support.
+Once I got to Rikers, my mental and physical health started declining rapidly. I was put into the mental health observation unit; however, I was denied access to the medication that had been most effective in stabilizing me. As my health continued to worsen, they put me into building 9, and I was put on suicide watch. I was locked in a cell all day and night; it was incredibly isolating and dehumanizing. As my health worsened, I developed intense paranoia and religious psychosis. I started hearing voices for the first time in my life. It reached a point where I was even afraid to leave the cell and the unit. I stopped eating and lost a lot of weight. The food for vegetarians at Rikers is absolutely horrid. This was the most terrifying and awful thing I have ever experienced. Eventually, due to my weight loss and worsening health, they took me to Elmhurst Hospital and I stayed there for two months. Even though I was handcuffed on the bed at the medical unit, things started to improve. The hospital food was much better and I was able to engage in programming. Once my health improved, I was sent back to Rikers for several months.
+Eventually, through my lawyers, I was connected to a peer from CASES who came to visit me while I was at the Tombs. After that initial meeting, I met with another peer and then went to the Manhattan Supreme Court to get a mental health screening exam to see if I was eligible to enter the Manhattan Mental Health Court. This was rare since my original charge was a felony. I passed the exam and was taken in front of Judge Juan Merchan who told me what was going to happen next. I was terrified to be released. For nearly a year, I saw everything through the bars of a cell, and it was scary to think about re-entering society. I voluntarily agreed to enter the treatment program and was then released. It was disorienting to back into society, however I thought Judge Merchan was a quality judge. I was placed in a outpatient substance abuse treatment program and was in therapy. It was super helpful and I’m grateful to be able to have received services in the community instead of the punitive approach of being incarcerated at Rikers.
+
+10
+CASE STUDIES
+It was quite a journey, but now I’m in a much better place. I feel rehabilitated. I’m currently working a full-time job and recently got a promotion. Since I entered the mental health court program instead of being sent upstate to prison, I was able to maintain my supportive housing SRO which is huge for me. I hope in the future other people are able to get access to treatment programs right after they are arrested instead of having to go through the hardships and suffering while incarcerated at Rikers.”
+
+11
+CASE STUDIES
+Charles Gibson, member of Project Connect at the Church of Gethsemane* “At 17, I was incarcerated at Rikers for jumping a turnstile and marijuana possession. This was my first interaction with the criminal justice system. I wish as a teenager I was given the opportunity to enter an ATI or another type of supportive program instead of people being placed in jail. I got desensitized from an early age, and these experiences with incarceration deeply impacted my mental health.
+I'm now in my early 40s. I have been diagnosed with PTSD, anxiety, and borderline bipolar disorder. I'm currently unhoused and living in the shelter. At times, the shelter is quite far from where I get assistance from people and family, which creates challenges in my life. Last year, I was dealing with an issue with a roommate at the shelter. The staff at the shelter failed to address the issue, and it resulted in an altercation. I was arrested and sent to Rikers. I spent three months incarcerated at Rikers. On a daily basis, I saw violence, assaults, and dangerous situations play out again and again. It was very traumatic. The access to programming is limited, and there is not much rec. time, which ends up creating conflict among the guys locked up. It is truly a horrible place to experience. I typically don't take certain medications for my mental health because of the side effects, however, when incarcerated at Rikers, I end up taking the medicine because the numbness helps me cope with the intense environment, and it kills time. The endless waiting is horrible. This isn't how it should be. I should never have been sent to Rikers to begin with.
+I ultimately pleaded guilty in my case and was released. A couple of months later, I got in another situation following an argument with a family member. I was arrested and brought to arraignments.
+However, this time my lawyer advocated for me to be placed in a supervised release program with CASES.
+I had never missed a court date before or had a warrant, and it was clear that I needed support, not incarceration. I was released the same night. I was required to check in with my CASES case manager on a monthly basis, which went well. In September, my case was eventually dismissed. Also, during this time, I started going to the Venture House clubhouse in the Bronx. This has drastically changed my life for the better. The community here is amazing. I'm still in the shelter and looking for employment, but the way I see myself and feel about my future has shifted significantly. I'm also grateful for Project Connect at the Church of Gethsemane, which has supported me in reentry process over the last three years.
+The City should be investing in ATIs, supervised release, and clubhouses to ensure that people with mental health issues are not sent to Rikers. What happened to me shouldn't continue to happen to anyone else.
+I'm happy to be in a better place now, thanks to some of these great programs in the city.”
+* Project Connect of the Church of Gethsemane connects with incarcerated persons in New York State correctional facilities and continues to support those who have already been released and are in need of assistance.
+
+12
+CASE STUDIES
+Danielle Shanks, Member of the Katal Center “My son, who has a severe mental illness, is currently being detained at Rikers Island. I can share countless stories about my son that can attest to his kind character and underscore the need for him to be released from Rikers. My son has always been brilliant. He has been an honored student and graduated from high school at the age of 16. He has been a great older brother to his two younger siblings. In 2023, he was diagnosed with schizophrenia and experienced his first psychotic episode which led to his first alleged offense. He has been detained at Rikers ever since and has been held in the mental health observation unit at RNDC.
+While detained, he has experienced violence, medical neglect, and conditions unfit for any human being.
+There are many instances where he is not receiving his medication on a regular schedule, which is not healthy for his diagnosis. Recently, he has been advocating for access to outdoor recreation, which for no apparent reason was being restricted. All of these conditions only exacerbate his mental illness and prevent him from reaching his fullest potential. Words cannot explain how terrible Rikers Island is—it fails to keep people safe and harms human lives. It is shameful that Rikers is considered the city’s largest mental health facility when it's a jail complex and does not provide wrap-around services for people like my son who have a severe mental illness.
+In the first year that my son was detained at Rikers, a judge at the Mental Health Court found my son unfit, and since then, we have been waiting for him to be released to receive treatment within the community. Recently, the District Attorney denied my son access to programs, and there is currently no avenue for him to get released and receive the treatment he needs. It would be incredibly helpful to have prosecutors paired up with clinical staff with specialized forensic expertise in the courtroom; they could have provided more information to the prosecutor and judge to make determinations regarding program eligibility for my son. There is a great need to expand and fund mental health courts and diversion programs. It is incredibly unjust that nearly 60% of the incarcerated population in NYC jails has a severe mental illness. Immediate action is needed, and the recommendations from this report are long overdue.”
+
+13
+CASE STUDIES
+Ansley, member of Treatment Not Jails* “A few years ago, my son was incarcerated at Rikers Island in the midst of an intense psychiatric episode and was in full-blown psychosis. A decade ago he was diagnosed with schizophrenia and from time to time he has experienced episodes that required hospitalization. Sometimes this happens because he forgets to take his medicine or something traumatic happens. This was also in the midst of COVID-19, so my son was no longer able to see his providers in-person, as everything was remote at this point. In March, I had not heard from my son for several days and was incredibly worried about him. We typically text daily. I filed a missing persons report and tried everything I could to get into contact with him. I found out that he was arrested. I assumed that he would be taken to a hospital from the courthouse since he clearly was in need of intense mental health support.
+When he was arrested, he had his prescription on him that clearly indicated he was on the schizophrenia spectrum. I was shocked to learn that this was completely disregarded. There was no coordination between the NYPD and the court system to get my son the treatment he deserved and urgently needed. My son should have been escorted to psych for an evaluation not Rikers with zero mental evaluation. This would have allowed him to be sent to Bellevue or another hospital. He was clearly in mental health distress and the judge gave him bail and sent him to Rikers. The system failed my son.
+On his first day being incarcerated at Rikers, my son accidentally spilled milk on another incarcerated person and was assaulted, which left his arm injured. He was still in psychosis and that environment was dangerous for him. It’s horrible that he was put onto Rikers in that condition. I was so worried about him.
+I knew that if he stayed on Rikers long, he would not make it out alive. This is the most horrible feeling a parent can have. No one should have to go through this torment. I spent the next few days frantically doing everything I could to raise bail money for him. I had to take off work and pool together all the family money I could. On top of that, I was also worried that he wasn’t getting any treatment or medical care while incarcerated at Rikers. I tried calling again and again, every number possible, to see if he had seen a clinician and if he was receiving his medication. I know not every family has the time and capacity to even do this, which breaks my heart. After getting his public defender lawyer involved, we were able to confirm that he had just started receiving his medication. However, this only occurred the day before he was released.
+Once we were able to post bail, my son was put on the bus to leave Rikers, still in the middle of a psychotic episode. There was no plan in place for him to get treatment, no coordination. They dropped him off on the street to fend for himself. Thankfully, he found a small business nearby that allowed him to call me. I took him immediately to Bellevue Psych ER, and he was voluntarily admitted and stabilized after several days. I can’t help but think about what could have happened to my son if I hadn’t been able to get him out of Rikers and find him once he was released. My heart breaks for all the mothers and families that have to go through similar situations. No family should have to go through this. It’s worse than having a loved one in the ICU. I hope action is taken to close Rikers and ensure people dealing with mental health issues get the treatment they deserve and are never sent to that island of torture and inhumanity.”
+* We aren’t including her full name to protect her and her son's privacy.
+
+14
+Policy Recommendations
+Integrating and adding to strategies contained in previous reports, we offer a distilled list of 15 recommendations, organized under five umbrella categories:
+A. City-Led Continuum of Expanded Diversion Options.
+B. Alternatives for People at All Stages of Mental Competency Proceedings.
+C. Greater Access to Mental Health Courts.
+D. Effective Linkages from Courts and Jails to Community-Based Treatment.
+E. Hospital-Based Therapeutic Beds in Lieu of Rikers.
+Administered in 2024, the results of a representative survey of New York City crime victims generally found support for the kinds of diversionary strategies proposed below.67 A. City-Led Continuum of Mental Health Diversion Options In interviews conducted for the recent Rikers Commission report, judges indicated they would be amenable to releasing more people if they were confident that suitable treatment facilities existed.68 Yet, especially for people with a severe mental illness or a co-occurring mental health and drug disorder, City and State officials have yet to establish a robust continuum of options.
+1. Maximize approved utilization of available funds from the New York State Opioid Settlements to support the implementation of recommendations in this report.
+One temporary funding mechanism is the New York State Opioid Settlements.69 New York City already receives a dedicated share of this funding; both the state Office of Alcohol and Substance Use Services and the Department of Health allocate additional Settlement Fund grants. A significant number of people detained at Rikers have co-occurring mental illness and opioid use disorder, and many of the recommendations in this report are consistent with the Approved Uses, as outlined in the New York Opioid Settlement Sharing Agreement between state and local jurisdictions.70
+2. Establish more residential treatment beds and take other steps to meet the needs of underserved individuals with co-occurring drug and mental health disorders.
+Otherwise known as “MICA” (mentally ill chemically addicted), people diagnosed with co-occurring disorders require specialized expertise and treatment modalities. Although a precise estimate is unavailable, it is likely that a significant fraction of incarcerated New Yorkers has MICA status. Data presented above indicates that 60% of people at Rikers are receiving mental health services, 22% have a serious mental illness, 25% have an opioid disorder, and 30% have an alcohol disorder, high percentages for each individual diagnosis that inevitably hint at a sizable mental health/drug disorder overlap.
+
+15
+POLICY RECOMMENDATIONS
+Despite the unmet need for MICA services as an alternative to pretrial detention, New York City lacks adequate semi-secure intensive residential facilities. A model program at Harbor House in the Bronx only serves up to 59 people at any given time.71 ■Residential Beds: Echoing the Rikers Commission, we recommend opening at least 250 additional residential treatment beds as an alternative to jail for people with a serious mental illness alongside a co-occurring drug disorder.72 ■Integrated Trained Peers: Training people with lived experience of drug and mental health disorders to provide peer support to people in recovery has become a recommended and promising practice.73 The City could consider increased investments in peer models, where peers would work in tandem with credentialed clinicians.
+ ■Training for Service Providers: The City could support the training of service providers other than those working in dedicated MICA facilities on effective treatments for the dually diagnosed—creating more capacity to serve the MICA population across a range of existing treatment centers. (While an important long-term step, we caveat that expanding expertise in treating the MICA population to a wide range of service providers may not yield immediate, demonstrable increases in treatment capacity.)
+ ■Better Public Data: Addressing unacceptably limited public data in the status quo, Correctional Health Services should add to its monthly CHS Patient Profile more complete aggregate data on diagnoses found in the NYC jail population and, in addition, should crosstabulate mental health and substance use indicators to indicate the prevalence of MICA status.
+3. Expand Justice Involved Supportive Housing (JISH) and rectify the late implementation of JISH housing that the City Council has already approved.
+JISH housing is dedicated and permanent supportive housing (with wrap-around onsite services) for people involved in the criminal legal system.74 JISH is especially suitable for people facing medical, mental health, or drug addiction problems that could benefit from both stable housing and wraparound services.
+Disappointingly, the Rikers Commission traced a recent six-year history whose upshot is that from 2019 to the present, despite a series of JISH investments by the City Council, few JISH units are online.75 While the New York City Council approved 380 additional JISH beds in the 2026 Fiscal Budget,76 the next mayoral administration and the Council will have to diligently engage service providers to sustain the approximately 120 beds that have been funded in prior years, while continuing to add significantly more JISH capacity. Future plans could include establishing “JISH-plus” beds, defined by their more intensive services and onsite clinical care.77
+4. Expand transitional and emergency housing beds as additional alternatives to detention for people who would otherwise be unstably housed upon jail discharge.
+Often a lack of short-term housing is a crucial barrier to release, as judges or prosecutors may not support releasing people who might immediately return to street homelessness or shelters.
+Data provided above indicates that close to 30% of New York City’s jail population was homeless upon admission to jail or is likely to be homeless at discharge, a figure exceeds 40% for those with a serious
+
+16
+POLICY RECOMMENDATIONS
+mental illness. A housing placement could be the single largest factor in providing the stability required to ensure that these individuals are reintegrated into community, make future court appearances, and avoid future system involvement. Having first placed people in transitional housing, service providers could then prioritize linking them to longer-term stable housing.
+5. To alleviate the pressure on residential treatment and supportive housing providers, pair in-home treatment with ongoing case management for those severely mentally ill people who do have a place to reside.
+In-home treatment could be a viable option for those who already have stable housing and are willing to comply with treatment and services. A proper care management system to efficiently connect them to medical and mental health services could expand existing programs but be tailored to serve system-involved individuals. For example, Health Homes (available to people on Medicaid), Assertive Community Treatment (ACT) teams, Forensic Assertive Community Treatment (FACT) teams, and the Intensive Mobile Treatment (IMT) model all provide intensive case management for people with chronic illnesses and high service needs.78 ACT teams, for example, have been demonstrated effective at reducing hospitalizations.79 Having easily accessible treatment resources paired with ongoing case management could serve as an especially effective alternative to detention for those who may have high needs but pose a lower risk for re-offense or failure to appear and have stable housing already. Expanding access to these resources and reducing existing waitlists can be done in the near term, as it does not require the creation of bed space outside the home or any new construction.
+6. Fund dedicated outpatient slots for a range of mental health needs among justice involved individuals, alongside service provider training and investments in evidence-based treatments.
+As another critical step for people with stable housing, a 2021 jail reduction roadmap urged the City to establish dedicated outpatient treatment slots for people involved in the legal system with a serious mental illness.80 The theory is that absent dedicated outpatient slots and the capacity to place people in them swiftly—ideally right at the point of arraignment—the City would be unable to incentivize judges to use community-based programming in lieu of jail while waiting, perhaps over many months in the status quo, for an existing outpatient (or residential)
+slot to open up.
+To strengthen outpatient services, the City’s Department of Health should support training and the provision of evidence-based treatments for a wide range of mental health conditions and problematic behaviors. For example, referencing this report’s finding that people facing violent felony assault charges tend especially to flag for mental health needs, the City should promote expanded use of outpatient modalities such as dialectical behavior therapy—which is proven effective in reducing anger and aggression (thereby promoting both individual wellbeing and public safety).81
+
+17
+POLICY RECOMMENDATIONS
+7. Ensure sustained care at the point of reentry for people released from jail.
+Several reentry-focused models could serve as a blueprint if taken to scale—better fulfilling the vision of the Brad H settlement to offer robust services at the point of reentry.
+The Osborne Kinship Reentry Housing program, for example, serves people returning home after a period of incarceration and supports family members who are assisting the returning individuals—ensuring more seamless community reintegration.82 The Kinship program also provides cash assistance to families, given the financial support families with potentially limited means must routinely provide to their returning loved ones.
+As another example, clubhouse models provide a community-based “drop-in” setting, where people suffering from a mental illness can gather and receive support in a casual and welcoming environment.83 The goal is to serve as a low barrier support model for people who are or may have recently been in treatment. These models prioritize building a community for people with serious mental illness and providing linkages to much needed services, such as housing, employment, education and other daily needs.
+For justice involved people, clubhouse models could also serve as a “ramp down” option for people who have completed more intensive programming, ensure flexibility in service levels (for those who may need a lower level of care), and serve as resource centers for anyone in the community seeking higher levels of intervention when necessary.
+B. Alternatives for People at All Stages of Mental Competency Proceedings If a judge believes someone may be mentally unfit to stand trial (unable to comprehend the court process or assist in their own defense), the judge can order a mental competency examination.
+If the individual is found fit to stand trial by psychiatrists administering the exam, the case can proceed; but if not, current practice for people charged with a felony is to place them in a state forensic hospital that provides treatment intended to “restore” them to competency.
+From the date a judge orders a competency exam, available data indicates that it takes an average of over 40 days for Correctional Health Services to complete it. For people found unfit to stand trial, it then takes an average of nearly 80 days to receive a bed in a state forensic hospital.
+During each waiting period, judges generally remand people to jail. All told, while it is difficult to locate a reliable figure, New York City’s current jail population most likely includes over 200 people held for mental competency reasons.84 Apart from the intrinsic harms to their wellbeing of holding people with potentially severe mental health conditions at Rikers, reports indicate that the population is at times subject to “deadlocking,” where correction officers “lock individuals in mental health units in their cells for weeks or months at a time, usually under the guise of security.”85
+8. For people in mental competency proceedings, create and fund suitable community-based treatment options in lieu of incarceration.
+As proposed in the 2021 jail reduction roadmap, the City should make available and prosecutors and judges should avail themselves of community-based treatment and restoration services at
+
+18
+POLICY RECOMMENDATIONS
+all three of the following critical stages: (1) while awaiting the completion of a competency exam;
+(2) in lieu of placing people found unfit in a state hospital; and (3) after people are restored to competency.86 a) Pending Competency Determination: While awaiting a competency exam and subsequent competency determination by the court, people could receive community supports (i.e., from the continuum of treatment services recommended above) to facilitate attendance at their competency exam and court dates, especially if they would otherwise be held in pretrial detention without such supports.
+b) After Found Unfit to Stand Trial: For people the court finds unfit after a competency evaluation, in addition to building more state hospital capacity, the City should create and fund outpatient treatment services, alongside inpatient treatment options outside the jails and outside existing state hospitals. Having appropriate options available may encourage district attorneys to consent to community-based outpatient or inpatient treatment. (The law requires district attorneys’ consent to access treatment outside state hospitals.) Newly conceived programs could specialize in forensic restoration, alongside a range of ancillary clinical services.
+Judges could make engagement with such services a condition of release. Legal practitioners experienced at working with people in competency cases could collaborate to develop flexible criteria for who and what types of cases might be most appropriate for outpatient restoration.
+Potential factors to consider could be whether the individual has a stable living environment;
+the individual’s willingness to follow a medication regimen, if prescribed; and the presence of stabilizing community supports, including any established connections to treatment providers.
+While all of these steps are legally feasible and becoming more urgent as the City and State face legal challenges to the status quo,87 there are currently few suitable outpatient providers for the population of people needing services that could restore them to mental competency.
+c) After Restored to Competency: For people restored to competency and found fit to proceed, a mental health court clinical staff member should screen for mental health court eligibility, after receiving defense attorney consent. If the person is screened as eligible, staff could send the screening results to the prosecution and the court for their consideration. In 2024, 25 new participants in the Brooklyn Mental Health Court, representing 12% of total enrollment, were referred after having been restored to competency.88 (And an identical 12% of participants throughout the program’s cumulative 23-year history enrolled after competency restoration.)
+Data is unavailable for other boroughs. While our knowledge of current referral procedures in each New York City borough is imprecise, it seems likely that a systematic protocol in all five boroughs to consider a mental health court referral after competency restoration could help ensure good candidates for this program don’t “slip through the cracks.”
+C. Greater Access to Mental Health Courts As previously recommended,89 policymakers should take steps to expand access to New York City’s well-regarded mental health courts.90 An initial giant step forward would be for legislators to pass and the governor to sign the Treatment Court Expansion Act,91 whose practical effect would be to increase enrollment in these programs.
+
+19
+POLICY RECOMMENDATIONS
+9. Pass the Treatment Court Expansion Act or similar legislation.
+New York City’s mental health courts enrolled less than 360 participants (representing only 0.2% of arraigned cases) in 2023. Even if isolating people facing felony charges, only 0.5% ended up in a mental health court.92 Making the case for expansion, research has consistently indicated that these programs are effective. An evaluation by the Urban Institute found that the Bronx and Brooklyn mental health courts both significantly reduced re-arrest.93 A separate evaluation of the Brooklyn program suggested improved psychological functioning, as well.94 Based on results from 15 rigorous evaluations across the country, a meta-analysis published in 2024 found that mental health courts produced a 42% average recidivism reduction.95 To increase enrollment, an array of advocates, attorneys, and experts, including New York’s New York’s Chief Judge, Rowan Wilson,96 have called for passage of the Treatment Court Expansion Act. Previously known as the Treatment Not Jail Act, legislators have introduced it for the past five years to no avail. The Act would strip away all mental health court eligibility restrictions based on the charge. It would grant judges the authority to order a clinical assessment and enroll anyone with a “functional impairment,” covering both mental illness and substance use disorders. The prosecutor could not serve as a gatekeeper to enrollment, a factor stakeholders have previously cited as blocking access for viable candidates.97 For most charges, people could enroll without having to plead guilty to a crime, ensuring candidates don’t face the difficult tradeoff between receiving mental health services or maintaining their legal right to contest the charges against them.
+10. Ensure good implementation of mental health courts and take other measures to promote clinically informed decision making.
+Even if Albany passes the Treatment Court Expansion Act, there is no guarantee it will be well implemented. For one, the Act would still leave it up to the judge whether to enroll a given individual in a mental health court. To increase uptake, judicial trainings should be implemented around mental illness and mental health court operations—including the fact that these programs have been found effective in serving people facing violent felony charges. (At times, nearly 40% of all Brooklyn Mental Health Court participants have faced such charges.98) In general, the more that prosecutors and judges trust the clinical judgments of social workers, the better these programs will be at ensuring crucial treatment decisions are responsive to individual needs and not unduly influenced by non-clinical factors such as the charges or criminal history.
+Moreover, even absent legislation, mental health courts can encourage and incentivize program participation by offering services and admission to the court more often on a pre-plea basis and ensuring well trained staff are available in courtrooms to identify suitable candidates. As recommended above, systemic procedures should be implemented to ensure that more people restored to mental competency have an opportunity to be considered for mental health court participation.
+
+20
+POLICY RECOMMENDATIONS
+D. Effective Linkages from Courts and Jails to Community-Based Treatment Even if New York City creates ample treatment options and judges (and other court players) want to use them, this still does not mean that people with pending criminal cases can easily obtain a treatment slot.
+City agencies, courts, and service providers should establish written protocols and train all parties in how to swiftly get people in need “from here to there.”
+11. Provide regularly scheduled updates to the court regarding the prevalence of mental illness and the latest conditions at Rikers Island.
+As established above, Rikers Island has become one of the largest mental health providers in the country, with the number of people held and flagging for mental health at Rikers continuing to rise in recent years. Given the court’s role in ordering people to Rikers and determining who should be released, it would be helpful to continuously inform judges of the prevalence of mental health needs within the jails. Doing so would include updating the court on both the number of people needing mental healthcare and the range of their presenting needs. Better information for judges could heighten awareness, decrease concerns about stigma related to mental health diagnoses in court settings, and help to create greater urgency among judges to use jail alternatives.
+12. Inform and train judges, prosecutors, and defense attorneys in available community-based treatment and housing options.
+As more mental health treatment and supportive housing options come online, City agencies should write and share fact sheets and materials with judges, prosecutors, defense attorneys, jail officials, advocacy groups, and other community stakeholders.
+The City should also partner with the Office of Court Administration, district attorneys’ offices, and indigent defense agencies to offer regular trainings, where experts describe community alternatives; provide programming updates or changes; identify suitable sub-populations for each community alternative; and provide evidence of effectiveness in addressing individual needs and maintaining public safety.
+13. Ensure seamless coordination with treatment providers, including written protocols for swiftly placing people in slots reserved for system-involved individuals.
+There will have to be open lines of communication between courts and treatment providers— including written protocols around how court staff, supervised release providers, or other designated case managers can swiftly place people in community-based treatment or housing slots ostensibly reserved for system-involved individuals.
+In addition, the City should track wait times in an ongoing effort to troubleshoot and minimize the delays commonly seen in the status quo, with people often stuck in jail for weeks or months while awaiting a community-based treatment placement that the court players have agreed is appropriate.
+
+21
+POLICY RECOMMENDATIONS
+14. Establish procedures to conduct individualized assessments to identify suitable communitybased pretrial release options in lieu of jail.
+Comprehensive assessments could take place before and/or after a jail admission.
+a) Pre-Incarceration Mental Health Screening: As proposed elsewhere, the City should explore the feasibility of conducting individualized assessments before people are unnecessarily incarcerated.99 For select cases such as those legally eligible for bail, one option could be to expand the range of topics covered in pre-arraignment interviews already administered by the NYC Criminal Justice Agency (CJA).100 Much as Correctional Health Services does on a limited basis as part of the Enhanced Pre-Arraignment Screening Unit,101 CJA could administer a short mental health screener and, with the individual’s permission, share the results prior to arraignment with the defense attorney. Potentially, based on arguments the defense attorney makes at arraignment, the judge could release otherwise bail-eligible people to community services or, where necessary, “second call” the case to allow for a complete assessment by CJA or the borough-based supervised release provider. If still more time is necessary, the supervised release providers already have a protocol (rarely used to this point) for assessing people at the judge’s order between arraignment and the next court date to recommend court-ordered pretrial services in lieu of bail or detention.
+b) Communicating a Release Recommendation Immediately After Jail Intake: Correctional Health Services (CHS) already conducts a comprehensive assessment shortly after a jail admission. Building on this practice, new procedures could be devised for drawing on this intake assessment’s findings to identify people suitable for community-based mental health or drug treatment, or other interventions. Additional protocols could spell out steps jail-based case management staff should take in facilitating a seamless transition from jail to community alternatives. This transition could include ensuring access to Medicare/Medicaid covered services and expediting housing referrals, when necessary. Ensuring the availability of psychologists at the jails would cut down on time between identification of a need and completion of a full assessment. Crucially, once a release plan is created for someone currently in jail, the City needs to develop a workable protocol for effectively communicating the plan to the court, prosecution, and defense, alongside a recommendation to change pretrial conditions to the appropriate community-based option.
+c) Regular Reassessments of People’s Mental Health: To ensure multiple opportunities to evaluate incarcerated people’s suitability for community-based options, clinical staff placed inside the jails could regularly review the mental health status of incarcerated people. Given the significant number of people with mental illnesses and their prolonged average time in custody, frequent reassessments would be especially helpful to supplement initial jail intake.
+d) Ongoing Monitoring of Jail Admission and Discharge Trends: Department of Correction or CHS staff should be charged with monitoring the increase or decrease of people presenting with mental health conditions in the jails, including the dually diagnosed population. Such monitoring could help in updating how many community-based service providers and slots are needed, as well as in improving healthcare while people are incarcerated. The monitoring of discharge trends would include the tracking of service linkages to assist people in reentry.
+
+22
+POLICY RECOMMENDATIONS
+E. Hospital-Based Therapeutic Beds in Lieu of Rikers The preceding recommendations all involve expanding community-based treatment options as an alternative to jail. Establishing secure therapeutic beds in city hospitals is a last resort for people still in pretrial detention who would otherwise suffer at Rikers.
+15. Promptly bring promised off-jail hospital beds online and objectively consider whether more such beds may be necessary.
+As part of the plan to close Rikers, the City is erecting secure off-jail therapeutic facilities at Bellevue Hospital in Manhattan, Woodhull Hospital in Brooklyn, and North Central Bronx Hospital. These facilities would serve people with a serious medical condition or mental illness, including individuals in mental competency proceedings where judges continue to rely on secure detention. An “in-between” option that is neither purely therapeutic nor carceral, DOC staff would provide security.102 The current plan is to build sufficient bed space for about 350 people on any given day. Yet, the latest available information as of this report’s publication is that the Bellevue unit sits idle because the Department of Correction (DOC) has yet to staff it (and for other bureaucratic reasons), while the Woodhull and North Bronx units are not scheduled for completion until 2028.103 To ensure ample capacity, the Rikers Commission proposed 500 additional inpatient forensic psychiatric beds, ideally at State facilities in or near New York City, totaling 850 off-jail therapeutic beds when added to the approximately 350 already planned.104 This is a high number when the chief priority of the City and the courts should be linking people to safe and humane community-based options. At a minimum, the City should act with greater competence to bring the currently promised 350 beds online, while rigorously and objectively considering whether this number is sufficient.
+Summary
+Collaborative planning among court players, pretrial services agencies, jail officials, and treatment providers could help to land on procedures capable of realizing four imperatives for high-quality implementation of this report’s earlier recommendations concerning expanded community-based treatment capacity:
+1. Conduct assessments at courts or jails and devise feasible protocols to swiftly route suitable individuals to community services as an alternative to detention.
+2. Ensure an effective means of formal notification of the court, prosecution, and defense of any release recommendation involving people currently incarcerated—which necessarily hinges on the judge changing the prior pretrial release condition.
+3. Avoid “net widening,” whereby an assessment and subsequent court order leads to the over-programming of people who would not have otherwise been incarcerated.
+4. Maximize client confidentiality around sensitive information (e.g., carefully limiting the scope of information shared with the court).
+
+23
+Endnotes
+1 New York City Council. (February 25, 2021). Transfer of Land, Buildings and Facilities of Rikers Island to the Dept of Citywide Administrative Services.
+2 For a rundown of currently anticipated bed space and daily population numbers in the planned borough-based jails, see Campaign to Close Rikers. (2024). Countdown to Closing Rikers: Policy Brief. As this policy brief indicates, bed and daily population numbers are not the same. For several reasons, there must always be a surplus capacity of beds, making the essential daily population cap of 4,200 the lower of the two figures.
+3 Rempel, M. (2020). COVID-19 and the New York City Jail Population. Center for Justice Innovation.
+4 Data Collaborative for Justice. New York City Jail Population Tracker.
+5 McDonough, A. (September 30, 2022). Mental Health Care on Rikers: New York’s Largest Psychiatric Provider. City & State.
+6 Data Collaborative for Justice. New York City Jail Population Tracker.
+7 New York City Comptroller. Department of Correction Dashboard.
+8 Correctional Health Services. (September 2025). CHS Patient Profile for Individuals in the New York City Jail System.
+9 Independent Rikers Commission. (2025). The Path Forward: The Blueprint to Close Rikers.
+10 Correctional Health Services. (September 2025), Op Cit.
+11 New York City Department of Correction (2025). Monthly Report on Medical Appointment Non-Production August 2025; New York City Department of Correction (2020). Monthly Report on Medical Appointment Non-Production August 2025.
+12 Supreme Court of the State of New York. (2025). Fifty-Fifth Regular Report of the Compliance Monitors. BRAD H., et al., Plaintiffs, against THE CITY OF NEW YORK, et al., Defendants.
+13 Data Collaborative for Justice. New York City Jail Population Tracker.
+14 Bock, K. & Rempel, M. (2025a). Incarceration on Rikers Island in the Aftermath of the New York State Corrections Officers Strike. Data Collaborative for Justice.
+15 Independent Rikers Commission. (2025), Op Cit.
+16 New York State Office of Addiction Services and Supports. New York State Opioid Settlements.
+17 SAMHSA (Substance Abuse and Mental Health Services Administration). Incorporating Peer Support into Substance Use Disorder Treatment Services, Treatment Improvement Protocol TIP 64.
+
+24
+ENDNOTES
+18 The Network: Supportive Housing Network of NY. Justice Involved Supportive Housing RFP;
+New York City Council. (June 30, 2025). New York City Council Adopts Fiscal Year 2026 Budget with Increased Housing, Childcare, Education, Mental Health, Public Safety, and Quality of Life Investments.
+19 Independent Rikers Commission. (2025), Op Cit.
+20 Kaye, J. (November 13, 2024). DOC Boss Denies Knowing About Rikers’ ‘Worst Kept Secret.’ Queens Daily Eagle; Rzewinski, J. (June 27, 2025). Why I Blew the Whistle on Extreme Confinement on Rikers Island. The Marshall Project.
+21 Data on citywide participation in mental health courts was provided by the New York State Office of Court Administration, with the one exception of the Brooklyn Mental Health Court, for which data was provided by the Center for Justice Innovation.
+22 New York State Senate, 2025-2026 Regular Sessions. (2025). (February 26, 2025). An ACT to Amend the Criminal Procedure Law and the Judiciary Law, in Relation to Judicial Diversion Programs; and to Repeal Certain Provisions of the Criminal Procedure Law Relating Thereto.
+State of New York.
+23 Hahn, J. (2015). New York State Mental Health Courts: A Policy Study. Center for Justice Innovation. Rossman, S. B., Willison, J. B., Mallik-Kane, K., Kim, K., Debus-Sherrill, S., & Downey, P. M. (2012). Criminal Justice Interventions for Offenders with Mental Illness: Evaluation of Mental Health Courts in Bronx and Brooklyn, New York. The Urban Institute.
+24 Yang, P. (2024). Improving Carceral Care. Vital City.
+25 Data Collaborative for Justice. New York City Jail Population Tracker.
+26 United States District Court, Southern District of New York. (May 13, 2025). Opinion and Order Regarding Appointment of a Nunez Remediation Manager. MARK NUNEZ, et al., Plaintiffs, -v- NEW YORK CITY DEPARTMENT OF CORRECTION and THE CITY OF NEW YORK, Defendants.
+27 Data Collaborative for Justice. New York City Jail Population Tracker.
+28 New York City Comptroller. Department of Correction Dashboard.
+29 New York City Council. (October 17, 2019). Rikers to Close: City Council Approves Historic Plan To Close Rikers Island and Secures $391 To Reform NYC Criminal Justice System.
+30 New York City Council. (February 25, 2021). Transfer of Land, Buildings and Facilities of Rikers Island to the Dept of Citywide Administrative Services.
+31 Koppel, S., Rempel, M., Xie, M., Lu, O., Travis, T., & Chauhan, P. (2025). Justice at a Crossroads in New York City: Reexamining Crime, Enforcement, Incarceration, and Racial Disparities. Data Collaborative for Justice & University of Maryland.; Data Collaborative for Justice. New York City Jail Population Tracker.
+
+25
+ENDNOTES
+32 Rempel, M. (2022). Decarceration in the Bail Reform Era: New York City’s Changing Jail Population Since 2019. Data Collaborative for Justice.
+33 Rempel, M. (2020). COVID-19 and the New York City Jail Population. Center for Justice Innovation.
+34 Data Collaborative for Justice. New York City Jail Population Tracker.
+35 Bock, K. & Rempel, M. (2025a). Incarceration on Rikers Island in the Aftermath of the New York State Corrections Officers Strike. Data Collaborative for Justice.
+36 On the original plan to create 275 off-jail hospital beds, see Office of the Mayor, The City of New York. (October 18, 2019). Borough-Based Jail Plan Points of Agreement. The increase in this number to nearly 400 is cited in Lippman, J. (November 10, 2021). A Test of What Society Considers Morally Unacceptable. New York Times. For information about the therapeutic model behind the plan for hospital-based beds, see Yang, P. (2024). Improving Carceral Care. Vital City.
+37 Blau, R. (November 19, 2024). Rikers Island Shutdown Plan Progresses with Construction Firms for New Manhattan Jail. The City.
+38 Kaye, J. (January 24, 2025). Rikers Replacement in Manhattan to Open Five Years After Jail Complex’s Closure. Queens Daily Eagle.
+39 Glazer, E. & Jacobson, M. (2021). What to Do About Closing Rikers. Vital City; Rempel, M., Rodriguez, K., Nims, T., Weill, J., Katznelson, Z., & Volpe, M. (2021). Closing Rikers Island: A Roadmap for Reducing Jail in New York City. Independent Rikers Commission and Center for Justice Innovation.
+40 Jacobson, M. & Lawson, V. (2024). How Long People Stay is the Problem. Vital City; Rempel, M.
+(2024). A Jail Population of 3,700 or Lower is Achievable. Vital City.
+41 Freedom Agenda, Data Collaborative for Justice, Vera Institute of Justice, Visionary V Ministries, Mental Health Project, Women’s Community Justice Association, et al. (2025). The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island. Campaign to Close Rikers.
+42 Independent Rikers Commission. (2025), Op Cit.
+43 Ropac. R. & Rempel, M. (2023). Does New York’s Bail Reform Law Impact Recidivism? A Quasi- Experimental Test in New York City. Data Collaborative for Justice; Ropac, R. (2025). Testing the Long-Term Impact of Bail Reform Across New York State: A Quasi-Experimental Evaluation. Data Collaborative for Justice.
+44 For studies set in Harris County, Texas (encompassing Houston), see Heaton, P., Mayson, S., & Stevenson, M. (2017). The Downstream Consequences of Misdemeanor Pretrial Detention.
+Stanford Law Review, 69: 711-794; and Heaton, P. (2022). The Effects of Misdemeanor Bail Reform. Quattrone Center for the Fair Administration of Justice. For a two-site study set
+
+26
+ENDNOTES
+in Philadelphia and Miami, see Dobbie, W., Goldin, J., & Yang, C. S. (2018). The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges. American Economic Review, 108(2): 201-240. For an overlapping study set in Philadelphia and Pittsburgh, see Gupta, A., Hansman, C., & Frenchman, E. (2016). The Heavy Costs of High Bail. The Journal of Legal Studies, 45(2): 471-505. For a study set in Kentucky, see Lowenkamp, C. (2022). The Hidden Costs of Pretrial Detention Revisited. Arnold Ventures.
+45 Data Collaborative for Justice. New York City Jail Population Tracker; New York City Comptroller. Department of Correction Dashboard.
+46 McDonough, A. (September 30, 2022). Mental Health Care on Rikers: New York’s Largest Psychiatric Provider. City & State.
+47 This section largely replicates the organization of a 2024 fact sheet documenting mental health indicators among people housed in New York’s jails and prisons; see, Rempel, M. (2024).
+Population Trends and Health Indicators in New York State Prisons and Jails. Data Collaborative for Justice and From Punishment to Public Health (P2PH). However, the current report only updates the jail data, while the previous fact sheet also covered upstate jails and state prisons.
+This section also builds on a recent analysis of the prevalence and timing of flagging for mental health needs since 2016; see, Bock, K. & Rempel, M. (2025b). Flagging for Mental Health Needs in New York City Jails: Prevalence and Timing. Data Collaborative for Justice.
+48 The term, “Brad H,” comes from a landmark 2003 legal settlement; see Supreme Court of the State of New York. (January 8, 2023). Stipulation of Settlement of BRADH., et al., Plaintiffs, -against THE CITY OF NEW YORK, et al., Defendants.
+49 Data Collaborative for Justice. New York City Jail Population Tracker.
+50 Bock, K. & Rempel, M. (2025b), Op Cit.
+51 Correctional Health Services. (September 2025). CHS Patient Profile for Individuals in the New York City Jail System.
+52 The figure for September 2020 is available in New York City Comptroller. Department of Correction Dashboard.
+53 The figure isolating people with a serious mental illness is from Independent Rikers Commission. (2025), Op Cit.
+54 Independent Rikers Commission. (2025), Op Cit.
+55 Max, S. & Lane, C. (April 7, 2025). NYC Keeping People with Mental illness on Rikers Island Due to Hospital Bed Shortage. Gothamist.
+56 Correctional Health Services. (September 2025), Op Cit.
+
+27
+ENDNOTES
+57 New York City Department of Correction (2025). Monthly Report on Medical Appointment Non-Production August 2025; New York City Department of Correction (2025). Monthly Report on Medical Appointment Non-Production August 2020.
+58 Rayman, G. (August 8, 2024). NYC Corrections Staff Charged with Falsifying Medical Forms.
+Daily News.
+59 New York City Comptroller. Department of Correction Dashboard.
+60 Data Collaborative for Justice. New York City Jail Population Tracker.
+61 Bock, K. & Rempel, M. (2025a), Op Cit.
+62 Results for assault, robbery, and burglary are for the first and second degrees of each of those respective charges. Results for sex offenses and firearms and weapons cases are for violent felony charges in Penal Law Sections 130 and 265, respectively.
+63 Bock, K. & Rempel, M. (2025b), Op Cit.
+64 Supreme Court of the State of New York. (January 8, 2023), Op Cit.
+65 Urban Justice Center, Mental Health Project. Brad H Discharge Planning Services.
+66 Supreme Court of the State of New York. (2025), Op Cit.
+67 A More Just NYC and Alliance for Safety and Justice. (2024). New York City Crime Survivors Speak: A Citywide Survey of Victims’ Views on Safety and Justice.
+68 Independent Rikers Commission. (2025), Op Cit.
+69 New York State Office of Addiction Services and Supports. New York State Opioid Settlements.
+70 New York Opioid Settlement Sharing Agreement. (July 20, 2021). Schedule C – Approved Uses.
+71 Argus Community. Harbor House Intensive Residential Program.
+72 Independent Rikers Commission. (2025), Op Cit.
+73 National Council for Mental Wellbeing. (2024). Integrating Peer Programs for People Who Use Drugs. SAMHSA (Substance Abuse and Mental Health Services Administration). Incorporating Peer Support into Substance Use Disorder Treatment Services, Treatment Improvement Protocol TIP 64.
+74 New York City Council. (June 30, 2025). New York City Council Adopts Fiscal Year 2026 Budget with Increased Housing, Childcare, Education, Mental Health, Public Safety, and Quality of Life Investments; The Network: Supportive Housing Network of NY. Justice Involved Supportive Housing (JISH) RFP.
+75 Independent Rikers Commission. (2025), Op Cit.
+
+28
+ENDNOTES
+76 New York City Council. (June 30, 2025), Op Cit.
+77 Independent Rikers Commission. (2025), Op Cit.
+78 New York State Department of Health. Medicaid Health Homes: Comprehensive Care Management; New York State Office of Mental Health. Assertive Community Treatment; New York State Office of Mental Health: Forensic Community Assertive Treatment (FACT): Program Guidelines Addendum; Colton, J., Misra, R., Woznick, E., Wiedermann, R., & Huh, A. (2024).
+Reaching the Unreachable: Intensive Mobile Treatment, an Innovative Model of Community Mental Health Engagement and Treatment. Community Mental Health Journal.
+79 Clausen, H., Landheim, A., Odden, S., Bench, J. S., Heiervang, K. S., Stuen, H. K., Killaspy, H., & Ruud, T. (2016). Hospitalization of High and Low Inpatient Service Users before and after Enrollment into Assertive Community Treatment Teams: A Naturalistic Observational Study.
+International Journal of Mental Health Systems, 10: 14.
+80 Rempel, M., Rodriguez, K., Nims, T., Weill, J., Katznelson, Z., & Volpe, M. (2021). Closing Rikers Island: A Roadmap for Reducing Jail in New York City. Independent Rikers Commission and Center for Justice Innovation.
+81 Frazier, S. N. & Vela, J. (2014). Dialectical Behavior Therapy for the Treatment of Anger and Aggressive Behavior: A Review. Aggression and Violent Behavior, 19: 2 82 Osborne. Kinship Reentry Housing Program.
+83 Fountain House. Clubhouse Model: What is a Clubhouse?
+84 See Independent Rikers Commission. (2025), Op Cit.; Max, S. & Lane, C. (2025), Op Cit.
+85 Kaye, J. (November 13, 2024). DOC Boss Denies Knowing About Rikers’ ‘Worst Kept Secret.’ Queens Daily Eagle; Rzewinski, J. (June 27, 2025). Why I Blew the Whistle on Extreme Confinement on Rikers Island. The Marshall Project.
+86 Rempel, M., et al. (2021), Op Cit.
+87 Blau, R. (August 12, 2025). Rikers Detainees Denied Mental Health Care They Need to Stand Trial, Suit Says. The City.
+88 Data was provided by the Center for Justice Innovation, which operates the Brooklyn Mental Health Court in partnership with the state court system.
+89 Rempel, M., et al. (2021), Op Cit.
+90 Hahn, J. (2015). New York State Mental Health Courts: A Policy Study. Center for Justice Innovation.
+
+29
+ENDNOTES
+91 New York State Senate, 2025-2026 Regular Sessions. (2025). (February 26, 2025). An ACT to Amend the Criminal Procedure Law and the Judiciary Law, in Relation to Judicial Diversion Programs; and to Repeal Certain Provisions of the Criminal Procedure Law Relating Thereto.
+State of New York.
+92 Data on citywide participation in mental health courts was provided by the New York State Office of Court Administration, with the one exception of the Brooklyn Mental Health Court, for which data was provided by the Center for Justice Innovation.
+93 Rossman, S. B., Willison, J. B., Mallik-Kane, K., Kim, K., Debus-Sherrill, S., & Downey, P. M.
+(2012). Criminal Justice Interventions for Offenders with Mental Illness: Evaluation of Mental Health Courts in Bronx and Brooklyn, New York. The Urban Institute.
+94 O’Keefe, K. (2006). The Brooklyn Mental Health Court Evaluation: Planning, Implementation, Courtroom Dynamics, and Participant Outcomes. Center for Justice Innovation.
+95 Jalain, C. I., Lucas, P. A., & Higgins, G. E. (2024). Assessing the Effectiveness of Mental Health Courts in Reducing Recidivism: A Systematic Review with Meta-Analysis. Justice Evaluation Journal, 2: 212-230.
+96 Kaye, J. (May 15, 2024). Chief Judge Backs Pair of Criminal Justice Reform Bills. Queens Daily Eagle.
+97 Rempel, M., et al. (2021), Op Cit.
+98 O’Keefe, K. (2006), Op Cit.
+99 Picard, S., Rodriguez, K., & Rempel, M. (2022). Moving Past Arbitrary Bail: A Proposal for More Deliberative Decision-Making. Federal Probation, 86: 3: 43-49.
+100 New York City Criminal Justice Agency. CJA Pretrial Interview and the Release Assessment.
+101 Cloud, D., Siegler, A., Martell, M., Pope, L., & Parsons, J. (2017). The Enhanced Pre-Arraignment Screening Unit Improving Health Services, Medical Triage, and Diversion Opportunities in Manhattan Central Booking. Vera Institute of Justice.
+102 Yang, P. (2024), Op Cit.
+103 Blau, R. (July 21, 2025). $241 Million Later, Brand-New Bellevue Hospital Jail Unit Sits Empty.
+The City; New York City Comptroller Brad Lander. (July 29, 2025). Letter to Mayor Adams Re:
+Urgent Need to Submit Final Commissioning Report and Expedite Activation of Outposted Therapeutic Housing Units.
+104 Independent Rikers Commission. (2025), Op Cit.

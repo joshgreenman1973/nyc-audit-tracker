@@ -1,0 +1,389 @@
+TITLE: Housing and the Interborough Express: Tackling New York City's Housing Crisis One Stop at a Time
+URL: https://buildingcongress.com/report/2025-ibx-report/
+ISSUED: 2025-06-26
+PDF: https://buildingcongress.com/wp-content/uploads/2025/06/2025-IBX-Report.pdf
+
+HOUSING AND THE
+HOUSING AND THE
+INTERBOROUGH EXPRESS
+INTERBOROUGH EXPRESS
+Tackling New York City's Housing Crisis One Stop at a Time
+
+FOREWORD
+For more than a century, the New York Building Congress has been a driving force for transformative infrastructure, housing, and community development activity across the five boroughs and beyond. Today, we represent over 500 organizations and 250,000 skilled tradespeople and professionals who are dedicated to planning, designing, and constructing an even better, more prosperous city for all New Yorkers.
+In this report, we focus on the proposed Interborough Express (IBX), a planned 14-mile transit line that will repurpose an existing rail right-of-way to connect areas of Brooklyn and Queens that currently lack substantial mass transit options. It is clear that outer boroughs need more transit connections between them that don’t include first commuting through Manhattan.
+Over 100 years ago, we built the subway system that connected our city, enabled unprecedented growth, and allowed New York to flourish into the global powerhouse it is today. The IBX is a transformative project that can further cement this legacy. The IBX also holds enormous promise for transit-oriented development (TOD). By connecting new transportation links with more housing opportunities, this project can cut down commute times and bring meaningful investments to historically underserved neighborhoods. The IBX will help bridge “transit deserts,” connecting more residents to the broader transit system, to new commercial hubs, and will boost local economic development in the same way that local economies grew following the construction of the Second Avenue Subway. Thanks to years of advocacy, led by the Regional Plan Association and supported by the New York Building Congress and its members, what was once only a concept is now a viable, actual plan, with funds earmarked in the 2025-2029 MTA Capital Plan. Governor Kathy Hochul’s steadfast public support has been critical in elevating the project as a cornerstone of the region’s next era of transit expansion.
+However, it is clear that we must look beyond transit alone. A holistic vision for the IBX corridor involves increased flexibility in local zoning, creating the conditions for livable, walkable 24/7 neighborhoods, vibrant shopping and dining districts, and affordable housing options. By rethinking where and how we build, these communities can benefit fully from new transit lines, ensuring that the IBX investment sparks long-term, inclusive growth for not just residents in those communities, but for all New Yorkers.
+Together, we can foster the kind of comprehensive development that aligns infrastructure, housing, and commerce. Our members are ready to support and work with elected officials, community leaders, and industry stakeholders to help realize the IBX corridor’s full potential. The time to act is now.
+Gregory A. Kelly, P.E.
+New York Building Congress Chair President STV Carlo A. Scissura, Esq.
+President & CEO
+New York Building Congress
+
+1
+INTRODUCTION
+This study takes a comprehensive look at the proposed IBX corridor map, examining the route’s underlying zoning conditions and analyzing how these restrictions may impact the future of TOD housing growth in surrounding neighborhoods. We map a ten-minute walkshed (one half-mile) around each planned station, detailing the various zoning regimes: residential, commercial, manufacturing districts, etc. We highlight the areas positioned to best accommodate modestly denser housing development, taking into account new zoning flexibility brought in by the Adams’ administration’s recently passed “City of Yes for Housing Opportunity.”
+In the process of this research, Building Congress staff surveyed the entirety of the existing right-of-way for the future IBX route and each station location. This helped to ensure that we had a better understanding of the communities along the corridor, compared to making recommendations solely from analyzing data behind a screen. The insights gained from this survey informed and better shaped our analysis and recommendations.
+This report reviews and proposes several rezoning options that would help achieve benchmark targets (like 50 dwelling units per acre) across the broad swath of the IBX corridor. We offer a variety of strategies for creating thriving transit-oriented developments, where walkable neighborhoods, new homes, and robust commercial areas can flourish.
+HISTORY
+The Interborough Express is a long-envisioned transit proposal to establish a new passenger rail link between Brooklyn and Queens using the existing Bay Ridge Branch, a freight rail corridor owned by the Long Island Rail Road (LIRR). The idea of passenger service along this right-of-way dates back to as early as the 1990s, when transportation advocates like the Regional Plan Association1 began highlighting the lack of efficient east-west transit options between the outer boroughs.
+The proposed IBX introduces 19 new stations between Brooklyn Army Terminal and Jackson Heights, connecting 17 subway lines, LIRR stops, and dozens of bus stations across Brooklyn and Queens. It would stretch approximately 14 miles from Bay Ridge, Brooklyn to Jackson Heights, Queens, without requiring passengers to travel through Manhattan. Initial studies estimate up to 115,000 daily weekday ridership with annual ridership at approximately 40 million, and an end-to-end trip time of 40 minutes.2 In 2022, the project was formally revived under Gov. Hochul, who directed the Metropolitan Transportation Authority (MTA) to conduct an environmental review process for the project. An MTA feasibility study released in early 2022 confirmed the potential for a high-ridership, cost-effective corridor. In January 2023, light rail was officially selected.
+The MTA estimated the cost of the IBX at approximately $5.5 billion3, with the use of an existing rail corridor still making it significantly more cost-effective than a tunneling-intensive subway expansion. New York State’s FY 2026 Budget fully funds the $68 billion MTA 2025-2029 Capital Plan, which includes the first $2.75 billion of the estimated $5.5 billion total cost of the IBX4. Allocating $2.75 billion now covers a significant portion of initial costs to design and start building the IBX. It also signals a full commitment while the MTA refines final costs and lines up the federal funding needed to break ground. The remaining dollars will be programmed once design is further along. We expect the IBX project to generate over 32,000 jobs.5 1 https://rpa.org/work/reports/the-triboro 2 https://www.mta.info/document/126041 3 https://www.mta.info/document/87606 4 https://www.mta.info/document/151266 5 https://www.mta.info/press-release/independent-analysis-finds-mtas-proposed-2025-2029-capital-plan-would-generate-106
+
+2
+IBX CORRIDOR: EXISTING CONDITIONS To understand where and how housing growth can be supported along the IBX corridor, we begin by taking stock of the current conditions surrounding each planned station. This section outlines the physical and zoning context of the corridor using key spatial and land use data.
+Typically, parts of Queens & Brooklyn have lower population densities than Manhattan, but along the corridor, census tracts near many of the major hubs already have population densities comparable to neighborhoods in Manhattan6. Jackson Heights in Queens has a similar population density to Battery Park City in Lower Manhattan, and Sunset Park is similar to the area of Hudson Yards, Chelsea, Flatiron, and Union Square.
+According to research published by authors Elif Ensari Sucuoglu, Joao Paulouro and Eric Goldwyn at New York University (NYU), “Population density around the IBX stations ranges between 11,800 and 132,800 residents per square mile, with a median of 47,657.”7 Put simply, some areas along the IBX route have high housing density, while others very much do not. Dense neighborhoods supply the ridership and economic activity that will ensure that the IBX remains financially viable. Increasing housing density via transit-oriented development along this corridor would lower household transportation costs by making the community less reliant on cars as their primary mode of transportation, cut greenhouse gas-emissions, and boost nearby property values.8 6 https://www.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/census2010/m_pl_p2_nta.pdf 7 https://ibx.transitcosts.com/ibx-posts/unlocking-the-ibx-transit-potential/ 8 https://iri.hks.harvard.edu/files/iri/files/fostering-equitable-and-sustainable-transit-oriented-development.pdf Linden Boulevard Livonia Avenue Sutter Avenue Atlantic Avenue Eliot Avenue Roosevelt Avenue Grand Avenue Metropolitan Avenue Myrtle Avenue Wilson Avenue Remsen Avenue Utica Avenue Flatbush - Nostrand Avenue East 16th Street McDonald Avenue New Utrecht Avenue 4th Avenue Brooklyn Army Terminal 8th Avenue Planned IBX Stations IBX Line
+
+3
+TOTAL DEVELOPMENT CAPACITY WITHIN A 10-MINUTE WALK Across the proposed IBX route, we have analyzed the total 327,885,403 square footage of land area located within a half-mile walkshed of each station individually (approximately a 10-minute walking distance to each station). As some stations’ walksheds overlap with one another, we have identified that the true net total square footage along the entire route is 260,646,825 sq. ft.
+The total number of housing units today within the entire IBX corridor is 228,256 units.
+LAND USE COMPOSITION (% BREAKDOWN)
+First, we aggregated land use categories within each walkshed by four broad zoning categories (below)
+to get a sense of the land use makeup for the IBX route. Each station area includes a variety of land use categories, though some walksheds are dominated by one overarching zoning characteristic or another.
+Mapping where specific zoning patterns cluster around each station and across the corridor as a whole allows us to trace each neighborhood’s planning history and spot areas that have long been overlooked in public investment and those in which more housing density would be most appropriate. We are also evaluating each station area independently from the borough it falls within.
+The breakdown of the entire IBX route walkshed is as follows:
+STATIONS
+TOTAL LOT AREA
+Brooklyn Army Terminal
+17,417,696
+4th Avenue
+16,908,895
+8th Avenue
+13,208,328
+New Utrecht Avenue
+14,978,876
+McDonald Avenue
+16,643,153
+East 16th Street
+15,856,058
+Flatbush - Nostrand Avenue 15,236,124 Utica Avenue 15,080,949 Remsen Avenue 15,326,587 Linden Boulevard 17,489,032 Livonia Avenue 15,749,539 Sutter Avenue 16,096,232 Atlantic Avenue 17,308,758 Wilson Avenue 21,574,220 Myrtle Avenue 28,898,164 Metropolitan Avenue 19,107,355 Eliot Avenue 20,263,706 Grand Avenue 16,043,328 Grand Avenue 14,698,403 NET TOTAL 260,646,825 Manufacturing: 19.71% Commercial: 1.84% Low-Density Residential (R1–R5): 47.91% High-Density Residential (R6–R10): 30.54% 19.71% 19.71% 47.91% 47.91% 30.54% 30.54% 1.84% 1.84%
+
+4
+STATION TYPOLOGIES:
+We grouped the proposed IBX stations into common typologies based on shared characteristics, to fall within our four categories.
+The stations that fall predominantly within these categories are:
+From the above, several station areas stand out in contrast to the overall makeup of the route, in which almost half of the area is zoned for low-density residential usage. For example, the Brooklyn Army Terminal (BAT) and Linden Boulevard Stations are defined by large swaths of manufacturing land use, more than double that of the route average. This is because the areas around these stations were historically developed as industrial corridors in the early to mid-20th century, supported by freight rail infrastructure and, in BAT’s case, proximity to ports, and they have largely kept their zoning and land use patterns through the present.
+Stations
+Commercial
+Manufacturing
+Low
+Residential
+High
+Residential
+Grouping
+Linden Boulevard
+0%
+45%
+0%
+55%
+High Res
+4th Avenue
+3%
+32%
+14%
+51%
+High Res
+8th Avenue
+3%
+24%
+2%
+72%
+High Res
+New Urecht Avenue
+1%
+15%
+4%
+80%
+High Res
+McDonald Avenue
+1%
+7%
+13%
+79%
+High Res
+Livonia Avenue
+2%
+19%
+0%
+79%
+High Res
+Sutter Avenue
+5%
+30%
+0%
+65%
+High Res
+Roosevelt Avenue
+3%
+3%
+8%
+86%
+High Res
+Utica Avenue
+3%
+31%
+59%
+7%
+Low Res
+Wilson Avenue
+0%
+11%
+54%
+34%
+Low Res
+Myrtle Avenue
+1%
+14%
+53%
+32%
+Low Res
+Metropolitan Avenue
+0%
+21%
+72%
+7%
+Low Res
+Eliot Avenue
+0%
+3%
+96%
+0%
+Low Res
+Grand Avenue
+1%
+15%
+68%
+16%
+Low Res
+Brooklyn Army Terminal
+1%
+61%
+9%
+29%
+Manufacturing
+East 16th Street
+3%
+0%
+47%
+51%
+Res Blend
+Flatbush - Nostrand Avenue 3% 0% 51% 46% Res Blend Remsen Avenue 1% 37% 27% 35% Varied Blend Atlantic Avenue 6% 29% 27% 38% Varied Blend Total 1.84% 19.71% 47.91% 30.54%
+
+5
+Proposed station areas like 8th Avenue, New Utrecht Avenue, McDonald Avenue, Livonia Avenue, Sutter Avenue, and Roosevelt Avenue have an outsized share of high-density residential zoning. This is due in part to past city efforts to develop these areas as transit-oriented residential neighborhoods. For instance, the New York City Department of Housing Preservation and Development (HPD) and New York City Housing Development Corporation (HDC)
+launched Phase II of the Livonia Avenue Initiative in 2014, which completed 288 units of affordable housing in
+2019. As a part of the greater “Brownsville Plan” released in 20179, the city has sought out partners to construct over 2,500 units of affordable housing in the area. Through the Brownsville Planning process, HPD put out a Brownsville RFP for over 880 units to be built on three City-owned sites: Brownsville Arts Center and Apartments, Glenmore Manor Apartments, and Livonia 4.10 Similar to this larger plan, the area around McDonald Avenue saw a mixed-use MIH rezoning effort in 2018 that was viewed favorably by the local community board and City Planning Commission.11 Areas characterized by low-density residential zoning include Eliot Avenue, Grand Avenue, Metropolitan Avenue, and Utica Avenue stations. This is a result of the historical development of these neighborhoods as low-density residential communities, characterized primarily by single-family homes. For example, Eliot Avenue was expanded in 1939 to accommodate new residential developments, transforming the area from farmland to a neighborhood of one-family rowhouses12. Metropolitan Avenue has long served as a major thoroughfare through areas like Maspeth and Middle Village, which have maintained their low-density residential character over the years. Utica Avenue has also retained a mix of low and medium density residential zoning, reflecting the area’s historical development patterns. These zoning designations have been long preserved.
+9
+https://www.nyc.gov/assets/hpd/downloads/pdfs/services/brownsville-plan-presentation-february-2024.pdf 10 https://www.nyc.gov/site/hpd/about/projects-detail.page?project=Livonia%204&borough=Brooklyn&constructionType=New%20Construction 11 https://www.citylandnyc.org/rezoning-application-will-map-first-mih-area-in-brooklyn-community-district-15/?utm_source=chatgpt.com 12 https://qns.com/2025/03/telling-story-one-important-roads-maspeth-middle-village-neighborhood-way/ Manufacturing -Remsen Avenue Low Residential - Brooklyn Army Terminal Commercial - Atlantic Avenue High Residential - Wilson Ave
+
+6
+ECONOMIC HUBS & REDEVELOPMENT ZONES Many of the proposed IBX stations sit adjacent to major commercial hubs or planned strategic redevelopment zones.
+These include areas with significant city-owned land, publicly planned investments, or privately led land use plans already in motion.
+Examples include:
+13
+https://issuu.com/nycedcmis/docs/2024_-_the_nycedc_impact 14 https://buildingcongress.com/wp-content/uploads/2024/04/2023_TOD.pdf 15 https://www.mta.info/agency/new-york-city-transit/subway-bus-ridership-2023 16 https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-jackson-heights.pdf 17 https://www.panynj.gov/port-authority/en/press-room/press-release-archives/2025-press-releases/governor-hochul--port-authority-and-mtaunveil--160-million-plan.html 18 https://edc.nyc/project/broadway-junction-east-new-york 6 BROOKLYN ARMY TERMINAL (BAT):
+At the south end of the IBX, the BAT is already a jobs engine, and the project’s planned station would drop riders at the heart of a four million-square-foot, city-owned industrial campus that hosts 100+ firms and 4,000 workers. The New York City Economic Development Corporation (NYCEDC) is pushing the site further: in 2024 it released an RFP offering up to $100 million for a 100,000-square- foot Climate Innovation Hub that will add research bays, pilot space and workforce programs aimed at climate tech manufacturing.11 Because BAT is the southern anchor of the 14-mile corridor, the IBX will tie this expanding employment center directly to 18 other stations and connect it to 17 existing subway lines and the LIRR, giving companies new recruiting reach and giving Sunset Park residents a one-train ride to jobs along the route. The combination of rail access, ready-to-lease industrial floors, and fresh public capital makes BAT one of the corridor’s clearest economic development opportunities.
+62ND ST. AND NEW UTRECHT AVE:
+The intersection of the D train and N train at 62nd St. and New Utrecht Avenue is a key candidate for future TOD growth. Today, at this station a commuter can reach one million more jobs within 60 minutes (3,125,449 jobs) than the most accessible census block in the next biggest city in the country (2,105,250 jobs within 60 minutes of downtown Los Angeles). The IBX will connect commuters to even more job opportunities. All the station entrances sit within an underutilized light manufacturing zone and the surrounding residential districts limit the FAR to 1.5, meaning building sizes/volumes are constrained based on the size of the lots they sit on.
+Expanding this area for mixed-use zoning and permitting exemptions for infill development are critical next steps for developing TOD near this subway station.12
+
+7
+These hubs are in areas that already offer the dual benefit of strong transit access and high land availability, allowing for coordinated development efforts combining housing, retail, and community infrastructure. These areas are being redeveloped right now and will continue to grow and benefit exponentially with the further economic and transit growth fueled by the IBX.
+7
+ IBX Stations
+ IBX Line
+JACKSON HEIGHTS:
+At the line’s northern end, the planned IBX stop at Roosevelt Avenue–Jackson Heights plugs straight into one of New York’s busiest transit and retail hubs. The existing E/F/M/R/7 subway complex logged 14.3 million paid entries in 2023, ranking ninth systemwide.13 At street level, the commercial district stretching along Roosevelt and 37th avenues supports more than 1,050 storefronts with a vacancy rate under five percent—the highest business density in Queens.14 The hub’s reach is about to grow. In March 2025 Gov. Hochul, the Port Authority of New York and New Jersey (PANYNJ) and the MTA announced a $160 million plan to speed up the fare-free Q70 “LaGuardia Link.” The package funds shoulder-lane bus lanes on the BQE, traffic-signal priority along Roosevelt Avenue and Broadway, extra midday trips, and dedicated pick-up/ drop-off space at LaGuardia Airport Terminal C.15 The IBX only adds to this growth bringing:
+heavier foot traffic for the district’s small-business backbone, greater workforce access for local businesses, and a launch pad for future investment along Roosevelt Avenue and beyond.
+BROADWAY JUNCTION:
+Broadway Junction is slated for a major $500 million upgrade, including $400 million from the MTA to modernize station facilities, adding seven new elevators, and replacing all escalators. An additional $95 million will be used for public space improvements, such as two new public plazas and street safety upgrades. These improvements are expected to produce an economic impact exceeding $11.6 billion and create approximately 2,300 jobs, with a focus on local workforce participation.16
+
+8
+ANALYSIS:
+HOW MANY HOMES DO WE NEED TO BUILD, AND WHERE, TO MAXIMIZE THE POTENTIAL FOR TOD ALONG THE IBX ROUTE?
+THEORETICAL BUILD-OUT POTENTIAL The current total number of housing units today is 228,256 units.
+Under current zoning laws, we estimate that the theoretical maximum build-out within the IBX route, to be around 479,000 units. If this were to be calculated with qualifying units (i.e., buildings that are allowed an FAR bonus if they meet certain criteria, often specific to individual zones19), the theoretical maximum build-out would be around 697,154 units. We recognize that the theoretical maximum number of units is strictly that, theoretical, as it is unrealistic to assume that a neighborhood can or will build all the housing technically allowable under current zoning, especially considering buildings that exist today were built under earlier zoning laws. As such, the above numbers should be viewed with careful skepticism.
+Further, from our research comparing other neighborhoods that have recently undergone rezonings, we identified a general rule of thumb that neighborhoods will typically build about half of the homes allowable under land use laws, and it takes several years to reach that halfway mark. Additionally, the above estimates assume each unit size to be the minimum legally allowable dwelling unit size of 680 square feet. To identify a more realistic maximum theoretical build-out potential we increased the average unit size to 880 square feet, based on input from member firms familiar with housing construction and the following assumption: Factoring in mechanical deductions of a gross square footage (GSF) to zoning square footage (ZSF) ratio of 1.13/1 due to the passage of City of Yes for Housing Opportunity, we could expect around 1,000 GSF residential area/unit or around 880 ZSF per unit.
+With this in mind, we estimate that a more realistic, though still theoretical, maximum build-out is around 370,418, or 538,710 for qualifying units.
+To understand how to ground these estimates in reality, we used Long Island City (LIC) as a case study. LIC saw 53.6% of its zoned capacity realized over a ten-year horizon, illustrating the difference between theoretical and actual development outcomes. This is often a reflection of the fact that not everything can be housing – communities also need schools, restaurants, offices, grocery stores, etc... but, it does serve as a good example for how many actual homes are built once zoning allows for more in theory. We apply a similar absorption rate across IBX stations, which allows us to project the level of rezoning needed to achieve a target of actual homes built.
+HOUSING DENSITY TARGET AND ZONING GOALS We set a corridor-wide target of at least 50 dwelling units per acre, a threshold established as a best practice for TOD20 and noted in our previous TOD report. At 50 dwelling units per acre across the IBX route, we get a target number of 70,925 new homes needed across the entire IBX route. To achieve our target housing unit number, we need to establish a theoretical maximum allowable zoning level that is roughly double the amount of housing needed, as established above. This results in a total target zoning goal of 517,943 homes needed along the IBX route.
+Where should we focus redevelopment energy?
+19
+https://www.nyc.gov/content/planning/pages/zoning/zoning-districts-guide/special-areas-rules 20 https://ctod.org/pdfs/tod202stations.pdf, https://metrocouncil.org/Communities/Services/Livable-Communities-Grants/LCA-Programs/Transit-Oriented-Development/TOD/Metropolitan-Council-TOD-Guide-Land-Use-Densities.aspx 8
+
+9
+SCENARIO MAPPING AND REZONING RANGES We mapped out scenarios that test different strategies for where zoning changes could be applied:
+commercial and manufacturing, residential districts, or a hybrid approach. These are not mutually exclusive but serve to illustrate trade-offs when looking to meet our housing production target of 70,925 units.
+1. UNIFORM UPZONING ACROSS ALL ZONING DISTRICTS What if every station area received a uniform, modest zoning increase?
+This scenario applies a one-step zoning bump to all zoning districts (e.g., R4 to R5, M1 to M1-4D, C4-4 to C4-5) within each station’s half-mile walkshed.
+Estimated Units Added: 42,666 Estimated units zoned for 880 dwelling unit size: 505, 451 The benefit of this approach is that it is generally neutral as it spreads change evenly across all neighborhoods, without targeting any specific location, like the City of Yes for Housing Opportunity. Unfortunately, it does not build nearly the number of homes needed to reach TOD targets and does not take full advantage of key opportunity areas in neighborhoods where it may be most feasible to add more housing.
+ Stations
+ Manufacturing
+ Commercial
+ Low-Density Residential (R1–R5)
+ High-Density Residential (R6–R10)
+9
+
+10
+2. TARGETING MANUFACTURING AND COMMERCIAL ZONES ONLY Can we meet our housing goals by only rezoning non-residential land?
+This scenario rezones only M- and C-zoned parcels, typically underbuilt or vacant, to allow for mixed-use or residential development at moderate-to-high densities.
+Estimated Units Added: 83,529 Estimated units zoned for 880 dwelling unit size: 581,690 The benefit of this approach is that it minimizes conflict with current existing residential communities, focusing on areas where there is limited or no housing today. This focuses on soft sites and underutilized land that could benefit the whole community. It also allows the focus to be towards mixed-use communities, while avoiding heavy manufacturing zones which may have health-related concerns that bar housing development.
+Example of Manufacturing and Commercial Zones:
+PRESERVING NYC’S MANUFACTURING AND INDUSTRIAL JOBS PRESERVING NYC’S MANUFACTURING AND INDUSTRIAL JOBS Looking to rezonings in other areas designated for manufacturing in NYC, such as Gowanus and Long Island Looking to rezonings in other areas designated for manufacturing in NYC, such as Gowanus and Long Island City as a precedent, if we were to rezone the manufacturing areas around the IBX route to a much higher City as a precedent, if we were to rezone the manufacturing areas around the IBX route to a much higher zoning level, creating a mixed-use district similar to R10 (with an FAR of 12), then this would far overshoot zoning level, creating a mixed-use district similar to R10 (with an FAR of 12), then this would far overshoot our goal, adding 213,338 new homes, by zoning for 823,869 new homes.
+our goal, adding 213,338 new homes, by zoning for 823,869 new homes.
+The challenge with this approach is the risk of displacing job-generating uses at existing locations. This The challenge with this approach is the risk of displacing job-generating uses at existing locations. This upzoning would also be a dramatic shift and may also require considerable mitigation work following an upzoning would also be a dramatic shift and may also require considerable mitigation work following an environmental review before homes can be built. Further, we found that manufacturing districts along the environmental review before homes can be built. Further, we found that manufacturing districts along the IBX route are not evenly distributed and will place more of the increased housing density towards certain IBX route are not evenly distributed and will place more of the increased housing density towards certain neighborhoods and locations, (shown in the image to the right).
+neighborhoods and locations, (shown in the image to the right).
+10
+Remsen Avenue
+
+11
+ Stations
+ Manufacturing
+ Commercial
+11
+Brooklyn Army Terminal
+Linden Boulevard
+Sutter Avenue
+
+12
+3. FOCUS ON LOW-DENSITY RESIDENTIAL AREAS What if we increased density solely in areas currently zoned R1–R5?
+This scenario applies moderate upzoning to low-density residential neighborhoods, areas dominated by single- and two-family homes and introduces small multifamily buildings or accessory dwelling units into the area. In this approach we estimated the number of units created by upzoning these areas to an R6 zoning level.
+Estimated Units Added: 64,113 Estimated units zoned for 880 dwelling unit size: 545,466 Of note: As this is the largest portion of land along the IBX route, if we were to theoretically maximize it to be the highest rezonings that currently exist within these stations at R8, this would create a net new 403,020 new homes, zoning for an allowable 1.17 million. Further, if we were to theoretically maximize this to be like the rezonings in LIC at R10, this would create a net 756,122 new homes, zoned for over 1.8 million.
+The benefit of this approach is that it promotes more equitable distribution of new housing across all the neighborhoods by the proposed IBX stations. This approach can unlock large swaths of land in areas that have seen limited residential growth over the past several years.
+The major challenge is that this will face strong local opposition and require infrastructure upgrades in certain neighborhoods. There is also limited available space in all existing low-density residential areas, leading to challenges acquiring land and will have a lower per-lot yield initially compared to commercial and manufacturing sites.
+Example of Low-Density Zones:
+12
+Grand Avenue
+
+13
+13
+Eliot Avenue
+Metropolitan Avenue
+Wilson Avenue
+ Stations
+ Low-Density Residential
+
+14
+4. FOCUS ON HIGH-DENSITY RESIDENTIAL ZONES Can we squeeze more out of already dense areas like R6–R8A zones?
+This scenario increases allowable FAR or removes density caps in high-residential areas already zoned for multifamily housing. This approach assumes an upzoning to R8A for areas currently designated as R6 zones.
+Estimated Units Added: 100,200 Estimated units zoned for 880 dwelling unit size: 612,790 Of note: If we were to upzone all these areas to R10 zoning levels, this would create 244,620 new homes, having zoned for 882,200.
+The benefit of this approach is that these spaces are already transit-rich and infrastructure-supported. These areas are already fairly dense, and the challenge with this approach is concentrating too much density around only a certain number of stations, as well as equity concerns with some neighborhoods growing to a very high-density level compared to other neighborhoods remaining with very low-density.
+Example of High-Density Zones:
+14
+McDonald Avenue
+
+15
+Roosevelt Avenue
+15
+ Stations
+ High-Density Residential
+Roosevelt Avenue
+Livonia Avenue
+8th Avenue
+
+16
+5. RECOMMENDED HYBRID APPROACH: “BALANCED, MAXIMIZE THE MIDDLE”
+What is the most viable and spatially efficient strategy?
+We recommend a mixed approach: both low- and high-density residential areas paired with more aggressive rezoning of manufacturing and commercial districts. This strategy focuses on feasibility and fairness while leveraging the most underutilized land.
+Estimated Units Added: 83,059 Estimated units zoned for 880 dwelling unit size: 580,812 Scenario 5 involves moving commercial districts up to C4-5D zoning districts (which allow for commercial, community, and residential uses) as well as moving light manufacturing districts up to M1-4/R6A zoning districts (which allow for a mixed-use district with both light manufacturing and medium-density residential zoning characteristics). These districts already exist within the IBX route, particularly within Sutter Avenue, Atlantic Avenue, Linden Boulevard, and Livonia Avenue station areas.
+Scenario 5 also involves moving low-density residential zones up to the lowest end of high-density-type residential districts, R5 districts. These districts are already well represented along the IBX route, featuring prominently in areas around New Utrecht Avenue, McDonald Avenue, East 16th Street, Remsen Avenue, and Roosevelt Avenue stations.
+East 16th Street
+Atlantic Avenue
+
+17
+Scenario 5 would hit our density target of 50 dwelling units per acre, a common level of TOD density across the five boroughs. Today there are 74 subway stations which have a dwelling unit factor of between 40-60 dwellings per acre. Further, 346 out of a total of 472 stations are in neighborhoods with 50 dwelling units per acre or higher.21 Here are some examples of stations with this level (~50 Du/Ac) of housing density within Brooklyn and Queens:
+21
+https://buildingcongress.com/report/2023-transit-oriented-development-report/ Church Avenue Church Avenue Station Station Brooklyn Brooklyn Kew Gardens Kew Gardens Union Tpke Union Tpke Station Station Queens Queens 20th Avenue 20th Avenue Station Station Brooklyn Brooklyn Steinway Street Steinway Street Station Station Queens Queens F F E E D G M R Source: Google Maps Source: Google Maps Source: Google Maps Source: Google Maps
+
+18
+STATION AREA EVALUATION
+Now that we have established in broad terms how we propose to rezone along this corridor, we analyze which stations present the best opportunities in the short term for rezoning efforts, as well as which stations correspond to areas more in need of infrastructure investment and development.
+To determine where new housing can be delivered most effectively, we scored each station on five key indicators:
+Zoning Composition, Population Density, Job Access, Transit Connectivity, Walkability, and Implementation Receptiveness.
+1. Zoning Composition: % breakdown of low-res, high-res, commercial, manufacturing land within 0.5 miles.
+2. Population Density: Population/Acre and Units/Acre to identify how populous the surrounding area is.
+3. Job Access: Job accessibility by transit, biking, walking, and jobs/acre in the existing area.
+4. Transit Connectivity: Number and type of accessible subway, bus, and rail connections.
+5. Walkability: intersection density, average block length, sidewalk conditions, and street design.
+6. Implementation Receptiveness: Assessment of past rezoning support or opposition.
+Each metric was normalized to create a composite score, allowing us to rank stations based on development readiness and need. For more details around how each of these criteria were calculated, please see the appendix.
+PRIORITY VS. EQUITY
+We developed two scores for each station:
+•
+“Quick-Win Score”: Prioritizes areas with strong transit, permissive zoning, high walkability, and historically amenable to development. These are station areas where we believe rezoning the area to build more housing can succeed with fewer obstacles.
+•
+“Equity Opportunity Score”: Highlights low-transit, low-density areas with restrictive zoning and fewer existing services. These are locations that require more intervention, but where increased investment can create more equitable access to housing and transit.
+Both scores are critical to solving New York's housing crisis, but in the near term, we recommend focusing on high scoring “quick win” zones to generate early momentum and deliver demonstrable success, leading to better opportunities for success in the “equity opportunity” zones next.
+To further validate our quantitative analysis with a qualitative one, we visited every proposed IBX station, walked the surrounding neighborhoods, documented the built environment, and photographed the land uses, storefronts, vacant lots, and infrastructure. These site visits were instrumental in contextualizing the data and refining our scoring methodology, capturing not only what the land is zoned for, but what it is being used for, and how the neighborhood feels on the ground.
+18
+
+19
+STATION RANKINGS TOP 5 – QUICK WIN + EQUITY Rank Stations Quick Wins Score 1 Atlantic Avenue 4.4875 2 Roosevelt Avenue 4.22 3 8th Avenue 3.95 4 4th Avenue 3.85 5 Sutter Avenue 3.7875 6 Brooklyn Army Terminal 3.35 7 McDonald Avenue 3.275 8 East 16th Street 2.885 9 Wilson Avenue 2.8275 10 Livonia Avenue 2.8 11 Flatbush - Nostrand Avenue 2.635 12 Grand Avenue 2.455 13 Myrtle Avenue 2.405 14 Utica Avenue 2.345 15 New Urecht Avenue 2.32 16 Linden Boulevard 2.15 17 Remsen Avenue 1.85 18 Metropolitan Avenue 1.405 19 Eliot Avenue 1.405 Rank Stations Equitable Score 1 Eliot Avenue 3.86 2 Metropolitan Avenue 3.71 3 Myrtle Avenue 3.61 4 Remsen Avenue 3.6 5 New Urecht Avenue 3.54 6 Grand Avenue 3.36 7 Utica Avenue 3.34 8 Linden Boulevard 3.25 9 Flatbush - Nostrand Avenue 3.17 10 East 16th Street 2.97 11 Wilson Avenue 2.93 12 Livonia Avenue 2.9 13 Sutter Avenue 2.8 14 Brooklyn Army Terminal 2.5 15 McDonald Avenue 2.4 16 Roosevelt Avenue 2.39 17 8th Avenue 2.35 18 4th Avenue 2.1 19 Atlantic Avenue 1.65 Stations Top 5 Quick Wins Top 5 Equitable 19 1 1 2 2 3 3 4 4 5 5
+
+20
+NEXT STEPS: RECOMMENDATIONS Our analysis makes it clear that the areas surrounding IBX stations vary dramatically in their readiness to accommodate new homes. Any strategy that aims to unlock housing at scale must navigate this complexity with nuance and intention.
+We evaluated multiple zoning scenarios, ranging from uniform upzoning to targeted commercial and residential strategies. Our findings, noted above, suggest that the most effective and viable path forward is a balanced approach:
+1. Create an “IBX Transit-Oriented Development Special District” (IBX-TOD SD) across the route, to enact a broader rezoning similar to what the city saw with the City of Yes.
+a. Clear and standardized affordable housing-related FAR bonus throughout the new special district.
+2. Rezone the IBX-TOD SD using ‘Scenario 5’ as a model for an effective, balanced approach.
+a. Modest upzoning in both low- and high-residential districts b. More aggressive conversion of underbuilt manufacturing and commercial zones c. Focus first on the “quick win” areas for the largest short-term benefits
+3. Expand mixed-use zoning throughout the route to protect jobs and increase housing density.
+4. Create a “Rail-to-Roof” Air-Rights Marketplace to allow sites that sit directly adjacent to or above Rights-of-Way locations to sell unused floor area to designated receiving sites within the IBX-TOD SD, like the East Midtown zoning model. A slice of every transfer fee flows into a corridor capital fund for station accessibility and streetscape decking.
+ENACT
+ENACT
+IBX
+IBX
+TOD
+TOD
+SPECIAL
+SPECIAL
+DISTRICT
+DISTRICT
+With the right policy tools, the right leadership, and the right timing, the IBX can become a model for integrated transit and housing planning, delivering thousands of new homes, supporting vibrant neighborhoods, and laying the groundwork for a more connected and prosperous New York City.
+
+21
+APPENDIX (SUMMARIZED)
+We developed a scoring framework to identify where transit-oriented development can succeed most effectively.
+Each station was evaluated and mapped on QGIS using six key criteria: zoning composition, population density, job accessibility, walkability, transit connectivity, and implementation feasibility. All metrics use a 0–6 scale, with weightings adjusted based on development priorities.
+•
+Zoning: Using the NYC Zoning Resolution and PLUTO data from all the parcels within a ten-minute walkshed from each proposed IBX station, we mapped the existing lot zones and analyzed the current buildable area to propose our recommendations.
+•
+Population Density: Using the University of Minnesota’s Access Across America data and 2020 Census tract data, we calculated the population per acre and how housing units per acre there were in census blocks within a half-mile radius of the proposed IBX stations.
+•
+Job Accessibility: Similarly, we used the University of Minnesota’s Access Across America data and 2020 Census tract data to calculate average job accessibility access to employment hubs via transit, biking, and walking, in addition to the jobs per acre within a half-mile radius of the proposed IBX stations.
+•
+Transit Connectivity: Through transit data available via MTA and DOT, we measured the local transit density and modal diversity based on existing transportation networks within a ten-minute walkshed of the proposed IBX stations, including buses, subways, and LIRR.
+•
+Walkability: Using NYC DCP BYTES data, we evaluated street connectivity and design based on intersection density and average block length, in addition to comprehensive site visits to measure walkability around the proposed IBX stations. Methodology for this section was inspired by research established by authors: Elif Ensari Sucuoglu, Joao Paulouro and Eric Goldwyn at NYU.22 • Implementation Feasibility: Based on public sentiment through voting records and statements, we assessed the feasibility for advancing housing projects around each of the proposed IBX stations.
+DUAL SCORING FRAMEWORK
+Based on these scores, we ranked stations through two distinct scoring models we created that balance immediate opportunities with long-term equity goals: the quick wins model and the equitable impact model.
+Acknowledgments: None of this would be possible without the exceptional research and resources made available by: The New York City Department of City Planning; NYU authors: Elif Ensari Sucuoglu, Joao Paulouro, and Eric Goldwyn; and the Metropolitan Transportation Authority (MTA).
+22
+https://ibx.transitcosts.com/ibx-posts/unlocking-the-ibx-transit-potential/ For complete technical details, please visit the full methodology appendix available at www.buildingcongress.com/2025-IBX-Appendix
+
+Photos credit:
+Adobe Stock, Google Maps
+1040 Avenue of Americas, 21st Floor New York, New York 10018-3728 P. 212-481-9230 E. info@buildingcongress.com www.buildingcongress.com linkedin.com/company/new-york-building-congress @bdgcongress @nybuildingcongress @nybuildingcongress.bsky.social Published June 2025 CHAIR Elizabeth Velez, Velez Organization VICE CHAIRS Kelly Heuer, Ankura Elias Matar, P.E., LERA Consulting Structural Engineers David W. Marino, American Global Christopher Shaw, LF Driscoll Healthcare, Structure Tone Inc.
+PRESIDENT
+Carlo A. Scissura, Esq., New York Building Foundation TREASURER Mark Gregorio, TEI Group SECRETARY Suri Kasirer, Kasirer LLC GENERAL COUNSEL Michael K. De Chiara, Zetlin & De Chiara, LLP PAST CHAIR Cheryl McKissack Daniel, McKissack & McKissack Formed in 1998, the New York Building Foundation is in its 27th year of promoting the long-term growth and well-being of the New York City building industry and the wider community through an active program of research, education, and philanthropy.
+The New York Building Congress, a broad-based membership association celebrating its 104th year, is committed to promoting the growth and success of the building and construction industry in New York City and its environs.
+CHAIR
+VICE-CHAIRS
+PRESIDENT & CEO
+TREASURER
+SECRETARY
+GENERAL COUNSEL
+PAST CHAIR
+NEW YORK BUILDING
+FOUNDATION CHAIR
+Gregory A. Kelly, P.E.
+Elizabeth Crowley; Cheryl McKissack Daniel; Peter DiMaggio, P.E., SECB; Gary LaBarbera; Joseph Lauro, AIA;
+Patricia Ornst; Michael L. Viggiano Carlo A. Scissura, Esq.
+Michael Sweeney, P.E.
+Brennan Gilbane Koch
+Michael S. Zetlin
+Ralph J. Esposito
+
+Elizabeth Velez
+Building Congress Staff: Jeanine Badalamenti, Carlo Casa, Robert Chapman, Gibson Chu, Frank Clarke, Mateo Colón, Alanna Draudt, Logan Ellis, Rich O’Malley, Sandra Purpura, Erik Rodriguez, Giancarlo Sapio, Anasa Welch

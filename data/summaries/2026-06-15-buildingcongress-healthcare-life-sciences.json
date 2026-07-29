@@ -1,0 +1,103 @@
+{
+  "id": "2026-06-15-buildingcongress-healthcare-life-sciences",
+  "source": "outside",
+  "auditor": "New York Building Congress",
+  "title": "2026 Healthcare & Life Sciences Report",
+  "plain_title": "Loosening zoning rules so hospitals can modernize",
+  "agency": "New York City government",
+  "issued": "2026-06-15",
+  "url": "https://buildingcongress.com/report/2026-healthcare-life-sciences-report/",
+  "pdf": "https://buildingcongress.com/wp-content/uploads/2026/06/2026-Healthcare-Report-2.pdf",
+  "what_they_audited": "A report from the New York Building Congress, a membership association for the city's building and construction industry, arguing that New York City's zoning and land use rules make it hard to rebuild aging hospitals to modern clinical standards. It is subtitled \"Building a Healthier Five Boroughs\" and closes with eight proposals for changing city rules.",
+  "background": "The report says health care and social assistance accounted for 1,016,400 jobs in New York City as of January 2026 and more than 7 percent of the city's gross domestic product, with life sciences adding 18,800 jobs. It says the 1961 Zoning Resolution gave hospitals and other community facilities special bulk treatment in residential districts, a framework the group argues has not kept pace with modern medicine.",
+  "findings": [
+    {
+      "plain": "Health care is one of the city's largest employers, and an analysis the report cites puts the yearly economic activity of city hospitals and health systems above $123 billion, with more than $21 billion in tax revenue.",
+      "quote": "accounted for 1,016,400 jobs in New York City as of January 2026"
+    },
+    {
+      "plain": "Many hospitals are putting off capital work. A 2022 hospital association survey found that more than three quarters were delaying or cancelling capital improvement projects because of finances.",
+      "quote": "A 2022 joint hospital association survey reported that 77% of hospitals are delaying or cancelling capital..."
+    },
+    {
+      "plain": "The city's public hospital buildings are old. A 2014 Center for an Urban Future count found their average construction year was 1957.",
+      "quote": "New York City’s public hospital buildings were, on average, built in 1957."
+    },
+    {
+      "plain": "State and federal design standards now require more floor area per patient and per procedure. Single-bed rooms must be at least 120 square feet, and a standard operating room approved since 2010 must be at least 400 square feet, against 270 square feet under the older state hospital code.",
+      "quote": "that a standard operating room must be at least 400 square feet, with more complex specialty operating rooms at"
+    },
+    {
+      "plain": "Because a hospital cannot shut down while it is rebuilt, modernization is staged around live clinical operations, which the report says makes the work slower and costlier per square foot than comparable construction.",
+      "quote": "These projects are complex and expensive for a simple reason: A hospital cannot close to renovate."
+    },
+    {
+      "plain": "Case studies inside and outside New York show hospital floor area growing much faster than bed counts, and in some cases with no added beds at all.",
+      "quote": "require considerable bulk growth even without programmatic expansion."
+    },
+    {
+      "plain": "Discretionary land use review takes years. The report cites a Citizens Budget Commission finding on the median timeline, and says Board of Standards and Appeals cases can add up to two more years.",
+      "quote": "the median discretionary land use application took two and a half years from formal filing with City Planning"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1,016,400 jobs",
+      "label": "Health care and social assistance jobs, January 2026"
+    },
+    {
+      "value": "18,800",
+      "label": "Life sciences jobs in New York City"
+    },
+    {
+      "value": "$116,800",
+      "label": "Average yearly salary for hospital workers"
+    },
+    {
+      "value": "$123 billion",
+      "label": "Yearly economic activity of city hospitals and systems"
+    },
+    {
+      "value": "$9.5 billion",
+      "label": "Community benefits from nonprofit city hospitals, 2023"
+    },
+    {
+      "value": "77%",
+      "label": "Hospitals delaying or cancelling capital projects, 2022"
+    },
+    {
+      "value": "1957",
+      "label": "Average build year of city public hospital buildings"
+    },
+    {
+      "value": "400 square feet",
+      "label": "Minimum standard operating room since 2010"
+    },
+    {
+      "value": "120 square feet",
+      "label": "Minimum single-bed patient room"
+    },
+    {
+      "value": "two and a half years",
+      "label": "Median discretionary land use application timeline"
+    }
+  ],
+  "recommendations": [
+    "Create an as-of-right pathway for healthcare modernization projects that need added bulk to meet modern standards, where net bed growth is 20 percent or less.",
+    "Raise the allowable floor area ratio broadly for healthcare community facility uses to match the space modern hospitals need.",
+    "Create targeted bulk and floor area allowances for safety-net, public and community hospitals, paired with faster approvals and more capital support for institutions serving high-need communities.",
+    "Streamline the Uniform Land Use Review Procedure and related reviews for healthcare modernization projects, including through City Charter revision where appropriate.",
+    "Create a healthcare-specific allowance for mechanical space so modern hospital equipment fits inside zoning envelopes, even where mechanical space is already excluded from floor area ratio.",
+    "Broaden the definition of life sciences uses to take in more hospital-based research, diagnostics, testing, translational medicine and other healthcare-adjacent innovation.",
+    "Streamline environmental review for hospital modernization projects.",
+    "Encourage healthcare growth in all five boroughs by giving hospitals, outpatient centers and other care facilities more flexibility to expand where New Yorkers live and work."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "health",
+    "money and contracts"
+  ],
+  "is_followup": false
+}

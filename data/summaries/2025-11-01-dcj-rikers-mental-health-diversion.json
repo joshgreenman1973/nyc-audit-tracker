@@ -1,0 +1,95 @@
+{
+  "id": "2025-11-01-dcj-rikers-mental-health-diversion",
+  "source": "outside",
+  "auditor": "Data Collaborative for Justice at John Jay College",
+  "title": "Rikers Island and Mental Health: Pathways Toward Community-Based Diversion and Jail Population Reduction",
+  "plain_title": "Mental health needs at Rikers and ways to divert people",
+  "agency": "New York City government",
+  "issued": "2025-11-01",
+  "url": "https://datacollaborativeforjustice.org/work/diversion/rikers-island-and-mental-health-pathways-toward-community-based-diversion-and-jail-population-reduction/",
+  "pdf": "https://datacollaborativeforjustice.org/wp-content/uploads/2025/11/Katal_DCJ_Report_.pdf",
+  "what_they_audited": "A research and policy brief from the Data Collaborative for Justice at John Jay College and the Katal Center for Equity, Health, and Justice presenting current data on mental health needs in the New York City jails, four case studies and 15 policy proposals for diverting people into community-based treatment.",
+  "background": "The City Council voted in 2019 to close the jails on Rikers Island and build smaller jails in four boroughs, and later set a legal deadline of August 31, 2027. The replacement jails plus more than 300 secure hospital beds are planned to hold about 4,200 people a day, while the current jail population is close to 7,000.",
+  "findings": [
+    {
+      "plain": "The share of people in the city jails receiving mental health services and the share with a serious mental illness both rose between 2020 and 2025.",
+      "quote": "the fraction of the jail population receiving mental health services climbed from 44% to 60%,6 and the fraction diagnosed with a serious mental illness rose from 17% to 22%"
+    },
+    {
+      "plain": "The authors describe Rikers as the city's largest mental health facility.",
+      "quote": "Today, Rikers is the largest mental health facility in New York City and among the largest in the country."
+    },
+    {
+      "plain": "Most people in the jails are held before trial, and Black New Yorkers make up a much larger share of the jail population than of the city's population.",
+      "quote": "Currently, close to 7,000 people are held in the City’s jails, of whom 85% have been detained before trial. Black people make up 58% of the jail population, compared to 23% of the City’s general population."
+    },
+    {
+      "plain": "Missed medical appointments in the jails have risen sharply since 2020.",
+      "quote": "In September 2025, there were 15,823 missed medical appointments compared to 3,626 in September 2020."
+    },
+    {
+      "plain": "People flagged for mental health needs are held longer than other people in the jails.",
+      "quote": "people in the latest jail population needing mental health services had been held for 281 days, compared to 212 days for people not needing such services"
+    },
+    {
+      "plain": "Women in the jails need mental health services at a higher rate than men.",
+      "quote": "Of close to 500 women jailed at Rikers as of October 2025, 87% have needed mental health services, compared to 58% of men."
+    },
+    {
+      "plain": "The city's mental health courts serve a small fraction of arraigned cases.",
+      "quote": "New York City’s mental health courts, which enrolled less than 360 participants (representing 0.2% of arraigned cases) in 2023"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nearly 7,000",
+      "label": "People held in the city jails"
+    },
+    {
+      "value": "60%",
+      "label": "Share of jail population with documented mental health needs"
+    },
+    {
+      "value": "22%",
+      "label": "Share diagnosed with a serious mental illness"
+    },
+    {
+      "value": "15,823",
+      "label": "Missed medical appointments in September 2025"
+    },
+    {
+      "value": "281 days",
+      "label": "Average stay for people needing mental health services"
+    },
+    {
+      "value": "August 31, 2027",
+      "label": "Legal deadline to end incarceration at Rikers"
+    }
+  ],
+  "recommendations": [
+    "Seek to maximize approved use of available New York State opioid settlement funds to pay for the steps in this report.",
+    "Meet the needs of people with both drug and mental health disorders by establishing more dedicated residential treatment beds, training people with lived experience to provide peer support, offering training to service providers and improving public data on the dually diagnosed population at Rikers.",
+    "Increase the number of Justice Involved Supportive Housing slots and fix the late rollout of the housing the City Council has already approved.",
+    "Expand transitional and emergency housing beds as alternatives to detention for people who would otherwise leave jail without stable housing.",
+    "Pair in-home treatment with case management for severely mentally ill people who have somewhere to live, using models such as Health Homes, Assertive Community Treatment teams, Forensic Assertive Community Treatment teams and Intensive Mobile Treatment.",
+    "Fund dedicated outpatient slots for a range of mental health needs among justice-involved people, along with provider training and investment in evidence-based treatment.",
+    "Ensure care continues at reentry, building on existing efforts such as Osborne Kinship Reentry Housing and clubhouse models in community drop-in settings.",
+    "Create and fund community-based treatment options in place of jail for people in mental competency proceedings at each of three stages: awaiting an assessment, after being found unfit to stand trial and after being restored to competency.",
+    "Pass the Treatment Court Expansion Act or similar legislation letting judges order a clinical assessment and enroll anyone found to have a functional impairment in a mental health court, whatever the charge.",
+    "Implement mental health courts well and take other steps to support clinically informed decisions, including training judges in mental illness, how the courts operate and how effective they are with different groups, including people charged with a violent felony.",
+    "Give the courts regularly scheduled updates on the prevalence of mental illness and the latest data on conditions at Rikers Island.",
+    "Inform and train judges, prosecutors and defense attorneys about the community-based treatment and housing options available.",
+    "Coordinate closely with treatment providers, including written protocols for how courts and court-based case managers can quickly place people in treatment or housing slots set aside for system-involved people.",
+    "Set up procedures for individual assessments to identify suitable community-based release options in place of jail, including mental health screening at or just after arraignment, protocols for telling the court a release recommendation right after jail intake, regular reassessment of people who stay in jail, ongoing monitoring of admission and discharge trends and protocols protecting client confidentiality.",
+    "Act quickly to open the 350 promised secure hospital beds outside the jails for people with a serious medical condition or mental illness, while considering whether more such beds are needed."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "public safety",
+    "health",
+    "housing"
+  ],
+  "is_followup": false
+}

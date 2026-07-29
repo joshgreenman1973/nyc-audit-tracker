@@ -1,0 +1,419 @@
+TITLE: A Blueprint for Social Service Navigation in NYC and Beyond
+URL: https://islg.cuny.edu/resources/service-navigation-blueprint
+ISSUED: 2025-06-13
+PDF: https://islg.cuny.edu/s/A-Blueprint-for-Social-Service-Navigation-in-NYC-and-Beyond-June-2025.pdf
+
+1
+A Blueprint for Social Service Navigation in NYC and Beyond A Blueprint for Social Service Navigation in NYC and Beyond “I Immediately Didn’t Feel Alone Anymore.”
+Research & Policy Brief
+June 2025
+
+2
+CUNY Institute for State & Local Governance AUTHORS Neal Palmer CUNY Institute for State & Local Governance Alison Diéguez CUNY Institute for State & Local Governance Patrick Hart CUNY Institute for State & Local Governance Siobhán Carney CUNY Institute for State & Local Governance Kristen Parsons CUNY Institute for State & Local Governance ACKNOWLEDGMENTS This brief is the culmination of many important partnerships. The District Attorney of New York (DANY) and its staff have been instrumental partners in funding and guiding the development of Criminal Justice Investment Initiative (CJII) since 2015. In addition, the Mayor’s Office for Economic Opportunity (NYCO) invested in the No Wrong Door project to build out service navigation practice in New York City.
+We are grateful to the community organizations who made possible the robust performance measurement and evaluation of their programs. We also thank the evaluators for their insightful and creative approaches to evaluation, largely during and after the hugely disruptive COVID-19 pandemic. In addition, we thank the participants for sharing about their experiences in the programs.
+Finally, we are thankful for our CUNY ISLG colleagues—especially Carla Sinclair and Alisa Orlowsky—for support in editing and design of this brief.
+
+3
+A Blueprint for Social Service Navigation in NYC and Beyond Even in places with many social service providers like New York City, systemic inequality and a wide array of population needs mean residents may struggle to connect to the supports and resources that could help them thrive. Youth and young adults, survivors of crime, and people involved in the criminal legal and other systems, in particular, have varied and sometimes complex needs; they would benefit from these resources, but are more likely to face challenges in accessing services.
+These barriers include lack of awareness of available services, language barriers, poor cultural fit or responsiveness from providers, lack of transportation, limited service hours, and the often complicated and overwhelming task of coordinating among multiple different providers and navigating complex and overlapping government systems. Policymakers and practitioners are increasingly realizing that, in addition to the need for more funding towards these services, there is also a need to improve access to existing services and ensure that people in need can more easily connect to them. And now more than ever, in an unpredictable funding and programmatic landscape, connecting people to services and helping community-based organizations (CBOs) use resources wisely are critical to our collective wellbeing.
+Service navigation programs are a key piece of the solution. Though the exact approach varies based on the focus population and relevant services, service navigation programs bring together teams with the training, professional background, and/ or lived experience to help connect people, usually from specific underserved communities, with the services they need.
+Introduction
+Service navigation programs bring together teams with the training, professional background, and/or lived experience to help connect people, usually from specific underserved communities, with the services they need.
+Over the past decade, the Institute for State & Local Governance at the City University of New York (CUNY ISLG) has worked with partners citywide to design and pilot several service navigation programs, evaluate them, and understand the broader service navigation landscape in NYC. From this experience, CUNY ISLG has drawn from a wealth of research on community-responsive and data-informed approaches to guide the way government and public institutions operate and to address criminal legal and social policies.
+As investments in service navigation across many different issues and challenges (e.g., housing insecurity, mental wellbeing, substance use, primary care) have proliferated, there is an urgent need to articulate best practices for service navigation in NYC and beyond.
+
+4
+CUNY Institute for State & Local Governance Using lessons learned from the Community Navigators Program, the Neighborhood Navigators initiative, and a scan of NYC’s service navigator landscape, this brief offers a blueprint for building successful service navigation programs through four key steps:
+GROWING CONNECTIONS WITH INDIVIDUALS Successful service navigation requires understanding that every person’s navigation needs are different, as are the ways they come into contact with navigators. Programs must offer multiple points of entry, build meaningful connections and trust with their participants, understand what their challenges are, and help them achieve their definition of success through connections to services.
+BUILDING BRIDGES TO SUPPORTS AND RESOURCES Similar to the way navigators draw on varied engagement approaches depending on each client, referrals and connections to services must also be responsive to the individuals and their unique circumstances. By developing diverse, communicative, and resilient networks of referring partners—and by following up with participants to make sure the service is a fit—both organizations and the people they serve can thrive.
+DEVELOPING CAREER PATHWAYS FOR NAVIGATORS By prioritizing navigation staff who have connections and lived experience over formal credentials, programs can build credibility and better understand the needs of their community. To fully tap into their potential, programs should offer robust staff training, professional development, wellbeing support, and salaries that properly reflect the value of their work.
+ASSESSING IMPACT HOLISTICALLY AND RESPONSIBLY Understanding the impact of social service navigation programs on participants, navigators, organizations, and the service sector as a whole is key to overall success. Determining and tracking performance can both help ensure that participants are getting the support they need and help generate compelling rationales for program sustainability that may be appealing to public and private funders.
+
+5
+A Blueprint for Social Service Navigation in NYC and Beyond Service Navigation in NYC:
+An Overview of Existing Programs The recommendations offered in this brief draw from key lessons learned from the following three service navigation initiatives in which CUNY ISLG has been involved and helped manage:
+PILOTING PEER-LED SERVICE
+NAVIGATION: THE COMMUNITY
+NAVIGATORS PROGRAM
+The Manhattan District Attorney’s Office (DANY)
+established the Criminal Justice Investment Initiative (CJII) in 2015 to invest $250 million in impactful projects that improve public safety and help develop a fairer, more efficient criminal legal system. CUNY ISLG manages CJII on behalf of DANY, acting as grants manager and technical assistance provider to funded programs and their evaluations. ISLG developed, implemented and monitored the investment strategy for this initiative, overseeing the grantee community, supporting organizational capacity building, and fostering meaningful partnerships across sectors, including government, philanthropic and CBOs.
+Early in CJII’s implementation, DANY asked ISLG to create a blueprint for the initiative’s investment in community-based programming. In response, ISLG performed a community audit and consultation process across NYC to identify the gaps in services that could be improved with the development of strategic partnerships. From there, ISLG identified a disconnect between NYC residents and available social services as a major concern.
+In addition, many of the stakeholders who participated in the community audit agreed that large populations of NYC residents are often excluded or face substantial barriers to the accessing help and services available, despite the many nonprofit service providers across the city. Given this finding, one of ISLG’s major goals from the start of CJII was to identify strategies to better connect residents with existing services.
+Large populations of NYC
+residents are often excluded or face substantial barriers to accessing the help and services available, despite the many nonprofit service providers across the city.
+To work toward this goal, in 2016, ISLG established the Community Navigators Program (CNP)
+in collaboration with the CUNY Silberman School of Social Work at Hunter College as one of CJII’s first investments. ISLG and DANY chose Silberman to manage the CNP for two key reasons. First, ISLG envisioned that a CUNY home would help the program be independent of and operate effectively across a range of City agencies.
+Second, ISLG envisioned that a social work framework would help to guide Navigators in strategic outreaching, engaging, and connecting with potential program participants. CNP would operate in East Harlem, a geographically targeted community due to its vast collection of local CBOs and the long-standing systemic challenges for community members accessing services and resources. The main goal of the Navigator program was to create a community-centered model that could support and advance the target population’s economic empowerment.
+The CNP initially focused on targeting subpopulations such as youth and survivors of domestic violence. In 2020, the program expanded to broadly engage youth and families connected
+
+6
+CUNY Institute for State & Local Governance with East Harlem that had varying levels of need and diverse backgrounds.
+The pilot aimed to achieve six critical goals:
+1. Help program participants develop action plans for success;
+2. Encourage participant self-advocacy;
+3. Coordinate and connect individuals to services;
+4. Build the capacity of service organizations within East Harlem;
+5. Expand economic empowerment and career ladders for Community Navigators; and
+6. Support and strengthen communities.
+DANY and ISLG selected Metis Associates to evaluate the program in 2019. Metis’ evaluation, published in early 2022, focused on understanding program design, implementation, and identifying navigation program model best practices.
+ideas42 also conducted an audit to strengthen the program’s intake practices. By the summer of 2022, the East Harlem Community Navigators Program successfully engaged approximately 2,000 participants and helped connect the majority of them to services, demonstrating the utility of the program in connecting participants to a wide range of social services.
+The East Harlem Community
+Navigators Program successfully engaged approximately 2,000 participants and helped connect the majority of them to services.
+BUILDING ON THE PILOT TO INFORM A CITYWIDE APPROACH: A NYC LANDSCAPE SCAN From 2021 to 2022, ISLG partnered with the NYC Mayor’s Office for Economic Opportunity (NYCO)
+No Wrong Door and Metis Associates to conduct a landscape scan1 of social service navigation in NYC, with a particular focus on best practices, challenges, and recommendations. In support of this goal, this project also established learning community sessions to understand current and best practices to determine how NYC might better support the work of navigators. NYCO No Wrong Door also developed a performance measurement framework that can be used to assess the implementation and impact of a variety of navigation programs/services across NYC.
+FOCUSING ON HIGH-NEEDS
+INDIVIDUALS: THE NEIGHBORHOOD NAVIGATORS INITIATIVE Building on the lessons learned from the CNP and the Community First navigation program in Times Square, DANY announced an investment in a Neighborhood Navigators initiative in late 2022 to develop a network of trained individuals who build relationships with people regularly living and/or spending time on the street who may also have mental illnesses and/or substance use or behavioral health needs. Neighborhood Navigators are based in several Manhattan focus neighborhoods.2 Additionally, Navigators have shared experiences or lived experience relevant to the individuals in the focus populations. Over time, Navigators build a foundation of earned trust with clients through relationship-building and helping to meet immediate needs, such as for food and clothing.
+Navigators also offer linkages to behavioral health care, housing, and other needed services, thereby supporting their longer-term wellbeing and avoiding unnecessary interaction with the criminal legal system. ISLG managed the planning phase of this initiative, through June 2024.
+
+7
+A Blueprint for Social Service Navigation in NYC and Beyond In addition to these navigation-focused initiatives, we also draw on other initiatives that have included significant cross-systems navigation and coordination, including other CJII investments: the Youth Opportunity Hubs (YOH), the Legal Aid Society (LAS) and Mount Sinai Morningside’s Child and Family Institute’s (CFI) Medical Legal Partnership (MLP), and the New York City Department of Health and Mental Hygiene’s Health Justice Network.
+Other prominent examples of service navigation in NYC include the Center for Court Innovation’s Community First street outreach program in Times Square. NYCO also funded Hunter’s CNP to offer training through a Community Navigator Institute and has also supported CUNY’s Student Navigator Program to address student health and other needs. In addition, CUNY’s Institute for Justice and Opportunity runs a Navigator Certificate Program in Human Services and Community Justice to provide navigation-related employment pathways for people with criminal legal histories. The City’s recent efforts also include the Peer Navigators initiative for runaway and homeless youth.
+
+8
+CUNY Institute for State & Local Governance A Blueprint for Successful Service Navigation In NYC By leveraging the insights from recent service navigation initiatives in NYC, social service investments have the potential to create a seamless system of service navigation and referrals that are particularly important for key populations, including individuals reentering the community from incarceration, survivors of gender-based violence, and out-of-school, out-of-work youth. These populations have all traditionally faced challenges accessing services and are the focus of current and ongoing efforts to improve referrals and connections. Below, we summarize key components—and the lessons learned—that emerged from the service navigation initiatives, and articulate recommendations for government, funders, and service providers investing in service navigation to better support the populations who need it most.
+Reach participants where
+they are.
+Successful service navigation requires an understanding that every individual’s navigation needs are different, and the ways in which they come into contact with navigation services reflect this diversity. Accordingly, depending on the attributes and experiences of the community being served, recruitment should be targeted to reach the array of folks intended. Recruitment of those who are chronically underserved or otherwise experience barriers to accessing services may require an initial investment into meaningful relationships that, over time, are conducive to enrollment and sustained engagement.
+The CNP typically recruited participants into the program through a mixture of street outreach, partnerships, and referrals from local community-based organizations and city agencies. The Community Navigators deployed four main successful outreach strategies to connect with the populations of interest. These outreach strategies included:
+GROWING CONNECTIONS
+WITH INDIVIDUALS
+Direct Community Outreach
+Navigators directly approached individuals in public spaces (e.g., sidewalks, parks), at community events, and through personal connections (e.g., through friends and family members of individuals already enrolled in the program). Occasionally, Navigators used a “zoned approach” where staff were assigned to a small geographic area to engage potential participants. A key aspect of direct outreach was ensuring that Navigators were consistently visible and present within these spaces, which helped grant them legitimacy as “helpers”
+within the neighborhood. Over half (61 percent) of participants served from 2016 through 2020 were connected to the program directly through Navigator outreach in the community.
+Over half (61 percent) of
+participants served from 2016 through 2020 were connected to the program directly through Navigator outreach in the community.
+Co-location of Navigators at Community Sites In coordination with local service providers and other community partners, Navigators were granted physical space and resources at community sites
+
+9
+A Blueprint for Social Service Navigation in NYC and Beyond (e.g., at their offices or events), access to partners’ clients through referrals, and given the opportunity to directly approach potential participants in need of additional services and supports. This approach allowed Navigators to reach clients directly and strengthened Navigators’ partnerships with organizations through their onsite presence.
+To establish an initial connection, “warm handoffs” from the local service provider to Navigators were common; this strategy involved directly connecting participants with Navigators as opposed to providing basic program information to participants and expecting them to reach out to the CNP independently.3 By building on participants’ trust with the community partner, Navigators had a foundation on which to begin their work. By the end of 2020, about 8 percent of participants had been connected to the program through these co-location referrals.
+Referrals through Community Partnerships The CNP developed partnerships with local organizations and agencies beyond those where they were co-located. Partner staff made referrals either by notifying their clients that Navigators were available, or alternatively, informing Navigators of potential participants. Referrals from partners helped link Navigators with potential participants who were already engaging with another provider at the time of referral, whom they likely trusted.
+In particular, the CNP’s partnership with Wadleigh High School in East Harlem provided unique opportunities to reach youth who may have needed support. For example, school staff collaborated with a CNP supervisor to review a list of eligible students and assign them to specific Navigators based on information the school provided about each youth’s unique needs. Wadleigh High School was also intentional in advertising the availability of the CNP to students and parents through letters home, communication by guidance counselors, as well as information-sharing during school-wide meetings. Overall, nearly one-fifth (18 percent) of participants served from 2016 through 2020 originated from a community partner referral stream.
+Maintaining a Physical Space that Allowed for Walk-ins The CNP maintained a physical office readily accessible to the public, allowing residents to “walk in” and meet with a Navigator directly. The program location in East Harlem also facilitated informal referrals from family, peers or other community residents already engaged in the program. An open space provided a low-stakes recruitment strategy that improved the program’s visibility in the community and had the potential to enhance residents’ overall perception of the program.
+Overall, around 13 percent of participants entered the program via walk-ins or local connections through friends, family and neighbors already engaged in the CNP.
+Build trust with participants through shared values and experiences.
+Social service navigation providers must lead with empathy, commit to holistic wellbeing, and believe in the inherent worth of those they serve as central characteristics of effective navigators.
+These values were clear among NYC providers, who emphasized in interviews for the NYCO landscape scan the value of shared lived experiences, and specifically shared cultural or linguistic qualities, in building trusting relationships with participants. “Comfort speaking about needs,” described one interviewee, “can be very culturally specific.”
+“Comfort speaking about needs,”
+described one interviewee, “can be very culturally specific.”
+Nonetheless, although shared identities and experiences are considered important aspects of peer and community-based models, interviewees from the NYCO landscape scan did not necessarily
+
+10
+CUNY Institute for State & Local Governance Relationship Building in Practice The CNP was designed with the relationship between the participant and Navigator as the backbone of the engagement strategy. Cultivating successful and effective relationships between participants and Navigators was imperative to their success. Peer Navigators served as mentors, coaches, trusted experts, and resources for various groups, including youth and young adults, survivors of crime, and disconnected and system-involved participants.
+In the context of the CNP, the program sought to build trust with participants through shared lived experience, identity, or interests such as age, ethnicity, social or economic status, and/or background. For instance, one participant described sharing their favorite books, television shows and career plans with their Navigator, allowing them to bond over an affinity for similar activities.
+Rather than a simple notion of a shared experience, participants valued authenticity and the sense that Navigators were honest and genuine in their desire to help. As one Navigator described, “When you open yourself and just be real and human, people connect to you better. And it’s so much easier to work with that person because they’re willing to tell you [what they need and the barriers they are facing].” Reflecting this sentiment, the CNP evaluation identified five core characteristics of strong Navigators:
+•
+Judgment-free
+•
+Eager and comfortable approaching new people • Empathetic • Credible • Excellent communicators Relationship-building in the CNP began as soon as Navigators first engaged with potential participants through referrals or direct outreach and continued during their enrollment and engagement with the program. These relationships consider it wholly essential to successful practices.
+As described by one interviewee, “I do not believe you have to have shared experience to be successful, but you must be very aware. This is not about being polite and professional; it is about being able to connect with people.” Navigators must be open to listening to the challenges and strengths of each individual and understand that they are highly specific to each person.
+In part, the value of shared experience lies in recognizing its utility and its limits; successful navigation requires an understanding of identity composed of multiple intersecting facets, each of which may complement or conflict with one another. This intersectionality therefore also complicates the applicability of Navigators’ shared experiences. One NYCO project interviewee encapsulated this sentiment, explaining, “I am somebody from the same neighborhoods as our young people, but with a very different story regarding access to an educational experience. Our young people were not given that access. [Therefore] the lived experience I have means nothing to them because of my other lived experiences.”
+
+11
+A Blueprint for Social Service Navigation in NYC and Beyond helped create a positive participant experience and support participant retention while in the program. During the intake process, Navigators assisted participants with realistic goal-setting and identified and documented needs to ensure that supports were available and received. When the Navigators built trust and maintained authenticity during the recruitment phase, and supported members with mentorship and coaching, participants could trust that Navigators would continue to accompany them as they met intermediate steps in service of their longer-term goals.
+According to Metis’ process evaluation results, the stronger the relationship, the more likely that participants would remain in contact with their Navigators. Participants felt comfortable to speak to and interact with Navigators without worrying about how they presented themselves because of their commonalities. Also because of their peer nature, participants viewed Navigators as “real people” with their own personalities, interests and challenges as opposed to a formal, transactional relationship they had experienced with many providers in the past. Navigators were not seen as having authority over participants, which allowed participants to view them as equal partners.
+Participants viewed Navigators as “real people” with their own personalities, interests and challenges as opposed to a formal, transactional relationship they had experienced with many providers in the past.
+Between 2017 and 2021, the CNP hired 25 Navigators with a range of qualifications and lived experiences. Three-quarters (76 percent) lived in, or had significant connections to, the East Harlem community. About one-third (32 percent) were survivors of domestic violence; 28 percent were previously criminal legal system-involved; 28 percent identified as LGBTQ; and one-fifth (20 percent) were part of immigrant families. Most notably, 84 percent of Navigators belonged to two or more of these groups, demonstrating that these identities and experiences often intersect, and that Navigators were well-positioned to serve a community with a variety of populations and needs.4 Understand the barriers to service engagement.
+Just as every person has a unique, complex, and intersectional identity, so too do they have unique strengths and barriers to engagement. Connecting with potential participants can be challenging because of individuals’ histories of barriers to accessing services, including limited information about how to connect with services, siloed city agencies, and long commutes on public transportation, to name a few.
+In addition, specific groups encounter more substantial barriers to care compared to the general population, including those who are criminal legal system-involved, LGBTQ individuals, and BIPOC individuals. For example, some service providers and government funding sources have eligibility criteria that exclude those most in need of support, such as undocumented persons and those with criminal legal histories. Members of these groups may also be less likely to access services due to stigma around seeking help, lack of culturally competent care tailored to their unique needs, fear of retaliation, harassment or deportation, and prior maltreatment by service providers. The lack of accessible services for specific populations not only neglects individuals with unmet needs, but also fosters a culture of distrust between those populations and the local service landscape.
+Although some programs or organizations mandate participation in referrals and navigation, the CNP emphasized voluntary engagement as part of its approach. The Navigators’ purpose was to help
+
+12
+CUNY Institute for State & Local Governance those who are chronically underserved access services and social supports that may otherwise be out of reach. Performance data captured by ISLG from 2018 through mid-2022 found that 41 percent of participants had not been connected to a service provider in the six months prior to enrollment in the CNP. Based on Metis Associates’ process evaluation of the CNP, participants, Navigators and other initiative stakeholders identified several barriers to service engagement, described below.
+Lack of Culturally Competent Services First, services are often offered only in English. For residents who do not speak English or even a secondary language in which services are offered (e.g., Spanish), these services may be available only with a translator—who are in chronically short supply and may miss nuances between the client and provider even when they are available.
+Undocumented individuals and those without full citizenship also face a lack of services that inhibit access to care. Even if providers explicitly serve this population, individuals may not engage due to stigma, fear of legal ramifications or deportation (particularly acute in the current political climate), and/or misinformation about service eligibility.
+BIPOC individuals also frequently face a shortage of services tailored to their unique needs and experiences. For example, BIPOC men who experience victimization often encounter biases or even harassment at institutional levels, from communicating with first responders to receiving emergency care. The underlying belief behind this negative treatment holds that BIPOC men are responsible for their own injuries via criminal activities, provocation, or being at “the wrong place at the wrong time.” When seeking victim services specifically, BIPOC men face additional barriers and biases; for example, service providers may contact law enforcement because they assume they are intending to harm an intimate partner rather than accessing services for themselves. This disparate treatment sows further distrust of social service and healthcare providers, leaving the needs of this population chronically unaddressed.5 Administrative and Logistical Barriers to Service Access Navigators described instances where participants were rejected by service providers, leaving them unsupported in achieving their goals.
+Individuals may have been unaware, for example, that documentation or identification were necessary to demonstrate their permanent address, which, by extension, inhibited their ability to apply for certain job search programs.
+Additionally, visiting a provider sometimes required lengthy trips on public transportation outside the CNP’s service area, where community residents may have felt unwelcome or unsafe.
+Last, during the height of the COVID-19 pandemic, many service providers pivoted to remote services and resources, which were out of reach to individuals who did not have reliable access to the Internet or a smart phone.
+Potential for Isolation & Traumatization Collectively, the barriers to services described above had the potential to traumatize participants in need of services. Residents endured discrimination based on language, citizenship status and/or lack of prior experience obtaining services. For example, undocumented participants often felt “underestimated” and that they were “not getting the attention from service providers that they need.” In addition, the lack of formal partnerships between service agencies at times left participants to coordinate their own care independently because providers would not refer them or make connections with other agencies on their behalf. Participants described this process as “isolating” because, as individuals who were already disconnected from supports, they were overwhelmed by navigating unfamiliar social service systems on their own.
+As one Navigator explained, “another challenge that I’ve seen in my work is that people…are
+
+13
+A Blueprint for Social Service Navigation in NYC and Beyond traumatized by these systems [otherwise intended to help them.]”
+Center participant needs and priorities and equip them for the future.
+Lived experiences, client needs, and long-term goals are as unique as the person experiencing them; following outreach and initial engagement, navigation approaches require careful consideration of each individual.
+A one-size-fits-all approach to services is inadequate for many populations, particularly those who are chronically disengaged and face substantially different barriers to care. Therefore, a key pillar of providing tailored care is creating a collaborative space for individuals to participate in creating their own goals and service plans, recognizing their autonomy throughout the process. The ultimate goal of these inclusive approaches is for participants to gain a sense of empowerment and stability, thereby alleviating previous barriers to care and empowering them to seek services independently in the future.
+The ultimate goal of these inclusive approaches is for participants to gain a sense of empowerment and stability, thereby alleviating previous barriers to care and empowering them to seek services independently in the future.
+A commonly held best practice among NYC organizations is the commitment to providing services in a sanction-free environment that emphasizes participant empowerment and selfdetermination. Many social service programs adhere to the principle that service engagement should be voluntary as opposed to mandated, acknowledging potential participants’ independence and agency in their own life choices. According to one NYCO project interviewee, “The service we provide is listening to [our clients], not judging them, believing them, and then helping them with lending them our expertise, and then what’s best is for them to decide.” The hope is that, through consistent support and engagement, participants will develop the confidence to seek services independently. Another interviewee shared, “We do not do anything for the participant but instead do everything with them. [As a result,] when they leave our program, they feel empowered to advocate for themselves.”
+In efforts to mitigate challenges that could arise for participants in connecting to services, the CNP was designed to be trauma-informed6 and client-centered.7 Navigators were intentional in supporting participants in the creation of their own goals and collaborating on action plans to achieve them. Upon enrollment, Navigators collected basic information about participants (i.e., intake) and worked collaboratively with participants to identify their long-term goals through a more comprehensive assessment and, ultimately, develop an action plan to achieve them. The goal-setting process was critical to a participant’s trajectory towards their desired outcome, as it guided all subsequent work between them and their Navigator. Although participants likely already had a sense of their goals, the Navigators helped them break down those objectives into manageable steps.
+Moreover, this approach granted participants flexibility in how and when they would engage; as their needs changed, Navigators worked with participants to adjust their service plans accordingly. Even if individuals were referred to and connected with a service provider, the participant may not have felt the particular referral was the right fit. In these instances, participants had the agency and autonomy to continue working with their Navigator to
+
+14
+CUNY Institute for State & Local Governance identify more appropriate services. This flexibility also allowed participants to disengage from the program at will, as well as reengage with Navigators if they needed further assistance.
+In addition, the client-centered approach left room for variation even within broad domains of need.
+Education-related goals, for instance, could include completing a high school diploma or equivalency (HSE) requirements, or enrolling or staying in college, among other goals. Individuals needing employment could be referred to workforce development or certification programs that not only offer skill training but also provide job search assistance upon completion. In some cases, participants’ goals in one domain first required completing steps in another domain. For example, a participant with a housing need might have first needed to obtain formal identification to apply for a housing lottery. In other cases, the severity or urgency of a participant’s needs may have necessitated prioritization of certain referrals over others.
+Altogether, Metis Associates’ process evaluation revealed that the top three most common needs presented at intake to the Community Navigators Program between 2016 and 2020 (n=838) related to employment (39 percent), housing (36 percent), and education (34 percent). Other participant needs related to social support benefits, legal services, youth programming, SNAP, healthcare, immigration services, and individual counseling.
+The top three most common
+needs presented at intake to the Community Navigators Program between 2016 and 2020 related to employment (39 percent), housing (36 percent), and education (34 percent).
+Tailor engagement strategies to participant preferences.
+Participants’ preferred communication styles with Navigators vary, and it is imperative for Navigators to take a flexible approach in providing effective support. Some participants may prefer in-person interactions, while others respond better to text/online engagement, or a combination of both.
+The CNP encouraged Navigators to assist participants on a one-on-one basis, but not every participant preferred to engage in the same way.
+Participants may also have a preference for engaging in one location over another, such as in a public space, at home (if appropriate), or at a program’s central office. Finally, beyond medium and location, some participants may require more intentional, extensive, or intensive engagement than others.
+One key service provided by the Navigators was active coaching to guide participants on how to interact with providers and other community-based programs. Coaching took a variety of forms dependent on the individual participant’s preferences; for example, Navigators could provide guidance through brief text messages, over the phone, or through extended in-person sessions. These interactions not only provided helpful guidance and strategies for participants, but they also served as opportunities for Navigators to provide moral and emotional support. Navigators also reached out to providers to ask questions, schedule care, and identify solutions to any issues that arose prior to service connection.
+Relatedly, Navigators provided in-person and virtual accompaniments as needed, such as attending a court appearance with an individual facing eviction proceedings. Accompaniments often included real-time coaching when participants reached out to providers by phone or
+
+15
+A Blueprint for Social Service Navigation in NYC and Beyond Assess fit between participants and potential referrals.
+As with engagement approaches, referrals must also be responsive to the individual and their unique circumstances. In other words, two individuals with the same need may nonetheless require different referral strategies. Some providers may specialize in working with certain populations (e.g., immigrants)
+or individuals with certain types of experiences (e.g., crime victimization).
+Referring participants to agencies that align with their needs, identities and experiences is essential to helping them achieve their goals.
+Identifying agencies that are a “good fit” for each participant requires careful consideration of the organization’s service offerings, focus population(s) and culture, and the participant, among other factors. Participants may not feel prepared to pursue services initially due to a variety of personal or practical constraints. This consideration is particularly relevant to individuals who have had prior unsatisfactory interactions with service providers, and whose negative experiences could lead to hesitancy or ambivalence in accessing services in the future. Being mindful that participants have different needs, and considering those needs in case planning, is an important tenet of service navigation and whether the referral will be a good “fit” for someone at that point in time. Whenever possible, referrals should be made in conjunction with warm handoffs to service providers, as credibility and trust from the navigator can increase the likelihood of a successful connection to the service provider.
+Navigators were intentional in assessing the fit between participants and specific programs or providers throughout their engagement. For BUILDING BRIDGES TO SUPPORT AND RESOURCES email. For example, one Navigator spoke of remaining on the phone with a participant while they spoke to a service provider after an initial service request was denied. Another Navigator explained how they coached a participant to advocate for themselves during the process of obtaining repairs for their apartment. Through these different engagement strategies, the Navigators aimed to help participants set realistic and straightforward goals, develop and maintain trust with participants as they pursued the offered referrals, and foster self-advocacy skills Most participants and Navigators had frequent and flexible modes of communication that included a combination of in-person, video, phone, text, and email interactions. Navigators also met with participants at public spaces, community partner sites, participants’ homes, co-location sites, and the Community Navigators Program office. Even during COVID-19, participants could meet with Navigators either face-to-face (socially distanced) or through video-based interactions.
+This method of meeting in a one-on-one setting created space for developing trust and openness within the participant-navigator relationship.
+Though the frequency, location, and type of interactions varied depending upon their needs, preferences, and goals, the majority (89 percent)
+of program participants interacted with their assigned Navigator more than once from 2016 through 2020, with the average participant remaining enrolled for about four months.
+Specifically, 11 percent had only one interaction with their Navigators, and at the other end of the spectrum, one-quarter (26 percent) had over fifty interactions. Process evaluation results also showed that these interactions were driven by case-specific needs: some clients had short and intense engagement, and others had long and less frequent engagement.
+
+16
+CUNY Institute for State & Local Governance participants with complex needs in particular, Navigators contacted the organizations or agencies in advance to confirm eligibility criteria or even leverage their own relationships with providers to facilitate a smooth connection. Once a Navigator provided a referral, participants had the choice whether to utilize the referral or not due to the voluntary nature of the program. Principally, Navigators made a concerted effort to follow up with the participant directly to learn about their experience and whether they connected with the agency and received services. This allowed Navigators to gauge whether a referral to a particular organization or agency was successful, whether it aligned with the needs of the participant, and if not, to understand the barriers to care they experienced and determine possible alternative referrals.
+Accordingly, Navigators worked to maintain quality referral relationships with a variety of referral partners that could meet many client needs, and they adjusted their referral networks based on participant feedback.
+From 2017 through 2020, approximately two-thirds of participants (68 percent) received at least one referral, with 29 percent receiving two or more.
+Overall, 86 percent of all referrals made by Navigators were successfully utilized by participants, and 90 percent of referred clients utilized at least one service to which they were referred. The referrals provided to participants closely mirrored participants’ needs and goals, with employment, housing, and education representing nearly twothirds of all referrals made (32 percent, 22 percent, and 11 percent, respectively). Unsurprisingly, these types of services were also used by participants most often: 82 percent of employment referrals, 90 percent of housing referrals and 83 percent of education referrals were utilized by participants.
+86 percent of all referrals made by Navigators were successfully utilized by participants.
+Follow up with participants and partners following a referral.
+A key pillar of service navigation is centering the agency of the individual by establishing flexible program policies for recruitment and engagement.
+Each participant brings unique needs, goals, and circumstances, so a one-size-fits-all approach to engagement is ineffective at best and harmful at worst. When a referral is made, participants should have the agency to pursue or decline services altogether, and it is unrealistic to expect that every referral will be successful. At the same time, specific strategies can support participant retention and connection to services while simultaneously respecting their autonomy. Following up with participants allows navigators to understand if a referral is successful, and if not, to understand the reasons why and collaborate with participants on next steps in their care.
+Survey results from the NYCO landscape study of NYC-based service navigation programs revealed that navigators following up with programs or organizations, as well as with individual clients, on referrals is key to the success of getting them connected. Ongoing communication between the referring and referred organizations or agencies is also imperative as it allows organizations to understand which referrals are successful and why participants may have varying levels of success in obtaining services. As described by one provider, “Sometimes we make referrals and our partners do not follow-up with us, which leads us to question our decision-making.”
+Thorough and coordinated follow-up practices are essential because poor-fit referrals could have a significant negative impact on clients, depending on their prior experiences with the service sector.
+Participants may also be vulnerable to traumatizing, discriminatory, or otherwise harmful practices during the referral process, depending on their identities and personal histories. “That experience of saying ‘I need help,’ actually getting a referral,
+
+17
+A Blueprint for Social Service Navigation in NYC and Beyond and getting to a place, and then being met with resistance is so exhausting,” explained another provider. “Sometimes we lose people for years before they try to do it again.”
+Whereas communicating with the referred organization or agency may be a more formal way for providers to confirm whether a participant accessed services, following up with the participant directly is central to learning if the referral was the right fit, and if not, understanding the reasons why.
+According to many NYC-based providers, it is rare for an individual to decline pursuing a referral without an external reason that merits follow-up or offering an alternative service. Some reasons why participants do not act upon referrals include conflicting responsibilities; lack of resources, such as reliable transportation; assumption they are ineligible for a service, whether accurate or not; exigent circumstances; inappropriate referrals (e.g. referring for something the participant is not really asking for) or referrals to places that are not responsive to the participant’s needs; referrals to places that are not responsive to the participant’s identities; or simply lacking the confidence to pursue the referral independently. Considering these nuances, there is a need to balance referral and follow-up strategies in the best interests of the participant.
+In the CNP, once Navigators made a referral, they made efforts to learn directly from the participants themselves about their experience and whether services were engaged, which was then used to inform further coaching and support efforts. The referrals Navigators provided closely aligned with participants’ identified goals at intake and were also found to be utilized at similar rates across topic areas. According to ISLG performance data, the time between intake and first service utilization was approximately one to two weeks in any given quarter (a much faster speed from intake to service than usually seen), demonstrating the importance of regular engagement and follow up after a referral is made.
+Ongoing support and follow-up with participants are also exemplified by the CNP’s flexible case closure procedures. The program model held that participants could choose to end services at any time regardless of reason, but they could also return to the CNP if they decided they needed further support in the future. This flexible engagement model was also adopted by the Neighborhood Navigators initiative funded through CJII, which began implementation in February 2024. Through this approach, cases are not viewed as permanently closed, but instead as undergoing a period of dormancy. As one CNP Navigator described, they don’t “… [necessarily] lose participants, it’s just that there is nothing for us to do with them at the moment [until they are ready to reengage.]”
+According to aggregate data submitted to ISLG from 2016 through mid-2022, over half (60 percent)
+of participants whose cases were deactivated exited the program with a positive outcome—specifically, 37 percent of participants were linked to providers for all identified needs and 23 percent were linked for some identified needs.
+
+18
+CUNY Institute for State & Local Governance Develop resilient referral networks tailored to the specific needs of the program population.
+One of the largest necessary resource investments in service navigation is in developing a network of referrals appropriate for various client populations and needs. Networks may be memorialized formally (e.g., in directories), maintained informally (e.g., through intentional and ongoing relationship-building with local organizations and agencies), or approached through a more ad-hoc process responding to needs as they arise.
+The form the network takes, however, has implications for the resiliency of the network. An individual staff member could develop a strong relationship with a service provider and “be the face” of the program, but should that staff person depart from their current role, the partnership between program and provider could be jeopardized. To avoid this gap, organizational relationships need to extend beyond the specific staff involved.
+In addition, networks must reflect the reality that participant needs often cannot be addressed by a single service provider, as well as the preference of many participants to seek care from providers or programs that specialize working with populations to which they belong. For instance, a survivor of domestic violence (DV) may seek a workforce development program as a step towards financial independence, but such programs may not align logistically (e.g., be scheduled around work hours)
+or may lack awareness of the unique challenges survivors face to sustained engagement.
+Similarly, certain groups may be ineligible for particular services or programming they seek to access, as is often the case for undocumented individuals or those who are involved in the criminal legal system. Programs that predicate service provision on one’s presenting gender, such as emergency shelters, can be unwelcoming to transgender8 and gender non-binary (TGNB)9 individuals, who often face significant housing instability. In particular, there is a dearth of programs designed to serve those with complex overlapping needs, such as individuals who are blind and D/deaf or hard-of-hearing (D/deaf/ HOH),10 undocumented persons living with a physical disability, and families with multiple children presenting different needs.
+The CNP was a place-based initiative focused on representing and responding to the needs of the local community. Therefore, the Peer Navigators, program leadership, and stakeholders had to develop trust between
+1. community organizations and the program and
+2. between community organizations and the Peer Navigators.
+The CNP leader, an East Harlem resident, was well versed in the landscape of East Harlem and had extensive community connections, which in turn helped Navigators develop meaningful partnerships with a variety of city and community organizations in the local surroundings. In addition, the Program leader was able to make introductions to local programs so that the Navigators could meet with community stakeholders at their own locations to ensure that they understood the resources and the processes by which each program made and received referrals. Interviews with service sector and community partners revealed they had cultivated trust with CNP leadership more broadly, which helped maintain those partnerships and referral streams in case the individual Navigators with whom they had directly collaborated exited their positions.
+Navigators used a combination of strategies to build referral partnerships. Most commonly, the program coordinator identified a list of potential partners informed by their personal experience in East Harlem as well as through their presence at community engagement activities. The program coordinator was considered especially valuable
+
+19
+A Blueprint for Social Service Navigation in NYC and Beyond given their knowledge of the East Harlem service landscape and understanding of the dynamics between organizations and agencies, positioning the program as a neutral agent that was able to operate with various community partners.
+Interviews with community partners described Navigators as skilled in prioritizing partnerships with organizations that could address participants’ immediate functional needs (e.g., food, medical care, housing), which helped prepare participants to work toward achieving longer-term goals. Recommendations for the CNP to further enhance referral networks included having program leadership and Navigators leverage existing relationships to connect with additional providers as well as prioritizing partnerships with organizations and agencies that are equipped to serve undocumented individuals and those with significant mental health challenges.
+The more recent Neighborhood Navigators initiative speaks to the latter recommendation, as it focuses specifically on individuals spending significant time on the street who may have housing insecurity or mental health challenges.
+Integrate government, nonprofit, and other provider networks to maximize impact.
+In addition to community partnerships, it is also important for service navigation efforts to recognize and leverage the resources available through local and state government agencies.
+Unfortunately, these agencies are often untapped by individuals needing help due to perceived or actual barriers and prior negative experiences. Like community-based and grassroots organizations, government agencies often operate in siloes with limited navigation pathways amongst them or out to non-governmental entities. Developing formal relationships that transcend city agencies and community organizations can maximize the use of the services available, creating bridges where there were once cracks people could fall into.
+Strong service-sector partnerships benefit not only participants but also the providers and agencies themselves. First, through partnerships, providers have access to expertise and services that they may not possess in-house, improving their ability to serve the community. Second, by tapping partners to provide other kinds of services, an organization can expand its own capacity, allowing it to offer more intensive care like case management or one-on-one services, or serve more people in its core offerings. Third, on a more practical level, partnerships between organizations can alleviate certain administrative burdens, such as redundant paperwork, if the coordination is accompanied by integrated electronic systems that improve care coordination (e.g., UniteUs). Finally, over time, partnerships can develop into learning communities, where CBOs and agencies share knowledge to improve their practices. For instance, partners may discuss how they have addressed emerging issues and discrete challenges, seek guidance from other practitioners in the field, and share resources on best practices or even professional development opportunities. Evaluations of other CJII initiatives that incorporated similar practices include the Youth Opportunity Hubs, the College-in-Prison Reentry Initiative, and the Center for Trauma Innovation.
+The Community Navigators Program aimed to strengthen the East Harlem service sector in two key ways. First, the program intended to change or enhance outreach and intake practices of service providers through Navigators’ physical presence at partner sites and support of participant recruitment. Second, the program also planned to support larger efforts by community partners to dismantle silos between organizations by developing a web of strategic partnerships, leading to greater cohesion and collaboration among providers. Process evaluation results showed that the CNP achieved initial success in achieving these service sector outcomes.
+The impact of the CNP partnerships manifested in several ways.
+
+20
+CUNY Institute for State & Local Governance Access to Expertise Community partners unanimously agreed that Navigators had a “wealth of knowledge” that complemented or even supplemented the expertise held by in-house staff. One stakeholder explained that its co-located Navigator served as a bridge when one CBO stakeholder departed, since the Navigator possessed knowledge that otherwise would have been lost, thereby minimizing disruption to care.
+Expanded Capacity to Provide Intensive Services Some organizations acknowledged that the needs of their participants were complex and required comprehensive care that they may not have been able to provide at their institution alone. Providing access to additional services via the Navigators enabled them to offer, for example, case management services to their youth members for the first time. Partners also cited appreciation for the CNP’s incorporation of social work11,12 principles into their organizational programming (e.g., awareness and acknowledgement of the impact of trauma, importance of centering the person in the development of their own care).
+An Extra Source of Support Although helping participants one-on-one can be immensely impactful, providers do not always have the bandwidth to offer this support.
+Partnering with the CNP expanded organizations’ capacity significantly in this regard. Coaching and accompaniment provided by Navigators were considered to be very impactful, with one community partner stating that the program’s ability to “stay with a client throughout the process” was a “real asset to the community” and “really unique.”
+One Navigator highlighted this point, explaining, “We are resources for people who didn’t have that before, and I think that is so instrumental.”
+Making Service Connections for Participants The CNP was able to fill gaps in organizations’ abilities to connect participants with external services directly. Stakeholders described the challenges they experienced trying to connect participants on their own due to limited capacity, and highlighted the value of Navigators acting as external liaisons to better support members of their community. One Navigator emphasized how valuable this approach is “because in impoverished communities of color, you don’t really see an advocate being the liaison and the middle person, really getting them through [the process of navigating systems].”
+
+21
+A Blueprint for Social Service Navigation in NYC and Beyond Community Navigators’ Impact on the Social Service Sector The CNP’s impact on the service sector was exemplified by two key referral partnerships for youth in particular.
+Partnership Snapshot: New York City Police Department First, the program collaborated with the New York City Police Department (NYPD) on engaging youth who were at risk of criminal legal involvement or subject to victimization due to lack of service connections. NYPD Youth Coordinating Officers identified youth needs ranging from mental health supports to more informal programming, such as after school sports programs. The NYPD highly valued its partnership with CNP because it was not accustomed to making referrals for these needs directly.
+To support this aim, the CNP created a tailored, online referral form in conjunction with the NYPD’s legal team, which was intentionally designed to provide Navigators with the minimum information necessary to connect with youth directly. NYPD officers were able to connect youth to the CNP for different types of circumstances.
+For instance, if a young person was the subject of a criminal legal interaction, victimized, or left home, the officer would work with them to better understand their needs and whether the CNP could support them. In addition, a parent or family member could raise concerns with officers who, in turn, would refer the parent/family member to the CNP. Officers also encountered youth who participated in NYPD- or Police Athletic Leaguesponsored events, which served as the foundation for a warm hand-off to the CNP.]
+Partnership Snapshot: Wadleigh High School The Community Navigators Program also had a longstanding partnership with Wadleigh High School, a public school located adjacent to East Harlem that served young people residing in the focus neighborhood. In this partnership, referrals to CNP occurred in two ways: first, the school worked closely with the CNP supervisor to review the roster of eligible students and connect them to Navigators in collaboration with the school’s principal and guidance counselor. Alternatively, the CNP could be introduced to students and parents through letters to their home, communication from school leadership/counselors, as well as during school-wide meetings.
+Wadleigh leadership and school administrators held their partnership with the CNP in high regard. In particular, the community-grounded model was considered key to their ability to connect students to Navigators with shared experiences. As one community partner explained, the program works “really well because I was able to match my students with a Navigator that best matched their overall needs…My Hispanic students were able to get a Spanishspeaking Navigators…If I had an LGBTQIA+ student I was able to get them an LGBTQIA+ Navigators… [and so forth].”
+
+22
+CUNY Institute for State & Local Governance
+• ABC
+• Action Center
+(DOHMH)
+• Assemblyman
+Robert Rodriguez
+• Bethel Gospel
+• Boriken
+• Bronx Solutions
+• Common Justice
+• Common Pantry
+• Concrete Safaris
+• Cooke School
+• Councilwoman
+Diana Ayala
+• Create Inc.
+• Drive Change
+• Eagle Academy
+• East Harlem
+Community
+Partnership
+• Exodus
+• Good Shepherd
+• Harlem Justice
+Center (multiple
+programs)
+• KR3TS
+• Innovation High
+School
+• Legal Aid Society
+• Lennox Hill
+Neighborhood
+House
+• Little Sisters of
+the Assumption
+(LSA)
+• Living
+Redemption-
+Youth Hub
+• Manhattan
+Borough
+President’s Office
+• Manhattan
+Family Justice
+Center
+• MAPS (Mayor’s
+Action Plan for
+Neighborhood
+Safety)
+• Metropolitan
+Hospital
+• Mt. Sinai
+Adolescent Clinic
+• New York
+Foundling:
+Communities
+that Care
+• NMIC (Northern
+Manhattan
+Improvement
+Corporation)
+• NYCHA REES
+(Resident
+Economic
+Empowerment &
+Sustainability)
+• NYPD 25th
+Precinct
+• NYPD
+Community
+Affairs Bureau
+• NYPD
+Collaborative
+Policing
+• Odyssey
+• Pa’lante
+• Promesa
+• SAVE/GOSO
+• SCAN NY
+• Stanley Isaacs
+• Steps to End
+Family Violence
+• Strive
+• SUNY North
+Bronx
+• Sweet Generation
+• The Door
+• The Hope
+Program
+• The Osborne
+Association
+• Union- Youth
+Hub
+• VIP Mujeres
+• Volunteers of
+America
+• Wadleigh High
+School
+• Youth Action
+Youth Build
+• Youth Represent
+• Friends of New
+York
+List of Service Providers Making Referrals to the Navigators Program See Exhibit 11 in Metis’ Evaluation to learn more.
+
+23
+A Blueprint for Social Service Navigation in NYC and Beyond DEVELOPING CAREER PATHWAYS FOR NAVIGATORS Help Navigation staff develop professionally.
+Community-based, peer models emphasize hiring individuals who may not necessarily possess more formal qualifications, such as advanced degrees or clinical licensing, to serve their communities. Rather, these models are predicated on the notion that navigators and participants will relate to one another through their unique shared experiences and characteristics. Such commonalities ultimately serve as the basis for a trusting relationship, thereby increasing the likelihood of accurately ascertaining participant needs and successfully connecting them to services. Focusing too much on traditional credentials can undermine the ability of the program to reach the focal population, as well as disregard the expertise of people with lived experience. At the same time, providing navigation services still requires intentional onboarding and ongoing training opportunities to ensure that navigators have the skills and resources to be effective, and a sustainable system of navigator employment requires navigators to be fairly compensated and have access to quality career and educational pathways.
+The CNP centered robust staff training and professional development as a core element in its design. The Silberman School supported the program by leveraging its professional and academic community while creating training and professional development pathways between the Navigators and the School itself. Once hired, the Navigators participated in an extensive two-week orientation that included training in social work and navigation strategies, introductions to local community stakeholders and organizations, outreach strategies, and background on East Harlem. Supervisors often infused social work principles into the onboarding of new Peer Navigator staff and within the ongoing professional development and training. Principally, this support took the form of weekly case reviews, weaving theoretical foundations of social work into “practice elements” that Navigators could more easily utilize in their participant engagement strategies.
+Navigators also participated in extensive role-play facilitated by program supervisors before engaging with potential participants or community-based organizations to build their capacity and comfort operating in different situations.
+The program also focused on the ongoing professional and personal development of the Navigators. The program reserved each Friday for training opportunities, administrative functions, and team-wide meetings, including group reviews of individual participant cases. Supervisors structured their weekly sessions with Navigators to provide motivational interviewing intended to foster critical thinking and initiative-taking among staff. In doing so, supervisors aimed to counteract the disempowerment that Navigators often faced in their own lives outside of the program. The model was developed to ensure that Navigators viewed themselves as the resources and did not become dependent upon their social work supervisors to navigate their cases. Navigators were instead encouraged to specialize in areas of knowledge and rely on each other as content-area experts. To support this aim, supervisors assigned cases to Navigators according to their specializations and also encouraged them to attend two professional development sessions of their choosing each semester.
+Lastly, Navigators benefitted from opportunities to receive professional development opportunities from external program partners, including CBOs and City agencies. The program’s location at Hunter College was particularly beneficial for Navigators’ professional growth. As a result, Navigators were able to take part in professor-led trainings, access social work courses and
+
+24
+CUNY Institute for State & Local Governance workshops, and perhaps most notably, receive tuition reimbursement through CUNY. Indeed, the CNP was designed to be a workforce development initiative for East Harlem residents that served as a pathway towards future career interests. As one program leader described, the program was considered a “great steppingstone” and a “nice place [for Navigators] to get their feet wet.” These intentional components provided Navigators with accessible means to earn formal certifications and college degrees, enhancing their qualifications and prospective employment opportunities.
+These intentional components provided Navigators with accessible means to earn formal certifications and college degrees, enhancing their qualifications and prospective employment opportunities.
+Provide support to Navigation staff.
+One undeniable benefit of community-based social service navigation programs is the natural connection forged between staff and clients in recruitment, engagement, and retention. However, these shared identities and experiences can pose challenges for Navigators in the course of their work if they are helping participants navigate stressful or triggering situations they are currently experiencing or have previously experienced in their own lives—meaning programs must intentionally consider wellbeing across stakeholders in their design.
+In NYCO landscape interviews, NYC-based providers asserted that staff need ongoing workplace support to address the emotional mental health risks that organically accrue through this work.
+Although ongoing training and support can provide opportunities to gain and refine job-specific skills, navigation programs should also be intentional in supporting navigators’ overall wellbeing.
+First, social work and other helping professions are traditionally underpaid. Compensating people in accordance with their experience and expertise, as well as offering competitive benefits (e.g., healthcare, tuition or certification reimbursement), not only supports navigators financially but also offers opportunities to develop professional skills and lead healthy lives. Second, practical workplace considerations for navigators, such as designating caseload limits, providing access to mental health services, and encouraging their personal and career goals can also support navigators in a more holistic way.
+The CNP was led by a Program Director who oversaw all aspects of the program as well as two MSW- level social work supervisors. The latter did not serve participants but rather provided support to the service navigation team. Each supervisor closely communicated and worked with their Navigators on the specifics of each case, reviewed case notes, and encouraged Navigators’ practical and professional skills. The program was structured around a team of 10 to 12 Peer Navigators who typically had caseloads of approximately 20 participants at a time.
+Peer Navigator salaries ranged from $35,000 for Navigators with lived experience and no prior work experience or degree, up to $55,000 annually for those with a bachelor’s degree, 5 years of experience, and bilingual abilities (around $42,000-$67,000 in 2024 dollars, adjusted for inflation). The program was intentional in establishing a foundation of mutual respect between Navigators and supervisors, and if challenges arose, supervisors could provide guidance in an empowering manner as opposed to a punitive one.
+Hiring members from the community with lived experiences necessitated careful consideration of the Navigators’ own needs and personal histories.
+It was not uncommon for Navigators to require similar services as the participants they served.
+During ongoing trainings, challenges also arose as some Navigators faced re-traumatization when participating in curricula directly related to their
+
+25
+A Blueprint for Social Service Navigation in NYC and Beyond prior experiences. One stakeholder explained, “It wouldn’t be uncommon [during any training] for someone to be crying, for someone to have an emotional outburst, for someone to have different reactions, in short.” Program leadership attempted to address this dynamic by focusing attention on Navigator self-care and emotional support during these trainings, including Navigators’ own emotional needs and goals.
+Supervisors were also intentional in incorporating social work and trauma-informed principles into their working relationships with Navigators. This approach acknowledged that Navigators’ lived experiences and trauma could influence their actions, coping mechanisms, and job performance.
+One supervisor described the process by which they grounded their weekly meetings with Navigators by beginning with three questions:
+“How are you feeling today, what’s your goal for supervision, and who can you ask for help?” Metis’ process evaluation showed that, with the support of their supervisors, Navigators were better able to balance using their lived experiences as tools for relationship-building with participants without undermining their own wellbeing.
+Assess impact in
+responsive ways.
+Understanding the impact of social service navigation programs on participants, navigators, organizations, and the service sector as a whole is key to implementing and adapting navigation programs to meet the needs of a community.
+Performance assessment approaches should be tailored to specific aspects of a program;
+performance measures could summarize program volume, participants’ characteristics and needs, their engagement with navigators and services, their milestones and successes, and ultimately their transition out of the program.
+They can also illustrate Navigators’ own engagement with trainings and professional development opportunities, as well as any additional needs they have to not only achieve their goals but also better support participants more holistically. Finally, at an organizational level, performance measures can track collaboration between different organizations and agencies to understand how their partnerships function, such as how often they coordinate on cases or host joint outreach and informational events. More intensive research efforts (e.g., evaluations or assessments) can also provide richer understanding through collection of additional data, such as through qualitative interviews and/or focus groups with participants and staff.
+As a program evolves over time, performance metrics should also evolve to ensure they are measuring what they intend to measure. In the case of social service navigation, quantifying ASSESSING IMPACT HOLISTICALLY AND RESPONSIBLY
+
+26
+CUNY Institute for State & Local Governance One participant described how their Navigator accompanied them to court proceedings and that they “immediately didn’t feel alone anymore,” explaining that simply having someone by their side was invaluable.
+These positive outcomes are also illustrated through the CNP’s performance reports. Among participants who had not utilized a service within six months prior to enrollment, 71 percent exited the program with a successful connection, demonstrating the program’s effectiveness in serving those most in need of support.
+Participants were also more likely to exit with a successful outcome if they presented with a single, core need at intake. Among those presenting with one need at intake, the program was most successful in connecting participants to services for needs related to youth programming (95 percent), counseling (80 percent), or registering for government benefits (70 percent). If Navigators are able to first meet participants’ more immediate concerns, individuals are more likely to continue working with their Navigator to achieve longer-term goals.
+In addition to these individual outcomes, the evaluation also noted that the CNP helped partner organizations improve their understanding of the service sector and their own internal practices for outreach and recruitment. In some instances, some community partners relied on the CNP to provide one-on-one support to participants in a way that went beyond service navigation. Nonetheless, many began incorporating access to the Navigators as part of their overall program design and philosophy. These partnerships also allowed providers to expand their services and provide more comprehensive wraparound care. At the organizational level, several community partners referrals and utilization rates seems intuitive, but these alone do not paint the full picture of program realities. Participant needs vary with regard to severity and scope; they may overlap or be interdependent. Accordingly, accessing a service alone does not indicate whether it was appropriate and impactful. Moreover, binary understandings of success ignore the longstanding barriers many participants have faced in connecting to services. Programs must consider measuring impact at multiple levels, to the extent possible, including participant-, community-, organizational- and service sector levels; as well as integrate realistic expectations of performance that account for the realities experienced by participants, staff, and organizations.
+Throughout the lifetime of the CNP, Community Navigators worked with almost 2,000 neighborhood residents. About 60 percent of those participants exited the program with service linkages that met some (23 percent) or all (37 percent) of their identified needs. Although the limited data on service navigation makes it difficult to assess this performance in absolute terms, this figure fits and reflects the wide diversity of participants and needs in a community setting. In addition to helping participants address core needs such as medical care and housing, the program also helped participants improve their mental health and wellbeing. Through qualitative methods, participants described a reduction in stress and anxiety after working with Navigators, leading to increased optimism for the future. One participant described how their Navigator accompanied them to court proceedings and that they “immediately didn’t feel alone anymore,”
+explaining that simply having someone by their side was invaluable. Participants also shared that they felt like the program put them on a path to success and that they felt more empowered and independent thanks to the CNP.
+
+27
+A Blueprint for Social Service Navigation in NYC and Beyond noted that the program helped enhance their own knowledge of resources and better identify resources best suited for different participant needs.
+Interestingly, many partners described how their work with the CNP instilled a newfound belief that cross-organizational work is not only possible but has the potential to be transformative. These partnerships also allowed providers to identify new priorities for their own work—for example, enhancing intake procedures to more accurately assess needs, increasing staff knowledge, and improving staff capacity to issue their own referrals and service connections. In this way, the CNP provided broader benefits for the community and the service sector as a whole. The CNP and related efforts can continue to inform service providers and funders as the system continues to aim for a more integrated, less siloed approach to connecting people with services.
+
+28
+CUNY Institute for State & Local Governance Endnotes 1.
+City University of New York Institute for State and Local Governance & Metis Associates.
+Research Brief: No Wrong Door Initiative Landscape Study. New York City Mayor’s Office for Economic Opportunity. New York: CUNY ISLG, 2022.
+2.
+The focus neighborhoods include Chelsea/Hell’s Kitchen/Midtown West, Central/East Harlem, Washington Heights/Inwood and Lower East Side/Chinatown.
+3.
+City University of New York Institute for State and Local Governance & Metis Associates.
+Research Brief: No Wrong Door Initiative Landscape Study. New York: NYC Mayor’s Office for Economic Opportunity, 2022.
+4.
+Data on snapshot of Community Navigators also revealed 8 percent spoke a language other than English; 8 percent had a physical or learning disability; 8 percent lived in foster care; 4 percent experienced homelessness; and 4 percent had previous experience working with youth populations.
+5.
+Rich, John. Moving toward healing: Trauma and violence and boys and young men of color. Princeton:
+Robert Wood Johnson Foundation, 2016.
+Retrieved from http://bma.issuelab.org/resource/ moving_toward_healing_trauma_and_violence_ and_boys_and_young_men_of_color.
+6.
+Trauma-informed refers to organizations and ractices that incorporate an understanding of the pervasiveness and impact of trauma and are designed to reduce re-traumatization and support healing and resiliency.
+7.
+National Center on Domestic Violence, Trauma, and Mental Health. Thinking about trauma in the context of DV advocacy: An integrated approach.
+Adapted from Harris and Fallot, 2001.
+8.
+Client- or person-centered refers to the idea that people are inherently motivated toward achieving positive psychological functioning. The client is believed to be the expert in their life and leads the general direction of path to well-being.
+9.
+Yao L, Kabir R. “Person-Centered Therapy (Rogerian Therapy)” [Updated 2023 Feb 9]. In:
+StatPearls [Internet]. Treasure Island (FL):
+StatPearls Publishing, 2024 Jan-. Available from:
+https://www.ncbi.nlm.nih.gov/books/ NBK589708/.
+10. Transgender: denoting or relating to a person whose sense of personal identity and gender does not correspond with their birth sex.
+11. Gender non-binary: non-binary or genderqueer is an umbrella term for gender identities that are neither male nor female – identities that are outside the gender binary.
+12. D/deaf/HOH: “Deaf” refers to individuals who identify as belonging to a unique cultural and linguistic community, whereas “deaf” refers to an audiological condition of not hearing.
+13. The primary mission of the social work profession is to enhance human well-being and help meet the basic human needs of all people, with particular attention to the needs and empowerment of people who are vulnerable, oppressed, and living in poverty. The social work profession is rooted in a set of core values, including:
+service, social justice, dignity and worth of the person, importance of human relationships, integrity and competence.
+14. “Read the Code of Ethics.” The National Association of Social Workers. Retrieved from https://www.socialworkers.org/About/Ethics/ Code-of-Ethics/Code-of-Ethics-English.
+
+29
+A Blueprint for Social Service Navigation in NYC and Beyond The CUNY Institute for State & Local Governance is a good governance think-and-do tank. We craft the research, policies, partnerships, and infrastructures necessary to help government and public institutions work more effectively, efficiently, and equitably.
+For more information, visit islg.cuny.edu.

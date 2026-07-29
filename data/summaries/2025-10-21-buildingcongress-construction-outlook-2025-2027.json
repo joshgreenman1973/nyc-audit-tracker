@@ -1,0 +1,79 @@
+{
+  "id": "2025-10-21-buildingcongress-construction-outlook-2025-2027",
+  "source": "outside",
+  "auditor": "New York Building Congress",
+  "title": "2025-2027 New York City Construction Outlook Report",
+  "plain_title": "Three-year forecast for New York City construction",
+  "agency": "New York City government",
+  "issued": "2025-10-21",
+  "url": "https://buildingcongress.com/report/2025-2027-new-york-city-construction-outlook-report/",
+  "pdf": "https://buildingcongress.com/wp-content/uploads/2025/10/2025-Construction-Outlook.pdf",
+  "what_they_audited": "A forecast report from the New York Building Congress projecting construction spending, employment and building activity in New York City through 2027, closing with a set of policy proposals aimed at federal, state and city government.",
+  "background": "The report tracks residential, non-residential and government construction spending in the five boroughs, drawing on federal spending data and city building permit records.",
+  "findings": [
+    {
+      "plain": "Construction spending is projected to hold roughly flat once inflation is taken into account.",
+      "quote": "In today’s dollars, spending is expected to dip from roughly $74 billion in 2025 to about $69 billion in 2026 before edging back up to $75.3 billion in 2027"
+    },
+    {
+      "plain": "Construction employment is projected to stay near current levels through 2027.",
+      "quote": "The Building Congress anticipates employment in the construction of buildings, heavy and civil engineering, and specialty trades to total 139,000 jobs in 2025, and 140,000 in 2026 and"
+    },
+    {
+      "plain": "Residential permits are expected to fall sharply from 2024 while remaining well above 2023.",
+      "quote": "In the residential sector, building permits are expected to be issued for nearly 19,000 new units in 2025, onethird less than in 2024, but still double the volume of 2023."
+    },
+    {
+      "plain": "Borrowing costs are named as a main reason activity has slowed.",
+      "quote": "Higher borrowing costs remain a key reason for reduced industry activity."
+    },
+    {
+      "plain": "The report says firms are holding back on large spending until conditions become clearer.",
+      "quote": "Many firms and private sector investors are choosing to delay large expenditures until conditions become more predictable or until interest rates are cut."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$74 billion",
+      "label": "Forecast city construction spending in 2025"
+    },
+    {
+      "value": "$219 billion",
+      "label": "Forecast three-year spending, inflation-adjusted"
+    },
+    {
+      "value": "139,000",
+      "label": "Forecast construction jobs in 2025"
+    },
+    {
+      "value": "nearly 19,000 new units",
+      "label": "Residential units expected to be permitted in 2025"
+    },
+    {
+      "value": "111,350",
+      "label": "Residential units authorized by permits since 2020"
+    }
+  ],
+  "recommendations": [
+    "Release Surface Transportation Reauthorization funding quickly and ensure New York gets a share matching its population, the size of its public transit systems and what it contributes to the federal tax base and gross domestic product.",
+    "Establish a federal infrastructure bank so that infrastructure investment continues nationwide.",
+    "Improve and reform project delivery methods and procurement so projects move faster and with more flexibility.",
+    "Streamline project approvals through land use reform, including the housing measures in the City of Yes plan.",
+    "Reform permitting and National Environmental Policy Act review to speed up environmental reviews, through legislation such as the RESTART Act.",
+    "Invest further in workforce training and development at all levels of government.",
+    "Maintain robust capital budgets and adequate staffing at state and city agencies, including public authorities.",
+    "Advance and broaden opportunities for minority- and women-owned business enterprises and develop policies that give those firms meaningful economic prospects.",
+    "Broaden and expand the development incentives in the Affordable Neighborhoods for New Yorkers tax incentive program, known as 485-x.",
+    "Invest in citywide resiliency measures to protect at-risk communities and critical infrastructure from extreme weather.",
+    "Invest significantly in energy infrastructure and grid networks, including battery energy storage systems, to keep energy reliable as usage grows."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "money and contracts",
+    "labor"
+  ],
+  "is_followup": false
+}

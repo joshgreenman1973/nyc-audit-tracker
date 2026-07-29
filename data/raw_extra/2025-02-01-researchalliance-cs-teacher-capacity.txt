@@ -1,0 +1,1458 @@
+December 2024 
+Research Report 
+Building Teacher 
+Capacity for 
+Equitable CS: 
+Insights from NYC’s CS4All Initiative 
+By Cheri Fancsali, June Mark, and Janice Lee 
+February 2025 
+
+Steering Committee 
+Acknowledgements 
+This report is the result of the work and dedication 
+of numerous individuals. We extend our gratitude 
+to the entire CS4All evaluation team at the 
+Research Alliance, including Kathy Hill, Xia Li, 
+Rishika Jain, and Michelle Flores, for their tireless 
+efforts in conducting the research and developing 
+this report. Special thanks to Chelsea Farley, our 
+communications director, for editing the report, and 
+to Faith Northern and Summer Wildbill for their 
+assistance with the final layout, production, and 
+outreach process. 
+We thank our partners at NYC Public Schools for 
+their engagement with this research, with particular 
+appreciation for Heather Wilson’s ongoing support. 
+We are grateful to the entire CS Education team, 
+especially Tunisia Mitchel and Christy Crawford. 
+Their insights and collaboration have been 
+invaluable to our research efforts and 
+understanding of CS teacher capacity building. 
+This study would not have been possible without 
+the generous support of the Fund for Public 
+Schools and the CS4All Founders Committee. We 
+appreciate the time they dedicated to asking tough 
+questions and providing feedback throughout the 
+project. 
+Finally, we are deeply indebted to the school 
+leaders, teachers, and students who participated in 
+our data collection efforts. Their responses 
+provided essential on-the-ground perspectives, 
+significantly enhancing our understanding of CS 
+teacher capacity building in New York City. 
+---------------------------------------------------- 
+In addition to the funders of this specific study, the 
+Research Alliance benefits from the support of the 
+following organizations, who underwrite our 
+capacity to engage stakeholders in our work and 
+broadly communicate the results and implications 
+of our studies: the Gates Foundation, Carnegie 
+Corporation of New York, the Catherine and 
+Joseph Aresty Foundation, New York University, 
+the Wallace Foundation, and the William T. Grant 
+Foundation. 
+Our publications reflect the findings, 
+interpretations, and conclusions of the Research 
+Alliance and not necessarily those of our funders 
+or individual Steering Committee members.  
+Mark Dunetz, Chair 
+President, New Visions for Public Schools 
+Jennifer Jones Austin 
+Chief Executive Officer & Executive Director, Federation of 
+Protestant Welfare Agencies 
+Melissa Aviles-Ramos 
+Chancellor, New York City Public Schools 
+Georgina Dopico 
+Provost, New York University 
+Frances Lucerna 
+Co-Founder and Executive Director, El Puente 
+Christine Mangino 
+President, Queensborough Community College 
+James Merriman 
+Chief Executive Officer, New York City Charter School 
+Center 
+Michael Mulgrew 
+President, United Federation of Teachers 
+Félix Matos Rodriguez 
+Chancellor, The City University of New York 
+Henry Rubio 
+President, Council of School Supervisors and 
+Administrators 
+Michelle Yanche 
+Executive Director, Good Shepherd Services 
+Leadership Team 
+Cheri Fancsali 
+Executive Director 
+Kathryn Hill 
+Research Director 
+Chelsea Farley 
+Communications Director 
+About the Research Alliance 
+Housed at NYU Steinhardt, the Research Alliance for 
+New York City Schools is an independent, 
+nonpartisan research center that conducts rigorous 
+studies on topics that matter to the City’s public 
+schools. We strive to advance excellence and equity 
+in education by providing evidence about the policies 
+and practices that promote students’ development 
+and academic success. 
+
+1 
+Building Teacher Capacity for Equitable 
+CS: Insights from NYC’s CS4All Initiative 
+Executive Summary 
+This brief examines the New York City Public Schools' (NYCPS) Computer Science for All 
+(CS4All) initiative’s efforts to build teacher capacity and support the implementation of 
+computer science (CS) education across K-12 classrooms. The initiative, launched in 2015, 
+aimed to deliver high-quality CS education to all students by providing robust professional 
+learning (PL) opportunities for teachers, including many with little or no prior CS 
+background. 
+Key Findings 
+Professional Learning 
+•
+By 2024, more than 3,000 teachers had participated in CS4All PL sessions, with an
+average of about 400 teachers trained annually.
+•
+Teachers rated the CS4All PL highly, with a majority responding favorably to
+questions about the quality of the PL sessions. Most also reported that the PL
+sessions increased their CS knowledge and skills, that what they learned would be
+useful in the classroom, and that they were confident in their ability to provide CS
+instruction.
+CS Implementation 
+•
+Among teachers who remained in the classroom, over two thirds (68%)
+implemented CS at some point following training (even if not immediately). On
+average, 45 percent of teachers implemented CS instruction in the first year
+following PL. Implementation rates ranged from a low of 20 percent of the teachers
+who received PL in 2016 to a high of 69 percent in 2019. Implementation declined
+year-over-year for each cohort of teachers, as time passed since their initial PL
+participation. The lower implementation rates in the initiative's early years may be
+partly attributed to less formalized and intensive PL offerings, as well as a lack of
+explicit expectations for post-PL CS implementation.
+•
+Some of the gap between participation in PL and implementation of CS in the
+classroom is explained by teacher attrition. One quarter of teachers participating in
+PL (25%) between 2016 and 2023 left the system (22%) or moved into a leadership
+or other non-classroom position (3%).
+•
+High school teachers and educators who participated in PL sessions for standalone
+CS courses were more likely to implement CS than those at the elementary or
+middle school levels and those who participated in PL sessions for integrating CS
+into other subjects.
+•
+Implementing teachers tended to be in more advantaged schools than non- 
+implementers. On average, implementing teachers’ schools served higher-income
+and higher-achieving students, with lower proportions of Black and Latinx students.
+
+2 
+Barriers to Implementation 
+•
+Major barriers to implementation were structural in nature (i.e., factors often beyond
+teachers' control). This included barriers related to time, such as scheduling
+challenges, competing academic priorities, and lack of time to prepare lessons.
+Further, a majority of non-implementing teachers were prevented from implementing
+because their CS class was not scheduled or their teaching assignment changed.
+•
+In addition to structural challenges, teachers also reported facing normative barriers
+to CS implementation (i.e., barriers related to school culture and attitudes toward
+CS), albeit to a lesser degree. This included being hampered by a lack of priority for
+CS instruction and inadequate administrative support. Lack of student enrollment or
+interest in CS was not a significant barrier.
+•
+Barriers to implementing CS were particularly acute in schools serving students with
+higher economic needs, exacerbating equity gaps in CS education.
+•
+Fewer teachers reported capacity issues—such as insufficient expertise in CS
+content and pedagogy—as barriers to implementation. Non-implementers were
+much more likely to report a lack of expertise in CS pedagogy and instructional
+strategies than implementers.
+Facilitators of Implementation 
+•
+Factors that facilitated implementation included having a professional community of
+CS teachers, support from school leadership, and a strong school culture for CS.
+Implications for Policy and Practice 
+As NYC’s CS4All work evolves and CS education initiatives expand nationwide, the lessons 
+highlighted in this report can inform planning and decision-making. Efforts to build teacher 
+capacity and promote equitable access and participation goals may benefit from the 
+following insights: 
+1. Continuous professional learning and community building: Providing ongoing
+PL opportunities, curriculum resources, and communities of practice for CS
+teachers is critical to sustaining implementation and retaining qualified educators.
+Consider evaluating which aspects of teacher support can effectively be delivered
+through virtual or asynchronous methods as a cost-efficient way to reach more
+teachers, while maintaining in-person support where it adds the most value.
+2. Culturally responsive-sustaining education (CR-SE): Continuing to embed CR- 
+SE practices in CS PL has the potential to improve instruction, student engagement,
+and belongingness in CS for underrepresented groups. A deep focus on equity is an
+essential part of the district’s efforts to address structural and systemic barriers to
+CS and to promote the core goals of the CS4All initiative.
+3. School leadership: Administrators play a crucial role in creating a vision for CS,
+prioritizing instructional time, and navigating competing demands. Providing support
+and resources for school leaders can facilitate planning for CS teacher capacity- 
+building and equitable CS implementation.
+
+4.
+3 
+Addressing structural barriers: Systemic solutions are needed to address staffing
+shortages, scheduling constraints, and resource allocation challenges that hinder
+CS implementation.
+5. Aligning CS initiatives with district-wide priorities: It is important for
+superintendents and executive superintendents to understand the benefits of CS
+education and how CS fits in with other instructional priorities. This will help them
+better support school leaders, including providing appropriate resources for
+capacity-building efforts and CS implementation.
+6. Building long-term capacity: While the initiative has made significant strides in
+providing professional learning opportunities and support for current teachers, there
+are several key areas where further action is needed to ensure a robust and
+qualified CS teacher workforce in the years to come. Given the challenges of
+teacher attrition, developing strategies to prepare and retain CS teachers is crucial
+for program sustainability. Our findings suggest that developing high-quality teacher
+PL tied to classroom-tested CS curriculum, CS teacher certification pathways,
+incentives, and teacher and school supports can help build a sustainable pipeline of
+qualified CS educators, especially as states consider making CS a graduation
+requirement.
+
+4 
+Introduction 
+The New York City Public Schools’ (NYCPS) Computer Science for All (CS4All) initiative is 
+an ambitious public-private partnership designed to bring computer science (CS) education 
+to every student in the district. Consistent with nationwide efforts, CS4All aims to expand 
+students’ opportunities to participate in CS, including through career-connected learning. 
+The ultimate goal of these efforts is to equip young people with skills needed for success in 
+our technology-driven world, helping ensure their long-term economic security. 
+Launched in 2015, the CS4All initiative was designed to deliver high-quality CS education 
+to students within each grade band (i.e., K-2, 3-5, 6-8, 9-12). Accomplishing this hinged on 
+the provision of professional learning (PL) in CS to large numbers of NYC teachers and 
+school leaders, specifically targeting those with little or no CS background. Equity has been 
+a core focus of the CS4All initiative, with teachers also receiving PL in culturally relevant 
+and sustaining education (CR-SE) practices, as well as related instructional resources and 
+support. From the outset, CS4Allplaced a strong emphasis on increasing access and 
+exposure for groups who are historically underrepresented in CS, including girls, Black 
+students, and Latinx students.  
+This report examines the initiative’s efforts to prepare teachers to be CS educators, building 
+critical capacity for CS education in NYC. Specifically, we examine teacher participation 
+and retention in the initiative, aiming to better understand their implementation of CS in the 
+classroom, as well as factors that either facilitated or hindered that implementation. Our 
+findings shed light on why some teachers and schools have embraced CS4All while others 
+faced obstacles they were unable to surmount. We outline a variety of implications for 
+policy and practice, with a focus on strengthening future efforts to build teacher capacity for 
+CS education. The report is organized into the following sections: (1) Data Sources and 
+Methodology; (2) Teacher Participation in CS4All Professional Learning; (3) CS 
+Implementation, (4) Contextual Factors Associated with Implementation; (5) Implementation 
+Barriers and Supports; and (6) Discussion and Recommendations. 
+1. Data Sources and Methodology
+The data sources we draw on for this report include: 
+•
+Survey of teachers who participated in CS4All PL. Administered at the end of
+the school year, the survey was designed to gather information about how teachers
+were implementing what they learned in the CS PL, barriers to implementation,
+additional supports needed to implement CS in the classroom, attitudes toward CS
+(e.g., perceived value and usefulness), CS-related school culture, and adoption of
+CR-SE practices and approaches. The survey included closed and open-ended
+items. Data used for this report are primarily from the 2022 and 2023 teacher
+surveys. In a few cases, we report findings from items that were only asked on
+earlier surveys. (See the Appendix for sample and response rate information).
+•
+NYCPS’ Student Tracking and Registration System (STARS) data, which
+provides a record of courses offered at all NYC schools. We used STARS data to
+identify teachers who implemented CS in their classrooms.
+
+•
+Administrative record data on NYCPS students and teachers. This includes
+school-level data on student demographic characteristics (e.g., race/ethnicity,
+socioeconomic status, prior academic performance), as well as individual teacher
+attributes (e.g., years of experience, school assignment) and PL participation
+records.
+•
+A review of relevant documents, such as theories of change, PL materials (e.g.,
+goals, objectives, agendas), and supporting resources provided to teachers and
+administrators as part of the CS4All initiative.
+5 
+2. Teacher Participation in CS4All Professional Learning
+Types of PL and Support Offered 
+At the start of the initiative in 2015, there was a nationwide lack of teaching capacity for CS 
+instruction, which persists today (CSTA, 2013; Shein, 2019). At that time, most states—
+including New York 1—did not offer teaching licenses specific to CS. Further, very few 
+schools in NYC offered CS instruction and courses, and those that did were predominantly 
+highly competitive high schools that required a special test for admission. Consequently, 
+the district faced the task of providing substantive professional learning experiences for 
+large numbers of teachers with little or no background in CS. To facilitate this PL, the 
+district developed the NYC CS4All Blueprint, a set of curriculum resources along with an 
+implementation guide for teaching computer science in New York City public schools. The 
+Blueprint delineates five fundamental CS concepts (abstraction, algorithms, programming, 
+data, networks) and set of CS practices (analyzing, prototyping, communicating) that would 
+be central to CS4All PL opportunities. PL opportunities were designed to help teachers 
+develop their own knowledge of CS and to orient them around available resources for 
+providing CS classroom instruction to their students.  
+Each year, the initiative offered a diverse selection of PL programs (referred to as 
+‘curriculum PL’ in this report) to teachers in foundational and advanced CS curricula, 
+including summer and year-long learning activities. These PL experiences ranged from a 
+minimum of 48 hours for foundational curriculum to over 100 hours for advanced 
+curriculum. Different curriculum and PL options were available for each of the four grade 
+bands that the initiative targeted (K–2, 3–5, 6–8, and 9–12). The curricular options included: 
+•
+CS units of instruction (such as Computer Science and Me, and CS is Problem
+Solving) that can be integrated into other courses;
+•
+Standalone semester- and year-long CS courses (ranging from introductory CS to
+Advanced Placement CS courses); and
+•
+Multi-year CS course sequences.
+Integrated CS units were primarily implemented at the elementary level, while standalone 
+and multi-year CS courses were primarily implemented at the middle and high school 
+levels.  
+
+The CS4All team provided teachers with PL that began in the summer prior to 
+implementation and continued during the school year; they also facilitated ongoing teacher 
+communities of practice. Over time, CS4All provided additional support to administrators 
+and other school leaders, and CS teacher leaders. For example, teachers implementing 
+units were initially supported by CS education managers—locally placed district staff who 
+were often former CS teachers. This support later evolved to more specialized support for 
+teachers by grade level rather than by location. The CS education managers (grades K–5) 
+offered coaching and technical assistance, conducted site visits, and provided CS 
+implementation planning guidance for teachers and schools. Similarly, at the middle and 
+high school levels, site visits, coaching, and technical assistance were part of the support 
+provided to schools. When the COVID pandemic started in March 2020, the site visits and 
+on-site coaching across grades K–12 were replaced with virtual support (e.g., virtual office 
+hours). In the 2023 school year, when both in-person and virtual support were available, 
+most teachers opted to receive virtual support, and the CS4All team adjusted their support 
+to be responsive to teacher needs. Post-COVID, CS4All teachers continue to receive 
+extensive PL, implementation support, and guidance and resources to facilitate the 
+implementation of CS instruction in their schools.  
+6 
+Teacher Perspectives on the Quality and Usefulness of PL 
+Since early in the CS4All initiative, our evaluation has found that teachers rated the CS4All 
+PL highly, with a majority responding favorably to questions about the quality of the PL. 
+Teachers generally have reported that the goals of the PL were clearly stated, the activities 
+were well organized and promoted learning, and the facilitators were knowledgeable and 
+well prepared (Villavicencio et al., 2018).  Further, most teachers have said that the PL 
+increased their CS knowledge and skills, that what they learned would be useful in the 
+classroom, and that they were confident in their ability to implement CS instruction. For 
+example, in 2019 (the most recent year our survey included questions about teachers’ 
+confidence in implementing CS), about 72 percent agreed or strongly agreed with the 
+statement “I understand CS concepts well enough to teach CS effectively,” and nearly 80 
+percent agreed or strongly agreed that “I know how to facilitate students’ interests in CS” 
+(see Figure 1 on the next page). These findings suggest that CS4All PL was preparing 
+teachers well for implementation. The high ratings for both the usefulness and quality of the 
+PL continued across the subsequent years of the CS4All PL. 
+While teachers felt confident in their ability to provide CS instruction, some of them saw 
+areas for growth in their own conceptual understanding of CS. For instance, 50 percent of 
+the respondents agreed or strongly agreed with the statement “I wish I had a better 
+understanding of the CS concepts I teach.” This sentiment is understandable given that 
+most teachers entered CS4All without formal CS training or CS teaching backgrounds. 
+While the CS4All curriculum PL provides a solid foundation, becoming a strong CS teacher 
+capable of teaching multiple courses requires ongoing learning and development. This 
+highlights the need for additional training and support beyond the first year of PL, allowing 
+teachers to deepen their CS knowledge, expand their pedagogical skills, and stay current 
+with rapidly evolving technology and curriculum standards. 
+
+7 
+Figure 1: Teachers’ Self-Reported CS Confidence 
+Source: Research Alliance for NYC Schools 2019 CS4All Teacher Survey. 
+Beginning in 2020, CS4All added Exploring Equity in Computer Science (EECS) PL 
+sessions and events for teachers and school leaders. While a focus on equity and culturally 
+responsive pedagogies are embedded in all CS4All PL, the EECS offerings were designed 
+to enhance teachers’ understanding of CR-SE practices and support their integration and 
+implementation across all of CS4All’s curricula. Building on the first session, EECS 
+expanded in subsequent years to offer multiple, progressive levels of PL.2 Starting in 2021, 
+teachers participating in the CS4All curriculum PL (i.e., PL designed to prepare teachers to 
+implement integrated units, standalone courses, or multi-year CS course sequences) were 
+also required to take a 90-minute foundational EECS course aimed at establishing shared 
+language and best practices around equity, anti-racism (e.g., the meaning of institutional 
+racism) and related practices.  
+Similar to the curriculum PL, responses to the EECS PL have been generally positive, 
+suggesting that it has led to greater implementation of CR-SE practices in CS classrooms, 
+and greater teacher confidence in using these practices. Nearly all surveyed teachers 
+(91%) reported that EECS PL supported the implementation of culturally relevant CS 
+instruction to a large or moderate extent. Most teachers reported using their students’ 
+knowledge and interests to make connections to new content in CS, modifying CS lessons 
+to connect with students of different backgrounds and identities, and teaching CS lessons 
+that affirm their students’ cultural and/or social identities (see Table 1 on the next page). In 
+addition, in an open-ended question about impact, teachers reported that integrating CR-SE 
+improved relationships with students, increased student interest and engagement, and 
+helped students see the relevance of CS to their lives and identities. The introduction and 
+delivery of equity PL have been an essential part of the district’s efforts to address 
+structural and systemic barriers and to promote the core goals of the CS4All initiative. 
+
+8 
+Table 1: Teachers Implementing CR-SE Practices to a Moderate or Large Extent 
+Percent 
+CR-SE Practice 
+78 
+Using my students’ knowledge and interests to make connections to new content in CS. 
+67 
+Ensuring that a variety of diverse cultures, languages, orientations, and identities are 
+reflected, represented and valued in my CS classroom. 
+63 
+Modifying CS lessons to connect with students of different racial/ethnic backgrounds or any 
+other social identity. 
+62 
+Using inquiry-based or project-based CS learning. 
+59 
+Teaching CS lessons that affirm my students’ cultural and/or social identities. 
+56 
+Teaching lessons that allow my students to investigate issues of social justice in technology. 
+Source: Research Alliance for NYC Schools 2022 and 2023 CS4All Teacher Survey. N=667. 
+Characteristics of Teachers Participating in PL 
+By the 2023-24 school year, over 3,100 teachers had participated in CS4All PL designed to 
+prepare them to implement CS instruction in their classrooms. (See Table 2 for the total number 
+of PL sessions teachers attended, the total count of teachers participating, and the unduplicated 
+count of teachers participating each year). This includes PL focused on integrating CS units, 
+standalone CS courses, EECS, and leadership PL. While most teachers (79%) completed one 
+curriculum PL, 14 percent completed two, and 7 percent completed three or more. 
+Table 2: Teachers Participating in CS4All Curriculum, Leadership, or EECS PL by Year 
+School 
+Year 
+Total Number of PL 
+Sessions Attended 
+Count of Teachers 
+Participating in PL  
+Unduplicated Count of 
+Participating Teachers 
+2015-16 
+408 
+371 
+371 
+2016-17 
+626 
+567 
+489 
+2017-18 
+508 
+453 
+298 
+2018-19 
+691 
+623 
+447 
+2019-20 
+683 
+627 
+393 
+2020-21 
+594 
+563 
+329 
+2021-22 
+519 
+460 
+283 
+2022-23 
+590 
+505 
+288 
+2023-24 
+562 
+473 
+235 
+Total 
+5181 
+4642 
+3133 
+Source: Research Alliance calculations based on data provided by NYCPS. 
+Note: Teachers from all districts, including special and alternative districts 75, 79, 84, and 88, are represented in these 
+results. Teachers who enrolled in a PL offering but did not attend a majority of the scheduled hours of PL were not counted as 
+a participant. Teachers may have attended multiple PLs within each year, and across years. The first column represents the 
+number of sessions teachers attended by year, including teachers who attended multiple sessions in a year. The second 
+column represents the duplicated count of teachers participating each year, including teachers who participated in multiple 
+years. The third column represents a count of unique (unduplicated) teachers participating in PLs. If teachers attended PLs in 
+multiple years, they were counted in the first year of participation. 
+
+9 
+As shown in Figure 2 below, more than half of curriculum PL participants were elementary 
+school teachers. One fifth were middle school teachers, and another fifth were high school 
+teachers. Three percent were ungraded special education teachers. Elementary teachers 
+were more likely to be trained in teams (e.g., a whole school or grade level within a school), 
+whereas middle and high school teachers more often participated in PL as individuals, often 
+being the only CS teacher at their school. For example, 43 percent of high schools and 40 
+percent of middle schools that participated in the CS4All PL had only one trained teacher in 
+their building in the 2022-23 school year. In comparison, only 27 percent of elementary 
+schools had only one trained teacher in their building. 
+Figure 2: Distribution of PL Participants by Grade Level 
+Source: Research Alliance calculations on data provided by NYCPS. 
+Note: N=2,856. Only teachers participating in curriculum PL (i.e., PL focused on implementing integrated CS units, standalone 
+courses, or multi-year sequence of courses) are included in this figure. In addition, 8 percent of teachers were missing grade 
+level information and are not included in these data. A teacher is designated with a special education school level if they teach 
+in a District 75 school.  
+About two thirds of teachers participated in PL focused on curriculum that integrated CS 
+units into other subjects (60%), a third (32%) participated in PL for standalone CS courses, 
+and 17 percent participated in PL designed to prepare teachers to implement a sequence of 
+courses comprising the Software Engineering Program (SEP). In addition to the curriculum 
+PL, 171 unique teachers participated in CS4All’s equity PL between 2021 and 2024. Many 
+of these teachers participated in multiple levels of EECS PL, reflecting the layered design of 
+the PL. For example, teachers may start at level one—which focuses on building 
+knowledge of racial and equity literacies and common language related to CR-SE, and then 
+move to level two (with a focus on systemic characteristics of oppression in CS) and level 
+three (where teachers begin to address institutional and systemic challenges in their 
+context) in the following years. Some teachers take PL for multiple levels in the same year. 
+At level four, the “ingenuity team”, graduates of levels one through three serve as advisors 
+to CS4All, working with teachers and staff to support the equity-focused skills they have 
+Elementary School, 
+55.6% 
+Middle School, 19.8% 
+High School, 21 .9% 
+Special Education, 2. 7% 
+
+10 
+gained (see the CS4All Equity Impact Report for more details on EECS PL). Table 3 shows 
+the duplicated count of teachers participating in EECS PL, by level and year, highlighting 
+growth in teacher participation over time.  
+Table 3: EECS PL Participants, by Level and Year 
+Level 
+Number of Participating Teachers Each Year 
+2021-22 
+2022-23 
+2023-24 
+EECS Level 1 
+40 
+42 
+63 
+EECS Level 2 
+26 
+54 
+EECS Level 3 
+17 
+10 
+EECS Level 4 / Ingenuity Team 
+11 
+14 
+38 
+Total 
+51 
+99 
+165 
+Source: Research Alliance calculations based on data provided by NYCPS. 
+Note: Teachers may have participated in multiple EECS levels. The numbers in this table 
+represent duplicate counts of teachers who participated in multiple levels.  
+Teacher Attrition 
+Although the CS4All initiative reached a large number of teachers with PL opportunities, not 
+all of these teachers remained in the classroom. Between 2015-16 and 2022-23, 22 percent 
+of the teachers who participated in CS4All PL left the system, with the annual attrition rate 
+of PL participants ranging from about 2 percent to 5 percent. In comparison, citywide 
+attrition typically hovers around 6 percent per year; 8 percent of teachers districtwide left 
+the system between 2021 and 2022 (the year hardest hit by the pandemic).3 The lower 
+attrition among CS4All PL participants in comparison to citywide rates bodes well for 
+sustainability of the initiative because it suggests fewer teachers are lost to natural turnover 
+than expected. Nonetheless, 22 percent overall attrition still represents a significant loss of 
+teachers who were trained to implement CS.  
+In open-ended responses to our survey, several teachers described attrition and staffing 
+shortages as undermining efforts to sustain CS in their school:  
+My school desperately needs more CS teachers to teach integrated courses. We do 
+not have them, and even if we did, there is no CS4ALL support for the next school 
+year. I will be moving on next year, and I am afraid the program will not continue 
+once I leave. – Elementary school teacher (2022) 
+We previously had a team of eight teachers that implemented CS prior to COVID; 
+since then teachers have either left the school or have changed assignments, 
+making it difficult for them to implement CS. We now have a technology teacher who 
+is working by herself, with no support to teach classes that she only sees once a 
+week. – Elementary teacher (2022) 
+
+11 
+Another form of attrition is related to teachers moving out of classroom positions, in some 
+cases as a result of promotions to leadership roles. We found that, among the 78 percent 
+(2,211) of curriculum PL participants who were active in the school system in 2022-23, most 
+remained in the classroom, with about 3 percent having transitioned to leadership positions 
+(e.g., principal, assistant principal) or other non-classroom positions, such as social workers 
+or guidance counselors, as shown in Figure 3. Moves to leadership positions ultimately may 
+serve CS4All well, as principals and administrators who have participated in CS4All PL and 
+taught CS are more likely to value CS education, understand the challenges to 
+implementation, and know how to support CS efforts in their school. 
+Figure 3: Status of All Curriculum PL Participants by 2022-23 
+Source: Research Alliance calculations on data provided by NYCPS. 
+Note: N=2,828 
+3. CS Implementation
+Most CS4All curriculum PL was held during the summer, with the intention of preparing 
+teachers to begin implementing CS integrated units, courses, or sequences in their 
+classroom in the coming school year. According to the STARS data, the percentage of 
+teachers who implemented CS within the first year of PL participation varied year by year, 
+ranging from a low of 20 percent in the first year, to a high of 69 percent in 2019, just before 
+the pandemic (see Table 4 on the next page). Looking across years, on average, less than 
+half (45%) of the teachers who participated in CS4All PL proceeded to implement CS in 
+their classrooms within the first year. 
+Remained in the 
+classroom, 75% 
+Moved to a non-classroom 
+position, 0.7% 
+left the system, 21.8% 
+Moved to a leadership 
+position, 2.5% 
+
+12 
+Table 4: Percentage of Teachers Who Implemented CS Within the First Year 
+Year 
+Number of PL Participants 
+% Who Taught CS Within the First Year 
+2015-16 
+371 
+20.0 
+2016-17 
+483 
+31.7 
+2017-18 
+278 
+43.2 
+2018-19 
+446 
+69.3 
+2019-20 
+386 
+61.1 
+2020-21 
+326 
+50.6 
+2021-22 
+272 
+44.1 
+2022-23 
+266 
+40.6 
+Total 
+2,828 
+45.4 
+Source: Research Alliance calculations based on data provided by NYCPS. 
+Note: Table shows the percentage of teachers who implemented CS the school year during which they participated in the PL, 
+or if they participated in the summer, the immediately following school year. The percentage is calculated out of the number of 
+new PL participants in that year, according to our data.  
+Of the 2,828 teachers who had participated in PL by the 2022-23 school year (the latest 
+year of available implementation data), we found that more than half (51%) implemented 
+CS for at least one year after their training, but only 14 percent of teachers implemented 
+and continued to implement every year after participating in the PL (see Figure 4 on the 
+next page). As noted earlier, a small percentage (3%) moved to a leadership or non- 
+classroom position, and 22 percent left the system altogether. Among those teachers who 
+remained in the classroom, over two thirds (68%) implemented CS for at least one year 
+following the PL.  
+These findings highlight two patterns: 1) implementation was not always consistent, with 
+some teachers starting and stopping from year to year, and 2) some teachers eventually 
+implemented CS in their classes, even if they were unable to do so immediately after the 
+PL. Not unexpectedly, implementation declined year-over-year for each cohort as they got 
+further away from the year in which they first participated in the PL.  
+The gap between PL participation and implementing CS in the classroom may be attributed 
+to several factors. Attrition is one major contributor: As noted above, 22 percent of PL 
+participants had left the NYC school system by the 2022-23 school year. Teacher mobility is 
+another factor that affects implementation. Overall, 16 percent of teachers who participated 
+in the CS4All PL subsequently moved to a different school. However, mobility rates for 
+teachers varied substantially by implementation, with teachers who implemented every year 
+after training just one fourth as likely to have changed or moved schools by 2022-23 as 
+teachers who implemented in some or no years (4% vs. 19% and 17% respectively). This 
+suggests that teachers’ assignments may have been different in their new schools, that the 
+new school may have already had CS teachers and didn’t need additional staff, or that CS 
+was not a priority for the new school and thus not offered.  
+
+13 
+Figure 4: How Many PL Participants Had Implemented CS by 2022-23? 
+Source: Research Alliance calculations on data provided by NYCPS. 
+Note: N=2,828. 
+It is also possible that some teachers and schools that participated in the PL were 
+interested in exploring CS education but were not yet prepared to offer CS courses to 
+students. In the early years of the initiative (2015-16 through 2017-18), the PL program was 
+still in development, and there was not a consistent expectation that teachers who were 
+trained needed to have a plan for implementation in the school year immediately following 
+the PL. These teachers may have attended the PL to gather information and assess the 
+potential for future CS integration. Additionally, teachers who completed the PL might have 
+felt the need to further develop their own CS knowledge, confidence, and competence 
+before introducing it in their classrooms. This desire for additional preparation time and the 
+lack of a clear expectation of classroom implementation could have delayed the 
+implementation of CS instruction, even among educators who were enthusiastic about the 
+subject. 
+Finally, since STARS data are typically reported by school administrative staff (rather than 
+teachers themselves) there may be some underreporting of implementation, especially for 
+classes where CS is integrated into other subjects. Our earlier research found this to be the 
+case.4 However, underreporting is not likely to fully account for the discrepancy between 
+teachers participating in CS4All PL and their subsequent implementation. In the next 
+section, we explore some contextual factors that may be shaping teachers’ ability to 
+implement CS in the classroom.  
+Moved to a non-classroom 
+position, 0.7% 
+Implemented CS in all years, 
+14.1% 
+Implemented CS in some 
+years, 36. 7% 
+Moved to a leadership position, 2.5% 
+Left the system, 21.8% 
+Did not implement CS, 24.2% 
+
+4. Contextual Factors Associated with Implementation 
+14 
+Among those teachers who participated in the CS4All PL and were still active in the 
+classroom, we found key differences between those who implemented CS and those who 
+did not. These differences—related to both the types of PL teachers participated in and 
+their school level—provide insight into conditions that may support implementation. 
+Specifically, we found implementation to be associated with the following factors. 
+Participants in Standalone Course PL Were More Likely to Implement CS 
+Teachers who participated in PL on standalone courses were more likely to implement CS 
+in their classrooms, compared with teachers who participated in PL for integrating CS units 
+into other subjects. Table 5 shows that 21 percent of course-trained teachers implemented 
+CS in all years since their training, while only 12 percent of unit-trained and 13 percent of 
+sequence-trained teachers did so. Teachers who participated in unit training were the most 
+likely to say they never implemented CS in the classroom. 
+Table 5: Likelihood of Implementing CS by Type of Curriculum PL Attended 
+Unit PL Course PL Sequence PL 
+% Implemented All Years 
+12.2 
+20.5 
+13.0 
+% Implemented Some Years 
+47.8 
+52.8 
+65.2 
+% Did Not Implement 
+40.0 
+26.7 
+21.8 
+Source: Research Alliance calculations on data provided by NYCPS. 
+Note: Implementation status and PL participation are calculated using data as of the 2022-23 school year. 
+Several factors contribute to this trend. First, teachers integrating CS units into other 
+subjects were more likely to report challenges related to finding space for CS within the 
+curriculum, compared with those teaching a standalone class devoted to CS. Additionally, 
+schools often send multiple teachers to the unit-focused PL, with the expectation that only 
+one or two teachers in the school will ultimately teach the CS unit. In contrast, schools that 
+send teachers to participate in PL for standalone courses or sequences (e.g., SEP or 
+SEPjr) often have the course already planned, increasing the likelihood that the attending 
+teacher will in fact teach the course. Relatedly, as described below, we found that 
+implementation varied by grade level.   
+Middle School Teachers Were Least Likely to Implement CS 
+As shown in Table 6 on the next page, 43 percent of trained middle school teachers did not 
+implement CS, compared with 31 percent of elementary school teachers and 29 percent of 
+high school teachers. This aligns with previous findings showing that middle schools are 
+less likely to offer CS to their students.5 It is important to highlight this discrepancy because 
+middle school is when gender and race/ethnicity disparities in students’ interest and 
+engagement in science and technology typically begin to reveal themselves and widen 
+(Potvin & Hasni, 2014). 
+
+15 
+High School Teachers Were Most Likely to Implement CS 
+High school teachers are predominantly implementing standalone CS courses that are 
+likely already part of their school’s scheduled curricular offerings. This means teachers’ 
+efforts may be less likely to be sidelined by the class not being scheduled, competing 
+demands, or lack of instructional time. 
+Table 6: Likelihood of Implementing CS by Grade Level 
+Elementary 
+School
+Middle 
+School 
+High 
+School 
+Special 
+Education 
+% Implemented All 
+Years 
+15.9 
+8.9 
+22.1 
+0.0 
+% Implemented Some 
+Years 
+53.5 
+48.7 
+48.8 
+49.1 
+% Did Not Implement 
+30.6 
+42.5 
+29.1 
+50.9 
+Source: Research Alliance calculations based on data provided by NYCPS. 
+Note: Implementation status and school level were calculated using data as of the 2022-23 school year. Teachers were 
+designated with a special education school level if they were teaching in a District 75 school. 
+Implementation Also Varied by School Demographics 
+Additionally, we found differences in the likelihood of implementing that were related to the 
+composition of students in a teacher’s school (see Table 7 on the next page). Specifically, 
+using school-level data from the 2021-22 school year, we found that:  
+•
+Implementing teachers tended to be in more economically advantaged schools, as
+measured by a lower average Economic Need Index (ENI).6
+•
+Implementing teachers tended to be in schools serving lower proportions of Black
+and Latinx students.
+•
+Implementers were in schools that served a somewhat lower percentage of English
+language learners and students with Individualized Education Programs (IEPs) on
+average.
+•
+Implementers tended to be in schools with higher proportions of students who are
+proficient on the NY State standardized tests in mathematics and, to a smaller
+extent, English.
+These findings, when considered collectively, indicate that teachers in relatively more 
+advantaged schools were more likely to implement CS. This disparity may stem from the 
+fact that schools with lower implementation rates often face numerous challenges and 
+competing priorities. For instance, the pressure to focus on standardized test preparation 
+may make it more difficult for these schools to successfully introduce and maintain CS 
+programs. 
+
+16 
+Table 7: Average School-Level Characteristics for Each Implementation Category 
+Implemented All 
+Years 
+Implemented Some 
+Years 
+Did Not 
+Implement 
+Average Economic Need Index 
+71.8 
+72.6 
+76.8 
+% Black and Latinx Students 
+65.8 
+66.6 
+72.2 
+% English Learners 
+15.2 
+16.9 
+17.1 
+% Students With an IEP 
+20.3 
+21.4 
+23.1 
+% Students Proficient in 
+English on NY State Exam 
+44.9 
+44.4 
+42.1 
+% Students Proficient in Math 
+on NY State Exam 
+38.9 
+36.4 
+32.3 
+Source: Research Alliance calculations based on data provided by NYCPS. 
+Note: School-level characteristics are calculated using data from the 2021-22 school year. 
+5. Implementation Barriers and Supports
+Our analysis of teacher survey data identified three primary categories of barriers that 
+teachers faced when implementing CS after CS4All PL: structural, normative, and individual 
+capacity barriers. Structural barriers are systemic factors often beyond teachers' control, 
+such as insufficient instructional and preparation time, competing demands, and resource 
+limitations. Normative barriers relate to school culture and attitudes toward CS, including 
+perceptions of its importance and levels of administrative support. Capacity barriers involve 
+teachers' individual knowledge, skills, and confidence in delivering CS instruction. 
+In the following sections, we present findings on each barrier type, drawing on survey data 
+from implementing and non-implementing teachers. We explore how these barriers 
+manifested across various school contexts and discuss their implications. We then turn to 
+an examination of factors that supported successful CS implementation. 
+Structural Barriers to Implementation 
+Findings from our teacher surveys revealed several interconnected structural barriers to CS 
+implementation (see Table 8 on the next page). Both teachers who implemented CS and 
+those who did not identified challenges primarily revolving around time constraints and 
+competing priorities. This included: 1) insufficient instructional time, 2) pressure to adhere to 
+the pacing guide schedule, and 3) inadequate preparation time. To a lesser extent, 
+teachers also cited a lack of materials as an obstacle. Notably, non-implementing teachers 
+perceived structural challenges as more significant barriers compared to their counterparts 
+who did implement CS instruction. This suggests that overcoming these obstacles may be a 
+crucial factor in determining whether teachers successfully implement CS into their 
+classrooms. 
+
+17 
+When asked to elaborate about these barriers, many teachers (especially at the elementary 
+level) pointed to the need to cover other content, such as the mathematics curriculum or 
+new science standards, or the need to prepare for standardized tests, as illustrated by the 
+quotes below. 
+“The biggest challenge is finding time to teach CS amongst the requirements to 
+teach other subjects and prepare for state testing.” - Elementary Teacher (2023) 
+“This school has just become a Title One school, which means there are lots of 
+activities which are included along with academics so I feel like there is not enough 
+time.”  - Elementary Teacher (2023) 
+“The focus is on literacy and math leaving little to no time for CS. The schedule 
+given allows tech teachers time but not a classroom teacher. The amount of 
+assessment required leaves little time for CS.”  - Elementary Teacher (2023) 
+“Lack of time to incorporate CS into the curriculum is a HUGE challenge.” - 
+Elementary Teacher (2022)  
+“The biggest challenge is time to implement and remain consistent with lessons.” - 
+Elementary Teacher (2023) 
+“My science curriculum changed to meet NGSS [Next Generation Science 
+Standards] standards, and the curriculum is too large to complete in a single school 
+year. There is no time for CS…” - Middle School Teacher (2022) 
+“Generally speaking, our school focuses on the most urgent graduation needs first 
+(credits and Regents) before being concerned with CS coursework and AP courses. 
+Many of our students struggle to meet those initial requirements, and our school 
+prioritizes those over CS. Because we don't have CS classes, we also don't have 
+qualified CS teachers beyond the current two.” - High School Teacher (2023) 
+Table 8: Structural Challenges by Implementation Status 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+Implementers (N=667) 
+Non-Implementers (N=153) 
+Lack of instructional time to implement. 
+44.5 
+57.4 
+Keeping up with the pacing guide schedule. 
+40.9 
+60.0 
+Lack of preparation time. 
+37.6 
+38.9 
+Lack of curricular materials. 
+20.6 
+28.5 
+Source: 2022 and 2023 CS4All Teacher Survey. 
+
+Further exploration of school-level barriers revealed significant structural and organizational 
+challenges, particularly for non-implementing teachers (see Table 9 below). Two key factors 
+emerged as primary obstacles: 
+1. Scheduling conflicts: Two thirds of non-implementing teachers (66%) reported
+that they couldn't implement CS because the class was not scheduled.
+2. Changes in teaching assignments: Nearly as many (65% of non-implementing
+teachers) cited shifts in their teaching responsibilities as a barrier.
+As one high school teacher in 2022 noted, “The school could not fit it into the schedule, 
+even though CS is supposedly a focus area in NYCDOE...” About one third of non- 
+implementing teachers indicated staffing shortages were a barrier, and in 2022, disruptions 
+due to the COVID-19 pandemic were identified as a substantial obstacle to implementation. 
+While less prevalent, technology-related barriers also played a role. Some non- 
+implementing teachers reported a lack of working devices for students, though to a much 
+smaller extent than the scheduling and assignment issues. These findings highlight the 
+complex interplay of factors that can impede CS implementation, even when teachers are 
+prepared and willing to teach the subject. 
+18 
+Table 9: Structural Challenges Faced by Non-Implementing Teachers 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+CS classes were not scheduled. 
+65.6 
+Teaching assignment changed. 
+65.3 
+Disruptions due to the COVID-19 
+pandemic.* 
+58.5 
+School has a staffing shortage.** 
+31.3 
+Not enough working devices for my 
+students.**  
+22.9 
+Source: 2022 and 2023 CS4All Teacher Survey.  
+Note: * indicates item was only asked on 2022 survey; ** indicates the item was only asked on the 2023 survey. 
+Not surprisingly, implementing teachers were less likely to report challenges that limited 
+their school’s ability to offer CS, although some of them highlighted issues that echoed 
+things we heard from non-implementing teachers. When asked about barriers, 
+implementing teachers most frequently reported that students lacked time in their schedules 
+to take CS, followed by a need to prepare students for high-stakes tests (potentially at the 
+expense of CS instruction), and a shortage of qualified CS teachers. These findings, 
+detailed in Table 10 on the next page, highlight systemic challenges that persist even when 
+teachers are actively implementing CS instruction—suggesting that successful CS 
+implementation requires addressing both individual teacher preparedness and broader 
+institutional factors. 
+
+19 
+Table 10: Structural Challenges Faced by Implementing Teachers 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+Lack of time in student schedules. 
+40.0 
+Need to prepare students for high-stakes 
+tests.  
+38.2 
+Lack of qualified CS teachers. 
+32.5 
+Competing priorities. 
+28.7 
+Lack of internet access. 
+8.9 
+Source: 2022 and 2023 CS4All Teacher Survey. 
+Normative Barriers to Implementation 
+In addition to structural challenges, teachers also reported facing normative barriers to CS 
+implementation, albeit to a lesser degree (see Table 11 below). These barriers, reflecting 
+the perceived value and support for CS within schools, were more pronounced among non- 
+implementing teachers. Specifically, over one third of implementing teachers and fully half 
+of non-implementers were hampered by a lack of priority for CS instruction, and a 
+substantial portion reported lack of administrative support as a challenge to a moderate or 
+large extent (20% of implementers and 37% of non-implementers). Interestingly, lack of 
+student enrollment or interest in CS was not a substantial barrier for most, reported by only 
+12 percent of implementing teachers and 11 percent of non-implementing teachers. These 
+findings suggest that while school-wide priorities and support play a crucial role in CS 
+implementation, student enthusiasm for CS is generally not a major obstacle. The 
+disparities between implementing and non-implementing teachers highlights how school 
+practices and administrative backing can significantly influence CS implementation efforts. 
+Table 11: Normative Challenges by Implementation Status 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+Implementers (N=667) 
+Non-Implementers (N=153) 
+Lack of priority for CS instruction (e.g., 
+class gets bumped for school events, etc.)* 
+36.6 
+50.0 
+Lack of administrative support. 
+20.1 
+37.4 
+Lack of student enrollment/interest.** 
+12.3 
+11.4  
+Source: 2022 and 2023 CS4All Teacher Survey.  
+Notes: * indicates the question was only asked in 2023. ** indicates only implementers answered this question in 2022. 
+Teacher Capacity Barriers to Implementation 
+Teachers reported fewer individual capacity-related barriers compared to structural or 
+normative challenges. However, there were some notable differences between 
+implementing and non-implementing teachers (see Table 12 on the next page.) Among 
+implementing teachers, the most significant capacity-related barrier was a lack of expertise 
+
+20 
+in coding using a programming language, with 26 percent reporting this as a moderate to 
+large challenge. This was followed by a lack of expertise in computer science education 
+pedagogy (22%) and computer science content (21%). Non-implementing teachers, 
+however, reported higher levels of capacity-related barriers across all categories. The most 
+prominent challenge for this group was a lack of expertise in computer science education 
+pedagogy, with 42 percent citing this as a moderate to large barrier. This was closely 
+followed by a lack of expertise in coding and computer science content (36% each). These 
+findings suggest that while individual capacity-related barriers are not the most prevalent 
+challenges overall, they play a more substantial role for teachers who have not yet 
+implemented CS in their classrooms.  
+Table 12: Individual Capacity-Related Barriers by Implementation Status 
+Barrier 
+% Reporting Barriers to a Moderate or Large Extent 
+Implementers (N=667) 
+Non-implementers (N=153) 
+Lack of expertise in computer 
+science content. 
+21.2 
+36.0 
+Lack of expertise in coding using a 
+programming language. 
+26.2 
+36.3 
+Lack of expertise in computer 
+science education pedagogy and 
+instructional strategies. 
+22.0 
+42.1 
+Source: 2022 and 2023 CS4All Teacher Survey. 
+It may be that some teachers require additional learning opportunities in order to feel 
+confident in their ability to implement CS. When asked in an open-ended question about the 
+support they would need, one teacher told us:  
+"I think more PD…—I really think that that's just the key. The teachers, for this year, 
+they were able just to get their feet wet, and they have the passion, and they want to 
+do it… I also think that the PD [has] to be tailored to their needs, it can't be general. 
+– Elementary teacher (2022)
+Some elementary level teachers also highlighted a need for more capacity in terms of 
+integrating CS into their instruction: 
+“[I need more] help with implementing lessons and strategies into our DOE core 
+curriculum”  - Elementary teacher (2022) 
+This last comment highlights a common theme in our data regarding how challenging some 
+teachers found it to integrate CS into other subjects.  
+
+21 
+Differences in Barriers by School Characteristics 
+Barriers to implementing CS seemed to be particularly significant for teachers in higher- 
+need schools. Specifically, we found that teachers in schools with higher Economic Need 
+Index scores—a measure of poverty—consistently reported higher levels of agreement with 
+statements about challenges to implementation, compared to those in schools with lower 
+ENI scores. As shown in Table 13, among non-implementing teachers, those in higher 
+economic need schools were almost three times as likely to report that their CS classes 
+were not scheduled (73% versus 23%), and more than twice as likely to say they lacked 
+administrative support (40% vs. 15%). A much larger proportion of non-implementing 
+teachers in high-need schools also reported that their teaching assignment changed (70% 
+vs 39%). While the sample size of non-implementing teachers in low economic need 
+schools is small (n=16), which calls for cautious interpretation, the results nonetheless 
+suggest a potentially notable trend. 
+Table 13: Challenges Reported by Non-Implementing Teachers, by School ENI 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+Low ENI (N=16) 
+High ENI (N=117) 
+CS classes were not scheduled. 
+23.1 
+72.9 
+Teaching assignment changed. 
+38.5 
+69.5 
+Lack of administrative support. 
+15.4 
+40.4 
+Source: 2022 and 2023 CS4All Teacher Survey. 
+Note: A school is categorized as “High ENI” if it has an ENI of greater than 0.6 (out of 1.0 total), indicating 60% or more of its 
+students are in poverty. NYCPS considers schools with an index of .6 or higher to be high-poverty schools.   
+Even among implementing teachers, there was a pattern of those in high-need schools 
+reporting challenges to a greater extent than those in low-need schools. Among the largest 
+differences were the percentage challenged by the need to prepare students for high- 
+stakes tests and the lack of qualified CS teachers (see Table 14). 
+Table 14: Challenges Reported by Implementing Teachers, by School ENI 
+Challenge 
+% Reporting Challenge to a Moderate or Large Extent 
+Low ENI (N=112) 
+High ENI (N=497) 
+Lack of time in student schedules. 
+34.9 
+40.7 
+Need to prepare students for high -
+stakes tests.  
+28.6 
+40.4 
+Lack of qualified CS teachers. 
+24.8 
+34.2 
+Competing priorities. 
+25.3 
+30.6 
+Lack of administrative support. 
+14.2 
+21.3 
+Lack of student enrollment/interest. 
+8.6 
+12.9 
+Lack of internet access. 
+7.5 
+9.7 
+Source: 2022 and 2023 CS4All Teacher Survey. 
+
+Supports for CS Implementation 
+22 
+While our analyses have highlighted various barriers to CS implementation, it is equally 
+important to understand the factors that have facilitated successful implementation. Our 
+research identified a variety of key supports that were more prevalent among teachers who 
+successfully implemented CS in their classrooms. These supports fall into three main 
+categories: professional community, leadership capacity, and school culture.  
+•
+More professional community: As shown in Table 15, implementers were
+somewhat more likely to be in schools with other teachers who participated in
+CS4All PL, and therefore had a larger professional community with whom they
+could share lessons, curriculum, and materials. It makes sense that having a
+professional community of CS educators, within the same building, could provide
+valuable support for CS implementation.
+•
+Greater leadership capacity: Implementers were more likely to have teacher
+leaders or school leaders who participated in CS4All leadership PL, which focuses
+on developing a schoolwide vision for CS and an implementation plan that can
+address many of the barriers teachers face. Lack of engagement from leadership,
+especially in schools that do not have a strong professional community of CS
+teachers, makes it more difficult to build schoolwide buy-in for CS education, as
+noted by one teacher on our survey:
+“[Our] administration takes no interest in computer science. It is not a core subject 
+so students do not take it seriously either. All of these challenges make it that much 
+more difficult to teach CS.” – Middle school teacher (2022)  
+•
+Stronger CS culture: A strong school culture for CS was also associated with
+implementation. For example, implementers were much more likely to agree that
+increasing CS participation is a priority for their school (45% vs 16%) and that
+teachers and counselors think it is important to offer CS (45% vs. 26%). At the same
+time, as noted earlier, they were less likely to agree that implementation was
+stymied by lack of administrator support (20% vs. 37%) or a lack of priority for the
+school (37% vs. 50%), compared with non-implementers (see Table 11 above).
+Table 15: School-Level CS Capacity by Implementation Category 
+Implemented All 
+Years 
+Implemented Some 
+Years 
+Did Not 
+Implement 
+% Had More than One 
+Trained Teacher 
+87.8 
+87.3 
+83.3 
+% Had a Teacher Leader 
+45.1 
+41.5 
+23.9 
+% Had an Admin Attend PL 
+68.1 
+66.5 
+55.1 
+Source: Research Alliance calculations on data provided by NYCPS. 
+Note: Implementation status is calculated using data as of the 2022-23 school year, while school-level PL participation 
+variables are calculated using data up to the 2022-23 school year. 
+
+23 
+6. Discussion and Recommendations
+Findings from our surveys, participation and implementation data across multiple years of 
+the initiative point to several promising strategies for engaging and supporting teachers as 
+CS educators and building sustainable CS programs. As discussed in more depth below, 
+these include:  
+•
+Providing support for school leaders to plan for effective and equitable CS
+instruction.
+•
+Addressing structural barriers to implementation.
+•
+Supporting ongoing teacher professional learning and community building.
+•
+Embedding culturally responsive-sustaining education (CR-SE) practices in CS.
+•
+Building longer-term teacher capacity and sustainability.
+Providing Support for School Leaders to Plan for Effective and Equitable CS 
+Instruction 
+Our findings show that administrator support is critical for CS implementation and teacher 
+retention. These leaders play a key role in planning for CS implementation, championing a 
+vision for CS, building a strong CS culture in the school, and prioritizing instructional and 
+planning time for CS teachers. Having a CS teacher leader is also associated with stronger 
+implementation of CS within a school. Increased buy-in and support from school leaders 
+can facilitate the programming of CS courses, ensuring there is adequate time for teacher 
+planning and instruction and sufficient resources for CS implementation. Additionally, 
+support from school leaders can help teachers navigate competing priorities, and they can 
+cultivate student interest in CS. School leaders are instrumental in creating a vision for CS 
+within their school, communicating what CS is and why it is important, and making it clear 
+why CS is an instructional priority. Furthermore, school leaders are essential in fostering an 
+inclusive CS environment by inviting students to learn more about CS, making them feel 
+welcome in CS activities, and ensuring CS opportunities are available to all students.   
+Recommendations 
+Over the last several years, CS4All has developed and offered PL and provided support for 
+school leaders. This PL includes guidance on developing school CS implementation plans, 
+reviews of school-level student participation data to help leaders assess their school’s 
+progress and areas for growth, and the provision of resources for building CS culture and 
+capacity (e.g., resources for planning a CS Education Week event and grade-level CS 
+planning tools). Our findings suggest that increasing CS implementation may hinge on 
+these strategies. In addition to the school leader PL, our findings suggest the district should 
+continue to cultivate teacher leadership in CS through PL offerings and opportunities, and 
+by supporting cross-school and cross-district sharing of effective practices. 
+Finally, to be successful, CS4All will need to engage leaders at the highest district levels, 
+including superintendents and executive superintendents. This will help them better 
+understand the importance and benefits of CS education and enable them to effectively 
+communicate this priority to school leaders. It will also help ensure sufficient resources for 
+implementation and capacity building.  
+
+24 
+Addressing Structural Barriers to Implementation 
+Structural barriers at the school and district level pose significant challenges to CS 
+implementation and teacher retention. Surveyed teachers consistently reported issues such 
+as lack of dedicated instructional time for CS, competing priorities in the curriculum, 
+changes in teaching assignments, CS courses not being scheduled, and CS instruction not 
+being seen as a priority. These challenges were particularly acute in schools serving 
+students with higher economic needs, exacerbating equity gaps in CS education. 
+As noted above, school administrators play a critical role in establishing structures and 
+priorities to support CS implementation. However, many leaders may lack the knowledge 
+and resources needed to effectively plan for and sustain CS programs. Staffing shortages, 
+changes in teaching assignments, and turnover also emerged as key structural challenges, 
+with many schools struggling to fill CS teacher positions and retain qualified teachers from 
+year to year. This instability makes it difficult to build and maintain robust CS programs. 
+Recommendations 
+Addressing structural barriers requires a multi-faceted, systemic approach that involves 
+policy and programmatic changes at both the district and school levels. CS4All should work 
+with district and school leaders to develop and advocate for policies and practices that 
+prioritize equitable CS education, including: 
+•
+Developing district-level CS teacher pipelines and incentives to attract and retain
+qualified CS teachers, especially in high-need schools; and
+•
+Creating district-wide networks and professional learning communities for CS
+teachers and administrators to collaborate, share resources, and problem-solve
+around common challenges.
+At the school level, CS4All should continue to provide tailored support and guidance to help 
+leaders develop and implement comprehensive CS education plans. This could include: 
+•
+Working with school teams to conduct needs assessments and develop multi-year
+implementation plans that address structural barriers;
+•
+Continuing to provide PL and coaching for school leaders on effective CS program
+design, scheduling, budgeting, and staffing, including guidance and support for
+developing master schedules that provide sufficient time for CS instruction;
+•
+Facilitating school-to-school partnerships and mentoring to share best practices and
+solutions for common implementation challenges; and
+•
+Working with schools to develop and make use of tools that help integrate CS
+education goals and strategies into larger school improvement plans.
+Supporting Teacher Learning and Community Building 
+Many CS teachers are the only ones in their school building, and many are also new to their 
+roles as CS teachers. This situation makes it even more critical that they have access to 
+high-quality PL experiences, curriculum resources, and opportunities to connect with other 
+CS teachers–allowing them to receive coaching or mentoring, and to share resources and 
+best practices. While implementing teachers reported lack of expertise in CS content and 
+instructional practices as less significant barriers, non-implementing teachers were much 
+
+25 
+more likely to cite these as a challenge. This disparity suggests that targeted support for 
+building CS pedagogical knowledge and skills could be particularly beneficial for teachers 
+who have not yet implemented CS. Additionally, many teachers' responses to open-ended 
+questions about the support they needed indicate that both implementing and non- 
+implementing teachers would benefit from more and continued learning opportunities to 
+deepen their CS content knowledge and instructional practices. 
+Recommendations 
+Our findings point to the importance of ongoing PL opportunities for teachers to deepen 
+their knowledge of CS content and pedagogy, and to increase their comfort and facility with 
+CS instruction. CS4All will need to continue to recruit additional teachers to implement CS 
+instruction in response to teacher attrition and retention challenges. The district should 
+establish and support teacher communities of practice, common planning time, and 
+coaching/mentoring to facilitate ongoing learning and sharing of effective pedagogical 
+strategies. Consider evaluating which aspects of teacher support can effectively be 
+delivered through virtual or asynchronous methods as a cost-efficient way to reach more 
+teachers, while maintaining in-person support where it adds the most value.  
+“We are often denied the opportunity to attend CS-specific PD, which is a significant 
+loss because where else can we get support from people in the same field as us? 
+Finally, when I am observed, the admins do not always understand what is going on, 
+which hampers both my evaluation's salience and the degree to which my reviewers 
+can provide me with direction and support to improve my teaching.”- High School 
+Teacher (2023) 
+“[I need] continued professional learning opportunities. It would probably be helpful 
+to have a CS4All lead teach a CS lesson or two to our students (live) so we can learn 
+best practices and execution styles. This would be helpful for me because I am new 
+to teaching computer science. I would also say we need more resources for our 
+beginner MLLs [multilingual learners].” - Middle School CS Lead teacher (2021) 
+Embedding Culturally Responsive-Sustaining Education Practices in CS 
+CR-SE is a critical component of building teacher capacity to provide equitable and 
+engaging CS instruction. Our research suggests that PL focused on CR-SE practices led to 
+increased implementation of these approaches in CS classrooms and greater teacher 
+confidence in delivering culturally relevant instruction. Teachers reported that integrating 
+CR-SE improved relationships with students, increased student interest and engagement, 
+and helped students see the relevance of CS to their lives and identities. 
+Recommendations 
+To build a sustainable CS teacher workforce capable of delivering equitable, rigorous, and 
+engaging instruction for all students, CR-SE must be prioritized as a core component of 
+teacher capacity-building efforts. CS4All should continue to emphasize and expand its CR- 
+SE focused offerings, integrating these practices into all aspects of the initiative's supports 
+for teachers. This approach ensures that CR-SE principles are not merely an add-on, but a 
+fundamental aspect of CS instruction, enhancing teachers' ability to create inclusive, 
+engaging, and culturally relevant learning environments. This could include:  
+
+•
+Developing tools to help teachers assess and strengthen CR-SE in their CS
+instruction;
+•
+Providing coaching and peer feedback to support teachers in implementing CR-SE
+practices;
+•
+Showcasing examples of teachers successfully applying CR-SE in CS and
+facilitating the sharing of best practices;
+•
+Partnering with schools to build CR-SE considerations into CS curriculum planning
+and implementation; and
+•
+Advocating for CR-SE focused teacher preparation to build these competencies in
+the pre-service pipeline.
+In addition, more research should be conducted to explore exactly how and in what ways 
+CR-SE PL changes teacher practices and results in improved outcomes for students. 
+Building Longer-Term Teacher Capacity and Sustainability 
+As CS education continues to expand in NYC schools, the CS4All initiative will need to 
+develop additional strategies to build long-term teacher capacity and sustainability. While 
+the initiative has made significant strides in providing professional learning opportunities 
+and support for current teachers, there are several key areas where further action is 
+needed to ensure a robust and qualified CS teacher workforce in the years to come. 
+One critical issue is the need to align CS4All's teacher preparation and support efforts with 
+evolving state teacher licensure and certification requirements. In the longer term, schools 
+and districts will need to plan for new state teacher licensure and certification requirements 
+that go beyond the minimal in-service PL experiences, especially for CS courses to be 
+eligible for credit. While there are efforts underway to develop new certification programs 
+and pathways, there will need to be incentives and supports for teachers to participate in 
+these programs, planning for preservice teachers who are entering the workforce to teach 
+CS, and intentional efforts to support and retain these teachers, particularly when staffing 
+shortages in CS are likely to persist. 
+Another policy that may affect teacher capacity and retention is the emergence of new state 
+requirements across the country focused on making CS a core subject or a requirement for 
+high school graduation (code.org, 2023, Zarch et al., 2024). Although there is not a high 
+school CS requirement in NY state currently, eight states do have a CS graduation 
+requirement in place, and other states are considering adding one (code.org, 2023). While 
+these requirements would certainly give students access to CS opportunities, they will also 
+create a greater demand for qualified CS teachers. 
+“Please make computer science education a high school credit requirement for 
+graduation. All students should be required to take elective course(s) in computer 
+science in elementary school, middle school, and high school.” - Middle School CS 
+Lead Teacher (2021) 
+Teacher retention and capacity building remain critical components of expanding access 
+and increasing student participation in meaningful and engaging CS opportunities.  
+26 
+
+Recommendations 
+27 
+As New York State moves toward full implementation of the NY State Computer Science 
+and Digital Fluency Standards, along with teacher certification requirements for teaching 
+rigorous CS courses, additional teacher certification programs and pathways are becoming 
+available to CS teachers. CS4All should work closely with district partners and teacher 
+preparation programs to ensure that both pre-service and in-service teachers have access 
+to the training and coursework needed to meet these new requirements. This may involve: 
+•
+Collaborating with the state and local colleges to develop or expand CS teacher
+preparation programs that align with state certification requirements and the needs
+of NYC schools.
+•
+Providing incentives and support for current CS teachers to pursue additional
+coursework and certifications, such as scholarships, tuition reimbursement, or
+release time for professional learning and certification programs.
+•
+Offering targeted PL for teachers who need to build specific CS content knowledge
+or pedagogical skills to meet certification requirements; consider where virtual and
+asynchronous PL and supports can support capacity building as a cost-effective
+alternative to in person offerings.
+•
+Assessing the current and projected CS teacher workforce needs in NYC schools,
+and developing targeted strategies to recruit, prepare, and retain qualified CS
+teachers in high-need areas.
+•
+Partnering with district and school leaders to develop long-term staffing plans that
+prioritize CS education and allocate resources for CS teacher positions.
+In addition to these external factors, CS4All should continue to focus on providing the 
+support and resources that teachers need to effectively implement CS instruction in their 
+classrooms. This includes: 
+•
+Offering ongoing, differentiated professional learning opportunities that are
+responsive to teachers' evolving needs and interests, such as advanced coursework
+and new CS topics (e.g., artificial intelligence and quantum computing), peer
+coaching, and specialized training in specific CS topics, tools, and pedagogies.
+•
+Developing and curating high-quality curriculum materials and instructional
+resources that are aligned with state standards and can be adapted to meet the
+needs of different school contexts and student populations.
+•
+Providing tools and guidance to help teachers assess student learning in CS and
+use data to inform instruction and program improvement.
+•
+Facilitating teacher-led professional learning communities and networks that allow
+CS teachers to share knowledge, collaborate on curriculum adaptation and
+implementation, and problem-solve around common challenges.
+The CS4All initiative has made significant strides in providing professional learning 
+opportunities and support to build teacher capacity, yet challenges persist in addressing 
+barriers and ensuring equitable implementation of CS across all schools. This report 
+underscores the critical importance of teacher retention and capacity building as part of 
+efforts to expand access and increase student participation in meaningful and engaging CS 
+opportunities. 
+
+The findings presented highlight promising strategies to address the challenges we’ve 
+documented, including: providing ongoing support to school leaders; addressing structural 
+barriers to implementation; fostering teacher learning and community building; and 
+developing culturally responsive practices in CS instruction. By focusing on these key 
+areas, CS4All can continue to advance toward its goal of providing high-quality, equitable 
+computer science education to all students in New York City's public schools, thereby 
+preparing them for success in an increasingly digital world. 
+28 
+
+29 
+Endnotes 
+1  
+New York State created a computer science teaching certification in 2018. 
+https://www.nysut.org/resources/all-listing/research/fact-sheets/fact-sheet-certification-in-computer-science 
+2  
+For more information on topics covered in different EECS levels, see the CS4All Equity Report 2023: 
+https://drive.google.com/file/d/1UTJaJrezT1tgmNJcagxib6Wjnqbv6zKW/view 
+3  
+Source: https://www.chalkbeat.org/newyork/2023/9/6/23862194/nyc-teacher-workforce-shortages/ 
+4  
+For a discussion of STARS data reliability (including under- and over-reporting), see page 20 of the 
+ 
+Research Alliance’s Computer Science in New York City report. https://steinhardt.nyu.edu/
+research-alliance/research/publications/computer-science-new-york-city  
+5  
+See Fancsali, C. (2022). CS4All: Examining Equity in Computer Science Access and Participation in NYC 
+ 
+Schools. Research Alliance for New York City Schools. https://steinhardt.nyu.edu/research-
+alliance/research/cs4all-examining-equity 
+6 
+A school’s Economic Need Index (ENI) estimates the likelihood that its students are in poverty. It is 
+calculated using the average of its students' Economic Need Values, which are based on factors such as 
+the student's HRA-eligibility, housing status, and the income of families in the student's census tract as 
+estimated by the American Community Survey 5-Year Estimate. 
+References 
+Code.org (2023). https://advocacy.code.org/2023_state_of_cs.pdf 
+Computer Science Teachers Association (2013). Bugs in the System: Computer Science Teacher Certification 
+in the US. Computer Science Teachers Association. 
+Potvin, P., & Hasni, A. (2014). Analysis of the Decline in Interest Towards School Science and Technology from 
+Grades 5 through 11. Journal of Science Education and Technology, 23(6), 784- 802. 
+Mark, J., Fancsali, C., Lee, J., Li, X., Jain, R., & Crawford, C. (2023). “Getting My Feet Wet and Starting Small”: 
+Building Capacity for Culturally Responsive CS. 2023 Research on Equity and Sustained Participation in 
+Engineering, Computing, and Technology (RESPECT), Atlanta, GA.  
+Shein, E. (2019). The CS Teacher Shortage. Communications of the ACM, 62, 17–18. DOI: 
+https://doi.org/10.1145/3355375 
+Zarch, R., Boisvert,D., Bhatnagar, S., and Goldwasser, T. (2024).  Computer Science as a Graduation 
+Requirement: A Landscape Analysis Report. Sage Fox Consulting. https://fdee7a0c-1b88-4969-8d2f- 
+27a9759d393e.usrfiles.com/ugd/fdee7a_9ba8a25f51cf463c927f672a46c5ebac. 
+
+This page has been intentionally left blank. 
+
+The Research Alliance conducts 
+rigorous studies on topics that matter to 
+the City’s public schools. We strive to 
+advance equity and excellence in 
+education by providing nonpartisan 
+evidence about policies and practices 
+that promote students’ development and 
+academic success. 
+© 2025 Research Alliance for New York City Schools. All rights reserved. You may make copies of and distribute this 
+work for non-commercial educational and scholarly purposes. For any other uses, including the making of derivative 
+works, permission must be obtained from the Research Alliance for New York City Schools, unless fair use 
+exceptions to copyright law apply. 
+627 Broadway, 7th Floor 
+New York, NY, 10012 
+(212) 992-7697
+research.alliance@nyu.edu 
+www.rancys.org 

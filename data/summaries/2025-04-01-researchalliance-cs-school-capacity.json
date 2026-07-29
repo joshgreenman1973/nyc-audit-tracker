@@ -1,0 +1,80 @@
+{
+  "id": "2025-04-01-researchalliance-cs-school-capacity",
+  "source": "outside",
+  "auditor": "Research Alliance for New York City Schools",
+  "title": "Building School Capacity to Scale Up Computer Science Participation: Insights from NYC’s CS4All Initiative",
+  "plain_title": "Why some schools got computer science to every student",
+  "agency": "New York City Public Schools",
+  "issued": "2025-04-01",
+  "url": "https://steinhardt.nyu.edu/research-alliance/research/building-school-capacity-scale-computer-science-participation",
+  "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-05/CS%20School%20Capacity%20Report%20April%202025%20Final_0.pdf",
+  "what_they_audited": "A research report from the Research Alliance for New York City Schools, a research center at New York University that studies the city's public schools, on how well individual schools were able to expand computer science under the city's Computer Science for All initiative. It draws on interviews, a school survey and administrative data.",
+  "background": "Computer Science for All, known as CS4All, launched in 2015 with the goal of giving every student a meaningful computer science experience at least once in each grade band: kindergarten through second grade, third through fifth, sixth through eighth and ninth through twelfth. As the initiative matured it also began helping schools build a broader culture around computer science.",
+  "findings": [
+    {
+      "plain": "Elementary schools were far more likely than middle or high schools to reach the goal of every student taking computer science, and high schools were the least likely to sustain high participation.",
+      "quote": "elementary schools had sustained high participation rates, only about 24 percent of middle"
+    },
+    {
+      "plain": "Most high schools introduced computer science but did not substantially widen student access over time.",
+      "quote": "Second, we found that a much larger share of high schools (60%) had stalled participation"
+    },
+    {
+      "plain": "Schools that lagged furthest behind served larger shares of students in poverty and had lower math and English proficiency, and competing instructional priorities such as remediation took precedence.",
+      "quote": "students living in poverty and smaller proportions of students who were proficient in"
+    },
+    {
+      "plain": "Schools that sustained high participation had built a shared understanding of what computer science is and a plan for expanding it, often with teacher leaders driving buy-in.",
+      "quote": "Building a strong school-wide culture around CS equity is foundational for"
+    },
+    {
+      "plain": "Lack of time to teach computer science and to adapt lessons was a major barrier, and the schools that succeeded set aside common planning time for that work.",
+      "quote": "Common planning time is crucial to support successful integration of CS into"
+    },
+    {
+      "plain": "Schools that made computer science required for all students were able to keep participation high, though in middle and high schools that meant trade-offs about which electives to drop.",
+      "quote": "Schools that required all students to take CS were able to sustain high rates"
+    },
+    {
+      "plain": "Schools lagging in participation were much less likely to have taken part in the initiative's professional learning for school leaders and teacher leaders.",
+      "quote": "schools lagging in participation took part in school leader PL (only 11%) and teacher leader"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "34 percent",
+      "label": "Elementary schools with sustained high participation"
+    },
+    {
+      "value": "7 percent",
+      "label": "High schools with sustained high participation"
+    },
+    {
+      "value": "60%",
+      "label": "High schools whose computer science participation stalled"
+    },
+    {
+      "value": "11%",
+      "label": "Lagging schools that took part in school leader training"
+    },
+    {
+      "value": "54 percent",
+      "label": "Response rate for the school survey"
+    }
+  ],
+  "recommendations": [
+    "Continue emphasizing culture building around computer science in school communities, raising awareness of what it is and how it supports student engagement and learning.",
+    "Help schools work through scheduling and staffing obstacles and align computer science with their other instructional priorities, including by fostering communities of practice where school leaders share approaches.",
+    "Build connections between computer science instruction and state standards, providing training to map existing curricula onto core content standards or supplying materials already aligned to them.",
+    "Target professional learning at the schools furthest behind on participation, including support for building partnerships with outside groups that can supply funding, curricular materials and technology."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "technology",
+    "children and youth"
+  ],
+  "is_followup": false
+}

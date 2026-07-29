@@ -1,0 +1,75 @@
+{
+  "id": "2025-06-26-buildingcongress-ibx-housing",
+  "source": "outside",
+  "auditor": "New York Building Congress",
+  "title": "Housing and the Interborough Express: Tackling New York City's Housing Crisis One Stop at a Time",
+  "plain_title": "Rezoning ideas for housing along the Interborough Express",
+  "agency": "New York City Department of City Planning",
+  "issued": "2025-06-26",
+  "url": "https://buildingcongress.com/report/2025-ibx-report/",
+  "pdf": "https://buildingcongress.com/wp-content/uploads/2025/06/2025-IBX-Report.pdf",
+  "what_they_audited": "A research and advocacy report from the New York Building Congress scoring the land around each proposed Interborough Express station for its readiness to take new housing, testing several rezoning scenarios and proposing a zoning strategy for the corridor.",
+  "background": "The Interborough Express is a planned 14-mile transit line that would reuse an existing rail right-of-way to link parts of Brooklyn and Queens without routing riders through Manhattan, with 19 stations between the Brooklyn Army Terminal and Jackson Heights.",
+  "findings": [
+    {
+      "plain": "The line would connect a large share of the transit network across two boroughs and carry substantial daily ridership under initial estimates.",
+      "quote": "The proposed IBX introduces 19 new stations between Brooklyn Army Terminal and Jackson Heights, connecting 17 subway lines, LIRR stops, and dozens of bus stations across Brooklyn and Queens."
+    },
+    {
+      "plain": "The report sets a corridor density target and calculates how many homes it would take to reach it.",
+      "quote": "At 50 dwelling units per acre across the IBX route, we get a target number of 70,925 new homes needed across the entire IBX route."
+    },
+    {
+      "plain": "Existing zoning already allows a large theoretical build-out along the route.",
+      "quote": "Under current zoning laws, we estimate that the theoretical maximum build-out within the IBX route, to be around 479,000 units."
+    },
+    {
+      "plain": "Of the scenarios tested, a mixed approach combining modest residential upzoning with conversion of manufacturing and commercial land scored best.",
+      "quote": "We recommend a mixed approach: both low- and high-density residential areas paired with more aggressive rezoning of manufacturing and commercial districts."
+    },
+    {
+      "plain": "Station areas differ widely in how ready they are for new housing.",
+      "quote": "Our analysis makes it clear that the areas surrounding IBX stations vary dramatically in their readiness to accommodate new homes."
+    },
+    {
+      "plain": "A Long Island City case study is used to show the gap between zoned capacity and what actually gets built.",
+      "quote": "LIC saw 53.6% of its zoned capacity realized over a ten-year horizon, illustrating the difference between theoretical and actual development outcomes."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "19 new stations",
+      "label": "Stations proposed along the Interborough Express"
+    },
+    {
+      "value": "70,925",
+      "label": "New homes needed to hit the corridor density target"
+    },
+    {
+      "value": "479,000 units",
+      "label": "Theoretical maximum build-out under current zoning"
+    },
+    {
+      "value": "83,059",
+      "label": "Units the recommended rezoning scenario would add"
+    },
+    {
+      "value": "50 dwelling units per acre",
+      "label": "Density target set for the corridor"
+    }
+  ],
+  "recommendations": [
+    "Create an Interborough Express transit-oriented development special district along the whole route, enacting a broad rezoning in the manner of City of Yes, with a clear standardized floor area bonus for affordable housing throughout the district.",
+    "Rezone that special district using the report's Scenario 5 as the model: modest upzoning in both low- and high-density residential districts, more aggressive conversion of underbuilt manufacturing and commercial zones and a first focus on the quick win areas that would deliver the largest short-term gains.",
+    "Expand mixed-use zoning along the route to protect jobs while increasing housing density.",
+    "Create a rail-to-roof air rights marketplace letting sites next to or above the right-of-way sell unused floor area to designated receiving sites within the district, modeled on East Midtown zoning, with a share of each transfer fee going to a corridor capital fund for station accessibility and streetscape decking."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "transportation"
+  ],
+  "is_followup": false
+}

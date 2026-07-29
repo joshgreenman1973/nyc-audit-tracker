@@ -1,0 +1,1345 @@
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 0 
+New York City  
+Last-Mile Facility 
+Special Permit Study  
+May 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 1 
+Table of Contents 
+I. 
+Context | 2 
+a. Special Permit Overview | 2 
+b. Study Purpose | 2 
+ 
+II. 
+Last-Mile Development Trends |3 
+a. E-Commerce Trends | 3 
+b. Defining Last-Mile Facilities | 5 
+c. Real Estate Trends | 6 
+ 
+III. 
+Economic Benefits of Last Mile Facilities | 8 
+a. Prior Uses of Last Mile Sites | 8 
+b. Property Tax Impacts | 9 
+c. Employment Impacts | 12 
+ 
+IV. 
+Transportation and Environment | 13 
+a. Traffic and Emissions | 14 
+b. Sustainability Upgrades | 16 
+ 
+V. 
+Policy Concerns and Implications | 18 
+a. Lack of Impact on Existing Facilities | 18 
+b. Unintended Consequences | 18 
+c. Inflexibility of Land Use Policy | 19 
+d. Policy Alternatives | 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 2 
+Context 
+Special Permit Overview 
+The New York City Department of City Planning (DCP) is studying the creation of a special permit for last-
+mile distribution facilities pursuant to commitments made by the Adams Administration to the City 
+Council. DCP released a Draft Scope of Work for Environmental Review (DSOW)1 in March 2025, which 
+describes an official use definition of a “parcel delivery facility” and provisions for the special permit.  
+PROPOSED “PARCEL DELIVERY FACILITY” DEFINITION 
+• 
+Primarily used for unloading and sorting pre-packed goods and reloading those goods onto 
+vehicles certified as Federal Highway Administration (FHWA) Vehicle Weight Classes 1-5 for final 
+delivery 
+• 
+Has little to no activity related to extended storage, picking and packing, wholesale distribution, 
+or retail 
+SPECIAL PERMIT PROVISIONS 
+• 
+Applies to new parcel delivery facilities located in M, MX, and C8 districts 
+• 
+Applies to new development, change of use, and conversion projects 
+• 
+Exemptions are applied to:  
+o 
+Facilities with less than 50,000 SF of floor area 
+o 
+Water-dependent facilities, or warehouses that ship or receive materials or products by 
+water 
+o 
+Facilities located more than 500 feet from zoning districts that permit residential use (R, 
+C1-C6, and MX) and meet certain electric vehicle (EV) charging infrastructure standards 
+specified by DCP 
+o 
+Facilities located on airport land or property owned/leased by the United States Postal 
+Service (USPS) 
+Study Purpose 
+The special permit is likely to serve as a deterrent to future development of last-mile facilities and 
+conversion of existing warehouses to last-mile use. Pursuing a special permit requires undergoing an 
+extensive public review process without a guaranteed outcome; the timeline and entitlement risk would 
+make the special permit very unattractive for developers and property owners, as indicated by 
+stakeholder interviews conducted for this study. 
+The special permit for hotels in M1 (light manufacturing) districts created in 2018 demonstrates the 
+likelihood of this impact. Since the implementation of that regulation, no M1 hotel special permits have 
+been approved. In other words, the special permit has served to eliminate all new hotel development in 
+M1 districts to date.2 
+ 
+1 Last-Mile Facility Text Amendment 2025Y0279_Draft Scope Of Work_1, NYC Department of City Planning, March 2025. 
+2 Last-Mile Facility Text Amendment 2025Y0279_Draft Scope Of Work_1, NYC Department of City Planning, March 2025. 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 3 
+HR&A Advisors (HR&A) conducted this study on behalf of the Real Estate Board of New York (REBNY) to 
+understand the potential impacts of the last-mile facility special permit on New York City. This study seeks 
+to answer the following questions: 
+1. What are recent market trends in the development of last-mile facilities in New York City? 
+2. What has been the impact of the growth of the last-mile sector in New York City? 
+3. What would be the impacts of a special permit for last-mile facilities be on New York City, in terms 
+of economic activity, tax revenues, the environment, and transportation? 
+4. Are there alternative policy approaches that would more effectively advance New York City’s 
+sustainability goals? 
+The study concludes that a special permit will not effectively advance New York City’s sustainability goals 
+and that alternative policies can better address these concerns. 
+ 
+Last-Mile Development Trends 
+E-Commerce Trends 
+Last-mile facilities have grown in New York City in response to the increasing popularity of online 
+shopping and the need for proximity to customers to meet expectations for rapid delivery of goods. 
+ 
+Since 2000, households’ and businesses’ desire to shop online has grown rapidly. COVID-19 accelerated 
+this trend, and online shopping has continued to steadily increase since the pandemic. In 2024, 16.2% of 
+all retail spending occurred online, totaling $1.2 trillion in annual spending. Should current growth 
+trends continue, in five years, approximately 23% of all retail spending will occur online, totaling $2.1 
+trillion in annual spending.  
+ 
+Figure 1: Historic and Projected National E-Commerce Growth, Share of Retail Sales, 2000-2029 
+ 
+ 
+Source: Federal Reserve Economic Data (2000 - 2024). Note that data for 2025-2029 is projected based on an annual increase 
+of 7.2%, the average year-over-year growth over the past 10 years excluding the pandemic year of 2020.  
+1% 1% 2% 2% 2% 3% 3% 4% 4% 4% 5% 5% 6% 6% 7% 7% 8%
+9% 10%
+11%
+15% 15% 14%
+15% 16%
+17%
+19%
+20%
+21%
+23%
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+E-Commerce as Share of Retail Spending
+Projected, E-Commerce as Share of Retail Spending
+COVID-19 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 4 
+ 
+Figure 2: Historic and Projected National E-Commerce Sales, Billions of Dollars, 2000-2029 
+ 
+ 
+Sources: Federal Reserve Economic Data (2000 - 2024). Note that data for 2025-2029 is projected based on an annual increase 
+of 7.2%, the average year-over-year growth over the past 10 years excluding the pandemic year of 2020. 
+ 
+E-commerce in New York City has followed national trends as city residents have embraced online 
+shopping and as the city’s population has grown. The city saw a considerable increase in the number of 
+packages delivered during and immediately after the COVID-19 pandemic. Deliveries spiked in 2022 with 
+an estimated 3.6 million packages delivered daily. By 2024, the average daily packages delivered in the 
+city was around 2.5 million packages, demonstrating 127% growth since 2017.3 By comparison, in 2024, 
+New York City contained 3.3 million households – though some packages were likely delivered to 
+businesses. If current trends in online shopping and population growth continue, package deliveries in 
+the city will continue to grow in future years.  
+Figure 3: Average Daily Packages Delivered in New York City, 2017-2024 
+ 
+Sources: Data is sourced from multiple datasets. 2019 and 2022 figures are both sourced from the Rensselaer Polytechnic 
+Institute Center of Excellence for Sustainable Urban Freight Systems, while other years come from the NYTimes and NYC DOT. 
+ 
+3 New York City Department of Transportation, 2024.  
+$27
+$34
+$44
+$57
+$72
+$91 $113 $136 $142 $145 $169 $199 $231 $261 $297 $337 $383 $442 $507 $569
+$807
+$951$1,012
+$1,102$1,190
+$1,339
+$1,505
+$1,693
+$1,904
+$2,142
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+E-Commerce Retail Sales
+Projected, E-Commerce Retail Sales
+1.1 M
+1.8 M
+2.3 M
+3.6 M
+2.5 M
+2017
+2019
+2021
+2022
+2024
++127% GROWTH 
+Average daily packages delivered, 2017-2024 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 5 
+Defining Last-Mile Facilities 
+Given the substantial rise in e-commerce, last-mile facilities have grown in and around New York City in 
+order to meet delivery demand. Much of the growth has been driven by industry standards for two-day, 
+next-day, or even same-day delivery.4 However, despite growth in the sector, there is no agreement on a 
+definition of “last-mile facilities,” even among the seven developers and operators HR&A spoke to.  
+For this analysis, HR&A defined last-mile facilities based on building size and current or anticipated 
+tenant. We included both new construction and renovations of existing buildings with the intent to lease 
+to a last-mile tenant. This definition was based on DCP’s DSOW, interviews with developers and operators, 
+and observations from site tours.5,6  
+ 
+Table 1: Last-Mile Facilities Definition 
+Category 
+Characteristic  
+Rationale 
+Building Size 
+ 
+Minimum 50,000 SF  
+DCP’s proposal applies to facilities larger 
+than 50,000 SF.  
+ 
+Proposed New York City and State 
+legislation – Introduction 1130-2024 and 
+Senate Bill S2127A respectively – propose to 
+establish “indirect source” rules for certain 
+last-mile facilities larger than 50,000 SF.  
+Tenant 
+ 
+A business-to-consumer (B2C) 
+business that specializes in 
+delivering pre-packaged goods to 
+the final consumer 
+DCP’s proposal defines “Parcel Delivery 
+Facility” as a type of distribution warehouse 
+used primarily for unloading and sorting 
+pre-packaged goods and reloading them to 
+vans/trucks for final delivery. It does not 
+include facilities used for extended storage, 
+picking and packing, wholesale distribution, 
+or retail.  
+Delivery Year 
+ 
+Built or renovated since 2014 
+Based on developer interviews, most last-
+mile facilities were constructed in the last 
+decade. 
+ 
+ 
+ 
+ 
+ 
+4 Sourced from interviews with Prologis.  
+5 Last-Mile Facility Text Amendment 2025Y0279_Draft Scope Of Work_1, NYC Department of City Planning, March 2025. 
+6 New York State Senate Bill S2127A, Clean Deliveries Act, 2023-2024 Legislative Session.  
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 6 
+Real Estate Trends 
+Using the definition above, HR&A identified a total of 26 last-mile facilities in New York City today (Table 
+2). The real estate trends analysis in this report focuses on these 26 properties.  
+ 
+Table 2: Identified Last-Mile Properties in NYC, January 2025 
+Property Address 
+Borough 
+RBA 
+Current Tenant 
+Prior Use7 
+1301-1319 Ryawa Ave 
+BX 
+120,760  Amazon 
+Parking 
+2 Saint Anns Ave 
+BX 
+566,233  FreshDirect 
+Underutilized 
+2505 Bruckner Blvd 
+BX 
+691,127  Amazon 
+Cinema/Strip Mall 
+307 Bruckner Blvd 
+BX 
+100,000  To be tenanted 
+Auto Repair Retail 
+920-980 E 149th St 
+BX 
+1,315,880  To be tenanted 
+Underutilized 
+12555 Flatlands Ave 
+BK 
+96,900  Amazon 
+Distribution/Warehouse 
+12595 Flatlands Ave 
+BK 
+96,900  Amazon 
+Distribution/Warehouse 
+2300 Linden Blvd 
+BK 
+90,000  Amazon 
+Parking 
+280 Richards St 
+BK 
+311,796  Amazon 
+Underutilized 
+50 20th St 
+BK 
+1,800,000  FedEx 
+Underutilized 
+55 Bay St 
+BK 
+83,000  Amazon 
+Underutilized 
+595-659 Smith St 
+BK 
+337,050  To be tenanted 
+Distribution/Warehouse 
+640 Columbia St 
+BK 
+397,020  Amazon 
+Concrete 
+68 Ferris St 
+BK 
+1,200,000  UPS 
+Underutilized 
+683 Court St 
+BK 
+385,510  To be tenanted 
+Underutilized 
+830 Fountain Ave 
+BK 
+278,721  FedEx 
+Underutilized 
+28-10 Whitestone Expy 
+QN 
+245,337  To be tenanted 
+Distribution/Warehouse 
+2890 Review Ave 
+QN 
+736,400  To be tenanted 
+Parking 
+46-06 57th Ave 
+QN 
+362,474  FedEx 
+Underutilized 
+55-15 Grand Ave 
+QN 
+770,000  Amazon 
+Parking 
+1 Nassau Pl 
+SI 
+331,700  To be tenanted 
+Parking 
+2807 Arthur Kill Rd 
+SI 
+136,346  To be tenanted 
+Parking 
+526 Gulf Ave 
+SI 
+975,000  Amazon 
+Underutilized 
+546 Gulf Ave 
+SI 
+855,000  Amazon 
+Underutilized 
+566 Gulf Ave 
+SI 
+450,000  Amazon 
+Underutilized 
+586 Gulf Ave 
+SI 
+975,000  IKEA 
+Underutilized 
+ 
+Over the past decade, nearly 10M SF of last-mile properties, including some speculative development, 
+were delivered and 6M SF absorbed, as shown in Figure 4. While significant new square footage has been 
+built or renovated, only a few last-mile facilities are delivered every year. Most developments are large 
+buildings over 250,000 square feet. While new last-mile properties were quickly absorbed between 2017 
+and 2021, occupancy rates started to decline in 2022, indicating a cooling of the last-mile market. 
+ 
+7 “Underutilized” includes vacant, abandoned, and/or dilapidated sites. “Parking” includes surface parking and/or 3PL sites, 
+which are primarily used to park fleet vehicles. “Distribution/Warehouse” includes business-to-business and/or wholesale 
+distribution sites. 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 7 
+Developers state there is a limited number of remaining viable sites that are large enough and close 
+enough to truck routes and population density.8  
+Figure 4: Last-Mile Facility Occupancy, Delivery & Net Absorption in New York City, 2017 – 2024 and 
+Pipeline 
+ 
+Source: CoStar. Last-mile properties in New York City were identified based on the following criteria: minimum RBA of 50K SF, 
+currently occupied by a B2C/last-mile distribution tenant (e.g., Amazon, UPS), and newly built or renovated since 2014. HR&A 
+also counted all non-absorbed spaces that were built with the intention of being used for last-mile distribution, determined 
+through desktop research and/or developer interviews.    
+ 
+Figure 5: Last-Mile Facility Deliveries in New York City by Building Count, 2014 – 2024 and Pipeline 
+ 
+Source: CoStar. Last-mile properties in New York City were identified based on the following criteria: minimum RBA of 50K SF, 
+currently occupied by a B2C/last-mile distribution tenant (e.g., Amazon, UPS), and newly built or renovated since 2014. 
+ 
+The slowing down of absorption is likely a result of two market phenomena: 1) the rise of speculative, 
+large, multi-story developments and 2) a slowdown in leasing activity following the height of COVID-19.  
+ 
+ 
+8 HR&A interviews with logistics operators, November 2024 – January 2025. 
+100%
+96%
+100%
+76%
+100%
+88%
+90%
+73%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+ -
+ 500,000
+ 1,000,000
+ 1,500,000
+ 2,000,000
+ 2,500,000
+ 3,000,000
+ 3,500,000
+ 4,000,000
+ 4,500,000
+ 5,000,000
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Pipeline
+Share of Occupied SF
+Total SF
+Deliveries (SF)
+Net Absorption (SF)
+3
+2
+1
+2 
+1
+1
+1
+3
+2
+4
+2
+5 
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Pipeline
+50K - 150K
+150K - 250K
+250K+
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 8 
+According to interviews with last-mile developers active in New York City, developers began to pursue 
+multi-story distribution projects (e.g., Bronx Logistics Center and Red Hook Distribution Center) during the 
+COVID-19 pandemic in response to rapidly increasing demand for distribution centers. Development of 
+multi-story buildings was used as a strategy to maximize use of limited large industrial sites in New York 
+City. However, the success of multi-story distribution centers in New York City – a largely untested 
+product with fewer than a dozen built examples across the country9 – has been mixed. Interviews suggest 
+that tenants may be reluctant to lease upper floors of buildings because they are not accustomed to 
+operating multi-story distribution centers, domestic truck drivers are unfamiliar with such facilities, and 
+truck circulation can be more complex in this type of project. Those challenges, combined with the 
+significant square footage of these projects – ranging from 350,000-1,300,000 SF – have contributed to the 
+relatively slow absorption of these buildings. 
+ 
+Moreover, leasing activity declined during this time. Research has determined that Amazon is likely the 
+largest user of last-mile facilities in New York City today. As the predominant user of last-mile space, 
+Amazon’s real estate decisions have had notable impacts on the market, which largely comprises 
+speculative developments responding to trends in market demand. Amazon made significant investments 
+in its last-mile delivery network in New York City during the early COVID-19 years to meet exponentially 
+growing demand for same-day delivery services. This resulted in Amazon leasing a significant share of 
+last-mile properties across New York City over the last decade; Amazon had zero distribution hubs in New 
+York City 10 years ago. Now that Amazon has an established distribution network, its absorption of new 
+last-mile space has slowed. While Amazon’s future plans are not known, we conclude that past last-mile 
+development trends in New York City were largely driven by Amazon’s unprecedented leasing activity and 
+are not necessarily indicators of the size of the future development pipeline.  
+ 
+Economic Benefits of Last-Mile Facilities 
+The growth in last-mile facilities throughout the city has resulted in considerable economic benefits, 
+including building investment, property tax generation, and job creation.  
+Prior Uses of Last-Mile Sites  
+New York City’s industrial landscape includes a wide range of warehousing, manufacturing, and 
+distribution uses, as well as less-active uses such as parking and storage. While businesses in these 
+sectors are operating in a variety of facilities, a large share conduct business in older masonry structures 
+that have not received investment in decades. This lack of investment is in part due to the thin margins of 
+many industrial businesses.10  
+ 
+In New York City’s industrial areas, the 26 last-mile facilities identified by HR&A have comprised the 
+majority of all new construction and significant renovations activity in recent years. Many of these 
+investments occurred on sites generating few jobs or property taxes: nearly 70% of recently built or 
+renovated last-mile facilities were vacant or used for parking. The top three prior uses of sites were: 
+ 
+• 
+Underutilized (includes vacant, abandoned, and/or dilapidated sites) 
+• 
+Parking (includes surface parking and/or 3PL sites, which are primarily used to park fleet vehicles) 
+• 
+Distribution/warehousing (includes B2B and/or wholesale distribution sites) 
+ 
+ 
+9 “Multi-Story Facility Growth Continues”, CBRE, 2024. 
+10 Costar data.  
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 9 
+None of the 26 sites showed a clear history of being used for industrial outdoor storage prior to last-mile 
+development, with the exception of vehicle storage, which is categorized under “Parking.” 
+Figure 6: Prior Uses of Last-Mile Facility Sites Delivered Since 2014 in New York City, Share of Total 
+Property Count 
+  
+Total of 26 Last-Mile Properties in New York City 
+Sources: HR&A Research, CoStar.  
+Note that Auto Repair, Cinema/Strip Mall, and US Concrete each represent one individual property. Last-mile properties in 
+New York City were identified based on the following criteria: minimum RBA of 50K SF, currently occupied by a B2C/last-mile 
+distribution tenant (e.g., Amazon, UPS), and newly built or renovated since 2014.  
+Property Tax Impacts 
+Last-mile facility developers typically make significant capital improvements to industrial sites in order to 
+create state-of-the art facilities with efficient loading and circulation. HR&A compared the property tax 
+revenue generated by last-mile properties developed or renovated in the past 10 years (“redevelopment 
+scenario”) to the estimated property tax revenue that these sites would generate today had no last-mile 
+investments been made (“base case”).  
+ 
+The “base case” estimated property tax for FY 2023-2024 is based on the site’s historic property tax (taxes 
+collected in the year prior to redevelopment) escalated by the annual increase in assessed value of Class 
+4 industrial properties citywide (Factories, Warehouses, and Condo Warehouse/Industrial) through 2024. 
+ 
+One example of the incremental value generated by conversion of industrial sites to last-mile facilities is 
+46-06 57th Avenue in Maspeth, Queens. The previously vacant site along Newton Creek was acquired by 
+FedEx and converted to a last-mile distribution facility in 2017. Absent redevelopment, we estimate the 
+site would have generated $869,000 in estimated property tax in FY 2023-2024. However, following 
+FedEx’s renovation, the property generated over $1.1 million in actual property tax in FY 2023-2024.  
+Similar analysis of sites in the Bronx and Staten Island are also included below. 
+ 
+ 
+ 
+Underutilized, 46%
+Parking, 23%
+Distribution/Warehouse, 19%
+Auto Repair Retail*, 4%
+Concrete , 4%
+Cinema/Strip Mall, 4%
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 10 
+Table 3: Examples of the Property Tax Impact of Last-Mile Investments, FY 2023-2024 
+ 
+REDEVELOPMENT SCENARIO: 
+LAST-MILE FACILITY DEVELOPED 
+BASE CASE: 
+NO INVESTMENTS MADE 
+Example 1: 586 Gulf Avenue, Staten Island, NY 
+ 
+ 
+ 
+ 
+ 
+ 
+$1.8M 
+Actual Property Tax Collected 
+FY 2023-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+$446K 
+Estimated Property Tax Absent Redevelopment 
+FY 2023-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+Example 2: 46-06 57th Avenue, Queens, NY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$1.1M 
+Actual Property Tax Collected 
+FY 2023-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$869K 
+Estimated Property Tax Absent Redevelopment 
+FY 2023-2024 
+ 
+ 
+RBA: 975,000 SF 
+RBA: 362,474 SF 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 11 
+Example 3: 1301-1319 Ryawa Avenue, Bronx, NY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$815K 
+Actual Property Tax Collected  
+FY 2023-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+$107K 
+Estimated Property Tax Absent Redevelopment  
+FY 2023-2024 
+ 
+We estimate that, in aggregate, the properties developed as last-mile facilities over the past 
+decade generate $8.4 million more in annual property tax revenue for the City than they would if 
+they had not been redeveloped, roughly tripling their tax contributions.  
+ 
+Note: these findings are based on the “Actual Property Taxes Paid” in FY 2023-2024, which accounts for 
+the tax abatements provided through the Industrial Commercial Abatement Program (ICAP) to some 
+properties. Through ICAP, eligible industrial and commercial properties that are newly built, modernized, 
+expanded, or otherwise improved receive property tax abatements for up to 25 years (except for in 
+certain areas of Manhattan). As shown in the “Actual ICAP Abatement” column in Table 4, last-mile 
+properties today are receiving ICAP abatements as large as $4,200,000 per fiscal year. Therefore, some of 
+these last-mile properties could generate significantly more tax revenue for the City in the future after tax 
+abatements expire.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RBA: 120,760 SF 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 12 
+Table 4: Property Taxes for Last-Mile Properties: Actuals vs. Estimated Absent Redevelopment, FY 2023-
+2024 
+Property 
+Address 
+Borough 
+RBA 
+Current 
+Tenant 
+Prior Use 
+Actual 
+Property 
+Tax Pre-
+ICAP  
+(FY 2023-24)  
+Actual ICAP 
+Abatement 
+(FY 2023-24) 
+Actual 
+Property 
+Taxes Paid  
+(FY 2023-24)  
+Est. Property 
+Tax Absent 
+Redev.  
+(FY 2023-24)* 
+Increased 
+Property 
+Taxes Due to 
+Last-Mile Dev. 
+Percent 
+Change 
+1301-1319 
+Ryawa Ave 
+BX 
+120,760 
+Amazon 
+Parking 
+ $815,290  
+ N/A  
+ $815,290  
+ $107,453  
+ $707,837  
+659% 
+2505 
+Bruckner 
+Blvd 
+BX 
+691,127 
+Amazon 
+Cinema/ 
+Strip Mall 
+ $4,904,940  
+($4,185,075) 
+ $719,865  
+ $369,170  
+ $350,695  
+95% 
+12555 
+Flatlands 
+Ave 
+BK 
+96,900 
+Amazon 
+Distribution/ 
+Warehouse 
+ $372,862  
+N/A 
+ $372,862  
+ $237,785  
+ $135,077  
+57% 
+12595 
+Flatlands 
+Ave 
+BK 
+96,900 
+Amazon 
+Distribution/ 
+Warehouse 
+ $932,128  
+ ($437,741) 
+ $494,386  
+ $118,178  
+ $376,208  
+318% 
+280 
+Richards St 
+BK 
+311,796 
+Amazon 
+Underutilized 
+ $1,271,390  
+N/A 
+ $1,271,390  
+ $662,445  
+ $608,944  
+92% 
+55 Bay St 
+BK 
+83,000 
+Amazon 
+Underutilized 
+ $770,193  
+ ($642,683) 
+ $127,510  
+ $75,432  
+ $52,078  
+69% 
+640 
+Columbia St 
+BK 
+397,020 
+Amazon 
+Concrete 
+ $1,497,536  
+N/A 
+ $1,497,536  
+ $316,103  
+ $1,181,433  
+374% 
+830 
+Fountain 
+Ave 
+BK 
+278,721 
+FedEx 
+Underutilized 
+ $1,995,444  
+($1,384,509) 
+ $610,934  
+ $414,816  
+ $196,118  
+47% 
+46-06 57th 
+Ave 
+QN 
+362,474 
+FedEx 
+Underutilized 
+ $2,741,833  
+($1,593,779) 
+ $1,148,054  
+ $868,673  
+ $279,381  
+32% 
+55-15 Grand 
+Ave 
+QN 
+770,000 
+Amazon 
+Parking 
+ $704,287  
+N/A 
+ $704,287**  
+ $569,191  
+ $135,096  
+24% 
+526 Gulf Ave 
+SI 
+975,000 
+Amazon  
+Underutilized 
+ $2,920,192  
+($2,694,673) 
+ $225,519  
+ $101,877  
+ $123,642  
+121% 
+546 Gulf Ave 
+SI 
+855,000 
+Amazon 
+Underutilized 
+ $4,730,909  
+($2,990,458) 
+ $1,740,451  
+ $37,314  
+ $1,703,137  
+4564% 
+566 Gulf Ave 
+SI 
+450,000 
+Amazon 
+Underutilized 
+ $2,456,498  
+($1,248,025) 
+ $1,208,473  
+ $60,731  
+ $1,147,742  
+1890% 
+586 Gulf Ave 
+SI 
+975,000 
+IKEA 
+Underutilized 
+ $4,478,624  
+($2,643,179) 
+ $1,835,445  
+ $445,691  
+ $1,389,755  
+312% 
+ 
+ 
+ 
+ 
+ 
+$30,592,127  
+($17,820,123) 
+$12,772,003  
+ $4,384,860  
+ $8,387,144  
+191% 
+Sources: NYC Department of Finance; CoStar.  
+Note: HR&A’s analysis evaluates property tax data for 14 out of 26 last-mile facility sites identified in New York City. 2 Saint 
+Anns Ave (FreshDirect) was excluded as its property taxes are fully waived through abatements. 2300 Linden Blvd (Amazon) 
+was excluded due to lack of historic property tax information. The remaining ten sites were excluded as they were not yet 
+tenanted or still under construction/proposed.  
+* The “base case” estimated property tax for FY 2023-2024 is based on the site’s historic property tax (taxes collected in the 
+year prior to redevelopment) escalated by the annual increase in assessed value of Class 4 industrial properties citywide 
+(Factories, Warehouses, and Condo Warehouse/Industrial) through 2024.  
+** For this property, HR&A used FY 2024-2025 property tax values to reflect ICAP tax benefits. The FY 2023-2024 tax bill does 
+not reflect ICAP, creating a significant tax outlier of $5M for that year, which would significantly skew overall results.  
+Employment Impacts 
+Last-mile facilities support local jobs, often for individuals without college degrees, and provide a large 
+range of employment opportunities for New York City residents at all education levels. If future last-mile 
+facilities are developed in Northern New Jersey instead of New York City, the city will lose out on those job 
+opportunities. 
+ 
+As an example, UPS employees are union members who will earn an average of $170,000 in combined 
+annual pay and benefits by 2028.11 Additionally, last-mile facilities are often more job-dense than prior 
+uses on the industrial sites they replaced. HR&A heard from Amazon, UPS, and logistics operators that 
+ 
+11 From UPS, per the labor agreement ratified in 2023 between UPS and the International Brotherhood of Teamsters.  
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 13 
+the last-mile industry has a wide range of occupations available, ranging from full-time employment with 
+full benefits to flexible roles in the city’s gig economy. Prologis also shared that last-mile facilities may 
+contain office components to handle logistics, which provide additional employment onsite.  
+ 
+Each group stated that there is a job for every New Yorker in their facilities and pathways for upwards 
+mobility. For instance, to meet growing demand for skilled warehouse and logistics workers, Prologis built 
+the Community Workforce Initiative (CWI), a training program that establishes long-term career pathways 
+and creates economic opportunity for communities in which they operate. As of 2023, CWI has trained 
+31,000 candidates through both local and online training platforms.  
+ 
+Transportation and Environment 
+Our research determined that past last-mile development trends in New York City cannot necessarily be 
+relied on to project future demand for additional last-mile space. However, to the extent that there is 
+demand for additional space, we assume that the creation of a special permit for last-mile facilities will 
+intensify development activity in areas surrounding New York City – particularly Northern New Jersey. 
+Unfortunately, an increase in last-mile facilities in New Jersey serving New York City could have significant 
+pollution and traffic costs for residents and roadways across the region. Compared to a last-mile facility in 
+New York City, a last-mile facility in New Jersey generates a much greater volume of traffic to reach 
+consumers. 
+Figure 7: Distribution Networks for Northern New Jersey- and New York City-based last-mile facilities  
+ 
+Source: HR&A interviews with logistics operators.  
+ 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 14 
+Traffic and Emissions 
+Based on outreach, our analysis of potential traffic and emissions impacts assumes that some facilities 
+that would otherwise have been developed in New York City would, with the creation of the special 
+permit, instead be built in Northern New Jersey. This is because a large majority (76% of square footage) 
+of warehouse/distribution development in the region has occurred in six counties in northern New Jersey 
+over the past 10 years.  
+Figure 8: Total SF of Warehouse, Distribution, or Trucking Properties Built or Renovated, 2014-2024* 
+ 
+Source: CoStar. * Includes all development of property used for warehouse, distribution, or trucking terminal activities, built 
+or renovated since 2014, of all sizes, including facilities smaller than 50,000 SF. Not all are occupied by B2C businesses.  Data 
+is sourced from CoStar, and Northern New Jersey refers to Bergen, Essex, Hudson, Middlesex, Passaic, and Union Counties.  
+Per AKRF’s analysis, a 100,000 SF northern New Jersey-based facility would produce significantly more 
+annual truck and car traffic, and associated emissions, than a facility of the same size in Maspeth, 
+Queens.  
+In comparison to a Maspeth-based facility, one northern New Jersey-based facility would generate, on an 
+annual basis, 10.4 million additional vehicle miles traveled (VMT). This would result in an increase in 
+emissions by an additional 8,000 metric tons of carbon dioxide equivalent (CO2e), 151 pounds of 
+noxious particulate matter (PM2.5), and 5 tons of nitrogen oxides (NOx), a significant negative impact 
+on the environment and communities across New York City and the Tri-State region.  
+This analysis is based on the following: 
+• 
+Truck trips: An estimated 36,000 additional truck trips generating an additional 7.8M VMT 
+would deliver goods to New York City from a last-mile facility located in northern New Jersey 
+rather than Maspeth. The greater distance and complexity of routing prohibits the use of smaller 
+vans, EVs, cargo bikes, or pedestrian-propelled hand trucks for delivery from the New Jersey 
+facility.  
+• 
+Van trips: An estimated 72,000 van trips would be utilized to deliver goods in New York City 
+from a last-mile facility located in Maspeth, while we assume vans would not be used by the 
+northern New Jersey facility given the greater driving distance for deliveries. While the Maspeth 
+vans would travel approximately 1.8M VMT, their impact on regional traffic and emissions would 
+be significantly lower than trucks they would substitute for.  
+0.0 M
+10.0 M
+20.0 M
+30.0 M
+40.0 M
+50.0 M
+60.0 M
+70.0 M
+80.0 M
+90.0 M
+100.0 M
+Northern NJ
+New York City
+Rockland County
+Westchester
+County
+Nassau County
+New Build
+Renovated
+22M SF
+3M SF
+950K SF
+2M SF
+89M SF
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 15 
+• 
+Commuter trips: An estimated 33,000 additional commute car trips and 4.5M additional 
+VMT would be generated by workers in a northern New Jersey facility compared to one in in 
+Maspeth. At the Maspeth facility, a greater share of commuters would travel by transit, bike, or 
+walk. Worker commute trips to a facility in northern New Jersey would also be longer in terms of 
+mileage than a facility in Maspeth. Analysis assumes that each of these facilities would draw 
+upon a local workforce, with car trip generation and travel times based on local commuting 
+patterns.12 
+Figure 9: Total Vehicle Miles Traveled (VMT), Last-mile Facility based in Maspeth vs. Northern New Jersey 
+Sources: Institute of Transportation Engineering Trip Generation, 11th Edition, the US Census American Community Survey 
+and Census Transportation Planning Products (CTTP), AKRF Surveys and Research, and HR&A and AKRF Interviews with 
+Logistics Operators.  
+ 
+Table 5: Emissions Impacts, Maspeth vs. Northern New Jersey-Based Last-mile Facilities  
+ 
+ 
+Maspeth-Based 
+Last-mile Facility 
+Northern New Jersey-
+Based Last-mile Facility 
+Difference 
+Carbon Dioxide 
+Equivalent (CO2e) 
+Emitted 
+Metric Tons per Year 
+9,410 
+17,497 
++8,087 
+CO2e represents greenhouse gases that trap heat in the atmosphere, contributing to climate change and 
+extreme weather events 
+Noxious Particulate 
+Matter (PM2.5) Emitted 
+Pounds per Year 
+212.0 
+362.8 
++150.8 
+Fine particulate matter smaller than 2.5 micrometers can penetrate deep into the lungs and bloodstream, 
+causing respiratory and cardiovascular problems, and are linked to premature death. 
+ 
+12 American Community Survey 5-Year data; processed by the American Association of State and Highway Transportation 
+Officials as part of the US Census Transportation Planning Products.   
+4.1M VMT
+14.6M VMT
+Maspeth-based Last-mile Facility
+Northern New Jersey-based Last-mile Facility
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 16 
+Nitrogen Oxides (NOx) 
+Emitted 
+Tons per Year 
+6.54  
+11.36  
++4.82 
+NOx gases contribute to smog and acid rain, and they can irritate the lungs, reduce immunity to infections, 
+and worsen asthma and other respiratory conditions. 
+Sources: USEPA Motor Vehicle Emission Simulator (MOVES5) and county-level data obtained from NYSDEC. 
+Sustainability Upgrades 
+Last-mile operators and developers are becoming leaders in industrial building modernization and 
+sustainability. Development of last-mile facilities has resulted in brownfield cleanup, building 
+modernization and energy efficiency, green energy investments, improved truck queuing that is less 
+disruptive to surrounding neighborhoods, and stormwater management that would not otherwise occur. 
+Disincentivizing these investments would run counter to the environmental goals of the special permit. 13  
+ 
+Of the 26 last-mile properties HR&A analyzed, three were formerly brownfield sites and underwent 
+remediation. These sites include 68 Ferris Street in Brooklyn, 2980 Review Avenue in Queens, and 1 
+Nassau Place in Staten Island. The Brooklyn and Queens sites were remediated through the Brownfield 
+Cleanup Program, while the Staten Island site underwent the Voluntary Cleanup Program. These 
+investments remediate contamination that would otherwise remain, delivering lasting benefits to the 
+environment, local workers, pedestrians, and residents.  
+ 
+Table 6: Example building improvements completed at last-mile facilities 
+ 
+ 
+ 
+Bronx Logistics Center 
+2300 Linden Blvd Rehabilitation 
+• 
+First LEED Platinum distribution facility in 
+the East Coast 
+• 
+3.0-megawatt solar canopies 
+• 
+New sidewalks and re-paved 900-ft + of 
+street frontage 
+• 
+Institutional property management 
+(elevate street presence and cleanliness 
+standards) 
+• 
+Improved queuing for trucks through off-
+street facilities  
+• 
+Modernized existing building to meet 
+workplace renovations standards for the 
+21st century 
+• 
+Institutional property management 
+• 
+Asbestos is fully abated and removed to 
+today’s standards 
+• 
+Rooftop solar incorporated  
+Source: Turnbridge Equities 
+ 
+ 
+13 HR&A interviews with logistics operators, November 2024 – January 2025. 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 17 
+Many last-mile developments incorporate green energy solutions, and Prologis has committed to 
+reaching net zero emissions by 2040. Many last-mile sites include EV charging for electric truck fleets. This 
+is in line with New York City and New York State policy goals. Recognizing that trucks can contribute 
+significantly to greenhouse gases, both the City and State are investing in incentives for EV trucks and 
+micro-mobility solutions. The rise of EV investments demonstrates how these last-mile projects provide 
+important opportunities for the City to upgrade and expand its antiquated and limited industrial property 
+stock. Further, given longer drive distances and the limited travel capacity of EVs, operators state it will be 
+challenging to use these greener vehicles at last-mile sites outside of New York City. Constraining use of 
+EVs will run counter to the goals of the special permit’s stated considerations. 
+ 
+Table 7: Electric Freight Vehicle Initiatives, Public Sector 
+ 
+ 
+NYSERDA’s New York Truck Voucher Incentive 
+Program provides vouchers for the purchase or 
+lease of medium- and heavy-duty zero-emission 
+battery electric or hydrogen fuel cell EVs across 
+New York. 
+New York City DOT’s Clean Trucks Program 
+offers rebates to replace, retrofit, and scrap heavy 
+polluting diesel trucks. The program was piloted in 
+Hunts Point in 2010 and has since expanded to all 
+Industrial Business Zones (IBZs) citywide.   
+ 
+Sources: NYSERDA; NYC Clean Trucks Program 
+ 
+Prologis’ development strategy demonstrates additional environmental benefits that last-mile sites can 
+provide. The company has been making investments in the development of battery storage on industrial 
+properties in order to provide greater power capacity to users and the power grid. Further, it makes 
+strategic stormwater infrastructure investments—such as bioswales, permeable paving, and retention 
+systems—within new developments to manage runoff, reduce flood risks, and comply with local 
+environmental regulations. Again, in the absence of last-mile development, alternative industrial uses are 
+unlikely to include these types of investments. 
+ 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 18 
+Table 8: Electric Vehicle Charging Station Investments, Private Sector 
+ 
+ 
+ 
+AMAZON EMBRACES EV 
+UPS EMBRACES EV 
+PROLOGIS EMBRACES EV 
+Amazon is the largest US private 
+EV charging operator today and 
+they have introduced multiple 
+EV charging stations in last-mile 
+facilities in New York City. 
+Pictured: 55-15 Grand Ave - 
+Amazon 
+UPS is closely monitoring 
+opportunities nation-wide to 
+invest in modernizing facilities 
+and installing EV charging 
+stations, which would help them 
+remain competitive in the 
+market.  
+Prologis recently completed a 
+redevelopment of the Frito-Lay 
+distribution facility in Queens, 
+facilitating the electrification of fleet 
+vehicles and installing charging 
+stations.  
+Pictured: 1867 Flushing Ave – Frito-Lay  
+Sources: HR&A Research; Transport Topics; CoStar; Developer and Operator Interviews  
+Policy Concerns and Implications 
+A special permit is unlikely to effectively advance New York City’s sustainability goals and could have 
+unintended consequences.  Other policy approaches should be explored.  
+Lack of Impact on Existing Facilities 
+The operations of the 26 identified existing facilities that have been built as-of-right in New York 
+City over the past decade – the source of concerns that have led to the proposed special permit – 
+will not be impacted by the special permit at all. The proposal for the special permit was generated 
+because the existing facilities have caused concern among councilmembers and advocacy groups. 
+However, the special permit would likely only be required for new construction of last-mile facilities or a 
+change of use of an existing building to a last-mile facility, and will not have an impact on how existing 
+facilities operate. 
+ 
+Other policy approaches would much better satisfy the stated goals of the special permit, as described 
+below.  
+Unintended Consequences 
+A special permit could not only be ineffective at hindering negative impacts of existing last-mile 
+facilities but could also have unintended consequences. From an environmental perspective, if the 
+special permit results in the intensification of last-mile development in northern New Jersey, this would 
+result in an increase in delivery and commuting trips, VMTs, and emissions, with negative impact on both 
+New York City and the region. Environmentally beneficial investments in New York City industrial sites 
+associated with many last-mile facilities – such as brownfield cleanup, stormwater management, and EV 
+charging – would be foregone. From an economic perspective, the city would lose out on tax revenues 
+and employment if new facilities are located elsewhere. 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 19 
+Further, if triggered by significant renovations and/or change in occupancy, a special permit could 
+significantly disincentivize major upgrades to existing facilities that improve environmental or traffic 
+conditions. A special permit, lastly, could be difficult to enforce and constrain the ability of other goods-
+moving industrial businesses to invest in their facilities given the difficulty of defining last-mile. 
+Inflexibility of Land Use Policy 
+Land use policy changes much less quickly than business technology and can quickly become 
+outdated. 
+ 
+The logistics industry is changing rapidly. Logistics operators shared that they are prioritizing improving 
+efficiency, often through innovations in technology and operations.14 The last-mile sector has been 
+advancing innovative technology for the past decade, including drone delivery systems, AI-powered 
+technology to improve the efficiency of fulfillment centers, and electric delivery vehicles.15 These 
+technological improvements will likely change the demand for, scale, and impact of last-mile facilities in 
+ways we cannot predict today. A special permit for last-mile facilities may quickly become out of date as 
+delivery models evolve. 
+ 
+The below case study of restrictions on banks on the Upper West Side demonstrates how land use policy 
+often does not stay apace of business trends. 
+ 
+Case Study: New York City’s Zoning Limitations on Banks  
+ 
+ 
+ 
+ 
+14 HR&A Research; CoStar; Developer and Operator Interviews 
+15 HR&A Research; Amazon; New York Times  
+In 2012, City Council approved a zoning change aimed 
+at restricting the proliferation of “big box” banks 
+along commercial avenues on the Upper West Side. The 
+zoning change was motivated by rising concerns about 
+mom-and-pop shop closures on key commercial 
+corridors in the neighborhood. 
+However, the rise of online banking and bank mergers or 
+consolidations led to banks closing its branches across 
+the U.S. In 2020, New York City was reported to have the 
+highest rate of bank branch closings in the U.S. 
+This case study highlights how land use policy often fails 
+to keep pace with larger market shifts and can easily 
+become moot as a result.   
+Sources: NYC Department of City Planning; Bloomberg; Association 
+of Neighborhood and Housing Development 
+Figure 12: Business & Professional Services 
+Turnover by Tag, Q1 2020 – Q3 2024 
+ 
+ 
+
+HR&A Advisors, Inc.                                                                       Last-Mile Facility Special Use Permit Study | 20 
+Policy Alternatives 
+Ultimately, alternative transportation and enforcement policies can better target the concerns relating to 
+truck traffic and emissions.  
+• 
+New York City can continue its ongoing efforts to embrace creative approaches to moving freight, 
+including promotion of greener freight solutions, such as microhubs, e-cargo bikes, package 
+lockers, and Blue Highways – the latter currently promoting usage of the city’s waterways to move 
+freight to relieve congestion on city streets.16  
+• 
+The City and State are actively incentivizing EV truck fleets and can continue to do so, devoting 
+additional resources and funding to accelerate sustainability investments. NYSERDA’s Truck 
+Voucher Incentive program, funded at $2.3M in 2023, is an example of a state program that could 
+receive more support to successfully stimulate green investments. At the local level, New York 
+City’s Clean Trucks Program, which currently funds up to $215,000 per green truck replacement 
+for businesses located in industrial business zones (IBZs), could be expanded to be available to all 
+New York City businesses that operate truck fleets.17,18  
+• 
+Improving enforcement for quality of life violations could disincentivize last-mile operators from 
+disturbing their neighbors. Operators shared that traffic and parking tickets are currently 
+insufficient to deter disruptive behavior from last-mile operators. UPS noted that its drivers 
+receive more tickets in New York City than in the rest of the country combined, but this has not 
+resulted in business practice changes.19 Stimulating better compliance with existing laws and 
+policies could generate more of the change desired by opponents to last-mile facilities.  
+ 
+16 New York City EDC and DOT 
+17 NYSERDA; NYC Clean Trucks Program 
+18 Nikola New York Truck Voucher Incentive Program Quick Facts 
+19 HR&A interview with UPS.  

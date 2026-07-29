@@ -224,5 +224,551 @@
     "title": "Twice as Many Senior City Officials Indicted or Resigned Amid Ethical Scandal Under Mayor Adams as Under the Past Four Mayors Combined, Citizens Union Analysis Finds",
     "publisher": "citizensunion",
     "reason": "No recommendations: a comparative tally of senior officials indicted or resigned across five administrations, with a general call for ethics reform but no specific proposals."
+  },
+  {
+    "url": "https://marroninstitute.nyu.edu/papers/the-skyscraper-revolution-global-economic-development-and-land-savings",
+    "title": "The Skyscraper Revolution: Global Economic Development and Land Savings",
+    "publisher": "marron",
+    "issued": "2026-03-09",
+    "reason": "Not NYC government: a global academic working paper modeling building-height constraints across all world cities; New York City is not its subject."
+  },
+  {
+    "url": "https://www.rebny.com/reports/q4-2025-construction-pipeline-report/",
+    "title": "Q4 2025 Construction Pipeline Report",
+    "publisher": "rebny",
+    "issued": "2026-03-01",
+    "reason": "No recommendations: quarterly market statistics on new building filings and proposed square footage. Listing URL rebny.com/article/... 404s; real link is rebny.com/reports/... and the posted date is March 1, 2026."
+  },
+  {
+    "url": "https://buildingcongress.com/report/2026-building-congress-across-new-york-state/",
+    "title": "2026 Building Congress Across New York State",
+    "publisher": "buildingcongress",
+    "issued": "2026-02-25",
+    "reason": "No recommendations: a statewide showcase catalogue of member projects, with no proposals to any level of government."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/pace-case-processing",
+    "title": "Web Report: The Pace of Processing Justice",
+    "publisher": "islg",
+    "issued": "2026-02-04",
+    "reason": "Not NYC government and no recommendations: an analysis of court case processing times in 10 Safety and Justice Challenge jurisdictions nationwide."
+  },
+  {
+    "url": "https://www.rebny.com/reports/data-over-rhetoric-a-closer-look-at-housing-violations-evictions/",
+    "title": "Data Over Rhetoric: A Closer Look at Housing Violations, Evictions and Complaints",
+    "publisher": "rebny",
+    "issued": "2026-02-22",
+    "reason": "No explicit recommendations: a building-level empirical analysis of evictions, HPD violations and 311 complaints; its 'why it matters' section notes the data could inform enforcement targeting but proposes no specific actions. Listing URL rebny.com/article/... 404s; real link is rebny.com/reports/... and the posted date is February 22, 2026."
+  },
+  {
+    "url": "https://www.rebny.com/reports/manhattan-retail-report-second-half-2025/",
+    "title": "Manhattan Retail Report - Second Half 2025",
+    "publisher": "rebny",
+    "issued": "2026-02-03",
+    "reason": "No recommendations: biannual retail market statistics on asking rents and leasing across 16 Manhattan corridors. Listing URL rebny.com/article/... 404s; real link is rebny.com/reports/... and the posted date is February 3, 2026."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/bail-reform/bail-reform-at-five-years-pretrial-decision-making-in-new-york-state/",
+    "title": "Bail Reform at Five Years: Pretrial Decision-Making in New York State",
+    "publisher": "dcj",
+    "issued": "2026-02-01",
+    "reason": "No recommendations and statewide: an empirical study of arraignment decisions, bail affordability and racial disparities across all New York State regions; its conclusion chapter states findings only."
+  },
+  {
+    "url": "https://steinhardt.nyu.edu/research-alliance/research/expanding-landscape-career-connected-learning-new-york-city",
+    "title": "The Expanding Landscape of Career-Connected Learning in New York City",
+    "publisher": "researchalliance",
+    "issued": "2026-02-01",
+    "reason": "No recommendations: the first, descriptive report from an ongoing study of how career-connected learning programs spread across New York City public schools."
+  },
+  {
+    "url": "https://advocatesforchildren.org/policy-resource/120-organizations-call-on-the-nys-congressional-delegation-to-reject-proposed-funding-cuts/",
+    "title": "120+ Organizations Call on the NYS Congressional Delegation to Reject Proposed Funding Cuts",
+    "publisher": "afc",
+    "issued": "2026-01-14",
+    "reason": "Not a report: a sign-on letter, labeled as such by the publisher, addressed to the New York delegation in the U.S. House about federal education appropriations."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/2025-impact-review",
+    "title": "2025 Research, Policy, and Impact Review",
+    "publisher": "islg",
+    "issued": "2026-01-06",
+    "reason": "Not a report: an organizational year-in-review describing the institute's own 2025 projects and approach, with no proposals."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/sjc-research-policy-practice-hub",
+    "title": "Ten Years of Advancing Safety and Justice: A Research, Policy, and Practice Insight Hub",
+    "publisher": "islg",
+    "issued": "2025-12-22",
+    "reason": "Not NYC government: a national synthesis of a decade of Safety and Justice Challenge research across more than 50 cities and counties."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/sjc-research-year-in-review-2025",
+    "title": "Safety and Justice Challenge 2025 Research Year-in-Review",
+    "publisher": "islg",
+    "issued": "2025-12-22",
+    "reason": "Not NYC government and no recommendations: a roundup of national Safety and Justice Challenge research published in 2025 and of grants planned for 2026."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/fiscal-flow-nyc-albany",
+    "title": "The Fiscal Flow between New York City and Albany",
+    "publisher": "islg",
+    "issued": "2025-12-17",
+    "reason": "No recommendations: an empirical estimate of the revenues New York City sends to Albany and the state spending it receives. Same study already logged under its CNYCA release."
+  },
+  {
+    "url": "https://www.rebny.com/reports/new-housing-development-pipeline-report/",
+    "title": "New Housing Development Pipeline Report",
+    "publisher": "rebny",
+    "issued": "2025-12-22",
+    "reason": "No recommendations: a quarterly tracker of units in pre-development, under construction and completed against the 500,000-unit goal, plus incentive utilization counts. Listing URL rebny.com/article/... 404s; real link is rebny.com/reports/... and the posted date is December 22, 2025."
+  },
+  {
+    "title": "The Hidden Crisis of Women in Jails",
+    "url": "https://islg.cuny.edu/resources/hidden-crisis-women-jail",
+    "publisher": "islg",
+    "issued": "2026-07-16",
+    "reason": "not NYC government; national analysis of Bureau of Justice Statistics jail data and MacArthur Safety and Justice Challenge sites, and it makes no recommendations"
+  },
+  {
+    "title": "Educational Indicators for Students in the Foster System, 2024-25",
+    "url": "https://advocatesforchildren.org/policy-resource/foster-system-educational-indicators-2025/",
+    "publisher": "afc",
+    "issued": "2026-06-22",
+    "reason": "data indicator brief on attendance, transfers, test scores and graduation; the $3 million budget ask appears only in the accompanying coalition press release, not in the brief"
+  },
+  {
+    "title": "Manhattan Retail Report - First Half 2026",
+    "url": "https://www.rebny.com/reports/manhattan-retail-report-first-half-2026/",
+    "publisher": "rebny",
+    "issued": "2026-06-24",
+    "reason": "retail market statistics on asking rents, availability and leasing by corridor; makes no recommendations"
+  },
+  {
+    "title": "Second-Home Annual Tax",
+    "url": "https://www.rebny.com/reports/second-home-annual-tax/",
+    "publisher": "rebny",
+    "issued": "2026-05-27",
+    "reason": "two-page member explainer of a tax enacted in the state budget, laying out rates, thresholds and timing; makes no recommendations"
+  },
+  {
+    "title": "Q1 2026 New Building Construction Pipeline Report",
+    "url": "https://www.rebny.com/reports/new-building-construction-pipeline-report-Q1-26/",
+    "publisher": "rebny",
+    "issued": "2026-05-20",
+    "reason": "quarterly count of new building job application filings at the Department of Buildings; makes no recommendations"
+  },
+  {
+    "title": "The Invisible Engine 2026",
+    "url": "https://www.rebny.com/reports/the-invisible-engine-2026/",
+    "publisher": "rebny",
+    "issued": "2026-05-17",
+    "reason": "descriptive analysis of real-estate-related tax revenue as a share of city revenue; makes no recommendations"
+  },
+  {
+    "title": "Evaluating the Impact of New York's Bail Reform on Recidivism: A Difference-in-Differences Study",
+    "url": "https://datacollaborativeforjustice.org/work/scholarly-work/evaluating-the-impact-of-new-yorks-bail-reform-on-recidivism-a-difference-in-differences-study/",
+    "publisher": "dcj",
+    "issued": "2026-05-01",
+    "reason": "peer-reviewed empirical study published in a Springer journal estimating recidivism effects of the state bail law; makes no recommendations"
+  },
+  {
+    "title": "Global Roots, Local Impact: A Research Review of How Immigrants Impact the Economies, Health, and Safety of their Communities",
+    "url": "https://islg.cuny.edu/resources/global-roots-local-impact",
+    "publisher": "islg",
+    "issued": "2026-04-17",
+    "reason": "not NYC government; national review of research on immigrants and local economies, health and safety, and it makes no recommendations"
+  },
+  {
+    "title": "Educational Indicators for Students Experiencing Homelessness, 2024-25",
+    "url": "https://advocatesforchildren.org/policy-resource/sth-educational-indicators-2025/",
+    "publisher": "afc",
+    "issued": "2026-04-06",
+    "reason": "data indicator brief on transfers, chronic absenteeism and test scores for students in temporary housing; makes no recommendations"
+  },
+  {
+    "title": "NYC TC201 Operating Expenses Analysis for Rent Stabilized Buildings",
+    "url": "https://www.rebny.com/reports/nyc-tc201-operating-expenses-analysis-for-rent-stabilized-buildings/",
+    "publisher": "rebny",
+    "issued": "2026-04-22",
+    "reason": "empirical analysis by HR&A Advisors of per-unit income and expenses from TC201 filings, compared to Rent Guidelines Board data; makes no recommendations"
+  },
+  {
+    "title": "Borough Contrast: Prosecution and Court Outcomes Across New York City, 2021-2024",
+    "url": "https://datacollaborativeforjustice.org/work/case-processing/borough-contrast-prosecution-and-court-outcomes-across-new-york-city-2021-2024/",
+    "publisher": "dcj",
+    "issued": "2026-04-01",
+    "reason": "empirical comparison of declination, bail, conviction and sentencing outcomes across the five boroughs; the report has no recommendations chapter"
+  },
+  {
+    "title": "Drug Enforcement & Court-Ordered Treatment Across New York State: Before and After Rockefeller Reform",
+    "url": "https://datacollaborativeforjustice.org/work/diversion/drug-enforcement-treatment-across-new-york-state-before-and-after-rockefeller-reform/",
+    "publisher": "dcj",
+    "issued": "2026-04-01",
+    "reason": "statewide empirical study of drug arrests, sentencing and judicial diversion from 2000 to 2023; its conclusions chapter covers data limitations only and makes no recommendations"
+  },
+  {
+    "title": "April 2025 - Manhattan Office Visitation Report",
+    "url": "https://www.rebny.com/reports/april-2025-manhattan-office-visitation-report/",
+    "publisher": "rebny",
+    "issued": "2025-05-01",
+    "reason": "monthly market statistics on Manhattan office visitation rates; makes no recommendations"
+  },
+  {
+    "title": "March 2025 - Manhattan Office Visitation Report",
+    "url": "https://www.rebny.com/reports/march-2025-manhattan-office-visitation-report/",
+    "publisher": "rebny",
+    "issued": "2025-05-01",
+    "reason": "monthly market statistics on Manhattan office visitation rates; makes no recommendations"
+  },
+  {
+    "title": "February 2025 - Manhattan Office Visitation Report",
+    "url": "https://www.rebny.com/reports/february-2025-manhattan-office-visitation-report/",
+    "publisher": "rebny",
+    "issued": "2025-04-01",
+    "reason": "monthly market statistics on Manhattan office visitation rates; makes no recommendations"
+  },
+  {
+    "title": "January 2025 - Manhattan Office Visitation Report",
+    "url": "https://www.rebny.com/reports/january-2025-manhattan-office-visitation-report/",
+    "publisher": "rebny",
+    "issued": "2025-02-01",
+    "reason": "monthly market statistics on Manhattan office visitation rates; makes no recommendations"
+  },
+  {
+    "title": "December 2024 - Monthly Manhattan Office Visitation Report",
+    "url": "https://www.rebny.com/reports/december-2024-monthly-manhattan-office-visitation-report/",
+    "publisher": "rebny",
+    "issued": "2025-01-01",
+    "reason": "monthly market statistics on Manhattan office visitation rates; makes no recommendations"
+  },
+  {
+    "title": "Manhattan Office Building Visitation Report - New Metrics for a More Timely and Forward-Looking Picture of Office Visitation",
+    "url": "https://www.rebny.com/reports/manhattan-office-building-visitation-report-new-metrics-for-a-more-timely/",
+    "publisher": "rebny",
+    "issued": "2025-04-01",
+    "reason": "special report introducing new office visitation metrics; market statistics only, makes no recommendations"
+  },
+  {
+    "title": "Q1 2025 Construction Pipeline Report",
+    "url": "https://www.rebny.com/reports/q1-2025-construction-pipeline-report/",
+    "publisher": "rebny",
+    "issued": "2025-05-01",
+    "reason": "quarterly count of new building filings with the Department of Buildings; makes no recommendations"
+  },
+  {
+    "title": "Q4 2024 Construction Pipeline Report",
+    "url": "https://www.rebny.com/reports/q4-2024-construction-pipeline-report/",
+    "publisher": "rebny",
+    "issued": "2025-01-01",
+    "reason": "quarterly count of new building filings with the Department of Buildings; makes no recommendations"
+  },
+  {
+    "title": "Manhattan Retail Report - Second Half 2024",
+    "url": "https://www.rebny.com/reports/manhattan-retail-report-second-half-2024/",
+    "publisher": "rebny",
+    "issued": "2025-02-01",
+    "reason": "semiannual Manhattan retail leasing market statistics; makes no recommendations"
+  },
+  {
+    "title": "The Invisible Engine 2025",
+    "url": "https://www.rebny.com/reports/the-invisible-engine-2025/",
+    "publisher": "rebny",
+    "issued": "2025-03-01",
+    "reason": "descriptive analysis of real estate related tax revenue as a share of city collections; makes no recommendations"
+  },
+  {
+    "title": "Discovery Reform in New York: What Can the Data Tell Us?",
+    "url": "https://datacollaborativeforjustice.org/work/case-processing/discovery-reform-in-new-york-what-can-the-data-tell-us/",
+    "publisher": "dcj",
+    "issued": "2025-04-01",
+    "reason": "empirical analysis of discovery reform outcomes across New York State; makes no recommendations of its own"
+  },
+  {
+    "title": "Flagging for Mental Health Needs in New York City Jails: Prevalence and Timing",
+    "url": "https://datacollaborativeforjustice.org/work/jail-populations/flagging-for-mental-health-needs-in-new-york-city-jails-prevalence-and-timing/",
+    "publisher": "dcj",
+    "issued": "2025-04-01",
+    "reason": "research brief on the prevalence and timing of mental health flags in city jails; presents data only, makes no recommendations"
+  },
+  {
+    "title": "Justice at a Crossroads in New York City: Reexamining Crime, Victimization, Enforcement, Incarceration, and Racial Disparities",
+    "url": "https://datacollaborativeforjustice.org/work/policing/justice-at-a-crossroads/",
+    "publisher": "dcj",
+    "issued": "2025-04-01",
+    "reason": "empirical study of crime, enforcement, incarceration and racial disparity trends; makes no recommendations"
+  },
+  {
+    "title": "First Look at the How Many Stops Act Data",
+    "url": "https://datacollaborativeforjustice.org/work/policing/first-look-at-the-how-many-stops-act-data/",
+    "publisher": "dcj",
+    "issued": "2025-02-01",
+    "reason": "research brief describing the first six months of How Many Stops Act data; makes no recommendations"
+  },
+  {
+    "title": "Community Safety Investments: Violence Prevention Initiatives Across New York State",
+    "url": "https://datacollaborativeforjustice.org/work/policing/community-safety-investments-violence-prevention-across-new-york-state/",
+    "publisher": "dcj",
+    "issued": "2025-02-01",
+    "reason": "not NYC government; county-level evaluation of state-funded violence prevention programs across New York State, and it makes no recommendations"
+  },
+  {
+    "title": "A Path Forward: A Blueprint to Close Rikers",
+    "url": "https://datacollaborativeforjustice.org/work/racial-justice/a-path-forward-a-blueprint-to-close-rikers/",
+    "publisher": "dcj",
+    "issued": "2025-04-01",
+    "reason": "not a report; a Data Collaborative for Justice page summarizing the Independent Rikers Commission's blueprint, which DCJ advised on but did not author. The underlying blueprint is worth cataloguing under its own publisher"
+  },
+  {
+    "title": "A community health worker-delivered intervention to reduce human trafficking among Denotified Tribes in India: A protoc",
+    "url": "https://marroninstitute.nyu.edu/papers/a-public-health-community-health-worker-delivered-intervention-to-reduce-human-trafficking-among-denotified-tribes-in-india-a-protocol-paper",
+    "publisher": "marron",
+    "issued": "2025-05-01",
+    "reason": "not NYC government; a study protocol for an anti-trafficking intervention among Denotified Tribes in India"
+  },
+  {
+    "title": "Estimating Reporting Bias in 311 Compliant Data",
+    "url": "https://marroninstitute.nyu.edu/papers/estimating-reporting-bias-in-311-compliant-data",
+    "publisher": "marron",
+    "issued": "2025-03-21",
+    "reason": "academic methods paper estimating under-reporting in NYC 311 heat and hot water complaints; makes no recommendations"
+  },
+  {
+    "title": "Labor Trafficking in Construction and Hospitality Topical Brief: Barriers to Help-Seeking",
+    "url": "https://marroninstitute.nyu.edu/papers/labor-trafficking-in-construction-and-hospitality-topical-brief-barriers-to-help-seeking",
+    "publisher": "marron",
+    "issued": "2025-03-21",
+    "reason": "not NYC government; a brief on a four-site national study of labor trafficking, and it makes no recommendations"
+  },
+  {
+    "title": "Understanding the Needs of Unstably Housed Youth in New York City",
+    "url": "https://marroninstitute.nyu.edu/papers/understanding-the-needs-of-unstably-housed-youth-in-new-york-city",
+    "publisher": "marron",
+    "issued": "2025-02-24",
+    "reason": "survey of unstably housed youth in New York City whose recommendations are addressed to runaway and homeless youth service providers, not to any New York City government agency"
+  },
+  {
+    "title": "New York State Budget Agreement Would Shortchange New York City Schools",
+    "url": "https://advocatesforchildren.org/policy-resource/statement-nys-budget-agreement-fy-2026/",
+    "publisher": "afc",
+    "issued": "2025-04-30",
+    "reason": "not a report; labeled a press statement, on the state budget agreement"
+  },
+  {
+    "title": "More than 80 Organizations Call on Mayor Adams to Meet the Needs of Preschoolers with Disabilities",
+    "url": "https://advocatesforchildren.org/policy-resource/80-organizations-call-on-mayor-adams-to-meet-the-needs-of-preschoolers-with-disabilities/",
+    "publisher": "afc",
+    "issued": "2025-04-15",
+    "reason": "not a report; a sign-on letter from more than 80 organizations"
+  },
+  {
+    "title": "The Newcomer Education Network Calls on NYCPS to Safeguard Immigrant Students’ Rights",
+    "url": "https://advocatesforchildren.org/policy-resource/newcomer-education-network-chancellor-letter/",
+    "publisher": "afc",
+    "issued": "2025-01-21",
+    "reason": "not a report; a sign-on letter to the schools chancellor from the Newcomer Education Network"
+  },
+  {
+    "title": "Web Report: Critical Services, High Growth, Low Wages",
+    "url": "https://islg.cuny.edu/resources/critical-services-low-wages",
+    "publisher": "islg",
+    "issued": "2025-04-24",
+    "reason": "not NYC government; statewide employment and wage analysis of New York's human services workforce, and it makes no recommendations"
+  },
+  {
+    "title": "The Prosecutorial Data Collaborative",
+    "url": "https://islg.cuny.edu/resources/about-the-prosecutorial-data-collaborative",
+    "publisher": "islg",
+    "issued": "2025-01-29",
+    "reason": "not a report; a three-page description of a multi-jurisdiction technical assistance initiative for prosecutors' offices"
+  },
+  {
+    "title": "2025 Construction Outlook Update – Workforce Snapshot",
+    "url": "https://buildingcongress.com/report/2025-construction-outlook-update-workforce-snapshot/",
+    "publisher": "buildingcongress",
+    "issued": "2025-03-19",
+    "reason": "not NYC government; a New York State construction workforce snapshot whose recommendations are directed at state and federal policymakers"
+  },
+  {
+    "title": "2025 Building Congress Across New York State Update",
+    "url": "https://buildingcongress.com/report/2025bcanys-update/",
+    "publisher": "buildingcongress",
+    "issued": "2025-01-27",
+    "reason": "not NYC government; a statewide construction activity update, and it makes no recommendations"
+  },
+  {
+    "title": "2025 Policy Agenda",
+    "url": "https://buildingcongress.com/report/2025-policy-agenda/",
+    "publisher": "buildingcongress",
+    "issued": "2025-01-23",
+    "reason": "not NYC government; a multi-jurisdiction advocacy agenda whose priorities are sorted into federal, state and city categories"
+  },
+  {
+    "url": "https://steinhardt.nyu.edu/research-alliance/research/investing-career-and-technical-education",
+    "title": "The Research Alliance for New York City Schools",
+    "publisher": "researchalliance",
+    "issued": "2025-12-01",
+    "reason": "No recommendations: empirical cost analysis of CTE-Dedicated high schools (real title 'Investing in Career and Technical Education: Exploring the Costs of CTE-Dedicated High Schools in New York City'); no recommendations section, only suggestions about research data infrastructure."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/sustainable-services-living-wages",
+    "title": "Sustainable Services, Economic Growth, Living Wages",
+    "publisher": "islg",
+    "issued": "2025-11-25",
+    "reason": "No recommendations and not NYC government: a statewide return-on-investment estimate of raising wages for the lowest-paid human services workers in New York State; ends with a conclusion rather than proposals."
+  },
+  {
+    "url": "https://www.rebny.com/reports/q3-2025-construction-pipeline-report/",
+    "title": "Q3 2025 Construction Pipeline Report",
+    "publisher": "rebny",
+    "issued": "2025-11-01",
+    "reason": "No recommendations: quarterly count of new building job application filings with the Department of Buildings; market and pipeline statistics only. Posted date is November 11, 2025."
+  },
+  {
+    "url": "https://www.rebny.com/reports/485-x-is-failing-to-build-the-large-projects-needed-to-solve-the-housing/",
+    "title": "485-x Is Failing to Build the Large Projects Needed to Solve the Housing Crisis",
+    "publisher": "rebny",
+    "issued": "2025-11-01",
+    "reason": "No recommendations: a diagnostic fact sheet arguing the 485-x program has produced no buildings over 99 units; presents data and reasons but proposes no specific change. Posted date is November 9, 2025."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/bail-reform/examining-the-impact-of-eliminating-bail-on-recidivism-in-the-new-york-city-suburbs-and-upstate-regions-a-difference-in-differences-study/",
+    "title": "Examining the Impact of Eliminating Bail on Recidivism in the New York City Suburbs and Upstate Regions: A Difference-in-Differences Study",
+    "publisher": "dcj",
+    "issued": "2025-11-01",
+    "reason": "No recommendations and not NYC government: difference-in-differences study of recidivism after the elimination of bail in the New York City suburbs and upstate regions."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/use-of-jails-brief",
+    "title": "Web Report: The Changing Use of Jails in Safety and Justice Challenge Counties",
+    "publisher": "islg",
+    "issued": "2025-10-29",
+    "reason": "Not NYC government: analysis of jail booking, release and length-of-stay trends in five Safety and Justice Challenge counties around the country; presents indicators and makes no recommendations."
+  },
+  {
+    "url": "https://advocatesforchildren.org/policy-resource/student-homelessness-data-2025/",
+    "title": "Student Homelessness in New York City, 2024–25",
+    "publisher": "afc",
+    "issued": "2025-10-20",
+    "reason": "No recommendations: annual data brief counting students in temporary housing by borough and community school district."
+  },
+  {
+    "url": "https://advocatesforchildren.org/policy-resource/sth-educational-indicators-2024/",
+    "title": "Educational Indicators for Students Experiencing Homelessness, 2023–24",
+    "publisher": "afc",
+    "issued": "2025-10-20",
+    "reason": "No recommendations: data brief on attendance, school transfers, test proficiency and graduation for students experiencing homelessness."
+  },
+  {
+    "url": "https://www.rebny.com/reports/brooklyn-retail-report-2025/",
+    "title": "Brooklyn Retail Report - 2025",
+    "publisher": "rebny",
+    "issued": "2025-10-01",
+    "reason": "No recommendations: retail market statistics on Brooklyn leasing and asking rents. Posted date is October 7, 2025."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/bail-reform/testing-the-long-term-impact-of-bail-reform-across-new-york-state-a-quasi-experimental-evaluation/",
+    "title": "Testing the Long-Term Impact of Bail Reform Across New York State: A Quasi-Experimental Evaluation",
+    "publisher": "dcj",
+    "issued": "2025-10-01",
+    "reason": "No recommendations and not NYC government: quasi-experimental evaluation of the long-term effects of bail reform across New York State."
+  },
+  {
+    "url": "https://buildingcongress.com/report/2025-building-congress-across-america/",
+    "title": "2025 Building Congress Across America",
+    "publisher": "buildingcongress",
+    "issued": "2025-09-16",
+    "reason": "Not NYC government: a showcase of member projects across the country plus national construction workforce statistics; makes no recommendations to New York City."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/racial-justice/adherence-to-new-york-citys-pretrial-release-assessment-results-for-the-five-boroughs-2/",
+    "title": "Alignment with New York City’s Pretrial Release Assessment: Results for the Five Boroughs",
+    "publisher": "dcj",
+    "issued": "2025-09-01",
+    "reason": "No recommendations: empirical study of how often arraignment judges' release decisions match the city's pretrial Release Assessment; no recommendations section, only a closing suggestion that judges could be trained on the tool."
+  },
+  {
+    "url": "https://marroninstitute.nyu.edu/papers/eye-in-the-sky-harnessing-ai-to-monitor-police-response-to-illegal-parking-complaints",
+    "title": "Eye in the Sky: Harnessing AI to Monitor Police Response to Illegal Parking Complaints",
+    "publisher": "marron",
+    "issued": "2025-08-22",
+    "reason": "Not a report with recommendations: a peer-reviewed journal article, paywalled on ScienceDirect; the public abstract reports enforcement findings and no recommendations section is available."
+  },
+  {
+    "url": "https://marroninstitute.nyu.edu/papers/a-blueprint-for-successful-family-based-diversion-programs",
+    "title": "A Blueprint for Successful Family-Based Diversion Programs",
+    "publisher": "marron",
+    "issued": "2025-08-22",
+    "reason": "Not NYC government: a national blueprint for family-based diversion programs funded by the U.S. Office of Juvenile Justice and Delinquency Prevention; the brief does not mention New York."
+  },
+  {
+    "url": "https://marroninstitute.nyu.edu/papers/the-essential-role-of-air-quality-monitoring-at-u.s-embassies-and-consulates",
+    "title": "The Essential Role of Air Quality Monitoring at U.S. Embassies and Consulates",
+    "publisher": "marron",
+    "issued": "2025-08-22",
+    "reason": "Not NYC government: a discussion of U.S. State Department air quality monitoring at embassies and consulates worldwide."
+  },
+  {
+    "url": "https://www.rebny.com/reports/manhattan-retail-report-first-half-2025/",
+    "title": "Manhattan Retail Report - First Half 2025",
+    "publisher": "rebny",
+    "issued": "2025-08-01",
+    "reason": "No recommendations: retail market statistics on Manhattan leasing and asking rents. Posted date is August 6, 2025."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/policing/trends-in-criminal-summons-issuance-outcomes-and-racial-disparities-2023-2024/",
+    "title": "Trends in Criminal Summons Issuance, Outcomes, and Racial Disparities, 2023-2024",
+    "publisher": "dcj",
+    "issued": "2025-08-01",
+    "reason": "No recommendations: trend brief on criminal summons issuance, court outcomes and racial disparities in 2023 and 2024."
+  },
+  {
+    "url": "https://www.rebny.com/reports/q2-2025-construction-pipeline-report/",
+    "title": "Q2 2025 Construction Pipeline Report",
+    "publisher": "rebny",
+    "issued": "2025-07-01",
+    "reason": "No recommendations: quarterly count of new building filings with the Department of Buildings. Posted date is July 22, 2025."
+  },
+  {
+    "url": "https://datacollaborativeforjustice.org/work/jail-populations/incarceration-on-rikers-island-in-the-aftermath-of-the-new-york-state-corrections-officers-strike/",
+    "title": "Incarceration on Rikers Island in the Aftermath of the New York State Corrections Officers Strike",
+    "publisher": "dcj",
+    "issued": "2025-07-01",
+    "reason": "No recommendations: data brief tracking the state-ready population held at Rikers after the February 2025 state corrections officers strike."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/cbrj-yearbook-2024-2025",
+    "title": "The Community-Based Restorative Justice Program: 2024-2025 Grantee Yearbook",
+    "publisher": "islg",
+    "issued": "2025-06-23",
+    "reason": "Not a report: a yearbook of grantee spotlights from the Community-Based Restorative Justice program's end-of-year forum; no findings or recommendations."
+  },
+  {
+    "url": "https://buildingcongress.com/report/2025-nybf-biennial-report/",
+    "title": "2025 NYBF Biennial Report",
+    "publisher": "buildingcongress",
+    "issued": "2025-06-03",
+    "reason": "Not a report: the New York Building Foundation's biennial account of its own grants and programs; makes no recommendations."
+  },
+  {
+    "url": "https://www.rebny.com/reports/may-2025-manhattan-office-visitation-report/",
+    "title": "May 2025 - Manhattan Office Visitation Report",
+    "publisher": "rebny",
+    "issued": "2025-06-01",
+    "reason": "No recommendations: monthly Manhattan office building visitation statistics. Posted date is June 17, 2025."
+  },
+  {
+    "url": "https://advocatesforchildren.org/policy-resource/statement-nys-budget-bill-fy-2026/",
+    "title": "New York State Budget Shortchanges New York City Schools",
+    "publisher": "afc",
+    "issued": "2025-05-07",
+    "reason": "Not a report: a news release carrying a statement from Advocates for Children's executive director on the state budget bill's Foundation Aid changes."
+  },
+  {
+    "url": "https://islg.cuny.edu/resources/nypd-stop-and-frisk-study",
+    "title": "An Examination of NYPD Stop-and-Frisk Practices",
+    "publisher": "islg",
+    "issued": "2025-05-07",
+    "reason": "No recommendations: a court-ordered empirical study of body-worn camera encounters filed in Floyd v. City of New York; reports compliance rates and racial disparities with no recommendations section."
   }
 ]

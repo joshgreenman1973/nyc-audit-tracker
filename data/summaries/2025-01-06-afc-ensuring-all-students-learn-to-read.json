@@ -1,0 +1,70 @@
+{
+  "id": "2025-01-06-afc-ensuring-all-students-learn-to-read",
+  "source": "outside",
+  "auditor": "Advocates for Children of New York",
+  "title": "Ensuring All Students Learn to Read: Where We Go from Here",
+  "plain_title": "Three next steps for the city on teaching reading",
+  "agency": "New York City Public Schools",
+  "issued": "2025-01-06",
+  "url": "https://advocatesforchildren.org/policy-resource/literacy-agenda-2025/",
+  "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/literacy_recommendations_jan2025.pdf",
+  "what_they_audited": "A policy brief from Advocates for Children of New York, a legal and advocacy group that helps New York City families with school problems, arguing that literacy should stay a top priority for the next mayoral administration and setting out three things it says the city should do next.",
+  "background": "The brief traces the city's recent literacy efforts, from the Universal Literacy reading coach initiative launched under Mayor de Blasio in 2016-17, through universal screening for reading difficulties in 2021-22, to NYC Reads, which required 15 of the city's 32 community school districts to pick one of three pre-approved English Language Arts curricula in 2023-24 and expanded citywide in 2024-25.",
+  "findings": [
+    {
+      "plain": "Only about half of city students in grades three through eight read proficiently, and the rates are far lower for Black and Latinx students, students with disabilities and English Language Learners.",
+      "quote": "according to the 2024 New York State tests, only half of New York City students in grades 3–8—"
+    },
+    {
+      "plain": "For years individual schools chose their own English Language Arts curricula, which the group says led to widespread use of programs that do not work.",
+      "quote": "individual schools in New York City long had free reign to choose their own English Language Arts"
+    },
+    {
+      "plain": "The group says the experience of other states and districts suggests that overhauling reading instruction takes years and sustained money, so the city's changes should not be judged or funded as a short-term effort.",
+      "quote": "suggest that meaningful change takes time and requires a"
+    },
+    {
+      "plain": "Families of students with dyslexia or other reading difficulties often cannot get help within the public system, and the group says it frequently ends up suing for private school tuition or private tutoring instead.",
+      "quote": "often resort to suing for private school tuition or private tutoring for such"
+    },
+    {
+      "plain": "City literacy work so far has concentrated on core instruction in the early elementary grades, leaving adolescents who still lack foundational reading skills without intensive help.",
+      "quote": "there are many adolescents still"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "37%",
+      "label": "Black and Latinx students in grades 3-8 reading proficiently"
+    },
+    {
+      "value": "21%",
+      "label": "Students with disabilities reading proficiently"
+    },
+    {
+      "value": "7.7%",
+      "label": "English Language Learners reading proficiently"
+    },
+    {
+      "value": "15",
+      "label": "Community school districts in the first year of NYC Reads"
+    },
+    {
+      "value": "32",
+      "label": "Community school districts citywide"
+    }
+  ],
+  "recommendations": [
+    "Make sure every student who needs extra help in reading gets one-on-one or small group intervention aimed at their individual needs, for example by hiring a corps of reading interventionists, using existing staff for evidence-based intervention or creating district-level intervention hubs.",
+    "Strengthen core instruction by giving educators ongoing training and at-the-elbow coaching in carrying out the new curricula and in using screening data to differentiate instruction.",
+    "Ensure every parent gets information about the literacy skills expected at each grade level, regular updates on their child's progress and a clear path to extra help, backed by tools and training for school staff to communicate with families in both directions."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "children and youth"
+  ],
+  "is_followup": false
+}

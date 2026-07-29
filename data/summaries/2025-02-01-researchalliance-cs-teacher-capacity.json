@@ -1,0 +1,86 @@
+{
+  "id": "2025-02-01-researchalliance-cs-teacher-capacity",
+  "source": "outside",
+  "auditor": "Research Alliance for New York City Schools",
+  "title": "Building Teacher Capacity for Equitable CS: Insights from NYC’s CS4All Initiative",
+  "plain_title": "What happened after city teachers were trained to teach coding",
+  "agency": "New York City Public Schools",
+  "issued": "2025-02-01",
+  "url": "https://steinhardt.nyu.edu/research-alliance/research/building-teacher-capacity-equitable-computer-science-education",
+  "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-02/CS%20Teacher%20Capacity%202.18.25.pdf",
+  "what_they_audited": "A research report from the Research Alliance for New York City Schools, a research center at New York University that studies the city's public schools, on how the Computer Science for All initiative prepared teachers and how many of them went on to teach computer science. It examines who took part in training, who stayed, who implemented and what got in the way.",
+  "background": "Computer Science for All, known as CS4All, is a public-private partnership launched by New York City Public Schools in 2015 to bring computer science to every student in each grade band. It depended on providing professional learning to large numbers of teachers and school leaders, many with little or no computer science background, along with training in culturally relevant and sustaining education practices.",
+  "findings": [
+    {
+      "plain": "More than 3,000 teachers had gone through the initiative's professional learning sessions by 2024, at roughly 400 teachers a year.",
+      "quote": "By 2024, more than 3,000 teachers had participated in CS4All PL sessions, with an"
+    },
+    {
+      "plain": "Teachers rated the training highly and most said it increased their knowledge and their confidence in teaching computer science.",
+      "quote": "Teachers rated the CS4All PL highly, with a majority responding favorably to"
+    },
+    {
+      "plain": "About two-thirds of teachers who stayed in the classroom taught computer science at some point after training, but only around 45 percent did so in the first year afterward, and rates fell as time passed since training.",
+      "quote": "implemented CS at some point following training (even if not immediately). On"
+    },
+    {
+      "plain": "Part of the gap between training and teaching is turnover: a quarter of teachers who took the training between 2016 and 2023 left the system or moved out of the classroom.",
+      "quote": "PL (25%) between 2016 and 2023 left the system (22%) or moved into a leadership"
+    },
+    {
+      "plain": "Teachers who went on to teach computer science tended to work in schools serving higher-income and higher-achieving students, with smaller shares of Black and Latinx students.",
+      "quote": "implementers. On average, implementing teachers’ schools served higher-income"
+    },
+    {
+      "plain": "The biggest obstacles were structural rather than a lack of expertise: scheduling conflicts, competing academic priorities, no preparation time, classes that were never scheduled and changed teaching assignments.",
+      "quote": "Major barriers to implementation were structural in nature (i.e., factors often beyond"
+    },
+    {
+      "plain": "Those barriers were sharpest in schools serving students with greater economic need, which the report says widened gaps in access to computer science.",
+      "quote": "Barriers to implementing CS were particularly acute in schools serving students with"
+    },
+    {
+      "plain": "What helped teachers follow through was a professional community of computer science teachers, support from school leadership and a school culture that valued the subject.",
+      "quote": "Factors that facilitated implementation included having a professional community of"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "3,000",
+      "label": "Teachers who took CS4All professional learning by 2024"
+    },
+    {
+      "value": "68%",
+      "label": "Teachers who taught computer science after training"
+    },
+    {
+      "value": "45 percent",
+      "label": "Teachers who taught it in the first year after training"
+    },
+    {
+      "value": "25%",
+      "label": "Trained teachers who left the system or the classroom"
+    },
+    {
+      "value": "69 percent",
+      "label": "Highest first-year implementation rate, the 2019 cohort"
+    }
+  ],
+  "recommendations": [
+    "Keep providing ongoing professional learning, curriculum resources and communities of practice for computer science teachers, and consider which supports can be delivered virtually or asynchronously to reach more teachers at lower cost.",
+    "Continue embedding culturally responsive-sustaining education practices in computer science training as a way to improve instruction and students' sense of belonging in the subject.",
+    "Give school leaders support and resources to plan for computer science, since administrators set the vision, protect instructional time and manage competing demands.",
+    "Address the structural barriers directly, with systemic solutions to staffing shortages, scheduling constraints and how resources are allocated.",
+    "Align the initiative with district-wide priorities by making sure superintendents and executive superintendents understand computer science education and can back up school leaders with resources.",
+    "Build long-term capacity through teacher preparation tied to classroom-tested curriculum, certification pathways, incentives and school supports, so the city can prepare and keep qualified computer science teachers."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "technology",
+    "labor"
+  ],
+  "is_followup": false
+}

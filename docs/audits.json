@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-28",
+ "generated": "2026-07-29",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -1070,6 +1070,143 @@
    ]
   },
   {
+   "id": "2026-06-15-buildingcongress-healthcare-life-sciences",
+   "source": "outside",
+   "auditor": "New York Building Congress",
+   "title": "2026 Healthcare & Life Sciences Report",
+   "plain_title": "Loosening zoning rules so hospitals can modernize",
+   "agency": "New York City government",
+   "issued": "2026-06-15",
+   "url": "https://buildingcongress.com/report/2026-healthcare-life-sciences-report/",
+   "pdf": "https://buildingcongress.com/wp-content/uploads/2026/06/2026-Healthcare-Report-2.pdf",
+   "what_they_audited": "A report from the New York Building Congress, a membership association for the city's building and construction industry, arguing that New York City's zoning and land use rules make it hard to rebuild aging hospitals to modern clinical standards. It is subtitled \"Building a Healthier Five Boroughs\" and closes with eight proposals for changing city rules.",
+   "background": "The report says health care and social assistance accounted for 1,016,400 jobs in New York City as of January 2026 and more than 7 percent of the city's gross domestic product, with life sciences adding 18,800 jobs. It says the 1961 Zoning Resolution gave hospitals and other community facilities special bulk treatment in residential districts, a framework the group argues has not kept pace with modern medicine.",
+   "findings": [
+    {
+     "plain": "Health care is one of the city's largest employers, and an analysis the report cites puts the yearly economic activity of city hospitals and health systems above $123 billion, with more than $21 billion in tax revenue.",
+     "quote": "accounted for 1,016,400 jobs in New York City as of January 2026"
+    },
+    {
+     "plain": "Many hospitals are putting off capital work. A 2022 hospital association survey found that more than three quarters were delaying or cancelling capital improvement projects because of finances.",
+     "quote": "A 2022 joint hospital association survey reported that 77% of hospitals are delaying or cancelling capital..."
+    },
+    {
+     "plain": "The city's public hospital buildings are old. A 2014 Center for an Urban Future count found their average construction year was 1957.",
+     "quote": "New York City’s public hospital buildings were, on average, built in 1957."
+    },
+    {
+     "plain": "State and federal design standards now require more floor area per patient and per procedure. Single-bed rooms must be at least 120 square feet, and a standard operating room approved since 2010 must be at least 400 square feet, against 270 square feet under the older state hospital code.",
+     "quote": "that a standard operating room must be at least 400 square feet, with more complex specialty operating rooms at"
+    },
+    {
+     "plain": "Because a hospital cannot shut down while it is rebuilt, modernization is staged around live clinical operations, which the report says makes the work slower and costlier per square foot than comparable construction.",
+     "quote": "These projects are complex and expensive for a simple reason: A hospital cannot close to renovate."
+    },
+    {
+     "plain": "Case studies inside and outside New York show hospital floor area growing much faster than bed counts, and in some cases with no added beds at all.",
+     "quote": "require considerable bulk growth even without programmatic expansion."
+    },
+    {
+     "plain": "Discretionary land use review takes years. The report cites a Citizens Budget Commission finding on the median timeline, and says Board of Standards and Appeals cases can add up to two more years.",
+     "quote": "the median discretionary land use application took two and a half years from formal filing with City Planning"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "1,016,400 jobs",
+     "label": "Health care and social assistance jobs, January 2026"
+    },
+    {
+     "value": "18,800",
+     "label": "Life sciences jobs in New York City"
+    },
+    {
+     "value": "$116,800",
+     "label": "Average yearly salary for hospital workers"
+    },
+    {
+     "value": "$123 billion",
+     "label": "Yearly economic activity of city hospitals and systems"
+    },
+    {
+     "value": "$9.5 billion",
+     "label": "Community benefits from nonprofit city hospitals, 2023"
+    },
+    {
+     "value": "77%",
+     "label": "Hospitals delaying or cancelling capital projects, 2022"
+    },
+    {
+     "value": "1957",
+     "label": "Average build year of city public hospital buildings"
+    },
+    {
+     "value": "400 square feet",
+     "label": "Minimum standard operating room since 2010"
+    },
+    {
+     "value": "120 square feet",
+     "label": "Minimum single-bed patient room"
+    },
+    {
+     "value": "two and a half years",
+     "label": "Median discretionary land use application timeline"
+    }
+   ],
+   "recommendations": [
+    "Create an as-of-right pathway for healthcare modernization projects that need added bulk to meet modern standards, where net bed growth is 20 percent or less.",
+    "Raise the allowable floor area ratio broadly for healthcare community facility uses to match the space modern hospitals need.",
+    "Create targeted bulk and floor area allowances for safety-net, public and community hospitals, paired with faster approvals and more capital support for institutions serving high-need communities.",
+    "Streamline the Uniform Land Use Review Procedure and related reviews for healthcare modernization projects, including through City Charter revision where appropriate.",
+    "Create a healthcare-specific allowance for mechanical space so modern hospital equipment fits inside zoning envelopes, even where mechanical space is already excluded from floor area ratio.",
+    "Broaden the definition of life sciences uses to take in more hospital-based research, diagnostics, testing, translational medicine and other healthcare-adjacent innovation.",
+    "Streamline environmental review for hospital modernization projects.",
+    "Encourage healthcare growth in all five boroughs by giving hospitals, outpatient centers and other care facilities more flexibility to expand where New Yorkers live and work."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "health",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create an as-of-right pathway for healthcare modernization projects that need added bulk to meet modern standards, where net bed growth is 20 percent or less."
+    },
+    {
+     "n": 2,
+     "text": "Raise the allowable floor area ratio broadly for healthcare community facility uses to match the space modern hospitals need."
+    },
+    {
+     "n": 3,
+     "text": "Create targeted bulk and floor area allowances for safety-net, public and community hospitals, paired with faster approvals and more capital support for institutions serving high-need communities."
+    },
+    {
+     "n": 4,
+     "text": "Streamline the Uniform Land Use Review Procedure and related reviews for healthcare modernization projects, including through City Charter revision where appropriate."
+    },
+    {
+     "n": 5,
+     "text": "Create a healthcare-specific allowance for mechanical space so modern hospital equipment fits inside zoning envelopes, even where mechanical space is already excluded from floor area ratio."
+    },
+    {
+     "n": 6,
+     "text": "Broaden the definition of life sciences uses to take in more hospital-based research, diagnostics, testing, translational medicine and other healthcare-adjacent innovation."
+    },
+    {
+     "n": 7,
+     "text": "Streamline environmental review for hospital modernization projects."
+    },
+    {
+     "n": 8,
+     "text": "Encourage healthcare growth in all five boroughs by giving hospitals, outpatient centers and other care facilities more flexibility to expand where New Yorkers live and work."
+    }
+   ]
+  },
+  {
    "id": "2026-06-12-lv-auditor-january-2026-limited-review",
    "source": "monitor",
    "auditor": "Independent auditor (NYC special education hearing orders)",
@@ -1861,6 +1998,127 @@
    ]
   },
   {
+   "id": "2026-05-05-buildingcongress-construction-workforce-snapshot",
+   "source": "outside",
+   "auditor": "New York Building Congress",
+   "title": "2026 Construction Outlook Update - Workforce Snapshot",
+   "plain_title": "Who builds New York, and what the industry wants next",
+   "agency": "New York City government",
+   "issued": "2026-05-05",
+   "url": "https://buildingcongress.com/report/2026-construction-outlook-update-workforce-snapshot/",
+   "pdf": "https://buildingcongress.com/wp-content/uploads/2026/05/2026-COU-Workforce-Snapshot.pdf",
+   "what_they_audited": "An annual snapshot from the New York Building Congress, a membership association for the city's building and construction industry, profiling who works in construction in New York City and New York State using 2024 American Community Survey data. It ends with seven proposals aimed at federal, state and city action to widen the pipeline into the trades.",
+   "background": "The report counts workers in building and infrastructure projects, design, site preparation and excavation, governmental activities and construction consulting, as self-reported in the 2024 American Community Survey. It says the statewide construction workforce has recovered to about 98 percent of its pre-pandemic level and projects a return to pre-pandemic numbers by the end of 2027.",
+   "findings": [
+    {
+     "plain": "The statewide construction workforce reached 568,000 in 2024, close to the pre-pandemic level of 585,000. New York City accounted for about 45 percent of the state total.",
+     "quote": "Statewide, the construction workforce rose to 568,000 workers in 2024"
+    },
+    {
+     "plain": "The city workforce edged up to 253,000 in 2024, and about three quarters of those workers lived in New York City.",
+     "quote": "to 253,000 workers in 2024.  At this level, 73% or 185,000 workers were residents of"
+    },
+    {
+     "plain": "The city's construction workforce is majority non-white, with no single group in the majority. Hispanic workers were the largest share at 44 percent in 2024, and women were 8.7 percent of city construction workers.",
+     "quote": "with 66% non-White workers, virtually unchanged from"
+    },
+    {
+     "plain": "English is no longer the primary language for most of the city's construction workers. English was primary for 40.9 percent in 2024 and Spanish for 35.5 percent.",
+     "quote": "at 35.5% of workers, with all other languages each"
+    },
+    {
+     "plain": "The workforce is getting younger. The share under 25 rose statewide from 6.6 percent in 2021 to 8 percent in 2024, and in the city from 4.9 percent in 2020 to 6.2 percent in 2024.",
+     "quote": "were under age 25, a share that has risen from 6.6% in"
+    },
+    {
+     "plain": "Earnings are rising. In the city, 21 percent of construction workers earned over $100,000 in 2024, up from 16 percent in 2021, and 59.7 percent reported household incomes above $100,000.",
+     "quote": "growth trend, with 21% earning over $100,000 in 2024"
+    },
+    {
+     "plain": "Public transit is again the main way city construction workers get to job sites, and city commutes are long, with about 42 percent taking more than an hour.",
+     "quote": "48% of workers in 2024, up from 44.5% in 2022. This"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "568,000",
+     "label": "Statewide construction workers, 2024"
+    },
+    {
+     "value": "253,000",
+     "label": "New York City construction workers, 2024"
+    },
+    {
+     "value": "185,000",
+     "label": "City construction workers who live in the city"
+    },
+    {
+     "value": "8.7%",
+     "label": "Share of city construction workers who are women"
+    },
+    {
+     "value": "35.5%",
+     "label": "Share of city construction workers whose language is Spanish"
+    },
+    {
+     "value": "13,000",
+     "label": "New Yorkers in construction apprenticeships statewide"
+    },
+    {
+     "value": "91%",
+     "label": "International engineering graduates who leave the country"
+    }
+   ],
+   "recommendations": [
+    "Create federal immigration tools for infrastructure work, starting with an H-1B visa cap exemption and fast-track approval program for government-funded infrastructure, targeted at workers educated and trained in the United States in fields such as engineering, architecture, construction management, planning and key technical trades.",
+    "Lower the fees for federal certification and required training courses, particularly Occupational Safety and Health Administration training.",
+    "Expand Workforce Innovation and Opportunity programs, including the Youth Activities program, the Adult Employment and Training Activities program and the Dislocated Worker Employment and Training Activities program.",
+    "Expand career and technical education in New York public schools to prepare students for architecture, engineering and technology careers, and put more money into science, technology, engineering and math education for children and professionals.",
+    "Keep building on the New York Building Congress Young Professionals Committee's work recruiting and retaining younger workers in construction.",
+    "Increase minority- and women-owned business enterprise participation statewide by building a single place where those firms can bid on state, city and public authority projects.",
+    "Create incentives to expand childcare hours so construction families have childcare when they have to be on job sites outside standard working hours."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "labor",
+    "education",
+    "transportation"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create federal immigration tools for infrastructure work, starting with an H-1B visa cap exemption and fast-track approval program for government-funded infrastructure, targeted at workers educated and trained in the United States in fields such as engineering, architecture, construction management, planning and key technical trades."
+    },
+    {
+     "n": 2,
+     "text": "Lower the fees for federal certification and required training courses, particularly Occupational Safety and Health Administration training."
+    },
+    {
+     "n": 3,
+     "text": "Expand Workforce Innovation and Opportunity programs, including the Youth Activities program, the Adult Employment and Training Activities program and the Dislocated Worker Employment and Training Activities program."
+    },
+    {
+     "n": 4,
+     "text": "Expand career and technical education in New York public schools to prepare students for architecture, engineering and technology careers, and put more money into science, technology, engineering and math education for children and professionals."
+    },
+    {
+     "n": 5,
+     "text": "Keep building on the New York Building Congress Young Professionals Committee's work recruiting and retaining younger workers in construction."
+    },
+    {
+     "n": 6,
+     "text": "Increase minority- and women-owned business enterprise participation statewide by building a single place where those firms can bid on state, city and public authority projects."
+    },
+    {
+     "n": 7,
+     "text": "Create incentives to expand childcare hours so construction families have childcare when they have to be on job sites outside standard working hours."
+    }
+   ]
+  },
+  {
    "id": "2026-05-01-boc-third-report-2025-deaths",
    "source": "other",
    "auditor": "New York City Board of Correction",
@@ -2579,6 +2837,305 @@
     {
      "n": 6,
      "text": "Revisit how post-training surveys are conducted, including whether the department should run them itself."
+    }
+   ]
+  },
+  {
+   "id": "2026-04-08-islg-cjii-decade-synthesis",
+   "source": "outside",
+   "auditor": "CUNY Institute for State and Local Governance",
+   "title": "The Criminal Justice Investment Initiative: Synthesizing a Decade of Innovation",
+   "plain_title": "What a decade of Manhattan DA grants taught about services",
+   "agency": "New York City government",
+   "issued": "2026-04-08",
+   "url": "https://islg.cuny.edu/resources/cjii-synthesis-briefs",
+   "pdf": "https://islg.cuny.edu/s/Strengthening-Cross-System-Collaboration-for-Greater-Impact-_12825-final.pdf",
+   "what_they_audited": "A series of six briefs from the CUNY Institute for State and Local Governance, the research center that manages the Criminal Justice Investment Initiative, drawing lessons from a decade of grants the Manhattan District Attorney's Office made to New York City community organizations. Each brief ends with its own set of recommendations addressed to funders, policymakers and service providers, and they are listed here brief by brief.",
+   "background": "The Criminal Justice Investment Initiative was created by the Manhattan District Attorney's Office to spend $250 million seized in international financial crime prosecutions on community projects in three areas: crime prevention, diversion and reentry and support for crime survivors. Since 2015 it has backed more than 50 programs serving more than 34,000 people, and CUNY ISLG manages the grants and measures performance.",
+   "findings": [
+    {
+     "plain": "The initiative put forfeiture money from financial crime prosecutions into community programs, funding, expanding or evaluating more than 50 of them and reaching more than 34,000 people across the city since 2015.",
+     "quote": "evaluate over 50 innovative community programs serving more than 34,000 people across New York City"
+    },
+    {
+     "plain": "Even in a city with many community organizations, service silos kept people from getting the full range of help available, and coordination between organizations did not happen unless it was paid for.",
+     "quote": "Yet, organizational siloes mean people may nonetheless struggle to fully benefit from all that’s available."
+    },
+    {
+     "plain": "Trust between staff and participants, and between partner organizations, was what made referrals across organizations work.",
+     "quote": "Trust is the lubricant for transcending service siloes."
+    },
+    {
+     "plain": "Contact with the criminal legal system is itself a source of trauma, and standard intake and assessment procedures can compound it.",
+     "quote": "Involvement in the criminal legal system is inherently traumatic ."
+    },
+    {
+     "plain": "Groups that are shut out of services face different barriers from one another, so programs designed around a single model reach fewer of them.",
+     "quote": "Barriers and needs vary across specific populations ."
+    },
+    {
+     "plain": "Many community-based organizations lack the infrastructure to collect and analyze their own data, and the briefs trace that gap back to funding requests that do not pay for data capacity or technical assistance.",
+     "quote": "This gap begins at the funding level, with many requests-for-proposals (RFPs)"
+    },
+    {
+     "plain": "Linking data across agencies for evaluation was possible but heavy going even inside a well-funded initiative, and 33 of the 52 funded programs got an outside evaluation.",
+     "quote": "labor-intensive within the well-resourced CJII, but"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$250 million",
+     "label": "Forfeiture money the Manhattan DA put into the initiative"
+    },
+    {
+     "value": "more than 34,000 people",
+     "label": "People served by funded programs since 2015"
+    },
+    {
+     "value": "33 of 52 funded programs",
+     "label": "Funded programs that got an outside evaluation"
+    },
+    {
+     "value": "more than 250 interviews",
+     "label": "Interviews used to design the initiative"
+    }
+   ],
+   "recommendations": [
+    "Invest in coordination: pay providers specifically for the time and staffing it takes to collaborate, and build planning time into grants so partnerships are a good fit before work starts.",
+    "Reassess partnerships on a regular schedule, with routine check-ins and periodic reviews from all sides, so collaborations can change as needs and funding shift.",
+    "Support the development of data management systems that cross organizational lines, ideally a shared system, so partners can coordinate services and track their impact.",
+    "Have partners and funders build learning communities that spread best practices and help programs survive past one grant.",
+    "Tailor trauma-responsive programs to the specific populations being served rather than applying one treatment model to everyone.",
+    "Combine clinical and non-clinical interventions, including art groups, family events and recreation, to provide more holistic care.",
+    "Create employment pathways into the helping professions for people from groups now underrepresented in them, including survivors of trauma.",
+    "Build flexible program policies, including a mix of remote and in-person options and formal and drop-in services, to meet participants where they are.",
+    "Dedicate funding to longer-term care so treatment is not cut off before people have worked through their trauma.",
+    "Hire and onboard people with lived experience as staff, and create paths for participants to become staff themselves.",
+    "Make programming flexible and individualized so each participant's plan matches their own needs and can change as they progress.",
+    "Facilitate communication and networking across service providers and other city agencies so referrals out of a program actually land.",
+    "Foster continuous and comprehensive care, with coordinators or case managers who stay with a person through the transition back to the community.",
+    "Provide comprehensive staff training and hire staff with experience, including lived experience, working with people involved in the criminal legal system.",
+    "Address material needs such as food and housing as part of programming, alongside longer-term work on employment, education and health.",
+    "Allow flexibility, multiple points of entry and re-engagement, so people can come back to a program after a lapse without being penalized.",
+    "Increase community awareness of these programs, invest in provider responsiveness and highlight the benefits, to improve recruitment and attendance.",
+    "Monitor and address inequities in who engages with and completes programs, since uneven participation can widen existing disparities.",
+    "Deploy data-driven approaches to assess impact on recidivism and other measures, and adjust programs accordingly.",
+    "Have requests for proposals prompt applicants to describe their data capacity and their data and research staffing.",
+    "State clearly in requests for proposals whether evaluation is a condition of funding.",
+    "Involve data, research and program staff from applicant organizations in contract negotiations, not just development and legal teams.",
+    "Assess an organization's actual data capacity at the time of funding, including through site visits and video calls.",
+    "Assess whether a program and its evaluator are a good fit before the contract is executed.",
+    "Dedicate money and hands-on data support as part of the funding package rather than leaving data work unfunded.",
+    "Offer ongoing assistance, support and training on data to grantees throughout the grant.",
+    "Make performance measurement participatory, with grantee staff reviewing and shaping reporting templates.",
+    "Support a data-driven culture inside grantee organizations rather than treating data as a reporting chore.",
+    "Address the historical injustices that shape how communities view research, rather than assuming trust.",
+    "Develop realistic evaluation timelines that match how programs actually start up and run.",
+    "Plan evaluations around what data will actually be available.",
+    "Emphasize participatory evaluation approaches that treat programs as active stakeholders in the research design.",
+    "Be flexible about research design, considering regression discontinuity, longitudinal and propensity score matching approaches where a randomized trial does not fit.",
+    "Address research ethics directly and openly, including disagreements over consent, random assignment, data ownership and what gets published.",
+    "Connect stakeholders' data across programs and agencies so evaluations can show a fuller picture of impact.",
+    "Standardize data-sharing agreements within a jurisdiction, including a common template and shared data definitions across city agencies.",
+    "Center participant stories in reporting, using mixed methods and first-person accounts alongside administrative data.",
+    "Reach people where they are by moving technical detail into appendices, requiring mid-evaluation reports and producing short practitioner briefs and presentations.",
+    "Adopt flexible, low-barrier, hybrid service delivery models, both virtual and in person, as a standard feature of program design.",
+    "Allocate unrestricted, flexible funding streams that pay for physical spaces and adaptive programming rather than narrow outputs.",
+    "Build system literacy and self-advocacy by having participants co-create their own service plans and exercise real choice in how they engage.",
+    "Establish formal systems for bringing staff with direct lived experience into service delivery and leadership at all levels, and invest in professional pathways for those roles.",
+    "Invest in the workforce through fair pay, staff wellness, reasonable caseload limits and comprehensive training.",
+    "Minimize the burden research places on participants by replacing traditional high-demand data collection with co-designed, low-barrier and incentive-based alternatives.",
+    "Employ reflexive knowledge-sharing throughout the research cycle, with continuous feedback loops involving staff and participants."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "social services",
+    "children and youth"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Invest in coordination: pay providers specifically for the time and staffing it takes to collaborate, and build planning time into grants so partnerships are a good fit before work starts."
+    },
+    {
+     "n": 2,
+     "text": "Reassess partnerships on a regular schedule, with routine check-ins and periodic reviews from all sides, so collaborations can change as needs and funding shift."
+    },
+    {
+     "n": 3,
+     "text": "Support the development of data management systems that cross organizational lines, ideally a shared system, so partners can coordinate services and track their impact."
+    },
+    {
+     "n": 4,
+     "text": "Have partners and funders build learning communities that spread best practices and help programs survive past one grant."
+    },
+    {
+     "n": 5,
+     "text": "Tailor trauma-responsive programs to the specific populations being served rather than applying one treatment model to everyone."
+    },
+    {
+     "n": 6,
+     "text": "Combine clinical and non-clinical interventions, including art groups, family events and recreation, to provide more holistic care."
+    },
+    {
+     "n": 7,
+     "text": "Create employment pathways into the helping professions for people from groups now underrepresented in them, including survivors of trauma."
+    },
+    {
+     "n": 8,
+     "text": "Build flexible program policies, including a mix of remote and in-person options and formal and drop-in services, to meet participants where they are."
+    },
+    {
+     "n": 9,
+     "text": "Dedicate funding to longer-term care so treatment is not cut off before people have worked through their trauma."
+    },
+    {
+     "n": 10,
+     "text": "Hire and onboard people with lived experience as staff, and create paths for participants to become staff themselves."
+    },
+    {
+     "n": 11,
+     "text": "Make programming flexible and individualized so each participant's plan matches their own needs and can change as they progress."
+    },
+    {
+     "n": 12,
+     "text": "Facilitate communication and networking across service providers and other city agencies so referrals out of a program actually land."
+    },
+    {
+     "n": 13,
+     "text": "Foster continuous and comprehensive care, with coordinators or case managers who stay with a person through the transition back to the community."
+    },
+    {
+     "n": 14,
+     "text": "Provide comprehensive staff training and hire staff with experience, including lived experience, working with people involved in the criminal legal system."
+    },
+    {
+     "n": 15,
+     "text": "Address material needs such as food and housing as part of programming, alongside longer-term work on employment, education and health."
+    },
+    {
+     "n": 16,
+     "text": "Allow flexibility, multiple points of entry and re-engagement, so people can come back to a program after a lapse without being penalized."
+    },
+    {
+     "n": 17,
+     "text": "Increase community awareness of these programs, invest in provider responsiveness and highlight the benefits, to improve recruitment and attendance."
+    },
+    {
+     "n": 18,
+     "text": "Monitor and address inequities in who engages with and completes programs, since uneven participation can widen existing disparities."
+    },
+    {
+     "n": 19,
+     "text": "Deploy data-driven approaches to assess impact on recidivism and other measures, and adjust programs accordingly."
+    },
+    {
+     "n": 20,
+     "text": "Have requests for proposals prompt applicants to describe their data capacity and their data and research staffing."
+    },
+    {
+     "n": 21,
+     "text": "State clearly in requests for proposals whether evaluation is a condition of funding."
+    },
+    {
+     "n": 22,
+     "text": "Involve data, research and program staff from applicant organizations in contract negotiations, not just development and legal teams."
+    },
+    {
+     "n": 23,
+     "text": "Assess an organization's actual data capacity at the time of funding, including through site visits and video calls."
+    },
+    {
+     "n": 24,
+     "text": "Assess whether a program and its evaluator are a good fit before the contract is executed."
+    },
+    {
+     "n": 25,
+     "text": "Dedicate money and hands-on data support as part of the funding package rather than leaving data work unfunded."
+    },
+    {
+     "n": 26,
+     "text": "Offer ongoing assistance, support and training on data to grantees throughout the grant."
+    },
+    {
+     "n": 27,
+     "text": "Make performance measurement participatory, with grantee staff reviewing and shaping reporting templates."
+    },
+    {
+     "n": 28,
+     "text": "Support a data-driven culture inside grantee organizations rather than treating data as a reporting chore."
+    },
+    {
+     "n": 29,
+     "text": "Address the historical injustices that shape how communities view research, rather than assuming trust."
+    },
+    {
+     "n": 30,
+     "text": "Develop realistic evaluation timelines that match how programs actually start up and run."
+    },
+    {
+     "n": 31,
+     "text": "Plan evaluations around what data will actually be available."
+    },
+    {
+     "n": 32,
+     "text": "Emphasize participatory evaluation approaches that treat programs as active stakeholders in the research design."
+    },
+    {
+     "n": 33,
+     "text": "Be flexible about research design, considering regression discontinuity, longitudinal and propensity score matching approaches where a randomized trial does not fit."
+    },
+    {
+     "n": 34,
+     "text": "Address research ethics directly and openly, including disagreements over consent, random assignment, data ownership and what gets published."
+    },
+    {
+     "n": 35,
+     "text": "Connect stakeholders' data across programs and agencies so evaluations can show a fuller picture of impact."
+    },
+    {
+     "n": 36,
+     "text": "Standardize data-sharing agreements within a jurisdiction, including a common template and shared data definitions across city agencies."
+    },
+    {
+     "n": 37,
+     "text": "Center participant stories in reporting, using mixed methods and first-person accounts alongside administrative data."
+    },
+    {
+     "n": 38,
+     "text": "Reach people where they are by moving technical detail into appendices, requiring mid-evaluation reports and producing short practitioner briefs and presentations."
+    },
+    {
+     "n": 39,
+     "text": "Adopt flexible, low-barrier, hybrid service delivery models, both virtual and in person, as a standard feature of program design."
+    },
+    {
+     "n": 40,
+     "text": "Allocate unrestricted, flexible funding streams that pay for physical spaces and adaptive programming rather than narrow outputs."
+    },
+    {
+     "n": 41,
+     "text": "Build system literacy and self-advocacy by having participants co-create their own service plans and exercise real choice in how they engage."
+    },
+    {
+     "n": 42,
+     "text": "Establish formal systems for bringing staff with direct lived experience into service delivery and leadership at all levels, and invest in professional pathways for those roles."
+    },
+    {
+     "n": 43,
+     "text": "Invest in the workforce through fair pay, staff wellness, reasonable caseload limits and comprehensive training."
+    },
+    {
+     "n": 44,
+     "text": "Minimize the burden research places on participants by replacing traditional high-demand data collection with co-designed, low-barrier and incentive-based alternatives."
+    },
+    {
+     "n": 45,
+     "text": "Employ reflexive knowledge-sharing throughout the research cycle, with continuous feedback loops involving staff and participants."
     }
    ]
   },
@@ -4435,6 +4992,451 @@
     {
      "n": 12,
      "text": "CHS should make its monthly public self-harm reports consistently break the data out by seriousness, separating serious from non-serious injuries as the minimum standards require."
+    }
+   ]
+  },
+  {
+   "id": "2026-02-04-buildingcongress-2026-policy-agenda",
+   "source": "outside",
+   "auditor": "New York Building Congress",
+   "title": "2026 Policy Agenda",
+   "plain_title": "The building industry's 2026 policy priorities for New York",
+   "agency": "New York City government",
+   "issued": "2026-02-04",
+   "url": "https://buildingcongress.com/report/2026-policy-agenda/",
+   "pdf": "https://buildingcongress.com/wp-content/uploads/2026/02/2026-Policy-Agenda.pdf",
+   "what_they_audited": "An annual policy agenda from the New York Building Congress, a construction industry membership association, setting out the proposals it will push for in 2026. Items are labeled as federal, state or city, and cover infrastructure funding, housing, transportation, energy, resilience, procurement, workforce and technology.",
+   "background": "The group describes itself as a membership association that brings together architects, engineers, contractors, subcontractors, labor, owners and consultants, and it says the federal Bipartisan Infrastructure Law expires in 2026.",
+   "findings": [
+    {
+     "plain": "The group names three top priorities for the year: a new federal surface transportation funding bill, changes to the 485-x housing tax break, and sustained capital budgets for state and city agencies including the Metropolitan Transportation Authority and the Port Authority of New York and New Jersey.",
+     "quote": "Securing a strong federal infrastructure bill and long-term infrastructure investments, namely"
+    },
+    {
+     "plain": "The group says New York City is on track to add far fewer homes than it believes are needed, and that closing the gap statewide would take a much larger number by 2030.",
+     "quote": "may only see about 21,000 new units in 2026,"
+    },
+    {
+     "plain": "The group says the 485-x tax incentive, created after the 421-a program expired, is not producing homebuilding at the level it thinks New York needs, and that developers are responding by building projects of exactly 99 units to stay under regulatory thresholds.",
+     "quote": "expected to have a surge in — developments of"
+    },
+    {
+     "plain": "The group says electricity demand is rising while fossil fuel generation is being retired faster than replacements are added, and that most downstate electricity still comes from natural gas.",
+     "quote": "up to 90% of that electricity is generated"
+    },
+    {
+     "plain": "The group points to permitting and siting delays and to limited transmission capacity as the main obstacles to building out the state's energy network.",
+     "quote": "significant obstacle is the inadequacy of current"
+    },
+    {
+     "plain": "The group cites an industry study reporting that most international engineering graduates educated in the United States leave the country, alongside a national shortage of engineers.",
+     "quote": "October 2025, a staggering 91% of"
+    },
+    {
+     "plain": "The group says crews repeatedly rediscover the same underground conditions because what they find is not consistently recorded and shared, which it links to delays and change orders.",
+     "quote": "consistently captured and shared with the next"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "21,000 new units in 2026",
+     "label": "New homes the group estimates the city may see"
+    },
+    {
+     "value": "800,000",
+     "label": "New homes statewide by 2030 the group calls for"
+    },
+    {
+     "value": "83,000 new homes",
+     "label": "Homes a rezoning around the IBX could allow, by its estimate"
+    },
+    {
+     "value": "100,000",
+     "label": "Homes in the city's draft Manhattan plan for the next decade"
+    },
+    {
+     "value": "$45 billion",
+     "label": "Port Authority 2026-2035 capital plan the group supports"
+    },
+    {
+     "value": "5 GW",
+     "label": "New nuclear energy goal the group backs"
+    },
+    {
+     "value": "91%",
+     "label": "Share of international engineering graduates who leave"
+    },
+    {
+     "value": "13,000",
+     "label": "New Yorkers in construction apprenticeships statewide"
+    }
+   ],
+   "recommendations": [
+    "Release federal infrastructure money faster and give New York a share reflecting its population, transit systems and contribution to federal taxes and gross domestic product.",
+    "Add worker training provisions to the next federal infrastructure bill, including new grants for industry partnerships and H-1B visa cap exemptions for government-funded infrastructure work.",
+    "Track and disclose federal infrastructure spending more fully.",
+    "Streamline and speed up environmental reviews and permitting for infrastructure projects at every level of government, and adopt changes that reduce construction costs.",
+    "Stabilize the federal Highway Trust Fund with predictable revenue so states can plan multi-year projects.",
+    "Write lasting changes to the National Environmental Policy Act into law and widen the set of projects that qualify for categorical exclusions, supporting the SPEED Act and the RESTART Act.",
+    "Expand the categories of actions exempt from review under the State Environmental Quality Review Act and adopt the state bill creating exemptions for qualifying infill and transit-oriented housing.",
+    "Create a National Infrastructure Reserve Board, an independent body modeled on the Federal Reserve with a standing appropriation, to fund state-of-good-repair and replacement needs outside the annual budget cycle.",
+    "Reevaluate, expand and fine-tune the 485-x zones for projects of 150 units or more, vary the income and wage requirements by neighborhood, and add a new bracket for the largest projects.",
+    "Treat projects using 485-x as Type 2 actions under the State Environmental Quality Review Act.",
+    "Fast-track environmental assessments for new housing and housing-related infrastructure.",
+    "Allow affordable housing to be built as of right in districts where less than 10 percent of housing rents below market.",
+    "Extend zoning exemptions in Special Transit Land Use Districts to a full half mile around each transit zone, as in the original City of Yes proposal.",
+    "Have state lawmakers prioritize senior housing in the suburbs.",
+    "Create the NYC Affordability Fund proposed by the city comptroller, deploying about $2.5 billion in pension capital toward up to 75,000 affordable homes.",
+    "Keep and expand the incentives behind office-to-residential conversions, including the City of Yes changes and the 467-m program.",
+    "Create an Interborough Express transit-oriented development special district covering land within a half mile of each planned station, and set up a Rail-to-Roof air rights market that lets nearby owners sell unused floor area into that district.",
+    "Adopt a statewide transit-oriented development framework modeled on the Massachusetts MBTA Communities law, with base densities above 15 units per acre.",
+    "For the Manhattan plan, raise residential floor area in the Special Hudson Yards District from 4 to at least 18, raise floor area around 125th Street ahead of Second Avenue Subway phase 2, reexamine historic districts for where more housing could go, sharply raise residential floor area caps to enable office conversions in districts such as the Financial District and Midtown, and deck over roadways such as the FDR Drive and tunnel approaches for housing.",
+    "Expand the budget of the U.S. Department of Housing and Urban Development, specifically Community Development Block Grants, the HOME Investment Partnerships Program and the Public Housing Capital Fund, and support the Pro-Housing Act, the INCREASE Housing Affordability Act and the Build More Housing Near Transit Act.",
+    "Accelerate the Brooklyn Marine Terminal project, including swift state approval of the General Project Plan and a federal decision to review it through an environmental assessment rather than a full environmental impact statement.",
+    "Speed up MTA change orders and invoice payments and create a formal feedback loop with the building industry to identify bottlenecks.",
+    "Rebalance risk in MTA contracts, including insurance, indemnification and bonding terms, so more qualified firms bid.",
+    "Use qualifications-based selection for MTA procurements, giving technical merit more weight with transparent scoring.",
+    "Commit to full Americans with Disabilities Act compliance across the MTA network, prioritizing high-ridership and transfer stations and publishing timelines and progress.",
+    "Expand transit-oriented development tools such as Zoning for Accessibility so private development helps pay for station accessibility while adding housing.",
+    "Fund the Gateway Program, advance the Penn Station overhaul, start Second Avenue Subway phase 2 and plan phase 3 and a 125th Street crosstown extension, advance Interborough Express design and environmental work, and pursue a full redesign of the Brooklyn-Queens Expressway with federal funding commitments.",
+    "Reuse the abandoned LIRR Rockaway Beach Branch between Rego Park and Ozone Park for both a new subway connection and a park.",
+    "Increase state funding for renewable energy projects, including onshore and offshore wind and a renewable energy hub on Rikers Island after the jails close.",
+    "Create a state-financed renewable energy fund in the budget rather than funding upgrades through utility ratepayers, pointing to bills that would tax large crypto miners and create a separate utility class for large data centers.",
+    "Shorten permitting and grid interconnection timelines at NYISO and the Office of Renewable Energy Siting and Electric Transmission, add staff, and treat clean energy projects as Type 2 actions under the State Environmental Quality Review Act.",
+    "Prioritize transmission upgrades, including directing the New York Power Authority to invest in them.",
+    "Increase funding and incentives for battery storage.",
+    "Encourage renewable natural gas where electrification is difficult and allow blending.",
+    "Run streamlined NYSERDA procurements with quarterly solicitations for large-scale renewables.",
+    "Expand large-scale geothermal in New York City through more funding, technical support and inclusion in long-term capital and energy planning.",
+    "Fully implement the streamlined federal licensing created by the ADVANCE Act to deploy advanced nuclear facilities such as small modular reactors, and support the state's 5 gigawatt nuclear goal and its advanced nuclear master plan.",
+    "Advance planning and design for the Army Corps of Engineers' New York and New Jersey Harbor and Tributaries study of storm surge barriers.",
+    "Increase the Clean Water State Revolving Fund to finance water infrastructure upgrades.",
+    "Continue the Lower Manhattan Coastal Resiliency project.",
+    "Strengthen sewage and drainage systems, targeting neighborhood-scale green infrastructure and Bluebelt-style drainage upgrades in areas that flood repeatedly.",
+    "Keep practical exemptions, flexibility and clearer good-faith guidance in Local Law 97, particularly for public health and safety facilities and nonprofits, and earmark noncompliance penalties for grid improvements or energy-efficiency retrofits.",
+    "Streamline land use reviews for hospitals and related health care facilities, along the lines of the City of Yes zoning changes.",
+    "Give health care facilities flexible Local Law 97 compliance schedules.",
+    "Create a protocol that automatically adjusts emissions calculations for health care facilities when utilities require or recommend changes in energy use during grid instability.",
+    "Improve hiring at New York City agencies by speeding up Office of Management and Budget review and approval of positions and making salaries more competitive with the private sector.",
+    "Add engineering and technical staff at the New York City comptroller's office to speed dispute determinations and improve communication about claim status.",
+    "Streamline payment requisitions and change order processing across all procurement agencies.",
+    "Create a set of pre-approved best practices for contract processes that any procurement department can adopt, with the Office of Management and Budget giving agencies flexibility to choose the approach that fits a project.",
+    "Add requisition numbers to city payments on Checkbook NYC.",
+    "Shorten bid cycles and clarify procurement so firms can recruit and retain staff.",
+    "Set more project funding as multi-year commitments with clear capital plans.",
+    "Reduce insurance and indemnification requirements so pricing reflects actual project risk.",
+    "Change the Dormitory Authority of the State of New York's procurement and risk requirements and allow public-private partnership models for university facilities.",
+    "Have government agencies buy and store critical materials up front for large projects, include larger contingency line items for material price escalation, and offer tax credits when material costs rise enough to stall a project.",
+    "Convert the New York City Department of Design and Construction into a public authority, modeled on the School Construction Authority, with multi-year bonding capacity and flexibility in project delivery methods.",
+    "Have the state authorize one-step progressive design-build for all project types and city agencies, and remove cost from the evaluation criteria for those procurements.",
+    "Expand CM-Build beyond the project types the Department of Design and Construction may now use it for, and make it available to all city agencies.",
+    "Continue the New York City Capital Process Reform Task Force under the new administration.",
+    "Have the state legislature extend authorization for joint bidding in city procurements.",
+    "Guarantee timely contract payments, especially to minority and women-owned business enterprises.",
+    "Make minority and women-owned business enterprise certification reciprocal between the state and New York City.",
+    "Create a single centralized procurement portal for minority and women-owned business enterprises across government entities.",
+    "Create a federal H-1B visa cap exemption and fast-track approval program for government-funded infrastructure, targeted at United States-educated workers in fields such as engineering, architecture, construction management and planning.",
+    "Fund childcare centers that open at 6 a.m. so early work hours do not keep people out of the workforce.",
+    "Lower fees for federal certification and required training courses, particularly those from the Occupational Safety and Health Administration.",
+    "Expand Workforce Innovation and Opportunity Act programs for youth, adults and dislocated workers.",
+    "Increase funding for public and nonprofit apprenticeship, STEAM education and job training programs in all five boroughs, and increase support for statewide training programs.",
+    "Have state lawmakers create an artificial intelligence in construction and engineering task force, with the group's innovation council represented.",
+    "Require a standard 'Human Reviewed' certification on drawings, blueprints and project plans, and set industry-wide best practices for human oversight.",
+    "Fully build out the city's 3D underground mapping initiative as a central, city-run repository of subsurface data in BIM-compatible formats, generally meeting or exceeding Quality Level B under the ASCE 38-22 standard."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "transportation",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Release federal infrastructure money faster and give New York a share reflecting its population, transit systems and contribution to federal taxes and gross domestic product."
+    },
+    {
+     "n": 2,
+     "text": "Add worker training provisions to the next federal infrastructure bill, including new grants for industry partnerships and H-1B visa cap exemptions for government-funded infrastructure work."
+    },
+    {
+     "n": 3,
+     "text": "Track and disclose federal infrastructure spending more fully."
+    },
+    {
+     "n": 4,
+     "text": "Streamline and speed up environmental reviews and permitting for infrastructure projects at every level of government, and adopt changes that reduce construction costs."
+    },
+    {
+     "n": 5,
+     "text": "Stabilize the federal Highway Trust Fund with predictable revenue so states can plan multi-year projects."
+    },
+    {
+     "n": 6,
+     "text": "Write lasting changes to the National Environmental Policy Act into law and widen the set of projects that qualify for categorical exclusions, supporting the SPEED Act and the RESTART Act."
+    },
+    {
+     "n": 7,
+     "text": "Expand the categories of actions exempt from review under the State Environmental Quality Review Act and adopt the state bill creating exemptions for qualifying infill and transit-oriented housing."
+    },
+    {
+     "n": 8,
+     "text": "Create a National Infrastructure Reserve Board, an independent body modeled on the Federal Reserve with a standing appropriation, to fund state-of-good-repair and replacement needs outside the annual budget cycle."
+    },
+    {
+     "n": 9,
+     "text": "Reevaluate, expand and fine-tune the 485-x zones for projects of 150 units or more, vary the income and wage requirements by neighborhood, and add a new bracket for the largest projects."
+    },
+    {
+     "n": 10,
+     "text": "Treat projects using 485-x as Type 2 actions under the State Environmental Quality Review Act."
+    },
+    {
+     "n": 11,
+     "text": "Fast-track environmental assessments for new housing and housing-related infrastructure."
+    },
+    {
+     "n": 12,
+     "text": "Allow affordable housing to be built as of right in districts where less than 10 percent of housing rents below market."
+    },
+    {
+     "n": 13,
+     "text": "Extend zoning exemptions in Special Transit Land Use Districts to a full half mile around each transit zone, as in the original City of Yes proposal."
+    },
+    {
+     "n": 14,
+     "text": "Have state lawmakers prioritize senior housing in the suburbs."
+    },
+    {
+     "n": 15,
+     "text": "Create the NYC Affordability Fund proposed by the city comptroller, deploying about $2.5 billion in pension capital toward up to 75,000 affordable homes."
+    },
+    {
+     "n": 16,
+     "text": "Keep and expand the incentives behind office-to-residential conversions, including the City of Yes changes and the 467-m program."
+    },
+    {
+     "n": 17,
+     "text": "Create an Interborough Express transit-oriented development special district covering land within a half mile of each planned station, and set up a Rail-to-Roof air rights market that lets nearby owners sell unused floor area into that district."
+    },
+    {
+     "n": 18,
+     "text": "Adopt a statewide transit-oriented development framework modeled on the Massachusetts MBTA Communities law, with base densities above 15 units per acre."
+    },
+    {
+     "n": 19,
+     "text": "For the Manhattan plan, raise residential floor area in the Special Hudson Yards District from 4 to at least 18, raise floor area around 125th Street ahead of Second Avenue Subway phase 2, reexamine historic districts for where more housing could go, sharply raise residential floor area caps to enable office conversions in districts such as the Financial District and Midtown, and deck over roadways such as the FDR Drive and tunnel approaches for housing."
+    },
+    {
+     "n": 20,
+     "text": "Expand the budget of the U.S. Department of Housing and Urban Development, specifically Community Development Block Grants, the HOME Investment Partnerships Program and the Public Housing Capital Fund, and support the Pro-Housing Act, the INCREASE Housing Affordability Act and the Build More Housing Near Transit Act."
+    },
+    {
+     "n": 21,
+     "text": "Accelerate the Brooklyn Marine Terminal project, including swift state approval of the General Project Plan and a federal decision to review it through an environmental assessment rather than a full environmental impact statement."
+    },
+    {
+     "n": 22,
+     "text": "Speed up MTA change orders and invoice payments and create a formal feedback loop with the building industry to identify bottlenecks."
+    },
+    {
+     "n": 23,
+     "text": "Rebalance risk in MTA contracts, including insurance, indemnification and bonding terms, so more qualified firms bid."
+    },
+    {
+     "n": 24,
+     "text": "Use qualifications-based selection for MTA procurements, giving technical merit more weight with transparent scoring."
+    },
+    {
+     "n": 25,
+     "text": "Commit to full Americans with Disabilities Act compliance across the MTA network, prioritizing high-ridership and transfer stations and publishing timelines and progress."
+    },
+    {
+     "n": 26,
+     "text": "Expand transit-oriented development tools such as Zoning for Accessibility so private development helps pay for station accessibility while adding housing."
+    },
+    {
+     "n": 27,
+     "text": "Fund the Gateway Program, advance the Penn Station overhaul, start Second Avenue Subway phase 2 and plan phase 3 and a 125th Street crosstown extension, advance Interborough Express design and environmental work, and pursue a full redesign of the Brooklyn-Queens Expressway with federal funding commitments."
+    },
+    {
+     "n": 28,
+     "text": "Reuse the abandoned LIRR Rockaway Beach Branch between Rego Park and Ozone Park for both a new subway connection and a park."
+    },
+    {
+     "n": 29,
+     "text": "Increase state funding for renewable energy projects, including onshore and offshore wind and a renewable energy hub on Rikers Island after the jails close."
+    },
+    {
+     "n": 30,
+     "text": "Create a state-financed renewable energy fund in the budget rather than funding upgrades through utility ratepayers, pointing to bills that would tax large crypto miners and create a separate utility class for large data centers."
+    },
+    {
+     "n": 31,
+     "text": "Shorten permitting and grid interconnection timelines at NYISO and the Office of Renewable Energy Siting and Electric Transmission, add staff, and treat clean energy projects as Type 2 actions under the State Environmental Quality Review Act."
+    },
+    {
+     "n": 32,
+     "text": "Prioritize transmission upgrades, including directing the New York Power Authority to invest in them."
+    },
+    {
+     "n": 33,
+     "text": "Increase funding and incentives for battery storage."
+    },
+    {
+     "n": 34,
+     "text": "Encourage renewable natural gas where electrification is difficult and allow blending."
+    },
+    {
+     "n": 35,
+     "text": "Run streamlined NYSERDA procurements with quarterly solicitations for large-scale renewables."
+    },
+    {
+     "n": 36,
+     "text": "Expand large-scale geothermal in New York City through more funding, technical support and inclusion in long-term capital and energy planning."
+    },
+    {
+     "n": 37,
+     "text": "Fully implement the streamlined federal licensing created by the ADVANCE Act to deploy advanced nuclear facilities such as small modular reactors, and support the state's 5 gigawatt nuclear goal and its advanced nuclear master plan."
+    },
+    {
+     "n": 38,
+     "text": "Advance planning and design for the Army Corps of Engineers' New York and New Jersey Harbor and Tributaries study of storm surge barriers."
+    },
+    {
+     "n": 39,
+     "text": "Increase the Clean Water State Revolving Fund to finance water infrastructure upgrades."
+    },
+    {
+     "n": 40,
+     "text": "Continue the Lower Manhattan Coastal Resiliency project."
+    },
+    {
+     "n": 41,
+     "text": "Strengthen sewage and drainage systems, targeting neighborhood-scale green infrastructure and Bluebelt-style drainage upgrades in areas that flood repeatedly."
+    },
+    {
+     "n": 42,
+     "text": "Keep practical exemptions, flexibility and clearer good-faith guidance in Local Law 97, particularly for public health and safety facilities and nonprofits, and earmark noncompliance penalties for grid improvements or energy-efficiency retrofits."
+    },
+    {
+     "n": 43,
+     "text": "Streamline land use reviews for hospitals and related health care facilities, along the lines of the City of Yes zoning changes."
+    },
+    {
+     "n": 44,
+     "text": "Give health care facilities flexible Local Law 97 compliance schedules."
+    },
+    {
+     "n": 45,
+     "text": "Create a protocol that automatically adjusts emissions calculations for health care facilities when utilities require or recommend changes in energy use during grid instability."
+    },
+    {
+     "n": 46,
+     "text": "Improve hiring at New York City agencies by speeding up Office of Management and Budget review and approval of positions and making salaries more competitive with the private sector."
+    },
+    {
+     "n": 47,
+     "text": "Add engineering and technical staff at the New York City comptroller's office to speed dispute determinations and improve communication about claim status."
+    },
+    {
+     "n": 48,
+     "text": "Streamline payment requisitions and change order processing across all procurement agencies."
+    },
+    {
+     "n": 49,
+     "text": "Create a set of pre-approved best practices for contract processes that any procurement department can adopt, with the Office of Management and Budget giving agencies flexibility to choose the approach that fits a project."
+    },
+    {
+     "n": 50,
+     "text": "Add requisition numbers to city payments on Checkbook NYC."
+    },
+    {
+     "n": 51,
+     "text": "Shorten bid cycles and clarify procurement so firms can recruit and retain staff."
+    },
+    {
+     "n": 52,
+     "text": "Set more project funding as multi-year commitments with clear capital plans."
+    },
+    {
+     "n": 53,
+     "text": "Reduce insurance and indemnification requirements so pricing reflects actual project risk."
+    },
+    {
+     "n": 54,
+     "text": "Change the Dormitory Authority of the State of New York's procurement and risk requirements and allow public-private partnership models for university facilities."
+    },
+    {
+     "n": 55,
+     "text": "Have government agencies buy and store critical materials up front for large projects, include larger contingency line items for material price escalation, and offer tax credits when material costs rise enough to stall a project."
+    },
+    {
+     "n": 56,
+     "text": "Convert the New York City Department of Design and Construction into a public authority, modeled on the School Construction Authority, with multi-year bonding capacity and flexibility in project delivery methods."
+    },
+    {
+     "n": 57,
+     "text": "Have the state authorize one-step progressive design-build for all project types and city agencies, and remove cost from the evaluation criteria for those procurements."
+    },
+    {
+     "n": 58,
+     "text": "Expand CM-Build beyond the project types the Department of Design and Construction may now use it for, and make it available to all city agencies."
+    },
+    {
+     "n": 59,
+     "text": "Continue the New York City Capital Process Reform Task Force under the new administration."
+    },
+    {
+     "n": 60,
+     "text": "Have the state legislature extend authorization for joint bidding in city procurements."
+    },
+    {
+     "n": 61,
+     "text": "Guarantee timely contract payments, especially to minority and women-owned business enterprises."
+    },
+    {
+     "n": 62,
+     "text": "Make minority and women-owned business enterprise certification reciprocal between the state and New York City."
+    },
+    {
+     "n": 63,
+     "text": "Create a single centralized procurement portal for minority and women-owned business enterprises across government entities."
+    },
+    {
+     "n": 64,
+     "text": "Create a federal H-1B visa cap exemption and fast-track approval program for government-funded infrastructure, targeted at United States-educated workers in fields such as engineering, architecture, construction management and planning."
+    },
+    {
+     "n": 65,
+     "text": "Fund childcare centers that open at 6 a.m. so early work hours do not keep people out of the workforce."
+    },
+    {
+     "n": 66,
+     "text": "Lower fees for federal certification and required training courses, particularly those from the Occupational Safety and Health Administration."
+    },
+    {
+     "n": 67,
+     "text": "Expand Workforce Innovation and Opportunity Act programs for youth, adults and dislocated workers."
+    },
+    {
+     "n": 68,
+     "text": "Increase funding for public and nonprofit apprenticeship, STEAM education and job training programs in all five boroughs, and increase support for statewide training programs."
+    },
+    {
+     "n": 69,
+     "text": "Have state lawmakers create an artificial intelligence in construction and engineering task force, with the group's innovation council represented."
+    },
+    {
+     "n": 70,
+     "text": "Require a standard 'Human Reviewed' certification on drawings, blueprints and project plans, and set industry-wide best practices for human oversight."
+    },
+    {
+     "n": 71,
+     "text": "Fully build out the city's 3D underground mapping initiative as a central, city-run repository of subsurface data in BIM-compatible formats, generally meeting or exceeding Quality Level B under the ASCE 38-22 standard."
     }
    ]
   },
@@ -8848,6 +9850,108 @@
    ]
   },
   {
+   "id": "2025-11-17-afc-reconnecting-to-opportunity",
+   "source": "outside",
+   "auditor": "Advocates for Children of New York",
+   "title": "Reconnecting to Opportunity: Advancing Educational Equity for Court-Involved Students",
+   "plain_title": "Schooling for young people in and leaving city detention",
+   "agency": "New York City Public Schools",
+   "issued": "2025-11-17",
+   "url": "https://advocatesforchildren.org/policy-resource/reconnecting-to-opportunity/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/reconnecting_to_opportunity.pdf",
+   "what_they_audited": "A policy brief from Advocates for Children of New York reviewing the first two years of city data on schooling for young people held in juvenile detention or placement. It covers who attends Passages Academy, the school that serves them, what instruction they receive and what happens when they return to a community school.",
+   "background": "A December 2023 City Council law requires New York City Public Schools and the city Administration for Children's Services to report each year on educational programming for young people in juvenile detention or placement. All students in those settings are taught through Passages Academy, a public school run by District 79, the citywide district for alternative schools and programs.",
+   "findings": [
+    {
+     "plain": "Students held in detention or placement are far more likely than other city secondary students to be classified as having a disability, especially an emotional disability.",
+     "quote": "Compared to all New York City students in grades 7–12, youth in juvenile detention or placement in 2023–24 and 2024–25 were almost twice as likely to have learning disabilities and more than 17 times as likely to be labeled as students with emotional disabilities."
+    },
+    {
+     "plain": "Black students, boys, students with individualized education programs and students in foster care make up much larger shares of the Passages population than of the school system overall.",
+     "quote": "61.6% were Black, though Black students comprised only a quarter of overall enrollment."
+    },
+    {
+     "plain": "Reading and math screening scores on entry to Passages were far below grade level for at least half of the students tested.",
+     "quote": "At least half of students scored at the fifth percentile or below in reading upon entering Passages in 2023–24, meaning they performed worse than 95% of their grade-level peers; in 2024–25, at least half of students were reading at the twelfth percentile or below upon enrollment."
+    },
+    {
+     "plain": "Many students with disabilities waited longer than the law allows for the plan that sets out the special education services they are to receive.",
+     "quote": "a total 16.5% of students with IEPs did not receive a SEP within a month of enrolling at Passages Academy"
+    },
+    {
+     "plain": "Nearly a quarter of students learning English received no English as a new language instruction while in city custody.",
+     "quote": "of the 216 ELLs who were enrolled during the 2023–24 and 2024–25 school years, nearly a quarter (23.6%) received no English as a New Language (ENL)"
+    },
+    {
+     "plain": "Students who returned to a community school after release attended less than half the time, with rates lowest for the oldest students.",
+     "quote": "In 2023–24, the median attendance rate for the 227 students for whom data are available was just 49%, meaning that at least half of these young people missed more days of school than they attended"
+    },
+    {
+     "plain": "The city left several data points required by the reporting law out of its published reports, without explaining the omissions.",
+     "quote": "The published report provides no explanation for why any such data were omitted."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "1,850",
+     "label": "Student enrollments at Passages Academy over two years"
+    },
+    {
+     "value": "16.5%",
+     "label": "Students with IEPs who waited over a month for a plan"
+    },
+    {
+     "value": "23.6%",
+     "label": "English language learners who got no ENL instruction"
+    },
+    {
+     "value": "49%",
+     "label": "Median attendance after returning to school, 2023-24"
+    },
+    {
+     "value": "42%",
+     "label": "Median attendance after returning to school, 2024-25"
+    },
+    {
+     "value": "32.7%",
+     "label": "Share of Passages students in the foster system"
+    }
+   ],
+   "recommendations": [
+    "Expand access to behavioral and mental health services in the public schools, create more therapeutic school options and specialized programming for students with behavioral or emotional challenges and give middle and high school students who struggle with reading intensive intervention: a mental health clinic or community provider partnership in every school, at least one behavioral specialist per district, a larger PATH program, more short- and long-term therapeutic school options and a reading intervention system built into the next phase of NYC Reads.",
+    "Make sure students in detention or placement can attend school every day, that students with disabilities receive appropriate evaluations and services and that all English language learners receive English as a new language instruction, including by adding school psychologists, related service providers and other special education staff at Passages sites.",
+    "Improve the transition out of detention or placement by increasing the number of transition specialists in secure facilities so every student leaves with an education plan and follow-up support, and by training staff at Family Welcome Centers on the needs of court-involved youth and the full range of school options open to them.",
+    "Report all of the data that Local Law 21 of 2024 requires, including the indicators left out of the published reports."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "children and youth",
+    "public safety"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Expand access to behavioral and mental health services in the public schools, create more therapeutic school options and specialized programming for students with behavioral or emotional challenges and give middle and high school students who struggle with reading intensive intervention: a mental health clinic or community provider partnership in every school, at least one behavioral specialist per district, a larger PATH program, more short- and long-term therapeutic school options and a reading intervention system built into the next phase of NYC Reads."
+    },
+    {
+     "n": 2,
+     "text": "Make sure students in detention or placement can attend school every day, that students with disabilities receive appropriate evaluations and services and that all English language learners receive English as a new language instruction, including by adding school psychologists, related service providers and other special education staff at Passages sites."
+    },
+    {
+     "n": 3,
+     "text": "Improve the transition out of detention or placement by increasing the number of transition specialists in secure facilities so every student leaves with an education plan and follow-up support, and by training staff at Family Welcome Centers on the needs of court-involved youth and the full range of school options open to them."
+    },
+    {
+     "n": 4,
+     "text": "Report all of the data that Local Law 21 of 2024 requires, including the indicators left out of the published reports."
+    }
+   ]
+  },
+  {
    "id": "2025-11-12-cbc-nyc-budget-blueprint",
    "source": "outside",
    "auditor": "Citizens Budget Commission",
@@ -9076,6 +10180,163 @@
     {
      "n": 1,
      "text": "Officials are asked, though not required, to report within 30 days on any actions planned to address the unresolved issues."
+    }
+   ]
+  },
+  {
+   "id": "2025-11-01-dcj-rikers-mental-health-diversion",
+   "source": "outside",
+   "auditor": "Data Collaborative for Justice at John Jay College",
+   "title": "Rikers Island and Mental Health: Pathways Toward Community-Based Diversion and Jail Population Reduction",
+   "plain_title": "Mental health needs at Rikers and ways to divert people",
+   "agency": "New York City government",
+   "issued": "2025-11-01",
+   "url": "https://datacollaborativeforjustice.org/work/diversion/rikers-island-and-mental-health-pathways-toward-community-based-diversion-and-jail-population-reduction/",
+   "pdf": "https://datacollaborativeforjustice.org/wp-content/uploads/2025/11/Katal_DCJ_Report_.pdf",
+   "what_they_audited": "A research and policy brief from the Data Collaborative for Justice at John Jay College and the Katal Center for Equity, Health, and Justice presenting current data on mental health needs in the New York City jails, four case studies and 15 policy proposals for diverting people into community-based treatment.",
+   "background": "The City Council voted in 2019 to close the jails on Rikers Island and build smaller jails in four boroughs, and later set a legal deadline of August 31, 2027. The replacement jails plus more than 300 secure hospital beds are planned to hold about 4,200 people a day, while the current jail population is close to 7,000.",
+   "findings": [
+    {
+     "plain": "The share of people in the city jails receiving mental health services and the share with a serious mental illness both rose between 2020 and 2025.",
+     "quote": "the fraction of the jail population receiving mental health services climbed from 44% to 60%,6 and the fraction diagnosed with a serious mental illness rose from 17% to 22%"
+    },
+    {
+     "plain": "The authors describe Rikers as the city's largest mental health facility.",
+     "quote": "Today, Rikers is the largest mental health facility in New York City and among the largest in the country."
+    },
+    {
+     "plain": "Most people in the jails are held before trial, and Black New Yorkers make up a much larger share of the jail population than of the city's population.",
+     "quote": "Currently, close to 7,000 people are held in the City’s jails, of whom 85% have been detained before trial. Black people make up 58% of the jail population, compared to 23% of the City’s general population."
+    },
+    {
+     "plain": "Missed medical appointments in the jails have risen sharply since 2020.",
+     "quote": "In September 2025, there were 15,823 missed medical appointments compared to 3,626 in September 2020."
+    },
+    {
+     "plain": "People flagged for mental health needs are held longer than other people in the jails.",
+     "quote": "people in the latest jail population needing mental health services had been held for 281 days, compared to 212 days for people not needing such services"
+    },
+    {
+     "plain": "Women in the jails need mental health services at a higher rate than men.",
+     "quote": "Of close to 500 women jailed at Rikers as of October 2025, 87% have needed mental health services, compared to 58% of men."
+    },
+    {
+     "plain": "The city's mental health courts serve a small fraction of arraigned cases.",
+     "quote": "New York City’s mental health courts, which enrolled less than 360 participants (representing 0.2% of arraigned cases) in 2023"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "nearly 7,000",
+     "label": "People held in the city jails"
+    },
+    {
+     "value": "60%",
+     "label": "Share of jail population with documented mental health needs"
+    },
+    {
+     "value": "22%",
+     "label": "Share diagnosed with a serious mental illness"
+    },
+    {
+     "value": "15,823",
+     "label": "Missed medical appointments in September 2025"
+    },
+    {
+     "value": "281 days",
+     "label": "Average stay for people needing mental health services"
+    },
+    {
+     "value": "August 31, 2027",
+     "label": "Legal deadline to end incarceration at Rikers"
+    }
+   ],
+   "recommendations": [
+    "Seek to maximize approved use of available New York State opioid settlement funds to pay for the steps in this report.",
+    "Meet the needs of people with both drug and mental health disorders by establishing more dedicated residential treatment beds, training people with lived experience to provide peer support, offering training to service providers and improving public data on the dually diagnosed population at Rikers.",
+    "Increase the number of Justice Involved Supportive Housing slots and fix the late rollout of the housing the City Council has already approved.",
+    "Expand transitional and emergency housing beds as alternatives to detention for people who would otherwise leave jail without stable housing.",
+    "Pair in-home treatment with case management for severely mentally ill people who have somewhere to live, using models such as Health Homes, Assertive Community Treatment teams, Forensic Assertive Community Treatment teams and Intensive Mobile Treatment.",
+    "Fund dedicated outpatient slots for a range of mental health needs among justice-involved people, along with provider training and investment in evidence-based treatment.",
+    "Ensure care continues at reentry, building on existing efforts such as Osborne Kinship Reentry Housing and clubhouse models in community drop-in settings.",
+    "Create and fund community-based treatment options in place of jail for people in mental competency proceedings at each of three stages: awaiting an assessment, after being found unfit to stand trial and after being restored to competency.",
+    "Pass the Treatment Court Expansion Act or similar legislation letting judges order a clinical assessment and enroll anyone found to have a functional impairment in a mental health court, whatever the charge.",
+    "Implement mental health courts well and take other steps to support clinically informed decisions, including training judges in mental illness, how the courts operate and how effective they are with different groups, including people charged with a violent felony.",
+    "Give the courts regularly scheduled updates on the prevalence of mental illness and the latest data on conditions at Rikers Island.",
+    "Inform and train judges, prosecutors and defense attorneys about the community-based treatment and housing options available.",
+    "Coordinate closely with treatment providers, including written protocols for how courts and court-based case managers can quickly place people in treatment or housing slots set aside for system-involved people.",
+    "Set up procedures for individual assessments to identify suitable community-based release options in place of jail, including mental health screening at or just after arraignment, protocols for telling the court a release recommendation right after jail intake, regular reassessment of people who stay in jail, ongoing monitoring of admission and discharge trends and protocols protecting client confidentiality.",
+    "Act quickly to open the 350 promised secure hospital beds outside the jails for people with a serious medical condition or mental illness, while considering whether more such beds are needed."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "health",
+    "housing"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Seek to maximize approved use of available New York State opioid settlement funds to pay for the steps in this report."
+    },
+    {
+     "n": 2,
+     "text": "Meet the needs of people with both drug and mental health disorders by establishing more dedicated residential treatment beds, training people with lived experience to provide peer support, offering training to service providers and improving public data on the dually diagnosed population at Rikers."
+    },
+    {
+     "n": 3,
+     "text": "Increase the number of Justice Involved Supportive Housing slots and fix the late rollout of the housing the City Council has already approved."
+    },
+    {
+     "n": 4,
+     "text": "Expand transitional and emergency housing beds as alternatives to detention for people who would otherwise leave jail without stable housing."
+    },
+    {
+     "n": 5,
+     "text": "Pair in-home treatment with case management for severely mentally ill people who have somewhere to live, using models such as Health Homes, Assertive Community Treatment teams, Forensic Assertive Community Treatment teams and Intensive Mobile Treatment."
+    },
+    {
+     "n": 6,
+     "text": "Fund dedicated outpatient slots for a range of mental health needs among justice-involved people, along with provider training and investment in evidence-based treatment."
+    },
+    {
+     "n": 7,
+     "text": "Ensure care continues at reentry, building on existing efforts such as Osborne Kinship Reentry Housing and clubhouse models in community drop-in settings."
+    },
+    {
+     "n": 8,
+     "text": "Create and fund community-based treatment options in place of jail for people in mental competency proceedings at each of three stages: awaiting an assessment, after being found unfit to stand trial and after being restored to competency."
+    },
+    {
+     "n": 9,
+     "text": "Pass the Treatment Court Expansion Act or similar legislation letting judges order a clinical assessment and enroll anyone found to have a functional impairment in a mental health court, whatever the charge."
+    },
+    {
+     "n": 10,
+     "text": "Implement mental health courts well and take other steps to support clinically informed decisions, including training judges in mental illness, how the courts operate and how effective they are with different groups, including people charged with a violent felony."
+    },
+    {
+     "n": 11,
+     "text": "Give the courts regularly scheduled updates on the prevalence of mental illness and the latest data on conditions at Rikers Island."
+    },
+    {
+     "n": 12,
+     "text": "Inform and train judges, prosecutors and defense attorneys about the community-based treatment and housing options available."
+    },
+    {
+     "n": 13,
+     "text": "Coordinate closely with treatment providers, including written protocols for how courts and court-based case managers can quickly place people in treatment or housing slots set aside for system-involved people."
+    },
+    {
+     "n": 14,
+     "text": "Set up procedures for individual assessments to identify suitable community-based release options in place of jail, including mental health screening at or just after arraignment, protocols for telling the court a release recommendation right after jail intake, regular reassessment of people who stay in jail, ongoing monitoring of admission and discharge trends and protocols protecting client confidentiality."
+    },
+    {
+     "n": 15,
+     "text": "Act quickly to open the 350 promised secure hospital beds outside the jails for people with a serious medical condition or mental illness, while considering whether more such beds are needed."
     }
    ]
   },
@@ -9708,6 +10969,131 @@
    ],
    "is_followup": false,
    "rec_display": []
+  },
+  {
+   "id": "2025-10-21-buildingcongress-construction-outlook-2025-2027",
+   "source": "outside",
+   "auditor": "New York Building Congress",
+   "title": "2025-2027 New York City Construction Outlook Report",
+   "plain_title": "Three-year forecast for New York City construction",
+   "agency": "New York City government",
+   "issued": "2025-10-21",
+   "url": "https://buildingcongress.com/report/2025-2027-new-york-city-construction-outlook-report/",
+   "pdf": "https://buildingcongress.com/wp-content/uploads/2025/10/2025-Construction-Outlook.pdf",
+   "what_they_audited": "A forecast report from the New York Building Congress projecting construction spending, employment and building activity in New York City through 2027, closing with a set of policy proposals aimed at federal, state and city government.",
+   "background": "The report tracks residential, non-residential and government construction spending in the five boroughs, drawing on federal spending data and city building permit records.",
+   "findings": [
+    {
+     "plain": "Construction spending is projected to hold roughly flat once inflation is taken into account.",
+     "quote": "In today’s dollars, spending is expected to dip from roughly $74 billion in 2025 to about $69 billion in 2026 before edging back up to $75.3 billion in 2027"
+    },
+    {
+     "plain": "Construction employment is projected to stay near current levels through 2027.",
+     "quote": "The Building Congress anticipates employment in the construction of buildings, heavy and civil engineering, and specialty trades to total 139,000 jobs in 2025, and 140,000 in 2026 and"
+    },
+    {
+     "plain": "Residential permits are expected to fall sharply from 2024 while remaining well above 2023.",
+     "quote": "In the residential sector, building permits are expected to be issued for nearly 19,000 new units in 2025, onethird less than in 2024, but still double the volume of 2023."
+    },
+    {
+     "plain": "Borrowing costs are named as a main reason activity has slowed.",
+     "quote": "Higher borrowing costs remain a key reason for reduced industry activity."
+    },
+    {
+     "plain": "The report says firms are holding back on large spending until conditions become clearer.",
+     "quote": "Many firms and private sector investors are choosing to delay large expenditures until conditions become more predictable or until interest rates are cut."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$74 billion",
+     "label": "Forecast city construction spending in 2025"
+    },
+    {
+     "value": "$219 billion",
+     "label": "Forecast three-year spending, inflation-adjusted"
+    },
+    {
+     "value": "139,000",
+     "label": "Forecast construction jobs in 2025"
+    },
+    {
+     "value": "nearly 19,000 new units",
+     "label": "Residential units expected to be permitted in 2025"
+    },
+    {
+     "value": "111,350",
+     "label": "Residential units authorized by permits since 2020"
+    }
+   ],
+   "recommendations": [
+    "Release Surface Transportation Reauthorization funding quickly and ensure New York gets a share matching its population, the size of its public transit systems and what it contributes to the federal tax base and gross domestic product.",
+    "Establish a federal infrastructure bank so that infrastructure investment continues nationwide.",
+    "Improve and reform project delivery methods and procurement so projects move faster and with more flexibility.",
+    "Streamline project approvals through land use reform, including the housing measures in the City of Yes plan.",
+    "Reform permitting and National Environmental Policy Act review to speed up environmental reviews, through legislation such as the RESTART Act.",
+    "Invest further in workforce training and development at all levels of government.",
+    "Maintain robust capital budgets and adequate staffing at state and city agencies, including public authorities.",
+    "Advance and broaden opportunities for minority- and women-owned business enterprises and develop policies that give those firms meaningful economic prospects.",
+    "Broaden and expand the development incentives in the Affordable Neighborhoods for New Yorkers tax incentive program, known as 485-x.",
+    "Invest in citywide resiliency measures to protect at-risk communities and critical infrastructure from extreme weather.",
+    "Invest significantly in energy infrastructure and grid networks, including battery energy storage systems, to keep energy reliable as usage grows."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "money and contracts",
+    "labor"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Release Surface Transportation Reauthorization funding quickly and ensure New York gets a share matching its population, the size of its public transit systems and what it contributes to the federal tax base and gross domestic product."
+    },
+    {
+     "n": 2,
+     "text": "Establish a federal infrastructure bank so that infrastructure investment continues nationwide."
+    },
+    {
+     "n": 3,
+     "text": "Improve and reform project delivery methods and procurement so projects move faster and with more flexibility."
+    },
+    {
+     "n": 4,
+     "text": "Streamline project approvals through land use reform, including the housing measures in the City of Yes plan."
+    },
+    {
+     "n": 5,
+     "text": "Reform permitting and National Environmental Policy Act review to speed up environmental reviews, through legislation such as the RESTART Act."
+    },
+    {
+     "n": 6,
+     "text": "Invest further in workforce training and development at all levels of government."
+    },
+    {
+     "n": 7,
+     "text": "Maintain robust capital budgets and adequate staffing at state and city agencies, including public authorities."
+    },
+    {
+     "n": 8,
+     "text": "Advance and broaden opportunities for minority- and women-owned business enterprises and develop policies that give those firms meaningful economic prospects."
+    },
+    {
+     "n": 9,
+     "text": "Broaden and expand the development incentives in the Affordable Neighborhoods for New Yorkers tax incentive program, known as 485-x."
+    },
+    {
+     "n": 10,
+     "text": "Invest in citywide resiliency measures to protect at-risk communities and critical infrastructure from extreme weather."
+    },
+    {
+     "n": 11,
+     "text": "Invest significantly in energy infrastructure and grid networks, including battery energy storage systems, to keep energy reliable as usage grows."
+    }
+   ]
   },
   {
    "id": "audit-on-the-effectiveness-of-the-mayors-office-of-housing-recovery-operations-build-it-back-program",
@@ -12495,6 +13881,106 @@
    ]
   },
   {
+   "id": "2025-09-01-researchalliance-cs4all-student-outcomes",
+   "source": "outside",
+   "auditor": "Research Alliance for New York City Schools",
+   "title": "Evaluating the Outcomes of Students Taking Computer Science in NYC Schools: Insights from the CS4All Initiative",
+   "plain_title": "What students got out of computer science classes in city schools",
+   "agency": "New York City Public Schools",
+   "issued": "2025-09-01",
+   "url": "https://steinhardt.nyu.edu/research-alliance/research/evaluating-outcomes-students-taking-computer-science-nyc-schools",
+   "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-09/CS%20Student%20Outcomes%20Report%209.4.25.pdf",
+   "what_they_audited": "A research report from the Research Alliance for New York City Schools at New York University examining short- and longer-term outcomes for students who took computer science courses under the city's Computer Science for All initiative, including attitudes, computational thinking skills, test scores, later course-taking and college major choice.",
+   "background": "Computer Science for All, known as CS4All, launched in 2015 with the goal of giving every public school student at least one meaningful computer science experience in each grade band. Computer science is usually folded into other classes in the elementary grades and offered as a stand-alone course in middle and high school.",
+   "findings": [
+    {
+     "plain": "Students' scores on a computational thinking assessment rose over the course of instruction, with the clearest gains in elementary school.",
+     "quote": "Students in grades 3-12 showed significant and in some cases substantial increases in their scores on an assessment of computational thinking (CT) skills given at the beginning and the end of CS instruction. These gains were larger and more consistent in elementary school than in middle and high school."
+    },
+    {
+     "plain": "Student attitudes moved in both directions: confidence and a sense of representation rose slightly, while enjoyment and belonging slipped a little.",
+     "quote": "Students reported small but statistically significant increases in confidence in their CS abilities and in their experience of cultural representation from the beginning to the end of CS instruction. However, there were slight decreases in areas where students initially held strong positive attitudes, such as feeling engaged in and liking CS, having a sense of belonging in CS, and seeing it as valuable."
+    },
+    {
+     "plain": "Gaps by gender and race or ethnicity in skills and attitudes were wider in the higher grades.",
+     "quote": "The changes in students’ CT skills, and in their attitudes and dispositions toward CS, following CS instruction varied by gender and race/ethnicity. Gaps were larger in the higher grade levels."
+    },
+    {
+     "plain": "Taking computer science was not linked to better English or math test results.",
+     "quote": "CS course-taking was not associated with improved performance on state standardized tests or formative assessments of English language arts and mathematics."
+    },
+    {
+     "plain": "How many computer science courses a school offered predicted whether students took one, more than a student's own prior experience did.",
+     "quote": "Elementary and middle school students’ prior CS experience did not predict subsequent CS course-taking. Instead, the analyses reveal that the more CS courses students had access to at their schools, the more likely they were to take CS."
+    },
+    {
+     "plain": "High school computer science was linked to declaring a computer science major at the City University of New York, with the strongest link for female and non-Asian students.",
+     "quote": "Taking a CS course in high school was correlated with an increase in CS major declaration in CUNY schools. We also found evidence that CS course-taking in high school may help reduce gender and race/ethnicity gaps in CS majors, with the potential to improve representation in CS careers."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "45 percent",
+     "label": "Share of schools offering computer science in 2023"
+    },
+    {
+     "value": "92 percent",
+     "label": "Share that had offered it within the prior three or four years"
+    },
+    {
+     "value": "3,000",
+     "label": "Teachers who had taken CS4All professional learning by 2024"
+    },
+    {
+     "value": "400",
+     "label": "Teachers trained per year on average"
+    }
+   ],
+   "recommendations": [
+    "Embed culturally responsive practices in computer science instruction as a core part of teacher and school capacity building, and study those practices further so they can be extended to the higher grades where gaps are widest.",
+    "Build on the stronger results in elementary school and keep supporting computer science integrated into core subjects.",
+    "Invest in more research into the difficulties of teaching computer science in middle and high school, and have district leaders evaluate the range of classes offered with a view to strengthening materials and building aligned pathways across schools and grade levels.",
+    "Identify assessments and data systems that measure student computer science skills against New York State computer science and digital fluency standards, tracking curricula, teacher experience, content, type of instruction and student outcomes over time.",
+    "Address barriers to course availability and participation, especially at schools serving larger numbers of Black and Latinx students, by increasing the number of courses offered and removing structural and social barriers to enrolling.",
+    "Use high school computer science to widen postsecondary participation, including by considering making a computer science course a graduation requirement and offering entry-level courses such as AP Computer Science Principles that do not require prior computer science or advanced math."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "technology",
+    "children and youth"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Embed culturally responsive practices in computer science instruction as a core part of teacher and school capacity building, and study those practices further so they can be extended to the higher grades where gaps are widest."
+    },
+    {
+     "n": 2,
+     "text": "Build on the stronger results in elementary school and keep supporting computer science integrated into core subjects."
+    },
+    {
+     "n": 3,
+     "text": "Invest in more research into the difficulties of teaching computer science in middle and high school, and have district leaders evaluate the range of classes offered with a view to strengthening materials and building aligned pathways across schools and grade levels."
+    },
+    {
+     "n": 4,
+     "text": "Identify assessments and data systems that measure student computer science skills against New York State computer science and digital fluency standards, tracking curricula, teacher experience, content, type of instruction and student outcomes over time."
+    },
+    {
+     "n": 5,
+     "text": "Address barriers to course availability and participation, especially at schools serving larger numbers of Black and Latinx students, by increasing the number of courses offered and removing structural and social barriers to enrolling."
+    },
+    {
+     "n": 6,
+     "text": "Use high school computer science to widen postsecondary participation, including by considering making a computer science course a graduation requirement and offering entry-level courses such as AP Computer Science Principles that do not require prior computer science or advanced math."
+    }
+   ]
+  },
+  {
    "id": "peer-review-final-report",
    "source": "nyc",
    "auditor": "New York City Comptroller",
@@ -14649,6 +16135,223 @@
    ]
   },
   {
+   "id": "2025-06-26-buildingcongress-ibx-housing",
+   "source": "outside",
+   "auditor": "New York Building Congress",
+   "title": "Housing and the Interborough Express: Tackling New York City's Housing Crisis One Stop at a Time",
+   "plain_title": "Rezoning ideas for housing along the Interborough Express",
+   "agency": "New York City Department of City Planning",
+   "issued": "2025-06-26",
+   "url": "https://buildingcongress.com/report/2025-ibx-report/",
+   "pdf": "https://buildingcongress.com/wp-content/uploads/2025/06/2025-IBX-Report.pdf",
+   "what_they_audited": "A research and advocacy report from the New York Building Congress scoring the land around each proposed Interborough Express station for its readiness to take new housing, testing several rezoning scenarios and proposing a zoning strategy for the corridor.",
+   "background": "The Interborough Express is a planned 14-mile transit line that would reuse an existing rail right-of-way to link parts of Brooklyn and Queens without routing riders through Manhattan, with 19 stations between the Brooklyn Army Terminal and Jackson Heights.",
+   "findings": [
+    {
+     "plain": "The line would connect a large share of the transit network across two boroughs and carry substantial daily ridership under initial estimates.",
+     "quote": "The proposed IBX introduces 19 new stations between Brooklyn Army Terminal and Jackson Heights, connecting 17 subway lines, LIRR stops, and dozens of bus stations across Brooklyn and Queens."
+    },
+    {
+     "plain": "The report sets a corridor density target and calculates how many homes it would take to reach it.",
+     "quote": "At 50 dwelling units per acre across the IBX route, we get a target number of 70,925 new homes needed across the entire IBX route."
+    },
+    {
+     "plain": "Existing zoning already allows a large theoretical build-out along the route.",
+     "quote": "Under current zoning laws, we estimate that the theoretical maximum build-out within the IBX route, to be around 479,000 units."
+    },
+    {
+     "plain": "Of the scenarios tested, a mixed approach combining modest residential upzoning with conversion of manufacturing and commercial land scored best.",
+     "quote": "We recommend a mixed approach: both low- and high-density residential areas paired with more aggressive rezoning of manufacturing and commercial districts."
+    },
+    {
+     "plain": "Station areas differ widely in how ready they are for new housing.",
+     "quote": "Our analysis makes it clear that the areas surrounding IBX stations vary dramatically in their readiness to accommodate new homes."
+    },
+    {
+     "plain": "A Long Island City case study is used to show the gap between zoned capacity and what actually gets built.",
+     "quote": "LIC saw 53.6% of its zoned capacity realized over a ten-year horizon, illustrating the difference between theoretical and actual development outcomes."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "19 new stations",
+     "label": "Stations proposed along the Interborough Express"
+    },
+    {
+     "value": "70,925",
+     "label": "New homes needed to hit the corridor density target"
+    },
+    {
+     "value": "479,000 units",
+     "label": "Theoretical maximum build-out under current zoning"
+    },
+    {
+     "value": "83,059",
+     "label": "Units the recommended rezoning scenario would add"
+    },
+    {
+     "value": "50 dwelling units per acre",
+     "label": "Density target set for the corridor"
+    }
+   ],
+   "recommendations": [
+    "Create an Interborough Express transit-oriented development special district along the whole route, enacting a broad rezoning in the manner of City of Yes, with a clear standardized floor area bonus for affordable housing throughout the district.",
+    "Rezone that special district using the report's Scenario 5 as the model: modest upzoning in both low- and high-density residential districts, more aggressive conversion of underbuilt manufacturing and commercial zones and a first focus on the quick win areas that would deliver the largest short-term gains.",
+    "Expand mixed-use zoning along the route to protect jobs while increasing housing density.",
+    "Create a rail-to-roof air rights marketplace letting sites next to or above the right-of-way sell unused floor area to designated receiving sites within the district, modeled on East Midtown zoning, with a share of each transfer fee going to a corridor capital fund for station accessibility and streetscape decking."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "transportation"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create an Interborough Express transit-oriented development special district along the whole route, enacting a broad rezoning in the manner of City of Yes, with a clear standardized floor area bonus for affordable housing throughout the district."
+    },
+    {
+     "n": 2,
+     "text": "Rezone that special district using the report's Scenario 5 as the model: modest upzoning in both low- and high-density residential districts, more aggressive conversion of underbuilt manufacturing and commercial zones and a first focus on the quick win areas that would deliver the largest short-term gains."
+    },
+    {
+     "n": 3,
+     "text": "Expand mixed-use zoning along the route to protect jobs while increasing housing density."
+    },
+    {
+     "n": 4,
+     "text": "Create a rail-to-roof air rights marketplace letting sites next to or above the right-of-way sell unused floor area to designated receiving sites within the district, modeled on East Midtown zoning, with a share of each transfer fee going to a corridor capital fund for station accessibility and streetscape decking."
+    }
+   ]
+  },
+  {
+   "id": "2025-06-13-islg-social-service-navigation-blueprint",
+   "source": "outside",
+   "auditor": "CUNY Institute for State and Local Governance",
+   "title": "A Blueprint for Social Service Navigation in NYC and Beyond",
+   "plain_title": "How to run programs that connect New Yorkers to services",
+   "agency": "New York City government",
+   "issued": "2025-06-13",
+   "url": "https://islg.cuny.edu/resources/service-navigation-blueprint",
+   "pdf": "https://islg.cuny.edu/s/A-Blueprint-for-Social-Service-Navigation-in-NYC-and-Beyond-June-2025.pdf",
+   "what_they_audited": "A research and policy brief from the City University of New York Institute for State and Local Governance drawing lessons from three New York City service navigation efforts it helped manage, and setting out practices for government, funders and service providers that invest in helping residents find and use social services.",
+   "background": "The brief draws on the Community Navigators Program, the Neighborhood Navigators initiative and a scan of the city's service navigation landscape. The Community Navigators Program was funded through the Criminal Justice Investment Initiative, which the Manhattan District Attorney's Office set up in 2015 to invest $250 million in public safety and criminal legal system projects.",
+   "findings": [
+    {
+     "plain": "Across its life, the Community Navigators Program reached close to 2,000 residents and most left with at least some of their needs met.",
+     "quote": "Throughout the lifetime of the CNP, Community Navigators worked with almost 2,000 neighborhood residents. About 60 percent of those participants exited the program with service linkages that met some (23 percent) or all (37 percent) of their identified needs."
+    },
+    {
+     "plain": "The program worked well for people who had not used any service in the months before enrolling.",
+     "quote": "Among participants who had not utilized a service within six months prior to enrollment, 71 percent exited the program with a successful connection, demonstrating the program’s effectiveness in serving those most in need of support."
+    },
+    {
+     "plain": "Navigators were hired for their local ties and lived experience rather than credentials.",
+     "quote": "Between 2017 and 2021, the CNP hired 25 Navigators with a range of qualifications and lived experiences. Three-quarters (76 percent) lived in, or had significant connections to, the East Harlem community."
+    },
+    {
+     "plain": "Hiring staff with lived experience meant the programs also had to attend to those staff members' own needs.",
+     "quote": "It was not uncommon for Navigators to require similar services as the participants they served."
+    },
+    {
+     "plain": "The brief argues that counting referrals alone does not capture whether navigation worked.",
+     "quote": "Accordingly, accessing a service alone does not indicate whether it was appropriate and impactful."
+    },
+    {
+     "plain": "Partner organizations reported that the work changed their own practice and their view of cross-organization collaboration.",
+     "quote": "many partners described how their work with the CNP instilled a newfound belief that cross-organizational work is not only possible but has the potential to be transformative"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "almost 2,000",
+     "label": "Residents served by the Community Navigators Program"
+    },
+    {
+     "value": "60 percent",
+     "label": "Participants who left with some or all needs met"
+    },
+    {
+     "value": "71 percent",
+     "label": "Success rate for those who had used no service before"
+    },
+    {
+     "value": "25 Navigators",
+     "label": "Navigators hired between 2017 and 2021"
+    },
+    {
+     "value": "$250 million",
+     "label": "Criminal Justice Investment Initiative investment"
+    }
+   ],
+   "recommendations": [
+    "Reach participants where they are, offering multiple ways into the program and targeting recruitment to the community being served.",
+    "Build trust with participants through shared values and experiences.",
+    "Understand the barriers that keep people from engaging with services.",
+    "Tailor engagement strategies to what each participant prefers.",
+    "Assess whether a referral actually fits the participant before making it.",
+    "Follow up with participants and with partners after a referral to confirm the service was a fit.",
+    "Develop resilient referral networks built around the specific needs of the population a program serves.",
+    "Help navigation staff develop professionally, with training, professional development and salaries that reflect the value of the work.",
+    "Provide support to navigation staff, including attention to their wellbeing and to trauma they may carry from their own experience.",
+    "Assess impact in responsive ways, measuring at the participant, community, organizational and service sector levels and updating measures as a program changes."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "social services",
+    "health",
+    "labor"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Reach participants where they are, offering multiple ways into the program and targeting recruitment to the community being served."
+    },
+    {
+     "n": 2,
+     "text": "Build trust with participants through shared values and experiences."
+    },
+    {
+     "n": 3,
+     "text": "Understand the barriers that keep people from engaging with services."
+    },
+    {
+     "n": 4,
+     "text": "Tailor engagement strategies to what each participant prefers."
+    },
+    {
+     "n": 5,
+     "text": "Assess whether a referral actually fits the participant before making it."
+    },
+    {
+     "n": 6,
+     "text": "Follow up with participants and with partners after a referral to confirm the service was a fit."
+    },
+    {
+     "n": 7,
+     "text": "Develop resilient referral networks built around the specific needs of the population a program serves."
+    },
+    {
+     "n": 8,
+     "text": "Help navigation staff develop professionally, with training, professional development and salaries that reflect the value of the work."
+    },
+    {
+     "n": 9,
+     "text": "Provide support to navigation staff, including attention to their wellbeing and to trauma they may carry from their own experience."
+    },
+    {
+     "n": 10,
+     "text": "Assess impact in responsive ways, measuring at the participant, community, organizational and service sector levels and updating measures as a program changes."
+    }
+   ]
+  },
+  {
    "id": "audit-report-on-the-new-york-city-law-departments-timeliness-in-reviewing-agency-contracts",
    "source": "nyc",
    "auditor": "New York City Comptroller",
@@ -15812,6 +17515,103 @@
    ]
   },
   {
+   "id": "2025-05-05-rebny-last-mile-facility-special-permit-study",
+   "source": "outside",
+   "auditor": "Real Estate Board of New York",
+   "title": "New York City Last-Mile Facility Special Permit Study",
+   "plain_title": "Study of a proposed permit for package delivery warehouses",
+   "agency": "New York City Department of City Planning",
+   "issued": "2025-05-05",
+   "url": "https://www.rebny.com/reports/new-york-city-last-mile-facility-special-permit-study/",
+   "pdf": "https://downloads.ctfassets.net/6zi14rd5umxw/1320vOci4pS6dudBjzFa7M/08cd0241dd33f4b2c6d4cb231b267631/REBNY_Last_Mile_SUP_Analysis_Final_Draft__2_.pdf",
+   "what_they_audited": "A study by HR&A Advisors, with traffic and emissions analysis by AKRF, prepared for the Real Estate Board of New York on what a proposed special permit for last-mile package delivery facilities would mean for New York City. It looks at market trends, the effect of last-mile growth so far, the likely impact of the permit and whether other policies would work better.",
+   "background": "The Department of City Planning is studying a special permit for last-mile distribution facilities following commitments the Adams administration made to the City Council, and released a draft scope of work for environmental review in March 2025. Under that draft the permit would apply to new parcel delivery facilities in manufacturing, mixed-use and C8 districts, with exemptions including facilities under 50,000 square feet and water-dependent facilities.",
+   "findings": [
+    {
+     "plain": "The study counts 26 last-mile facilities in New York City today, and says they have accounted for most of the new construction and major renovation in the city's industrial areas in recent years.",
+     "quote": "Using the definition above, HR&A identified a total of 26 last-mile facilities in New York City today (Table"
+    },
+    {
+     "plain": "Most of those facilities went up on land that was previously vacant or used for parking rather than displacing active industrial businesses.",
+     "quote": "investments occurred on sites generating few jobs or property taxes: nearly 70% of recently built or"
+    },
+    {
+     "plain": "The sites developed as last-mile facilities over the past decade pay substantially more in property tax than the study estimates they would have without redevelopment.",
+     "quote": "decade generate $8.4 million more in annual property tax revenue for the City than they would if"
+    },
+    {
+     "plain": "If demand shifts to northern New Jersey, the study estimates a facility there would generate far more driving and emissions than an equivalent facility in Queens.",
+     "quote": "annual basis, 10.4 million additional vehicle miles traveled (VMT). This would result in an increase in"
+    },
+    {
+     "plain": "The study argues the permit would deter new development because the public review process is long and its outcome uncertain, and points to the 2018 special permit for hotels in light manufacturing districts as a precedent.",
+     "quote": "likelihood of this impact. Since the implementation of that regulation, no M1 hotel special permits have"
+    },
+    {
+     "plain": "The permit would apply to new construction and changes of use, so it would not change how the existing facilities that prompted the proposal operate.",
+     "quote": "will not be impacted by the special permit at all"
+    },
+    {
+     "plain": "The study says land use rules change more slowly than the logistics business does, and cites the 2012 Upper West Side zoning limits on bank branches as an example of a rule overtaken by market shifts.",
+     "quote": "Land use policy changes much less quickly than business technology and can quickly become"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "26",
+     "label": "Last-mile facilities identified in New York City"
+    },
+    {
+     "value": "nearly 70%",
+     "label": "Share of the sites previously vacant or used for parking"
+    },
+    {
+     "value": "$8.4 million",
+     "label": "Added annual property tax from the redeveloped sites"
+    },
+    {
+     "value": "10.4 million",
+     "label": "Added yearly vehicle miles if a facility sits in New Jersey"
+    },
+    {
+     "value": "8,000 metric tons",
+     "label": "Added yearly carbon dioxide equivalent in that scenario"
+    },
+    {
+     "value": "16.2%",
+     "label": "Share of U.S. retail spending done online in 2024"
+    }
+   ],
+   "recommendations": [
+    "Continue the city's existing efforts to move freight in greener ways, including microhubs, electric cargo bikes, package lockers and the Blue Highways program that uses the city's waterways.",
+    "Keep incentivizing electric truck fleets and devote more resources to those programs, including expanding the city's Clean Trucks Program beyond businesses in industrial business zones to all New York City businesses that run truck fleets.",
+    "Improve enforcement of quality of life violations so that last-mile operators face consequences that actually change how they behave in the neighborhoods around their facilities."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "environment",
+    "transportation",
+    "small business"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Continue the city's existing efforts to move freight in greener ways, including microhubs, electric cargo bikes, package lockers and the Blue Highways program that uses the city's waterways."
+    },
+    {
+     "n": 2,
+     "text": "Keep incentivizing electric truck fleets and devote more resources to those programs, including expanding the city's Clean Trucks Program beyond businesses in industrial business zones to all New York City businesses that run truck fleets."
+    },
+    {
+     "n": 3,
+     "text": "Improve enforcement of quality of life violations so that last-mile operators face consequences that actually change how they behave in the neighborhoods around their facilities."
+    }
+   ]
+  },
+  {
    "id": "2025-05-01-cuf-sustaining-nycs-tech-edge",
    "source": "outside",
    "auditor": "Center for an Urban Future",
@@ -16742,6 +18542,177 @@
    ]
   },
   {
+   "id": "2025-04-01-dcj-judges-pretrial-detention-rikers",
+   "source": "outside",
+   "auditor": "Close Rikers Coalition Working Group",
+   "title": "The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island",
+   "plain_title": "What judges could do to shrink the Rikers population",
+   "agency": "New York City government",
+   "issued": "2025-04-01",
+   "url": "https://datacollaborativeforjustice.org/work/diversion/the-indispensable-role-of-judges-in-curtailing-excessive-pretrial-detention-and-closing-rikers-island/",
+   "pdf": "https://static1.squarespace.com/static/61814f9eb79b7919a2b8e6af/t/6807dc4488099824aa281b39/1745345605572/FA_Judicial_Rikers_Brief%2B%25282%2529.pdf",
+   "what_they_audited": "A policy brief produced by a coalition of organizations that includes the Data Collaborative for Justice at John Jay College, looking at how judges' decisions on bail, detention and case scheduling shape the size of the New York City jail population. It summarizes research published since New York's bail reform law took effect in 2020 and directs proposals to court administrators, city agencies and the City Council.",
+   "background": "The brief states that as of February 2025 almost 85 percent of the more than 6,800 people in the city's jails on an average day were held before trial while their cases were pending. It frames judicial decision making as central to whether the city can meet its legal obligation to close the jails on Rikers Island.",
+   "findings": [
+    {
+     "plain": "Most people held in New York City jails have not been convicted of the charges they face, and are held while their cases are pending.",
+     "quote": "As of February 2025, almost 85% of the more than 6,800 people in the City’s jails every"
+    },
+    {
+     "plain": "The brief cites research finding that being detained before trial makes people more likely to plead guilty and raises the likelihood and length of jail and prison sentences.",
+     "quote": "detention coerces"
+    },
+    {
+     "plain": "Detention before trial is linked to sharp increases in homelessness and job loss, according to a New York City study the brief cites.",
+     "quote": "that people detained before trial were 420% more likely than released people to become homeless,"
+    },
+    {
+     "plain": "The brief says research in New York and elsewhere has not found that holding people before trial reduces crime or repeat arrests, and that some studies find it increases them.",
+     "quote": "detention does not affect crime or recidivism, with some studies finding that pretrial detention actually"
+    },
+    {
+     "plain": "A large share of people in the jails are there with mental health or housing needs. The brief reports rising rates of serious mental illness diagnoses among people held.",
+     "quote": "incarceration. In February 2025, 21% of those held had been diagnosed with a serious mental illness,"
+    },
+    {
+     "plain": "The brief says the bail reform law's requirements that judges weigh a person's ability to pay and offer alternative bond forms have been carried out poorly.",
+     "quote": "the evidence points to poor implementation of every single one of bail reform’s “ability to pay”"
+    },
+    {
+     "plain": "Black and Hispanic New Yorkers make up close to 90 percent of the jail population, which the brief presents as evidence of racial disparity in bail and detention decisions.",
+     "quote": "Black and Hispanic New Yorkers make up close to 90% of the City’s jail"
+    },
+    {
+     "plain": "The brief puts the annual cost of holding one person at Rikers in fiscal year 2023 at more than half a million dollars, citing the city comptroller.",
+     "quote": "out $507,317 per person per year to house people at Rikers in FY 2023 (up from $144,176"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "85%",
+     "label": "Share of the jail population held before trial, Feb. 2025"
+    },
+    {
+     "value": "6,800",
+     "label": "People in city jails on an average day, Feb. 2025"
+    },
+    {
+     "value": "420%",
+     "label": "Higher odds of homelessness for those detained pretrial"
+    },
+    {
+     "value": "57%",
+     "label": "Share in jail who have needed mental health services"
+    },
+    {
+     "value": "$507,317",
+     "label": "Cost per person per year at Rikers, FY 2023"
+    },
+    {
+     "value": "$2.8 billion",
+     "label": "Correction Dept. funding in the preliminary FY 2026 budget"
+    }
+   ],
+   "recommendations": [
+    "Promote culture change among judges through live and online training, bench cards and shared research on the city's release assessment, the role of race, the low risk that people with no prior arrest will miss court, and the legal purpose of bail.",
+    "Overhaul how partially secured and unsecured bonds are administered, by convening judges, defense attorneys, prosecutors and experts to find structural fixes, reminding judges that New York has nine forms of bail, and encouraging greater use of unsecured bonds.",
+    "Make sure every judge newly assigned to arraignments has training or reference material on the release assessment, what does and does not predict failure to appear, and research on detention, crime and repeat arrests.",
+    "Hold mandatory bail reviews, including an automatic rehearing when a person cannot post bail within five to seven days and a detention hearing for anyone still held 180 days after indictment.",
+    "Reform felony case processing through national expert training, adapting the Brooklyn pilot to every borough, adopting discrete practices such as case conferences and expedited discovery, and launching a task force on homicide case delays.",
+    "Set and enforce performance benchmarks for the court system covering how often bail is set, how often it is posted, and caps on pretrial detention length and adjournment intervals.",
+    "Publish additional case-level pretrial data twice a year, including bail eligibility, prior arrests, prior failures to appear, pending cases, prosecutors' requests and the outcomes of bail review hearings.",
+    "Appoint a senior Office of Court Administration attorney or a deputy chief administrative judge to oversee all court policy connected to closing Rikers.",
+    "Have city agencies train and retrain judges on the release assessment, the supervised release model and available alternative to incarceration programs, and report regularly on how those programs perform.",
+    "Work with court administrators to place bench cards in every courtroom summarizing the release assessment, supervised release, electronic monitoring, ability to pay and practices that reduce case delay.",
+    "Prioritize the release assessment by building a public dashboard on how closely judges follow it, releasing de-identified case-level data for outside researchers, and revalidating the tool.",
+    "Develop and run a science-based assessment of whether a person can pay bail, report its results to the court promptly and publish data on the gap between the tool's findings and the bail judges set.",
+    "Fully fund expanded alternatives to bail, including extending the pretrial intensive case management model to all arraignment shifts and all five boroughs and pairing supervised release with treatment or social services.",
+    "Invest in holistic needs assessments before arraignment and again once a person is detained, with the results submitted to the court, the defense and the prosecution.",
+    "Use the city's convening power to restart the Closing Rikers Implementation Task Force and the Justice Reboot initiative and to consider a population review team in each borough.",
+    "Pass a city law requiring the Mayor's Office of Criminal Justice, or a group it contracts with, to develop and administer a valid ability to pay assessment and report the results publicly.",
+    "Pass a City Council reporting bill requiring the Mayor's Office of Equity and Racial Justice to report annually, by race and ethnicity, on pretrial release decisions, bail amounts, bail posting rates and the forms of bail offered."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "public safety",
+    "transparency",
+    "health"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Promote culture change among judges through live and online training, bench cards and shared research on the city's release assessment, the role of race, the low risk that people with no prior arrest will miss court, and the legal purpose of bail."
+    },
+    {
+     "n": 2,
+     "text": "Overhaul how partially secured and unsecured bonds are administered, by convening judges, defense attorneys, prosecutors and experts to find structural fixes, reminding judges that New York has nine forms of bail, and encouraging greater use of unsecured bonds."
+    },
+    {
+     "n": 3,
+     "text": "Make sure every judge newly assigned to arraignments has training or reference material on the release assessment, what does and does not predict failure to appear, and research on detention, crime and repeat arrests."
+    },
+    {
+     "n": 4,
+     "text": "Hold mandatory bail reviews, including an automatic rehearing when a person cannot post bail within five to seven days and a detention hearing for anyone still held 180 days after indictment."
+    },
+    {
+     "n": 5,
+     "text": "Reform felony case processing through national expert training, adapting the Brooklyn pilot to every borough, adopting discrete practices such as case conferences and expedited discovery, and launching a task force on homicide case delays."
+    },
+    {
+     "n": 6,
+     "text": "Set and enforce performance benchmarks for the court system covering how often bail is set, how often it is posted, and caps on pretrial detention length and adjournment intervals."
+    },
+    {
+     "n": 7,
+     "text": "Publish additional case-level pretrial data twice a year, including bail eligibility, prior arrests, prior failures to appear, pending cases, prosecutors' requests and the outcomes of bail review hearings."
+    },
+    {
+     "n": 8,
+     "text": "Appoint a senior Office of Court Administration attorney or a deputy chief administrative judge to oversee all court policy connected to closing Rikers."
+    },
+    {
+     "n": 9,
+     "text": "Have city agencies train and retrain judges on the release assessment, the supervised release model and available alternative to incarceration programs, and report regularly on how those programs perform."
+    },
+    {
+     "n": 10,
+     "text": "Work with court administrators to place bench cards in every courtroom summarizing the release assessment, supervised release, electronic monitoring, ability to pay and practices that reduce case delay."
+    },
+    {
+     "n": 11,
+     "text": "Prioritize the release assessment by building a public dashboard on how closely judges follow it, releasing de-identified case-level data for outside researchers, and revalidating the tool."
+    },
+    {
+     "n": 12,
+     "text": "Develop and run a science-based assessment of whether a person can pay bail, report its results to the court promptly and publish data on the gap between the tool's findings and the bail judges set."
+    },
+    {
+     "n": 13,
+     "text": "Fully fund expanded alternatives to bail, including extending the pretrial intensive case management model to all arraignment shifts and all five boroughs and pairing supervised release with treatment or social services."
+    },
+    {
+     "n": 14,
+     "text": "Invest in holistic needs assessments before arraignment and again once a person is detained, with the results submitted to the court, the defense and the prosecution."
+    },
+    {
+     "n": 15,
+     "text": "Use the city's convening power to restart the Closing Rikers Implementation Task Force and the Justice Reboot initiative and to consider a population review team in each borough."
+    },
+    {
+     "n": 16,
+     "text": "Pass a city law requiring the Mayor's Office of Criminal Justice, or a group it contracts with, to develop and administer a valid ability to pay assessment and report the results publicly."
+    },
+    {
+     "n": 17,
+     "text": "Pass a City Council reporting bill requiring the Mayor's Office of Equity and Racial Justice to report annually, by race and ethnicity, on pretrial release decisions, bail amounts, bail posting rates and the forms of bail offered."
+    }
+   ]
+  },
+  {
    "id": "2025-04-01-oig-nypd-eleventh-annual-report",
    "source": "doi",
    "auditor": "Department of Investigation",
@@ -16809,6 +18780,104 @@
    ],
    "is_followup": false,
    "rec_display": []
+  },
+  {
+   "id": "2025-04-01-researchalliance-cs-school-capacity",
+   "source": "outside",
+   "auditor": "Research Alliance for New York City Schools",
+   "title": "Building School Capacity to Scale Up Computer Science Participation: Insights from NYC’s CS4All Initiative",
+   "plain_title": "Why some schools got computer science to every student",
+   "agency": "New York City Public Schools",
+   "issued": "2025-04-01",
+   "url": "https://steinhardt.nyu.edu/research-alliance/research/building-school-capacity-scale-computer-science-participation",
+   "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-05/CS%20School%20Capacity%20Report%20April%202025%20Final_0.pdf",
+   "what_they_audited": "A research report from the Research Alliance for New York City Schools, a research center at New York University that studies the city's public schools, on how well individual schools were able to expand computer science under the city's Computer Science for All initiative. It draws on interviews, a school survey and administrative data.",
+   "background": "Computer Science for All, known as CS4All, launched in 2015 with the goal of giving every student a meaningful computer science experience at least once in each grade band: kindergarten through second grade, third through fifth, sixth through eighth and ninth through twelfth. As the initiative matured it also began helping schools build a broader culture around computer science.",
+   "findings": [
+    {
+     "plain": "Elementary schools were far more likely than middle or high schools to reach the goal of every student taking computer science, and high schools were the least likely to sustain high participation.",
+     "quote": "elementary schools had sustained high participation rates, only about 24 percent of middle"
+    },
+    {
+     "plain": "Most high schools introduced computer science but did not substantially widen student access over time.",
+     "quote": "Second, we found that a much larger share of high schools (60%) had stalled participation"
+    },
+    {
+     "plain": "Schools that lagged furthest behind served larger shares of students in poverty and had lower math and English proficiency, and competing instructional priorities such as remediation took precedence.",
+     "quote": "students living in poverty and smaller proportions of students who were proficient in"
+    },
+    {
+     "plain": "Schools that sustained high participation had built a shared understanding of what computer science is and a plan for expanding it, often with teacher leaders driving buy-in.",
+     "quote": "Building a strong school-wide culture around CS equity is foundational for"
+    },
+    {
+     "plain": "Lack of time to teach computer science and to adapt lessons was a major barrier, and the schools that succeeded set aside common planning time for that work.",
+     "quote": "Common planning time is crucial to support successful integration of CS into"
+    },
+    {
+     "plain": "Schools that made computer science required for all students were able to keep participation high, though in middle and high schools that meant trade-offs about which electives to drop.",
+     "quote": "Schools that required all students to take CS were able to sustain high rates"
+    },
+    {
+     "plain": "Schools lagging in participation were much less likely to have taken part in the initiative's professional learning for school leaders and teacher leaders.",
+     "quote": "schools lagging in participation took part in school leader PL (only 11%) and teacher leader"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "34 percent",
+     "label": "Elementary schools with sustained high participation"
+    },
+    {
+     "value": "7 percent",
+     "label": "High schools with sustained high participation"
+    },
+    {
+     "value": "60%",
+     "label": "High schools whose computer science participation stalled"
+    },
+    {
+     "value": "11%",
+     "label": "Lagging schools that took part in school leader training"
+    },
+    {
+     "value": "54 percent",
+     "label": "Response rate for the school survey"
+    }
+   ],
+   "recommendations": [
+    "Continue emphasizing culture building around computer science in school communities, raising awareness of what it is and how it supports student engagement and learning.",
+    "Help schools work through scheduling and staffing obstacles and align computer science with their other instructional priorities, including by fostering communities of practice where school leaders share approaches.",
+    "Build connections between computer science instruction and state standards, providing training to map existing curricula onto core content standards or supplying materials already aligned to them.",
+    "Target professional learning at the schools furthest behind on participation, including support for building partnerships with outside groups that can supply funding, curricular materials and technology."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "technology",
+    "children and youth"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Continue emphasizing culture building around computer science in school communities, raising awareness of what it is and how it supports student engagement and learning."
+    },
+    {
+     "n": 2,
+     "text": "Help schools work through scheduling and staffing obstacles and align computer science with their other instructional priorities, including by fostering communities of practice where school leaders share approaches."
+    },
+    {
+     "n": 3,
+     "text": "Build connections between computer science instruction and state standards, providing training to map existing curricula onto core content standards or supplying materials already aligned to them."
+    },
+    {
+     "n": 4,
+     "text": "Target professional learning at the schools furthest behind on participation, including support for building partnerships with outside groups that can supply funding, curricular materials and technology."
+    }
+   ]
   },
   {
    "id": "2025-03-27-cnycaffairs-state-federal-education-policy-changes",
@@ -19130,6 +21199,132 @@
    ]
   },
   {
+   "id": "2025-02-25-afc-leading-the-way-nyc-schools",
+   "source": "outside",
+   "auditor": "Advocates for Children of New York",
+   "title": "Leading the Way for NYC Schools: Recommendations for the Next Administration",
+   "plain_title": "Eight school priorities for the incoming mayoral administration",
+   "agency": "New York City Public Schools",
+   "issued": "2025-02-25",
+   "url": "https://advocatesforchildren.org/policy-resource/mayoral-recommendations-2025/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/mayoral_recommendations_2025.pdf",
+   "what_they_audited": "A policy agenda from Advocates for Children of New York, a legal and advocacy group that helps New York City families navigate the school system, setting out eight areas where it urges the incoming mayoral administration to focus. The version posted on the group's site carries the note \"Updated January 2026\" and refers to Mayor Mamdani and Chancellor Samuels.",
+   "background": "The document says the school system is in flux, with chronic absenteeism still far above pre-pandemic levels, lingering academic effects of missed instruction, mental health struggles among young people, and enrollment pressure from declining birth rates and out-migration alongside the arrival of tens of thousands of newcomer immigrant students. The recommendations draw on the group's work with families each year.",
+   "findings": [
+    {
+     "plain": "Just over half of city students in grades three through eight read proficiently, with much lower rates for Black and Latinx students and for students with disabilities.",
+     "quote": "according to the 2025 New York State tests, only 56% of City students in grades 3–8—and just 44% of"
+    },
+    {
+     "plain": "Thousands of students with disabilities did not get all the special education instruction their individualized education programs required.",
+     "quote": "During the 2024–25 school year, 11,900 K–12 students with disabilities did not fully receive their"
+    },
+    {
+     "plain": "Hundreds of preschoolers were waiting for legally mandated special education class seats and thousands more were waiting for at least one mandated service such as speech therapy or counseling.",
+     "quote": "seats in their legally mandated preschool special education classes and more than 7,100 preschoolers"
+    },
+    {
+     "plain": "About two-thirds of city schools are not fully accessible to students, staff and family members with physical disabilities, and the group says the current capital plan allocation will not close that gap by 2030.",
+     "quote": "Roughly two-thirds of New York City schools are not fully accessible to students, educators, and family"
+    },
+    {
+     "plain": "Four out of five English Language Learners received only English as a New Language services rather than bilingual instruction, which the group attributes to a shortage of dual language and transitional bilingual programs.",
+     "quote": "City received only English as a New Language (ENL) services in 2024–25 due to the shortage of dual"
+    },
+    {
+     "plain": "More than 154,000 students experienced homelessness during the 2024-25 school year, the tenth straight year above 100,000.",
+     "quote": "More than 154,000 New York City students—nearly one in every seven children enrolled in the public"
+    },
+    {
+     "plain": "Police were involved in thousands of incidents in which a student in emotional distress was removed from class and sent for psychiatric evaluation, including cases where young children were handcuffed.",
+     "quote": "student behavior, including emotional crises or distress. In 2024–25, NYPD was involved in 2,321"
+    },
+    {
+     "plain": "Families repeatedly report problems with school bus service, and the group notes that many of the bus contracts are more than four decades old.",
+     "quote": "rebid the contracts for school bus service—many of which are more than four decades old—and use"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "56%",
+     "label": "Grades 3-8 reading proficiently, 2025 state tests"
+    },
+    {
+     "value": "11,900",
+     "label": "Students with disabilities denied full mandated instruction"
+    },
+    {
+     "value": "7,100",
+     "label": "Preschoolers waiting for a mandated part-time service"
+    },
+    {
+     "value": "154,000",
+     "label": "Students who experienced homelessness in 2024-25"
+    },
+    {
+     "value": "2,321",
+     "label": "Police interventions removing students in emotional distress"
+    },
+    {
+     "value": "$800 million",
+     "label": "School accessibility funding in the 2025-2029 capital plan"
+    }
+   ],
+   "recommendations": [
+    "Ensure every student has access to effective literacy instruction and intervention, building on the work of NYC Reads.",
+    "Increase access to mental health services and make sure schools can safely and effectively support students' social-emotional and behavioral needs.",
+    "Improve educational services, programs, opportunities and outcomes for students with disabilities.",
+    "Expand program options for English Language Learners and immigrant youth, recruit more bilingual teachers and service providers, and ensure English Language Learners receive appropriate academic instruction and support.",
+    "Ensure highly mobile young people, including students experiencing homelessness, students in the foster system and students in the juvenile or criminal legal system, get the support they need to succeed in school.",
+    "Create a school transportation system that works for the students, families and schools it is meant to serve.",
+    "Improve communication with families, including those who speak languages other than English or have low digital literacy, and prioritize strong relationships between home and school.",
+    "Protect the safety and rights of undocumented students and families, LGBTQ+ youth and other marginalized student populations."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "children and youth",
+    "health"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Ensure every student has access to effective literacy instruction and intervention, building on the work of NYC Reads."
+    },
+    {
+     "n": 2,
+     "text": "Increase access to mental health services and make sure schools can safely and effectively support students' social-emotional and behavioral needs."
+    },
+    {
+     "n": 3,
+     "text": "Improve educational services, programs, opportunities and outcomes for students with disabilities."
+    },
+    {
+     "n": 4,
+     "text": "Expand program options for English Language Learners and immigrant youth, recruit more bilingual teachers and service providers, and ensure English Language Learners receive appropriate academic instruction and support."
+    },
+    {
+     "n": 5,
+     "text": "Ensure highly mobile young people, including students experiencing homelessness, students in the foster system and students in the juvenile or criminal legal system, get the support they need to succeed in school."
+    },
+    {
+     "n": 6,
+     "text": "Create a school transportation system that works for the students, families and schools it is meant to serve."
+    },
+    {
+     "n": 7,
+     "text": "Improve communication with families, including those who speak languages other than English or have low digital literacy, and prioritize strong relationships between home and school."
+    },
+    {
+     "n": 8,
+     "text": "Protect the safety and rights of undocumented students and families, LGBTQ+ youth and other marginalized student populations."
+    }
+   ]
+  },
+  {
    "id": "2025-02-24-cbc-cityfheps-hits-1-billion",
    "source": "outside",
    "auditor": "Citizens Budget Commission",
@@ -19655,6 +21850,118 @@
     {
      "n": 8,
      "text": "Collect and review all information required after conversion to help keep each building financially solvent and ensure maintenance fees rise with building needs."
+    }
+   ]
+  },
+  {
+   "id": "2025-02-01-researchalliance-cs-teacher-capacity",
+   "source": "outside",
+   "auditor": "Research Alliance for New York City Schools",
+   "title": "Building Teacher Capacity for Equitable CS: Insights from NYC’s CS4All Initiative",
+   "plain_title": "What happened after city teachers were trained to teach coding",
+   "agency": "New York City Public Schools",
+   "issued": "2025-02-01",
+   "url": "https://steinhardt.nyu.edu/research-alliance/research/building-teacher-capacity-equitable-computer-science-education",
+   "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-02/CS%20Teacher%20Capacity%202.18.25.pdf",
+   "what_they_audited": "A research report from the Research Alliance for New York City Schools, a research center at New York University that studies the city's public schools, on how the Computer Science for All initiative prepared teachers and how many of them went on to teach computer science. It examines who took part in training, who stayed, who implemented and what got in the way.",
+   "background": "Computer Science for All, known as CS4All, is a public-private partnership launched by New York City Public Schools in 2015 to bring computer science to every student in each grade band. It depended on providing professional learning to large numbers of teachers and school leaders, many with little or no computer science background, along with training in culturally relevant and sustaining education practices.",
+   "findings": [
+    {
+     "plain": "More than 3,000 teachers had gone through the initiative's professional learning sessions by 2024, at roughly 400 teachers a year.",
+     "quote": "By 2024, more than 3,000 teachers had participated in CS4All PL sessions, with an"
+    },
+    {
+     "plain": "Teachers rated the training highly and most said it increased their knowledge and their confidence in teaching computer science.",
+     "quote": "Teachers rated the CS4All PL highly, with a majority responding favorably to"
+    },
+    {
+     "plain": "About two-thirds of teachers who stayed in the classroom taught computer science at some point after training, but only around 45 percent did so in the first year afterward, and rates fell as time passed since training.",
+     "quote": "implemented CS at some point following training (even if not immediately). On"
+    },
+    {
+     "plain": "Part of the gap between training and teaching is turnover: a quarter of teachers who took the training between 2016 and 2023 left the system or moved out of the classroom.",
+     "quote": "PL (25%) between 2016 and 2023 left the system (22%) or moved into a leadership"
+    },
+    {
+     "plain": "Teachers who went on to teach computer science tended to work in schools serving higher-income and higher-achieving students, with smaller shares of Black and Latinx students.",
+     "quote": "implementers. On average, implementing teachers’ schools served higher-income"
+    },
+    {
+     "plain": "The biggest obstacles were structural rather than a lack of expertise: scheduling conflicts, competing academic priorities, no preparation time, classes that were never scheduled and changed teaching assignments.",
+     "quote": "Major barriers to implementation were structural in nature (i.e., factors often beyond"
+    },
+    {
+     "plain": "Those barriers were sharpest in schools serving students with greater economic need, which the report says widened gaps in access to computer science.",
+     "quote": "Barriers to implementing CS were particularly acute in schools serving students with"
+    },
+    {
+     "plain": "What helped teachers follow through was a professional community of computer science teachers, support from school leadership and a school culture that valued the subject.",
+     "quote": "Factors that facilitated implementation included having a professional community of"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "3,000",
+     "label": "Teachers who took CS4All professional learning by 2024"
+    },
+    {
+     "value": "68%",
+     "label": "Teachers who taught computer science after training"
+    },
+    {
+     "value": "45 percent",
+     "label": "Teachers who taught it in the first year after training"
+    },
+    {
+     "value": "25%",
+     "label": "Trained teachers who left the system or the classroom"
+    },
+    {
+     "value": "69 percent",
+     "label": "Highest first-year implementation rate, the 2019 cohort"
+    }
+   ],
+   "recommendations": [
+    "Keep providing ongoing professional learning, curriculum resources and communities of practice for computer science teachers, and consider which supports can be delivered virtually or asynchronously to reach more teachers at lower cost.",
+    "Continue embedding culturally responsive-sustaining education practices in computer science training as a way to improve instruction and students' sense of belonging in the subject.",
+    "Give school leaders support and resources to plan for computer science, since administrators set the vision, protect instructional time and manage competing demands.",
+    "Address the structural barriers directly, with systemic solutions to staffing shortages, scheduling constraints and how resources are allocated.",
+    "Align the initiative with district-wide priorities by making sure superintendents and executive superintendents understand computer science education and can back up school leaders with resources.",
+    "Build long-term capacity through teacher preparation tied to classroom-tested curriculum, certification pathways, incentives and school supports, so the city can prepare and keep qualified computer science teachers."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "technology",
+    "labor"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Keep providing ongoing professional learning, curriculum resources and communities of practice for computer science teachers, and consider which supports can be delivered virtually or asynchronously to reach more teachers at lower cost."
+    },
+    {
+     "n": 2,
+     "text": "Continue embedding culturally responsive-sustaining education practices in computer science training as a way to improve instruction and students' sense of belonging in the subject."
+    },
+    {
+     "n": 3,
+     "text": "Give school leaders support and resources to plan for computer science, since administrators set the vision, protect instructional time and manage competing demands."
+    },
+    {
+     "n": 4,
+     "text": "Address the structural barriers directly, with systemic solutions to staffing shortages, scheduling constraints and how resources are allocated."
+    },
+    {
+     "n": 5,
+     "text": "Align the initiative with district-wide priorities by making sure superintendents and executive superintendents understand computer science education and can back up school leaders with resources."
+    },
+    {
+     "n": 6,
+     "text": "Build long-term capacity through teacher preparation tied to classroom-tested curriculum, certification pathways, incentives and school supports, so the city can prepare and keep qualified computer science teachers."
     }
    ]
   },
@@ -20474,6 +22781,90 @@
     {
      "n": 8,
      "text": "Ensure department information systems continuously receive updates to improve functionality and optimize workflow."
+    }
+   ]
+  },
+  {
+   "id": "2025-01-06-afc-ensuring-all-students-learn-to-read",
+   "source": "outside",
+   "auditor": "Advocates for Children of New York",
+   "title": "Ensuring All Students Learn to Read: Where We Go from Here",
+   "plain_title": "Three next steps for the city on teaching reading",
+   "agency": "New York City Public Schools",
+   "issued": "2025-01-06",
+   "url": "https://advocatesforchildren.org/policy-resource/literacy-agenda-2025/",
+   "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/literacy_recommendations_jan2025.pdf",
+   "what_they_audited": "A policy brief from Advocates for Children of New York, a legal and advocacy group that helps New York City families with school problems, arguing that literacy should stay a top priority for the next mayoral administration and setting out three things it says the city should do next.",
+   "background": "The brief traces the city's recent literacy efforts, from the Universal Literacy reading coach initiative launched under Mayor de Blasio in 2016-17, through universal screening for reading difficulties in 2021-22, to NYC Reads, which required 15 of the city's 32 community school districts to pick one of three pre-approved English Language Arts curricula in 2023-24 and expanded citywide in 2024-25.",
+   "findings": [
+    {
+     "plain": "Only about half of city students in grades three through eight read proficiently, and the rates are far lower for Black and Latinx students, students with disabilities and English Language Learners.",
+     "quote": "according to the 2024 New York State tests, only half of New York City students in grades 3–8—"
+    },
+    {
+     "plain": "For years individual schools chose their own English Language Arts curricula, which the group says led to widespread use of programs that do not work.",
+     "quote": "individual schools in New York City long had free reign to choose their own English Language Arts"
+    },
+    {
+     "plain": "The group says the experience of other states and districts suggests that overhauling reading instruction takes years and sustained money, so the city's changes should not be judged or funded as a short-term effort.",
+     "quote": "suggest that meaningful change takes time and requires a"
+    },
+    {
+     "plain": "Families of students with dyslexia or other reading difficulties often cannot get help within the public system, and the group says it frequently ends up suing for private school tuition or private tutoring instead.",
+     "quote": "often resort to suing for private school tuition or private tutoring for such"
+    },
+    {
+     "plain": "City literacy work so far has concentrated on core instruction in the early elementary grades, leaving adolescents who still lack foundational reading skills without intensive help.",
+     "quote": "there are many adolescents still"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "37%",
+     "label": "Black and Latinx students in grades 3-8 reading proficiently"
+    },
+    {
+     "value": "21%",
+     "label": "Students with disabilities reading proficiently"
+    },
+    {
+     "value": "7.7%",
+     "label": "English Language Learners reading proficiently"
+    },
+    {
+     "value": "15",
+     "label": "Community school districts in the first year of NYC Reads"
+    },
+    {
+     "value": "32",
+     "label": "Community school districts citywide"
+    }
+   ],
+   "recommendations": [
+    "Make sure every student who needs extra help in reading gets one-on-one or small group intervention aimed at their individual needs, for example by hiring a corps of reading interventionists, using existing staff for evidence-based intervention or creating district-level intervention hubs.",
+    "Strengthen core instruction by giving educators ongoing training and at-the-elbow coaching in carrying out the new curricula and in using screening data to differentiate instruction.",
+    "Ensure every parent gets information about the literacy skills expected at each grade level, regular updates on their child's progress and a clear path to extra help, backed by tools and training for school staff to communicate with families in both directions."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "children and youth"
+   ],
+   "is_followup": false,
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Make sure every student who needs extra help in reading gets one-on-one or small group intervention aimed at their individual needs, for example by hiring a corps of reading interventionists, using existing staff for evidence-based intervention or creating district-level intervention hubs."
+    },
+    {
+     "n": 2,
+     "text": "Strengthen core instruction by giving educators ongoing training and at-the-elbow coaching in carrying out the new curricula and in using screening data to differentiate instruction."
+    },
+    {
+     "n": 3,
+     "text": "Ensure every parent gets information about the literacy skills expected at each grade level, regular updates on their child's progress and a clear path to extra help, backed by tools and training for school staff to communicate with families in both directions."
     }
    ]
   },

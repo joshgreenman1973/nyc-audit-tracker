@@ -1,0 +1,117 @@
+{
+  "id": "2026-04-08-islg-cjii-decade-synthesis",
+  "source": "outside",
+  "auditor": "CUNY Institute for State and Local Governance",
+  "title": "The Criminal Justice Investment Initiative: Synthesizing a Decade of Innovation",
+  "plain_title": "What a decade of Manhattan DA grants taught about services",
+  "agency": "New York City government",
+  "issued": "2026-04-08",
+  "url": "https://islg.cuny.edu/resources/cjii-synthesis-briefs",
+  "pdf": "https://islg.cuny.edu/s/Strengthening-Cross-System-Collaboration-for-Greater-Impact-_12825-final.pdf",
+  "what_they_audited": "A series of six briefs from the CUNY Institute for State and Local Governance, the research center that manages the Criminal Justice Investment Initiative, drawing lessons from a decade of grants the Manhattan District Attorney's Office made to New York City community organizations. Each brief ends with its own set of recommendations addressed to funders, policymakers and service providers, and they are listed here brief by brief.",
+  "background": "The Criminal Justice Investment Initiative was created by the Manhattan District Attorney's Office to spend $250 million seized in international financial crime prosecutions on community projects in three areas: crime prevention, diversion and reentry and support for crime survivors. Since 2015 it has backed more than 50 programs serving more than 34,000 people, and CUNY ISLG manages the grants and measures performance.",
+  "findings": [
+    {
+      "plain": "The initiative put forfeiture money from financial crime prosecutions into community programs, funding, expanding or evaluating more than 50 of them and reaching more than 34,000 people across the city since 2015.",
+      "quote": "evaluate over 50 innovative community programs serving more than 34,000 people across New York City"
+    },
+    {
+      "plain": "Even in a city with many community organizations, service silos kept people from getting the full range of help available, and coordination between organizations did not happen unless it was paid for.",
+      "quote": "Yet, organizational siloes mean people may nonetheless struggle to fully benefit from all that’s available."
+    },
+    {
+      "plain": "Trust between staff and participants, and between partner organizations, was what made referrals across organizations work.",
+      "quote": "Trust is the lubricant for transcending service siloes."
+    },
+    {
+      "plain": "Contact with the criminal legal system is itself a source of trauma, and standard intake and assessment procedures can compound it.",
+      "quote": "Involvement in the criminal legal system is inherently traumatic ."
+    },
+    {
+      "plain": "Groups that are shut out of services face different barriers from one another, so programs designed around a single model reach fewer of them.",
+      "quote": "Barriers and needs vary across specific populations ."
+    },
+    {
+      "plain": "Many community-based organizations lack the infrastructure to collect and analyze their own data, and the briefs trace that gap back to funding requests that do not pay for data capacity or technical assistance.",
+      "quote": "This gap begins at the funding level, with many requests-for-proposals (RFPs)"
+    },
+    {
+      "plain": "Linking data across agencies for evaluation was possible but heavy going even inside a well-funded initiative, and 33 of the 52 funded programs got an outside evaluation.",
+      "quote": "labor-intensive within the well-resourced CJII, but"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$250 million",
+      "label": "Forfeiture money the Manhattan DA put into the initiative"
+    },
+    {
+      "value": "more than 34,000 people",
+      "label": "People served by funded programs since 2015"
+    },
+    {
+      "value": "33 of 52 funded programs",
+      "label": "Funded programs that got an outside evaluation"
+    },
+    {
+      "value": "more than 250 interviews",
+      "label": "Interviews used to design the initiative"
+    }
+  ],
+  "recommendations": [
+    "Invest in coordination: pay providers specifically for the time and staffing it takes to collaborate, and build planning time into grants so partnerships are a good fit before work starts.",
+    "Reassess partnerships on a regular schedule, with routine check-ins and periodic reviews from all sides, so collaborations can change as needs and funding shift.",
+    "Support the development of data management systems that cross organizational lines, ideally a shared system, so partners can coordinate services and track their impact.",
+    "Have partners and funders build learning communities that spread best practices and help programs survive past one grant.",
+    "Tailor trauma-responsive programs to the specific populations being served rather than applying one treatment model to everyone.",
+    "Combine clinical and non-clinical interventions, including art groups, family events and recreation, to provide more holistic care.",
+    "Create employment pathways into the helping professions for people from groups now underrepresented in them, including survivors of trauma.",
+    "Build flexible program policies, including a mix of remote and in-person options and formal and drop-in services, to meet participants where they are.",
+    "Dedicate funding to longer-term care so treatment is not cut off before people have worked through their trauma.",
+    "Hire and onboard people with lived experience as staff, and create paths for participants to become staff themselves.",
+    "Make programming flexible and individualized so each participant's plan matches their own needs and can change as they progress.",
+    "Facilitate communication and networking across service providers and other city agencies so referrals out of a program actually land.",
+    "Foster continuous and comprehensive care, with coordinators or case managers who stay with a person through the transition back to the community.",
+    "Provide comprehensive staff training and hire staff with experience, including lived experience, working with people involved in the criminal legal system.",
+    "Address material needs such as food and housing as part of programming, alongside longer-term work on employment, education and health.",
+    "Allow flexibility, multiple points of entry and re-engagement, so people can come back to a program after a lapse without being penalized.",
+    "Increase community awareness of these programs, invest in provider responsiveness and highlight the benefits, to improve recruitment and attendance.",
+    "Monitor and address inequities in who engages with and completes programs, since uneven participation can widen existing disparities.",
+    "Deploy data-driven approaches to assess impact on recidivism and other measures, and adjust programs accordingly.",
+    "Have requests for proposals prompt applicants to describe their data capacity and their data and research staffing.",
+    "State clearly in requests for proposals whether evaluation is a condition of funding.",
+    "Involve data, research and program staff from applicant organizations in contract negotiations, not just development and legal teams.",
+    "Assess an organization's actual data capacity at the time of funding, including through site visits and video calls.",
+    "Assess whether a program and its evaluator are a good fit before the contract is executed.",
+    "Dedicate money and hands-on data support as part of the funding package rather than leaving data work unfunded.",
+    "Offer ongoing assistance, support and training on data to grantees throughout the grant.",
+    "Make performance measurement participatory, with grantee staff reviewing and shaping reporting templates.",
+    "Support a data-driven culture inside grantee organizations rather than treating data as a reporting chore.",
+    "Address the historical injustices that shape how communities view research, rather than assuming trust.",
+    "Develop realistic evaluation timelines that match how programs actually start up and run.",
+    "Plan evaluations around what data will actually be available.",
+    "Emphasize participatory evaluation approaches that treat programs as active stakeholders in the research design.",
+    "Be flexible about research design, considering regression discontinuity, longitudinal and propensity score matching approaches where a randomized trial does not fit.",
+    "Address research ethics directly and openly, including disagreements over consent, random assignment, data ownership and what gets published.",
+    "Connect stakeholders' data across programs and agencies so evaluations can show a fuller picture of impact.",
+    "Standardize data-sharing agreements within a jurisdiction, including a common template and shared data definitions across city agencies.",
+    "Center participant stories in reporting, using mixed methods and first-person accounts alongside administrative data.",
+    "Reach people where they are by moving technical detail into appendices, requiring mid-evaluation reports and producing short practitioner briefs and presentations.",
+    "Adopt flexible, low-barrier, hybrid service delivery models, both virtual and in person, as a standard feature of program design.",
+    "Allocate unrestricted, flexible funding streams that pay for physical spaces and adaptive programming rather than narrow outputs.",
+    "Build system literacy and self-advocacy by having participants co-create their own service plans and exercise real choice in how they engage.",
+    "Establish formal systems for bringing staff with direct lived experience into service delivery and leadership at all levels, and invest in professional pathways for those roles.",
+    "Invest in the workforce through fair pay, staff wellness, reasonable caseload limits and comprehensive training.",
+    "Minimize the burden research places on participants by replacing traditional high-demand data collection with co-designed, low-barrier and incentive-based alternatives.",
+    "Employ reflexive knowledge-sharing throughout the research cycle, with continuous feedback loops involving staff and participants."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "public safety",
+    "social services",
+    "children and youth"
+  ],
+  "is_followup": false
+}

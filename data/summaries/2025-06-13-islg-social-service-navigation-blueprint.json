@@ -1,0 +1,82 @@
+{
+  "id": "2025-06-13-islg-social-service-navigation-blueprint",
+  "source": "outside",
+  "auditor": "CUNY Institute for State and Local Governance",
+  "title": "A Blueprint for Social Service Navigation in NYC and Beyond",
+  "plain_title": "How to run programs that connect New Yorkers to services",
+  "agency": "New York City government",
+  "issued": "2025-06-13",
+  "url": "https://islg.cuny.edu/resources/service-navigation-blueprint",
+  "pdf": "https://islg.cuny.edu/s/A-Blueprint-for-Social-Service-Navigation-in-NYC-and-Beyond-June-2025.pdf",
+  "what_they_audited": "A research and policy brief from the City University of New York Institute for State and Local Governance drawing lessons from three New York City service navigation efforts it helped manage, and setting out practices for government, funders and service providers that invest in helping residents find and use social services.",
+  "background": "The brief draws on the Community Navigators Program, the Neighborhood Navigators initiative and a scan of the city's service navigation landscape. The Community Navigators Program was funded through the Criminal Justice Investment Initiative, which the Manhattan District Attorney's Office set up in 2015 to invest $250 million in public safety and criminal legal system projects.",
+  "findings": [
+    {
+      "plain": "Across its life, the Community Navigators Program reached close to 2,000 residents and most left with at least some of their needs met.",
+      "quote": "Throughout the lifetime of the CNP, Community Navigators worked with almost 2,000 neighborhood residents. About 60 percent of those participants exited the program with service linkages that met some (23 percent) or all (37 percent) of their identified needs."
+    },
+    {
+      "plain": "The program worked well for people who had not used any service in the months before enrolling.",
+      "quote": "Among participants who had not utilized a service within six months prior to enrollment, 71 percent exited the program with a successful connection, demonstrating the program’s effectiveness in serving those most in need of support."
+    },
+    {
+      "plain": "Navigators were hired for their local ties and lived experience rather than credentials.",
+      "quote": "Between 2017 and 2021, the CNP hired 25 Navigators with a range of qualifications and lived experiences. Three-quarters (76 percent) lived in, or had significant connections to, the East Harlem community."
+    },
+    {
+      "plain": "Hiring staff with lived experience meant the programs also had to attend to those staff members' own needs.",
+      "quote": "It was not uncommon for Navigators to require similar services as the participants they served."
+    },
+    {
+      "plain": "The brief argues that counting referrals alone does not capture whether navigation worked.",
+      "quote": "Accordingly, accessing a service alone does not indicate whether it was appropriate and impactful."
+    },
+    {
+      "plain": "Partner organizations reported that the work changed their own practice and their view of cross-organization collaboration.",
+      "quote": "many partners described how their work with the CNP instilled a newfound belief that cross-organizational work is not only possible but has the potential to be transformative"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "almost 2,000",
+      "label": "Residents served by the Community Navigators Program"
+    },
+    {
+      "value": "60 percent",
+      "label": "Participants who left with some or all needs met"
+    },
+    {
+      "value": "71 percent",
+      "label": "Success rate for those who had used no service before"
+    },
+    {
+      "value": "25 Navigators",
+      "label": "Navigators hired between 2017 and 2021"
+    },
+    {
+      "value": "$250 million",
+      "label": "Criminal Justice Investment Initiative investment"
+    }
+  ],
+  "recommendations": [
+    "Reach participants where they are, offering multiple ways into the program and targeting recruitment to the community being served.",
+    "Build trust with participants through shared values and experiences.",
+    "Understand the barriers that keep people from engaging with services.",
+    "Tailor engagement strategies to what each participant prefers.",
+    "Assess whether a referral actually fits the participant before making it.",
+    "Follow up with participants and with partners after a referral to confirm the service was a fit.",
+    "Develop resilient referral networks built around the specific needs of the population a program serves.",
+    "Help navigation staff develop professionally, with training, professional development and salaries that reflect the value of the work.",
+    "Provide support to navigation staff, including attention to their wellbeing and to trauma they may carry from their own experience.",
+    "Assess impact in responsive ways, measuring at the participant, community, organizational and service sector levels and updating measures as a program changes."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "social services",
+    "health",
+    "labor"
+  ],
+  "is_followup": false
+}

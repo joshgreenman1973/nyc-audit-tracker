@@ -1,0 +1,84 @@
+{
+  "id": "2025-11-17-afc-reconnecting-to-opportunity",
+  "source": "outside",
+  "auditor": "Advocates for Children of New York",
+  "title": "Reconnecting to Opportunity: Advancing Educational Equity for Court-Involved Students",
+  "plain_title": "Schooling for young people in and leaving city detention",
+  "agency": "New York City Public Schools",
+  "issued": "2025-11-17",
+  "url": "https://advocatesforchildren.org/policy-resource/reconnecting-to-opportunity/",
+  "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/reconnecting_to_opportunity.pdf",
+  "what_they_audited": "A policy brief from Advocates for Children of New York reviewing the first two years of city data on schooling for young people held in juvenile detention or placement. It covers who attends Passages Academy, the school that serves them, what instruction they receive and what happens when they return to a community school.",
+  "background": "A December 2023 City Council law requires New York City Public Schools and the city Administration for Children's Services to report each year on educational programming for young people in juvenile detention or placement. All students in those settings are taught through Passages Academy, a public school run by District 79, the citywide district for alternative schools and programs.",
+  "findings": [
+    {
+      "plain": "Students held in detention or placement are far more likely than other city secondary students to be classified as having a disability, especially an emotional disability.",
+      "quote": "Compared to all New York City students in grades 7–12, youth in juvenile detention or placement in 2023–24 and 2024–25 were almost twice as likely to have learning disabilities and more than 17 times as likely to be labeled as students with emotional disabilities."
+    },
+    {
+      "plain": "Black students, boys, students with individualized education programs and students in foster care make up much larger shares of the Passages population than of the school system overall.",
+      "quote": "61.6% were Black, though Black students comprised only a quarter of overall enrollment."
+    },
+    {
+      "plain": "Reading and math screening scores on entry to Passages were far below grade level for at least half of the students tested.",
+      "quote": "At least half of students scored at the fifth percentile or below in reading upon entering Passages in 2023–24, meaning they performed worse than 95% of their grade-level peers; in 2024–25, at least half of students were reading at the twelfth percentile or below upon enrollment."
+    },
+    {
+      "plain": "Many students with disabilities waited longer than the law allows for the plan that sets out the special education services they are to receive.",
+      "quote": "a total 16.5% of students with IEPs did not receive a SEP within a month of enrolling at Passages Academy"
+    },
+    {
+      "plain": "Nearly a quarter of students learning English received no English as a new language instruction while in city custody.",
+      "quote": "of the 216 ELLs who were enrolled during the 2023–24 and 2024–25 school years, nearly a quarter (23.6%) received no English as a New Language (ENL)"
+    },
+    {
+      "plain": "Students who returned to a community school after release attended less than half the time, with rates lowest for the oldest students.",
+      "quote": "In 2023–24, the median attendance rate for the 227 students for whom data are available was just 49%, meaning that at least half of these young people missed more days of school than they attended"
+    },
+    {
+      "plain": "The city left several data points required by the reporting law out of its published reports, without explaining the omissions.",
+      "quote": "The published report provides no explanation for why any such data were omitted."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1,850",
+      "label": "Student enrollments at Passages Academy over two years"
+    },
+    {
+      "value": "16.5%",
+      "label": "Students with IEPs who waited over a month for a plan"
+    },
+    {
+      "value": "23.6%",
+      "label": "English language learners who got no ENL instruction"
+    },
+    {
+      "value": "49%",
+      "label": "Median attendance after returning to school, 2023-24"
+    },
+    {
+      "value": "42%",
+      "label": "Median attendance after returning to school, 2024-25"
+    },
+    {
+      "value": "32.7%",
+      "label": "Share of Passages students in the foster system"
+    }
+  ],
+  "recommendations": [
+    "Expand access to behavioral and mental health services in the public schools, create more therapeutic school options and specialized programming for students with behavioral or emotional challenges and give middle and high school students who struggle with reading intensive intervention: a mental health clinic or community provider partnership in every school, at least one behavioral specialist per district, a larger PATH program, more short- and long-term therapeutic school options and a reading intervention system built into the next phase of NYC Reads.",
+    "Make sure students in detention or placement can attend school every day, that students with disabilities receive appropriate evaluations and services and that all English language learners receive English as a new language instruction, including by adding school psychologists, related service providers and other special education staff at Passages sites.",
+    "Improve the transition out of detention or placement by increasing the number of transition specialists in secure facilities so every student leaves with an education plan and follow-up support, and by training staff at Family Welcome Centers on the needs of court-involved youth and the full range of school options open to them.",
+    "Report all of the data that Local Law 21 of 2024 requires, including the indicators left out of the published reports."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "children and youth",
+    "public safety"
+  ],
+  "is_followup": false
+}

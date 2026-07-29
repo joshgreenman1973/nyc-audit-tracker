@@ -1,0 +1,723 @@
+BUILDING A HEALTHIER 
+BUILDING A HEALTHIER 
+FIVE BOROUGHS
+FIVE BOROUGHS
+THE INFRASTRUCTURE BEHIND BETTER 
+HEALTH AND ECONOMIC GROWTH
+A New York Building Congress Healthcare and Life Sciences Report
+
+A Message from our Chair, and President & CEO 
+	
+Building the Next Generation of  
+	
+Healthcare and Life Sciences in New York
+Background and Summary
+Modern Care in Older Buildings:  
+	
+Why Modernization Needs More Space
+Resiliency
+Modernization Case Studies: 
+	
+Bulk Can Grow Faster Than Beds
+Modernization Often Triggers Multiple Land Use Issues
+The Implications of Red Tape
+Recommendations
+1 
+ 
+2
+5 
+9
+10 
+11
+12
+16
+2026 HEALTHCARE AND LIFE SCIENCES REPORT
+TABLE OF CONTENTS
+
+1
+A MESSAGE FROM OUR CHAIR, AND PRESIDENT & CEO
+BUILDING THE NEXT GENERATION OF HEALTHCARE & LIFE SCIENCES IN NEW YORK
+New York’s healthcare sector is one of the great strengths of our city. It powers local economies, 
+creates jobs, and most importantly, it heals us when we’re sick. From major hospital campuses to 
+neighborhood-level medical offices, healthcare facilities are a vital part of the city’s infrastructure. 
+People travel from far and wide to come to New York’s prestigious healthcare institutions, because 
+they know the level of care is top notch. Let’s keep it that way.
+Healthcare is changing, and the spaces that support care need to grow and change as well. New 
+technologies, modern building systems, evolving models of care, and the growing need for community-
+based services all require facilities that can adapt alongside the needs of patients and providers. We 
+must keep pace with modern medicine and provide healthcare professionals with the environments 
+they need to deliver excellent care.
+New York City should make that work easier.
+Too often, projects that would improve access and support modernization face avoidable land use 
+hurdles, uncertainty, and delay that slows investment and makes it harder to deliver the kinds of 
+healthcare spaces a dynamic, growing city needs. When the public benefit is this clear, the path 
+forward should be clear too. 
+New York already understands this problem. The State’s SEQRA reform push makes the point clearly: 
+simpler environmental review, clearer timelines, and more predictable approvals can lower housing 
+costs while preserving core environmental safeguards. The City has moved in the same direction 
+through “Get Stuff Built” and the Mayor’s SPEED Task Force, both focused on cutting permitting 
+barriers that make housing and infrastructure harder to deliver. Healthcare should be next.
+New York has already shown that it can modernize rules when the need is apparent. We have seen 
+smart progress through recent zoning reforms that opened new opportunities for housing, and life 
+sciences. That same practical approach should also be applied to other healthcare facility types. 
+Hospitals, outpatient centers, and other essential care settings deserve a framework that reflects how 
+healthcare is delivered today.
+This report makes a simple case: healthcare construction is essential infrastructure, and the 
+modernization of existing hospitals is not optional. It deserves a regulatory process that is predictable, 
+efficient, and aligned with the public good. By reducing unnecessary red tape and creating a more 
+practical modernization pathway, New York can support even better access to care.
+The healthcare industry is ready to lead. The building industry is ready to build. New York should be 
+ready to act.
+Carlo A. Scissura, Esq.	
+President & CEO	
+New York Building Congress
+Cheryl McKissack Daniel
+Chair, New York Building Congress
+Chair of the Board	
+McKissack & McKissack
+
+2
+New York City’s healthcare sector remains one of the city’s largest and most important economic engines, and 
+a major part of its physical infrastructure. Responsible for over 7% of the city’s GDP, “Health Care & Social 
+Assistance” accounted for 1,016,400 jobs in New York City as of January 2026. Life sciences accounts for 18,800 
+jobs and over $7 billion in GDP. The New York City Comptroller’s office also reported that “Health Care & Social 
+Assistance” was the city’s primary job creator over the 12 months ending in December 2025. The average salary 
+for hospital workers stands at $116,800 per year.1 2 3 There is also an important equity component to these jobs, as 
+hospitals operate in all five boroughs, serving and employing people from diverse communities throughout the  
+entire city.
+The sector’s economic footprint is substantial. Even looking only at hospitals and health systems, the impact in 
+New York City is enormous. A 2025 regional analysis by the Healthcare Association of New York State found that 
+New York City hospitals and health systems generate over $123 billion in annual economic activity and generate 
+over $21 billion in tax dollars. The same analysis found that each year, these institutions provide roughly 23 million 
+outpatient visits, treat 4.1 million people in emergency rooms, and admit 1.1 million patients.4 Hospitals are also 
+major civic institutions whose value extends well beyond the walls of their campuses. A 2026 Greater New York 
+Hospital Association (GNYHA) analysis found that New York City not-for-profit hospitals provided $9.5 billion 
+in community benefits in 2023. Those benefits include financial assistance, community health services, research, 
+professional education, and a variety of subsidized health services.5
+A SECTOR DEFINED BY NECESSITY
+The form and structure of a modern healthcare facility is often determined by strict regulatory codes and standards. 
+Thus, the size and shape of a new hospital, for example, is not actually subject to much discretion. 
+Similar to infrastructure projects that would reinforce the structural integrity of an old bridge, where delayed capital 
+spending often leads to ballooning costs and emergency repair work, healthcare facility modernization projects are 
+required, essential infrastructure upgrades. Hospitals built in 1957 cannot deliver 2026 care in 1957 space. The work 
+of upgrading them is required, not optional, and it is critical for the city’s public health.
+DISTRIBUTED CARE
+The industry is also changing in ways that make flexibility more important. More care is moving closer to where 
+people live and work, through outpatient centers, ambulatory care, diagnostics, and behavioral health facilities. 
+This distributed care model can improve convenience and efficiency by moving less urgent care out of the hospital 
+setting. 
+But shifting that care elsewhere does not simply eliminate the need for space within hospitals. As lower-acuity care 
+moves into outpatient and ambulatory settings, hospitals are increasingly focused on the most urgent, complex, 
+and resource-intensive cases. Those cases require major investment in physical space, including larger and more 
+advanced operating rooms, intensive care capacity, and many other specialized areas. The distribution of routine care 
+directly increases infrastructure-related intensity of what remains in the hospital.
+While new types of facilities are expanding, hospital facilities that anchor this care still need continuous 
+modernization to ensure that the best care is available to the most people.
+1	
+https://edc.nyc/sites/default/files/2026-04/NYCEDCww-NYC-Economic-Snapshot-April-2026.pdf
+2	
+https://comptroller.nyc.gov/wp-content/uploads/2026/02/New-York-by-the-Numbers-February-2026.pdf
+3	
+https://edc.nyc/sites/default/files/2026-02/NYCEDC-2025-State-of-NYC-Economy_2-12-2026.pdf
+4	
+https://www.hanys.org/government_affairs/community_benefit/docs/region/new_york_city.pdf
+5	
+https://www.gnyha.org/wp-content/uploads/2026/03/GNYHA-Community-Benefit-Reports-TY2023.pdf
+BACKGROUND AND SUMMARY
+
+3
+This impact matters for the construction pipeline as well. The Building Congress’s 2025-2027 Construction 
+Outlook report identified healthcare as one of the sectors posting the largest year-over-year growth in 2025 and we 
+project continued growth for major new projects and redevelopment work through 2027. Healthcare construction 
+is a large share of the entire construction industry within New York City, consistently driving new projects, and 
+creating good-paying construction jobs year over year.6 7 8
+6	
+https://nycfuture.org/research/caution-ahead
+7	
+https://www.nychealthandhospitals.org/pressrelease/an-historic-day-for-south-brooklyn-ruth-bader-ginsburg-hospital-opens-for-care-welcomes-first- 
+	
+patients-opens-new-emergency-department/
+8	
+https://www.nychealthandhospitals.org/pressrelease/elmhurst-announces-plans-for-emergency-department-expansion/
+Below is a forecast of the expected spending across the healthcare sector within  
+New York City over the next three years. 
+Healthcare & Life Sciences Nominal Spending Forecast
+
+4
+Some notable upcoming projects include: 
+The Kenneth C. Griffin Pavilion at Memorial Sloan Kettering 
+Cancer Center which will be a new 27-story, LEED-
+certified cancer care pavilion designed to support advanced 
+technology, robotics, digital infrastructure, and upgraded 
+operating and procedure suites. The project is expected to be 
+completed in 2030 and will connect to Memorial Hospital 
+through a two-story pedestrian bridge over East 67th Street.
+New York Building Congress Members involved:  
+CannonDesign, LERA Consulting Structural Engineers,  
+Memorial Sloan Kettering Cancer Center, Trinity/JB&B,  
+Turner-Consigli JV, VHB
+THE KENNETH C. GRIFFIN PAVILION
+THE KENNETH C. GRIFFIN PAVILION
+Memorial Sloan Kettering Cancer Center | New York, NY
+Memorial Sloan Kettering Cancer Center | New York, NY
+The Victoria and Lloyd Goldman Health Care Pavilion will be 
+a new 15-story, 200,000 sf outpatient facility for Northwell 
+Health and Lenox Hill Hospital.  Located on Third Avenue 
+between East 76th and 77th Streets, the $450 million 
+project is expected to be completed in 2027 and will include 
+Outpatient Services (Cardiac, Neurology/Neurosurgery, 
+Pulmonary, Urology), Oncology Services (Breast, 
+Hemotologic, Gynocologic, Infusion, Medical, Radiation, 
+Surgical), Endoscopy, Interventional Radiology along with 
+Advanced Imaging Services.
+New York Building Congress Members involved:  
+Consigli Construction Co., Inc., Ennead Architects, 
+Northwell Health, Severud Associates, Trinity/JB&B, VHB
+VICTORIA AND LLOYD GOLDMAN HEALTH CARE PAVILION
+VICTORIA AND LLOYD GOLDMAN HEALTH CARE PAVILION
+Northwell Health and Lenox Hill Hospital | New York, NY
+Northwell Health and Lenox Hill Hospital | New York, NY
+The Mount Sinai Tisch Cancer Hospital is an anticipated 
+200,000 sf renovation project on Mount Sinai’s Upper 
+East Side campus.  The $205 million adaptive reuse project 
+renovates existing construction, replaces the façade, and 
+adds a new connecting core to consolidate cancer inpatient 
+care in a contemporary clinical environment.  Construction is 
+anticipated to begin in 2026 and includes phased construction 
+to coordinate with continuous hospital operations.
+New York Building Congress Members involved:  
+AKF Group, Gilbane, HKS, KPF, Mount Sinai Hospital, 
+Severud Associates, VHB, WSP
+THE MOUNT SINAI TISCH CANCER HOSPITAL 
+THE MOUNT SINAI TISCH CANCER HOSPITAL 
+Mount Sinai’s Upper East Side Campus | New York, NY
+Mount Sinai’s Upper East Side Campus | New York, NY
+Photo Credit: https://www.griffincatalyst.org/newsroom/cancer-center-future-kenneth-griffin-pavilion-memorial-sloan-kettering/
+Photo Credit: Northwell Health
+Photo Credit: Kohn Pedersen Fox
+
+5
+New York City’s healthcare system operates in a dense, mature urban environment where many facilities have been 
+expanded, adapted, and modernized over time to meet changing needs. This work is essential, and too often, prohibitively 
+expensive. A 2022 joint hospital association survey reported that 77% of hospitals are delaying or cancelling capital 
+improvement projects due to fiscal challenges.9 In recognition of soaring costs, in 2025, the NY Department of Health 
+raised the Full Review threshold for general hospital projects from $30 million to the greater of $60 million or 10% of 
+operating costs, capped at $150 million.10 11
+The modernization challenge also reaches the city’s safety net hospitals directly. The Center for an Urban Future found 
+in 2014 that New York City’s public hospital buildings were, on average, built in 1957. Since then, Health + Hospitals has 
+delivered some important modernization projects, notably the $923 million Ruth Bader Ginsburg Hospital (largely funded 
+by FEMA) at South Brooklyn Health, which opened in 2023 with private patient rooms and a whole slew of modern 
+services. Elmhurst Hospital has also advanced a $43 million emergency department expansion. These projects show real 
+progress. They also highlight the scale of the work still needed across an aging safety net system that serves many of the 
+city’s highest-need communities. Any modernization framework needs to work for these facilities too, especially when older 
+buildings, constrained capital budgets, and urgent community health needs make delays even harder to absorb.
+These projects are complex and expensive for a simple reason: A hospital cannot close to renovate. Modernization often 
+means building inside an active clinical environment, where emergency care and critical life-support systems must keep 
+running while construction is staged around patient care. That reality makes hospital projects longer, more expensive per 
+square foot, and more logistically demanding than comparable work in other building types. Even modest renovations can 
+take years because the work must move in carefully sequenced phases around the hospital’s daily operations. Added building 
+area is often necessary to keep services running and shorten the disruption, giving hospitals room to modernize without 
+forcing care to stop. This is no easy task.
+9	
+https://www.gnyha.org/wp-content/uploads/2023/07/2022_critical_condition_report.pdf
+10	
+https://www.health.ny.gov/facilities/cons/docs/nycrr_710-1_guidance.pdf
+11	
+https://dos.ny.gov/system/files/documents/2025/08/080625.pdf
+MODERN CARE IN OLDER BUILDINGS:  
+WHY MODERNIZATION NEEDS MORE SPACE
+As healthcare organizations address deferred maintenance and expand facilities to support more specialized care, 
+delivering complex upgrades in active hospital environments without disrupting operations has become increasingly 
+critical. This work demands meticulous coordination, rigorous infection-control protocols, and constant attention to air 
+quality, noise, vibration, and safety.
+During construction of Northwell’s North Shore University Hospital Advanced Surgical Pavilion in Manhasset, New York, 
+the Skanska team preserved sterile conditions by implementing a pressurized tunnel system and integrating positive and 
+negative air pressure controls between the new pavilion and the existing hospital. These measures prevented dust, fumes, 
+and odors from entering active hospital operations while also mitigating noise and vibration. By carefully sequencing 
+work around ongoing operations, the team delivered modern surgical and critical-care spaces while allowing Northwell to 
+continue providing exceptional care to Long Island patients.
+Sean Szatkowski 
+Executive Vice President – General Manager, Skanska USA Building
+“
+Photo Credit: https://nsuh.northwell.edu/
+“
+
+6
+WHY DO HOSPITALS NEED MORE SPACE THAN THEY USED TO?
+New York State requires healthcare facilities to comply with healthcare-specific construction, engineering, and 
+design standards. That’s because modernization is shaped by healthcare-specific necessities tied to clinical use, life 
+safety, infection prevention, privacy, and many other factors. All of these have implications for new spatial needs.
+Let’s look at some examples:
+SINGLE-BED PATIENT ROOMS
+Basic core hospital design requirements have evolved throughout the years. One of the clearest examples of 
+modernization-driven growth is the shift toward single-bed patient rooms. Under the 2010 Facility Guidelines 
+Institute (FGI) Guidelines, which New York incorporated into its construction standards for newer general hospital 
+projects, medical/surgical patient rooms are generally limited to one bed (unless the facility can demonstrate the 
+need for a two-bed arrangement and receives special approval). The same standards require at least 120 square feet 
+for a single-bed patient room, along with a restroom. 60 years ago, patient rooms could hold 4 beds, with one shared 
+restroom. Prior to the more recent shift to single-bed inpatient rooms, a double-bedded arrangement was typical.  
+Replacing a 20th-century double-occupancy room with two single-occupancy rooms meeting current standards 
+results in a room cluster that is significantly larger than its predecessor, and this change alone is one of the leading 
+factors explaining why modernization requires more space even when the number of beds does not materially grow. 
+Patient rooms also require windows, which drives building heights
+INPATIENT ROOM
+Image Credit: Ennead Architects
+
+7
+OPERATING ROOMS
+Operating rooms have undergone a similar transformation. Growth is specifically driven by three forces operating 
+in combination: (1) increased clearances and code-mandated minimums, (2) larger surgical care teams and the 
+integration of equipment and control rooms within or adjacent to the OR, and (3) image-guided procedures, surgical 
+robotics, and hybrid operating rooms that integrate intraoperative imaging.
+Under the older NYS Hospital Code, which applies to general hospital facilities approved before 1998, each inpatient 
+operating room had to be at least 270 square feet. Support space was required, but it was flexible, based on expected 
+surgical workloads. For newer projects, the State moved to a more detailed standard. As of 2010, the state requires 
+that a standard operating room must be at least 400 square feet, with more complex specialty operating rooms at 
+600 square feet.  Support spaces are also much more prescriptive and now carry hard sizing requirements, such as 
+the requirement for equipment and supply storage rooms to be “not less than 300 square feet or 50 square feet per 
+operating room, whichever is greater.” 12 13 So, newer standards specifically require larger operating rooms, and larger 
+areas around those rooms to support them.
+12	
+New York State Department of Health, Standards of Construction for Health Care Facilities, adopted regulations, 10 NYCRR  
+	
+Parts 711–715
+13	
+https://fgiguidelines.org/wp-content/uploads/2022/03/2010_FGI_Guidelines.pdf
+Smaller modernization projects show the same basic challenge at a different scale. Catholic Health’s Mercy Hospital 
+Emergency Department expansion in Rockville Centre was a 9,500-square-foot renovation and fit-out completed in 
+June 2024, serving eastern New York City and western Nassau County. The $4 million project added or upgraded 29 
+patient bays, a nurses’ station, a cardio trauma room, radiology, triage, and related emergency department space.
+Healthcare construction requires careful planning even when the physical footprint is modest. Mercy’s ED work was first 
+planned across nine phases and two projects, with three phases requiring NYS Department of Health filings. The team 
+later restructured the sequence to account for long-lead materials, maintain momentum, and keep work moving in an 
+active emergency department. That kind of coordination and phasing is often what makes modernization possible without 
+disrupting patient care.
+New York Building Congress Member involved: LF Driscoll
+CATHOLIC HEALTH
+CATHOLIC HEALTH
+Mercy Hospital Emergency Department | Rockville Centre, NY
+Mercy Hospital Emergency Department | Rockville Centre, NY
+Photo Credit: LF Driscoll
+Image Credit: Ennead Architects
+OPERATING ROOM
+•	
+Code compliance
+•	
+Increased clearances
+•	
+Increased space needs for support teams
+•	
+Sized to support image guided procedures
+•	
+Control and equipment rooms
+
+8
+HVAC AND MEP STANDARDS
+Other, often unseen requirements of healthcare spaces have also become more complex. HVAC and MEP 
+standards that New York incorporated into its hospital construction rules address temperature, humidity, hot 
+water demand, and airflow, all designed for specific healthcare needs. For example, as our understanding of disease 
+prevention has continuously advanced, our expectations around infection prevention, patient placement, and 
+ventilation have changed significantly. American Society of Heating, Refrigerating and Air-Conditioning Engineers 
+(ASHRAE) standard 170 requires hospital-grade ventilation that maintains different pressure relationships across 
+clinical spaces.14 These have surpassed what many facilities were originally designed around. 
+Consider something like an airborne infection isolation area. The Centers for Disease Control and Prevention’s 
+(CDC) guidance for airborne infection isolation areas requires single-occupancy rooms, negative pressure, improved 
+ventilation and exhaust, and higher air-change rates. This means heavier-duty machinery to pump air in and out, 
+space to store the equipment, and adequate room for more robust ventilation and exhaust requirements. New  
+shafts, new ducts, new filtration systems, new plumbing networks, and new room configurations. With upgraded 
+technology it also means dedicated areas for system controls and support functions. All of that involves allocating 
+considerable amounts of space. In older buildings, fitting those requirements into an existing envelope can be 
+particularly challenging.15
+These requirements affect building volume and height as well as floor area. Modern hospitals need room above 
+ceilings, between floors, and in protected equipment areas for ventilation, power, plumbing, controls, and other 
+critical systems.
+ENERGY
+Hospitals are among the most energy-intensive building types in the city. As hospitals rely more heavily on 
+technology, equipment, and machinery, modern healthcare facilities need stronger backup energy systems to 
+minimize disruptions to patient care. Because hospitals are highly energy-intensive, many also rely on large central 
+plants and built-in redundancies to maintain resiliency. No one wants the lights to go out during surgery. Hospitals 
+must also continue to operate through conditions that would shut down most other buildings. That obligation 
+requires real building and campus space for the backup energy and resilient utility systems that keep essential 
+care running during major disruptions. Modern hospitals increasingly include cogeneration capacity, which allows 
+a hospital to generate its own electricity and capture waste heat for facility use. Cogeneration allows a hospital to 
+operate independently of the utility grid during a power outage.16 Hospitals need the physical space to house  
+these systems.
+The table below compares 5 basic spatial expectations, now commonplace today, compared with the federal 
+minimum standards used approximately 60 years ago. 17 18 19 20
+14	
+https://www.ashrae.org/technical-resources/standards-and-guidelines/standards-addenda/ansi-ashrae-ashe-standard-170-2017-ventilation-of-health-care-facilities
+15	
+https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html
+16	
+NFPA 110, Standard for Emergency and Standby Power Systems; NFPA 99, Health Care Facilities Code; CMS Conditions of Participation, 42 CFR § 482.41(d).
+17	
+https://www.health.ny.gov/facilities/cons/docs/article_28_reference_standards.pdf
+18	
+United States Public Health Service, General Standards of Construction and Equipment for Hospital and Medical Facilities, Public Health Service Publication No. 930-A-7,  
+	
+U.S. Government Printing Office, 1967
+19	
+https://fgiguidelines.org/wp-content/uploads/2022/03/2010_FGI_Guidelines.pdf
+20	
+https://fgiguidelines.org/wp-content/uploads/2022/10/2022-Hosp-Major-additions-and-revisions.pdf
+
+9
+Hurricane Sandy in October 2012 changed the standard for hospital resiliency in New York. Critical mechanical and 
+electrical infrastructure can no longer be located at or below grade in flood-prone areas. Perimeter flood barriers, 
+elevated equipment, sealed exterior penetrations, internal flood doors, and backflow preventers are now standard 
+features of any responsible hospital design in coastal Manhattan and the broader metro region. Many new hospital 
+builds during the post-Sandy period were funded by FEMA grants.
+21	
+https://www.fiercehealthcare.com/hospitals-health-systems/nyu-langone-opens-pediatric-hospital-highrise-downtown-new-york-city
+22	
+https://nyulangone.org/our-story/campus-transformation/building-the-energy-building
+23	
+https://www.dasny.org/sites/default/files/inline-files/NYU%20Langone%20Hospitals%20Obligated%20Group%20Revenue%20Bonds%20Series%202020A.pdf
+RESILIENCY
+CASE STUDY: NYU LANGONE HEALTH 
+MANHATTAN MAIN CAMPUS | 
+MANHATTAN MAIN CAMPUS | New York, NY
+New York, NY
+NYU Langone Health’s main campus on First Avenue sits along the East River on a site that proved highly 
+vulnerable to storm surge during Hurricane Sandy in October 2012. The flooding caused extensive damage to 
+mechanical and electrical infrastructure across the campus, prompting NYC Langone to modify the campus 
+transformation that was already underway, and integrating new requirements to protect the campus from 
+future climate conditions.
+The transformation involved three coordinated moves:
+•	
+Relocation of campus mechanical and electrical infrastructure from below grade to the first floor and 
+above.
+•	
+Construction of the Energy Building (2016), housing a cogeneration plant and emergency power capacity 
+that allows the main campus to operate independently of the utility grid when needed.
+•	
+Construction of the Science Building (2018), a 365,000-square-foot, 16-story modern research facility 
+designed to bring research activity closer to the clinical environment.
+•	
+Construction of the Kimmel Pavilion (2018), an 830,000-square-foot, 21-story clinical tower with 374 
+single-occupancy patient rooms and an expanded procedural platform.
+The Kimmel Pavilion was delivered without a net increase in total licensed beds for NYU Langone’s First Avenue 
+campus. It replaced the Rusk Institute Building, opened in 1949, and augmented the adjacent Tisch Hospital, 
+opened in 1963, with resilient, code-compliant, modern facilities. The campus now has substantially more space 
+for patients and procedures, supported by the mechanical and resiliency infrastructure needed to operate 
+safely. The scale of the work was driven by modern care needs and the resiliency demands of keeping a coastal 
+hospital campus operational, as well as new programmatic growth. 21 22 23
+New York Building Congress Members involved:  
+AKRF, Ennead Architects, Langan, LERA Consulting Structural Engineers, 
+NYU Langone Health, Posillico, Trinity/JB&B, Turner Construction Co.
+Photo Credit: Jeff Goldberg/Esto
+
+10
+UVM Medical Center, Robert E. and Holly D. Miller Building, Burlington, Vermont
+UVM Medical Center’s Miller Building is a clear example of modernization without heavy programmatic growth. The 
+$187m project replaced older inpatient rooms, many of which were semi-private and located in areas built roughly 
+50 to 70 years earlier. The project added more than 180,000 square feet, seven floors, including two mechanical/
+support floors. It also included 66,000 square feet of renovation work, central plant upgrades, utility tunnel work, 
+and MEP extensions and relocations. 
+Despite the scale of the project, there was no net increase in beds or the number of patients the hospital could care 
+for at one time.24
+Notably, the project created 128 single-bed rooms with private bathrooms, increasing single-patient rooms from 
+roughly 40% to almost 90% across the hospital. It also added space for family members, technology, larger care 
+stations, and staff collaboration areas.25
+Suburban Hospital, North Building (Johns Hopkins Medicine), Bethesda, Maryland
+Suburban Hospital’s North Building tells a similar story. The $270m project nearly doubled the size of the hospital 
+while the bed count stayed flat at 228. Suburban first opened in 1943 and the new North Building was the hospital’s 
+first major update since 1979. The 300,000-square-foot addition is a modern facility with private patient rooms, 
+updated surgical and procedural space, and better patient and family areas. 
+The project created 108 private patient rooms as the new addition freed up space, which allowed the semi-private 
+rooms in the older building to become private. The project also added 14 operating rooms, recovery areas, and a floor 
+with separate ventilation capacity for pandemic conditions.26
+Kaiser Permanente San Francisco Replacement Hospital, San Francisco, California
+Kaiser Permanente’s proposed San Francisco replacement hospital follows a similar pattern. The existing 367,000 
+square foot Geary Boulevard hospital was opened in 1954 and has 239 semi-private beds. The proposed replacement 
+would increase the facility to 623,000 square feet and add 61 private beds. That means building area would increase 
+by about 70%, while bed count would increase by just over 25%. The proposal also includes an expanded emergency 
+department, and all-electric hospital design.27
+These out-of-state examples show that major hospital modernization projects are not unusual or excessive and often 
+require considerable bulk growth even without programmatic expansion. In New York City, the same modernization 
+pressures exist, yet they run into a much more constrained land use environment. Modern care takes up modern 
+space. A healthcare system that serves millions of patients each year needs a regulatory environment which 
+recognizes that such modernization is a public good. 
+24	
+https://www.whiting-turner.com/projects/healthcare/uvm-robert-e-and-holly-d-miller-building/
+25	
+https://www.uvmfoundation.org/s/1690/images/gid2/editor_documents/foundation/cases/miller_building_case_statement.pdf
+26	
+https://www.hopkinsmedicine.org/news/articles/2020/01/campus-expansion-transforms-the-care-experience
+27	
+https://www.beckershospitalreview.com/capital/kaiser-plans-new-hospital-in-san-francisco-8-things-to-know/
+MODERNIZATION CASE STUDIES: 
+BULK CAN GROW FASTER THAN BEDS
+
+11
+The land use challenge for healthcare facilities is more complex than bulk alone. Higher FAR is important, especially 
+when hospitals need to modernize older buildings within constrained zoning envelopes. But many projects also 
+involve a broader mix of land use actions, zoning approvals, site changes, public approvals, or other discretionary 
+steps, and most of them are sequential rather than parallel.
+These issues vary by project, and they can arise even when the goal is straightforward. Here are some examples:
+City Planning plays an important role in this work. Many major healthcare and life sciences projects have moved 
+forward with some form of City involvement, including planning support, site dispositions, co-sponsorship, anchor 
+tenancy, zoning approvals, or other project-specific tools. The Building Congress appreciates the hard work City 
+Planning staff do to help complicated projects move through complicated rules. The next step is to make that 
+pathway clearer and more predictable, so essential healthcare projects do not depend on one-off solutions every 
+time modernization is needed.28 29 30
+28	
+https://www.nyc.gov/assets/planning/download/pdf/about/cpc/060333.pdf
+29	
+https://www.nyc.gov/assets/planning/download/pdf/about/cpc/240369.pdf
+30	
+https://www.nyc.gov/assets/planning/download/pdf/about/cpc/240342.pdf
+MODERNIZATION OFTEN TRIGGERS  
+MULTIPLE LAND USE ISSUES
+
+12
+The cost of delay is too often the cost of doing business in New York. According to the Citizens Budget Commission 
+(CBC), the median discretionary land use application took two and a half years from formal filing with City Planning 
+through ULURP, with pre-certification and environmental review counting for roughly 80% of the timeline. For 
+hospitals, the timeline often starts even earlier. Before entering a discretionary approval process, providers may 
+spend years defining the programmatic need, testing designs, and determining the bulk or zoning relief required. 
+After years of planning and approvals, a hospital may finally start construction and find that clinical needs and 
+regulations have already changed. Beyond ULURP there are further approvals which require extensive processes, 
+such as the Board of Standards and Appeals (BSA) which handles variance and special permit applications for 
+hospital and other community facility projects that do not require a zoning text amendment or map change. The 
+BSA process can take up to two years.
+CBC estimated that a two-year discretionary approval process can increase total development costs by 11 to 16 
+percent, before any scope changes are considered.31 Applied to the MTA’s $5.5 billion Interborough Express, that 
+level of delay could translate into roughly $605 million to $880 million in added costs. For healthcare facilities, 
+the stakes are even higher because delays also postpone the delivery of modern beds, operating rooms, emergency 
+capacity, and other revenue-generating services. NYC Health and Hospitals - Bellevue alone generates about 
+$1.46 billion in annual net patient revenue.32 While that does not mean every dollar would be lost during a delayed 
+modernization, it does show the scale of revenue capacity tied up when major hospital projects spend years in reviews 
+instead of moving into construction.
+Delay also has a direct workforce cost. SPARC Kips Bay shows how many jobs are tied to major healthcare and life 
+sciences construction projects. NYCEDC estimates that the $1.6 billion public investment will create more than 
+15,000 jobs, including 12,000 construction jobs and 3,100 permanent life sciences jobs. When red tape delays 
+projects of this scale, it delays real construction jobs, economic activity, and long-term employment.33 These are 
+exactly the kinds of good-paying, middle-class construction jobs New York should be moving faster to create.
+31	
+https://cbcny.org/research/improving-new-york-citys-land-use-decision-making-process
+32	
+https://www.definitivehc.com/resources/healthcare-insights/top-hospitals-new-york-net-patient-revenue
+33	
+https://edc.nyc/press-release/nycedc-announces-skanska-construction-manager-sparc-kips-bay-first-its-kind-life
+THE IMPLICATIONS OF RED TAPE
+Internal hospital planning and  
+project definition
+OFTEN 1 TO 3 YEARS
+The provider defines the clinical need, 
+tests design options, identifies operational 
+requirements, and determines whether added 
+bulk or zoning relief is needed.
+DCP pre-application, 
+pre-certification, and 
+environmental review
+ABOUT 2 YEARS
+The applicant works with City Planning to 
+prepare the application, resolve technical 
+issues, complete environmental review, and 
+reach certification readiness.
+PRE-UNIFORM LAND USE REVIEW PROCEDURE TIMELINE
+34 35
+
+13
+34	
+https://www.nyc.gov/content/planning/pages/planning/public-review
+35	
+https://cbcny.org/research/improving-new-york-citys-land-use-decision-making-process
+ULURP Certification
+DAY 0
+City Planning certifies the application as 
+complete, starting the formal public 
+review clock.
+Borough President review
+30 DAYS
+The Borough President reviews the application 
+and issues an advisory recommendation.
+City Council review
+50 DAYS
+The Council reviews the application and may 
+approve, modify, or disapprove it.
+Post-approval permits and 
+construction readiness
+VARIES
+The project moves into building permits, 
+agency approvals, financing, construction 
+sequencing, and implementation.
+Community Board review
+60 DAYS
+Community Boards have 60 days after 
+certification to hold a public hearing and 
+vote on a land use proposal.
+City Planning Commission review
+60 DAYS
+The CPC holds a public hearing and votes 
+to approve, approve with modifications, or 
+disapprove the application.
+Mayoral review
+5 DAYS
+The Mayor may veto the Council action, 
+subject to Council override.
+UNIFORM LAND USE REVIEW PROCEDURE TIMELINE
+Article 78
+Members of the public have up to 120 days to 
+file an Article 78 challenge, which is the legal 
+mechanism for filing an objection against a ULURP 
+determination. This can delay a project for years, 
+force modifications, or potentially stop a project even 
+after it has completed the public review process.
+
+14
+ENCOURAGING SIGNS OF PROGRESS
+The good news is, we’ve seen how much and how fast we can build when red tape is eliminated. During the 
+COVID-19 pandemic, the State removed numerous procurement and construction constraints, allowing DDC to 
+use CM-Build, accelerated RFPs, reduced public notice requirements, and faster approvals from other agencies. 
+The results were immediate: Two field hospitals totaling 1,100 beds (one was built in 11 days), 28 testing sites, four 
+laboratory upgrades, and three COVID Centers of Excellence. The average construction time was seven days 
+for testing sites, 28 days for field hospitals, 35 days for lab upgrades, and 192 days for the Centers of Excellence, 
+including design time. This level of work would have taken almost six years otherwise.36 The pandemic was an 
+emergency, but it proved an important point: when government reduces procedural friction, healthcare facilities can 
+be delivered far faster in response to public need.
+The 1961 Zoning Resolution recognized that hospitals, schools, and other community facilities need more space 
+than ordinary residential buildings. It gave community facilities special bulk treatment in residential districts 
+because these uses serve a public purpose and need room to function. That was the right instinct. The issue is that a 
+framework that may have seemed adequate for hospitals in 1961 cannot be treated as adequate for modern medicine 
+today. No patient today would choose 1961-era medical science for a surgery, a diagnosis, or a hospital stay. 
+New York’s land use rules should not force healthcare facilities to operate as if that era never ended, back before 
+Medicare and Medicaid even existed.37
+The City has also shown a real willingness to modernize zoning and land use. Through the City of Yes, the 
+Department of City Planning led a major effort to update zoning rules that affect housing production, economic 
+growth, and decarbonization efforts. The City of Yes for Economic Opportunity tackled outdated zoning barriers 
+affecting businesses and job-generating uses across the city, including important clarifications regarding labs and life 
+sciences buildings.38 39
+City of Yes for Economic Opportunity gave laboratories and life sciences facilities a clearer as-of-right path in more 
+locations, generally based on the idea that many modern life sciences spaces are research and testing environments, 
+not heavy manufacturing centers or factories. For ‘non-production laboratories,’ that means more space can now 
+be located in commercial and manufacturing areas without going through City Planning Commission review when 
+the project already complies with building, fire, and safety rules. It also means new floor plans and site plans for as-
+of-right lab uses no longer have to wait for extensive environmental reviews, which gives labs more room to adjust 
+layouts as research, equipment, and technology changes.
+City of Yes also clarified an important connection for healthcare institutions: research space connected to a hospital 
+or university can be treated as a “community facility” use, which means it may be permitted in any zoning district 
+where hospitals and universities already operate. This is important because clinical research often needs to be close 
+to patient care and physicians, so allowing hospitals and universities to expand research space near their campuses 
+has a direct practical value for improving public health.40
+While the City of Yes is not a direct template for hospital zoning, it shows the City can update outdated rules 
+when they no longer match how essential sectors operate, thanks to the hard-working staff at DCP and EDC. 
+Hospitals need the same kind of practical review. Today, major healthcare facilities still rely on bulk allowances and 
+discretionary pathways that have not kept pace with modern clinical standards, infrastructure needs, or the realities 
+of renovating active hospital campuses.
+36	
+https://www.nyc.gov/site/ddc/about/press-releases/2021/pr-033021-Report.page
+37	
+https://www.nyc.gov/assets/planning/downloads/pdf/zoning/zoning-nyc/zoning_handbook_1961.pdf
+38	
+https://edc.nyc/sites/default/files/2025-11/NYCEDC-NYC-Life-Sciences-Zoning-Reform-11-24-2025.pdf
+39	
+https://www.nyc.gov/content/planning/pages/our-work/plans/citywide/city-of-yes-economic-opportunity
+40	
+https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/citywide/city-of-yes-economic-opportunity/project-description.pdf
+
+15
+41	
+https://edc.nyc/press-release/mayor-nycedc-celebrate-historic-day-nyc-life-sciences-industry
+SPARC Kips Bay is another sign that New York is getting more serious about building for 
+life sciences growth. While the project isn’t related to City of Yes, it does show how much 
+the city can accomplish when we align public land use around a comprehensive plan. SPARC 
+will transform the Hunter College Brookdale campus into more than 2 million square feet of 
+academic, health, and life sciences space, with training facilities tied to CUNY. The project 
+is expected to create more than 15,000 jobs and generate about $42 billion in economic 
+impact over 30 years. The takeaway for healthcare modernization is clear: coordinated land 
+use, public investment, and workforce planning can help New York deliver needed facilities 
+faster while supporting major job growth. This type of planning meets immediate public 
+needs while growing the industries and jobs that will shape the city’s future.41
+Photo Credit: NYC EDC
+
+16
+1.	 Create an as-of-right pathway for healthcare modernization projects 
+that require added bulk to meet modern standards, with 20% or less 
+net bed growth.
+2.	Increase allowable FAR broadly for healthcare community facility 
+uses to better reflect the space needs of modern hospitals.
+3.	Create targeted bulk and FAR allowances for safety-net, public, and 
+community hospitals, paired with expedited approvals and greater 
+capital support for institutions serving high-need communities.
+4.	Streamline ULURP and related reviews for healthcare modernization 
+projects, including through Charter Revision reforms where 
+appropriate.
+5.	Create a healthcare-specific mechanical bulk allowance so modern 
+hospital infrastructure can be accommodated within zoning 
+envelopes, even where mechanical space is already excluded from 
+FAR.
+6.	Broaden life sciences definitions to include more hospital-based 
+research, diagnostics, testing, translational medicine, and other 
+healthcare-adjacent innovation uses.
+7.	Streamline the environmental review process for hospital 
+modernization projects.
+8.	Encourage healthcare growth across all five boroughs by giving 
+hospitals, outpatient centers, and other care facilities more flexibility 
+to expand where New Yorkers live, work, and need access to care.
+RECOMMENDATIONS
+16
+
+CO-HOSTS
+PARTNERS
+SUPPORTERS
+The New York Building Congress gratefully acknowledges the support of our Co-Hosts and 
+Sponsors for the Industry Breakfast announcing the publication of this report.  
+Their partnership helps advance meaningful dialogue and continued investment in  
+New York's healthcare and life sciences sectors.
+CBIZ, Inc. • LERA Consulting Structural Engineers
+
+Published JUNE 2026
+New York Building Congress
+1040 Avenue of Americas, 21st Floor
+New York, New York 10018-3728
+212-481-9230
+buildingcongress.com
+  linkedin.com/company/new-york-building-congress
+  @nybuildingcongress
+  @bdgcongress 
+CHAIR
+Elizabeth Velez
+VICE CHAIRS
+Kelly Heuer
+David W. Marino
+Elias Matar, P.E.
+Christopher Shaw
+PRESIDENT
+Carlo A. Scissura, Esq.
+TREASURER
+Mark Gregorio
+SECRETARY
+Suri Kasirer
+GENERAL COUNSEL
+Michael K. De Chiara
+PAST CHAIR
+Cheryl McKissack Daniel
+Formed in 1998, the New York Building Foundation is in its 28th year of promoting the long-term growth and well-being of the New York City building 
+industry and the wider community through an active program of research, education, and philanthropy.
+The New York Building Congress, a broad-based membership association celebrating its 105th year, is committed to promoting the growth and 
+success of the building and construction industry in New York City and its environs.
+CHAIR
+VICE-CHAIRS 
+PRESIDENT & CEO
+TREASURER
+SECRETARY
+GENERAL COUNSEL
+PAST CHAIR
+NEW YORK BUILDING 
+FOUNDATION CHAIR
+Cheryl McKissack Daniel
+Rachel Birnboim AIA; Elizabeth Crowley; Gary LaBarbera; Christopher Larsen; Anthony Mastrolia P.E.;  
+Ehab Shehata; Michael Sweeney, P.E.
+Carlo A. Scissura, Esq.
+Brennan Gilbane Koch
+Cyrus J. Izzo, P.E.
+Michael S. Zetlin
+Gregory A. Kelly P.E.
+ 
+Elizabeth Velez
+Building Congress Staff: Jeanine M. Badalamenti, Carlo Casa, Robert Chapman, Frank Clarke, Logan Ellis, Mateo Colón, Rich O’Malley, 
+Sandra Purpura, Erik Rodriguez, Giancarlo Sapio, Shashank Shamshabad, Anasa Welch
+SPECIAL THANK YOU TO THE ENTIRE HEALTHCARE & LIFE SCIENCES COMMITTEE 
+CO-CHAIRS: Jonathan Cogswell, Raffaela Dunne,  Melissa Sarko, AIA

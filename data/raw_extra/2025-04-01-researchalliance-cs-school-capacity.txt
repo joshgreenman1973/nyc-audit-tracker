@@ -1,0 +1,1392 @@
+April 2025 
+Research Report 
+Building School Capacity to 
+Scale Up Computer Science 
+Participation: 
+Insights from NYC’s CS4All Initiative 
+By Kathryn Hill, Michelle Flores, Rishika Jain, 
+and Edgar Rivera-Cash 
+
+Acknowledgements 
+We would like to extend our gratitude to our 
+colleagues on the Research Alliance’s CS4All 
+evaluation team, including Cheri Fancsali, Xia Li, 
+Janice Lee, June Mark, and Marlee Tavlin. We 
+deeply appreciate their dedication to conducting 
+the research featured in this report, and to 
+providing thoughtful feedback as this work 
+developed. Special thanks to Chelsea Farley, our 
+communications director, for editing the report, and 
+to Faith Northern and Summer Wildbill for their 
+assistance with the final layout, production, and 
+outreach process.  
+We thank our partners at NYC Public Schools for 
+their engagement with this research, with particular 
+appreciation for Heather Wilson’s ongoing support. 
+We are grateful to the entire CS Education team, 
+especially Tunisia Mitchel and Christy Crawford. 
+Their insights and collaboration have been 
+invaluable to our research and have informed our 
+understanding of efforts to make CS participation 
+more equitable and to build schools’ capacity to 
+offer CS. 
+This study would not have been possible without 
+the generous support of the Fund for Public 
+Schools, the CS4All Founders Committee, and the 
+Google Computer Science Education Research 
+program. We appreciate the time they dedicated to 
+asking thoughtful questions and providing 
+feedback throughout the project. Finally, we are 
+deeply indebted to the school leaders, teachers, 
+and students who participated in our data 
+collection efforts. Their responses provided 
+essential on-the-ground perspectives, significantly 
+enhancing our understanding of the 
+implementation of the CS4All initiative in New York 
+City. 
+---------------------------------------------------- 
+Research Alliance publications are supported by 
+the following organizations, who help fund our 
+capacity to engage stakeholders in our work and 
+broadly communicate the results and implications 
+of our studies: the Gates Foundation, Carnegie 
+Corporation of New York, the Catherine and 
+Joseph Aresty Foundation, New York University, 
+the Wallace Foundation, and the William T. Grant 
+Foundation. 
+Our publications reflect the findings, 
+interpretations, and conclusions of the Research 
+Alliance and not necessarily those of our funders 
+or individual Steering Committee members.  
+Steering Committee 
+Mark Dunetz, Chair 
+President, New Visions for Public Schools 
+Jennifer Jones Austin 
+Chief Executive Officer & Executive Director, Federation of 
+Protestant Welfare Agencies 
+Melissa Aviles-Ramos 
+Chancellor, New York City Public Schools 
+Georgina Dopico 
+Provost, New York University 
+Frances Lucerna 
+Co-Founder and Executive Director, El Puente 
+Christine Mangino 
+President, Queensborough Community College 
+James Merriman 
+Chief Executive Officer, New York City Charter School 
+Center 
+Michael Mulgrew 
+President, United Federation of Teachers 
+Félix Matos Rodriguez 
+Chancellor, The City University of New York 
+Henry Rubio 
+President, Council of School Supervisors and 
+Administrators 
+Michelle Yanche 
+Executive Director, Good Shepherd Services 
+Leadership Team 
+Cheri Fancsali 
+Executive Director 
+Kathryn Hill 
+Research Director 
+Chelsea Farley 
+Communications Director 
+About the Research Alliance 
+Housed at NYU Steinhardt, the Research Alliance for 
+New York City Schools is an independent, 
+nonpartisan research center that conducts rigorous 
+studies on topics that matter to the City’s public 
+schools. We strive to advance excellence and equity 
+in education by providing evidence about the policies 
+and practices that promote students’ development 
+and academic success. 
+
+1 
+Building School Capacity to Scale Up 
+Computer Science Participation  
+Executive Summary 
+This report focuses on the NYC Computer Science for All (CS4All) initiative’s efforts to build 
+schools’ capacity to expand access to CS across the district. Launched in 2015, CS4All 
+aimed to provide a meaningful CS experience to every student at least once within each 
+grade band (K-2, 3-5, 6-8, 9-12). As the initiative matured, it also began to support schools 
+in fostering a strong CS culture—emphasizing leadership, equity, and awareness of the 
+potential of CS instruction to promote student engagement and learning.  
+Key Findings 
+•
+Elementary schools were more likely than middle and high schools to reach
+the initiative’s goal of every student taking CS. Elementary schools tended to
+have higher, more sustained and equitable CS participation. High schools often
+stalled in their efforts, introducing CS but not substantially increasing students’
+access over time. Middle schools were most likely to lag behind in CS participation
+(defined in this study as consistently reaching less than 10 percent of students). Our
+findings suggest that the structural barriers to offering CS to all students are greater
+in middle and high schools, where CS is typically provided as a stand-alone elective
+course; in elementary schools, CS tends to be integrated into other core subjects.
+Middle schools, in particular, struggle to offer sufficient CS courses because they
+have less room in students’ schedules for elective classes.
+•
+Competing instructional priorities were a major barrier to CS implementation.
+Schools that lagged the most behind in participation had larger proportions of
+students living in poverty and smaller proportions of students who were proficient in
+math and ELA. Competing priorities—such as the need to provide remediation for
+students in core subject areas—took precedence over expanding CS participation.
+Educators from these schools were less likely to report that CS was a priority for
+their school and that their school staff was aligned around a vision for CS.
+•
+Building a strong school-wide culture around CS equity is foundational for
+expanding access. Schools that had sustained high participation rates were able to
+align CS with other school and district instructional priorities, raise awareness in the
+whole school community about what CS education is and how it supports student
+engagement and learning, and develop a clear vision and plan for expanding
+access to all students. Teacher leadership was important in fostering buy-in for CS
+across the school community.
+•
+Common planning time is crucial to support successful integration of CS into
+other classes. Lack of time to teach CS, and to plan new and/or modify existing
+lessons, was a major barrier for teachers in schools offering integrated CS units.
+The schools with sustained high participation set aside common planning time for
+instructional leaders to align CS units and lessons with the larger scope and
+sequence of required curriculum and with the instructional priorities of their school.
+This involved providing teachers with guidance about how to incorporate
+
+ 
+2 
+computational thinking skills into their instruction in core subject areas, including 
+ideas for specific lessons and units. 
+• 
+Schools that required all students to take CS were able to sustain high rates 
+of participation. Schools that met the initiative’s goals found ways to make room in 
+students’ schedules so that all students could take CS. For elementary schools 
+offering integrated units, a promising strategy was to have a cluster teacher1 teach 
+CS (a cluster teacher is a specialist—such as a science teacher—who is not 
+assigned to the same group of students all day). The cluster teacher could provide 
+CS instruction directly and work with classroom teachers to integrate CS into other 
+core subjects. Middle and high schools that achieved high participation often made 
+CS a required course; however, doing so involved challenging trade-offs around 
+which elective courses were most important to offer. 
+Recommendations for Policy and Practice 
+As other K-12 districts nationwide aim to expand student participation in CS, lessons from 
+the NYC CS4All initiative’s capacity-building efforts can inform implementation strategies 
+and professional learning (PL). Key implications for policy and practice include: 
+1) Continue to emphasize CS culture building in school communities. Raising 
+awareness around what CS is and how it promotes student engagement and 
+learning—particularly in terms of creative and critical thinking skills (Scherer et al. 
+2019) that are applicable across content areas—is important to increase buy-in 
+among teachers, students, and families.  
+2) Help schools strategize to overcome scheduling and staffing challenges and 
+align CS with other school instructional priorities. Fostering communities of 
+practice where school leaders can share promising approaches with one another 
+would be particularly beneficial. Providing more PL in how to integrate CS into core 
+subject areas for middle and high school teachers could be a route to overcoming 
+scheduling constraints and increasing CS participation by providing multiple entry 
+points for students.  
+3) Nurture connections between CS instruction and state standards. Provide PL 
+to help map existing CS curricula and lessons onto state learning standards in core 
+content areas that schools are held accountable for, or provide teachers with 
+curricula/instructional materials that are already well aligned to core content 
+standards. Again, cultivating communities of practice can provide a way for teachers 
+to share unit and lesson plans across different schools; it can also raise awareness 
+of how CS may support student learning in other subject areas and give teachers 
+concrete ideas about how to implement CS. 
+4) Target PL opportunities for schools lagging the most behind in participation. 
+This should include support for forging partnerships with outside groups (such as 
+industry partners) who can provide additional resources (e.g., funding, curricular 
+materials, and technology). These partnerships can help schools offer out-of-school 
+programming that begins to expose more students to CS and lays the groundwork 
+for eventually implementing CS during the school day. 
+ 
+1 “Cluster teacher” is the term NYCPS uses for this role (see the UFT's definition). In other districts, these 
+teachers may be referred to as specialist teachers. 
+
+ 
+3 
+Introduction 
+A large-scale public-private partnership, the New York City Public Schools’ (NYCPS) 
+Computer Science for All (CS4All) initiative aimed to expand access to computer science 
+(CS) to all students in the district. CS4All was particularly focused on reaching students 
+who are disproportionately underrepresented in CS education and careers, such as Black 
+and Latinx students and girls. The initiative’s ambitious goal was to provide at least one 
+meaningful CS experience—that is, an experience that develops computational thinking, 
+problem-solving, creativity, and critical thinking skills, and that involves career-connected 
+learning—to every student at least once within each grade band (K-2, 3-5, 6-8, 9-12). 
+As detailed in our report on building individual teacher capacity to implement CS, the 
+initiative was initially focused on dramatically expanding professional learning (PL) 
+opportunities for teachers, preparing them to teach CS in their schools. As the initiative 
+matured, the district’s Computer Science Education team began to develop a “whole school 
+approach” to professional learning, which was intended to foster a strong CS culture 
+emphasizing equitable CS access and culturally responsive instruction throughout entire 
+school communities, while also scaling up CS offerings. This shift was based in part on the 
+growing recognition that the leadership of school administrators and teachers was crucial to 
+successfully implementing CS. In keeping with this insight, the district expanded PL 
+opportunities for school administrators and teacher leaders, in order to help them develop 
+robust CS implementation plans and learn how to raise awareness about the importance of 
+CS in their wider school communities. 
+This report investigates the progress that NYCPS schools made toward reaching the 
+initiative’s goals and sustaining participation in CS among their students. It builds on our 
+past work developing progress ratings to capture the extent to which schools were reaching 
+all of their students with CS, as well as the extent to which participation was equitable for 
+historically underrepresented groups. We also report on results from our school survey and 
+interviews with school leaders and teachers, providing a deeper examination of facilitators 
+and barriers to scaling up CS offerings and building an equitable, school-wide CS culture. 
+Finally, we examine the experiences of schools with different CS participation trajectories 
+over time, to understand what enabled some schools to sustain high rates of participation 
+and what prevented other schools from ever offering CS.  
+Schools Had Different CS Participation Trajectories 
+To support CS implementation, our team developed a set of CS progress ratings to 
+measure the extent to which individual schools across NYC were meeting the initiative’s 
+goals. These progress ratings were used as a part of school and teacher leader PL 
+sessions to help schools create implementation plans for scaling up equitable CS offerings 
+and for expanding student participation. They were also used by the Computer Science 
+Education team to identify schools that had little to no CS implementation, allowing for the 
+provision of targeted resources, funding, and PL recruitment. 
+Our progress ratings captured both how many of a school’s students took CS during their 
+grade band and whether CS participation was equitable in terms of gender and 
+race/ethnicity. First, we created a saturation metric that reflects the percentage of students 
+in the school who had at least one unit of CS instruction, or a standalone CS course, by the 
+
+ 
+4 
+final year of their respective grade band (i.e., 2nd, 5th, 8th, or 12th grade). Second, to 
+capture equitable participation, we used three different metrics—the participation rate, the 
+composition index, and the relative participation ratio—to assess whether participation was 
+equitable for girls and Black and Latinx students when compared to their peers.2 Table 1 
+illustrates how the saturation and equity metrics were used to calculate an overall CS 
+progress rating for each school.  
+Table 1: Saturation, Equity, and Overall Progress Rating Definitions 
+Rating 
+Saturation (the percent of 
+students in the school 
+who have had at least one 
+CS course by the last 
+grade in the grade band) 
+Equity (the extent to 
+which there is equitable 
+CS participation among 
+female, Black, and Latinx 
+students) 
+Overall 
+Progress 
+1 - Beginning  
+1-29% 
+At least 1 subgroup did not 
+meet the equity threshold 
+for any of the 3 metrics (i.e., 
+the participation rate, the 
+composition index, and the 
+relative participation ratio). 
+Average 
+score of 1 
+or 1.5 
+2 - Progressing  
+30-59% 
+All 3 subgroups met the 
+threshold for 1 of the 3 
+metrics. 
+Average 
+score of 2 
+or 2.5 
+3 - Approaching  
+60-89% 
+All 3 subgroups met the 
+threshold for 2 out of the 3 
+metrics. 
+Average 
+score of 3 
+or 3.5 
+4 - Achieving  
+90+%  
+All 3 subgroups met the 
+threshold for all 3 metrics. 
+Average 
+score of 4 
+ 
+For the current report, we wanted to understand how efforts to implement CS, sustain high 
+rates of CS participation, and foster an equitable school-wide CS culture varied across 
+schools with different CS participation trajectories. To that end, we grouped schools into 
+four categories using the progress ratings—which included both CS saturation and 
+equitable participation—from 2019 to 2023.3 Our sample for this analysis includes 1,494 
+schools.4 The four groups are as follows: 
+ 
+ 
+2 These equity metrics have been used by others in examining disproportionality (see Fergus, 2016). For more 
+details on these metrics, please see Fancsali et al. 2022. 
+3 NYCPS began tracking CS course-taking in the 2015-16 school, so the first year we are able to report CS 
+access by three- or four-year grade band is 2018-19. 
+4 The sample includes all schools that had a progress rating for each year between 2019 and 2023. Progress 
+ratings are calculated for schools in Districts 1-32 with a student population greater than 10, and excludes home 
+schools. 
+
+ 
+5 
+• 
+Group 1: Schools with sustained high and equitable CS participation. These 
+schools had an achieving or an approaching rating for at least two consecutive 
+years between 2019 and 2023. A total of 372 schools, representing about 25 
+percent of the sample, met this criteria. 
+• 
+Group 2: Schools that ramped up CS participation, but did not sustain it. 
+These schools reached achieving or approaching ratings in at least one year 
+between 2019 and 2023, but did not sustain these ratings for consecutive years. A 
+total of 226 schools, representing 15 percent of the sample, met this criteria. 
+• 
+Group 3: Schools that stalled in their CS participation. These schools never 
+reached an achieving or approaching rating, but had over 10 percent saturation in at 
+least one year between 2019 and 2023. A total of 462 schools, representing 31 
+percent of the sample, met this criteria. 
+• 
+Group 4: Schools that lagged in CS participation. These schools never had 
+above 10 percent saturation between 2019 and 2023. A total of 434 schools, 
+representing 29 percent of the sample, met this criteria.  
+To examine how schools with different CS participation trajectories varied, we used four 
+sources of data: 
+• 
+Administrative records data for NYCPS students and school staff. This 
+includes school-level data on student demographic characteristics (e.g., 
+race/ethnicity, socioeconomic status, prior academic performance).  
+• 
+Teacher CS4All PL participation records. The initiative offered a diverse selection 
+of PL programs for teachers in foundational and advanced CS curricula, equity, and 
+culturally responsive pedagogy. Notably, the initiative also offered leadership PL for 
+administrators and CS lead teachers. These PL programs supported administrators 
+and lead teachers in building a school-wide culture and vision for CS and in creating 
+and enacting a school CS implementation plan. 
+• 
+School and teacher leader survey administered in 2021. Administered to all 
+schools, this survey was designed to gather information about school-wide 
+implementation of CS. We asked respondents5 about the strength of the CS culture 
+in their school, the extent to which the school community was aligned around a 
+vision for offering CS, and plans for implementing that vision.6  
+• 
+Interviews with school administrators and CS teachers. We spoke with 53 
+school staff members—23 teachers and 30 administrators—across 32 schools from 
+the fall of 2020 through the spring of 2023.7  We purposefully recruited schools 
+based on the four CS participation trajectories in order to learn from schools that 
+were representative of each group. 
+ 
+5 We asked each school to have either an administrator or another staff member knowledgeable about the 
+school’s CS programming (e.g., a CS lead teacher) fill out the survey. Out of the 676 schools in our sample, 363 
+responded, yielding a response rate of 54 percent. 
+6 Since the survey was administered in 2021, we only used progress ratings from 2019 to 2021 to calculate the 
+participation trajectory groups for the survey analysis. 
+7 Please note that while the interview sample may overlap with the survey sample (i.e., some of the interviewees 
+may have responded to the survey), they are distinct. For each recruited school, we attempted to interview at 
+least one administrator and teacher, except for the schools lagging in participation, where we only interviewed 
+an administrator in each. 
+
+ 
+6 
+In the following sections, we report on how school characteristics, uptake of professional 
+development opportunities, and the strength of schools’ CS culture, vision, and 
+implementation planning varied for schools with different CS participation trajectories.  
+School Level, Demographic, and Geographic Differences  
+We found notable differences when we examined CS participation trajectories by grade 
+level (see Figure 1). A larger share of elementary schools maintained strong and equitable 
+participation, compared to middle and high schools. Strikingly, while 34 percent of 
+elementary schools had sustained high participation rates, only about 24 percent of middle 
+schools and just 7 percent of high schools did. This indicates that elementary schools faced 
+fewer barriers in meeting the initiative’s goals. 
+Second, we found that a much larger share of high schools (60%) had stalled participation 
+ratings, compared to elementary schools (19%) and middle schools (26%). This means that 
+while most high schools were able to offer some CS to their students, far fewer of them 
+managed to scale up participation and ensure that all or most students took a CS course 
+between 9th and 12th grade. Finally, a larger share of middle schools (almost 37%) were 
+lagging in CS participation, compared to elementary schools (about 30%) and high schools 
+(about 22%). This suggests that there may be barriers specific to middle schools that are 
+preventing many of them from offering any CS to their students. 
+Figure 1: School Type by CS Participation Trajectory 
+ 
+ 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools. 
+Notes: The sample includes all schools that had a progress rating for each year between 2019-2023. Progress 
+ratings are calculated for schools in Districts 1-32 with a student population greater than 10, and excludes home 
+schools. 
+ 
+ 
+
+ 
+7 
+In terms of school demographic characteristics, there are smaller differences across the 
+participation trajectories (see Table 2). Overall, schools with sustained high participation 
+rates tended to serve lower proportions of students living in poverty and of Black and Latinx 
+students, on average, and higher proportions of students who were proficient in English 
+language arts (ELA) and math, based on state exams. 
+Table 2: School Demographics by CS Participation Trajectory 
+ 
+ 
+ 
+Sustained High 
+Participation 
+(N=372) 
+Ramped Up 
+Participation 
+ (N=226) 
+Stalled 
+Participation 
+(N=462) 
+Lagging 
+Participation 
+(N=434) 
+% Students 
+Living in 
+Poverty 
+74.5 
+77.9 
+77.6 
+79.4 
+% Black and 
+Latinx 
+Students 
+55.7 
+64.2 
+67.1 
+67.9 
+% Proficient 
+in ELA 
+50.0 
+46.6 
+45.8 
+43.8 
+% Proficient 
+in Math 
+49.6 
+41.0 
+33.3 
+39.2 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools.  
+Note: For high schools, the percentage of students who are proficient in math and ELA is based on average 8th 
+grade test scores for the 9th grade students in 2023. 
+ 
+We see important differences when we look at participation trajectories across NYC’s 32 
+community school districts (CSDs). CSD 26, in northeastern Queens, has the greatest 
+proportion of schools that sustained high and equitable participation rates, with over 80 
+percent of the schools meeting that benchmark (see Figure 2 on the next page). Notably, 
+CSD 26 took part in a district engagement pilot that involved its superintendent and 
+borough support center. With the Computer Science Education team, these district leaders 
+coordinated around a year-long strategy to align CS programming with other district 
+priorities and to position district schools to run their own professional learning and expand 
+CS instruction. The CSDs with the next four largest proportions of schools with sustained 
+high participation rates are CSD 31 in Staten Island, CSD 30 and CSD 25 in Queens, and 
+CSD 22 in Brooklyn—all with between 40 and 50 percent of their schools sustaining high 
+participation rates between 2019 and 2023 (see the Appendix for the proportion of schools 
+in the sustained high participation trajectory for each CSD). 
+ 
+ 
+ 
+
+ 
+8 
+Figure 2: Percent of Schools with Sustained High Participation by CSD  
+ 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools.  
+There are also differences across CSDs in the percentage of schools that lagged behind in 
+CS participation. CSD 9 in the Bronx had the greatest share of schools that lagged behind, 
+with 57 percent of the schools unable to provide CS to at least 10 percent of their students 
+between 2019 and 2023. The CSDs with the next four largest proportions of schools 
+lagging in CS participation were CSDs 10, 11, and 12 in the Bronx and CSDs 6 and 7 in 
+upper Manhattan—all with between 40 and 50 percent of their schools falling into the 
+lagging category (see the Appendix for the proportion of schools in the lagging behind in 
+participation trajectory for each CSD). 
+Figure 3: Percent of Schools Lagging Behind in Participation by CSD  
+ 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools.  
+
+ 
+9 
+Differences in Uptake of Professional Learning Opportunities  
+We found large differences across participation trajectories in terms of educators’ 
+engagement in CS4All PL offerings (see Table 3). In particular, a much lower proportion of 
+schools lagging in participation took part in school leader PL (only 11%) and teacher leader 
+PL (2%), compared to schools in the other categories. While over half of the schools in the 
+other categories sent two or more teachers to any CS4All PL (e.g., PL in CS curricula, 
+equity and culturally responsive pedagogy, and/or school leadership), only 18 percent of 
+lagging schools did so. These results might indicate both that PL helped schools offer more 
+CS and that school staff who were already more bought into offering CS might have been 
+more likely to participate in PL. 
+Table 3: School Professional Learning Uptake by CS Participation Trajectory 
+ 
+Sustained High 
+Participation 
+(N=372) 
+Ramped Up 
+Participation 
+ (N=226) 
+Stalled 
+Participation 
+(N=462) 
+Lagging 
+Participation 
+(N=434) 
+% Ever 
+participated in 
+school leader PL 
+48.1 
+49.1 
+38.7 
+11.1 
+% Ever 
+participated in 
+teacher leader PL 
+29.6 
+21.7 
+16.7 
+2.0 
+% Sent two or 
+more teachers to 
+any type of PL  
+64.0 
+64.1 
+52.0 
+17.8 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools and the Research 
+Alliance 2021 CS School Survey.  
+ 
+Strength of School CS Culture, Vision, and Implementation 
+Planning  
+Next, we report on survey items related to the strength of CS school culture (see Table 4 
+on the next page).8 Notably, there was not much variation in school and teacher leaders’ 
+responses to the statement, “The majority of teachers and counselors at my school think it 
+is important to offer CS.” Across progress categories, between 66 and 72 percent of 
+respondents agreed or strongly agreed that this is true. There were bigger differences in 
+whether school and teacher leaders from the different groups believed that CS was a high 
+priority for their school. Strikingly, 80 percent of leaders in schools with sustained equitable 
+and high participation agreed that CS was a priority for their school, while only 59 percent 
+of leaders in lagging schools agreed with this statement.  
+ 
+ 
+ 
+8 In this brief, we only report on some of the CS culture, vision, and implementation items from the survey. The 
+full set of survey results, which demonstrate similar patterns in responses across the CS participation 
+trajectories, are available upon request. 
+
+ 
+10 
+Table 4: CS Culture by Participation Trajectory 
+Sustained High 
+Participation 
+(N= 97) 
+Ramped Up 
+Participation 
+ (N= 59) 
+Stalled 
+Participation 
+(N=139) 
+Lagging 
+Participation 
+(N=51) 
+“CS education is 
+currently a priority for 
+my school.” (%) 
+80.4 
+71.2 
+73.4 
+58.8 
+“The majority of 
+teachers and 
+counselors at my 
+school think it is 
+important to offer 
+CS.” (%) 
+71.3 
+72.4 
+65.9 
+69.4 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools and the Research 
+Alliance 2021 CS School Survey. 
+Note: Table shows the percentage of respondents agreeing or strongly agreeing with each survey item.  
+ 
+When we look at survey items about the strength of the school’s CS vision (see Table 5), 
+we see that about 80 percent of leaders in schools with sustained high participation agreed 
+that their vision for CS aligns with other school initiatives and takes into account competing 
+priorities, compared to about 57 percent in schools lagging behind in participation. Notably, 
+across the board, less than half of school leaders reported that teachers in their school 
+understood their school’s definition of CS. This suggests that school leaders might need to 
+spend more time raising awareness about the importance of CS with their entire school 
+community, so that even teachers who are not teaching CS know what it is and how it can 
+support student learning. 
+Table 5: CS Vision by Participation Trajectory 
+ 
+Sustained High 
+Participation 
+(N=93) 
+Ramped Up 
+Participation 
+ (N=56) 
+Stalled 
+Participation 
+(N=127) 
+Lagging 
+Participation 
+(N=45) 
+“I am aware of how my 
+school’s CS vision aligns 
+with other school-wide 
+initiatives and takes into 
+account other competing 
+priorities.” (%) 
+80.4 
+67.9 
+74.8 
+56.8 
+“Teachers in my school can 
+understand the school’s 
+definition of CS and explain 
+it to others.” (%) 
+39.8 
+33.9 
+42.6 
+20.0 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools and the Research 
+Alliance 2021 CS School Survey. 
+Note: Table shows the percentage of respondents agreeing or strongly agreeing with each survey item.  
+
+ 
+11 
+Finally, we turn to survey items capturing the extent to which schools have a fully 
+developed CS implementation plan (see Table 6). In general, schools with lagging 
+participation rates were less likely to have various aspects of an implementation plan in 
+place, according to school and teacher leaders. In particular, a much smaller share of 
+schools lagging in participation reported that they had a plan to organize a school-wide 
+event or engage families in CS education.  
+Table 6: CS Implementation Plans by Participation Trajectory 
+Sustained High 
+Participation 
+(N=101) 
+Ramped Up 
+Participation 
+ (N=60) 
+Stalled 
+Participation 
+(N=144) 
+Lagging 
+Participation 
+(N=52) 
+“My school has an 
+implementation 
+plan.” (%) 
+74.3 
+70.0 
+72.9 
+32.7 
+“My school’s 
+implementation plan 
+has a plan for 
+organizing a CS 
+event.” (%) 
+52.5 
+41.7 
+38.2 
+13.5 
+“My school’s 
+implementation plan 
+has a plan for 
+increasing access for 
+underrepresented 
+students.” (%) 
+29.7 
+31.7 
+36.8 
+17.3 
+“My school’s 
+implementation plan 
+has a plan for 
+engaging families in 
+CS education.” (%) 
+51.5 
+28.3 
+29.9 
+11.5 
+Source: Research Alliance calculations based on data obtained from NYC Public Schools and the Research 
+Alliance 2021 CS School Survey. 
+Note: Table shows the percentage of respondents agreeing or strongly agreeing with each survey item.  
+Insights from Educator Interviews 
+We took a deeper dive into the perspectives of school leaders and teachers by conducting 
+semi-structured interviews with 53 school staff members—23 teachers and 30 
+administrators–—across 32 schools. The interviews took place between the fall of 2020 
+and the spring of 2023 (see Table 7 for a breakdown of our interview sample). We 
+purposefully recruited schools based on the four CS participation trajectories in order to 
+hear from schools that were representative of each group. For the schools that maintained 
+equitable and high participation rates, we focused on what school staff saw as critical 
+factors in making their CS program sustainable. For schools that ramped up participation, 
+we focused on what helped them grow their CS program. For schools with stalled  
+ 
+ 
+
+ 
+12 
+participation, we focused on the barriers they faced in expanding CS participation to more 
+students. Finally, for schools that lagged in CS participation, we focused on understanding 
+the challenges that had prevented them from offering CS. 
+Table 7: Interview Sample by School Participation Trajectory 
+Sustained High 
+Participation  
+Ramped Up 
+Participation 
+Stalled 
+Participation 
+Lagging in 
+Participation 
+Total 
+# of Schools  
+ 7 schools  
+(4 elementary, 1 
+middle, 2 high)  
+3 schools 
+(2 elementary, 1 
+middle)   
+  11 schools  
+(2 elementary, 2 
+middle, 7 high)  
+11 schools 
+(4 elementary, 3 
+middle, 4 high) 
+32  
+# of Teachers  
+10 
+3 
+10 
+0 
+23 
+# of Administrators 
+5 
+3 
+11 
+11 
+30 
+ 
+In addition to the leadership PL, CS4All offered PL that was designed to help teachers 
+implement CS using one of the following models: 
+• 
+Integrated CS units. These sessions focused on integrating CS into lessons and 
+units offered during regular class time (i.e., not in afterschool programming) across 
+content areas for K-2, 3-5, and 6-8 teachers. The goal was to prepare teachers to 
+teach one unit of instruction, lasting at least 11 hours, that integrated computer 
+science into another subject (e.g., math, ELA). Given that the unit trainings were 
+focused on the lower grade bands, elementary schools tended to offer integrated 
+CS; middle school teachers were trained in both how to offer integrated units and, 
+as described in the next bullet, how to teach stand-alone CS courses. 
+• 
+Stand-alone courses. CS4All offered PL sessions that trained teachers in offering 
+stand-alone CS courses for grades 6-12. These courses' curricula were grounded in 
+research and were designed to provide students with opportunities to develop 
+computational concepts and practices based on their personal passions. Schools 
+offering stand-alone courses could provide multiple pathways depending on what 
+works best for their school, including half- and full-year courses ranging from 
+introductory to advanced AP offerings.  
+• 
+Sequences. CS4All offered PL designed to prepare teachers to implement a 
+sequence of CS experiences (e.g., courses or integrated units) comprising the 
+Software Engineering Program (SEP) for grades 6-12 and the Software Engineering 
+Program Junior (SEPJr.) for grades K-5. A minimum of two teachers from a school 
+participated as a team, and schools committed to participating for multiple years to 
+implement a CS sequence/pathway in their school. The programs offered instruction 
+and experience in computer programming, robotics, web design, physical 
+computing, and game design. Students also participated in hackathons and 
+showcases, and in work-based experiences with industry partners. 
+ 
+
+ 
+13 
+For our interviews, we selected schools that represented the integrated unit and stand-
+alone models of CS implementation9 to understand how barriers and facilitators to 
+implementation might differ across contexts. In the following sections, we discuss factors 
+that impeded or facilitated schools’ capacity to meet the initiative’s CS participation goals. 
+Given that the barriers and facilitators tended to be different depending on whether schools 
+were offering CS through integrated units or stand-alone courses, we discuss each 
+separately. 
+What Were the Barriers to Offering Integrated CS Units to All Students? 
+Lack of Time to Implement CS Instruction 
+A major barrier for schools attempting to offer integrated CS units was insufficient time to 
+implement CS instruction. All of the administrators and teachers that we interviewed—even 
+in schools with sustained high participation rates—reported that classroom teachers 
+struggled to find time to teach CS units. Carving out time for CS was especially difficult 
+because there were other priorities that took precedence. A CS lead teacher, who was just 
+beginning to create CS lessons to be incorporated into the instructional learning modules 
+that her elementary school’s teachers would follow throughout the year, underscored this. 
+She explained,  
+“In our schools, every grade has different instructional modules. You have 30 days 
+for this module, and then you have 30 days for next. Are we going to have enough 
+time to integrate CS in those 30 days?”  
+In particular, school staff reported struggling to fit integrated CS units into the scope and 
+sequencing of other mandated curricula for which they were held accountable in state 
+exams. They also reported having insufficient time and capacity to design or modify 
+lessons and curricula to ensure that they reflected the school’s instructional priorities and 
+met the needs of their specific school population. As one elementary school administrator 
+noted, 
+“Adjusting a great lesson for the student sitting in front of you is a full-time job. If 
+we want computer science to be in the classrooms, we have to find, create, or 
+provide that [adjustment] at some level. This is very, very time-consuming, and I'm 
+not sure it's the highest leverage use of our time for student learning right now.”  
+Due to these barriers, teacher buy-in to implement CS has suffered. Attempting to integrate 
+CS into other instructional units felt like another burden on top of other urgent priorities. 
+One teacher explained,  
+“Time is everything. What we're seeing is, everybody's pressed and pulled in many 
+different directions. When you say, ‘Can you do this?,’ the first thing is, a wall goes 
+up, and it's, ‘No, I can't do any more.’”  
+ 
+9 Two of the elementary schools we studied had previously sent teachers to PL sessions to implement a 
+sequence of CS curricula (i.e., SEPJr.), but were implementing CS through integrated units by the time of our 
+interviews. 
+
+ 
+14 
+Administrators and teachers also reported a lack of recognition among some educators 
+about the potential of CS to boost student engagement in learning and mastery of content 
+in other subject areas. As one administrator observed,  
+“One of the things that teachers need to see is that this is not another program 
+that’s been pushed on them. As they’re working through projects in science, social 
+studies, or ELA, integrating CS learning and techniques gives students another form 
+of learning in their classroom that taps into different modalities. Academically, this 
+excitement will help bring students up to another level and give them that motivation 
+to do better.”  
+The message that lack of time to implement was a major barrier for schools offering 
+integrated CS units is consistent with findings from other research on the NYC CS4All 
+initiative (Israel et al., 2022;  Fancsali et al., 2020). Taken together, these findings strongly 
+indicate that teachers view insufficient time as a primary challenge to implementing CS, 
+particularly at the elementary level. 
+Lack of CS Buy-In from the Wider School Community 
+In the lagging schools that we studied, barriers to generating buy-in for CS were 
+compounded. Interviewees from these schools reported that a lack of buy-in among 
+teachers was often driven by a misunderstanding of CS instruction, and by the assumption 
+that CS is just about using technology rather than focusing on teaching computational 
+thinking skills, which can be done with both plugged and unplugged lessons.10 Notably, this 
+misunderstanding was also reflected in our school survey: while 40 percent of leaders in 
+schools with sustained equitable and high participation rates reported that teachers 
+understood their school’s definition of CS, only 20 percent of leaders in schools with 
+lagging participation did.  
+Some school staff reported that hesitation among teachers about using computers, 
+devices, and other technology was a barrier. As an example, a leader of a progressive 
+elementary school described how they had to overcome teachers’ preconceived notions 
+and expand their thinking about what computer science education has to offer. He said, 
+“There's a belief amongst a number of the staff members that too much tech isn't 
+good for kids, too much screen time isn't good for them. Tech then becomes a no-no 
+to some of the adults. Since I've been principal, I’ve been modeling [CS] integration. 
+We can be progressive and tech-literate, but it's a slow buy-in for a number of staff 
+members.”  
+This hesitation and general lack of buy-in among teachers meant that school staff were less 
+likely to take up opportunities to attend CS4ALL PL offered by the district. As noted above, 
+only 18 percent of schools lagging in participation sent two or more teachers to any type of 
+PL, compared to over 50 percent of schools in the other participation trajectories.  
+ 
+ 
+10 “Unplugged” CS lessons and activities teach underlying CS concepts and computational thinking skills without 
+the use of a computer or other device (e.g., tablets). 
+
+ 
+15 
+In addition, school staff reported a lack of demand from the wider school community—
+including families—to offer more CS. As one school leader from an elementary school with 
+a high proportion of students living in poverty shared, 
+“There's been no demand. My parents have never asked me, Why are their kids not 
+getting technology? My families talk about social services and different things.”  
+Notably, in our survey, only about 12 percent of schools lagging in participation had a plan 
+to engage families in CS, while about half of schools with sustained high participation rates 
+did. 
+Specific Barriers for Lower-Resourced and Lower-Performing Schools 
+Our survey findings highlighted that schools lagging behind in CS implementation had a 
+larger share of students who were not proficient in ELA or math. In our interviews with staff 
+from these schools, most reported that integrating CS took a backseat to more pressing 
+priorities, such as remediation in core subject areas. As one elementary school principal 
+told us, 
+“I have a Title I population. My babies are already coming in behind the eight ball 
+and [need] a lot of remediation. I'm training staff on how to teach students to read. I 
+can't think about how to integrate more computer science into what we're doing. I 
+need [teachers] to be proficient at teaching children how to read and write.”  
+Schools lagging in participation also asserted that other district priorities led them to 
+deemphasize CS. As an example, a dual-language elementary school we studied started 
+offering integrated CS units in some classrooms with the help of an outside university-
+based program. The school was not able to sustain these offerings after the partnership 
+concluded. When asked about the school’s plans to start implementing CS again, the 
+school leader responded,  
+“My staff is extremely limited, and so placing that on the teachers right now, I know 
+that would not get any kind of attention. The chancellor has mandated schools to 
+switch curricular programs for reading and for math. We're in the midst of adopting 
+those changes, so I'm not bringing on any [other] big initiatives.”  
+Additionally, the school staff we interviewed from schools lagging in CS participation also 
+reported that resource and funding constraints prevented them from offering more CS. As 
+one elementary school leader explained,  
+“We're not a STEM or tech school, so we really just have school-based funding. 
+Having a maker space and access to 3D printers and all of those things can really 
+create student interest in coding and wanting to do [CS]. I have not had the 
+opportunity to do it at my present school yet. It would be great to have [NYCPS] 
+support in terms of: How do we access funds to make some of this happen?”  
+Most of the leaders from schools lagging in participation echoed this sentiment, 
+emphasizing that support in accessing additional funding streams for purchasing materials 
+to offer CS would be beneficial.  
+
+ 
+16 
+What Were the Facilitators to Offering Integrated CS Units? 
+Anchoring CS Integration in a Cluster Classroom 
+Among the study schools offering integrated CS units, all six that had sustained equitable 
+and high participation or were able to ramp up participation had a cluster teacher who 
+delivered CS instruction; a cluster teacher is a teacher who teaches multiple classes of 
+students across grade levels. Every elementary school in NYC has a cluster teacher, to 
+ensure that students receive instruction during classroom teachers’ prep periods. In the 
+schools we visited, these staff played a variety of roles, including technology and computer 
+science teachers, STEM teachers, and a librarian and literacy specialists. The cluster 
+teacher served as an anchor for growing and sustaining the CS program, as they were 
+scheduled to provide all students with consistent CS instruction.  
+Cluster teachers offering CS instruction allowed schools to more quickly ramp up their 
+participation. There were several schools that saw a dramatic change in their progress 
+ratings from one year to the next once their cluster teacher was able to attend CS4All PL 
+and begin implementing CS instruction. As an example, one of the elementary schools we 
+studied increased the percentage of students receiving CS in their grade band from 11 
+percent in 2020 to 100 percent in 2021, as it shifted to intentionally blocking off one period 
+a week for each class to receive CS with the school’s STEM cluster teacher, instead of 
+having the teacher offer it sporadically. The school’s administrator said,  
+“Trying to balance teaching science and CS is hard. Now that it is on the schedule, 
+the [STEM teacher] knows, and the students know, that on this day every week, they 
+will do CS.”   
+Notably, the schools we interviewed with sustained high participation rates also had several 
+classroom teachers who were implementing CS into other content areas, in addition to the 
+work of the cluster teacher. The staff we interviewed told us that it was important for 
+sustainability that more than one teacher was teaching CS to guard against turnover. As a 
+principal from one of these schools explained, 
+“Eventually, I would like to see my stand-alone CS cluster dropped and really have 
+100 percent full integration in every single content area in every single unit. What 
+are the ways that we can incorporate CS and hit all the standards? That’s where I’d 
+like to go.” 
+In these schools, the CS cluster teacher supported integration into other classrooms by 
+teaching foundational computer science concepts that could then be reinforced with aligned 
+lessons taught by other classroom teachers. 
+Teacher Leadership to Increase Buy-In 
+Administrators and teachers reported that teacher leadership in CS was integral to ramping 
+up implementation. For instance, one elementary school leader who had begun to require 
+that all teachers integrate CS at least one period per week shared that teacher interest 
+drove the school’s integration efforts. She recounted, 
+
+ 
+17 
+“One of my teachers, who is very interested in computer science, saw some PDs 
+that were being offered, and she said, ‘Well, is it okay for me to attend?’ She 
+attended. Then when she went, she decided to start teaching robotics to her 
+students. And she was incorporating it in her classroom, and other teachers, as 
+they're passing by her class, they're like, ‘Oh, that looks good. What are you doing 
+there? What is this? What is that?’” 
+As exemplified above, teachers who champion integrating CS into their classroom and 
+model what it looks like to others can foster other teachers’ interest in trying to integrate 
+CS. Many of the schools with sustained high rates of participation emphasized that it takes 
+a team of both teachers and administrators to lead the work and to ensure that it is viable 
+for the long term. As one principal from a school with sustained high rates of participation 
+said,  
+“I always say this: It really only takes one person to make change. If you can find 
+one person who’s going to really spearhead your CS vision, then you’re on the right 
+track because that one person will get one other person. That one other person will 
+get one other person. It can’t be the administrator just saying, ‘Do it.’” 
+School staff also believed that providing professional development sessions or training 
+workshops for teachers—that center on demystifying CS and providing examples of how 
+CS can be integrated across content areas—could help improve buy-in. For example, in a 
+middle school that offered CS primarily through integrated units, the CS technology 
+teacher, who was scheduled to see all sixth graders, also provided training for other 
+teachers on integrating CS into their respective content areas. Coordinating with school 
+leaders, the technology teacher facilitated professional development sessions that helped 
+teachers gain a deeper understanding of CS and underlying computational thinking skills, 
+such as pattern recognition, iterating on processes, and debugging errors. She described 
+the PL, saying, 
+“[The teachers] brought a lesson with them, and then we incorporated computer 
+science into their lesson so they understood how it worked. It opened up their mind 
+to thinking about CS, so they know it’s not just about taking out computers and 
+using them. It’s about using algorithms, having the students understand processes, 
+and understand how they can go back and correct any mistakes that were made, or 
+[think through] how they can do things differently.” 
+Across all of the schools offering integrated units that we studied, staff said that concrete 
+examples of lessons that integrate CS would be especially helpful in encouraging more 
+teachers to implement CS content. 
+Setting Aside Common Planning Time 
+Given the lack of time that classroom teachers had to plan new and/or modify existing CS 
+lessons, setting aside common team planning time was crucial to implementation. 
+Interviewees reported that allocating more time for in-house CS planning served as a 
+valuable support for teachers who were integrating CS. Planning could also involve 
+developing CS course sequences or curriculum, and facilitating in-school professional 
+development. 
+
+ 
+18 
+In the schools we studied, these efforts were generally led by the CS cluster teacher, who 
+saw students across different classrooms and grades. The cluster teacher would act as an 
+instructional leader and work with other classroom teachers to create lessons that 
+integrated CS in different content areas and reinforced the CS skills students were learning 
+in the cluster classroom. This could include strategies for incorporating computational 
+thinking into other classroom routines outside of specific lessons or units, such as getting 
+kindergarten students to understand that the daily schedule was akin to a computer 
+algorithm. One of the elementary schools that had sustained high CS participation carved 
+out regular common planning time, in which the CS cluster teacher met with a team of 
+classroom teachers who were designated as each grade level’s CS lead. The school’s 
+principal noted,  
+“Our computer science teacher took the CS standards and really thought about 
+where they fit into our other grade-level standards. She created rubrics and student 
+checklists, and all of those things are shared back with our classroom teachers, so 
+that they’re not only being used in our computer science classroom, but they’re 
+being used in all of our classrooms.”  
+For this school, widespread integration across classrooms allowed them to sustain their 
+high CS participation rate, even after their cluster teacher became a school administrator 
+and CS was no longer offered in a cluster classroom. 
+Partnerships with Outside Groups to Address Resource Limitations 
+For schools that were beginning to ramp up their CS offerings, afterschool programs 
+provided access to technology and materials to support CS instruction and to start making 
+inroads to integrating CS during the school day. Almost all of the study schools offering 
+integrated units reported providing an afterschool program before providing school-day CS 
+instruction. For the schools lagging behind in participation, which often faced additional 
+resource and capacity limitations, this was a way for students to have at least some CS 
+exposure. As one school leader outlined,  
+“We are going to have an afterschool [program]. We are trying to see if we can 
+incorporate some coding, especially for children in grades 2 to 5. That would be 
+another way for us to incorporate the computer science that they might miss [during 
+the school day], because the majority of my students, they stay in after school.”  
+In fact, all lagging schools in this sample offered some form of CS out-of-school-time 
+programming, such as robotics clubs, coding afterschool, and weekend robotics programs. 
+Schools from the other progress trajectories also reported having received additional 
+support through outside partnerships. One Bronx school attributed their successful CS 
+program to a grant from Code.org. As a teacher there expressed,  
+“The principal was able to get a grant for technology, so we were lucky in the sense 
+that she was able to purchase a lot of materials. We also have iPads for every child 
+when they come to the room. When we were in workshops, that’s some of the 
+challenges that some teachers have, that they don’t have the technology. I don’t 
+think we would’ve been successful if we didn’t have the materials that we had.”  
+
+ 
+19 
+Building partnerships with outside organizations offers schools additional funding, 
+materials, and staffing to sustain their CS programs and was especially beneficial to 
+schools with less infrastructure in beginning to expose students to CS. 
+What Were the Barriers to Offering Stand-Alone CS Courses? 
+Staffing Capacity Barriers 
+Staffing capacity was a significant challenge for schools working to offer stand-alone 
+courses. Many of the middle and high schools we studied relied on teachers who primarily 
+taught classes in other core subject areas to also teach CS. This was due to budget 
+constraints that prevented the schools from hiring dedicated CS instructors. One principal 
+said that a critical barrier to offering more CS is “teacher power.” She elaborated by saying 
+that,  
+“Because [CS] is part of the math department at this point, I’m splitting between 
+math and computer science. If I had the freedom to hire three computer science 
+teachers, that would be revolutionary for us.”  
+Another high school leader echoed this sentiment, saying that, 
+“Having a small school, it's very difficult. A lot of teachers are spread very thin, and 
+there's only so many courses that they can teach. It’s a struggle that we don't have 
+the ability to hire more teachers to be able to offer computer science-aligned 
+courses across all grade levels.”  
+Finding teachers prepared to teach CS was also challenging, because even with the 
+expanded PL opportunities afforded by the CS4All initiative, our respondents still believed 
+that teaching CS in high school required specialized content knowledge that not all 
+teachers possessed—particularly when it came to advanced programming languages. One 
+of the high school principals, who was working to create a data science career and 
+technical education (CTE) track in his school that would include programming classes, 
+noted,  
+“It’s hard finding teachers that know computer programming. If you do have those 
+skills, you’re probably not working in education. You’re probably working in the 
+private sector making a lot more money.”  
+Moreover, many teachers participating in CS4All professional development sessions are 
+relatively new to CS subject matter and pedagogy, which could potentially lead to less 
+rigorous academic expectations for their students. One principal in a school where teachers 
+in the school’s math department teach CS said,  
+“Because my teachers are still fairly new to this, I think that the expectations are a 
+little bit low. I don’t think that they’re demanding as much out of the kids in terms of 
+learning and demonstrating understanding of their coding abilities or statistical 
+analysis abilities, because everything’s still very fresh.”  
+Even when schools were able to hire and/or train teachers to offer CS, the teachers were 
+not always able to teach enough CS courses for all of the students to have access. Often, 
+
+ 
+20 
+those teachers also had to teach courses in other core subject areas that were mandated—
+such as mathematics, English language arts, science, and social studies—as well as 
+mandated elective courses, such as art and physical education. These competing demands 
+on teachers’ time made it hard for many schools to meet (or even approach) CS4All’s 
+goals.   
+Not Offering Sufficient CS Courses for All Students to Participate 
+It is notable that a large share of NYC high schools (60 percent) stalled in their participation 
+rates over time. This means that while they were able to offer CS to some of their students, 
+they were never able to build a robust enough program to reach the entire student 
+population. Our interviews suggest that in schools offering stand-alone courses, staffing 
+and scheduling constraints often limited access to only a subset of students—who, as we 
+have documented in other work, tend to be higher performing academically (Li et al. 2025). 
+We found that for all of the schools that struggled to meet the initiative’s goals, CS was 
+generally only offered as an elective, or solely for students who were a part of a particular 
+academic program or track within the school. When CS was offered as an elective, 
+participation depended largely on student interest; this might be influenced by a variety of 
+factors, including how welcome students feel in CS classrooms. 
+In the schools we studied that did not have a CS or technology-related programmatic focus, 
+CS was often offered as an elective alongside other electives that were more aligned to the 
+school theme. When presented with these choices, students might opt into the other 
+electives over CS. In one such school, the AP CS teacher we interviewed noted that 
+students have a lot of choices in what to take once they are in their junior or senior years, 
+and that CS might not always be their top choice. She told us that a portion of the students 
+in her class were just dumped there because they had a “hole in their schedule.” She 
+concluded, 
+“I don’t think the [administration] is necessarily opposed to having CS goals and a 
+vision for the school to [offer more CS], but it has to lay nicely within the other 
+context. That’s always the tricky part.” 
+Another principal, of a high school with a career-specific theme, said that they wanted to 
+have a robust CS program at the school, but that “there are so many other offerings and 
+opportunities that they want to provide students” that “we have a hard time figuring out what 
+complements what and what fits in where.” 
+In particular, schools offering a non-CS related CTE certification might have additional 
+course and competency requirements that students have to meet to earn professional 
+credentials or licenses upon graduation. Sometimes these requirements can be resource- 
+and time-intensive, adding further complexity to scheduling decisions and resource 
+allocation. One CTE high school leader, from a school lagging in participation with just one 
+CS course for a student body of over 2,000, explained, “Because we are a CTE school, the 
+elective program is already designed and picked and locked.” Currently, there is no plan in 
+place to ramp up CS participation at this school. 
+ 
+ 
+
+ 
+21 
+Dealing with Instructional Trade-Offs to Offer More CS Courses 
+The school staff we interviewed pointed out that offering more CS would involve not 
+offering other courses—ones that might, in their estimation, be more important to provide. 
+Several leaders highlighted the opportunity cost of introducing more CS and the inherent 
+trade-offs involved. For middle schools, this seems to be a particular barrier, as they have 
+less room in students’ schedules for electives than high schools typically do. A middle 
+school leader we spoke with shared, 
+ “We are bound by state law as far as the amount of minutes that students have to 
+take [courses in core subjects] and the [other] content areas, [such as] physical 
+education. There are not that many periods in a day, so there has to be a trade-off in 
+order for us to offer it to every student.”  
+Another leader, in a high school that had recently exited Targeted Support and 
+Improvement (TSI) status11, said that “our instructional focus is very much geared towards 
+academic core courses and students earning credit and then mastering Regents exams.” 
+He added that,  
+“Sometimes it’s hard to program our students for computer science in their 
+freshman year, because there is another elective where they’re really needing to 
+build their core credits for graduation during those first two years.”  
+Remediation efforts are also necessary when students are not on track to meet mandated 
+benchmarks. In one of the middle schools we studied, the principal explained that entering 
+elementary school students required varying levels of catch-up, further complicating 
+scheduling considerations. He said, 
+ “As we looked at our performance last year as a school, and the year prior to that, 
+in terms of… the New York state assessments, we found that there was a need for 
+more academic intervention periods to really address gaps for many of our scholars 
+coming in at the 6th grade level. That's why we decided it made the most sense for 
+us to eliminate [CS] in 6th grade, because the idea is, if we close those gaps in 6th 
+grade, we won't see them continue to grow in 7th and 8th grade.”  
+Another factor that surfaced in multiple interviews was that English Language Learners 
+require dedicated language support in their schedules, which makes it more difficult to add 
+another elective. Moreover, schools must address other critical priorities like improving 
+attendance and preventing dropouts. A middle school leader shared, “At the district level, 
+[CS] is not a priority. Right now it's increasing scores, attendance, reducing chronic 
+absenteeism, and increasing daily attendance.” The need to focus on these concerns 
+impeded schools’ capacity to effectively scale up CS. 
+ 
+ 
+ 
+11 Under ESSA (the Every Student Succeeds Act), schools with TSI status are those that are “consistently 
+underperforming” for any group of students, as defined by the state. 
+
+ 
+22 
+What Were the Facilitators to Offering Stand-Alone CS Courses to All 
+Students? 
+Making CS a Required Courses 
+The middle and high schools that met the initiative’s goals managed to create a master 
+course sequence where all students took at least one CS course as a requirement. To 
+ensure access during the high school grade band, the schools we studied scheduled all 
+students to take CS at least once during a set grade. For example, one high school, which 
+serves newly arrived immigrant students, scheduled all 12th graders to take CS with a 
+teacher who previously taught math but was now dedicated to CS full-time. The principal of 
+that school noted that:  
+“If you want all students to take CS and not self-select, then you have to build a 
+structure to support it.”  
+In an arts-themed school we studied, the assistant principal built in CS as a part of the 
+required 9th grade rotation through elective offerings, and also offered AP CS as a course 
+that could fulfill a math or science core requirement for 11th and 12th grade students after 
+they met their Regents requirements. However, doing so involved sacrificing other courses 
+they could potentially offer. She said, 
+“I know a lot of small schools have to make difficult choices. I cut AP Calculus in 
+order to make CS a math class for seniors, because we can only offer so much.”  
+Aligning CS with Other School-Wide Instructional Priorities 
+The schools with the highest participation rates were able to make CS a core part of their 
+schools’ curricular offerings, and align it with other instructional priorities. It is notable that 
+all of these schools either had a theme or programmatic focus that was CS or technology-
+related (e.g., one of the high schools in this group has a software engineering theme) or 
+they had a teacher or administrator who was a champion for CS, and who worked to build 
+out a CS curriculum that fit into the school theme and/or programs that the school was 
+already offering. For some schools, this came about more naturally, particularly when the 
+school already had a CS or technology focus. For other schools, visioning work was 
+required to weave CS into the school theme—work that was typically led by an individual 
+administrator or teacher who was an advocate for CS. 
+For example, the assistant principal in one of the high schools with a performing arts theme 
+felt strongly that even though they were an arts school, they needed to equip students with 
+21st century skills. She said,  
+“Not that many students will get a job as a singer. Whereas sound production, video 
+editing—all of those can involve coding. All of these technology skills are relevant, 
+even in the arts.”  
+She described facing some pushback at first, including saying that their school principal 
+worried that they were becoming “too tech-y.” However, she was able to convince her 
+school community that offering CS was valuable, and that they should help students 
+
+ 
+23 
+understand how CS skills could potentially be useful for arts-related careers. Many of the 
+school staff we interviewed felt that the CS4All PL opportunities where they had the space 
+to do this visioning work had been valuable; however, they noted that it was most effective 
+when CS teachers and administrators could undertake this work together.  
+Building Staffing Capacity to Offer More CS 
+One strategy that administrators found promising to increase staffing capacity was to 
+always be attentive to which teachers might have the potential to teach CS—both when 
+hiring new staff and when assessing the skill set of current staff. The assistant principal of 
+one of the middle schools with high participation rates—whose CS lead teacher built out a 
+vertically aligned sequence of CS courses for students—discussed taking the capacity to 
+teach CS into consideration when hiring staff. He said,  
+“I’m keeping my ears out for candidates that are qualified [in CS]. If they are 
+qualified, we’ll have them in for a demo lesson and interview so we can at least have 
+that on file.”  
+When assessing the skill sets of current staff, a few of the schools provided in-house 
+professional development opportunities led by current CS teachers. As an example, the 
+performing arts-themed high school offered one section of AP CS as a co-taught Integrated 
+Co-Teaching (ICT) class. This ensured that students with disabilities could participate in 
+CS, and enabled teachers who were new to computer science to co-teach with another, 
+more seasoned CS teacher. One of the teachers who we interviewed said this experience 
+helped them become less intimidated by CS, and led them to pursue further PL 
+opportunities through the district initiative.  
+Discussion and Recommendations 
+Drawing on interviews and analyses of school survey and administrative data for schools 
+with different participation trajectories, our study identified several facilitators that helped 
+schools meet the initiative’s goals for all students to take CS in each grade band. Below, 
+we highlight key implications for policy and practice. 
+Enhancing Efforts to Integrate CS Units in Elementary Schools 
+Anchor CS instruction in a cluster classroom, while encouraging other classroom 
+teachers to provide integrated CS units. The schools that were able to sustain high rates 
+of CS participation in integrated units had a cluster teacher who implemented CS across 
+classrooms and grade levels. This enabled schools to offer CS more consistently and to 
+more students. These schools also had other classroom teachers who were integrating CS, 
+ensuring that CS instruction was more widespread and that it could be sustained if the 
+cluster teacher left the classroom or school. Training cluster teachers to implement CS and 
+lead integration efforts in schools is a promising strategy both to ensure all students receive 
+CS and to promote wider integration across other classrooms. 
+ 
+
+ 
+24 
+Set aside common team planning time for CS implementation and foster wider 
+communities of practice. Teachers struggled to find time to integrate CS instructional 
+units in their classrooms in part because they felt the need to design or modify lessons 
+suited to their students and aligned with the scope and sequence of the required curriculum 
+and instructional priorities of their school. At the schools with high participation rates, 
+educators overcame these barriers by setting aside common instructional planning time, 
+which allowed classroom teachers and instructional leaders to come together to modify 
+existing curricula (such as those provided by CS4All) and create “shovel-ready” lessons for 
+teachers to use. The district could support this instructional planning by helping to foster 
+communities of practice, perhaps building on the work of the Exploring Equity in Computer 
+Science PL. Encouraging teachers from different schools to share lessons and units that 
+have worked well may be particularly beneficial.  
+Cultivate teacher leadership and wider buy-in across school communities, including 
+families. Teacher buy-in is crucial for schools offering integrated units, because this model 
+relies on individual teachers to find the time and capacity to participate in relevant PL 
+opportunities and integrate CS into their classes. When teachers and others in the wider 
+school community do not understand what computer science instruction is or how it can 
+support student learning and engagement, buy-in suffers. Teacher leaders should model 
+what CS integration looks like in their classrooms—particularly how it can support learning 
+in core content areas for which schools are held accountable, such as math and ELA. In 
+addition, school-wide CS events, such as hackathons or participation in CS Ed Week, can 
+showcase the potential of CS for the entire school community, including families. The 
+district can continue to support school and teacher leaders in planning and organizing 
+school-wide CS events. In addition, PL for teachers could further emphasize how existing 
+curricula and lessons map onto state learning standards in other content areas. 
+Foster partnerships with outside groups to address resource limitations. Many of the 
+schools we interviewed mentioned having a partnership with an outside organization or 
+company in the computing field. At times, these partnerships allowed schools to expose 
+students to computer science outside of regular school hours, providing curricular materials 
+and technology that eventually helped them launch their own CS integration efforts during 
+the school day. The district could target the schools lagging the most in CS participation 
+and support them in activities (such as grant writing and networking) to forge partnerships 
+with outside groups. 
+Enhancing Efforts to Provide Middle and High School CS Instruction 
+Make computer science required. Many high schools offering stand-alone courses did 
+not have the staffing capacity to offer CS to all students and instead offered it only as an 
+elective. Middle schools had even tighter scheduling constraints, as students in these 
+grades have less room to take additional elective courses outside of those required, such 
+as art and physical education. The schools that met the initiative’s goals by offering stand-
+alone courses were able to make CS a requirement for all students. This often involved 
+inventive scheduling solutions and challenging trade-offs about which courses not to offer. 
+The district could build on growing efforts to support middle and high schools in integrating  
+ 
+ 
+
+ 
+25 
+CS into other core subject areas, such as math or science, to address some of these 
+scheduling limitations and offer more entry points to participate in CS. In addition, it may be 
+worthwhile to explore policy levers—such as making CS a graduation requirement—that 
+could increase CS access and participation in high schools.  
+Align CS with other school-wide instructional priorities. Many schools in NYC, 
+specifically smaller high schools, are organized around a theme or a specific career path. In 
+particular, CTE schools often have courses that students are required to take to earn 
+professional credentials or licenses when they graduate. The schools that met the 
+initiative’s goals were able to align CS with their school’s instructional priorities. Schools 
+that had a theme that was not explicitly related to technology or computer science had to 
+develop a vision that connected computer science, computational thinking, or technology to 
+their school’s theme. The district can continue to support schools in developing this kind of 
+vision through PL opportunities and communities of practice where school and teacher 
+leaders share promising strategies. 
+Build staffing capacity to offer more CS. Schools that offered sufficient CS courses for 
+all students to take had to find staff to teach these courses. While attending CS4All PL was 
+helpful in preparing more teachers to implement CS, trained teachers often taught CS 
+alongside other core instructional courses that took precedence, such as math or science. 
+The district could expand staffing capacity by offering PL that helps high school teachers 
+learn how to integrate CS into other core subject areas. Moreover, given the changing state 
+licensure requirements, the district can support school staffing capacity by ensuring that all 
+teachers who have been or will be trained to offer stand-alone courses are certified to teach 
+CS. 
+This report underscores the critical importance of attending to school capacity limitations 
+and structural barriers in order to increase access to and participation in CS education. As 
+highlighted in our recommendations, a continued focus on school CS culture-building, 
+offering PL and fostering communities of practice to strategize about implementation, and 
+exploring district and state policy levers could all advance the initiative's goal of reaching 
+CS for all. 
+ 
+ 
+ 
+
+ 
+26 
+References 
+Fancsali, C. with Lee, J., Adair, A., Hill, K., Rivera-Cash, E., and Clough, S. (2022). CS4All: Examining Equity in 
+Computer Science Access and Participation in NYC Schools. Research Alliance for New York City Schools. 
+Available at: https://steinhardt.nyu.edu/research-alliance/research/cs4all-examining-equity  
+Fancsali, C., Mark, J., & DeLyser, L. A. (March 2020). NYC CS4All: An early look at teacher implementation in 
+one districtwide initiative. In 2020 Research on Equity and Sustained Participation in Engineering, Computing, 
+and Technology (RESPECT), Vol. 1, 1–8. IEEE. 
+Fergus, E. (2016). Solving Disproportionality and Achieving Equity: A Leader's Guide to Using Data to Change 
+Hearts and Minds. Corwin Press. 
+Israel, M., Liu, R., Yan, W., Sherwood, H., Martin, W., Fancsali, C., Rivera-Cash, E., & Adair, A. (2022). 
+Understanding barriers to school-wide computational thinking integration at the elementary grades: Lessons 
+from three schools. In Computational Thinking in PreK-5: Empirical Evidence for Integration and Future 
+Directions, 64–71. 
+Li, X., Fancsali, C., Lee, J., & Jain, R. (2025). CS4All: Evaluating the Outcomes of Students Taking Computer 
+Science in NYC Schools. Research Alliance for New York City Schools. Available at: 
+https://steinhardt.nyu.edu/research-alliance/research/cs4all-evaluating-outcomes-students-taking-computer-
+science-nyc-schools  
+Scherer, R., Siddiq, F., & Sánchez Viveros, B. (2019). The cognitive benefits of learning computer 
+programming: A meta-analysis of transfer effects. Journal of Educational Psychology, 111(5), 764–792. 
+  
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+The Research Alliance conducts 
+rigorous studies on topics that matter to 
+the City’s public schools. We strive to 
+advance equity and excellence in 
+education by providing nonpartisan 
+evidence about policies and practices 
+that promote students’ development and 
+academic success. 
+© 2025 Research Alliance for New York City Schools. All rights reserved. You may make copies of and distribute this 
+work for non-commercial educational and scholarly purposes. For any other uses, including the making of derivative 
+works, permission must be obtained from the Research Alliance for New York City Schools, unless fair use 
+exceptions to copyright law apply. 
+627 Broadway, 7th Floor 
+New York, NY, 10012 
+ 
+(212) 992-7697 
+ 
+research.alliance@nyu.edu 
+www.rancys.org 

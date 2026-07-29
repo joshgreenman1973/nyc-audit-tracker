@@ -1,0 +1,74 @@
+{
+  "id": "2025-09-01-researchalliance-cs4all-student-outcomes",
+  "source": "outside",
+  "auditor": "Research Alliance for New York City Schools",
+  "title": "Evaluating the Outcomes of Students Taking Computer Science in NYC Schools: Insights from the CS4All Initiative",
+  "plain_title": "What students got out of computer science classes in city schools",
+  "agency": "New York City Public Schools",
+  "issued": "2025-09-01",
+  "url": "https://steinhardt.nyu.edu/research-alliance/research/evaluating-outcomes-students-taking-computer-science-nyc-schools",
+  "pdf": "https://steinhardt.nyu.edu/sites/default/files/2025-09/CS%20Student%20Outcomes%20Report%209.4.25.pdf",
+  "what_they_audited": "A research report from the Research Alliance for New York City Schools at New York University examining short- and longer-term outcomes for students who took computer science courses under the city's Computer Science for All initiative, including attitudes, computational thinking skills, test scores, later course-taking and college major choice.",
+  "background": "Computer Science for All, known as CS4All, launched in 2015 with the goal of giving every public school student at least one meaningful computer science experience in each grade band. Computer science is usually folded into other classes in the elementary grades and offered as a stand-alone course in middle and high school.",
+  "findings": [
+    {
+      "plain": "Students' scores on a computational thinking assessment rose over the course of instruction, with the clearest gains in elementary school.",
+      "quote": "Students in grades 3-12 showed significant and in some cases substantial increases in their scores on an assessment of computational thinking (CT) skills given at the beginning and the end of CS instruction. These gains were larger and more consistent in elementary school than in middle and high school."
+    },
+    {
+      "plain": "Student attitudes moved in both directions: confidence and a sense of representation rose slightly, while enjoyment and belonging slipped a little.",
+      "quote": "Students reported small but statistically significant increases in confidence in their CS abilities and in their experience of cultural representation from the beginning to the end of CS instruction. However, there were slight decreases in areas where students initially held strong positive attitudes, such as feeling engaged in and liking CS, having a sense of belonging in CS, and seeing it as valuable."
+    },
+    {
+      "plain": "Gaps by gender and race or ethnicity in skills and attitudes were wider in the higher grades.",
+      "quote": "The changes in students’ CT skills, and in their attitudes and dispositions toward CS, following CS instruction varied by gender and race/ethnicity. Gaps were larger in the higher grade levels."
+    },
+    {
+      "plain": "Taking computer science was not linked to better English or math test results.",
+      "quote": "CS course-taking was not associated with improved performance on state standardized tests or formative assessments of English language arts and mathematics."
+    },
+    {
+      "plain": "How many computer science courses a school offered predicted whether students took one, more than a student's own prior experience did.",
+      "quote": "Elementary and middle school students’ prior CS experience did not predict subsequent CS course-taking. Instead, the analyses reveal that the more CS courses students had access to at their schools, the more likely they were to take CS."
+    },
+    {
+      "plain": "High school computer science was linked to declaring a computer science major at the City University of New York, with the strongest link for female and non-Asian students.",
+      "quote": "Taking a CS course in high school was correlated with an increase in CS major declaration in CUNY schools. We also found evidence that CS course-taking in high school may help reduce gender and race/ethnicity gaps in CS majors, with the potential to improve representation in CS careers."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "45 percent",
+      "label": "Share of schools offering computer science in 2023"
+    },
+    {
+      "value": "92 percent",
+      "label": "Share that had offered it within the prior three or four years"
+    },
+    {
+      "value": "3,000",
+      "label": "Teachers who had taken CS4All professional learning by 2024"
+    },
+    {
+      "value": "400",
+      "label": "Teachers trained per year on average"
+    }
+  ],
+  "recommendations": [
+    "Embed culturally responsive practices in computer science instruction as a core part of teacher and school capacity building, and study those practices further so they can be extended to the higher grades where gaps are widest.",
+    "Build on the stronger results in elementary school and keep supporting computer science integrated into core subjects.",
+    "Invest in more research into the difficulties of teaching computer science in middle and high school, and have district leaders evaluate the range of classes offered with a view to strengthening materials and building aligned pathways across schools and grade levels.",
+    "Identify assessments and data systems that measure student computer science skills against New York State computer science and digital fluency standards, tracking curricula, teacher experience, content, type of instruction and student outcomes over time.",
+    "Address barriers to course availability and participation, especially at schools serving larger numbers of Black and Latinx students, by increasing the number of courses offered and removing structural and social barriers to enrolling.",
+    "Use high school computer science to widen postsecondary participation, including by considering making a computer science course a graduation requirement and offering entry-level courses such as AP Computer Science Principles that do not require prior computer science or advanced math."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "technology",
+    "children and youth"
+  ],
+  "is_followup": false
+}

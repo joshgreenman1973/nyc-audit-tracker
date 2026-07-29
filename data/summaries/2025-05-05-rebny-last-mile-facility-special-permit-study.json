@@ -1,0 +1,83 @@
+{
+  "id": "2025-05-05-rebny-last-mile-facility-special-permit-study",
+  "source": "outside",
+  "auditor": "Real Estate Board of New York",
+  "title": "New York City Last-Mile Facility Special Permit Study",
+  "plain_title": "Study of a proposed permit for package delivery warehouses",
+  "agency": "New York City Department of City Planning",
+  "issued": "2025-05-05",
+  "url": "https://www.rebny.com/reports/new-york-city-last-mile-facility-special-permit-study/",
+  "pdf": "https://downloads.ctfassets.net/6zi14rd5umxw/1320vOci4pS6dudBjzFa7M/08cd0241dd33f4b2c6d4cb231b267631/REBNY_Last_Mile_SUP_Analysis_Final_Draft__2_.pdf",
+  "what_they_audited": "A study by HR&A Advisors, with traffic and emissions analysis by AKRF, prepared for the Real Estate Board of New York on what a proposed special permit for last-mile package delivery facilities would mean for New York City. It looks at market trends, the effect of last-mile growth so far, the likely impact of the permit and whether other policies would work better.",
+  "background": "The Department of City Planning is studying a special permit for last-mile distribution facilities following commitments the Adams administration made to the City Council, and released a draft scope of work for environmental review in March 2025. Under that draft the permit would apply to new parcel delivery facilities in manufacturing, mixed-use and C8 districts, with exemptions including facilities under 50,000 square feet and water-dependent facilities.",
+  "findings": [
+    {
+      "plain": "The study counts 26 last-mile facilities in New York City today, and says they have accounted for most of the new construction and major renovation in the city's industrial areas in recent years.",
+      "quote": "Using the definition above, HR&A identified a total of 26 last-mile facilities in New York City today (Table"
+    },
+    {
+      "plain": "Most of those facilities went up on land that was previously vacant or used for parking rather than displacing active industrial businesses.",
+      "quote": "investments occurred on sites generating few jobs or property taxes: nearly 70% of recently built or"
+    },
+    {
+      "plain": "The sites developed as last-mile facilities over the past decade pay substantially more in property tax than the study estimates they would have without redevelopment.",
+      "quote": "decade generate $8.4 million more in annual property tax revenue for the City than they would if"
+    },
+    {
+      "plain": "If demand shifts to northern New Jersey, the study estimates a facility there would generate far more driving and emissions than an equivalent facility in Queens.",
+      "quote": "annual basis, 10.4 million additional vehicle miles traveled (VMT). This would result in an increase in"
+    },
+    {
+      "plain": "The study argues the permit would deter new development because the public review process is long and its outcome uncertain, and points to the 2018 special permit for hotels in light manufacturing districts as a precedent.",
+      "quote": "likelihood of this impact. Since the implementation of that regulation, no M1 hotel special permits have"
+    },
+    {
+      "plain": "The permit would apply to new construction and changes of use, so it would not change how the existing facilities that prompted the proposal operate.",
+      "quote": "will not be impacted by the special permit at all"
+    },
+    {
+      "plain": "The study says land use rules change more slowly than the logistics business does, and cites the 2012 Upper West Side zoning limits on bank branches as an example of a rule overtaken by market shifts.",
+      "quote": "Land use policy changes much less quickly than business technology and can quickly become"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "26",
+      "label": "Last-mile facilities identified in New York City"
+    },
+    {
+      "value": "nearly 70%",
+      "label": "Share of the sites previously vacant or used for parking"
+    },
+    {
+      "value": "$8.4 million",
+      "label": "Added annual property tax from the redeveloped sites"
+    },
+    {
+      "value": "10.4 million",
+      "label": "Added yearly vehicle miles if a facility sits in New Jersey"
+    },
+    {
+      "value": "8,000 metric tons",
+      "label": "Added yearly carbon dioxide equivalent in that scenario"
+    },
+    {
+      "value": "16.2%",
+      "label": "Share of U.S. retail spending done online in 2024"
+    }
+  ],
+  "recommendations": [
+    "Continue the city's existing efforts to move freight in greener ways, including microhubs, electric cargo bikes, package lockers and the Blue Highways program that uses the city's waterways.",
+    "Keep incentivizing electric truck fleets and devote more resources to those programs, including expanding the city's Clean Trucks Program beyond businesses in industrial business zones to all New York City businesses that run truck fleets.",
+    "Improve enforcement of quality of life violations so that last-mile operators face consequences that actually change how they behave in the neighborhoods around their facilities."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "transportation",
+    "small business"
+  ],
+  "is_followup": false
+}

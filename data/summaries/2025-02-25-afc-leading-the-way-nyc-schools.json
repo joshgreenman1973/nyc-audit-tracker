@@ -1,0 +1,92 @@
+{
+  "id": "2025-02-25-afc-leading-the-way-nyc-schools",
+  "source": "outside",
+  "auditor": "Advocates for Children of New York",
+  "title": "Leading the Way for NYC Schools: Recommendations for the Next Administration",
+  "plain_title": "Eight school priorities for the incoming mayoral administration",
+  "agency": "New York City Public Schools",
+  "issued": "2025-02-25",
+  "url": "https://advocatesforchildren.org/policy-resource/mayoral-recommendations-2025/",
+  "pdf": "https://advocatesforchildren.org/wp-content/uploads/2025/mayoral_recommendations_2025.pdf",
+  "what_they_audited": "A policy agenda from Advocates for Children of New York, a legal and advocacy group that helps New York City families navigate the school system, setting out eight areas where it urges the incoming mayoral administration to focus. The version posted on the group's site carries the note \"Updated January 2026\" and refers to Mayor Mamdani and Chancellor Samuels.",
+  "background": "The document says the school system is in flux, with chronic absenteeism still far above pre-pandemic levels, lingering academic effects of missed instruction, mental health struggles among young people, and enrollment pressure from declining birth rates and out-migration alongside the arrival of tens of thousands of newcomer immigrant students. The recommendations draw on the group's work with families each year.",
+  "findings": [
+    {
+      "plain": "Just over half of city students in grades three through eight read proficiently, with much lower rates for Black and Latinx students and for students with disabilities.",
+      "quote": "according to the 2025 New York State tests, only 56% of City students in grades 3–8—and just 44% of"
+    },
+    {
+      "plain": "Thousands of students with disabilities did not get all the special education instruction their individualized education programs required.",
+      "quote": "During the 2024–25 school year, 11,900 K–12 students with disabilities did not fully receive their"
+    },
+    {
+      "plain": "Hundreds of preschoolers were waiting for legally mandated special education class seats and thousands more were waiting for at least one mandated service such as speech therapy or counseling.",
+      "quote": "seats in their legally mandated preschool special education classes and more than 7,100 preschoolers"
+    },
+    {
+      "plain": "About two-thirds of city schools are not fully accessible to students, staff and family members with physical disabilities, and the group says the current capital plan allocation will not close that gap by 2030.",
+      "quote": "Roughly two-thirds of New York City schools are not fully accessible to students, educators, and family"
+    },
+    {
+      "plain": "Four out of five English Language Learners received only English as a New Language services rather than bilingual instruction, which the group attributes to a shortage of dual language and transitional bilingual programs.",
+      "quote": "City received only English as a New Language (ENL) services in 2024–25 due to the shortage of dual"
+    },
+    {
+      "plain": "More than 154,000 students experienced homelessness during the 2024-25 school year, the tenth straight year above 100,000.",
+      "quote": "More than 154,000 New York City students—nearly one in every seven children enrolled in the public"
+    },
+    {
+      "plain": "Police were involved in thousands of incidents in which a student in emotional distress was removed from class and sent for psychiatric evaluation, including cases where young children were handcuffed.",
+      "quote": "student behavior, including emotional crises or distress. In 2024–25, NYPD was involved in 2,321"
+    },
+    {
+      "plain": "Families repeatedly report problems with school bus service, and the group notes that many of the bus contracts are more than four decades old.",
+      "quote": "rebid the contracts for school bus service—many of which are more than four decades old—and use"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "56%",
+      "label": "Grades 3-8 reading proficiently, 2025 state tests"
+    },
+    {
+      "value": "11,900",
+      "label": "Students with disabilities denied full mandated instruction"
+    },
+    {
+      "value": "7,100",
+      "label": "Preschoolers waiting for a mandated part-time service"
+    },
+    {
+      "value": "154,000",
+      "label": "Students who experienced homelessness in 2024-25"
+    },
+    {
+      "value": "2,321",
+      "label": "Police interventions removing students in emotional distress"
+    },
+    {
+      "value": "$800 million",
+      "label": "School accessibility funding in the 2025-2029 capital plan"
+    }
+  ],
+  "recommendations": [
+    "Ensure every student has access to effective literacy instruction and intervention, building on the work of NYC Reads.",
+    "Increase access to mental health services and make sure schools can safely and effectively support students' social-emotional and behavioral needs.",
+    "Improve educational services, programs, opportunities and outcomes for students with disabilities.",
+    "Expand program options for English Language Learners and immigrant youth, recruit more bilingual teachers and service providers, and ensure English Language Learners receive appropriate academic instruction and support.",
+    "Ensure highly mobile young people, including students experiencing homelessness, students in the foster system and students in the juvenile or criminal legal system, get the support they need to succeed in school.",
+    "Create a school transportation system that works for the students, families and schools it is meant to serve.",
+    "Improve communication with families, including those who speak languages other than English or have low digital literacy, and prioritize strong relationships between home and school.",
+    "Protect the safety and rights of undocumented students and families, LGBTQ+ youth and other marginalized student populations."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "children and youth",
+    "health"
+  ],
+  "is_followup": false
+}

@@ -1,0 +1,682 @@
+TITLE: Evaluating the Outcomes of Students Taking Computer Science in NYC Schools: Insights from the CS4All Initiative
+URL: https://steinhardt.nyu.edu/research-alliance/research/evaluating-outcomes-students-taking-computer-science-nyc-schools
+ISSUED: 2025-09-01
+PDF: https://steinhardt.nyu.edu/sites/default/files/2025-09/CS%20Student%20Outcomes%20Report%209.4.25.pdf
+
+
+
+September 2025
+Research Report
+CS4All: Evaluating the
+Outcomes of Students Taking Computer Science in NYC Schools
+
+By Xia Li, Cheri Fancsali, Janice Lee, and Rishika Jain
+
+Acknowledgements
+This report is the result of the work and dedication of numerous individuals. We extend our gratitude to the entire CS4All evaluation team at the Research Alliance, including Kathy Hill and Michelle Flores, as well as June Mark of EDC, for their tireless efforts in conducting the research and providing valuable feedback as results emerged from different components of the study. Special thanks to Chelsea Farley, our communications director, for making the report accessible to a wide audience, through thoughtful feedback, editing, formatting, and multiple rounds of revisions. We would also like to thank Readling Erin, Faith Northern, Hilarie Ashton and Katya Hube for their assistance with the report’s editing, table and figure layout, production, and publication. Additionally, we are grateful to Jim Kemple, Richard Hendra at MDRC, and Jo Alkhafaji-King, who provided valuable insights and suggestions on our data analyses.
+Many thanks to our partners at NYC Public Schools for their engagement with this research, with particular appreciation for Heather Wilson’s ongoing support. We are grateful to the entire CS Education team, especially Tunisia Mitchel and Christy Crawford. Their insights and collaboration have been invaluable to our research efforts and understanding of the CS4All initiative.
+This study would not have been possible without the generous support of the Fund for Public Schools and the CS4All Founders Committee. We appreciate the time they dedicated to asking tough questions and providing feedback throughout the project.
+Finally, we are deeply indebted to the school leaders, teachers, and students who participated in our data collection efforts. Their responses provided essential on-the-ground perspectives, significantly enhancing our understanding of the CS4All initiative.
+---------------------------------------------------- Research Alliance publications are supported by the following organizations, who help fund our capacity to engage stakeholders in our work and broadly communicate the results and implications of our studies: the Gates Foundation, Carnegie Corporation of New York, the Catherine and Joseph Aresty Foundation, New York University, the Wallace Foundation, and the William T. Grant Foundation.
+Our publications reflect the findings, interpretations, and conclusions of the Research Alliance and not necessarily those of our funders or individual Steering Committee members.
+
+Steering Committee
+Mark Dunetz, Chair
+President, New Visions for Public Schools Jennifer Jones Austin Chief Executive Officer & Executive Director, Federation of Protestant Welfare Agencies Melissa Aviles-Ramos Chancellor, New York City Public Schools Georgina Dopico Provost, New York University Frances Lucerna Co-Founder and Executive Director, El Puente Christine Mangino President, Queensborough Community College James Merriman Chief Executive Officer, New York City Charter School Center Michael Mulgrew President, United Federation of Teachers Félix Matos Rodriguez Chancellor, The City University of New York Henry Rubio President, Council of School Supervisors and Administrators Michelle Yanche Executive Director, Good Shepherd Services
+
+Leadership Team
+Cheri Fancsali
+Executive Director
+Kathryn Hill
+Research Director
+Chelsea Farley
+Communications Director
+
+About the Research Alliance Housed at NYU Steinhardt, the Research Alliance for New York City Schools is an independent, nonpartisan research center that conducts rigorous studies on topics that matter to the City’s public schools. We strive to advance excellence and equity in education by providing evidence about the policies and practices that promote students’ development and academic success.
+
+1
+CS4All: Evaluating the Outcomes of Students Taking Computer Science in NYC Schools Executive Summary This report presents findings on the short- and longer-term outcomes of students taking computer science (CS) courses in New York City (NYC) public schools, including CS- related attitudes, computational thinking skills, academic achievement, continued interest and engagement in CS courses, and postsecondary outcomes. The report is part of a multiyear evaluation that answers questions about the implementation and impact of NYC’s CS4All initiative for students, schools, and teachers. CS4All was launched in 2015, with the goal of ensuring that every public school student across the City receives at least one meaningful, high-quality CS experience within each grade band. In the K-2 and 3-5 grade bands, CS is typically integrated into other classes, while in the 6-8 and 9-12 grade bands, it is more often offered as a stand-alone unit or course. Ultimately, initiative leaders hoped to arm students with skills that would be applicable across a range of academic disciplines and professional fields.
+Key Findings
+•
+Overall, elementary school students had more positive attitudes toward CS, both at the beginning and at the end of CS instruction, compared with middle and high school students.
+•
+Students reported small but statistically significant increases in confidence in their CS abilities and in their experience of cultural representation from the beginning to the end of CS instruction. However, there were slight decreases in areas where students initially held strong positive attitudes, such as feeling engaged in and liking CS, having a sense of belonging in CS, and seeing it as valuable.
+•
+Students in grades 3-12 showed significant and in some cases substantial increases in their scores on an assessment of computational thinking (CT) skills given at the beginning and the end of CS instruction. These gains were larger and more consistent in elementary school than in middle and high school.
+•
+The changes in students’ CT skills, and in their attitudes and dispositions toward CS, following CS instruction varied by gender and race/ethnicity. Gaps were larger in the higher grade levels.
+•
+Greater implementation of culturally responsive-sustaining education (CR-SE)
+practices—which ensure, for example, that a variety of diverse cultures, languages, orientations, and identities are reflected, represented and valued in the CS classroom—was associated with more positive student attitudes toward CS, particularly among elementary school students.
+•
+Positive CS attitudes were in turn associated with stronger CT skills as well as greater growth in CT skills.
+
+2
+•
+CS course-taking was not associated with improved performance on state standardized tests or formative assessments of English language arts and mathematics.
+•
+Elementary and middle school students’ prior CS experience did not predict subsequent CS course-taking. Instead, the analyses reveal that the more CS courses students had access to at their schools, the more likely they were to take CS.
+•
+Taking a CS course in high school was correlated with an increase in CS major declaration in CUNY schools. We also found evidence that CS course-taking in high school may help reduce gender and race/ethnicity gaps in CS majors, with the potential to improve representation in CS careers.
+
+Implications for Policy and Practice • Embed culturally responsive practices in CS instruction. Weaving these practices into CS instruction can help create supportive, inclusive and engaging learning environments where historically marginalized students feel comfortable and confident—challenging gendered and racialized stereotypes about who belongs in CS. Use of CR-SE practices was linked with more positive student attitudes about CS, which in turn were associated with greater growth in CT skills.
+•
+Build on promising results in elementary schools and continue supporting CS integration. The larger CT assessment gains observed among elementary students suggest that integrating CS into core subjects is a promising strategy. Given that students with more positive attitudes toward CS showed greater improvement in CT scores, educators should continue working to actively foster positive attitudes about CS in their classrooms.
+•
+Invest in additional research to better understand challenges in implementing CS in middle and high schools. For older students, smaller and less consistent CT gains, as well as decreases in some attitudes, raise questions about current instructional approaches and course offerings. District leaders should evaluate the wide range of classes available at the middle and high school level, with an eye toward strengthening instructional materials and building well aligned pathways across schools and grade levels.
+•
+Identify assessments and data systems needed to measure student CS skills that align with NYS CS and digital fluency standards. CS instruction may have benefits for students in areas not captured by current state tests and formative assessments. To better understand the full potential of CS education, it is crucial to clearly define CS skill attainment goals and invest in corresponding assessment and data systems. The new assessment system could build upon existing CT assessments to better evaluate student outcomes and capture a broader range of skills developed through CS instruction.
+
+3
+•
+Address barriers to CS course availability and student participation, especially in schools with higher populations of Black and Latinx students.
+Given that the availability of CS courses at a school is a strong driver of CS coursetaking, it is essential to increase the number of CS courses offered, particularly in schools with larger Black and Latinx student populations. School leaders and administrators should actively work to eliminate both structural and social barriers that may discourage underrepresented students from enrolling in CS classes.
+•
+Leverage high school CS to foster equity in postsecondary participation. CS course-taking in high school is linked with smaller gender and race/ethnicity gaps in CS major declaration, making it a potentially powerful lever to improve access to CS-focused higher education and careers. To encourage more high school students to take CS, especially students from underrepresented groups, school and district leaders should consider making CS courses a graduation requirement. Additionally, offering CS courses that are accessible and engaging to students with a wide range of prior experiences may help attract more students to the subject.
+
+4
+Introduction
+The Computer Science (CS) for All movement seeks to make CS a fundamental part of the K-12 curriculum and has gained much momentum since President Obama announced the national CS for All initiative in 2015 (Smith, 2016). As a part of this movement, New York City Public Schools (NYCPS) has devoted substantial resources toward K-12 CS education through its CS4All initiative. Also launched in 2015, this public-private partnership sought to provide every NYC public school student with at least one meaningful, high-quality CS experience within each grade band (i.e., K-2, 3-5, 6-8, 9-12). The initiative has a particular focus on providing equitable CS instruction to girls and to Black and Latinx students, who are generally underrepresented in CS education and careers.
+In the early stages of the initiative, the CS4All team focused on dramatically expanding professional learning (PL) opportunities for teachers. They developed the NYC CS4All Blueprint and began offering a diverse range of PL programs, with summer and year-long learning activities in both foundational and advanced CS curricula. The curricular options included CS units of instruction that can be integrated into other courses (primarily implemented at the elementary level), as well as standalone semester- and year-long CS courses and multi-year CS course sequences (primarily implemented at the middle and high school levels). As the initiative progressed, the CS4All team introduced a “whole school approach” to PL, aimed at fostering a strong CS culture by providing additional support to administrators, other school leaders, and CS teacher leaders. In 2023, 45 percent of schools offered CS, and 92 percent had offered CS at some point within the prior three or four years (i.e., within their corresponding grade band). By 2024, more than 3,000 teachers had participated in CS4All PL sessions, with an average of about 400 teachers trained annually.
+Over time, CS4All focused more explicitly on the provision of culturally responsive instruction. Starting in 2020, the district began offering a comprehensive series of teacher PL sessions in culturally responsive-sustaining education (CR-SE) (Crawford et al., 2021).
+CR-SE practices aim to affirm students’ cultural identities, elevate historically marginalized voices, empower students as agents of social change, and support their engagement, learning, growth, and achievement in CS (Johnston et al., 2017). NYC’s CR-SE PL is organized into four progressive levels, allowing teachers to deepen their practice as they move from one PL to the next.1 The Research Alliance served as the external evaluator for the initiative, in collaboration with Education Development Center (EDC), to answer important questions about the implementation and impact of CS4All for NYC students, schools, and teachers. This report is one in a series that presents findings from the Research Alliance’s multi-year evaluation.
+It focuses on the short- and longer-term outcomes of students taking CS, including their CS-related attitudes, computational thinking (CT) skills, academic achievement, continued interest and engagement in CS courses, and postsecondary outcomes. These analyses offer crucial evidence to NYCPS about the CS4All initiative’s progress in enhancing 1 The four levels are classified into two stages: Foundational Equity PD, a 90-minute course required for all teachers who will be newly trained in the CS4All curriculum; and Exploring Equity in Computer Science (EECS)
+PL, which can be taken after the foundational training by teachers with at least two years of CS instructional experience. The EECS PL allows teachers to deepen their CR-SE learning and includes working sessions and asynchronous practices that build on one another.
+
+5
+students’ attitudes toward computer science and building their foundational knowledge and skills in computational thinking. Further, the findings highlight disparities in outcomes among various demographic groups, which is crucial for developing pedagogical approaches and interventions to address gaps and promote an inclusive learning environment. Other reports in this series are available on our website.
+In the pages that follow, we address the following research questions:
+1) How do students’ attitudes toward CS and their computational thinking skills change after receiving CS instruction?
+•
+How do the changes vary by gender and race/ethnicity?
+•
+How do the changes vary by exposure to different levels of culturally relevant sustaining education (CR-SE) practices?
+•
+What is the relationship between students’ attitudes toward CS and their CT skills, as well as growth in these skills?
+2) Is CS course-taking related to academic performance in math and reading?
+3) Is there a relationship between CS participation and subsequent CS course-taking in higher grade bands? To what extent does CS course-taking in high school predict students’ CS major declaration in postsecondary institutions?
+Data Sources
+Our analyses and findings draw on several sources of data, including:
+Extant School Records Data This contains information on teacher and student demographics (e.g., race/ethnicity, gender, English language learner status); school characteristics (e.g., size, racial composition, Economic Needs Index—or ENI2); and students' academic engagement and achievement (e.g., state standardized test scores, formative assessment scores, attendance rates).
+Student Tracking and Registration System (STARS)
+STARS provides a record of courses offered and taken at NYC schools. We used STARS data to identify students who took CS and the number of CS courses offered at the school level.
+Surveys and Assessments
+To explore how students’ attitudes and dispositions about CS and their CT skills change after participating in CS coursework, we administered pre-post surveys and assessments in the 2021-22 and 2022-23 school years. We used an elementary version of the survey and assessment with students in grades 3-5 and a middle and high school version with students 2 Economic Need Index is a metric used by the NYCPS to estimate each school population’s overall economic need. The ENI is calculated by averaging all of a school’s students’ Economic Need Values. Criteria for the calculation include whether the student is eligible for support from the NYC Human Resources Administration (HRA); living in temporary housing in the past four years; and whether a high school student has a home language other than English and entered the NYCPS for the first time within the last four years, among other factors. For more information, see NYCPS’ Equity and Excellence for All report.
+
+6
+in grades 6-12. These surveys and assessments were adapted from previously validated instruments, with the addition of some items created in consultation with NYCPS. The surveys consist of nine constructs to measure different components of students’ attitudes and dispositions toward CS (see examples in the textbox to the right). Each construct in the elementary survey is composed of three to four items on a four-point Likert scale, ranging from “Strongly Disagree” to “Strongly Agree.” The middle/high school survey measures the same nine constructs and utilizes a five-point Likert scale with a neutral option labeled “In Between.” The elementary and middle/high school student CT assessment consists of 20 questions measuring students’ grasp of concepts such as algorithm design, debugging, inputs/outputs, and pattern recognition.
+There were 1,890 elementary school students from 66 schools and 2,651 middle and high school students from 75 schools who took pre and post surveys during the 2021-22 and 2022-23 school years. Additionally, 2,208 elementary school students from 71 schools and 1,574 middle and high school students from 66 schools took pre and post CT assessments during the same period. The student samples were generally representative of students in the district who took CS in terms of gender, race/ethnicity, and poverty status, though there were slight differences in the racial distribution. The gender and racial composition of the student samples, as well as the samples' representativeness, are detailed in Table 2 in the Appendix.
+Teacher Survey
+We obtained data on CR-SE practices from surveys of teachers who participated in CS4All Professional Learning (PL). The findings in this report focus on teachers who took this survey and also administered the CS attitudes surveys to their students in 2021-2022 and/or 2022-2023, allowing us to examine relationships between teachers’ practices and student attitudes about CS.3 Teachers were asked to what extent they were able to implement various CR-SE practices in their CS classroom (see examples in the textbox to
+
+3 A total of 42 elementary school teachers from 39 schools and 39 middle and high school teachers from 37 schools who took the teacher survey also administered the student CT assessment. We also conducted analyses to examine the relationship between teachers’ varying levels of CR-SE practices and students’ assessment scores, but did not find significant relationships.
+Examples of Constructs and Items from CS Attitudes Student Survey
+• CS Confidence - “I am good at computer science.”
+• CS Engagement - “I am excited when working on projects in computer science class.”
+• CS Affinity - “I like computer science.”
+• CS Belongingness - “I feel comfortable in my class.”
+• Gender Stereotypes About Who Does CS - “Girls can be successful computer scientists.”
+• Family/Peer Support for CS - “My family encourages me to learn computer science.”
+• Seeing Value in CS - “Knowing computer science will help me to create useful things.”
+• Growth Mindset - “If I get stuck on a computer science problem, I keep trying until I figure it out.”
+• CS Cultural Identity and Representation - “In class, I see people from different cultures, races, and ethnicities in lessons.”
+(See Table 1 in the Appendix for a complete list of survey items.)
+
+7
+the right).4 The final teacher samples consisted of 36 elementary school teachers from 35 schools and 43 middle and high school teachers from 37 schools who both administered the student survey and took the teacher survey. The gender and racial composition of the teacher samples is detailed in Table 4 in the Appendix.
+College Major Data
+We obtained major declarations for students enrolled in City University of New York (CUNY) schools to investigate if students’ CS course-taking in high school was related to CS major declaration in postsecondary institutions. This includes 23,666 students, which is 35 percent of the students who entered 9th grade in NYC public schools in the 2016-2017 academic year (68,192). In 2021, a substantial portion of NYC public high school graduates (59%) chose to enroll in a CUNY school.
+Community-Level Data
+In addition to the above data sources, we also used data on the median family income of the census tract in which each student resides as a proxy of students’ socioeconomic status (SES). We obtained this information from the 2017 American Community Survey 5- Year Estimates (2013-2017).
+The next section introduces the analytic approach for each research question. Then we present the findings from our analyses. The final section discusses the findings, offers related policy and practice recommendations, and outlines directions for future research.
+Analytic Approaches
+We employed various analytic approaches to answer our research questions. For the first set of questions about changes in students’ CT skills and attitudes, we used paired t-tests to determine if there were statistically significant pre-post changes in students’ attitudes toward CS and their CT assessment scores after CS instruction. We also examined whether changes were larger or smaller for different subgroups of students defined by race/ethnicity, gender, grade level, and exposure to CR-SE practices. Finally, we explored whether students’ CS attitudes predicted their CT skills following instruction or their growth in CT skills between the pre and post assessment.
+For the second research question, we compared test scores in English Language Arts (ELA) and Math of students who took CS with those of similar students who did not, to
+
+4 The teacher survey also includes other key information about how teachers were implementing what they learned in the CS professional learning, barriers to implementation, additional supports needed to implement CS in the classroom, attitudes toward CS, school culture, and teachers’ challenges and confidence in adopting CR- SE practices.
+Examples of CRSE Practices Included in Teacher Survey
+• “Using inquiry-based or projectbased CS learning.”
+• “Using my students’ knowledge and interests to make connections to new content in CS.”
+• “Ensuring that a variety of diverse cultures, languages, orientations, and identities are reflected, represented and valued in my CS classroom.”
+(See Table 3 in the Appendix for a complete list of survey items.)
+
+8
+investigate if CS course-taking related to academic performance in reading and math. For the third research question, we examined the relationship between CS course-taking and subsequent CS course-taking in higher grade bands, using statistical methods to control for a range of factors that could have influenced our results.5 Although we have controlled for many confounding variables to examine the relationship between CS course-taking and outcomes, our findings do not allow us to determine causality in the relationship between the variables analyzed. More information about our methods is available in the Appendix.
+Findings
+How do students’ attitudes toward CS and their computational thinking skills change after receiving CS instruction?
+In this section, we first present findings on the overall change in students’ attitudes toward CS after receiving CS instruction, followed by an examination of how these changes vary by gender and race/ethnicity. We then explore whether the changes differ based on exposure to different levels of CR-SE practices. Next, we present findings on whether students’ CT skills improved after receiving CS instruction, both overall and by gender and race/ethnicity. Finally, we discuss the relationship between students’ attitudes toward CS and their CT skills, as well as their growth in these skills.
+Some CS attitudes improved, and some declined, following instruction.
+After CS instruction, we saw small but significant growth in students’ confidence about their CS abilities, as well as their perceptions of cultural representation in CS classes. However, there was a decline in constructs where students already had strong positive attitudes, including liking and feeling a sense of belonging in CS.
+Elementary school students generally held positive attitudes toward CS at the beginning of instruction (see Figure 1 on the next page). On the pre-survey, which used a 4-point scale, the average scores were above or close to 3, corresponding to a value of “Agree.” The highest average responses were for items related to gender equity (3.37) and CS belonging (3.33), and the lowest for CS confidence (2.97). When looking at the percentage of students who held positive attitudes on average, we found that 87 percent agreed or strongly agreed with the survey items on gender equity, 90 percent agreed or strongly agreed with the survey items on CS belonging, and 76 percent with the items on CS confidence (see Table 1 on page 11).
+As shown in Figure 1, after instruction students reported significantly higher scores on the construct with the lowest pre score—confidence—as well as on items related to representation and gender equity. However, students also reported slight but statistically significant decreases in CS engagement, affinity, belonging, value, and family and peer support, following instruction. For example, we found that 84 percent of students generally felt engaged in CS, down from 87 percent before CS instruction (see Table 1 on page 11).
+5 See Table 5 in the Appendix for details on our analytic approach.
+
+9
+Figure 1: Changes in Elementary Students’ Attitudes Toward CS After Instruction
+
+Source: Research Alliance calculations based on data obtained from the student survey.
+Notes: Figure includes elementary students who took pre-post-surveys (N = 1,890). The numeric values 1 to 4 correspond to students’ responses to each survey item from strongly disagree (1) and disagree (2) to agree (3)
+and strongly agree (4). * = p < 0.05.
+Compared to elementary school students, middle and high school students tended to have less positive attitudes toward CS (see Figure 2 on the next page).6 At the beginning of instruction, most average scale scores were between 3 and 4 on a 5-point scale, corresponding to responses between “Neutral” and “Agree.” Similar to elementary students, middle and high school students reported the highest scores for items related to gender equity (4.33) and CS belonging (4.05) and the lowest score for CS confidence (3.35). After instruction, middle and high school students saw significant increases in CS confidence, as well as increases in family and peer support. Reports of CS engagement, affinity, belonging, and value, as well as attitudes toward gender equity, all showed slight but statistically significant decreases.
+Our survey also included questions about students’ experiences with CR-SE (see the first row in Figures 1 and 2). At the beginning of instruction, elementary school students had an average scale score of 2.73 for CS cultural identity and representation, with 60 percent of students agreeing or strongly agreeing with items such as, “In class, I see people from different cultures, races, and ethnicities in lessons.” After instruction, this perception improved, with 66 percent of students agreeing or strongly agreeing with statements about cultural identity and representation. Similarly, middle and high school students reported lower levels of CR-SE at the beginning of CS instruction (3.38), with statistically significant gains after instruction (3.51).
+
+6 The presence of a "neutral" response option in the middle and high school student survey, which is not available in the elementary student survey, may influence the distribution of responses of middle and high school students. This option may predispose them to choose neutrality instead of a clear positive response, potentially contributing to generally less positive attitudes toward CS compared to elementary students.
+
+10
+The decline in some CS attitudes after taking CS, especially those that were more positive at the beginning of the course, may be explained by a ceiling effect: Students with initial high enthusiasm have less room for improvement and are more susceptible to slight decreases. The decline could also be related to students’ unmet expectations or unexpected challenges and difficulties they experienced during the CS course. Students who already had strong positive attitudes toward CS, such as strong sense of belonging and affinity, may have had particularly high expectations, and if the course content or teaching methods did not meet these expectations, it could easily lead to frustration or disappointment. Additionally, students who were initially excited about CS education may not have been prepared for the complexities or challenging nature of the coursework. A mismatch between expectations and actual experience could contribute to a decrease in these attitudes. It is important to point out that although there were significant decreases in CS engagement, value, affinity, and belongingness, the majority of students still held positive attitudes in these areas after taking CS.
+Figure 2: Changes in Middle and High School Students’ Attitudes Toward CS After Instruction
+
+Source: Research Alliance calculations based on data obtained from the student survey.
+Notes: Figure includes middle and high students who took pre-post surveys (N = 2,651). The numeric values 1 to 5 correspond to students' responses to each survey item from strongly disagree (1) and disagree (2), to neutral (3), to agree (4) and strongly agree (5). * = p < 0.05.
+
+11
+Table 1: Changes in the Percentage of Students with Positive Attitudes After CS Instruction
+
+Elementary School Students Middle and High School Students Construct Pre-Survey Post-Survey Difference Pre-Survey Post-Survey Difference Cultural Identity & Representation 60.1 65.5 5.4 47.5 53.2 5.7 CS Confidence 75.6 77.5 1.9 44.5 48.1 3.5 Family & Peer Support 74.3 71.6 -2.7 50.4 52.4 2.0 CS Engagement 86.8 84.0 -2.8 56.7 52.8 -3.8 CS Value 85.4 83.6 -1.8 63.7 62.1 -1.6 CS Affinity 89.8 88.5 -1.3 69.6 65.0 -4.6 CS Belongingness 90.0 87.3 -2.7 78.0 75.9 -2.2 Gender Equity 86.7 87.9 1.2 82.6 80.7 -1.9 N
+
+1,890
+2,651
+Source: Research Alliance calculations based on data obtained from the NYCPS and the student survey.
+Girls and non-Asian students experienced larger declines in CS attitudes.
+Prior research has found that minoritized students consistently have less positive attitudes in CS courses compared with their peers. This includes generally less positive attitudes among girls than boys (Sun et al 2022; Vandenberg 2021), as well as a lower sense of belonging in CS among girls of color compared with White girls (Mooney and Becker 2020).
+Similar to the previous studies, our analyses show that among elementary, middle, and high school students, boys reported slightly higher pre-scores than girls on most constructs, except gender equity and family and peer support. For example, the average score for girls on CS confidence was 2.92 in elementary school and 3.16 in middle and high school, compared to 3.02 and 3.50 for boys.
+Changes in pre- and post-attitudes also varied by gender. Across all grade levels, both girls and boys showed an increase in CS confidence after taking CS, although the increase among elementary girls was not statistically significant. In their responses about the value of CS, girls experienced a statistically significant decline after taking a CS class, while boys did not. Interestingly, in elementary school, both boys and girls had more positive attitudes toward CS in terms of gender equity after taking CS. However, among middle and high school students, girls and boys both saw declines in this area, with the decline being statistically significant among girls (pre-score of 4.54 to post-score of 4.43). Figure 3 and
+
+12
+Figure 4 below show the pre-post changes on average scores for selected CS constructs by gender, as well as whether the changes are statistically significant.
+Figure 3: Changes in Elementary Students’ Attitudes Toward CS by Gender
+
+Source: Research Alliance calculations based on data obtained from the NYCPS and the student survey.
+Notes: * = p < 0.05.
+
+Figure 4: Changes in Middle and High School Students’ Attitudes Toward CS by Gender
+
+Source: Research Alliance calculations based on data obtained from the NYCPS and the student survey.
+Notes: * = p < 0.05
+
+13
+Changes in students’ attitudes and dispositions toward CS also varied by their racial and ethnic background. Asian students were more likely to have positive changes in their attitudes toward CS, compared with students from other racial/ethnic groups. For example, as shown in Figure 5 below, at the elementary level Asian students’ CS confidence scores improved significantly (from 2.90 to 2.98) after CS instruction. In contrast, their peers from other racial/ethnic groups did not report significant changes in CS confidence. In addition, we found that students from other racial/ethnic groups became less engaged and less enthusiastic about CS after instruction, while Asian students’ attitudes in these areas remained about the same or improved slightly.
+Older Black, Latinx, and White students experienced even larger declines in attitudes after taking CS. For example, among Latinx students in middle and high school, the average CS affinity score fell from 3.72 to 3.55, a difference that was statistically significant and much larger than the change Latinx students experienced on this measure in elementary school.
+Figure 5 and Figure 6 present the average pre- and post-scores for CS confidence, engagement, and affinity by racial and ethnic groups for the elementary and middle/high school samples, as well as whether the changes are statistically significant.
+Figure 5: Changes in Elementary School Students’ CS Attitudes by Race/Ethnicity
+
+Source: Research Alliance calculations based on data obtained from the NYCPS and the student survey.
+Notes: * = p < 0.05.
+
+14
+Figure 6: Changes in Middle and High School Students’ CS Attitudes by Race/Ethnicity
+
+Source: Research Alliance calculations based on data obtained from the NYCPS and the student survey.
+Notes: * = p < 0.05.
+Although the pre-post changes in students’ attitudes were relatively small in magnitude, our findings indicate a consistent pattern of differences by gender, race/ethnicity, and grade band. Seeing confidence and enthusiasm diminish after students take a CS class raises critical questions about how CS instruction might be made more engaging, particularly for students who are underrepresented in the field.
+Teachers’ implementation of CR-SE practices shows promise in terms of improving students’ attitudes toward CS.
+CR-SE practices include using inquiry- or project-based CS learning, teaching CS lessons that affirm students’ cultural identities, making connections between CS content and students’ knowledge and interests, and ensuring that a variety of diverse cultures, languages, and identities are reflected in CS classrooms (see Table 3 in the Appendix for additional examples). To investigate whether teachers’ use of these practices made a difference in students’ attitudes toward CS, we connected responses from the teacher survey to students’ pre-post changes on six CS attitude constructs. Based on a limited number of teachers who completed the teacher survey and conducted pre and post surveys with their students, we found that, in general, when elementary teachers reported
+
+15
+more frequent use of CR-SE practices, their students experienced more positive changes in CS attitudes, compared with students whose teachers had lower levels of CR-SE implementation. As an example, Figure 7 shows changes in elementary students’ CS attitudes for teachers with different levels of one specific CR-SE practice—ensuring that a variety of diverse cultures, languages, and identities were reflected and valued in their CS classroom. Patterns of results were similar for other CR-SE practices.7 Figure 7: Changes in Elementary Students’ CS Attitudes That Were Associated with CR-SE Implementation (Sample Survey Items)
+
+Source: Research Alliance calculations based on data obtained from the CS student and teacher surveys.
+Notes: Teachers who reported using CR-SE practices (in this case, “ensuring that a variety of diverse cultures, languages, and identities were reflected and valued in their CS classroom”) to a moderate or large extent were categorized as “higher” implementers (n=9). Teachers who reported using CR-SE practices to a small extent or not at all were categorized as “lower” implementers (n=4). Between 527 and 542 elementary students answered the three survey items reported in this figure. The differences in the pre-post changes between the two groups of students in these three constructs were all statistically significant (p < 0.05).
+Figure 7 focuses on the percentage of elementary school students who strongly agreed with select items from the CS engagement, gender equity, and CS value constructs, before and after CS instruction. As shown in the figure, among teachers who reported using this CR-SE practice to a moderate or large extent, almost half of their students (48%) strongly agreed with the statement “I enjoy doing computer science activities” after receiving CS instruction. This is a 3.8 percentage point increase from before taking CS. In contrast, among students whose teachers reported less frequent implementation of this CR-SE practice, the percentage strongly agreeing with this statement decreased from 62 percent to 50 percent.
+
+7 We use this CR-SE practice for illustrative purposes. See Table 7 in the Appendix for additional results.
+
+16
+On the gender equity item, although both groups of students became more likely to strongly agree that “Girls can be successful computer scientists,” the pre-post difference was much larger when teachers had reported using the CR-SE practice more frequently (a 9-point increase vs. 3-point). Similarly, among students in the higher CR-SE implementing classes, we found a 4-point increase in the percentage strongly agreeing that “Knowing computer science will help me create useful things.” In contrast, students in lower CR-SE implementing classes experienced a slight decrease on this item (-2 percentage points)
+after receiving CS instruction.
+Figure 8 below also compares students of teachers who reported higher and lower levels of implementing the same CR-SE practice (i.e., “ensuring that a variety of diverse cultures, languages, and identities were reflected and valued in their CS classroom”), this time for middle and high school students. The figure focuses on the percentage of students who strongly agreed that their computer science classes reflect their interests.
+Figure 8: Changes in Middle and High School Students’ CS Attitudes That Were Associated with CR-SE Implementation (Sample Survey Item)
+
+Source: Research Alliance calculations based on data obtained from the student and teacher surveys.
+Notes: Teachers who reported using CR-SE practices (in this case, “ensuring that a variety of diverse cultures, languages, and identities were reflected and valued in their CS classroom”) to a moderate or large extent were categorized as “higher” implementers (n=13). Teachers who reported using CR-SE practices to a small extent or not at all were categorized as “lower” implementers (n=4). A total of 447 students answered this survey item.
+The differences in the pre-post changes between the two groups of students were statistically significant (p < 0.05).
+
+17
+As shown in the figure, after CS instruction, about 14 percent of students whose teachers reported greater implementation of the CR-SE practice strongly agreed that their computer science class reflected their interests, up from 12 percent at the beginning of instruction.
+Conversely, students of teachers with less implementation of this CR-SE practice experienced a decrease on this item (from 16 to 13 percent). Unlike the findings for elementary students, we did not observe a relationship between this CR-SE practice and changes on most of other CS attitude constructs.8 (Tables 6 and 7 in the Appendix present the complete list of pre-post average score changes on all six CS attitude constructs, categorized by teachers’ implementation of six CR-SE practices, for both the elementary and the middle and high school samples.)
+It is worth noting that this analysis is based on a small number of teachers who took the survey and answered the CR-SE relevant questions and their students who filled out the student survey. Because of this limited sample, we cannot draw definitive conclusions, and caution in generalizing is warranted. Still, the findings suggest that CR-SE practices hold promise for enhancing students’ experiences in CS classrooms, particularly at the elementary level.
+Students’ computational thinking skills improved after CS instruction.
+CS instruction had a significant and positive association with growth in students’ computational thinking skills, particularly in elementary school. Table 2 on page 18 shows pre- and post-test scores for the CT assessment overall and broken down by gender and race/ethnicity. In the elementary school sample, after CS instruction, students experienced a statistically significant average increase of 9.1 percentage points. Increases were observed in girls and boys, and across all racial/ethnic groups. However, boys, as well as White, Asian, and Latinx students, recorded somewhat larger gains on average (compared to girls and Black students, respectively).
+We observed smaller but still positive changes in CT skills following CS course participation among middle and high school students. Overall, students’ scores increased 2.3 percentage points after receiving CS instruction. Notably, this increase was concentrated among Latinx boys. Girls recorded a small but not statistically significant increase of 1.3 percentage points. When we looked at differences by race, we found statistically significant gains only for Latinx students.
+These findings highlight disparities in CS learning that were more pronounced at the middle and high school level. For example, the differences in the pre- and post-test scores between elementary girls and boys were minimal, with girls scoring 0.7 percentage points higher on the pre-assessment and nearly identical scores on the post-assessment. In contrast, in the middle and high school sample, boys scored 5.4 percentage points higher on the pre-test and 7.1 percentage points higher on the post-test.
+
+8 The differences between these two groups of students in the other CS constructs were not statistically significant, with two exceptions: For two CR-SE practices (2 and 5 in Table 3 in the Appendix), students of teachers reporting higher levels of implementation experienced a decrease in their gender equity scores, while students of lower implementers experienced increases in their gender equity scores.
+
+18
+Table 2: Changes in Computational Thinking Skills by Grade Level, Gender, and Race/Ethnicity
+
+ Elementary School Students Middle and High School Students
+
+Pre-
+Assessment
+(% Correct)
+Post-
+Assessment
+(% Correct)
+Difference
+Pre-
+Assessment
+(% Correct)
+Post-
+Assessment
+(% Correct)
+Difference
+Full
+Sample
+45.2
+54.3
+9.1*
+45.3
+47.6
+2.3*
+Girls
+45.5
+54.3
+8.8*
+42.3
+43.6
+1.3
+Boys
+44.8
+54.2
+9.4*
+47.6
+50.7
+3.1*
+Asian
+53.7
+63.1
+9.4*
+55.8
+57.7
+1.9
+Latinx
+38.1
+47.1
+9.0*
+40.4
+44.3
+3.9*
+Black
+39.1
+45.6
+6.4*
+34.4
+35.1
+0.7
+White
+50.2
+60.7
+10.5*
+52.4
+53.1
+0.7
+Other
+51.5
+60.5
+9.0*
+46.4
+47.5
+1.1
+
+Source: Research Alliance calculations based on data obtained from NYCPS and the student assessment.
+Notes: N (elementary school students) = 2,208; N (middle and high school students) = 1,574; * = p < 0.05 Differences in scores between racial and ethnic groups were even larger and more concerning, especially in later grades. Furthermore, these gaps tended to widen after CT instruction. For example, in the elementary school sample, the gap between Asian students and Black students was 14.6 percentage points in the pre-CT assessment and 17.5 percentage points in the post-CT assessment. Among middle and high school students, these gaps stood at 21.4 percentage points on the pre-assessment and grew to 22.6 percentage points on the post-assessment.
+Altogether, these findings suggest that elementary students may be benefiting more from CS instruction, at least in terms of building the types of computational thinking skills measured by our assessment. There were notable improvements across all demographic groups in elementary school, though these gains were larger among boys and White and Asian students. In contrast, middle and high school students recorded smaller, less consistent increases on their CT assessment scores. Furthermore gaps related to gender and race/ethnicity were larger among the older students.
+
+19
+After taking CS, positive attitudes were associated with stronger CT skills and greater growth in these skills.
+Ample prior research has demonstrated a positive correlation between students’ attitudes during the learning process and their learning outcomes, including academic achievement and course completion (Deng et al., 2020; Krause-Levy et al., 2021; Lipnevich et al., 2016;
+Oroujlou & Vahedi, 2011). One study involving 1,180 7th grade students found that their attitudes about computer programming positively and significantly predicted their CT skills (Sun et al., 2022). Our analysis provides additional evidence supporting the relationship between CS attitudes and CS skill development.
+Across the board, we found that students with more positive attitudes and dispositions toward CS had higher CT scores. Figure 9 below displays the average percent correct on the post-CT assessment for elementary students who strongly disagreed, disagreed, agreed, or strongly agreed to select survey items within each attitude construct. Figure 10 on the next page shows the corresponding values for middle and high school students.
+Using elementary school students’ responses to the statement “I am good at computer science’’ as an example, we found that students who strongly disagreed with this statement scored correctly on 44 percent of the post-CT assessment items, on average, while students who strongly agreed scored correctly on 59 percent. Similarly, in the middle and high school student sample, students who had more positive attitudes tended to score higher on the post-CT assessment. For instance, students who strongly disagreed with the statement “I am interested in learning more about CS” only scored 37 percent correct on average, compared with 58 percent among those who strongly agreed.
+Figure 9: Relationship Between CS Attitudes and CT Skills in the Elementary School Sample
+
+Source: Research Alliance calculations based on data obtained from the student survey and assessment.
+Notes: N = 1,523
+
+20
+Figure 10: Relationship Between CS Attitudes and CT Skills in the Middle and High School Sample
+
+Source: Research Alliance calculations based on data obtained from the student survey and assessment.
+Notes: N = 1,017
+It is important to note that while there is a positive relationship between students’ attitudes toward CS and their CT scores after taking CS, we were unable to determine the direction of this relationship—that is, we do not know whether positive attitudes lead to higher CT scores or vice versa. We did also find, however, that students who had more positive attitudes experienced larger gains on CT scores after taking CS. This was especially true in elementary school, suggesting that positive attitudes may be more important for younger students.
+Tables 3 and 4 on the next page display the average pre-post change in CT assessment scores for elementary students and middle and high school students, respectively, based on their level of agreement with the same survey items shown in Figures 9 and 10. As seen in Table 3, elementary students who strongly agreed with the statement “I am good at computer science” gained 12 percentage points on the CT assessment after taking CS, while students who strongly disagreed and disagreed with this statement only gained 4 and 5 percentage points, respectively. Middle and high school students who had positive attitudes toward CS also experienced greater growth in CT assessment scores, but the differences were much smaller and not statistically significant.
+
+21
+Table 3: Elementary Students’ Average CT Assessment Score Change by CS Attitude Agreement Selected Constructs Example Item Strongly Disagree Disagree Agree Strongly Agree CS Confidence I am good at computer science.
+4.4
+4.8
+8.9
+12.3
+CS Engagement
+I want to learn more
+about CS.
+5.6
+3.4
+8.8
+10.4
+CS Affinity
+CS is interesting.
+5.8
+5.1
+7.8
+10.7
+CS Belonging
+I feel comfortable in my
+class.
+7.8
+8.8
+8.3
+9.2
+CS Value
+I can use CS skills in
+other subjects.
+6.8
+5.0
+8.0
+10.9
+
+Table 4: Middle and High School Students’ Average CT Assessment Score Change by CS Attitude Agreement
+
+ Selected
+Constructs
+Example Item
+Strongly
+Disagree
+Disagree
+Neutral
+Agree
+Strongly
+Agree
+ CS Confidence
+I have a lot of selfconfidence when it comes to CS.
+-1.0
+0.0
+3.1
+3.4
+1.1
+
+CS
+Engagement
+I am interested in
+learning more about
+CS.
+-0.1
+1.0
+2.6
+3.2
+2.8
+ CS Affinity
+I like CS.
+-4.3
+-0.7
+3.3
+3.5
+2.2
+ CS Belonging
+I feel comfortable in
+my class.
+3.5
+-5.0
+2.4
+3.1
+2.3
+ CS Value
+I can use CS skills
+in other subjects.
+0.8
+3.0
+2.5
+3.1
+0.9
+Source: Research Alliance calculations based on data obtained from the student survey and assessment.
+Notes: In the elementary school student sample (N = 1,523), the differences in gains between students with different levels of agreement were generally statistically significant (e.g., strongly agree vs. disagree). However, in the middle and high school student sample (N = 1,017), none of the differences in gains between students with any two different levels of agreement were statistically significant.
+
+22
+Is CS course-taking related to academic performance?
+Researchers have suggested that fostering computational thinking skills can enhance the foundational skills of reading and mathematics. They have drawn parallels between CT practices—such as sequencing computer programs—and the steps involved in understanding language structure and expression (Burke & Kafai, 2010; Jacob et al., 2018;
+Scherer et al., 2019). The Next Generation Science Standards now include CT as a core scientific principle. CT skills and practices like abstraction, algorithmic thinking, problem decomposition, and pattern recognition are applicable across multiple disciplines. This raises questions about whether taking CS might improve students’ performance in other subjects.
+Prior studies have found that English and math skills are key factors leading to CS success (Bergin & Reilly, 2005; Byrne & Lyons, 2001; Grover et al., 2016; Qian & Lehman, 2016;
+Wilson & Shrock, 2001). However, the reverse relationship—whether and how computing skills contribute to reading and math—has been less explored. Among the few studies that investigate whether CS instruction contributes to reading and math performance (Buckley, 2015; Salac et al., 2021; Schanzer et al., 2015), there are notable methodological issues that limit the reliability and generalizability of the findings.
+Although improved reading and math skills were not necessarily an expected outcome of the CS4All initiative, we investigated the relationship between CS course-taking and students’ performance on ELA and math tests.
+Overall, there was no consistent relationship between CS course-taking and New York State standardized test scores in ELA and math.
+We examined the state-standardized ELA and math test scores for cohorts of 3rd through 6th grade students who took at least ten hours of CS instruction at any point between 2016- 17 and 2018-19, and compared them to a matched comparison group of similar students who did not take CS.9 Tables 8 and 9 in the Appendix show the demographic characteristics of students in our analytic samples, before and after matching. In total, we tracked the ELA test scores of 164,268 students and the math scores of 156,748 students.
+About 20 percent had at least one meaningful unit of CS. In general, students who took CS had higher ELA and math scores at baseline (see Table 10 in the Appendix); they were more likely to be White or Asian, and slightly more likely to be male. They were less likely to be living in poverty, receive special education or English language learner services, or to be in temporary housing. Students who took CS had similar levels of attendance, but were more likely to have moved schools. These findings point to systematic differences between students who took CS and those who did not, indicating that CS courses reached a generally higher-achieving population. Using propensity score matching, we were able to control for these differences by identifying a comparison group of students who were similar on these variables.
+
+9 NYCPS defined a meaningful unit of CS as those with at least 10 hours of CS instruction integrated into another course (integrated units) or a semester-or year-long stand-alone CS course (53 hours minimum). The sample includes students who were in District 1-32, had no prior CS experience, progressed as expected (e.g., if a student was in grade 5 in 2017, then the student should be in grade 7 in 2019), and had no missing values on key variables.
+
+23
+Overall, there were significant increases in ELA and math test scores between 2017 and 2019 for both CS and non-CS students at most grade levels (see Table 5). However, aside from 8th grade CS students in 2019 (who had a significantly larger increase in ELA), the differences between CS and non-CS students were small and not statistically significant.
+These findings indicate that there was no consistent relationship between CS course-taking and higher scores on ELA and math tests.
+Table 5: Mean Change and Effect of CS Course-Taking on Standardized Test Scores in ELA and Math Treatment Group Students (Took CS)
+Comparison Group
+Students (Did Not Take CS)
+Effect
+5th Grade ELA test z scores (N = 2,718)
+0.029
+0.050*
+-0.021
+5th Grade Math test z scores (N = 2,810)
+-0.003
+-0.045*
+0.043
+6th Grade ELA test z scores (N = 12,310)
+0.048*
+0.035*
+0.013
+6th Grade Math test z scores (N = 12,496)
+0.006
+-0.005
+0.011
+7th Grade ELA test z scores (N = 3,178)
+0.068*
+0.065*
+0.003
+7th Grade Math test z scores (N = 3,216)
+0.083*
+0.053*
+0.030
+8th Grade ELA test z scores (N = 1,810)
+0.056*
+0.000
+0.056*
+8th Grade Math test z scores (N = 1,188)
+0.120*
+0.038
+0.082
+Source: Research Alliance calculations based on data obtained from the NYCPS.
+Notes: Effect is calculated as the difference in z score change from 2017 to 2019 between the treatment group and the comparison group; values displayed in the table are mean change in z scores (2017 to 2019); * = p < 0.05 Likewise, there was no consistent relationship between CS course-taking and formative assessment data.
+To further test the relationship between CS instruction and student academic performance in English and math, we conducted similar analyses using the 2021-2022 screener data provided by NYCPS.10 Screeners refer to a variety of academic assessments used to measure, monitor, and analyze student progress in foundational skills such as literacy and math.11 We estimated the effects of CS course-taking on students’ formative assessment
+
+10 Systemwide historical data for screeners was only available for the 2021-22 and 2022-23 school years.
+11 Under the systemwide screener initiative, all NYC public schools must select and administer reading and math screeners to grade K-10 students at set intervals. Screeners are typically administered three times
+
+24
+test scores in ELA and math, respectively, for three types of screeners (i-Ready, MAP Growth, and Acadience), which students took during the 2021-2022 academic year.12 The results suggest that there was no significant effect of CS course-taking on students' formative assessment performance, with a few exceptions (see Figure 2 and Figure 3 in the Appendix for details).
+Overall, using both summative and formative assessment data, we found little evidence that CS course-taking improves students’ academic performance in ELA and math.
+Is there a relationship between CS participation and subsequent CS coursetaking in higher grades? To what extent does CS course-taking in high school predict students’ CS major declaration in postsecondary institutions?
+In this section, we first present findings on the relationship between CS participation and subsequent CS course-taking in higher grade bands. We also examine whether this subsequent CS course-taking varied by students’ characteristics (e.g., prior performance on standardized tests, gender, and race/ethnicity) or school characteristics (e.g., the number of CS courses offered and the percentage of students who are Black and Latinx).
+Next, we present findings on the relationship between CS course-taking in high school and CS major declaration within the City University of New York (CUNY) system. We further explore whether CS major declaration differed by student demographic characteristics, and whether the relationship between high school CS course-taking and declaring a CS major varied by gender and race/ethnicity.
+For this analysis, we followed four cohorts of students from Fall 2016 to Fall 2022. In particular, we investigated whether a student who took CS classes in grade bands K-2 (cohort 1), 3-5 (cohort 2), and 6-8 (cohort 3) would be more likely to take CS courses in subsequent grade bands (3-5, 6-8, and 9-11 respectively).13 We also examined whether a student who took CS courses in grades 9-12 (cohort 4) was more likely to declare a CS major in college.14 We limited our analytic samples of students in cohorts 1 through 3 to those attending schools that offered any CS during 2020-2022 and those in schools with at least 10 students in their grade band. This ensures that all students in our sample had, at least theoretically, an opportunity to take CS. In reality, the CS courses may not have been available to all students—because of prerequisites, lack of space in courses, or scheduling conflicts. In total, 26,072 students (39% of all students in grades K-2) were in the cohort 1 analytic sample, 26,902 (59% of all students in grades 3-5) were in the cohort 2 sample, and 43,265 (81% of all students in grades 6-8) were in the cohort 3 sample. Cohort 4 includes 23,666 students, which is 35 percent of the students who entered 9th grade in a
+
+throughout a school year: Beginning-of-Year (BOY/ Fall), Middle-of-Year (MOY/Winter), and End-of-Year (EOY/Spring).
+12 We included these three types of screeners in our analyses because a majority of students took one of them.
+13 At the time of this analysis, we had data available only to examine whether students’ CS course-taking in grades 6-8 is associated with their CS course-taking in grades 9-11.
+14 The grade levels referenced here are the students’ expected grade levels, not the students’ enrolled grade levels. In our analyses, we used a fixed timespan for the measures and outcomes. For example, for the kindergarten cohort, we looked at the effect of a student taking CS between 2017 and 2019 on their likelihood of taking CS between 2020 and 2022, even if they weren’t promoted to the next grade in each year.
+
+25
+NYC public school in the 2016-2017 academic year (68,192). Our sample focuses on students enrolled in a CUNY college in either Fall 2020 or Spring 2021.
+The relationship between initial CS participation in elementary and middle school and CS course-taking in subsequent grade bands was mixed, with the overall trend showing no significant correlation.
+We found no significant relationship between CS course-taking in grades 3-5 and CS course-taking in middle school, or between CS exposure in middle school (grades 6-8) and CS course-taking in high school (grades 9-11), after controlling for student background characteristics and differences across schools. However, among cohort 1 students, we found that those who took CS in K-2 were significantly more likely than those who didn’t to take CS in 3-5. It is important to note that students in elementary grades typically do not have much choice in course selection. Therefore, the increased likelihood that students who took CS in grades K-2 would continue with CS in subsequent grades could be attributed to teachers selecting students with prior CS experience for additional CS courses.
+CS courses in high school were more selective, favoring students with better academic performance.
+We found that students with higher test scores in ELA and math were significantly more likely to take CS courses in high school. This suggests that enrollment in high school CS courses may be more selective, possibly due to the perception that CS is a more advanced subject. Two factors could play vital roles in the selection process for CS course enrollment in high school. One factor is self-selection, where students with stronger overall academic performance potentially feel more confident in their ability to do well in CS courses. The second factor is how students are advised. School counselors and teachers may be more likely to recommend that high-achieving students take CS courses, whether as electives or Advanced Placement (AP) courses, because they believe these students are better prepared for CS or other challenging classes.
+Subsequent CS course-taking varied across subgroups of students, with disparities by gender and race/ethnicity increasing as students progressed to higher grades.
+Table 6 on the next page shows whether students with different characteristics were more or less likely than their peers to take CS when they got to the subsequent grade band. This analysis compares students with the same prior CS experience and within the same school. We found that, in grades 3-5, students with disabilities and multilingual learners had higher odds of taking CS, compared to students without disabilities and non-multilingual learners respectively. There were no statistically significant differences associated with gender or race/ethnicity in grades 3-5. However, as students advanced to higher grade levels, disparities in CS course-taking emerged. Boys in grades 6-8 were 1.6 times more likely than girls to take CS, Asian students were 1.2 times more likely than Latinx students, and non-multilingual learners were 1.3 times more likely than multilingual learners to take
+
+26
+CS. 15 We saw similar trends in grades 9-11. These findings suggest that while participation in CS education in the early grades was generally equitable in terms of gender and race/ethnicity, disparities associated with gender, race/ethnicity, and language-learner status emerged by late elementary school and grew more pronounced as students attended higher grade levels.
+Table 6: The Relationship Between Student Characteristics and CS Course-Taking
+
+Cohort 1 (K-2)
+Taking CS in
+Grades 3-5
+Cohort 2 (3-5)
+Taking CS in
+Grades 6-8
+Cohort 3 (6-8)
+Taking CS in
+Grades 9-11
+Girls (in Relation to Boys)
+
+↓
+↓
+Black Students (in Relation to Asian Students)
+
+↓
+
+Latinx Students (in Relation to Asian Students)
+
+↓
+
+↓
+
+White Students (in Relation to Asian Students)
+
+↓
+
+Other/Indigenous Students (in Relation to Asian Students)
+
+↓
+
+Students with Disabilities (in Relation to Students Without Disabilities)
+
+↑
+Multilingual Learners (in Relation to Non- Multilingual Learners)
+
+↑
+
+↓
+
+Source: Research Alliance calculations based on data obtained from NYCPS.
+Notes: Cells in light pink indicate a positive and significant relationship; cells in dark red indicate a negative and significant relationship. The relationships were based on the school-fixed effect logistic regression model. See Column M2 in Tables 16-18 in the Appendix for details.
+School-level factors also affected students’ likelihood of taking CS.
+To explore if certain school-level factors influence students’ likelihood of taking CS, we added school-level variables to the logistic regression models. These variables include the
+
+15 Results were based on the odds ratios from the logistic regression model with school fixed effects, holding other variables constant. A school fixed-effects model compares students only to others within the same high school, rather than across different schools. This approach controls for unmeasured characteristics that are shared by students attending the same school.
+
+27
+number of CS courses offered, the percentage of students who are Black and/or Latinx, schools’ ENI, and schools’ enrollment size. As shown in column M1 of Tables 16-18 in the Appendix, the analytic results show that, as expected, holding other school-level variables (like school size and average ENI) constant, students’ likelihood of taking CS in the subsequent grade band is significantly and positively associated with the number of CS courses offered in that grade band. Conversely, the likelihood of taking CS was negatively associated with the percentage of students who are Black and Latinx. This finding highlights that, all other things being equal, schools with higher percentages of Black and Latinx students are offering fewer CS courses. Possible explanations for this include there being fewer resources available at such schools, more competing priorities, or implicit biases and stereotypes about which students should have access to CS.
+High school CS course-taking was positively associated with the likelihood of students declaring a major in CS in a CUNY school.
+Existing studies have examined the relationship between STEM and CS coursework in high school and STEM major choice in college (Chen et al., 2021; Cheryan et al., 2017; Lee, 2015, 2020) and between Advanced Placement (AP) CS coursework and CS major choice (Mattern et al., 2011; Wyatt et al., 2020). Using data from Maryland, Liu and colleagues (2024) found that expanding access to CS education in high schools increased students' likelihood of declaring a CS major by 10 percentage points.
+Our analysis followed students through their second year in college. We found a positive and significant relationship between CS course-taking in high school and CS major declaration in a CUNY school. This relationship was consistent when we controlled for student-level covariates and school-level covariates, and compared students from the same school. Students with CS experience in high school were twice as likely to declare a CS major in a CUNY college compared with students who had no CS experience, holding all else constant.
+We also compared the effect of different types of CS, and found that even students who only took non-AP CS courses (e.g., CS courses16 like Exploring Computer Science, TEALS Introduction to Computer Science, Introduction to Computational Media, and Carnegie Mellon University’s CS Academy CS1: Introduction to Programming with Python, among others) were 40 percent more likely to declare a CS major than those who did not take any CS at all in high school. Not surprisingly, the difference was larger for students who took at least one AP CS class in high school, who were three times more likely to delcare a CS major. We also found that taking CS early in high school was positively associated with the likelihood of choosing a CS major in college, although this difference was not statistically significant.
+CS major declaration differed by student demographic characteristics.
+Our analysis reveals that, after controlling for high school CS experience and other demographic and school characteristics, young women were 80 percent less likely to declare a CS major compared to young men. Black, White, and Latinx students were less
+
+16 Course options made available for free to CS teachers include: https://blueprint.cs4all.nyc/curriculum/, https://academy.cs.cmu.edu/
+
+28
+likely than Asian students to declare a CS major (44%, 22% and 45% less likely, respectively). Interestingly, we found that students who were multilingual learners were 56 percent more likely to declare majors in CS than non-multilingual learners.17 We did not find significant differences in choosing CS majors between students who received special education services and those who did not.
+HS course-taking helped reduce gender and race/ethnicity gaps in CS major declaration.
+We further investigated whether the relationship between students’ high school CS coursetaking and declaring a CS major varied by gender and race/ethnicity. We found that the positive effect of CS course-taking was stronger for female students and non-Asian students, suggesting that exposure to CS in high school has the potential to mitigate disparities at the college level. To illustrate this, we estimated how likely students were to delcare a CS major based on their gender, race/ethnicity, and whether they took a CS course, using data from one typical high school. Figure 11 on the next page displays the estimated percentage declaring a CS major for male students who took and did not take CS in the high school, as well as for female students who took and did not take CS. Figure 12 shows the estimated percentage declaring a CS major for Asian students who took CS and did not take CS compared to other student subgroups in the high school. As shown in Figure 11, young men were much more likely than young women to declare a CS major, regardless of whether they took CS or not. However, for male students, taking CS in high school increased the estimated percentage of declaring a CS major by 88 percent, while for female students the increase was much larger, at 176 percent. Figure 12 shows a similar pattern, with the percentage change for non-Asian students substantially larger than for Asian students.
+While Figures 11 and 12 show estimated results from one school, the signfiicant and positive interaction between CS course-taking and gender and race/ethnicity in the regression models with school fixed effects suggests that these patterns hold on average across schools.18 CS course-taking in high school was associated with narrower race/ethnicity gaps in CS major declaration when students got to college.
+
+17 Odds ratios for declaring a CS major were as follows: young women vs. young men (0.18), White vs. Asian students (0.562), Black vs. Asian students (0.783), Latinx vs. Asian students (0.553), and multilingual vs. nonmultilingual learners (1.557). For details, see Column M2 of Table 19 in the Appendix.
+18 The coefficient for the interaction between CS course-taking and gender (reference group = young women)
+was positive (β = 0.299) and statistically significant (p < 0.05); the coefficients for the interaction between CS course-taking and race/ethnicity (reference group = Asian students) were 0.425 (White students, p < 0.01), 0.334 (Black students, p < 0.05), and 0.259 (Latinx students, p < 0.05). For details, see Columns M2A and M2B of Table 20 in the Appendix.
+
+29
+Figure 11: CS Major Declaration for Students Who Did and Did Not Take CS in High School by Gender, Estimates from One Typical High School
+
+Source: Research Alliance calculations based on data obtained from NYCPS and CUNY.
+Notes: Results were based on model M2A in Table 20 in the Appendix.
+Figure 12: CS Major Declaration for Students Who Did and Did Not Take CS in High School by Race/Ethnicity, Estimates from One Typical High School
+
+Source: Research Alliance calculations based on data obtained from NYCPS and CUNY.
+Notes: Results were based on model M2B in Table 20 in the Appendix.
+
+30
+Summary and Recommendations This report summarizes the key findings from our analyses of short- and long-term student outcomes associated with CS course-taking in NYC schools. Assessing the outcomes of CS education provides timely evidence to measure the CS4All initiative's success and inform ongoing program improvements. Key findings include the following:
+•
+Overall, elementary school students had more positive attitudes toward CS compared to middle and high school students, both pre- and post-instruction. The presence of a "neutral” response option in the middle and high school student survey, which was not available in the elementary student survey, may have influenced the distribution of responses.
+•
+After CS instruction, students reported small but statistically significant increases in confidence in their CS abilities and in their experience of representation. However, in areas where students already had strong positive attitudes, such as CS belonging and affinity, we observed small decreases by the end of the course. This could be related to a ceiling effect, students’ unmet expectations, or unexpected challenges and difficulties students experienced during the CS course.
+•
+Students' scores on an assessment of CT skills significantly increased from the beginning to the end of CS instruction. This was particularly true for elementary students, where the link between course participation and stronger computational thinking performance was observed across all gender and race/ethnicity subgroups.
+Growth in CT skills was smaller and less consistent in middle and high school.
+•
+Post-instruction changes in students’ attitudes toward CS and their CT skills varied by gender and race/ethnicity. These gaps were larger in the higher grade levels compared to lower grade levels.
+•
+Greater implementation of CR-SE practices may be associated with more positive attitudes toward CS, particularly among elementary school students. This result is based on a small number of teachers, but suggests that integrating CR-SE into CS holds promise as a way to foster a more inclusive and engaging learning environment, which is especially important for students who are underrepresented in CS education, such as girls and Black and Latinx students.
+•
+Positive CS attitudes were in turn associated with stronger CT skills and greater growth in these skills. This relationship suggests that fostering positive attitudes toward CS can potentially enhance students’ learning of computational thinking skills.
+•
+CS course-taking was not significantly associated with performance on state standardized tests or formative assessments of English language arts and mathematics. This is not entirely surprising because these measures are not closely aligned with the skills taught in CS courses. However, other research suggests that CS instruction may have longer-term benefits for students in areas such as creative thinking, problem-solving skills, higher engagement in school, etc. (e.g., Kong, 2019), which are not directly captured by state tests and formative assessments.
+
+31
+•
+Elementary and middle school students’ prior CS experience did not significantly predict subsequent CS course-taking. Instead, the analyses reveal a statistically significant and positive relationship between the availability of CS courses in a student’s school and their likelihood of taking CS courses. This finding suggests that school-level initiatives to increase the number of CS courses offered played a more critical role in encouraging students to pursue CS than did individuals’ prior experience. By expanding CS course offerings, schools can improve access for all students, regardless of their previous exposure to the subject.
+•
+High school exposure to CS is related to subsequent interest in CS coursework. Our analysis shows that taking a CS course in 9th through 12th grade positively correlated with CS major declaration in CUNY schools. Increasing access to and participation in formal high school CS experiences therefore holds promise as a way to encourage students to pursue CS pathways in college. It may also help reduce gender and racial/ethnic gaps in CS education and potentially in the broader field of CS careers. We found that the link between high school CS course-taking and declaring a CS major in college was greater for female and non-Asian students than male and Asian students.
+These findings point to several policy and practice recommendations:
+•
+Embed culturally responsive practices in CS instruction. The persistent gender and race/ethnicity gaps seen in students’ CS attitudes and CT skills, alongside the promising findings about CR-SE practices, highlight the potential of prioritizing culturally responsive CS education as a core component of teacher and school capacity-building efforts. Embedding these practices into CS instruction can help create supportive and inclusive learning environments where historically marginalized students feel comfortable and confident, challenging gendered and racialized stereotypes about who belongs in CS.
+Further research is needed to better understand the impact of teachers’ CR-SE practices and to guide their continued development and implementation in CS education. Exploring strategies to ensure that CR-SE training is more deeply embedded in various professional learning programs and across higher grade bands—where gaps are more pronounced—is essential.
+•
+Build on the promising results in elementary schools and continue supporting CS integration.The larger CT assessment gains observed among elementary students suggest that integrating CS into core subjects is a promising strategy.
+Elementary school students with more positive attitudes toward CS showed greater improvement in CT scores, indicating that fostering positive attitudes may play a critical role in younger students’ skill development.
+•
+Invest in additional research to better understand challenges implementing CS in middle and high schools. For older students, smaller and less consistent CT gains, as well as decreases in some attitudes, raise questions about current instructional approaches and course offerings. District leaders should evaluate the wide range of classes available at the middle and high school level, with an eye
+
+32
+toward strengthening instructional materials and building well aligned pathways across schools and grade levels.
+•
+Identify assessments and data systems needed to measure student CS skills that align with NYS CS and digital fluency standards. CS instruction may have benefits for students in areas not directly captured by current ELA and math state tests and formative assessments. To better understand the full potential of CS education, it is crucial to establish standard expectations for digital literacy and CS, and to identify clear goals for student CS skill attainment and corresponding assessments and data systems. These systems should include data on the variation in curricula, teacher experience, CS content, and types of instruction that students are exposed to across the district, as well as student outcomes. Tracking these factors over time can provide valuable insights into how different approaches to CS instruction impact students’ learning, allowing for more targeted improvements and better alignment with educational goals. The new assessment system should build upon existing CT assessments to better evaluate student outcomes and capture a broader range of skills developed through CS instruction.
+•
+Address barriers to CS course availability and student participation, especially in schools with higher populations of Black and Latinx students.
+Given that the availability of CS courses at a school is a strong driver of participation, it is essential to increase the number of CS courses offered, particularly in schools with larger Black and Latinx student populations. School leaders and administrators should also actively work to eliminate both structural and social barriers that may discourage underrepresented groups of students from enrolling in CS classes.
+•
+Leverage high school CS to improve equity in post-secondary participation.
+Our analysis of the relationship between CS course-taking in high school and CS major choice in CUNY schools suggests that encouraging students to take CS in high school, especially students from underrepresented groups, may help narrow gender and racial/ethnic gaps in CS education and careers. To encourage more high school students to take CS, district and state leaders should consider making CS courses a graduation requirement. Additionally, offering CS courses that are accessible and engaging to students with a wide range of prior experiences can help attract more students to the subject. The AP Computer Science Principles (CSP) course is an example of such an accessible course, as it does not require prior CS knowledge or advanced math courses and can introduce students to pathways and careers in CS and/or STEM that they may not have otherwise considered.
+This report presents numerous findings related to the short- and longer-term outcomes of students taking CS in New York City schools. Our research has shown several promising results across different types of outcomes. CS course-taking was associated with improved computational thinking skills and better attitudes toward CS in some areas, especially among elementary school students. At the high school level, CS course-taking was associated with an increased likelihood of pursuing a CS major in college and reduced gender and racial/ethnic gaps in CS degree pursuit. We also found that embedding
+
+33
+culturally responsive practices in CS instruction holds promise as a strategy for enhancing student engagement.
+Despite the progress made, challenges remain, including persistent gender and race/ethnic disparities in computational thinking skills and attitudes toward CS. These disparities existed prior to the CS4All initiative and continue to require attention. Furthermore, assessing student learning in CS and tracking student outcomes and experiences with CS instruction remains a complex and challenging task. As the CS4All initiative moves to the next stage, future investigations could explore how various factors—such as teachers’ characteristics (e.g., gender, race, teaching experience, curriculum used), school characteristics (e.g., borough location, whether the school has sent teachers to leadership training), the type of CS instruction (e.g., integrated vs. stand-alone), and its content and dosage—are related to student outcomes, including students’ eventual career choices and earnings. Such research could support ongoing improvement, identify sources of disparities, and enhance our understanding of the value of CS education.
+
+34
+References
+Bergin, S., & Reilly, R. (2005). “Programming: Factors that Influence Success.” SIGCSE Bull., 37(1), 411–415.
+https://doi.org/10.1145/1047124.1047480 Buckley, J. (n.d.). Preliminary Results of AP Computer Science Analyses.
+Burke, Q., & Kafai, Y. B. (2010). “Programming & Storytelling: Opportunities for Learning about Coding & Composition.” Proceedings of the 9th International Conference on Interaction Design and Children, 348–351.
+https://doi.org/10.1145/1810543.1810611 Byrne, P., & Lyons, G. (2001). “The Effect of Student Attributes on Success in Programming.” Proceedings of the 6th Annual Conference on Innovation and Technology in Computer Science Education, 49–52.
+https://doi.org/10.1145/377435.377467 Chen, C., J. M. Kang, G. Sonnert, & P. M. Sadler (2021). “High School Calculus and Computer Science Course Taking as Predictors of Success in Introductory College Computer Science.” ACM Transactions on Computing Education, 21(1), 1–21. https://doi.org/10.1145/3433169 Cheryan, S., S. A. Ziegler, A. K. Montoya, & L. Jiang (2017). “Why Are Some STEM Fields More Gender Balanced Than Others?” Psychological Bulletin, 143(1), 1–35. https://doi.org/10.1037/bul0000052 Crawford, C., M. Allen Kuyenga, L. Talley, Z. Mirakhur, & H. Clark. (2023). Organizing for Educational Equity in Computer Science: Lessons from New York City’s CS4All Initiative. New York City Public Schools.
+https://sites.google.com/schools.nyc.gov/cs4all-equity/about-us/impact-report Deng, R., P. Benckendorff, & D. Gannaway. (2020). “Linking Learner Factors, Teaching Context, and Engagement Patterns with MOOC Learning Outcomes.” Journal of Computer Assisted Learning, 36(5), 688–
+708. https://doi.org/10.1111/jcal.12437 Dorn, B., & Elliott Tew, A. (2015). “Empirical Validation and Application of the Computing Attitudes Survey.”
+Computer Science Education, 25(1), 1–36. https://doi.org/10.1080/08993408.2015.1014142 Grover, S., R. Pea, & S. Cooper. (2016). “Factors Influencing Computer Science Learning in Middle School.
+Proceedings of the 47th ACM Technical Symposium on Computing Science Education, 552–557.
+https://doi.org/10.1145/2839509.2844564 Haynie, K., & Packman, S. (2017). AP CS Principles Phase II: Broadening Participation in Computer Science Final Evaluation Report Prepared for The College Board and the National Science Foundation. Haynie Research and Evaluation.
+Jacob, S. R., & Warschauer, M. (2018). “Computational Thinking and Literacy.” Journal of Computer Science Integration, 1(1). https://doi.org/10.26716/jcsi.2018.01.1.1 Johnston, E., P. D’Andrea Montalbano, & D. E. Kirkland. (n.d.). Culturally Responsive Education: A Primer for Policy and Practice.
+https://www.academia.edu/36527946/Culturally_Responsive_Education_A_Primer_for_Policy_and_Practice Kong, S. C. (2019). “Components and Methods of Evaluating Computational Thinking for Fostering Creative Problem-Solvers in Senior Primary School Education.” In S.C. Kong & H. Abelson (Eds.), Computational Thinking Education (pp. 119–141). Springer Singapore. https://doi.org/10.1007/978-981-13-6528-7_8 Krause-Levy, S., W. G. Griswold, L. Porter & C. Alvarado. (2021). “The Relationship Between Sense of Belonging and Student Outcomes in CS1 and Beyond.” Proceedings of the 17th ACM Conference on International Computing Education Research, 29–41. https://doi.org/10.1145/3446871.3469748 Lee, A. (2015). “Determining the Effects of Computer Science Education at the Secondary Level on STEM Major Choices in Postsecondary Institutions in the United States.” Computers & Education, 88, 241–255.
+https://doi.org/10.1016/j.compedu.2015.04.019 Lee, A. (2020). “The Association between Female Students' Computer Science Education and STEM Major Selection: Multilevel Structural Equation Modeling.” Computers in the Schools, 37(1), 17–39.
+https://doi.org/10.1080/07380569.2020.1720553 Lipnevich, A. A., F. Preckel, & S. Krumm. (2016). “Mathematics Attitudes and Their Unique Contribution to Achievement: Going Over and Above Cognitive Ability and Personality.” Learning and Individual Differences, 47, 70–79. https://doi.org/10.1016/j.lindif.2015.12.027
+
+35
+Liu, J., C. Conrad, & D. Blazar. (2024). “Computer Science for All? The Impact of High School Computer Science Courses on College Majors and Earnings.” SSRN Electronic Journal.
+https://doi.org/10.2139/ssrn.4709691 Mason, S.L., & Rich, P.J. (2020). “Development and Analysis of the Elementary Student Coding Attitudes Survey.” Computers & Education, 153, 103898. https://doi.org/10.1016/j.compedu.2020.103898 Mattern, K. D., E. J. Shaw, & M. Ewing. (2011). Is AP® Exam Participation and Performance Related to Choice of College Major? College Board Research Report No. 2011-4. https://eric.ed.gov/?id=ED561044.
+Mooney, C., & Becker, B. A. (2020). “Sense of Belonging: The Intersectionality of Self-Identified Minority Status and Gender in Undergraduate Computer Science Students.” United Kingdom & Ireland Computing Education Research Conference, 24–30. https://doi.org/10.1145/3416465.3416476 Oroujlou, N., & Vahedi, M. (2011). “Motivation, Attitude, and Language Learning.” Procedia - Social and Behavioral Sciences, 29, 994–1000. https://doi.org/10.1016/j.sbspro.2011.11.333 Parker, M. C., Y. S. Kao, D. Saito-Stehberger, D. Franklin, S. Krause, D. Richardson, & M. Warschauer. (2021).
+“Development and Preliminary Validation of the Assessment of Computing for Elementary Students (ACES).”
+Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 10–16.
+https://doi.org/10.1145/3408877.3432376 Qian, Y., & Lehman, J. D. (2016). “Correlates of Success in Introductory Programming: A Study with Middle School Students.” Journal of Education and Learning, 5(2), 73. https://doi.org/10.5539/jel.v5n2p73 Salac, J., C. Thomas, C. Butler, & D. Franklin. (2021). “Understanding the Link between Computer Science Instruction and Reading & Math Performance.” Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1, 408–414. https://doi.org/10.1145/3430665.3456313 Schanzer, E., K. Fisler, S. Krishnamurthi, & M. Felleisen. (2015). “Transferring Skills at Solving Word Problems from Computing to Algebra through Bootstrap.” Proceedings of the 46th ACM Technical Symposium on Computer Science Education, 616–621. https://doi.org/10.1145/2676723.2677238 Scherer, R., F. Siddiq, & B. Sánchez Viveros. (2019). “The Cognitive Benefits of Learning Computer Programming: A Meta-Analysis of Transfer Effects.” Journal of Educational Psychology, 111(5), 764–792.
+https://doi.org/10.1037/edu0000314 Sun, L., L. Hu, & D. Zhou. (2022). “Programming Attitudes Predict Computational Thinking: Analysis of Differences in Gender and Programming Experience.” Computers & Education, 181, 104457.
+https://doi.org/10.1016/j.compedu.2022.104457 Vandenberg, J., A. Rachmatullah, C. Lynch, K. E. Boyer, & E. Wiebe. (2021). “Interaction Effects of Race and Gender in Elementary CS Attitudes: A Validation and Cross-Sectional Study.” International Journal of Child- Computer Interaction, 29, 100293. https://doi.org/10.1016/j.ijcci.2021.100293 Wanzer, D., T. McKlin, D. Edwards, J. Freeman, & B. Magerko. (2019). “Assessing the Attitudes Towards Computing Scale: A Survey Validation Study.” Proceedings of the 50th ACM Technical Symposium on Computer Science Education, 859–865. https://doi.org/10.1145/3287324.3287369 Wiebe, E., J. London, O. Aksit, B. W. Mott, K. E. Boyer, & J. C. Lester. (2019). “Development of a Lean Computational Thinking Abilities Assessment for Middle Grades Students.” Proceedings of the 50th ACM Technical Symposium on Computer Science Education, 456–461. https://doi.org/10.1145/3287324.3287390 Wilson, B. C., & Shrock, S. (2001). “Contributing to Success in an Introductory Computer Science Course: A Study of Twelve Factors.” SIGCSE Bull., 33(1), 184–188. https://doi.org/10.1145/366413.364581 Wyatt, J., J. Feng, & M. Ewing. (2020, December). AP® Computer Science Principles and the STEM and Computer Science Pipelines. College Board. https://apcentral.collegeboard.org/media/pdf/ap-csp-and-stemcs-pipelines.pdf
+
+The Research Alliance conducts rigorous studies on topics that matter to the City’s public schools. We strive to advance equity and excellence in education by providing nonpartisan evidence about policies and practices that promote students’ development and academic success.
+© 2025 Research Alliance for New York City Schools. All rights reserved. You may make copies of and distribute this work for non-commercial educational and scholarly purposes. For any other uses, including the making of derivative works, permission must be obtained from the Research Alliance for New York City Schools, unless fair use exceptions to copyright law apply.
+627 Broadway, 7th Floor
+New York, NY, 10012
+
+(212) 992-7697
+
+research.alliance@nyu.edu
+www.rancys.org

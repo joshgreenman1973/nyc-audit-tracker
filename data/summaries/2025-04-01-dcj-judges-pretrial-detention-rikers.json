@@ -1,0 +1,101 @@
+{
+ "id": "2025-04-01-dcj-judges-pretrial-detention-rikers",
+ "source": "outside",
+ "auditor": "Close Rikers Coalition Working Group",
+ "title": "The Indispensable Role of Judges in Curtailing Excessive Pretrial Detention and Closing Rikers Island",
+ "plain_title": "What judges could do to shrink the Rikers population",
+ "agency": "New York City government",
+ "issued": "2025-04-01",
+ "url": "https://datacollaborativeforjustice.org/work/diversion/the-indispensable-role-of-judges-in-curtailing-excessive-pretrial-detention-and-closing-rikers-island/",
+ "pdf": "https://static1.squarespace.com/static/61814f9eb79b7919a2b8e6af/t/6807dc4488099824aa281b39/1745345605572/FA_Judicial_Rikers_Brief%2B%25282%2529.pdf",
+ "what_they_audited": "A policy brief produced by a coalition of organizations that includes the Data Collaborative for Justice at John Jay College, looking at how judges' decisions on bail, detention and case scheduling shape the size of the New York City jail population. It summarizes research published since New York's bail reform law took effect in 2020 and directs proposals to court administrators, city agencies and the City Council.",
+ "background": "The brief states that as of February 2025 almost 85 percent of the more than 6,800 people in the city's jails on an average day were held before trial while their cases were pending. It frames judicial decision making as central to whether the city can meet its legal obligation to close the jails on Rikers Island.",
+ "findings": [
+  {
+   "plain": "Most people held in New York City jails have not been convicted of the charges they face, and are held while their cases are pending.",
+   "quote": "As of February 2025, almost 85% of the more than 6,800 people in the City’s jails every"
+  },
+  {
+   "plain": "The brief cites research finding that being detained before trial makes people more likely to plead guilty and raises the likelihood and length of jail and prison sentences.",
+   "quote": "detention coerces"
+  },
+  {
+   "plain": "Detention before trial is linked to sharp increases in homelessness and job loss, according to a New York City study the brief cites.",
+   "quote": "that people detained before trial were 420% more likely than released people to become homeless,"
+  },
+  {
+   "plain": "The brief says research in New York and elsewhere has not found that holding people before trial reduces crime or repeat arrests, and that some studies find it increases them.",
+   "quote": "detention does not affect crime or recidivism, with some studies finding that pretrial detention actually"
+  },
+  {
+   "plain": "A large share of people in the jails are there with mental health or housing needs. The brief reports rising rates of serious mental illness diagnoses among people held.",
+   "quote": "incarceration. In February 2025, 21% of those held had been diagnosed with a serious mental illness,"
+  },
+  {
+   "plain": "The brief says the bail reform law's requirements that judges weigh a person's ability to pay and offer alternative bond forms have been carried out poorly.",
+   "quote": "the evidence points to poor implementation of every single one of bail reform’s “ability to pay”"
+  },
+  {
+   "plain": "Black and Hispanic New Yorkers make up close to 90 percent of the jail population, which the brief presents as evidence of racial disparity in bail and detention decisions.",
+   "quote": "Black and Hispanic New Yorkers make up close to 90% of the City’s jail"
+  },
+  {
+   "plain": "The brief puts the annual cost of holding one person at Rikers in fiscal year 2023 at more than half a million dollars, citing the city comptroller.",
+   "quote": "out $507,317 per person per year to house people at Rikers in FY 2023 (up from $144,176"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "85%",
+   "label": "Share of the jail population held before trial, Feb. 2025"
+  },
+  {
+   "value": "6,800",
+   "label": "People in city jails on an average day, Feb. 2025"
+  },
+  {
+   "value": "420%",
+   "label": "Higher odds of homelessness for those detained pretrial"
+  },
+  {
+   "value": "57%",
+   "label": "Share in jail who have needed mental health services"
+  },
+  {
+   "value": "$507,317",
+   "label": "Cost per person per year at Rikers, FY 2023"
+  },
+  {
+   "value": "$2.8 billion",
+   "label": "Correction Dept. funding in the preliminary FY 2026 budget"
+  }
+ ],
+ "recommendations": [
+  "Promote culture change among judges through live and online training, bench cards and shared research on the city's release assessment, the role of race, the low risk that people with no prior arrest will miss court, and the legal purpose of bail.",
+  "Overhaul how partially secured and unsecured bonds are administered, by convening judges, defense attorneys, prosecutors and experts to find structural fixes, reminding judges that New York has nine forms of bail, and encouraging greater use of unsecured bonds.",
+  "Make sure every judge newly assigned to arraignments has training or reference material on the release assessment, what does and does not predict failure to appear, and research on detention, crime and repeat arrests.",
+  "Hold mandatory bail reviews, including an automatic rehearing when a person cannot post bail within five to seven days and a detention hearing for anyone still held 180 days after indictment.",
+  "Reform felony case processing through national expert training, adapting the Brooklyn pilot to every borough, adopting discrete practices such as case conferences and expedited discovery, and launching a task force on homicide case delays.",
+  "Set and enforce performance benchmarks for the court system covering how often bail is set, how often it is posted, and caps on pretrial detention length and adjournment intervals.",
+  "Publish additional case-level pretrial data twice a year, including bail eligibility, prior arrests, prior failures to appear, pending cases, prosecutors' requests and the outcomes of bail review hearings.",
+  "Appoint a senior Office of Court Administration attorney or a deputy chief administrative judge to oversee all court policy connected to closing Rikers.",
+  "Have city agencies train and retrain judges on the release assessment, the supervised release model and available alternative to incarceration programs, and report regularly on how those programs perform.",
+  "Work with court administrators to place bench cards in every courtroom summarizing the release assessment, supervised release, electronic monitoring, ability to pay and practices that reduce case delay.",
+  "Prioritize the release assessment by building a public dashboard on how closely judges follow it, releasing de-identified case-level data for outside researchers, and revalidating the tool.",
+  "Develop and run a science-based assessment of whether a person can pay bail, report its results to the court promptly and publish data on the gap between the tool's findings and the bail judges set.",
+  "Fully fund expanded alternatives to bail, including extending the pretrial intensive case management model to all arraignment shifts and all five boroughs and pairing supervised release with treatment or social services.",
+  "Invest in holistic needs assessments before arraignment and again once a person is detained, with the results submitted to the court, the defense and the prosecution.",
+  "Use the city's convening power to restart the Closing Rikers Implementation Task Force and the Justice Reboot initiative and to consider a population review team in each borough.",
+  "Pass a city law requiring the Mayor's Office of Criminal Justice, or a group it contracts with, to develop and administer a valid ability to pay assessment and report the results publicly.",
+  "Pass a City Council reporting bill requiring the Mayor's Office of Equity and Racial Justice to report annually, by race and ethnicity, on pretrial release decisions, bail amounts, bail posting rates and the forms of bail offered."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "compliance_note": "",
+ "topics": [
+  "public safety",
+  "transparency",
+  "health"
+ ],
+ "is_followup": false
+}
