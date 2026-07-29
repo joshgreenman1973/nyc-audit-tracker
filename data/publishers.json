@@ -170,5 +170,20 @@
   "ghost_key": "dd8e178e9ddfc883537e71dd07",
   "auto_ingest": false,
   "auto_ingest_note": "An essay journal: the Ghost feed returns every piece, and reports are not distinguishable from commentary by any field."
+ },
+ {
+  "id": "rikerscommission",
+  "name": "Independent Rikers Commission",
+  "short_name": "Independent Rikers Commission",
+  "url": "https://www.morejustnyc.org",
+  "listing_url": "https://www.morejustnyc.org",
+  "fetch": "html",
+  "feed_url": null,
+  "nyc_focus": "primary",
+  "makes_recommendations": true,
+  "note": "The Lippman Commission. Publishes rarely (its 2025 blueprint is the major output), and the PDF is hosted on Squarespace rather than a listing page, so there is nothing to crawl on a schedule.",
+  "verdict": "include",
+  "auto_ingest": false,
+  "auto_ingest_note": "No crawlable listing; publishes too rarely for a feed. Check by hand."
  }
 ]
