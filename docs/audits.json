@@ -1,7 +1,194 @@
 {
- "generated": "2026-07-29",
+ "generated": "2026-08-06",
  "cutoff": "2025-01-01",
  "audits": [
+  {
+   "id": "review-of-the-nyc-atwork-program",
+   "source": "nyc",
+   "auditor": "New York City Comptroller",
+   "title": "Review of the NYC: ATWORK Program",
+   "plain_title": "City job program for disabled New Yorkers reaches few of them",
+   "agency": "Mayor's Office for People with Disabilities",
+   "issued": "2026-07-29",
+   "url": "https://comptroller.nyc.gov/reports/review-of-the-nyc-atwork-program/",
+   "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/ME25-079S.pdf",
+   "what_they_audited": "A review, rather than a full audit, of how effective the NYC: ATWORK program run by the Mayor's Office for People with Disabilities (MOPD) is at helping job seekers with disabilities enter the workforce. It covers July 1, 2023 through June 30, 2025, and was started in response to concerns from disability advocates.",
+   "background": "ATWORK was launched in 2017 to recruit, pre-screen and connect New Yorkers with disabilities to jobs and internships with business partners in the public and private sectors. It is run by six staff members and received $543,822 in annual funding in fiscal years 2024 and 2025. About 986,074 people with disabilities live in New York City.",
+   "findings": [
+    {
+     "plain": "The program works, but it reaches a small share of the people who need it. Over the two-year review period ATWORK served 1,268 people with disabilities and connected 99 of them to jobs, against an estimated 35,350 disabled New Yorkers looking for work.",
+     "quote": "The 1,268 people provided with services under the program represent less than 4% of those with disabilities reportedly seeking work."
+    },
+    {
+     "plain": "New York City spends less per disabled resident on its mayoral disability office than five other big cities. A 2022 Center for an Urban Future study put the city at 88 cents per person, against $28.69 in Washington, DC and $2.80 in Houston, the next lowest.",
+     "quote": "ranked the City last in terms of budget per capita for annual funding from mayoral offices designed to serve people with disabilities"
+    },
+    {
+     "plain": "MOPD says six staff members cannot meet demand. At an October 2025 City Council hearing, officials testified the program needs more than twice its current staff. A Career Advisor position the office tried to fill was dropped for lack of funding.",
+     "quote": "MOPD officials testified that the agency needs to more than double its staff to meet the current demand from job seekers, hiring at least seven additional staff members to augment the current staff of six."
+    },
+    {
+     "plain": "More money did not produce more hires. Funding rose 57% between fiscal 2023 and fiscal 2024, but hires moved independently of it. The review notes the city's October 2023 hiring freeze as a likely factor, since the city is the program's main source of placements.",
+     "quote": "Funding increases between FY2023 and FY2025 did not translate to more hires."
+    },
+    {
+     "plain": "The program could not reliably count its own results. MOPD reported 224 hires from fiscal 2021 through fiscal 2025 while its own database showed 186 job seekers hired, and auditors could not identify who the 224 represented. ATWORK moved to a new database system in June 2025.",
+     "quote": "prior to June 2025, ATWORK lacked a robust system to track the number of people enrolled in the program, connected to jobs, hired or active at any given time"
+    },
+    {
+     "plain": "Hispanic New Yorkers with disabilities were hired through the program at well below their share of the city's disabled population, which suggests the program has not reached them effectively.",
+     "quote": "accounting for 33% of people with disabilities citywide but only 19% of ATWORK hires"
+    },
+    {
+     "plain": "Women are a majority of disabled New Yorkers but a minority of the program's hires. MOPD officials said they did not know why Hispanic and female candidates were hired at lower rates, noting the program recommends candidates but does not make hiring decisions.",
+     "quote": "women account for 57% of people who identify as disabled but only 43% of the hires through ATWORK"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "1,268",
+     "label": "People with disabilities served, FY2024 and FY2025"
+    },
+    {
+     "value": "99",
+     "label": "Connected to jobs over the same two years"
+    },
+    {
+     "value": "35,350",
+     "label": "Disabled New Yorkers estimated to be seeking work"
+    },
+    {
+     "value": "$0.88",
+     "label": "City spending per disabled resident, 2021-2022 study"
+    },
+    {
+     "value": "224",
+     "label": "Hires reported by MOPD, FY2021 through FY2025"
+    },
+    {
+     "value": "$543,822",
+     "label": "Annual program funding, FY2024 and FY2025"
+    }
+   ],
+   "recommendations": [
+    "Work with the City Council to obtain additional funding so the program can serve more job seekers with disabilities.",
+    "Make sure the newly adopted Worksource1 database captures the performance measures needed to judge whether the program is working.",
+    "Add a line to the Job Seeker Acknowledgement form stating plainly that interviews and employment are not guaranteed, so applicants know what the program can and cannot do.",
+    "Increase Spanish language outreach to job seekers.",
+    "Survey participants every year to gauge how well the program is serving them.",
+    "Analyze the gaps between the skills job seekers have and the jobs available, then develop a plan to close them.",
+    "Work with other city agencies and employer partners to reduce the barriers to employment identified in the review."
+   ],
+   "agency_response": "MOPD generally agreed with the review's seven recommendations and said it had already begun implementing some of them.",
+   "implementation_note": "",
+   "topics": [
+    "labor",
+    "social services"
+   ],
+   "is_followup": false,
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Work with the City Council to obtain additional funding so the program can serve more job seekers with disabilities."
+    },
+    {
+     "n": 2,
+     "text": "Make sure the newly adopted Worksource1 database captures the performance measures needed to judge whether the program is working."
+    },
+    {
+     "n": 3,
+     "text": "Add a line to the Job Seeker Acknowledgement form stating plainly that interviews and employment are not guaranteed, so applicants know what the program can and cannot do."
+    },
+    {
+     "n": 4,
+     "text": "Increase Spanish language outreach to job seekers."
+    },
+    {
+     "n": 5,
+     "text": "Survey participants every year to gauge how well the program is serving them."
+    },
+    {
+     "n": 6,
+     "text": "Analyze the gaps between the skills job seekers have and the jobs available, then develop a plan to close them."
+    },
+    {
+     "n": 7,
+     "text": "Work with other city agencies and employer partners to reduce the barriers to employment identified in the review."
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-identifying-reporting-and-providing-services-youth-risk-sexual-human-trafficking-new-york",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Identifying, Reporting, and Providing Services for Youth at Risk of Sexual Human Trafficking in New York City (Follow-Up)",
+   "plain_title": "Little progress protecting youth at risk of sex trafficking",
+   "agency": "New York City Administration for Children's Services and New York City Department of Youth and Community Development",
+   "issued": "2026-07-27",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/07/27/identifying-reporting-and-providing-services-youth-risk-sexual-human-trafficking-new-york",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f14.pdf",
+   "what_they_audited": "A follow-up checking how far the New York City Administration for Children's Services (ACS) and the Department of Youth and Community Development (DYCD) had gotten, as of March 6, 2026, in carrying out the nine recommendations from a June 2022 audit of how the two agencies identify, report on and serve children at risk of sex trafficking.",
+   "background": "Under a 2015 state directive, ACS and the providers it works with are required to identify, document, report on and serve children who have been sexually exploited or are at risk of it. Both agencies must also report annually to the City Council on the number of such youth they encounter. The original 2022 audit found both agencies needed to do more, including supporting the screening numbers they reported and documenting that youth actually received services such as safe housing and medical, mental health, legal and educational help.",
+   "findings": [
+    {
+     "plain": "Four years on, most of the original recommendations still have not been carried out. Two were implemented, three were partly implemented and four were not implemented at all.",
+     "quote": "Of the initial report’s nine audit recommendations, two (addressed to DYCD) were implemented, three (two addressed to ACS and one to DYCD) were partially implemented, and four (two addressed to each ACS and DYCD) were not implemented."
+    },
+    {
+     "plain": "The city's own count of sexually exploited or at-risk children fell sharply between the two periods, from an average of 2,249 a year to an average of 730. The report notes that reliable data on this crime does not exist because of its hidden nature.",
+     "quote": "New York City (NYC) reported an average of 2,249 children each year were sexually exploited or at risk of sexual exploitation during the 4-year period from January 2017 through December 2020. This number declined to an average of 730 children per year during the subsequent 4-year period from January 2021 through December 2024."
+    },
+    {
+     "plain": "The state money behind this work has nearly disappeared. ACS's share of Safe Harbour funding fell from $622,220 in 2013 to $50,000 in 2024 and 2025, and to roughly $17,000 in 2026.",
+     "quote": "the annual allocation of the Safe Harbour funding to ACS has declined significantly, decreasing from $622,220 in 2013 to $50,000 in both 2024 and 2025"
+    },
+    {
+     "plain": "The original audit that prompted this follow-up found ACS could not support the number of sex-trafficking screenings it said staff and providers had completed over a nearly four-year stretch.",
+     "quote": "we found ACS’ staff and providers failed to support the number of sex-trafficking screenings completed for the period February 15, 2017 through December 31, 2020."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "2,249",
+     "label": "Children a year reported exploited or at risk, 2017-2020"
+    },
+    {
+     "value": "730",
+     "label": "Same yearly average for 2021 through 2024"
+    },
+    {
+     "value": "$622,220",
+     "label": "Safe Harbour funding to ACS in 2013"
+    },
+    {
+     "value": "$50,000",
+     "label": "Safe Harbour funding to ACS in 2024 and 2025"
+    },
+    {
+     "value": "$17,000",
+     "label": "Approximate Safe Harbour funding to ACS for 2026"
+    }
+   ],
+   "recommendations": [
+    "ACS and DYCD officials are asked, though not required, to report within 30 days on what they plan to do about the issues left unresolved in this follow-up."
+   ],
+   "agency_response": "",
+   "implementation_note": "Of the nine recommendations in the June 2022 audit, the follow-up found two implemented, three partially implemented and four not implemented.",
+   "topics": [
+    "children and youth",
+    "public safety",
+    "social services"
+   ],
+   "is_followup": true,
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "ACS and DYCD officials are asked, though not required, to report within 30 days on what they plan to do about the issues left unresolved in this follow-up."
+    }
+   ]
+  },
   {
    "id": "follow-up-audit-report-on-new-york-city-public-schools-efforts-to-maximize-medicaid-reimbursement-claims-for-special-education-services",
    "source": "nyc",

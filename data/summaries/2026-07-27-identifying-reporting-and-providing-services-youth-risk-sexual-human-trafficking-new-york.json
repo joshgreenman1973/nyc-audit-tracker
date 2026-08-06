@@ -1,0 +1,45 @@
+{
+  "id": "2026-07-27-identifying-reporting-and-providing-services-youth-risk-sexual-human-trafficking-new-york",
+  "source": "osc",
+  "auditor": "New York State Comptroller",
+  "title": "Identifying, Reporting, and Providing Services for Youth at Risk of Sexual Human Trafficking in New York City (Follow-Up)",
+  "plain_title": "Little progress protecting youth at risk of sex trafficking",
+  "agency": "New York City Administration for Children's Services and New York City Department of Youth and Community Development",
+  "issued": "2026-07-27",
+  "url": "https://www.osc.ny.gov/state-agencies/audits/2026/07/27/identifying-reporting-and-providing-services-youth-risk-sexual-human-trafficking-new-york",
+  "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f14.pdf",
+  "what_they_audited": "A follow-up checking how far the New York City Administration for Children's Services (ACS) and the Department of Youth and Community Development (DYCD) had gotten, as of March 6, 2026, in carrying out the nine recommendations from a June 2022 audit of how the two agencies identify, report on and serve children at risk of sex trafficking.",
+  "background": "Under a 2015 state directive, ACS and the providers it works with are required to identify, document, report on and serve children who have been sexually exploited or are at risk of it. Both agencies must also report annually to the City Council on the number of such youth they encounter. The original 2022 audit found both agencies needed to do more, including supporting the screening numbers they reported and documenting that youth actually received services such as safe housing and medical, mental health, legal and educational help.",
+  "findings": [
+    {
+      "plain": "Four years on, most of the original recommendations still have not been carried out. Two were implemented, three were partly implemented and four were not implemented at all.",
+      "quote": "Of the initial report’s nine audit recommendations, two (addressed to DYCD) were implemented, three (two addressed to ACS and one to DYCD) were partially implemented, and four (two addressed to each ACS and DYCD) were not implemented."
+    },
+    {
+      "plain": "The city's own count of sexually exploited or at-risk children fell sharply between the two periods, from an average of 2,249 a year to an average of 730. The report notes that reliable data on this crime does not exist because of its hidden nature.",
+      "quote": "New York City (NYC) reported an average of 2,249 children each year were sexually exploited or at risk of sexual exploitation during the 4-year period from January 2017 through December 2020. This number declined to an average of 730 children per year during the subsequent 4-year period from January 2021 through December 2024."
+    },
+    {
+      "plain": "The state money behind this work has nearly disappeared. ACS's share of Safe Harbour funding fell from $622,220 in 2013 to $50,000 in 2024 and 2025, and to roughly $17,000 in 2026.",
+      "quote": "the annual allocation of the Safe Harbour funding to ACS has declined significantly, decreasing from $622,220 in 2013 to $50,000 in both 2024 and 2025"
+    },
+    {
+      "plain": "The original audit that prompted this follow-up found ACS could not support the number of sex-trafficking screenings it said staff and providers had completed over a nearly four-year stretch.",
+      "quote": "we found ACS’ staff and providers failed to support the number of sex-trafficking screenings completed for the period February 15, 2017 through December 31, 2020."
+    }
+  ],
+  "numbers": [
+    {"value": "2,249", "label": "Children a year reported exploited or at risk, 2017-2020"},
+    {"value": "730", "label": "Same yearly average for 2021 through 2024"},
+    {"value": "$622,220", "label": "Safe Harbour funding to ACS in 2013"},
+    {"value": "$50,000", "label": "Safe Harbour funding to ACS in 2024 and 2025"},
+    {"value": "$17,000", "label": "Approximate Safe Harbour funding to ACS for 2026"}
+  ],
+  "recommendations": [
+    "ACS and DYCD officials are asked, though not required, to report within 30 days on what they plan to do about the issues left unresolved in this follow-up."
+  ],
+  "agency_response": "",
+  "implementation_note": "Of the nine recommendations in the June 2022 audit, the follow-up found two implemented, three partially implemented and four not implemented.",
+  "topics": ["children and youth", "public safety", "social services"],
+  "is_followup": true
+}

@@ -1,0 +1,64 @@
+{
+  "id": "review-of-the-nyc-atwork-program",
+  "source": "nyc",
+  "auditor": "New York City Comptroller",
+  "title": "Review of the NYC: ATWORK Program",
+  "plain_title": "City job program for disabled New Yorkers reaches few of them",
+  "agency": "Mayor's Office for People with Disabilities",
+  "issued": "2026-07-29",
+  "url": "https://comptroller.nyc.gov/reports/review-of-the-nyc-atwork-program/",
+  "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/ME25-079S.pdf",
+  "what_they_audited": "A review, rather than a full audit, of how effective the NYC: ATWORK program run by the Mayor's Office for People with Disabilities (MOPD) is at helping job seekers with disabilities enter the workforce. It covers July 1, 2023 through June 30, 2025, and was started in response to concerns from disability advocates.",
+  "background": "ATWORK was launched in 2017 to recruit, pre-screen and connect New Yorkers with disabilities to jobs and internships with business partners in the public and private sectors. It is run by six staff members and received $543,822 in annual funding in fiscal years 2024 and 2025. About 986,074 people with disabilities live in New York City.",
+  "findings": [
+    {
+      "plain": "The program works, but it reaches a small share of the people who need it. Over the two-year review period ATWORK served 1,268 people with disabilities and connected 99 of them to jobs, against an estimated 35,350 disabled New Yorkers looking for work.",
+      "quote": "The 1,268 people provided with services under the program represent less than 4% of those with disabilities reportedly seeking work."
+    },
+    {
+      "plain": "New York City spends less per disabled resident on its mayoral disability office than five other big cities. A 2022 Center for an Urban Future study put the city at 88 cents per person, against $28.69 in Washington, DC and $2.80 in Houston, the next lowest.",
+      "quote": "ranked the City last in terms of budget per capita for annual funding from mayoral offices designed to serve people with disabilities"
+    },
+    {
+      "plain": "MOPD says six staff members cannot meet demand. At an October 2025 City Council hearing, officials testified the program needs more than twice its current staff. A Career Advisor position the office tried to fill was dropped for lack of funding.",
+      "quote": "MOPD officials testified that the agency needs to more than double its staff to meet the current demand from job seekers, hiring at least seven additional staff members to augment the current staff of six."
+    },
+    {
+      "plain": "More money did not produce more hires. Funding rose 57% between fiscal 2023 and fiscal 2024, but hires moved independently of it. The review notes the city's October 2023 hiring freeze as a likely factor, since the city is the program's main source of placements.",
+      "quote": "Funding increases between FY2023 and FY2025 did not translate to more hires."
+    },
+    {
+      "plain": "The program could not reliably count its own results. MOPD reported 224 hires from fiscal 2021 through fiscal 2025 while its own database showed 186 job seekers hired, and auditors could not identify who the 224 represented. ATWORK moved to a new database system in June 2025.",
+      "quote": "prior to June 2025, ATWORK lacked a robust system to track the number of people enrolled in the program, connected to jobs, hired or active at any given time"
+    },
+    {
+      "plain": "Hispanic New Yorkers with disabilities were hired through the program at well below their share of the city's disabled population, which suggests the program has not reached them effectively.",
+      "quote": "accounting for 33% of people with disabilities citywide but only 19% of ATWORK hires"
+    },
+    {
+      "plain": "Women are a majority of disabled New Yorkers but a minority of the program's hires. MOPD officials said they did not know why Hispanic and female candidates were hired at lower rates, noting the program recommends candidates but does not make hiring decisions.",
+      "quote": "women account for 57% of people who identify as disabled but only 43% of the hires through ATWORK"
+    }
+  ],
+  "numbers": [
+    {"value": "1,268", "label": "People with disabilities served, FY2024 and FY2025"},
+    {"value": "99", "label": "Connected to jobs over the same two years"},
+    {"value": "35,350", "label": "Disabled New Yorkers estimated to be seeking work"},
+    {"value": "$0.88", "label": "City spending per disabled resident, 2021-2022 study"},
+    {"value": "224", "label": "Hires reported by MOPD, FY2021 through FY2025"},
+    {"value": "$543,822", "label": "Annual program funding, FY2024 and FY2025"}
+  ],
+  "recommendations": [
+    "Work with the City Council to obtain additional funding so the program can serve more job seekers with disabilities.",
+    "Make sure the newly adopted Worksource1 database captures the performance measures needed to judge whether the program is working.",
+    "Add a line to the Job Seeker Acknowledgement form stating plainly that interviews and employment are not guaranteed, so applicants know what the program can and cannot do.",
+    "Increase Spanish language outreach to job seekers.",
+    "Survey participants every year to gauge how well the program is serving them.",
+    "Analyze the gaps between the skills job seekers have and the jobs available, then develop a plan to close them.",
+    "Work with other city agencies and employer partners to reduce the barriers to employment identified in the review."
+  ],
+  "agency_response": "MOPD generally agreed with the review's seven recommendations and said it had already begun implementing some of them.",
+  "implementation_note": "",
+  "topics": ["labor", "social services"],
+  "is_followup": false
+}
