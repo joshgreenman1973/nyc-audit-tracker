@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06",
+ "generated": "2026-08-07",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -87,6 +87,54 @@
    ],
    "is_followup": false,
    "compliance_note": "",
+   "rec_statuses": [
+    {
+     "n": 1,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 2,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 3,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 4,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 5,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 6,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": 7,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    }
+   ],
+   "status_tally": {
+    "Pending": 7
+   },
+   "status_as_of": "2026-07-29",
    "rec_display": [
     {
      "n": 1,
