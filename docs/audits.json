@@ -1,7 +1,87 @@
 {
- "generated": "2026-08-07",
+ "generated": "2026-08-11",
  "cutoff": "2025-01-01",
  "audits": [
+  {
+   "id": "2026-08-07-controls-over-auctioned-vehicles",
+   "source": "osc",
+   "auditor": "New York State Comptroller",
+   "title": "Controls Over Auctioned Vehicles",
+   "plain_title": "What happens to the money from the city's auctioned cars",
+   "agency": "New York City Department of Finance",
+   "issued": "2026-08-07",
+   "url": "https://www.osc.ny.gov/state-agencies/audits/2026/08/07/controls-over-auctioned-vehicles",
+   "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25n1.pdf",
+   "what_they_audited": "Whether the New York City Department of Finance (DOF) has adequate controls over the cash raised at the vehicle auctions run by the New York City Sheriff's Office, and whether DOF gives vehicle owners a chance to settle their debts or set up a payment plan and retrieve their cars before they are auctioned. The audit covered July 2020 to June 2025.",
+   "background": "DOF collects the revenues that pay for city services and, through the Sheriff's Office, acts as the city's chief civil law enforcer. When a driver owes $350 or more in parking judgments the Sheriff's Office may boot the vehicle and later tow and auction it, and after expenses and the judgment debt are paid any money left over, called an overage, must go to the former owner or the lienholder.",
+   "findings": [
+    {
+     "plain": "DOF did not return $464,710 in auction overages to vehicle owners going back to March 2023, even though it is required to hand back whatever is left once expenses and the judgment debt are covered.",
+     "quote": "deficiencies in accountability resulted in DOF not returning overages totaling $464,710 to vehicle owners since March 2023"
+    },
+    {
+     "plain": "Because auction money was not always applied to the judgment debt it was meant to pay off, some drivers kept racking up interest on debts that should already have been settled.",
+     "quote": "failure to apply funds to judgment debt payments resulted in some debtors incurring added interest amounts for judgments that should have been satisfied"
+    },
+    {
+     "plain": "In a sample of 135 auctioned vehicles, DOF miscalculated the poundage fee, which is set at 5% of the sale price, overcharging $2,086 in total and undercharging $1,104.",
+     "quote": "DOF overcharged a total of $2,086 and undercharged $1,104 in poundage fees"
+    },
+    {
+     "plain": "In one case the poundage fee came to 86% of what the car sold for instead of the required 5%, an $863 fee on a vehicle that sold for $1,000.",
+     "quote": "the poundage fee was 86% of the sale price, rather than the required 5%"
+    },
+    {
+     "plain": "Auditors traced the problems to DOF having no written procedures for this work. DOF said it would tighten its internal controls.",
+     "quote": "We identified a lack of written procedures that contributed to these deficiencies"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$464,710",
+     "label": "Auction overages not returned to owners since March 2023"
+    },
+    {
+     "value": "$2,086",
+     "label": "Poundage fees overcharged in a sample of 135 vehicles"
+    },
+    {
+     "value": "86%",
+     "label": "Largest poundage fee found, as a share of sale price"
+    },
+    {
+     "value": "1,446",
+     "label": "Vehicles advertised for auction, July 2020 to May 2025"
+    }
+   ],
+   "recommendations": [
+    "Return overages to the former vehicle owners or lienholders.",
+    "Ensure that poundage and execution fees for each auctioned vehicle are correctly calculated and verified.",
+    "Develop written procedures for disbursing auction proceeds and for recording and reconciling the revenue collected, and train the appropriate staff."
+   ],
+   "agency_response": "DOF told auditors it would strengthen its internal controls to make its processes more efficient and transparent.",
+   "implementation_note": "",
+   "topics": [
+    "money and contracts",
+    "transportation"
+   ],
+   "is_followup": false,
+   "compliance_note": "",
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Return overages to the former vehicle owners or lienholders."
+    },
+    {
+     "n": 2,
+     "text": "Ensure that poundage and execution fees for each auctioned vehicle are correctly calculated and verified."
+    },
+    {
+     "n": 3,
+     "text": "Develop written procedures for disbursing auction proceeds and for recording and reconciling the revenue collected, and train the appropriate staff."
+    }
+   ]
+  },
   {
    "id": "review-of-the-nyc-atwork-program",
    "source": "nyc",
@@ -18048,63 +18128,66 @@
    "rec_statuses": [
     {
      "n": 1,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Disagreed With"
     },
     {
      "n": 2,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Disagreed With"
     },
     {
      "n": 3,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Not Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Disagreed With"
     },
     {
      "n": 4,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Partially Agreed With"
     },
     {
      "n": 5,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Partially Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
      "n": 6,
      "status": "Pending",
-     "status_date": "2025-10-07",
+     "status_date": "2026-08-07",
      "agency_response": "Partially Agreed With"
     },
     {
      "n": 7,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Not Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Disagreed With"
     },
     {
      "n": 8,
      "status": "Pending",
-     "status_date": "2025-10-07",
+     "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
      "n": 9,
-     "status": "Pending",
-     "status_date": "2025-10-07",
+     "status": "Implemented",
+     "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 9
+    "Implemented": 4,
+    "Not Implemented": 2,
+    "Partially Implemented": 1,
+    "Pending": 2
    },
-   "status_as_of": "2025-10-07",
+   "status_as_of": "2026-08-07",
    "rec_display": [
     {
      "n": 1,
