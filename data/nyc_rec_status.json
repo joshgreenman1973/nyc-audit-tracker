@@ -26,8 +26,8 @@
   "issued": "2025-12-22",
   "recommendation": "Recommendation 10: The Mayor's Office of Operations should ensure compliance with Local Law 37 by providing timely updates of the Capital Project Dashboard and ensure that all information needed to meet the stated purpose of the dashboard is included.",
   "response": "Not Addressed",
-  "response_status": "Pending",
-  "status_date": "2026-07-29"
+  "response_status": "N/A",
+  "status_date": "2026-07-30"
  },
  {
   "title": "Audit of Department of Design and Construction's (DDC) Mitigation of Delays and Cost Overruns on Capital Construction Projects",
@@ -1127,7 +1127,7 @@
   "recommendation": "Recommendation 10: DOHMH should enforce the new requirement that mobile food vendors seeking a license renewal pass an exam on the safe handling of food.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-06-03"
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit of the Department of Health and Mental Hygiene’s Monitoring of Mobile Food Vendors’ Compliance with Relevant Laws and Regulations",
@@ -5857,7 +5857,7 @@
   "recommendation": "Recommendation 2: DOHMH should consolidate data collection to ensure more efficient data reporting to determine the effectiveness of doula services on the reduction of negative birth outcomes and maternal mortality.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-09-19"
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight Over the Doula Programs in Underserved Neighborhoods",
@@ -5866,8 +5866,8 @@
   "issued": "2025-05-06",
   "recommendation": "Recommendation 3: DOHMH should increase non-English-speaking doula capacity.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2025-09-19"
+  "response_status": "Implemented",
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight Over the Doula Programs in Underserved Neighborhoods",
@@ -5877,7 +5877,7 @@
   "recommendation": "Recommendation 4: DOHMH should continue to work with DHS to increase doula access to clients in shelters.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-09-19"
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight Over the Doula Programs in Underserved Neighborhoods",
@@ -5887,7 +5887,7 @@
   "recommendation": "Recommendation 5: DOHMH should continue to promote doula-friendly policies in MHQIN hospitals and expand doula incorporation into hospital birthing teams.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-09-19"
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight Over the Doula Programs in Underserved Neighborhoods",
@@ -5897,7 +5897,7 @@
   "recommendation": "Recommendation 6: DOHMH should incorporate client satisfaction surveys into their data collection procedures and evaluate satisfaction by vendor, analyzing differences in practice that may affect satisfaction.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-09-19"
+  "status_date": "2026-08-17"
  },
  {
   "title": "Audit Report on the New York City Department of Health and Mental Hygiene’s Oversight Over the Doula Programs in Underserved Neighborhoods",
@@ -10326,8 +10326,8 @@
   "issued": "2026-04-08",
   "recommendation": "Recommendation 1: NYCPS should establish NYCPS-wide targets for participation in composting, food donation, and other programs established to reduce food waste.",
   "response": "Disagreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-21"
+  "response_status": "Not Implemented",
+  "status_date": "2026-08-21"
  },
  {
   "title": "Review of the New York City Department of Education's Efforts to Reduce School Food Waste",
@@ -10336,8 +10336,8 @@
   "issued": "2026-04-08",
   "recommendation": "Recommendation 2: NYCPS should compile NYCPS-wide data to support the assessment of progress against such targets.",
   "response": "Disagreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-21"
+  "response_status": "Not Implemented",
+  "status_date": "2026-08-21"
  },
  {
   "title": "Review of the New York City Department of Education's Efforts to Reduce School Food Waste",
@@ -10346,8 +10346,8 @@
   "issued": "2026-04-08",
   "recommendation": "Recommendation 3: NYCPS should conduct and publish the results of a centralized assessment of progress—by school and by program—identify barriers to progress and develop strategies for improvement.",
   "response": "Disagreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-21"
+  "response_status": "Not Implemented",
+  "status_date": "2026-08-21"
  },
  {
   "title": "Review of the New York City Department of Education's Efforts to Reduce School Food Waste",
@@ -10356,8 +10356,8 @@
   "issued": "2026-04-08",
   "recommendation": "Recommendation 4: NYCPS should develop NYCPS-wide training and outreach programs to:\r\na. \tIncrease participation in all NYCPS food waste reduction programs;\r\nb. \tEncourage information and idea sharing, and create opportunities for collaboration, amongst sustainability coordinators across the school system; \r\nc. \tImprove the percentage of food waste that is captured as potential compost; and\r\nd. \tReduce contamination to ensure that what is captured is compostable. \r\ne. \tConduct on-site visits to schools to verify that they comply with the composting and recycling requirements by having recycling and composting bins properly placed in cafeterias and classrooms.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-21"
+  "response_status": "Partially Implemented",
+  "status_date": "2026-08-21"
  },
  {
   "title": "Review of the New York City Department of Education's Efforts to Reduce School Food Waste",
@@ -10366,8 +10366,68 @@
   "issued": "2026-04-08",
   "recommendation": "Recommendation 5: NYCPS should identify schools that do not have appointed sustainability coordinators and ensure these positions are filled and provide strong support to the new coordinators.",
   "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-21"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 1: DVS should ensure that VetConnectNYC meets its intended purpose of streamlining the service request and referral process. If limited by staff size or expertise, consider consulting or working with the New York City Office of Technology and Innovation to ensure Combined Arms implements required functionality, meets minimum performance standards, and immediately resolves user login, case routing and status, and information access issues.",
+  "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-21"
+  "status_date": "2026-08-18"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 2: DVS should enforce adherence to contract requirements and hold Combined Arms accountable for lack of required features and functionality. DVS should consult with the agency’s General Counsel and the New York City Law Department on contract remedies and pursue them.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-08-18"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 3: DVS should complete annual performance evaluations for Combined Arms to document performance deficiencies and consider issuing a vendor caution in PASSPort.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-08-18"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 4: DVS should develop requirements with Combined Arms for the collection of ratings and feedback from VetConnectNYC users and service providers on a recurring basis.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-08-18"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 5: DVS should require Combined Arms to provide all required performance metrics including service requests and referral outcomes.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-08-18"
+ },
+ {
+  "title": "Review of the New York City Department of Veterans' Services' VetConnectNYC",
+  "audit_num": "IT25PAR20029",
+  "agency": "Department of Veterans' Services",
+  "issued": "2026-07-17",
+  "recommendation": "Recommendation 6: DVS should meaningfully engage with veterans and other stakeholders about their user experiences and satisfaction with VetConnectNYC and develop a plan for improving ease of use, functionality, service provision, and outcomes. Engagement should include in-person focus groups and surveys sent electronically and by postal mail.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-08-18"
  },
  {
   "title": "Review of the salaries paid to teachers hired by New York City Early Education Centers",
