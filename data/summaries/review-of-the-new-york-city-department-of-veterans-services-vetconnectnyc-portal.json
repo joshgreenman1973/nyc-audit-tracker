@@ -1,0 +1,85 @@
+{
+ "id": "review-of-the-new-york-city-department-of-veterans-services-vetconnectnyc-portal",
+ "source": "nyc",
+ "auditor": "New York City Comptroller",
+ "title": "Review of the New York City Department of Veterans’ Services’ VetConnectNYC Portal",
+ "plain_title": "The city's one-stop portal for veterans still does not work",
+ "agency": "New York City Department of Veterans' Services",
+ "issued": "2026-08-18",
+ "url": "https://comptroller.nyc.gov/reports/review-of-the-new-york-city-department-of-veterans-services-vetconnectnyc-portal/",
+ "pdf": "https://comptroller.nyc.gov/wp-content/uploads/documents/IT25PAR20029.pdf",
+ "what_they_audited": "A review, rather than a full audit, of whether the New York City Department of Veterans' Services (DVS) is effectively connecting veterans and their families to services through VetConnectNYC, the online portal meant to handle service requests and referrals. It looks at the portal from its 2018 launch through May 2026 and was started in response to public concerns.",
+ "background": "DVS was created in 2016 as the first standalone city veterans department in the country, and is one of the smallest city agencies, with about $6.1 million in spending and 36 staff in fiscal 2025. It serves roughly 122,761 veterans in New York City, more than half of them 65 or older. VetConnectNYC was announced in 2018 as a one-stop shop where veterans could request housing, health, education, employment, financial and legal help, and where providers could pick up and track those requests.",
+ "findings": [
+  {
+   "plain": "The city let the portal go dark for a full year. When the vendor's contract ended in June 2024 nothing was ready to replace it, and veterans had to send requests through Microsoft Forms that staff worked through by hand.",
+   "quote": "The portal—despite an expenditure of more than $1.8 million on its development and operation—was disabled from July 2024 until July 2025."
+  },
+  {
+   "plain": "The replacement vendor, Combined Arms, was hired in September 2024 to have a new portal running by Veterans Day that year. It arrived eight months late.",
+   "quote": "Combined Arms did not relaunch VetConnectNYC until mid-July 2025, eight months late"
+  },
+  {
+   "plain": "The relaunched portal still does not do the basic things it was bought to do. Veterans and DVS staff are turned away when they enter the correct user name and password, and supervisors cannot see all the program areas they oversee.",
+   "quote": "the portal does not consistently allow users to login when they enter correct credentials"
+  },
+  {
+   "plain": "Requests reach the wrong desk or no desk at all. Benefits staff were set up to receive education requests, housing staff could not see their own cases, and for nearly three weeks in April 2026 nobody at DVS was assigned to the homeless program at all.",
+   "quote": "for nearly three weeks in April 2026, no DVS staff were assigned to the Homeless Program"
+  },
+  {
+   "plain": "DVS has not used any of the tools it has to hold the vendor to the contract. It has not filed the required annual performance evaluation, has not flagged the vendor in the city's procurement system, and has not issued a notice to cure.",
+   "quote": "DVS has not held this vendor accountable by documenting poor performance in annual performance evaluations or issuing cautions in the City’s procurement system"
+  },
+  {
+   "plain": "Nobody appears to have tested whether the portal could handle real use before it launched, and it scores poorly now. A Google Lighthouse scan by the review team returned a mobile score of 42, and vendor tests of the sign-in and sign-up pages all came back below the 0.5 satisfaction threshold.",
+   "quote": "DVS did not provide documentation to show that Combined Arms conducted performance tests prior to rollout."
+  },
+  {
+   "plain": "DVS still cannot say how well it serves veterans. Asked for five performance measures required under the earlier contract, it could produce three, and it did not track referral rejections or how long referrals took to be accepted. Of 33 veterans who rated the new portal, 19 gave it one star.",
+   "quote": "Over 57% of the respondents provided negative feedback, reporting that they were dissatisfied with the lack of communication and service provided."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "$1.8 million",
+   "label": "Spent on the portal before it was switched off"
+  },
+  {
+   "value": "$450,000",
+   "label": "Value of the three-year Combined Arms contract"
+  },
+  {
+   "value": "$268,750",
+   "label": "Paid to Combined Arms as of May 2026"
+  },
+  {
+   "value": "16 seconds",
+   "label": "Average wait to reach the portal sign-in page"
+  },
+  {
+   "value": "42",
+   "label": "Google Lighthouse mobile performance score"
+  },
+  {
+   "value": "122,761",
+   "label": "Veterans living in New York City"
+  }
+ ],
+ "recommendations": [
+  "Make VetConnectNYC actually streamline service requests and referrals, working with the New York City Office of Technology and Innovation if DVS lacks the staff or expertise, and resolve the login, case routing, case status and information access problems immediately.",
+  "Enforce the contract and hold Combined Arms accountable for the missing features, consulting the agency's General Counsel and the New York City Law Department on remedies and pursuing them.",
+  "Complete the annual performance evaluations for Combined Arms to document how it has performed, and consider issuing a vendor caution in PASSPort, the city's procurement system.",
+  "Set requirements with Combined Arms for collecting ratings and feedback from portal users and service providers on a recurring basis.",
+  "Require Combined Arms to hand over all the performance metrics the contract calls for, including service requests and referral outcomes.",
+  "Engage veterans and other stakeholders about their experience with the portal and build a plan to improve ease of use, functionality and outcomes, using in-person focus groups and surveys sent by email and postal mail."
+ ],
+ "agency_response": "DVS agreed with all six recommendations. It acknowledged the portal's troubled history and said it is committed to improving the system, while objecting that the review looked only at VetConnectNYC and not at phone, email and in-person service.",
+ "implementation_note": "",
+ "topics": [
+  "technology",
+  "social services",
+  "money and contracts"
+ ],
+ "is_followup": false
+}
