@@ -6196,8 +6196,8 @@
   "issued": "2025-06-27",
   "recommendation": "Recommendation 1: FPF should obtain post-travel attendance reports from each person who attended out-of-town conferences, to demonstrate how the information learned can be implemented to benefit FPF.",
   "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "response_status": "Implemented",
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Fire Pension Fund's Other Than Personal Service Expenditure",
@@ -6206,8 +6206,8 @@
   "issued": "2025-06-27",
   "recommendation": "Recommendation 2: FPF should discontinue reporting investment and member-related payments as OTPS expenditures.",
   "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "response_status": "Implemented",
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Fire Pension Fund's Other Than Personal Service Expenditure",
@@ -6217,7 +6217,7 @@
   "recommendation": "Recommendation 3: FPF should accurately report OTPS expenditures in the period the expenses are incurred.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Fire Pension Fund's Other Than Personal Service Expenditure",
@@ -6237,7 +6237,7 @@
   "recommendation": "Recommendation 5: FPF should promptly record payment transactions in the general ledger.",
   "response": "Partially Agreed With",
   "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Fire Pension Fund's Other Than Personal Service Expenditure",
@@ -6246,8 +6246,8 @@
   "issued": "2025-06-27",
   "recommendation": "Recommendation 6: FPF should process payments to vendors within 30 days of receiving the invoices.",
   "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "response_status": "Implemented",
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Fire Pension Fund's Other Than Personal Service Expenditure",
@@ -6256,8 +6256,8 @@
   "issued": "2025-06-27",
   "recommendation": "Recommendation 7: FPF should establish and implement internal procurement and travel policies and procedures.",
   "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2025-10-27"
+  "response_status": "Implemented",
+  "status_date": "2026-08-25"
  },
  {
   "title": "Audit Report on the New York City Human Resources Administration's Provision of Translation Services to the Limited English Proficient Population",
@@ -9627,7 +9627,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9637,7 +9637,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9647,7 +9647,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9657,7 +9657,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9677,7 +9677,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9717,7 +9717,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9727,7 +9727,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9737,7 +9737,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9747,7 +9747,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9767,7 +9767,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9807,7 +9807,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9817,7 +9817,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9827,7 +9827,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9837,7 +9837,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9857,7 +9857,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9897,7 +9897,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9907,7 +9907,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9917,7 +9917,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9927,7 +9927,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9947,7 +9947,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9987,7 +9987,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -9997,7 +9997,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10007,7 +10007,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10017,7 +10017,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10037,7 +10037,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10077,7 +10077,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10087,7 +10087,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10097,7 +10097,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10107,7 +10107,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10127,7 +10127,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10167,7 +10167,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10177,7 +10177,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10187,7 +10187,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10197,7 +10197,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10217,7 +10217,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10257,7 +10257,7 @@
   "recommendation": "Recommendation 3: \tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10267,7 +10267,7 @@
   "recommendation": "Recommendation 4: \tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10277,7 +10277,7 @@
   "recommendation": "Recommendation 5: \tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10287,7 +10287,7 @@
   "recommendation": "Recommendation 6: \tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
@@ -10307,7 +10307,7 @@
   "recommendation": "Recommendation 8: \tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-04-07"
+  "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
