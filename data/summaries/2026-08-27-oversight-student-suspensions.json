@@ -1,0 +1,80 @@
+{
+ "id": "2026-08-27-oversight-student-suspensions",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Oversight of Student Suspensions",
+ "plain_title": "How the city's schools discipline and suspend students",
+ "agency": "New York City Public Schools",
+ "issued": "2026-08-27",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2026/08/27/oversight-student-suspensions",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n3.pdf",
+ "what_they_audited": "Whether New York City Public Schools follows Local Law 93 of 2015 and its own suspension procedures, known as Chancellor's Regulation A-443, and whether suspended students get the instruction they are entitled to while they are out of their regular classroom. The audit covered school years 2019-20 through 2022-23 and excluded charter schools.",
+ "background": "New York City Public Schools is the nation's largest public school system, serving more than 900,000 students across over 1,800 schools. Regulation A-443 sets the procedures schools must follow to remove a student from class or suspend one, covering parent notification, conference and hearing timelines, supports for students and instruction during a suspension. Discipline comes in three forms: a teacher removal from a single classroom, a principal suspension of one to five days served in the school and a superintendent suspension of six to 20 days served outside the student's home school.",
+ "findings": [
+  {
+   "plain": "Over the four school years, 54,565 students were disciplined in 88,356 incidents, and nearly a third of those students were disciplined more than once. Enrollment fell 10% over the same period while disciplinary incidents rose 66%.",
+   "quote": "Among these students, 16,605 (30%) were disciplined multiple times."
+  },
+  {
+   "plain": "For 41% of the students who were disciplined repeatedly, the schools had no record of providing any of the supports or interventions the rules call for.",
+   "quote": "there was no record of supports and interventions for 6,735 (41%) students"
+  },
+  {
+   "plain": "Suspension lengths differed by race for the same infractions. For intimidating and bullying behavior, Black students were disciplined an average of 5.75 days against 3.88 days for White students and 3.61 days for Asian students.",
+   "quote": "Black and Hispanic students were disciplined an average of 5.75 and 4.66 days, respectively, compared with 3.88 days for White students and 3.61 days for Asian students"
+  },
+  {
+   "plain": "At all 20 schools auditors sampled, staff who work with students every day had not completed the trainings on behavioral supports that they are required to take.",
+   "quote": "all school staff who interact with students on a daily basis did not attend the required trainings related to behavioral supports"
+  },
+  {
+   "plain": "Superintendent suspensions are capped at 20 school days, but auditors found students held out far longer, in one case for 91 days.",
+   "quote": "We identified 113 students who received suspensions lasting more than 20 days involving 118 superintendent incidents, with suspensions ranging from 21–91 days."
+  },
+  {
+   "plain": "Students serving the most serious suspensions largely did not show up for the instruction assigned to them. Across 11,878 students and 15,100 superintendent suspensions in grades 3 through 12, absence rates ran from 48% to 67%.",
+   "quote": "these students were absent, on average, 54% of the days they were assigned to receive instruction at alternative locations"
+  },
+  {
+   "plain": "Suspension paperwork was too incomplete to show whether legal deadlines were met. Of 134 parent notifications reviewed, many lacked dates such as when the suspension started or when the notice went out, and most principal conferences could not be confirmed as held within the required five school days.",
+   "quote": "for 80 of the 91 principal conferences and 12 of the 43 superintendent hearings, we could not determine whether the 5-day requirement was met"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "16,605",
+   "label": "Students disciplined more than once in four years"
+  },
+  {
+   "value": "41%",
+   "label": "Repeatedly disciplined students with no documented supports"
+  },
+  {
+   "value": "66%",
+   "label": "Rise in disciplinary incidents as enrollment fell"
+  },
+  {
+   "value": "113",
+   "label": "Students suspended past the 20-day limit"
+  },
+  {
+   "value": "54%",
+   "label": "Days absent during superintendent suspensions, on average"
+  }
+ ],
+ "recommendations": [
+  "Provide supports and interventions consistently to all students, especially those at high risk of being disciplined repeatedly.",
+  "Monitor how long suspensions run to ensure they are consistent across racial and ethnic groups.",
+  "Ensure all staff, including non-instructional staff, attend every mandated training, including trainings that address bias.",
+  "Monitor suspensions that exceed 20 days and identify the behaviors that lead to lengthy suspensions.",
+  "Track attendance at alternate learning locations during superintendent suspensions, and find out why attendance is low and act on it.",
+  "Comply with Regulation A-443 on 24-hour written notice and five-day conferences and hearings for principal and superintendent suspensions, and notify parents in writing as soon as an incident that leads to discipline occurs."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "education",
+  "children and youth"
+ ],
+ "is_followup": false
+}
