@@ -1,0 +1,34 @@
+{
+ "id": "2026-08-27-artificial-intelligence-governance-follow",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Artificial Intelligence Governance (Follow-Up)",
+ "plain_title": "Checkup on the city's oversight of artificial intelligence",
+ "agency": "New York City Office of Technology and Innovation",
+ "issued": "2026-08-27",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2026/08/27/artificial-intelligence-governance-follow",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-25f17.pdf",
+ "what_they_audited": "How far the city has gone, as of April 2026, in carrying out the three recommendations from a 2023 state audit of how New York City governs its use of artificial intelligence (AI).",
+ "background": "City agencies use artificial intelligence (AI) in their operations, and because the workings of these tools are not always visible, the state auditors treat governance rules as the way to keep their use transparent and accurate. Executive Order 50 of November 2019 created an Algorithms Management and Policy Officer to guide that work; Executive Order 3 of January 2022 rescinded it and moved the responsibility to the Office of Technology and Innovation (OTI), and the initial audit, issued in February 2023, found the city had no effective framework in place.",
+ "findings": [
+  {
+   "plain": "The Office of Technology and Innovation has done some of what the first audit asked for, but not all of it, and none of the three recommendations was fully carried out.",
+   "quote": "OTI officials made some progress in addressing the problems we identified in the initial audit report, but additional steps are necessary to ensure effective AI governance in NYC."
+  },
+  {
+   "plain": "Every one of the three recommendations from the original audit was judged only partly done.",
+   "quote": "All three of the initial report's audit recommendations were partially implemented."
+  }
+ ],
+ "numbers": [],
+ "recommendations": [
+  "Office of Technology and Innovation officials are asked, though not required, to report within 30 days on any actions planned to address the issues left unresolved in this follow-up."
+ ],
+ "agency_response": "",
+ "implementation_note": "Of the three recommendations in the 2023 audit, the follow-up found all three partially implemented.",
+ "topics": [
+  "technology",
+  "transparency"
+ ],
+ "is_followup": true
+}
