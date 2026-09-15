@@ -1,13 +1,16 @@
-# Outside reports needing review (2026-09-01)
+# Outside reports needing review (2026-09-15)
 
-8 candidate reports published since 2026-05-04 are not yet summarized or ruled out:
+11 candidate reports published since 2026-05-18 are not yet summarized or ruled out:
 
-## Center for an Urban Future (3)
+## Center for an Urban Future (5)
+- 2026-09-01 [Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI](https://nycfuture.org/research/nyc-entry-level-tech-pathways-in-the-age-of-ai)
+- 2026-09-01 [Unlocking Public-Private Partnerships to Help Support and Strengthen NYC’s Parks](https://nycfuture.org/research/public-private-partnerships-for-parks)
 - 2026-08-01 [Strengthening CUNY’s Computer Science Faculty to Prepare Students for NYC’s Changing Tech Economy](https://nycfuture.org/research/strengthening-cuny-CS-faculty)
 - 2026-08-01 [Harnessing NYC’s Natural Areas](https://nycfuture.org/research/harnessing-nycs-natural-areas)
 - 2026-08-01 [10 Ideas for Expanding Equitable Access to Natural Areas](https://nycfuture.org/research/10-ideas-natural-areas)
 
-## NYU Furman Center (3)
+## NYU Furman Center (4)
+- 2026-09-10 [How Accident-Prone Is America’s Housing Finance System? Assessing Its Stability Circa 2022 (Part 1 of 2)](https://www.furmancenter.org/publication/us-housing-finance-system-stability-2022-part-1/)
 - 2026-07-21 [The Bronx is Burning: Urban Disinvestment Effects of Fair Access to Insurance Requirements](https://www.furmancenter.org/publication/bronx-burning-fair-plans-urban-disinvestment/)
 - 2026-07-08 [The Effects of RAD Conversion on Eviction Patterns](https://www.furmancenter.org/publication/rad-conversion-public-housing-evictions/)
 - 2026-05-29 [Tackling Homelessness in all its Complexity](https://www.furmancenter.org/publication/tackling-homelessness-in-all-its-complexity/)
