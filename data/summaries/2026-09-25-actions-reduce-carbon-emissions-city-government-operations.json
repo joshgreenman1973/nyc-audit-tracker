@@ -1,0 +1,74 @@
+{
+ "id": "2026-09-25-actions-reduce-carbon-emissions-city-government-operations",
+ "source": "osc",
+ "auditor": "New York State Comptroller",
+ "title": "Actions to Reduce Carbon Emissions From City Government Operations",
+ "plain_title": "Is the city cutting carbon from its own buildings on time?",
+ "agency": "New York City Department of Citywide Administrative Services",
+ "issued": "2026-09-25",
+ "url": "https://www.osc.ny.gov/state-agencies/audits/2026/09/25/actions-reduce-carbon-emissions-city-government-operations",
+ "pdf": "https://www.osc.ny.gov/files/state-agencies/audits/pdf/sga-2026-23n7.pdf",
+ "what_they_audited": "Whether the Department of Citywide Administrative Services (DCAS) hit the deadlines in the city's Local Law 97 Implementation Action Plan for cutting emissions from city government's own operations, and whether it followed the four mayoral executive orders attached to that law. The audit covered November 2019 through September 2025.",
+ "background": "The City Council passed the Climate Mobilization Act in 2019, and Local Law 97 required city government operations to cut emissions at least 40% by fiscal year 2025 and 50% by fiscal year 2030 against a fiscal year 2006 baseline. DCAS published its action plan in December 2021, and by March 2024 the city acknowledged it was running two years behind, having cut emissions by only 26% through 2023.",
+ "findings": [
+  {
+   "plain": "The city missed both the emissions cuts and the energy efficiency improvements it was supposed to reach by 2025.",
+   "quote": "The City did not achieve the emissions reductions or energy efficiency improvements for 2025 outlined in LL97 or DCAS’ Action Plan."
+  },
+  {
+   "plain": "The city attributes the delay to unforeseen challenges, but the audit also credits missing documentation, missed reporting deadlines, inconsistent metrics and unclear guidance to the agencies involved.",
+   "quote": "other factors such as missing documentation, missed reporting deadlines, inconsistent metrics, and unclear guidance and communication with affected agencies have also contributed to delays"
+  },
+  {
+   "plain": "DCAS did not make sure every agency named a chief decarbonization officer on time, and those officers are the people the plan relies on to get the cuts made.",
+   "quote": "DCAS did not ensure all required agencies identified Agency Chief Decarbonization Officers on a timely basis."
+  },
+  {
+   "plain": "Executive Order 89 told DCAS to set an emissions target for every entity the law covers. It looked at 24 of the city's 158 agencies, offices and entities, and gave targets to 19 of them.",
+   "quote": "Of the City’s 158 agencies, offices, and entities, DCAS evaluated the assets of 24, and allocated LL97 emissions reduction targets to only 19 of those 24."
+  },
+  {
+   "plain": "The public progress reports the executive orders require were published late and left out data needed to show how the city was doing.",
+   "quote": "DCAS did not meet its reporting requirements, publishing progress reports late and without all relevant data needed to ensure transparency with the public."
+  },
+  {
+   "plain": "DCAS could not produce the records behind its own numbers, including the source data for the 2006 baseline that every reduction is measured against, and it was not settled who was supposed to evaluate what.",
+   "quote": "DCAS did not provide source data to support the 2006 baseline emissions, as requested; leased properties were inconsistently factored into goals..."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "40%",
+   "label": "Emissions cut required by fiscal year 2025"
+  },
+  {
+   "value": "26%",
+   "label": "Emissions cut through 2023, latest published"
+  },
+  {
+   "value": "2 years",
+   "label": "How far behind schedule the city said it was"
+  },
+  {
+   "value": "19",
+   "label": "Entities given targets, out of 158 citywide"
+  },
+  {
+   "value": "100 megawatts",
+   "label": "Solar goal for 2025, since pushed to 2030"
+  }
+ ],
+ "recommendations": [
+  "Make sure decarbonization officers are named as Executive Order 89 requires and that they do the work the action plan assigns them, and give guidance on cutting emissions to agencies that have no officer.",
+  "Identify every agency required to comply with Executive Order 89 and either set its targets and report its progress, or explain why not.",
+  "Keep the city emissions data and documents that back up the reductions being reported, and hand them over when they are requested.",
+  "Write procedures and a review process that track every project and check that the information is accurate and complete."
+ ],
+ "agency_response": "",
+ "implementation_note": "",
+ "topics": [
+  "environment",
+  "transparency"
+ ],
+ "is_followup": false
+}
