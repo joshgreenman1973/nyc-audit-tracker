@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29",
+ "generated": "2026-10-05",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -11862,21 +11862,21 @@
    "rec_statuses": [
     {
      "n": 1,
-     "status": "Pending",
-     "status_date": "2026-02-19",
+     "status": "Partially Implemented",
+     "status_date": "2026-09-30",
      "agency_response": "Agreed With"
     },
     {
      "n": 2,
-     "status": "Pending",
-     "status_date": "2026-02-19",
+     "status": "Partially Implemented",
+     "status_date": "2026-09-30",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 2
+    "Partially Implemented": 2
    },
-   "status_as_of": "2026-02-19",
+   "status_as_of": "2026-09-30",
    "rec_display": [
     {
      "n": 1,
@@ -13291,8 +13291,8 @@
    "rec_statuses": [
     {
      "n": 1,
-     "status": "Partially Implemented",
-     "status_date": "2026-02-27",
+     "status": "Implemented",
+     "status_date": "2026-02-26",
      "agency_response": "Disagreed With"
     },
     {
@@ -13327,9 +13327,8 @@
     }
    ],
    "status_tally": {
-    "Partially Implemented": 1,
-    "Pending": 4,
-    "Implemented": 1
+    "Implemented": 2,
+    "Pending": 4
    },
    "status_as_of": "2026-02-28",
    "rec_display": [
