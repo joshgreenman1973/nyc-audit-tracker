@@ -193,6 +193,11 @@ def main():
             # Cloudflare-blocked; handled by the browser-driven collector.
             skipped.append(f"{pub['id']} (browser fetch required)")
             continue
+        if method == "manual":
+            # No crawlable listing at all (e.g. a commission that posts one PDF
+            # a year); checked by hand and named in the worklist's manual pass.
+            skipped.append(f"{pub['id']} (no crawlable listing; checked by hand)")
+            continue
         fn = ADAPTERS.get(method)
         if not fn:
             failures.append(f"{pub['id']}: unknown fetch method {method!r}")
@@ -228,7 +233,7 @@ def main():
     OUT.write_text(json.dumps(deduped, indent=1, ensure_ascii=False))
     print(f"\nWrote {len(deduped)} candidate items -> {OUT}")
     if skipped:
-        print("Needs browser collector: " + ", ".join(skipped))
+        print("Not crawled headlessly: " + ", ".join(skipped))
     if failures:
         print("\nFAILURES:")
         for f in failures:

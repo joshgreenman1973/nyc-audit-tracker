@@ -2,21 +2,24 @@
 """Fortnightly ingest for the outside-groups layer.
 
 Re-crawls every registered outside publisher, applies the inclusion bar, and
-reports which reports are new since the last run — that is, present in the
-crawl but with no summary in data/summaries/.
+reports which reports are still open work: present in the crawl but neither
+summarized in data/summaries/ nor ruled out in data/outside_no_recs.json.
 
 Writes data/outside_new.md (a human-readable worklist) and exits nonzero when
-there is new work, so the scheduled job can open an issue.
+there is open work or when any publisher's crawl failed, so the scheduled job
+can open (or update) an issue.
 
 Publishers marked "fetch": "browser" (Cloudflare-blocked) cannot run headless.
 They are listed separately in the report as needing a browser pass, so they
 fail visibly rather than silently going stale.
+
+  --no-crawl   rebuild the worklist from the existing outside_index.json
+               (used after scripts/draft_summaries.py has cleared items)
 """
 import json
-import re
 import subprocess
 import sys
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,10 +27,15 @@ REG = ROOT / "data" / "publishers.json"
 SUMDIR = ROOT / "data" / "summaries"
 INDEX = ROOT / "data" / "outside_index.json"
 NORECS = ROOT / "data" / "outside_no_recs.json"
+TRIAGE = ROOT / "data" / "outside_triage.json"
+DRAFTS = ROOT / "data" / "drafts"
 OUT = ROOT / "data" / "outside_new.md"
 
-# Only look back a window; the backfill is already done.
-LOOKBACK_DAYS = 120
+# The backfill covered everything issued before the first fortnightly run's
+# window. Anything issued on or after this date stays on the worklist until it
+# is summarized or ruled out. (This used to be a rolling 120-day window, which
+# let unworked reports age off the list without anyone deciding on them.)
+FLOOR = "2026-03-30"
 
 
 def known_urls():
@@ -46,43 +54,92 @@ def known_urls():
     return urls
 
 
-def main():
-    if not REG.exists():
-        sys.exit(f"FAIL: no publisher registry at {REG}")
+def manual_publishers(reg):
+    """Publishers that mix reports and commentary in one stream."""
+    return {p["id"] for p in reg if p.get("auto_ingest") is False}
 
-    # Reuse the discovery crawl; it already handles every adapter.
+
+def pending(items=None, reg=None):
+    """Outside candidates that still need a human or automated decision."""
+    if items is None:
+        items = json.loads(INDEX.read_text())
+    if reg is None:
+        reg = json.loads(REG.read_text())
+    seen = known_urls()
+    manual = manual_publishers(reg)
+    return [i for i in items
+            if i.get("issued", "") >= FLOOR
+            and i.get("url", "").rstrip("/") not in seen
+            and i.get("publisher") not in manual]
+
+
+def automation_notes():
+    """url -> note from the automated drafter (suggested rule-out or failed draft)."""
+    notes = {}
+    if TRIAGE.exists():
+        for t in json.loads(TRIAGE.read_text()):
+            notes[t["url"].rstrip("/")] = (
+                f"automated triage suggests ruling out ({t['decision'].replace('_', ' ')}): "
+                f"{t['reason']} To confirm, move the entry to data/outside_no_recs.json.")
+    if DRAFTS.exists():
+        for f in DRAFTS.glob("*.json"):
+            d = json.loads(f.read_text())
+            url = (d.get("summary") or {}).get("url", "").rstrip("/")
+            if url:
+                notes[url] = (f"automated draft failed its checks; draft and problems in "
+                              f"data/drafts/{f.name}")
+    return notes
+
+
+def crawl():
+    """Run the discovery crawl. Returns the list of per-publisher failures."""
     proc = subprocess.run([sys.executable, str(ROOT / "scripts" / "fetch_outside.py")],
                           capture_output=True, text=True)
     print(proc.stdout)
     if proc.stderr.strip():
         print(proc.stderr, file=sys.stderr)
+    failures = []
+    if proc.returncode != 0:
+        block = proc.stdout.split("FAILURES:", 1)
+        if len(block) == 2:
+            failures = [ln.strip() for ln in block[1].splitlines() if ln.strip()]
+        else:
+            tail = (proc.stderr.strip() or proc.stdout.strip()).splitlines()[-3:]
+            failures = ["fetch_outside.py exited %d: %s" % (proc.returncode, " / ".join(tail))]
+    return failures
+
+
+def main():
+    no_crawl = "--no-crawl" in sys.argv[1:]
+    if not REG.exists():
+        sys.exit(f"FAIL: no publisher registry at {REG}")
+    # A stale worklist from a previous run must never be mistaken for this run's.
+    if OUT.exists():
+        OUT.unlink()
+
+    failures = [] if no_crawl else crawl()
     if not INDEX.exists():
         sys.exit("FAIL: crawl produced no index")
-
     items = json.loads(INDEX.read_text())
     if not items:
         sys.exit("FAIL: crawl returned zero candidates across all publishers")
 
-    cutoff = (date.today() - timedelta(days=LOOKBACK_DAYS)).isoformat()
-    seen = known_urls()
     reg = json.loads(REG.read_text())
-
-    # Some publishers mix reports and commentary in one undifferentiated stream,
-    # so a crawl cannot tell which items clear the reports-only bar. Listing
-    # every item would bury the real work, so they are named for a manual pass
-    # instead of padding the worklist.
-    manual = {p["id"] for p in reg if p.get("auto_ingest") is False}
+    manual = manual_publishers(reg)
     browser_pubs = [p["id"] for p in reg
                     if p.get("fetch") == "browser" and p.get("verdict") in ("include", "borderline")]
-
-    fresh = [i for i in items
-             if i.get("issued", "") >= cutoff
-             and i.get("url", "").rstrip("/") not in seen
-             and i.get("publisher") not in manual]
+    fresh = pending(items, reg)
+    notes = automation_notes()
 
     lines = [f"# Outside reports needing review ({date.today().isoformat()})", ""]
+    if failures:
+        lines.append("## Crawl failures")
+        lines.append("These publishers could not be crawled this run, so their new reports "
+                     "(if any) are missing from the list below:\n")
+        lines.extend(f"- {f}" for f in failures)
+        lines.append("")
     if fresh:
-        lines.append(f"{len(fresh)} candidate reports published since {cutoff} are not yet "
+        lines.append(f"{len(fresh)} candidate reports published since {FLOOR} are not yet "
                      "summarized or ruled out:\n")
         by_pub = {}
         for i in fresh:
@@ -90,10 +147,14 @@ def main():
         for pub, rows in sorted(by_pub.items(), key=lambda kv: -len(kv[1])):
             lines.append(f"## {pub} ({len(rows)})")
             for r in sorted(rows, key=lambda x: x["issued"], reverse=True):
-                lines.append(f"- {r['issued']} [{r['title']}]({r['url']})")
+                line = f"- {r['issued']} [{r['title']}]({r['url']})"
+                note = notes.get(r["url"].rstrip("/"))
+                if note:
+                    line += f"\n  - {note}"
+                lines.append(line)
             lines.append("")
     else:
-        lines.append("No new outside reports in the window.\n")
+        lines.append("No new outside reports awaiting review.\n")
 
     if browser_pubs:
         lines.append("## Needs a browser pass (Cloudflare-blocked, not crawled here)")
@@ -111,10 +172,10 @@ def main():
                      "cannot tell which items clear the reports-only bar. Review their listings "
                      "by hand rather than trusting an empty worklist here.")
 
-    OUT.write_text("\n".join(lines))
-    print(f"\n{len(fresh)} new candidates -> {OUT}")
-    if fresh:
-        sys.exit(1)   # signal the scheduled job to open an issue
+    OUT.write_text("\n".join(lines) + "\n")
+    print(f"\n{len(fresh)} open candidates, {len(failures)} crawl failures -> {OUT}")
+    if fresh or failures:
+        sys.exit(1)   # signal the scheduled job to open or update the issue
 
 
 if __name__ == "__main__":

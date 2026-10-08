@@ -177,7 +177,7 @@
   "short_name": "Independent Rikers Commission",
   "url": "https://www.morejustnyc.org",
   "listing_url": "https://www.morejustnyc.org",
-  "fetch": "html",
+  "fetch": "manual",
   "feed_url": null,
   "nyc_focus": "primary",
   "makes_recommendations": true,
