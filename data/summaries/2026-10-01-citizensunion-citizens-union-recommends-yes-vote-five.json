@@ -1,0 +1,88 @@
+{
+  "id": "2026-10-01-citizensunion-citizens-union-recommends-yes-vote-five",
+  "source": "outside",
+  "auditor": "Citizens Union",
+  "title": "Citizens Union Recommends a Yes Vote on All Five 2026 Charter Proposals",
+  "plain_title": "Citizens Union voter guide to the five 2026 charter proposals",
+  "agency": "New York City government",
+  "issued": "2026-10-01",
+  "url": "https://citizensunion.org/document/2026-10-01/citizens-union-recommends-a-yes-vote-on-all-five-2026-charter-proposals/",
+  "pdf": "",
+  "what_they_audited": "A voter guide from Citizens Union explaining the five charter revision questions on the November 2026 ballot and giving the group's position on each. The questions were proposed by the Commission on Government Efficiency.",
+  "background": "The Commission on Government Efficiency, a panel appointed by Mayor Zohran Mamdani, proposed the five questions to streamline government processes. Citizens Union describes itself as New York City's oldest nonpartisan good government group.",
+  "findings": [
+    {
+      "plain": "Citizens Union says the commission was one of the shortest charter revision commissions in the city's history, with little time to gather and analyze public input.",
+      "quote": "It was also one of the shortest charter revision commissions in the city’s history."
+    },
+    {
+      "plain": "Question 1 would replace mandatory public hearings for revocable consents with a comment period and end the extra review of sidewalk cafes, including City Council call-up. Citizens Union says this could cut months from approvals.",
+      "quote": "These proposals could cut months from the approval process for local businesses."
+    },
+    {
+      "plain": "On Question 2, Citizens Union says the changes could improve procurement at the margins but raises concern about letting the Procurement Policy Board rewrite the vendor questionnaire, since some questions help ensure vendor integrity.",
+      "quote": "However, some questions help ensure vendor integrity, prevent corruption, or hold vendors accountable after potential violations."
+    },
+    {
+      "plain": "On Question 3, Citizens Union supports the substance but says it bundles unrelated policy areas into one question, which makes it hard for voters who support only part of it.",
+      "quote": "Regardless of substance, this question improperly bundles unrelated policy areas – street authority, land disposition, and office leasing – into a single question"
+    },
+    {
+      "plain": "Question 4 would create a single permitting hub run by the Department of Buildings and move waterfront permitting to that department. Citizens Union calls these positive modernization efforts.",
+      "quote": "These changes are positive modernization efforts that would make it easier to navigate the construction permitting process"
+    },
+    {
+      "plain": "On Question 5, Citizens Union supports the rainy day fund rules but notes the proposal does not require annual deposits and lets other reserve funds count toward the target.",
+      "quote": "Although it would establish a formula for deposits into the fund, it does not actually require annual deposits"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "15 day",
+      "label": "Proposed comment period replacing mandatory hearings"
+    },
+    {
+      "value": "$5 million",
+      "label": "Contracts above this could be approved by agency officials"
+    },
+    {
+      "value": "$100,000",
+      "label": "Contract threshold for comment periods instead of hearings"
+    },
+    {
+      "value": "12%",
+      "label": "Proposed rainy day fund reserve target"
+    },
+    {
+      "value": "50 percent",
+      "label": "Withdrawal cap absent mayoral certification"
+    },
+    {
+      "value": "Eight charter commissions",
+      "label": "Established in the last eight years"
+    }
+  ],
+  "recommendations": [
+    "Vote yes on Question 1 to speed up the process for granting a revocable consent to use public space.",
+    "Vote yes on Question 2 to reduce city contractor paperwork and require regular meetings of the Procurement Policy Board, with the Department of Investigation involved in developing the new vendor questionnaire.",
+    "Vote yes on Question 3 to speed up street safety projects, the disposition of unused city property and office leasing.",
+    "Vote yes on Question 4 to simplify building permitting and move waterfront permitting to the Department of Buildings.",
+    "Vote yes on Question 5 to set contribution targets for the rainy day fund.",
+    "Set guardrails, such as minimum timeframes, so rushed charter revision commissions cannot be created.",
+    "Change the law so charter revision commissions remain an extraordinary tool for structural reform rather than political maneuvering."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "transparency",
+    "money and contracts",
+    "housing"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

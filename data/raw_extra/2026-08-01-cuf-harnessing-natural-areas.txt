@@ -1,0 +1,1599 @@
+===== SOURCE: landing page =====
+Innovative Ideas. Independent Policy.
+•
+Home
+•
+About
+•
+Research
+•
+Events
+•
+Press
+•
+Impact
+•
+Support
+•
+Contact
+Report
+- August 2026
+Harnessing NYC’s Natural Areas
+New York City’s 12,000 acres of natural areas can improve public health, strengthen communities, and build climate resilience, yet remain overlooked and underused. Our research suggests that realizing more of that potential may depend on continued investment in staffing and maintenance, stronger awareness and wayfinding, and new approaches to programming, partnerships, and long-term funding.
+by John Surico and Eli Dvorkin
+Tags:
+public health
+natural areas
+• Read the full report here.
+• Read the policy ideas here.
+N ew Yorkers are more stressed, more screen-bound, and more disconnected than ever, and one of the most effective antidotes is hiding in plain sight: the more than 12,000 acres of city-managed forests, wetlands, streams, and other wild landscapes woven across the five boroughs. 1 From the wooded trails of Central Park’s North Woods to the salt marshes of Jamaica Bay, the forests of Staten Island’s Greenbelt, and the rocky shoreline of Pelham Bay Park, New York City boasts a treasure trove of natural areas. These local assets provide access to nature for the millions of New Yorkers without the means to visit hiking trails or waterfronts in the Hudson Valley, Long Island, or other parts of the surrounding region.
+But despite their scale and potential, the city’s natural areas remain largely invisible and underused. While about half of New Yorkers use the city’s public parks each week, far fewer are experiencing the city’s natural areas. Only about 380,000 New Yorkers—about 4.5 percent of the city’s population—participated in nature-based programming in 2024, including programming offered by NYC Parks, according to a survey of over two dozen entities conducted for this report. 2  And because many are repeat visitors, the share is likely even lower.
+Even in the city’s most prominent natural landscapes, engagement is limited: In Jamaica Bay, only about 4 percent of park activity is tied to nature-focused uses like hiking or birding. 3 Among young New Yorkers, the gap is even more pronounced, with programs like Trail Blazers reporting that up to 80 percent of participants do not regularly access green space, even when they live nearby.
+For many residents, especially in lower-income communities and communities of color, spending time in nature can feel like a largely inaccessible luxury. According to the educators and youth development practitioners interviewed for this report, many young New Yorkers go their entire childhoods without ever setting foot in one of the city’s forests, wetlands, or other natural areas. Part of the challenge is physical proximity: Fewer than half of all New Yorkers live within walking distance of a natural area, and more than 2.2 million residents live in neighborhoods with none at all. 4 But our interviews with community leaders suggest that cultural perceptions and questions of who feels welcome in these spaces also play a role.
+Where lower-income New Yorkers are accessing these spaces, it is often through community-based nonprofits. But where these programs exist, demand far exceeds capacity. At the Hood Hikers, a community-based organization that organizes hiking trips centered on Black and Brown residents, membership has grown to more than 5,000 since its founding in 2020, and every event sells out. At Shorewalkers, a long-running nonprofit that leads group walks and hikes across the city using public transit, the annual Great Saunter around Manhattan now draws thousands of participants and fills up in less than a day. (This year saw 3,500 walkers on the route, and another 3,000 on the waitlist.) And at the Sebago Canoe Club in Canarsie—a volunteer-run organization offering free kayaking and waterfront access along Jamaica Bay—staff and volunteers regularly struggle to accommodate waitlists.
+At the same time, New York City’s natural areas are under growing strain, and receiving less support. Although these landscapes make up roughly one-third of all parkland, they receive just 2 percent of the city’s parks operating budget. 5 The city’s capacity to care for these spaces has declined sharply: Acres maintained have fallen from 1,224 in fiscal year (FY) 2023 to 569 in FY 2025—a drop of more than 50 percent in two years—while tree planting in natural areas has also declined significantly. 6 Last year, just 4.7 percent of natural areas received any maintenance, and the entire system is managed by just 102 staff.
+To its credit, NYC Parks and its partners have built important foundations to expand access and care. Urban Park Rangers and Stewardship programs have long connected New Yorkers to the city’s wild spaces; the Natural Areas Conservancy (NAC) has advanced trail planning and restoration; and the city recently released its first-ever Urban Forest Plan. But the scale of need now far exceeds the resources available. Our research suggests that realizing the promise and potential of the city’s natural areas for the benefit of all New Yorkers will require sustained investment in staffing and maintenance, stronger awareness and wayfinding, and new approaches to programming, partnerships, and funding—including tapping private and philanthropic support alongside public dollars. This report advances research on the state of the natural areas care and access ecosystem, and surfaces ideas from that research to ensure every New Yorker can experience meaningful time in nature without leaving the city.
+Research for this report, supported by a grant from The Leona M. and Harry B. Helmsley Charitable Trust, draws on interviews with more than 65 parks leaders, natural areas advocates, environmental education organizations, community-based nonprofits, parks and open space alliances, and stewardship groups across the five boroughs. The research is also informed by an extensive analysis of public data from NYC Parks and other sources.
+New York City’s natural areas may be one of its most untapped assets. They offer a rare combination of benefits that are especially important in a city like New York. A growing body of research shows that time in nature—even as little as 15 minutes—can reduce stress, improve mood, and support mental health, with the strongest benefits linked to more immersive settings like urban forests. 7 These impacts are especially pronounced for young people, at a time when nearly 40 percent of New York City high school students report feeling persistently sad or hopeless, the highest rate on record. 8
+Natural areas also serve as living classrooms, offering hands-on environmental education and workforce pathways, while playing a critical role in mitigating climate impacts, from absorbing stormwater to reducing extreme heat. And at a time when the city feels more unaffordable than ever, these spaces offer one of the few opportunities for New Yorkers to access meaningful recreation and respite at no cost.
+They also play a critical role in addressing environmental inequities. In neighborhoods along the Bronx River, for example, natural areas help mitigate the impacts of pollution, extreme heat, and noise from nearby highways, providing measurable improvements to both environmental and public health conditions. “When you go into a thicket of trees, that changes,” says Victoria Toro, outreach manager of the Bronx River Alliance, a nonprofit that cares for and programs activities on the Bronx River. “Natural areas mitigate the extreme heat, pollution, and noise that is so damaging to people’s mental and physical health. And these spaces are cleaning the air, too. We’re full of these hidden gems that people don’t know how to physically get to.”
+Indeed, despite the many benefits provided by the city’s natural areas, access remains highly inconsistent, and too few New Yorkers are even aware of them.
+A new Center for an Urban Future analysis finds that fewer than half of all New Yorkers—47.7 percent, or about 4.2 million people—live within a 10-minute walk of a natural area, compared to more than 84 percent who live within walking distance of a park. 9 Our analysis also found that just over a quarter of New Yorkers—26.1 percent, or roughly 2.2 million people—live in City Council districts without access to natural areas at all. Even along the city’s extensive coastline, access is limited: Of 520 miles of waterfront, only about 40 percent is publicly accessible.
+Even where natural areas exist nearby, many New Yorkers remain unaware of them. In Manhattan’s Inwood Hill Park, which contains one of the city’s last remaining old-growth forests, Elizabeth Jaeger, former deputy director of the NAC, recalls working with a local videographer to capture its trail system. “He said, ‘This was an easy job for me, I live in Inwood Hill,’” she says. “I said, ‘That’s great, you must love coming to this park.’ He told me he had never been there.” The experience is not unusual. “In almost every workshop we do, we hear the same thing,” Jaeger says.
+This gap between proximity and awareness means that even in neighborhoods with access to natural areas, many residents are not benefiting from them—underscoring the need not only to expand access, but to make these spaces more visible and welcoming to the communities they serve.
+While most New Yorkers still do not regularly access the city’s natural areas, those who could benefit most are often the least likely to do so.
+At NYC Outward Bound Schools, which fosters adventurous learning through real-world engagement and meaningful challenge in schools and the outdoors, staff report that many participants are visiting major parks and natural areas for the first time, even when they live nearby. Despite New York City’s abundance of green space, many of the students the program serves do not experience natural areas as truly accessible. “For many young people, it’s actually the first time they’ve been there,” says Cal Hastings, the organization’s vice president of partnerships and innovation. “Experiences in nature are essential, because they help young people—and all of us—disconnect from technology, reconnect with one another, and benefit from the restorative power of the natural world.”
+Time constraints, work schedules, and caregiving responsibilities all present real barriers, particularly for residents in communities of color. “As far as adults, they’re working a lot, they’re taking care of people,” says Jasmine Guadalupe, founder of the Hood Hikers. Guadalupe adds that there are deeper barriers around who feels welcome in outdoor spaces: “For decades, [outdoor recreation] has been a predominantly white field,” she said in a 2024 interview. “Inner-city people might say, ‘You are going hiking? That’s for white people.’”
+These challenges are especially pronounced for younger New Yorkers and working families. At Trail Blazers, a nonprofit that provides outdoor education and camping experiences for about 1,300 low-income children annually, up to 50 percent of their 400 after-school students enrolled do not regularly go to a green space. “At one school that we work with in Little Haiti, most of the students are new immigrants or live in the homeless shelter down the block,” says Shanna Gumaer, Trail Blazers’ executive director. There, the rate is as high as 80 percent. “It’s a total green desert and not convenient to go to a park, especially when their parents are working two or three jobs. It’s a real challenge for these families.”
+Our research focuses on five interconnected challenges that help explain why relatively few New Yorkers are using the city’s natural areas.
+• Too few young New Yorkers are getting meaningful exposure to nature.
+• Concerns about safety and belonging discourage many New Yorkers from visiting natural areas.
+• Transit and connectivity challenges make many natural areas difficult to reach.
+• Chronic underinvestment leaves many natural areas understaffed and undermaintained.
+• Climate change is increasing pressure on natural areas.
+Ensuring that far more New Yorkers can benefit from time spent in the city’s wild places is an achievable goal. Our research suggests that this will require additional maintenance and staffing, expanded programming and partnerships with community-based organizations, and new efforts to raise awareness of what exists right here in the city. Another key opportunity is to develop new, dedicated sources of funding to support a new era for New York City’s natural areas, including models that harness private and philanthropic support, such as partnerships with outdoor retailers to help maintain trails and steward these spaces. Employers—from health care organizations and financial firms to schools and city agencies—can also help drive awareness and access by bringing their employees to the city’s natural areas for offsites and retreats.
+Recent experience shows that these investments can work. Since 2019, temporary and seasonal Urban Park Ranger positions have helped NYC Parks expand nature walks, wildlife programming, youth activities, and skills-building events. In FY 2027, those roles have finally been baselined, rather than being funding one year at a time. When resources are available, NYC Parks can effectively expand access and engagement. The challenge now is sustaining and building on that momentum.
+At the same time, city leaders can do far more to connect New Yorkers to nature at scale, including piloting monthly “Nature Days” that bring thousands of residents into parks; launching a five-borough awareness campaign; expanding access through transit and trails; and ensuring every public school student has regular opportunities to experience the outdoors. Equipped with a willingness to think creatively about how New Yorkers discover and use these spaces, the city can better harness the power of nature for both its ecosystems and its residents—and build a more accessible, widely used system of natural areas across the five boroughs.
+ 
+The following are policy ideas in response to the challenges:
+“Nature for All NYC"
+While the Department of Education has made progress on sustainability education, much more can be done. New York City could make outdoor learning universal with a “Nature for All NYC” initiative that could ensure that every public school student participates in a nature-based experience each year with expanded field trips, increased Ranger and educator visits—including sending Rangers to visit public school classrooms—and support for partnerships with nonprofits and other agencies. One idea surfaced through this research is for the city to start with fourth graders, mirroring the federal Every Kid Outdoors initiative, and work with New York City Public Schools to develop a nature curriculum with an outdoors component. This initiative could build on the success of a current Parks-Schools partnership, Swim for Life, which focuses on teaching second graders how to swim. Over time, this would make outdoor learning a regular part of every student’s experience, helping to build familiarity, confidence, and long-term engagement.
+Increasing perceptions of safety and belonging via Urban Park Rangers
+Safety concerns remain a major barrier to visiting natural areas, particularly for women and people of color. Many of these spaces are lightly trafficked and lack a consistent public presence, reinforcing perceptions that they are unsafe or unwelcoming. Expanding access will require more than enforcement alone: It will take a regular, visible presence from staff who can welcome visitors, lead programming, answer questions, and help New Yorkers feel comfortable exploring these spaces.
+Our research suggests that one high-potential option for policymakers is to strengthen the capacity and role of Urban Park Rangers in natural areas, creating a more consistent and visible human presence in the park system’s less-trafficked areas. This strategy could enable Rangers to spend more time building public confidence, guiding visitors, leading programs, and supporting safe use of wild places. NYC Parks could also explore creating a dedicated natural areas safety team, with consistent assignments in forests, wetlands, trails, and waterfront spaces. Together, a stronger Ranger presence and a specialized safety team could increase visibility, and help break the cycle of underuse that keeps many natural areas feeling isolated.
+Piloting citywide “Nature Days”
+To address the barriers that prevent many New Yorkers from accessing the city's natural areas, the city could pilot a bold, highly visible initiative such as a series of monthly, citywide “Nature Days” during the warmer months. On select weekends, NYC Parks—working with the Department of Transportation and the MTA—could coordinate enhanced access through shuttle buses, expanded transit service, guided hikes, and family-friendly events. A one-year pilot would allow the city to test demand, identify high-interest sites, and build the case for permanent improvements to access and programming.
+Planning for the long-term care needs of NYC’s natural areas
+For years, the capital and expense dollars committed to the city's natural areas have not kept up with maintenance needs or rising demand, even as these spaces face mounting pressures from climate change and increased usage. In addition to reckoning with the true cost of effective natural areas care and maintenance, New York City will need more creative approaches to closing the gap between current capacity and the scale of need across more than 12,000 acres of natural areas. Public-private partnerships, philanthropic support, and state tourism and environmental funding streams could all play a larger role in that effort. A five-year roadmap could help align existing programs and partners, identify promising models, and establish clear goals for acreage maintained, visitor participation, programming, and long-term stewardship. Such an effort could bring public, nonprofit, private, and philanthropic stakeholders together to support a new era of access to nature.
+Modernizing the city’s 300-plus miles of trails
+Trails are essential to making natural areas accessible, providing safe pathways through ecologically sensitive environments and helping visitors navigate unfamiliar terrain. The city could strengthen the current network by conducting a reassessment of its existing trail system to identify routes that are difficult to find, informal, or ecologically harmful. This effort could identify which trails need sustained maintenance, improved signage, formalization, rerouting, or closure, while also exploring carefully targeted opportunities to improve access where trails can be added without harming natural areas. At the same time, NYC Parks could partner with private sector firms and nonprofit experts to modernize trail maps, digital navigation tools, and wayfinding, making it easier for residents to discover and explore the city’s natural spaces safely and responsibly.
+Unlocking benefits for youth and natural areas in one
+Youth unemployment in New York City remains more than double the citywide average and has risen in recent years, even as many young New Yorkers face elevated rates of loneliness, anxiety, and other mental health challenges. At the same time, the city’s forests, wetlands, trails, and shorelines need far more hands-on care than current staffing levels can provide. NYC Parks already operates promising youth stewardship programs, including the Urban Park Rangers’ Ranger Conservation Corps, a free eight-week environmental conservation internship that serves roughly 200 high school students annually, as well as Natural Resources Group youth and young adult internships supported in part through the city’s Summer Youth Employment Program. But these efforts remain far smaller than the scale of the opportunity.
+A larger “NYC Youth Conservation Corps” could build on these foundations by connecting more youth employment opportunities to natural areas stewardship, with paid placements focused on trail building and maintenance, tree care, horticulture, habitat restoration, shoreline stewardship, and visitor engagement. Participants could be placed with NYC Parks, the NAC, other conservancies, and community-based partners across the five boroughs. Corps members could also help introduce more young New Yorkers to the city’s natural areas through peer-to-peer outreach and social media campaigns—something like “Trail Teens of TikTok”—spotlighting nearby hikes, waterfronts, forests, and volunteer opportunities in ways that feel authentic to their generation. The strongest programs would not end with a summer paycheck: They would connect participants to year-round jobs, apprenticeships, college programs, and industry-recognized credentials in forestry, horticulture, ecological restoration, landscape management, and natural resource careers. By scaling proven models and linking immediate work experience to real advancement opportunities, New York City could build the next generation of stewards for its natural areas while creating meaningful pathways to economic mobility.
+Library-based “Nature & Culture Hubs”
+Our research suggests that information gaps seriously limit participation in nature-based activities, restricting potential community benefits. One promising option to address those gaps is to utilize public libraries, which are already among the most trusted institutions in the city. Despite boasting locations in every neighborhood and strong relationships with residents, they remain an underutilized asset when it comes to connecting New Yorkers to nearby nature, outdoor recreation, and cultural life. With the right resources and partnerships, libraries could serve as neighborhood gateways to parks, trails, waterfronts, gardens, cultural organizations, performances, public art, historic sites, and other low-cost opportunities close to where New Yorkers live.
+A network of “Nature & Culture Hubs” at libraries, particularly in underserved communities, could start with a simple but important function: providing clear, accessible information about local nature-based activities, nearby access points, transit routes, volunteer opportunities, free and low-cost cultural events, and neighborhood arts and heritage programming. Over time, these hubs could also offer lendable equipment, small grants for programming, and partnerships with local organizations to expand access. They could support community co-design of programming, ensuring that activities reflect local cultures and needs while helping residents feel a stronger sense of ownership over nearby natural and cultural assets.
+“NYC Nature-Based Jobs Coalition”
+While New York City is training hundreds of residents each year for jobs in natural areas, it has far fewer stable positions to absorb them. This mismatch reflects a lack of stable career-track positions to move into, not a lack of interest or training. Without more stable roles in maintenance, stewardship, restoration, and programming, the city will continue to fall short of both the workforce needed to care for these spaces and the jobs needed to make training a meaningful pathway to economic mobility.
+One promising approach would be to expand stable, long-term roles connected to natural areas stewardship while reducing reliance on fragmented short-term contracts where possible. At the same time, a “New York City Nature-Based Jobs Coalition” could build on the work of Forest for All NYC and Just Nature NYC to better coordinate training, apprenticeships, credentials, and hiring across the growing field of natural areas stewardship. The coalition could align training programs with apprenticeships, industry-recognized credentials, degree pathways, and real hiring needs—especially for roles like arborist, horticultural technician, trail specialist, and natural resource manager, where hands-on experience is essential. By organizing clearer routes into these roles and better matching training to hiring demand, New York City could build a workforce that supports both environmental goals and economic mobility.
+“Explore Forever Wild NYC”
+In interviews for this report, lack of awareness emerged as one of the most consistent barriers, even among longtime residents who had never visited nearby natural areas. Without a coordinated effort to raise visibility, these spaces will remain underused.
+The city could launch a five-borough awareness campaign—“Explore Forever Wild NYC”—to promote natural areas across subways, buses, LinkNYC kiosks, schools, and digital platforms. Working with Empire State Development, NYC Parks could tap into existing state tourism dollars and align messaging with the “I Love NY” campaign. This effort should be paired with improved wayfinding, updated trail maps, and digital tools to help residents navigate the city’s 300 miles of trails.
+Bring nature closer to where New Yorkers live with “Rewild NYC”
+To close physical proximity gaps when it comes to natural areas, New York City could launch a bold interagency initiative—“Rewild NYC”—to expand access through pocket forests, native plantings, and micronatural spaces. This could include transforming vacant lots, dead-end streets, and roadway medians; expanding Greenstreets; and incorporating natural elements into schools, libraries, and public housing. These smaller-scale interventions can bring meaningful environmental and public health benefits to neighborhoods that currently lack access. The proposed “NYC Youth Conservation Corps” could help maintain and steward these newly greened spaces, giving young New Yorkers paid, hands-on experience while ensuring these investments are cared for over time.
+As cities around the world are experimenting with ways to integrate natural systems into the urban fabric, the benefits of nature—cooling, biodiversity, mental health—can be delivered through smaller, distributed interventions to bring nature closer to where New Yorkers live. Such initiatives are especially important given that a quarter of New Yorkers live in neighborhoods without access to natural areas, and creating large new parks is often impractical in dense parts of the city.
+Endnotes
+1  Natural Areas Conservancy, “NYC Nature Map,” 2024, https://naturalareasnyc.org/nyc-nature-map/.
+2  Center for an Urban Future analysis of programming data provided to CUF by program providers, and participant numbers taken from each organization’s website. 2026.
+3  United States Forest Service, “Reading the Landscape: A Social Assessment of Parks and Their Natural Areas in Jamaica Bay Communities,” 2015, https://www.nycgovparks.org/pagefiles/207/wp1JamaicaBaySSA2013__6818c167610da.pdf.
+4  CUF analysis of data from the Natural Areas Conservancy and Census Block Maps.
+5  Natural Areas Conservancy, Funding Forested Natural Areas: Recent Trends in New York City , 2023, https://naturalareasnyc.org/wp-content/uploads/2024/01/NAC-Funding-Forested-Natural-Areas.pdf.
+6  The City of New York, Mayor’s Management Report , 2025, https://www.nyc.gov/assets/operations/downloads/pdf/mmr2025/2025_mmr.pdf.
+7  Marcia P. Jimenez et al., “Associations between Nature Exposure and Health: A Review of the Evidence," International Journal of Environmental Research and Public Health 18, no. 9 (2021): 4790, https://doi.org/10.3390/ijerph18094790.
+8  New York City Department of Health and Mental Hygiene, "Suicide-related factors among New York City Public High School Students," Epi Data Brief, no 138 (November 2023), https://www.nyc.gov/assets/doh/downloads/pdf/epi/databrief138.pdf.
+9  CUF analysis of data from the Natural Areas Conservancy and Census Block Maps.
+Harnessing NYC’s Natural Areas is a publication of the Center for an Urban Future. Researched and written by John Surico and Eli Dvorkin. Edited by Dorian Block and Irene Connelly. Data analysis by Rachel Neches. Additional research by Harry Frahn, Zamira Frost, Bella Hung, Nora Lewis, Yona Litwin, Lina Mazioui, Julia Ross, and Samuel Weidman. Designed by Stislow Design.
+Center for an Urban Future (CUF) is a leading New York City-based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy.
+This report was made possible by a grant from The Leona M. and Harry B. Helmsley Charitable Trust . Any opinions, findings, or recommendations expressed in this report are those of the authors and do not necessarily reflect the views of our funders.
+General operating support for the Center for an Urban Future has been provided by The Clark Foundation , Robin Hood , and the Altman Foundation . We are also grateful for support from Fisher Brothers Foundation for the Center for an Urban Future’s Middle Class Jobs Project, and ongoing support from a number of other philanthropic funders.
+Cover photo credit:  Jamaica Bay-Rockaway Parks Conservancy.
+Related Press
+NYC Has 12,000 Acres of Forests, Wetlands & Other Natural Areas. Many Lifelong New Yorkers Don’t Know They Exist.
+City Limits ,
+by Jeanmarie Evelly,
+August 06, 2026
+Report: New Yorkers lack access to city’s natural spaces
+Spectrum News NY1 ,
+by Erin Billups,
+August 23, 2026
+This organization hosts hiking trips centered around Black and Brown New Yorkers
+Bronx Mama ,
+August 14, 2026
+This report was made possible by a grant from The Leona M. and Harry B. Helmsley Charitable Trust . Any opinions, findings, or recommendations expressed in this report are those of the authors and do not necessarily reflect the views of our funders.
+Related Publications
+7831|7647|7478|7394|7358|7332
+•
+10 Ideas for Expanding Equitable Access to Natural Areas
+•
+Putting the “Rec” Back in NYC Parks & Recreation
+•
+The Park Queens Deserves
+•
+Expanding Concession Opportunities in NYC’s Parks
+•
+New York City’s Green Economy Opportunity
+•
+Enacting a Ticket Surcharge to Strengthen New York City’s Parks
+Related Press
+NYC Has 12,000 Acres of Forests, Wetlands & Other Natural Areas. Many Lifelong New Yorkers Don’t Know They Exist.
+City Limits
+Report: New Yorkers lack access to city’s natural spaces
+Spectrum News NY1
+This organization hosts hiking trips centered around Black and Brown New Yorkers
+Bronx Mama
+View More Related Press
+Related Press
+NYC Has 12,000 Acres of Forests, Wetlands & Other Natural Areas. Many Lifelong New Yorkers Don’t Know They Exist.
+City Limits
+Report: New Yorkers lack access to city’s natural spaces
+Spectrum News NY1
+This organization hosts hiking trips centered around Black and Brown New Yorkers
+Bronx Mama
+We're Hiring
+Managing Editor
+Search
+@nycfuture
+Follow @nycfuture
+CUF in the News
+Changing Careers: New York City Expands Free College Tuition Program for Adults
+Forum Daily New York
+Mayor Zohran Mamdani doubles individual artist grants in New York City to $10,000
+Artsy
+New York expands free SUNY and CUNY tuition to those with college degrees
+News 10 ABC
+Should AI Be Regulated City by City? New York Should Think Carefully Before Answering
+AlleyWatch
+New York’s retail storefront strategy: cut it in half
+The Real Deal
+Mamdani Doubles Grants for NYC Artists
+Hyperallergic
+Cost of retirement on Long Island squeezing seniors, forcing them to cut back
+Newsday
+View More Press
+•
+© All Rights Reserved.
+Content
+• Reports • Commentary/Op-Ed • Testimony • Data • Events • Impact
+Topics
+• Economic Growth • Economic Opportunity • Entrepreneurship • Immigrants • Boroughs • Small Business • Human Capital • Higher Education • Creative Economy • Tech
+Follow
+Support
+• Internships
+• Support the Center
+• Contact
+Center for an
+Urban Future
+80 Eighth Avenue, Suite 704
+New York, NY 10011
+212-479-3344
+[email protected]
+© All Rights Reserved.
+x
+
+===== SOURCE: report PDF =====
+AUGUST 2026
+Harnessing  
+NYC’s Natural Areas
+Connecting New Yorkers  
+to the City’s Wild Places
+Harnessing NYC’s Natural Areas  is a 
+publication of the Center for an Urban Future. 
+Researched and written by John Surico and  
+Eli Dvorkin. Edited by Dorian Block and Irene 
+Connelly. Data analysis by Rachel Neches. 
+Additional research by Harry Frahn, Zamira 
+Frost, Bella Hung, Nora Lewis, Yona Litwin,  
+Lina Mazioui, Julia Ross, and Samuel Weidman. 
+Designed by Stislow Design.
+Center for an Urban Future (CUF) is a leading 
+think tank focused on building a stronger  
+and more equitable economy in New York City, 
+and expanding economic opportunity for all 
+New Yorkers.
+ 
+Funded by a grant from The Leona M. and Harry 
+B. Helmsley Charitable Trust. Any opinions, 
+findings, or recommendations expressed in this 
+report are those of the authors and do not 
+necessarily reflect the views of our funders.
+General operating support for the Center  
+for an Urban Future has been provided by  
+The Clark Foundation, Robin Hood, and the 
+Altman Foundation.
+ 
+ 
+ 
+ 
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+CHIEF OF STAFF
+Stephanie Arevalo
+SENIOR DATA & POLICY RESEARCHER
+Rachel Neches 
+SENIOR FELLOW FOR CLIMATE & OPPORTUNITY
+John Surico 
+POLICY RESEARCHER
+Alejandra Díaz-Pizarro
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo 
+BOARD OF DIRECTORS
+Gifford Miller (Chairman)
+Jonathan Bowles 
+Rafael E. Cestero 
+Russell Dubner 
+Garnesha Ezediaro 
+Susan Fine 
+Kyle Kimball 
+Katy Knight 
+Jessie Lazarus 
+David Lebenstein 
+Eric S. Lee 
+Josh Moskowitz 
+Monisha Nariani 
+Max Neukirchen 
+Andrew Reicher 
+Peter Schubert 
+John Siegal 
+Thomas Vecchione 
+Sherry Wang 
+Kate Wittels
+Cover Photo: Jamaica Bay-Rockaway 
+Parks Conservancy
+
+Harnessing NYC’s Natural Areas: 
+Connecting New Yorkers to the City’s Wild Places
+Introduction ..............................................................  1
+NYC Faces Major Challenges in Connecting New Yorkers to Natural Areas .......... 5
+Why Time in Nature Matters for New Yorkers  ................................  13
+NYC Is Making Progress on Natural Areas, But Significant Gaps Remain  .........  15 
+Best Practices: Maximizing Benefits of NYC’s Natural Areas  ...................  18
+Conclusion .............................................................  20
+Table of Contents
+1
+HARNESSING NYC’S NATURAL AREAS1
+Harnessing NYC’s Natural Areas:  
+Connecting New Yorkers to the City’s  
+Wild Places
+1
+NEW YORKERS ARE MORE STRESSED, MORE SCREEN-BOUND, AND MORE DISCONNECTED THAN EVER, AND ONE OF  
+the most effective antidotes is hiding in plain sight: the more than 12,000 acres of city-managed forests, wetlands, streams, 
+and other wild landscapes woven across the five boroughs.1 From the wooded trails of Central Park’s North Woods to the salt 
+marshes of Jamaica Bay, the forests of Staten Island’s Greenbelt, and the rocky shoreline of Pelham Bay Park, New York City 
+boasts a treasure trove of natural areas. These local assets provide access to nature for the millions of New Yorkers without 
+the means to visit hiking trails or waterfronts in the Hudson Valley, Long Island, or other parts of the surrounding region.
+But despite their scale and potential, the city’s natural areas remain largely invisible and underused. While about half 
+of New Yorkers use the city’s public parks each week, far fewer are experiencing the city’s natural areas. Only about 
+380,000 New Yorkers—about 4.5 percent of the city’s population—participated in nature-based programming in 2024,  
+including programming offered by NYC Parks, according to a survey of over two dozen entities conducted for this report.2 And 
+because many are repeat visitors, the share is likely even lower. 
+Even in the city’s most prominent natural landscapes, engagement is limited: In Jamaica Bay, only about 4 percent  
+of park activity is tied to nature-focused uses like hiking or birding. 3 Among young New Yorkers, the gap is even more  
+pronounced, with programs like Trail Blazers reporting that up to 80 percent of participants do not regularly access green 
+space, even when they live nearby. 
+For many residents, especially in lower-income communities and communities of color, spending time in nature can 
+feel like a largely inaccessible luxury. According to the educators and youth development practitioners interviewed for this 
+report, many young New Yorkers go their entire childhoods without ever setting foot in one of the city’s forests, wetlands, or 
+other natural areas. Part of the challenge is physical proximity: Fewer than half of all New Yorkers live within walking  
+distance of a natural area, and more than 2.2 million residents live in neighborhoods with none at all.4 But our interviews with 
+community leaders suggest that cultural perceptions and questions of who feels welcome in these spaces also play a role. 
+Where lower-income New Yorkers are accessing these spaces, it is often through community-based nonprofits. But 
+where these programs exist, demand far exceeds capacity. At the Hood Hikers, a community-based organization that  
+organizes hiking trips centered on Black and Brown residents, membership has grown to more than 5,000 since its founding 
+in 2020, and every event sells out. At Shorewalkers, a long-running nonprofit that leads group walks and hikes across the 
+city using public transit, the annual Great Saunter around Manhattan now draws thousands of participants and fills up in 
+less than a day. (This year saw 3,500 walkers on the route, and another 3,000 on the waitlist.) And at the Sebago Canoe 
+Club in Canarsie—a volunteer-run organization offering free kayaking and waterfront access along Jamaica Bay—staff and 
+volunteers regularly struggle to accommodate waitlists.
+At the same time, New York City’s natural areas are under growing strain, and receiving less support. Although these 
+landscapes make up roughly one-third of all parkland, they receive just 2 percent of the city’s parks operating budget.5 The 
+city’s capacity to care for these spaces has declined sharply: Acres maintained have fallen from 1,224 in fiscal year (FY)  
+2023 to 569 in FY 2025—a drop of more than 50 percent in two years—while tree planting in natural areas has also declined 
+significantly.6 Last year, just 4.7 percent of natural areas received any maintenance, and the entire system is managed by 
+just 102 staff. 
+To its credit, NYC Parks and its partners have built important foundations to expand access and care. Urban Park Rangers 
+and Stewardship programs have long connected New Yorkers to the city’s wild spaces; the Natural Areas Conservancy (NAC) 
+has advanced trail planning and restoration; and the city recently released its first-ever Urban Forest Plan. But the scale of 
+need now far exceeds the resources available. Our research suggests that realizing the promise and potential of the city’s 
+natural areas for the benefit of all New Yorkers will require sustained investment in staffing and maintenance, stronger 
+awareness and wayfinding, and new approaches to programming, partnerships, and funding—including tapping private and 
+philanthropic support alongside public dollars. This report advances research on the state of the natural areas care and 
+access ecosystem, and surfaces ideas from that research to ensure every New Yorker can experience meaningful time in 
+nature without leaving the city. 
+2
+HARNESSING NYC’S NATURAL AREAS
+Only 4.5 percent of New Yorkers engaged with New York City nature-based  
+programming in 2024
+ 
+               
+ 
+Source: CUF analysis of programming data provided to Center for an Urban Future by program providers, and participant 
+numbers taken from each organization's website. 2026. Created with Datawrapper
+Fewer than half of all New Yorkers live within a 10-minute walk of a natural area
+ 
+               
+ 
+ 
+ 
+Source: Center for an Urban Future analysis of data from the Natural Areas Conservancy and Census Block Maps
+
+3
+HARNESSING NYC’S NATURAL AREAS
+Research for this report, supported by a grant from The  
+Leona M. and Harry B. Helmsley Charitable Trust, draws on 
+interviews with more than 65 parks leaders, natural areas 
+advocates, environmental education organizations, commu-
+nity-based nonprofits, parks and open space alliances, and 
+stewardship groups across the five boroughs. The research 
+is also informed by an extensive analysis of public data from 
+NYC Parks and other sources.
+New York City’s natural areas may be one of its most 
+untapped assets. They offer a rare combination of benefits 
+that are especially important in a city like New York. A grow-
+ing body of research shows that time in nature—even as lit-
+tle as 15 minutes—can reduce stress, improve mood, and 
+support mental health, with the strongest benefits linked to 
+more immersive settings like urban forests.7 These impacts 
+are especially pronounced for young people, at a time when 
+nearly 40 percent of New York City high school students  
+report feeling persistently sad or hopeless, the highest rate 
+on record.8
+Natural areas also serve as living classrooms, offering 
+hands-on environmental education and workforce pathways, 
+while playing a critical role in mitigating climate impacts, 
+from absorbing stormwater to reducing extreme heat. And at 
+a time when the city feels more unaffordable than ever, these 
+spaces offer one of the few opportunities for New Yorkers to 
+access meaningful recreation and respite at no cost.
+They also play a critical role in addressing environmen-
+tal inequities. In neighborhoods along the Bronx River, for 
+example, natural areas help mitigate the impacts of pollu -
+tion, extreme heat, and noise from nearby highways, provid-
+ing measurable improvements to both environmental and 
+public health conditions. “When you go into a thicket of 
+trees, that changes,” says Victoria Toro, outreach manager 
+of the Bronx River Alliance, a nonprofit that cares for and 
+programs activities on the Bronx River. “Natural areas miti -
+gate the extreme heat, pollution, and noise that is so dam -
+aging to people’s mental and physical health. And these 
+spaces are cleaning the air, too. We’re full of these hidden 
+gems that people don’t know how to physically get to.”
+Indeed, despite the many benefits provided by the city’s 
+natural areas, access remains highly inconsistent, and too 
+few New Yorkers are even aware of them. 
+A new Center for an Urban Future analysis finds that 
+fewer than half of all New Yorkers—47.7 percent, or about 
+4.2 million people—live within a 10-minute walk of a natural 
+area, compared to more than 84 percent who live within 
+walking distance of a park. 9 Our analysis also found that 
+just over a quarter of New Yorkers—26.1 percent, or roughly 
+2.2 million people—live in City Council districts without ac -
+cess to natural areas at all. Even along the city’s extensive 
+coastline, access is limited: Of 520 miles of waterfront, only 
+about 40 percent is publicly accessible.
+Even where natural areas exist nearby, many New York-
+ers remain unaware of them. In Manhattan’s Inwood Hill 
+Park, which contains one of the city’s last remaining old-
+growth forests, Elizabeth Jaeger, former deputy director of 
+the NAC, recalls working with a local videographer to cap -
+ture its trail system. “He said, ‘This was an easy job for me, 
+I live in Inwood Hill,’” she says. “I said, ‘That’s great, you 
+must love coming to this park.’ He told me he had never 
+been there.” The experience is not unusual. “In almost every 
+workshop we do, we hear the same thing,” Jaeger says.
+This gap between proximity and awareness means that 
+even in neighborhoods with access to natural areas, many 
+residents are not benefiting from them—underscoring the 
+need not only to expand access, but to make these spaces 
+more visible and welcoming to the communities they serve.
+While most New Yorkers still do not regularly access the 
+city’s natural areas, those who could benefit most are often 
+the least likely to do so. 
+At NYC Outward Bound Schools, which fosters adven -
+turous learning through real-world engagement and mean -
+ingful challenge in schools and the outdoors, staff report 
+that many participants are visiting major parks and natural 
+areas for the first time, even when they live nearby. Despite 
+New York City’s abundance of green space, many of the stu-
+dents the program serves do not experience natural areas 
+as truly accessible. “For many young people, it’s actually the 
+first time they’ve been there,” says Cal Hastings, the organi-
+zation’s vice president of partnerships and innovation.  
+“Experiences in nature are essential, because they help 
+young people—and all of us—disconnect from technology, 
+reconnect with one another, and benefit from the restor -
+ative power of the natural world.”
+Time constraints, work schedules, and caregiving  
+responsibilities all present real barriers, particularly for res-
+idents in communities of color. “As far as adults, they’re 
+working a lot, they’re taking care of people,” says Jasmine 
+Guadalupe, founder of the Hood Hikers. Guadalupe adds 
+that there are deeper barriers around who feels welcome in 
+outdoor spaces: “For decades, [outdoor recreation] has 
+been a predominantly white field,” she said in a 2024 inter-
+view. “Inner-city people might say, ‘You are going hiking? 
+That’s for white people.’”
+These challenges are especially pronounced for 
+younger New Yorkers and working families. At Trail Blazers, 
+a nonprofit that provides outdoor education and camping 
+experiences for about 1,300 low-income children annually, 
+up to 50 percent of their 400 after-school students  
+enrolled do not regularly go to a green space. “At one 
+school that we work with in Little Haiti, most of the  
+students are new immigrants or live in the homeless  
+shelter down the block,” says Shanna Gumaer, Trail  
+Blazers’ executive director. There, the rate is as high as 80 
+percent. “It’s a total green desert and not convenient to go 
+4
+HARNESSING NYC’S NATURAL AREAS
+to a park, especially when their parents are working two or 
+three jobs. It’s a real challenge for these families.”
+Our research focuses on five interconnected challenges 
+that help explain why relatively few New Yorkers are using 
+the city’s natural areas. The five challenges, which we ana -
+lyze in greater detail in the next section, include: 
+  Too few young New Yorkers are getting  
+meaningful exposure to nature.
+  Concerns about safety and belonging discourage 
+many New Yorkers from visiting natural areas.
+  Transit and connectivity challenges make many 
+natural areas difficult to reach.
+  Chronic underinvestment leaves many natural 
+areas understaffed and undermaintained.
+  Climate change is increasing pressure  
+on natural areas.
+Ensuring that far more New Yorkers can benefit from time 
+spent in the city’s wild places is an achievable goal. Our  
+research suggests that this will require additional mainte -
+nance and staffing, expanded programming and partnerships 
+with community-based organizations, and new efforts to 
+raise awareness of what exists right here in the city. Another 
+key opportunity is to develop new, dedicated sources of 
+funding to support a new era for New York City’s natural  
+areas, including models that harness private and philan -
+thropic support, such as partnerships with outdoor retailers 
+to help maintain trails and steward these spaces. Employers— 
+from health care organizations and financial firms to schools 
+and city agencies—can also help drive awareness and  
+access by bringing their employees to the city’s natural  
+areas for offsites and retreats. 
+Recent experience shows that these investments can 
+work. Since 2019, temporary and seasonal Urban Park 
+Ranger positions have helped NYC Parks expand nature 
+walks, wildlife programming, youth activities, and skills-build-
+ing events. In FY 2027, those roles have finally been  
+baselined, rather than being funding one year at a time. When 
+resources are available, NYC Parks can effectively expand 
+access and engagement. The challenge now is sustaining 
+and building on that momentum.
+At the same time, city leaders can do far more to connect 
+New Yorkers to nature at scale, including piloting monthly  
+“Nature Days” that bring thousands of residents into parks; 
+launching a five-borough awareness campaign; expanding 
+access through transit and trails; and ensuring every public 
+school student has regular opportunities to experience the 
+outdoors. Equipped with a willingness to think creatively 
+about how New Yorkers discover and use these spaces, 
+the city can better harness the power of nature for both its 
+ecosystems and its residents—and build a more accessible, 
+widely used system of natural areas across the five boroughs.
+People walking through Forest Park in Queens  
+(Natural Areas Conservancy).
+5
+FROM LIMITED AWARENESS AND UNEVEN PROGRAMMING  
+to barriers in transit, safety, and chronic underinvestment, a 
+range of interconnected challenges continues to limit how—
+and whether—New Yorkers access the city’s natural areas.
+1. Too few young New Yorkers  
+are getting meaningful exposure 
+to nature.
+Lower-income families and underresourced schools 
+face significant gaps in access.
+At the Queens School of Inquiry in Fresh Meadows, 
+teacher Adam Zaid takes his students each month to near-
+by Cunningham Park, home to ancient woodlands, kettle 
+ponds, and glacial hills. After their first visit, students ask to 
+return regularly. “Once you realize you can hike there, you 
+are comfortable walking around the woods,” Zaid says. 
+“We’ve gone to the same places and looked at the same 
+things; the experience of calm you receive when being there 
+is there for you always.”
+At his school, Zaid organizes lessons and outings fo -
+cused on natural areas as part of his role as a “sustainabil-
+ity coordinator”—an extracurricular Department of Educa -
+tion position meant to support sustainability curriculum and 
+programming that he holds in addition to teaching. But his 
+capacity to do this work is rare across the school system. 
+“Most schools don’t allot this many teaching periods to the 
+position,” he says. “Many teachers in the public schools are 
+not even aware of the position.”
+This gap reflects a broader underinvestment in access 
+to nature for children, even as NYC Parks serves as a key 
+asset in narrowing these gaps. Youth-focused programming 
+from NYC Parks and partner organizations reaches about 
+152,000 school-age New Yorkers—roughly 9 percent of the 
+city’s under-18 population.10 Of these, only about one in five 
+are spending time in the city’s wild places. While school-
+aged children tend to participate in nature-based program -
+ming at higher rates than New Yorkers overall, the vast  
+majority still go without meaningful exposure. These school- 
+based programs are especially important, as many families 
+are not comfortable exploring nature on their own, and  
+lower-income families often lack the time due to work and 
+caregiving responsibilities.
+Demand far exceeds capacity. Nearly 4,000 students 
+participate in NYC Outward Bound Schools programs each 
+year, yet requests outpace available slots. At the Alley Pond 
+Park Environmental Center, demand is so high that pro -
+grams book out within weeks. “We’re one of the few environ-
+mental centers in Queens,” says executive director Irene 
+Scheid. “One of our biggest issues is the waitlist—we’re 
+booked for the whole school year in just a few weeks, and 
+don’t have the space to expand. People are craving experi -
+ential outdoor learning in New York City.”
+Access is also shaped by school resources. “We get so 
+much interest from private schools and schools with more 
+resources,” says Andrea Parker, executive director of the 
+Gowanus Canal Conservancy. “There’s just a huge need. We 
+do a lot of outreach to Title I schools, but it’s a lot more dif-
+ficult to get them to come out for field trips, which require 
+resources such as buses and chaperones.”
+Educators describe the system as fragmented and in -
+consistent. “Ad hoc,” says Aurelia Casey, the Gowanus Ca -
+nal Conservancy’s senior manager of youth programs. 
+Teachers must know what programs exist and have the in -
+stitutional support to participate, conditions that are far 
+from guaranteed. To bridge that gap, the Conservancy funds 
+professional development for teachers and expands access 
+to programs along the canal, where students learn about 
+local ecosystems, restoration, and water quality.
+For many students, these experiences are transforma -
+tive. “The students really find what they’re interested in,” Ca-
+sey says. “Some like science; others don’t mind getting dirty. 
+It can be eye-opening.” Casey herself was introduced to envi-
+ronmental work through a youth environmental workforce 
+program for teenagers. “I got into a lot of trouble as a teenag-
+er,” she says. “But the minute I found this out—that I could 
+make a living being outside—I became a total nerd for it.”
+These disparities have long-term consequences. Re -
+search suggests that children in wealthier neighborhoods 
+are far more likely to visit natural areas than those in low -
+er-income communities, patterns that tend to persist into 
+adulthood.11 On Staten Island, where access to natural areas 
+is more abundant, outdoor activity is more deeply ingrained. 
+“You would routinely grow up knowing you could camp on 
+Staten Island,” says Lynn Kelly, executive director of the New 
+York Restoration Project and a Staten Island native.
+NYC Faces Major Challenges in Connecting 
+New Yorkers to Natural Areas
+6
+HARNESSING NYC’S NATURAL AREAS
+Organizations across the city are working to close these 
+gaps. Along Newtown Creek, educators introduce students 
+to the history and restoration of one of the city’s most polluted 
+waterways. “If you learn about the creek when you’re young, 
+you’re much more likely to care about it,” says Willis Elkins, 
+executive director of the Newtown Creek Alliance.
+But these efforts remain limited by resources. “We 
+know that teachers are overwhelmed in the classroom, and 
+they find it very difficult to get kids out, but it’s not because 
+they don’t want to,” says Chrissy Word, director of education 
+at the City Parks Foundation. “What they look for often is 
+free programming because schools have to prioritize many 
+other things in their budgets, particularly special education 
+services.” While organizations help subsidize costs, funding 
+constraints persist, and asking parents to foot the bill for  
+a school bus or activity fee can be a major limitation in  
+lower-income districts.
+Yet the potential impact is enormous. Exposure to  
+nature at a young age is one of the strongest predictors of 
+lifelong engagement,  and even small amounts of exposure 
+can make a lasting difference. “It’s amazing what a tiny little 
+bit of contact with nature does to a kid,” says Tamar Renaud, 
+New York State director at the Trust for Public Land.
+2. Concerns about safety and 
+belonging discourage many New 
+Yorkers from visiting natural areas.
+Even when natural areas are accessible, many  
+New Yorkers do not feel comfortable using them.
+In the Bronx’s Pelham Bay Park—the city’s largest natu-
+ral area—trainees in Green Applied Projects for Parks, a pro-
+gram run by NYC Parks, often enter parts of the park they 
+had previously avoided entirely. “Many had never been there 
+or even knew there was a body of water there—they never 
+hiked trails or canoed before,” says Liza Ehrlich, executive 
+vice president and chief operating officer of the Horticultural 
+Society of New York. “And it was just this constant drumbeat: 
+‘Is this space for me? Am I going to get accused of a crime 
+for being there? Am I going to get arrested?’ It’s really layered.” 
+These concerns reflect a broader reality: For many New Yorkers, 
+particularly those from marginalized communities, natural areas 
+can feel unfamiliar or unwelcoming.
+Throughout our research, interviewees point to a range 
+of perceptions that discourage use. Not feeling welcome as 
+a person of color—highlighted starkly in 2020, when a Black 
+birder had the police called on him in Central Park—is cited 
+repeatedly. For others, safety concerns loom large. “There’s 
+a real mental block that one has,” says Kelly of the New York 
+Restoration Project. “If I go for a run along this trail, and it’s 
+isolating and there are no lights and I’m a female alone, I’m 
+not going to do that.”
+In some cases, these perceptions are reinforced by real 
+conditions on the ground. During a recent visit to Forest 
+Park, many lampposts along hiking trails were found to  
+be  nonworking, a choice made to limit light pollution, but 
+which also has the effect of reducing perceptions of safety. 
+(The lampposts have been left in place while awaiting a  
+capital funding allocation.) A more consistent presence of 
+park staff could help address these concerns, but staffing  
+remains highly constrained. In FY 2026, NYC Parks employs 
+just 300 Parks Enforcement Patrol officers for approximately 
+30,000 acres, leaving large areas of parkland with minimal 
+coverage.
+Addressing these barriers will require more than physical 
+access improvements. Expanding staff presence, improving 
+maintenance, installing lighting where appropriate, and  
+fostering a stronger sense of community ownership will all 
+be critical to making natural areas feel safe and welcoming. 
+Policy Idea: “Nature for All NYC”
+WHILE THE DEPARTMENT OF EDUCATION HAS MADE PROGRESS ON SUSTAINABILITY EDUCATION, MUCH  
+more can be done. New York City could make outdoor learning universal with a “Nature for All NYC” initiative that 
+could ensure that every public school student participates in a nature-based experience each year with expanded 
+field trips, increased Ranger and educator visits—including sending Rangers to visit public school classrooms—and 
+support for partnerships with nonprofits and other agencies. One idea surfaced through this research is for the city 
+to start with fourth graders, mirroring the federal Every Kid Outdoors initiative, and work with New York City Public 
+Schools to develop a nature curriculum with an outdoors component. This initiative could build on the success of 
+a current Parks-Schools partnership, Swim for Life, which focuses on teaching second graders how to swim. Over 
+time, this would make outdoor learning a regular part of every student’s experience, helping to build familiarity, 
+confidence, and long-term engagement.
+7
+Community-based programming can also play an important 
+role in building that sense of belonging. At the NYC Bird  
+Alliance, for example, outings are offered across all five  
+boroughs, including in Spanish and Mandarin, helping to 
+reach New Yorkers who may not otherwise see themselves 
+reflected in these spaces. “Something that we have really 
+focused on is making sure that our programming is accessible,” 
+says Tasha Naula, the organization’s public programs  
+manager. “Part of that is inviting those who are traditionally 
+not invited into natural spaces to participate.”
+3. Transit and connectivity 
+challenges make many natural 
+areas difficult to reach.
+Even when New Yorkers are interested in visiting these 
+spaces, they often face difficult journeys.
+In public workshops, Emily Walker, former senior manager 
+of external affairs at NAC, says transportation comes up 
+again and again. “We hear a lot of feedback that some of 
+the natural areas that exist are serviced by bus lines that 
+often get rerouted on weekends,” she says. “So there’s this 
+missing piece, where one hand is not talking to the other. 
+We’re not a transit organization and parks are not often 
+seen as a transit issue, but transit is how New Yorkers get to 
+parks and natural areas.”
+For many of the city’s largest and most ecologically  
+rich landscapes, the challenge is even more pronounced. 
+“Throughout Staten Island, some of our most essential 
+roads are mostly just two-lane roads that go to and from, or 
+often straight through, these huge, beautiful areas,” says 
+Andy Blancero, a borough native who previously worked as  
+director of development for the Freshkills Park Alliance. The 
+nature center in Staten Island’s Greenbelt—a 2,800-acre 
+network with nearly 40 miles of trails—is nearly impossible 
+to access without a car. “If you try to take a bus there, you 
+can get to an intersection that’s so far off the side—about a 
+third of a mile walk—with no sidewalk along the road that 
+goes there,” Blancero says. The same applies to wild areas on 
+the borough’s South Shore. “The best way to get to something 
+like Blue Heron Park Nature Center, via train or bus, also  
+requires an awkward and scary road with no space but for 
+speeding drivers.”
+Barriers exist even in more densely populated parts of 
+the city. At Ridgewood Reservoir, a 50-acre wetland on the 
+Brooklyn–Queens border, the nearest Citi Bike station is a 
+mile away and bus access is limited. “The reservoir, which is 
+in the center of a community of real need, was created in a 
+Robert Moses kind of vision,” says Peter Frishauf, president 
+of the board of NYC H2O, a nonprofit that leads free tours  
+of the reservoir. “You’d drive up near the Jackie Robinson 
+Parkway and park your car. Even if you wanted to walk, there 
+were no sidewalks.”
+Local groups have made progress in improving access. 
+NYC H2O has partnered with Ridgewood Rides and success-
+fully advocated for curb extensions, bike lanes and a potential 
+new Citi Bike station, helping to boost visitation. “We’ve  
+really pushed it to become a more inclusive area, and usage 
+has skyrocketed,” Frishauf says. “But still, gaps remain.”
+Policy Idea: Increasing perceptions of safety and  
+belonging via Urban Park Rangers
+SAFETY CONCERNS REMAIN A MAJOR BARRIER TO VISITING NATURAL AREAS, PARTICULARLY FOR WOMEN 
+and people of color. Many of these spaces are lightly trafficked and lack a consistent public presence, reinforcing 
+perceptions that they are unsafe or unwelcoming. Expanding access will require more than enforcement alone: It 
+will take a regular, visible presence from staff who can welcome visitors, lead programming, answer questions, and 
+help New Yorkers feel comfortable exploring these spaces.
+Our research suggests that one high-potential option for policymakers is to strengthen the capacity and role 
+of Urban Park Rangers in natural areas, creating a more consistent and visible human presence in the park sys -
+tem’s less-trafficked areas. This strategy could enable Rangers to spend more time building public confidence, 
+guiding visitors, leading programs, and supporting safe use of wild places. NYC Parks could also explore creating 
+a dedicated natural areas safety team, with consistent assignments in forests, wetlands, trails, and waterfront 
+spaces. Together, a stronger Ranger presence and a specialized safety team could increase visibility, and help 
+break the cycle of underuse that keeps many natural areas feeling isolated.
+8
+HARNESSING NYC’S NATURAL AREAS
+These accessibility challenges can create a self-rein -
+forcing cycle. When transit options are limited, fewer New 
+Yorkers visit, reducing overall awareness and weakening the 
+case for further investment. At Jamaica Bay, one of the city’s 
+most expansive natural areas, the length and complexity of 
+the trip deters many would-be visitors. “Access and aware -
+ness must be built together, where transportation to natural 
+areas is treated not as a response to existing demand, but 
+something to build through planning and investment,” says 
+Terri Carta, executive director of the Jamaica Bay-Rockaway 
+Parks Conservancy. “When access to places like Jamaica 
+Bay is visible, intuitive, and well-connected, you expand who 
+uses these spaces and therefore who advocates for their 
+long-term care.”
+In a city where most residents rely on public transporta-
+tion, those connections are essential. Groups like Shore -
+walkers structure their outings entirely around transit ac -
+cess. “We don’t do any carpooling,” says Pam Cress, the 
+organization’s president. “It’s all subways, buses and trains. 
+That’s been our mission since 1982.” But for many destina-
+tions, those connections remain incomplete.
+These challenges also affect school access, where 
+transportation is often contingent on scheduling and paying 
+for a school bus. “If you want to get the students out to Alley 
+Pond in Queens or Wave Hill in the Bronx—or Prospect Park 
+or Staten Island Greenbelt—you have to get the bus situation 
+better than it is,” says Mike Zamm, an emeritus member of 
+the Environmental Education Advisory Council.
+Recent investments in greenways have begun to improve 
+access, linking neighborhoods to waterfronts and natural 
+areas. Advocates say even small improvements—like better 
+signage and wayfinding—can make a difference. “As our  
+greenways start to get longer and more interconnected, 
+these simple signs help establish a sense of place that’s 
+missing right now,” says Joby Jacob, a founder of the Eastern 
+Queens Greenway. “Those who are interested should at 
+least be made aware of what exists in their neighborhoods.”
+4. Chronic underinvestment leaves 
+many natural areas understaffed 
+and undermaintained.
+Funding for natural areas has been inconsistent  
+and insufficient.
+The care of New York City’s natural areas has long been 
+underfunded, and in periods of fiscal stress, these resources 
+are often among the first to be cut.
+An analysis of NYC Parks data finds that although  
+forests, wetlands, salt marshes, and streams make up 
+roughly one-third of all parkland, they receive only a small 
+share of funding. Over the past five years, no additional city 
+expense dollars have been allocated to wetland restoration, 
+beyond the team’s seven permanent staff. Outside of a 
+one-time $430,000 investment in FY 2022, natural areas 
+construction and green infrastructure have received no city 
+expense funding, although the agency has been able to  
+secure funding through state and federal grants. Most city 
+spending has gone toward forest restoration and steward -
+ship, totaling just $590,000 in FY 2025—down sharply 
+from $5.5 million in FY 2022.
+On the capital side, investment has been similarly  
+inconsistent. The Natural Resources Group (NRG), the  
+division within NYC Parks responsible for stewarding natural 
+areas, has received strikingly little capital funding in some 
+recent fiscal years. Funding has fluctuated widely. For instance, 
+the agency received $7.1 million in wetland restoration 
+funds in FY 2022 following Hurricane Ida, then none the  
+following two years. Data shows a similar gap in landscape 
+construction funds, with no dollars allocated in FY 2023 or FY 
+2024. Funding gaps and unpredictability have resulted in a 
+backlog of unfunded projects, including public access and 
+habitat restoration at Vernam Barbadoes Peninsula in the 
+Rockaways, public access and upland restoration at Spring 
+Creek Park on the Brooklyn-Queens border, and  
+restoration work at Snug Harbor’s North Forest.
+Policy Idea: Piloting citywide “Nature Days”
+TO ADDRESS THE BARRIERS THAT PREVENT MANY NEW YORKERS FROM ACCESSING THE CITY’S NATURAL 
+areas, the city could pilot a bold, highly visible initiative such as a series of monthly, citywide “Nature Days” during 
+the warmer months. On select weekends, NYC Parks—working with the Department of Transportation and the 
+MTA—could coordinate enhanced access through shuttle buses, expanded transit service, guided hikes, and  
+family-friendly events. A one-year pilot would allow the city to test demand, identify high-interest sites, and build 
+the case for permanent improvements to access and programming.
+9
+HARNESSING NYC’S NATURAL AREAS
+New York City cares for less than half of the natural area it maintained two years ago 
+Newly baselined funding can help the city reverse this trend going forward
+ 
+               
+ 
+ 
+ 
+Source: The City of New York, Mayor's Management Report, 2025, https://www.nyc.gov/assets/operations/downloads/pdf/
+mmr2025/2025_mmr.pdf. Created with Datawrapper
+New York City’s natural areas are a major component of total parkland but, due to 
+multiple factors, receive a small share of annual spending
+ 
+               
+Source: Natural Areas Conservancy, "Funding Forested Natural Areas: Recent Trends in New York City," 2023,  
+https://naturalareasnyc.org/wp-content/uploads/2024/01/NAC-Funding-Forested-Natural-Areas.pdf 
+Created with Datawrapper
+
+10
+HARNESSING NYC’S NATURAL AREAS
+Limited staffing leaves most natural areas  
+without regular care.
+Despite overseeing more than 12,000 acres of natural 
+areas, the NRG has a staff of just 102 employees—about 
+one for every 120 acres—and accounts for only 1 percent of 
+NYC Parks’ total headcount. As a result, most natural areas  
+receive little to no regular maintenance. In FY 2025, just  
+4.7 percent of NRG-managed land—569 acres in total, an 
+area smaller than Central Park—received any upkeep, a 54 
+percent decline over the past two years.
+For New Yorkers, these gaps translate into spaces that 
+are often difficult to access, poorly maintained, or effectively 
+off-limits. Trails and entry points fall into disrepair, and the 
+lack of a consistent staff presence can reinforce safety  
+concerns. In Forest Park, for example, a single staff member 
+is responsible for maintaining nine miles of trails across a 
+165-acre forest—the largest of its kind in Queens.
+For those who rely on these spaces, the consequences 
+are immediate. Jessica Halsrud, founder of the Kew Kids 
+Forest School, brings young children into Forest Park daily, 
+but often must organize community cleanups herself. “The 
+problems are around trash and cleanliness,” she says,  
+noting issues ranging from broken glass to human waste, as 
+well as trails that become impassable when trees fall or 
+rocks slide. “It gives the impression that this is not a good 
+place to be. People turn away from this incredible resource.”
+Programming and education efforts are constrained 
+by limited resources.
+Programming is one of the most effective ways to connect 
+New Yorkers to natural areas, but it remains limited in scale. 
+Studies and interviews conducted for this report consistently 
+find that when people are introduced to these spaces 
+through guided activities, they are far more likely to return 
+and bring others with them. “The programming part is really 
+important,” says Paul Steely White, executive director of 
+Parks & Trails New York. “Because if you can have an attrac-
+tive event that turns people onto that space, then they know 
+where it is and how to get there. You’re beginning to estab-
+lish that habit.”
+Yet most programming is delivered by community 
+groups with limited capacity. Across the city, these activi -
+ties—ranging from hikes and birding outings to waterfront 
+kayaking and environmental education—are often organized 
+by volunteers, schools, and nonprofit organizations, and are 
+concentrated in a relatively small number of locations.  
+“Most of the programming is really led by the community,” 
+says Chauncy Young, co-chair of the NYC Greenway  
+Coalition. “We’re not Central Park—we don’t have an  
+alliance with millions of dollars. So there’s always going to 
+be that inequity in terms of what resources are available.”
+City-led capacity is also constrained. The Urban Park 
+Rangers—the city’s primary environmental educators—  
+remain stretched thin, with roughly one Ranger for every 
+100,000 New Yorkers. Staffing has remained relatively flat, 
+with about 40 permanent Rangers since 2007. Today, there 
+are 94 Rangers citywide. In FY 2026, Rangers led more 
+than 4,700 programs citywide, reaching over 115,000 New 
+Yorkers, a clear indicator that these programs are welcomed 
+by residents when they are available. That reach could grow 
+significantly with expanded staff capacity and less year-to-
+year uncertainty. 
+“Many natural areas don’t have environmental education 
+programs going on,” says Janice Melnick, former NYC Parks 
+administrator in Northeast Queens. “[The Rangers] have a 
+unique set of skills . . . but we have so few of them.” 
+Even as demand grows, the system lacks staffing and 
+resources to scale up programming and meet it. On the wa-
+Policy Idea: Planning for the long-term care needs 
+of NYC’s natural areas
+FOR YEARS, THE CAPITAL AND EXPENSE DOLLARS COMMITTED TO THE CITY’S NATURAL AREAS HAVE NOT 
+kept up with maintenance needs or rising demand, even as these spaces face mounting pressures from climate 
+change and increased usage. In addition to reckoning with the true cost of effective natural areas care and  
+maintenance, New York City will need more creative approaches to closing the gap between current capacity and 
+the scale of need across more than 12,000 acres of natural areas. Public-private partnerships, philanthropic  
+support, and state tourism and environmental funding streams could all play a larger role in that effort. A five-year 
+roadmap could help align existing programs and partners, identify promising models, and establish clear goals for 
+acreage maintained, visitor participation, programming, and long-term stewardship. Such an effort could bring 
+public, nonprofit, private, and philanthropic stakeholders together to support a new era of access to nature.
+11
+HARNESSING NYC’S NATURAL AREAS
+terfront, for example, volunteer-run boathouses offer free 
+kayaking and canoeing trips across the city, but access is 
+constrained by a limited number of launch sites and staff. 
+“Our goal is just to get as many people out on the water as 
+possible,” says Mike Petite, co-founder of the Manhattan 
+Community Boathouse. “But the number one limiting factor 
+is that there are only so many places people can get on.” 
+Where access is available, the response is clear. “When our 
+kayaking is free, our demographics reflect the city’s demo -
+graphics,” says Graeme Birchall, former president of the 
+Downtown Boathouse. “In other words: People want to get 
+on the water.”
+Nonprofit partners are filling critical gaps,  
+but at limited scale.
+Across the city, groups like the NAC, the Central Park 
+Conservancy, and the Van Cortlandt Park Alliance have 
+stepped in to maintain trails, restore ecosystems, and  
+support visitor engagement. The NAC’s Pathkeepers  
+program includes about 150 volunteers who “adopt” trails 
+throughout the city, while the Van Cortlandt Park Alliance 
+funds additional staff to manage more than 40 miles of 
+trails across three distinct forest systems.
+But these efforts are uneven and limited in scale. 
+“There’s very little money that goes into trails every year,” 
+says Jaeger, formerly of the NAC. “NYC Parks has two  
+full-time employees and two seasonal employees—for  
+almost 300 miles of trails.” In many areas, volunteer labor 
+is expected to fill the gap, even when the work is physically 
+demanding and requires specialized skills. In some cases, 
+community organizations feel that they are obligated to take 
+on maintenance responsibilities that exceed their capacity 
+in order to deliver the access that their communities need. 
+At Idlewild Park in Southeast Queens, the Eastern Queens 
+Alliance advocated for new trails through a 160-acre Forever 
+Wild area, a designation given to park areas with significant 
+natural habitats. As part of the approval process, the  
+organization has been asked to commit to maintaining the 
+trails that extend beyond NYC Parks’ typical maintenance 
+capacity. “We have pushed for it,” says Barbara Brown, the 
+group’s chair, “but now we’re being asked to guarantee that 
+we’re going to maintain the trails.”
+The result is a system that depends heavily on nonprofit 
+partners to fill critical gaps, but without the consistent public 
+investment needed to support and sustain their work at scale.
+5. Climate change is increasing 
+pressure on natural areas.
+New York City’s natural areas are not only critical to 
+the city’s climate resilience, they are increasingly at 
+risk from the very impacts they help mitigate.
+Forests, wetlands, and other natural systems serve as 
+carbon sinks, absorb stormwater, and help cool neighbor -
+hoods during extreme heat. But these landscapes are  
+facing growing stress from more intense storms, shifting 
+precipitation patterns, and rising temperatures. Over a  
+ten-year period, from 2014 to 2024, the NAC found that  
+invasive vines—which can kill trees and other plantings—
+rose by 9 percent, appearing in 91 percent of its monitored 
+plots.12 Meanwhile, research from Rebuild by Design  
+projects that by 2100, more than two-thirds of the city’s 
+parks will fall within flood zones.13
+Policy Idea: Modernizing the city’s 300-plus miles of trails
+TRAILS ARE ESSENTIAL TO MAKING NATURAL AREAS ACCESSIBLE, PROVIDING SAFE PATHWAYS THROUGH 
+ecologically sensitive environments and helping visitors navigate unfamiliar terrain. The city could strengthen the 
+current network by conducting a reassessment of its existing trail system to identify routes that are difficult to find, 
+informal, or ecologically harmful. This effort could identify which trails need sustained maintenance, improved 
+signage, formalization, rerouting, or closure, while also exploring carefully targeted opportunities to improve access 
+where trails can be added without harming natural areas. At the same time, NYC Parks could partner with private- 
+sector firms and nonprofit experts to modernize trail maps, digital navigation tools, and wayfinding, making it easier 
+for residents to discover and explore the city’s natural spaces safely and responsibly.
+12
+These pressures are increasing the cost of maintaining 
+already under-resourced systems. According to the NAC, 
+maintaining a healthy forested area now costs about 
+$1,037 per acre annually—roughly $20.7 million per year 
+across the city’s natural areas. 14 Recent one-time grant 
+funding has helped address some needs, including state 
+grants for invasive species management, but ongoing city 
+expense funding for forest care has not exceeded $5.5  
+million in any recent fiscal year.
+Responding to climate risks also requires major capital 
+investment. Retrofitting natural areas to better absorb storm-
+water can cost tens of millions of dollars. The Bluebelt system 
+on Staten Island, which uses natural landscapes to manage 
+flooding, cost $110 million to build, while the East Side Coastal 
+Resiliency Project is expected to cost nearly $1.5 billion to 
+protect vulnerable parkland along the East River.
+Forest care and climate resiliency projects protect 
+against events like the 2024 brush fire in the Ravine in  
+Prospect Park—Brooklyn’s largest upland forest—which  
+destroyed two acres of tree canopy after weeks of dry condi-
+tions exacerbated by deferred maintenance. The Ravine will 
+take years, if not decades, to recover.
+Even in parks with strong nonprofit partners, resources 
+are stretched thin. Following the Ravine fire, the Prospect 
+Park Alliance secured funding to expand its ecological staff, 
+meeting only some of the need. “We’re stewarding more 
+acres than our current resources can support, under greater 
+pressure from increased climate risks,” says Leila Mougoui 
+Bakhtiari, the Alliance’s director of landscape management. 
+“At the same time, our team brings decades of experience 
+in natural areas restoration and continues to deliver 
+high-quality work across the park.” 
+Policy Idea: Unlocking benefits for youth and natural areas in one
+YOUTH UNEMPLOYMENT IN NEW YORK CITY REMAINS MORE THAN DOUBLE THE CITYWIDE AVERAGE AND has 
+risen in recent years, even as many young New Yorkers face elevated rates of loneliness, anxiety, and other mental 
+health challenges. At the same time, the city’s forests, wetlands, trails, and shorelines need far more hands-on 
+care than current staffing levels can provide. NYC Parks already operates promising youth stewardship programs, 
+including the Urban Park Rangers’ Ranger Conservation Corps, a free eight-week environmental conservation  
+internship that serves roughly 200 high school students annually, as well as Natural Resources Group youth and 
+young adult internships supported in part through the city’s Summer Youth Employment Program. But these  
+efforts remain far smaller than the scale of the opportunity.
+A larger “NYC Youth Conservation Corps” could build on these foundations by connecting more youth employ-
+ment opportunities to natural areas stewardship, with paid placements focused on trail building and maintenance, 
+tree care, horticulture, habitat restoration, shoreline stewardship, and visitor engagement. Participants could be 
+placed with NYC Parks, the NAC, other conservancies, and community-based partners across the five boroughs. 
+Corps members could also help introduce more young New Yorkers to the city’s natural areas through peer-to-peer 
+outreach and social media campaigns—something like “Trail Teens of TikTok”—spotlighting nearby hikes, water -
+fronts, forests, and volunteer opportunities in ways that feel authentic to their generation. The strongest programs 
+would not end with a summer paycheck: They would connect participants to year-round jobs, apprenticeships, 
+college programs, and industry-recognized credentials in forestry, horticulture, ecological restoration, landscape 
+management, and natural resource careers. By scaling proven models and linking immediate work experience to 
+real advancement opportunities, New York City could build the next generation of stewards for its natural areas 
+while creating meaningful pathways to economic mobility.
+13
+HARNESSING NYC’S NATURAL AREAS
+IN SO MANY PARTS OF THE CITY, THE CONCRETE JUNGLE  
+can feel far away. The rugged parks of Upper Manhattan  
+introduce visitors to the island’s glacial past of hills and  
+valleys. The wetlands of Pelham Bay Park, near the Bronx’s 
+Orchard Beach, offer space to walk along the Long Island 
+Sound. And Freshkills Park—a sprawling landscape emerg -
+ing from the remains of the city’s largest landfill—will soon 
+become the largest such space in the city. Beyond city-
+owned land, places like the Jamaica Bay Wildlife Refuge and 
+Shirley Chisholm State Park extend these opportunities 
+even further.
+For so many New Yorkers, the more than 12,000 acres 
+of city-managed natural areas are invaluable.15 They offer a 
+quiet escape for the roughly 20 percent of residents who 
+frequently endure excessive noise, which is linked to higher 
+stress, at home.16 They are a place to breathe amid poor air 
+quality, which worsens asthma and cardiovascular disease, 
+conditions especially pronounced in low-income communi -
+ties. And when indoor and private spaces may feel cost-pro-
+hibitive or less welcoming, the outdoors provide an accessi-
+ble, affordable alternative.
+Yet only a fraction of New Yorkers are experiencing 
+these unique natural resources today and the powerful  
+benefits that come with spending time in them.
+In Brooklyn’s Marine Park, a 530-acre expanse of salt 
+marsh, Tasha LaDonna hosts workshops in “forest bathing,” 
+the Japanese-inspired practice of immersing oneself in  
+nature for a prolonged period. LaDonna, a certified instructor, 
+hadn’t seen anything like this activitiy offered where she 
+lives—and says people embraced it once they were intro -
+duced to an admittedly unfamiliar concept. The therapy has 
+documented benefits: According to research from Johns 
+Hopkins University, it can reduce blood pressure and  
+improve cognition. “We need something here, because not 
+everybody can leave the city to enjoy the forest and nature,” 
+she says. “And we shouldn’t have to—not if we have the  
+resources here.”
+In some parts of the city, natural areas have undergone 
+something of a renaissance since the pandemic. In Prospect 
+Park, staff have expanded trails to accommodate increased 
+usage. The Central Park Conservancy launched a Ranger 
+Corps in response to rising visitation. And across the city, 
+organizations that connect New Yorkers to nature report 
+sustained, often unprecedented demand for programming 
+and guided experiences. Naula of the NYC Bird Alliance, 
+which hosts birding outings in multiple parks and languages 
+citywide, says attendance spiked during the pandemic and 
+has remained high. “We’ve seen and heard the personal  
+experiences,” recalls Naula, a Queens native. “I hear, ‘This 
+is something I did in COVID, and it provided me with such  
+a sense of relief and calmness. I feel better physically  
+and mentally.’”
+At the same time, the pandemic revealed stark divides 
+in access to nature. Many New Yorkers whose work allowed 
+it decamped to the Hudson Valley, Long Island, or beyond, 
+where access to open space was easier to come by. Others 
+bought cars to do the same. For many working-class New 
+Yorkers, however, these options did not exist, and crowded 
+neighborhoods with the least access to green space, including 
+Jackson Heights and Corona, experienced disproportionately 
+higher mortality rates than the citywide average.17
+It’s not just physical health at stake. Students who  
+participate in outdoor programs report improvements in  
+behavior, academic performance, and social development, 
+while programs like NYC Outward Bound Schools have been 
+linked to higher graduation rates.18 
+In a survey of high school participants conducted for 
+the Center for an Urban Future, students described what 
+these experiences meant to them. “Time in nature makes 
+us more productive,” one senior says. A ninth grader adds, 
+“It’s healthy to be outside and not always be on your phone.” 
+Another student, reflecting on time spent rock climbing and 
+hiking, describes learning how to work with others and  
+becoming more self-reliant. “In the city, we have everything 
+we need,” they say. “But in the woods, you have to figure  
+out how to make stuff work. It would be nice to bring more 
+of that into the city.”
+Why Time in Nature Matters  
+for New Yorkers
+14
+Policy Idea: Library-based “Nature & Culture Hubs”
+OUR RESEARCH SUGGESTS THAT INFORMATION GAPS SERIOUSLY LIMIT PARTICIPATION IN NATURE-BASED 
+activities, restricting potential community benefits. One promising option to address those gaps is to utilize public 
+libraries, which are already among the most trusted institutions in the city. Despite boasting locations in every 
+neighborhood and strong relationships with residents, they remain an underutilized asset when it comes to con -
+necting New Yorkers to nearby nature, outdoor recreation, and cultural life. With the right resources and partner -
+ships, libraries could serve as neighborhood gateways to parks, trails, waterfronts, gardens, cultural organizations, 
+performances, public art, historic sites, and other low-cost opportunities close to where New Yorkers live.
+A network of “Nature & Culture Hubs” at libraries, particularly in underserved communities, could start with a 
+simple but important function: providing clear, accessible information about local nature-based activities, nearby 
+access points, transit routes, volunteer opportunities, free and low-cost cultural events, and neighborhood arts 
+and heritage programming. Over time, these hubs could also offer lendable equipment, small grants for program-
+ming, and partnerships with local organizations to expand access. They could support community co-design of 
+programming, ensuring that activities reflect local cultures and needs while helping residents feel a stronger sense 
+of ownership over nearby natural and cultural assets. 
+Jamaica Bay-Rockaway Parks Conservancy
+15
+HARNESSING NYC’S NATURAL AREAS
+IN THE YEARS SINCE THE PANDEMIC RENEWED INTEREST 
+in New York City’s open spaces, policymakers and NYC Parks 
+have taken important steps to improve the stewardship and 
+activation of natural areas. From expanded programming 
+and restoration efforts to new planning initiatives and  
+investments in environmental education, these efforts  
+promote increased engagement with the outdoors and  
+reflect a growing recognition of natural areas as essential 
+infrastructure for public health, climate resilience, and quality 
+of life. However, significant capacity challenges persist, with 
+consequences for the health of the city’s natural areas and 
+efforts to expand access to them.
+With additional staffing, NYC Parks 
+is engaging more New Yorkers 
+outdoors than before. 
+For years, one-shot funding has helped NYC Parks expand 
+the programs that connect New Yorkers to natural areas. 
+Since before the pandemic, temporary and seasonal Urban 
+Park Rangers have bolstered the agency’s capacity, with 
+funding provided by the City Council from FY 2019 through 
+FY 2025 and by the mayor in FY 2026. These positions have 
+enabled NYC Parks to reach more residents through nature 
+walks, wildlife programming, youth activities, and steward -
+ship events. But because the funding is not baselined, 
+these jobs remain vulnerable to annual budget negotiations 
+and political and economic headwinds, making it harder for 
+the agency to plan, hire, and retain the staff needed to grow 
+these programs over time.
+Our analysis of Urban Park Ranger programming shows 
+that youth participation rose sharply in recent years.  
+Between 2021 and 2024, the number of young attendees 
+increased by nearly 160 percent, from 10,153 to 26,408 
+participants, and the number of programs offered nearly  
+tripled, to 1,129. 19 In total, more than 90,000 young New 
+Yorkers took part in Ranger-led programming over that period.
+Much of this growth has been driven by popular offer -
+ings like Kids & Family programs, which include science 
+fairs, school break activities, and family-friendly outings. 
+Wildlife viewing programs—such as birdwatching and animal 
+observation—have also drawn tens of thousands of partici -
+pants, while guided hikes and nature exploration programs 
+continue to introduce New Yorkers to the city’s forests,  
+wetlands, and trails.
+The Stewardship program has seen similar gains. In FY 
+2023, nearly 7,000 New Yorkers participated in volunteer 
+activities across 516 events. The following year, participation 
+increased by nearly 1,000 people, even as the number of 
+events declined slightly, suggesting strong demand for 
+hands-on opportunities to care for natural areas.
+In the FY 2027 budget, the Mamdani administration 
+made notable progress on investing in natural areas care. 
+That includes baselining $9.8 million for Parks Enforcement 
+Patrol officers, $6.2 million for park workers, and $3 million 
+for forestry management, which ensures that funding will 
+last beyond the next budget cycle. Additionally, $5.8 million 
+was set aside for Urban Park Rangers—a jump of over  
+$1 million from the year before.
+Restoration and long-term planning 
+efforts are gaining momentum.
+Alongside expanded programming, NYC Parks and its part -
+ners—especially the NAC and the Mayor’s Office of Climate 
+and Environmental Justice (MOCEJ)—have made meaningful 
+progress in restoring and planning for the long-term stew -
+ardship of the city’s natural areas.
+Restoration work has accelerated in recent years,  
+helping to address decades of deferred maintenance and 
+environmental degradation. Since 1991, NYC Parks has  
+restored more than 850 acres of natural areas, planting over 
+950,000 native trees and shrubs since 2007. More recently, 
+between 2020 and 2025, the agency—often in partnership 
+with the NAC and with support from state funding—has com-
+pleted several significant projects across the five boroughs.
+On Staten Island, a portion of the 214-acre Willowbrook 
+Park—one of the most heavily used areas within the Greenbelt—
+was cleared of invasive species, replanted with native vege-
+tation, and outfitted with new protections against deer  
+overpopulation, which had threatened forest regeneration. 
+In Queens, wetlands restoration projects at Sunset Cove 
+Park, Seagirt Ave Wetlands, and Hook Creek Park have 
+helped rebuild coastal ecosystems and improve resilience 
+along vulnerable shorelines. At Alley Creek, a “living  
+shoreline” project has restored natural habitats along Little 
+NYC Is Making Progress on Natural Areas, 
+But Significant Gaps Remain
+16
+Neck Bay while strengthening the area’s ability to withstand 
+erosion and storm surge.
+But these efforts are reaching only a fraction of the city’s 
+natural areas. Each year, staff and volunteers care for an an-
+nual maximum of about 1,000 acres—roughly one-twelfth of 
+the total natural area acreage—leaving large portions of the 
+system without regular restoration or maintenance.
+At the same time, city leaders are advancing a new 
+generation of long-term planning efforts aimed at strength -
+ening the future of these landscapes. MOCEJ led the devel-
+opment of the city’s first Urban Forest Plan, released in 
+April 2026, which outlines strategies to expand tree canopy 
+coverage to 30 percent—an effort that will rely heavily on 
+the health of forested natural areas. 20 The forthcoming  
+Environmental Justice NYC Plan—the city’s first-ever such 
+blueprint—will also prioritize expanding access to green 
+space in underserved communities.
+NYC Parks and the NAC have collaboratively developed 
+updated frameworks for managing forests, wetlands, and 
+shorelines, including long-term strategies for restoration 
+and resilience. These efforts come at a critical moment, as 
+the city looks to natural systems to play a larger role in miti-
+gating climate impacts and protecting vulnerable neighbor-
+hoods.  Recent efforts to expand greenways are also helping 
+to better connect New Yorkers to natural areas. The city’s 
+first five-borough greenway master plan in decades, re -
+leased in 2025, lays out a vision for safer, more continuous 
+connections between neighborhoods and open spaces, in -
+cluding routes linking the South Bronx, Eastern Queens, and 
+Staten Island’s North Shore.21
+Together, these efforts reflect a growing recognition of 
+the importance of natural areas. But their full impact will 
+depend on sustained investment and consistent fol -
+low-through. Without that, much of the city’s natural land -
+scape will remain underserved, even as interest in these 
+spaces continues to grow.
+Environmental education and green 
+workforce initiatives are expanding, 
+but remain limited in scale.
+Efforts to expand environmental education and connect New 
+Yorkers to careers in natural areas stewardship have grown in 
+recent years, reflecting increasing interest in sustainability and 
+climate resilience among both students and policymakers.
+In New York City’s public schools, environmental edu -
+cation is becoming more widespread. Nearly 90 percent of 
+schools now have Sustainability Coordinators—about 1,700 
+coordinators in total—who help integrate climate and envi -
+ronmental topics into the curriculum and connect students 
+to hands-on learning opportunities. 22 The Department of 
+Education also offers grants of up to $5,000 for school-
+based sustainability projects, along with a centralized  
+Sustainability Hub to help teachers identify partner organi -
+zations and plan field experiences. 23
+But access to these opportunities remains uneven.  
+Interviews with educators and program providers point to 
+persistent barriers, including limited time during the school 
+day, logistical challenges for field trips, and costs associated 
+with visiting sites operated by other agencies. In many cases, 
+students can only participate if a natural area is located 
+nearby or if schools have the resources to organize longer 
+outings.
+At the same time, natural areas are increasingly being 
+recognized for providing pathways to careers in the growing 
+green economy. City agencies and nonprofit organizations 
+have launched a range of workforce development initiatives 
+in areas like urban forestry, ecological restoration, and 
+coastal resilience. Recent investments include a $10 mil -
+lion federal grant secured by NYC Parks for workforce train-
+ing in natural areas care and stewardship, as well as a 
+$629,000 program supporting paid training in coastal res -
+toration along Jamaica Bay.
+Across the city, nonprofit-led programs are helping to 
+train the next generation of workers in these fields. The For-
+ests for All NYC coalition, which includes more than 50 orga-
+nizations, identified nearly 40 training programs citywide 
+focused on tree care and natural areas stewardship, run by 
+groups such as the City Parks Foundation and the NAC. 24 
+Separately, our survey found that natural areas workforce 
+programs are training up to 1,000 New Yorkers each year, 
+often drawing participants from the communities most af -
+fected by environmental challenges.25 
+Some initiatives are also experimenting with new path-
+ways into the field. At Green-Wood Cemetery, for example, 
+the Urban Wood Reuse Pilot—developed in partnership with 
+the Brooklyn-based sustainable wood supplier Tri-Lox—uses 
+salvaged park wood as a training material for career pro -
+grams in woodworking and reuse, turning what would other-
+wise be waste into a workforce asset. Meanwhile, the City 
+Parks Foundation’s Green Girls program introduces young 
+women of color to careers in urban forestry and environmen-
+tal stewardship through hands-on training and mentorship.
+But the number of permanent jobs tied to the care, pro-
+gramming, and restoration of natural areas remains relatively 
+small. Our analysis finds that these activities currently employ 
+only about 350 workers across NYC Parks and partner orga-
+nizations.26 This gap reflects not a lack of interest or training 
+capacity, but a lack of sustained investment in the work itself. 
+Even as the city expands programming, restoration, and cli-
+mate resilience efforts, funding for ongoing maintenance, 
+stewardship, and operations has not kept pace. 
+At the same time, stewardship organizations say that 
+more is needed to help turn part-time, seasonal, and tempo-
+rary opportunities into meaningful career pathways. Many 
+training programs provide introductory exposure, but transi-
+17
+HARNESSING NYC’S NATURAL AREAS
+tioning into long-term employment often requires additional 
+credentials, certifications, or years of hands-on experience. 
+For example, becoming a licensed arborist can take several 
+years of supervised fieldwork, while other roles in environ -
+mental science or restoration may require college degrees 
+or specialized training. Without stronger alignment between 
+training programs, credentialing systems, and employers, 
+many participants face an uncertain path from initial expo -
+sure to stable, well-paying careers.
+Policy Idea: “NYC Nature-Based Jobs Coalition”
+WHILE NEW YORK CITY IS TRAINING HUNDREDS OF RESIDENTS EACH YEAR FOR JOBS IN NATURAL AREAS,   
+it has far fewer stable positions to absorb them. This mismatch reflects a lack of stable career-track positions to 
+move into, not a lack of interest or training. Without more stable roles in maintenance, stewardship, restoration, 
+and programming, the city will continue to fall short of both the workforce needed to care for these spaces and the 
+jobs needed to make training a meaningful pathway to economic mobility.
+One promising approach would be to expand stable, long-term roles connected to natural areas stewardship 
+while reducing reliance on fragmented short-term contracts where possible. At the same time, a “New York City 
+Nature-Based Jobs Coalition” could build on the work of Forest for All NYC and Just Nature NYC to better coordi -
+nate training, apprenticeships, credentials, and hiring across the growing field of natural areas stewardship. The 
+coalition could align training programs with apprenticeships, industry-recognized credentials, degree pathways, 
+and real hiring needs—especially for roles like arborist, horticultural technician, trail specialist, and natural  
+resource manager, where hands-on experience is essential. By organizing clearer routes into these roles and 
+better matching training to hiring demand, New York City could build a workforce that supports both environmental 
+goals and economic mobility.
+Young adults kayaking in Jamaica Bay  
+(Jamaica Bay-Rockaway Parks Conservancy).
+18
+CITIES AND ORGANIZATIONS ACROSS THE COUNTRY ARE 
+experimenting with new approaches to expand access to 
+nature, increase engagement, and strengthen stewardship 
+of natural areas. While New York City has made progress in 
+recent years, these examples highlight opportunities to go 
+further by leveraging partnerships, engaging communities 
+more directly, and investing in creative, scalable solutions.
+REI–Chicago Park District  
+partnership at Ping Tom Memorial 
+Park expands programming and 
+stewardship (Chicago, IL).
+At Ping Tom Memorial Park along the Chicago River, the Chicago 
+Park District partnered with REI Co-op to operate kayak rentals 
+and programming at a public boathouse. In addition to rentals, 
+REI provides guided tours, leads volunteer cleanups, and 
+serves on the park’s advisory council, helping to activate the 
+space while supporting long-term stewardship.
+Advocates see potential for similar partnerships in New 
+York City. Companies like Google could help map and promote 
+trail networks, while outdoor brands like Patagonia could 
+support programming or develop tools to make natural areas 
+more accessible. “We’re a non-profit organization with a focus 
+on providing high-quality public programming, so we don’t  
+always have the niche technical expertise for tool making, 
+map building, or biodiversity metrics,” says Scheid of Alley 
+Pond Environmental Center. “It’s worth exploring a partner-
+ship, because we wish we had access to more formalized 
+information to share with the public.”
+Community co-design at  
+Waterfront Park drives diverse 
+participation and higher  
+attendance (Seattle, WA).
+In Seattle’s Waterfront Park, organizers have prioritized  
+inclusive, community-led programming from the outset.  
+Advisory groups focused on accessibility, Indigenous com -
+munities, and local residents help shape events and activities, 
+with paid facilitation ensuring sustained engagement.
+“The waterfront holds a lot of different stories that  
+are quite traumatic for many communities,” says Yoon 
+Kang-O’Higgins, senior director of community impact and 
+programs at Friends of Waterfront Park. “So, we have a model 
+of co-curating and co-designing our decision-making as 
+community partners.” The result has been strong attendance 
+across a diverse range of communities, demonstrating the 
+impact of intentional outreach and shared governance. 
+Best Practices: Maximizing Benefits  
+of NYC’s Natural Areas
+Policy Idea: “Explore Forever Wild NYC”
+IN INTERVIEWS FOR THIS REPORT, LACK OF AWARENESS EMERGED AS ONE OF THE MOST CONSISTENT  
+barriers, even among longtime residents who had never visited nearby natural areas. Without a coordinated effort 
+to raise visibility, these spaces will remain underused.
+The city could launch a five-borough awareness campaign—“Explore Forever Wild NYC”—to promote natural 
+areas across subways, buses, LinkNYC kiosks, schools, and digital platforms. Working with Empire State Develop-
+ment, NYC Parks could tap into existing state tourism dollars and align messaging with the “I Love NY” campaign. 
+This effort should be paired with improved wayfinding, updated trail maps, and digital tools to help residents navi-
+gate the city’s 300 miles of trails.27
+19
+HARNESSING NYC’S NATURAL AREAS
+“I Love NY” campaign demonstrates 
+the power of statewide marketing 
+and wayfinding (New York State).
+New York State’s “I Love NY” campaign has successfully  
+promoted destinations like Watkins Glen, Fire Island, and the 
+Erie Canal through coordinated advertising across digital, 
+transit, and media platforms. By contrast, New York City’s 
+natural areas lack a comparable, citywide marketing effort.
+Some experts suggest that initiatives like “Forever Wild” 
+could serve as a unifying brand to promote local natural  
+areas, paired with improved on-site wayfinding. “We have 
+300 miles of trails. How do we get New Yorkers aware of 
+those trails and where they exist?” says Emily Walker,  
+formerly of the NAC. “The city should be thinking comprehen-
+sively about the connection points that can be made.” 
+Miyawaki Method “pocket forest” 
+on Roosevelt Island shows how 
+small sites can deliver big impact 
+(New York City).
+Even in dense urban settings, small-scale investments can 
+significantly expand access to nature. In 2024, a 
+2,700-square-foot Miyawaki Method “pocket forest”—New 
+York City’s first, funded by global nonprofit SUGi—opened on 
+Roosevelt Island. Named the Manhattan Healing Forest, it 
+features roughly 1,500 trees and 47 native species, creat -
+ing a new habitat for wildlife in a compact footprint.28
+Advocates see this as a model for broader application. 
+“These pocket forests should be everywhere,” says Christina 
+Delfico, founder of iDig2Learn, which helps manage and 
+program the Manhattan Healing Forest. “This is green  
+acupuncture for the city . . . any bare spot that is underutilized, 
+pop in a forest.” Similar approaches could extend to street 
+medians, underutilized parcels across the five boroughs, 
+and even Times Square.
+Every Kid Outdoors initiative 
+expands youth access to nature  
+at a national scale (United States).
+The federal “Every Kid Outdoors” initiative provides free  
+access to national parks for fourth graders and their families, 
+reaching hundreds of thousands of participants each year. 
+The program has significantly expanded access, with roughly 
+three-quarters of participants reporting they would not have 
+visited otherwise.29
+While New York City’s natural areas are already free, 
+advocates argue that a similarly ambitious, citywide initia -
+tive could help connect more young people to nature early in 
+life. “New York City has nothing like this,” says Carta of the 
+Jamaica Bay-Rockaway Parks Conservancy. “There needs to 
+be an incentivized and funded tie-in to get more students 
+out of the classroom and into parks.”
+Policy Idea: Bring nature closer to where New Yorkers live with  
+“Rewild NYC”
+TO CLOSE PHYSICAL PROXIMITY GAPS WHEN IT COMES TO NATURAL AREAS, NEW YORK CITY COULD LAUNCH  
+a bold interagency initiative—“Rewild NYC”—to expand access through pocket forests, native plantings, and micro-  
+natural spaces. This could include transforming vacant lots, dead-end streets, and roadway medians; expanding 
+Greenstreets; and incorporating natural elements into schools, libraries, and public housing. These smaller-scale 
+interventions can bring meaningful environmental and public health benefits to neighborhoods that currently lack 
+access. The proposed “NYC Youth Conservation Corps” could help maintain and steward these newly greened spaces, 
+giving young New Yorkers paid, hands-on experience while ensuring these investments are cared for over time.
+As cities around the world are experimenting with ways to integrate natural systems into the urban fabric, the 
+benefits of nature—cooling, biodiversity, mental health—can be delivered through smaller, distributed interventions 
+to bring nature closer to where New Yorkers live. Such initiatives are especially important given that a quarter of New 
+Yorkers live in neighborhoods without access to natural areas, and creating large new parks is often impractical in 
+dense parts of the city.
+20
+NEW YORK CITY’S FIVE BOROUGHS ARE TEEMING WITH  
+wild places, from the wetlands near Orchard Beach in the Bronx 
+to the forests of Staten Island’s Greenbelt. Yet too many 
+New Yorkers remain cut off from these vital connections,  
+especially in low-income communities, where transportation 
+barriers, limited programming, and safety concerns make 
+these spaces feel much farther away than they are.
+Expanding access to nature can be a relatively low-cost 
+way to improve public health, strengthen communities, and 
+build climate resilience, but it will require greater focus,  
+coordination, investment, and creativity. By better under -
+standing both the challenges and opportunities that city 
+leaders face when it comes to unlocking this potential—as 
+well as the most promising ideas grounded in fact-based  
+research—New York City can make new strides in harnessing 
+the full potential of the city’s natural areas to improve the 
+lives of all New Yorkers.
+Conclusion
+Young adults examining marine wildlife in Jamaica Bay 
+(Jamaica Bay-Rockaway Parks Conservancy).
+21
+HARNESSING NYC’S NATURAL AREAS
+Endnotes
+1.  Natural Areas Conservancy, “NYC Nature Map,” 2024, 
+https://naturalareasnyc.org/nyc-nature-map/.
+2.  Center for an Urban Future analysis of programming data 
+provided to CUF by program providers, and participant 
+numbers taken from each organization’s website. 2026.
+3.  United States Forest Service, “Reading the Landscape: 
+A Social Assessment of Parks and Their Natural Areas in 
+Jamaica Bay Communities,” 2015,  
+https://www.nycgovparks.org/pagefiles/207/wp1-Jamai-
+caBaySSA2013__6818c167610da.pdf.
+4.  Center for an Urban Future analysis of data from the 
+Natural Areas Conservancy and Census Block Maps.
+5.  Natural Areas Conservancy, Funding Forested  
+Natural Areas: Recent Trends in New York City, 
+2023, https://naturalareasnyc.org/wp-content/up-
+loads/2024/01/NAC-Funding-Forested-Natural-Areas.pdf.
+6. The City of New York, Mayor’s Management Report, 2025, 
+https://www.nyc.gov/assets/operations/downloads/pdf/
+mmr2025/2025_mmr.pdf.
+7.  Marcia P. Jimenez et al., “Associations between Nature 
+Exposure and Health: A Review of the Evidence,” 
+ International Journal of Environmental Research  
+and Public Health 18, no. 9 (2021): 4790,  
+https://doi.org/10.3390/ijerph18094790.
+8.  New York City Department of Health and Mental Hygiene, 
+“Suicide-related factors among New York City Public High 
+School Students,” Epi Data Brief, no 138 (November 
+2023), https://www.nyc.gov/assets/doh/downloads/
+pdf/epi/databrief138.pdf.
+9.  Center for an Urban Future analysis of data from the 
+Natural Areas Conservancy and Census Block Maps.
+10.  Center for an Urban Future analysis of programming data 
+provided to Center for an Urban Future by youth program 
+providers, and participant numbers taken from each organi-
+zation’s website. 2026. 
+11.  Rebekah L. Coley, Dana C. McCoy, and Sarah F. Hatch, 
+“How Poverty Shapes Children’s Home, Neighborhood, 
+and School Environments: An Integrative Conceptual 
+Framework and Review,” American Psychologist, advance 
+online publication (2025),  
+https://dx.doi.org/10.1037/amp0001573.
+12.  Natural Areas Conservancy, “NYC’s Forests, 10 Years Later: 
+4 Early Takeaways from Our Second Forest Assessment,” 
+2025, https://naturalareasnyc.org/nycs-forests-10-years-
+later-4-early-takeaways-from-our-second-forest-assessment/.
+13.  Rebuild by Design, “NYC Parks as Climate Infrastructure,” 
+2025, https://rebuildbydesign.org/nyc-parks-as-cli-
+mate-infrastructure/.
+14.  Natural Areas Conservancy, Funding Forested  
+Natural Areas: Recent Trends in New York City, 2023,  
+https://naturalareasnyc.org/wp-content/up-
+loads/2024/01/NAC-Funding-Forested-Natural-Areas.pdf.
+15.  Natural Areas Conservancy, “NYC Nature Map,” 2024, 
+https://naturalareasnyc.org/nyc-nature-map.
+16.  New York City Department of Health and Mental Hygiene, 
+“Ambient Noise Disruption in New York City,” Epi Data 
+Brief, no. 45 (April 2014), https://www.nyc.gov/assets/
+doh/downloads/pdf/epi/databrief45.pdf.
+17.  Anna Gu, Hira Shafeeq, Ting Chen, and Preety Gadhoke, 
+“Factors Associated with COVID-19 Infection, Hospi-
+talization and Death in New York City Neighborhoods,” 
+Innovations in Pharmacy 12, no. 3 (2021),  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9120001.
+18.  New York City Outward Bound Schools,  
+“Impact & Reports,” https://www.outwardbound.org/
+nycobs/about-our-school/impact-reports.
+19.  Center for an Urban Future analysis of data from NYC Parks.
+20.  Mayor’s Office of Climate and Environmental Justice, NYC 
+Urban Forest Plan, 2026, https://report.urbanforestplan.
+nyc/NYC-Urban-Forest-Plan-2026.pdf.
+21.  New York City Department of Transportation,  
+NYC Greenway Plan, 2025, https://www.nyc.gov/html/
+dot/downloads/pdf/greater-greenways.pdf.
+22.  Center for an Urban Future expert interviews.
+23.  New York City Public Schools, “Sustainability,”  
+https://www.schools.nyc.gov/school-life/space-and-facili-
+ties/sustainability.
+24.  Forest for All, “Learning and Growing: Urban Forestry 
+Workforce Training in NYC,” 2023,  
+https://forestforall.nyc/wp-content/uploads/2023/08/
+LearningAndGrowing_report_FINAL_web.pdf.
+25.  Center for an Urban Future analysis of enrollment data 
+provided to CUF by workforce development providers, 
+and participant numbers taken from each organization’s 
+website. 2026.
+26.  CUF analysis of employment data provided to Center  
+for an Urban Future by natural areas organizations, and 
+employee numbers taken from each organization’s  
+website. 2026. 
+27.  New York City Parks Department, “Hiking in NYC Parks,” 
+https://www.nycgovparks.org/places-to-go/hiking.
+28.  Aliya Uteuova, “The Big Apple Gets a Tiny Forest: 1,000 
+Native Plants Coming to New York,” The Guardian, 2024, 
+https://www.theguardian.com/us-news/2024/mar/14/
+tiny-forest-roosevelt-island-new-york.
+29.  Every Kid Outdoors, “Every Kid Outdoors 2022–2023 
+Report,” 2023, https://everykidoutdoors.gov/me-
+dia/2022-2023_Every_Kid_Outdoors_Report_v2.pdf.

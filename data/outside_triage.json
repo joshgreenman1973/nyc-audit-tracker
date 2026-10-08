@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Tackling Homelessness in all its Complexity",
+    "url": "https://www.furmancenter.org/publication/tackling-homelessness-in-all-its-complexity/",
+    "publisher": "furman",
+    "issued": "2026-05-29",
+    "decision": "not_a_report",
+    "reason": "The text is a first-person essay (\"After three years leading the nation's largest homeless services agency, I believe...\") that offers general reflections and themes rather than a report with findings and formal recommendations to New York City government, so it reads as commentary.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "The Impact of Natural Disasters on Rental Markets: Heterogeneous Effects, Rental Subsidies, and Equity in Disaster Recovery",
+    "url": "https://www.furmancenter.org/publication/the-impact-of-natural-disasters-on-rental-markets-heterogeneous-effects-rental-subsidies-and-equity-in-disaster-recovery/",
+    "publisher": "furman",
+    "issued": "2026-04-30",
+    "decision": "source_incomplete",
+    "reason": "only 1213 characters of text could be fetched",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-08"
+  }
+]

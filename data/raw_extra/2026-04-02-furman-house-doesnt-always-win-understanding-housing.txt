@@ -1,0 +1,1851 @@
+===== SOURCE: landing page =====
+In 2024, Housing Connect distributed roughly 10,000 units across 300 buildings. Approximately 6 million applications were filed for those buildings.Because new income-restricted rental units are a scarce and highly sought-after resource, the City allocated many of these units by lottery, specifically through a digital platform called NYC Housing Connect that launched in 2013 and was last updated in 2020. 
+The City’s Department of Housing Preservation and Development (HPD) says the median time to approve an applicant through the lottery process was 142 days in Fiscal Year 2025, or approximately 4.7 months, which is down from more than 190 days, or approximately 6.3 months, in 2023 and 2024 and 176 days. in Fiscal Year 2022. Still, as the City’s affordable housing shortage has intensified, so has scrutiny of the process HPD uses to allocate the limited supply of new income-restricted units.
+A new administration has a set of opportunities within its control to make the lottery system work better and to leverage data to drive pipeline planning and engage applicants that need housing based on their preferences. Indeed, on January 1, 2026, Mayor Zohran Mamdani issued Executive Order 5, establishing an interagency task force to propose reforms that would streamline administrative processes, like NYC Housing Connect, that may be slowing down the construction and allocation of income-restricted units. 
+Despite legal and administrative capacity constraints on HPD’s reform efforts, we believe that there are potential changes that could improve the housing lottery system. To help policymakers in this effort, we examine how Housing Connect allocates affordable housing, using a combination of public documents and anonymized data from software used by marketing agents.
+
+===== SOURCE: report PDF =====
+The House Doesn’t 
+Always Win: 
+Understanding NYC’s 
+Housing Connect 
+Lottery System and 
+How to Improve It
+By: Vicki Been, Jacob Waggoner, Brad Greenburg,  
+Christine Wendell, Dan Waldinger and Nick Arnosti
+2 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Executive Summary
+In 2024, Housing Connect distributed roughly 10,000 units across 300 buildings. Approximately  
+6 million applications were filed for those buildings.1 Because new income-restricted rental units are a scarce 
+and highly sought-after resource, the City allocated many of these units by lottery, specifically through 
+a digital platform called NYC Housing Connect that launched in 2013 and was last updated in 2020.2 
+The City’s Department of Housing Preservation and Development (HPD) says the median time to approve 
+an applicant through the lottery process was 142 days in Fiscal Year 2025, or approximately 4.7 months, 
+which is down from more than 190 days, or approximately 6.3 months, in 2023 and 2024 and 176 days 
+in Fiscal Year 2022.3 Still, as the City’s affordable housing shortage has intensified, so has scrutiny of 
+the process HPD uses to allocate the limited supply of new income-restricted units. 
+A new administration has a set of opportunities within its control to make the lottery system work better 
+and to leverage data to drive pipeline planning and engage applicants that need housing based on their 
+preferences. Indeed, on January 1, 2026, Mayor Zohran Mamdani issued Executive Order 5, establishing 
+an interagency task force to propose reforms that would streamline administrative processes, like NYC 
+Housing Connect, that may be slowing down the construction and allocation of income-restricted units.4 
+Despite legal and administrative capacity constraints on HPD’s reform efforts, we believe that there are 
+potential changes that could improve the housing lottery system. To help policymakers in this effort, we 
+examine how Housing Connect allocates affordable housing, using a combination of public documents 
+and anonymized data from software used by marketing agents. 
+1. Tigani, A. (2025, April 29). Testimony before the New York City Council Committee on Housing and Buildings. Citymeetings.nyc .  
+https:/ /citymeetings.nyc/meetings/new-york-city-council/2025-04-29-1000-am-committee-on-housing-and-buildings.
+2. New York City Department of Housing Preservation and Development. (2020, June 16). Mayor de Blasio launches new, improved 
+affordable housing application website. https:/ /www.nyc.gov/site/hpd/news/030-20/nyc-housing-connect-mayor-de-blasio-launches-
+new-improved-affordable-housing-application-website#/0. 
+3. New York City Department of Housing Preservation and Development (2026, March). Preliminary Mayor’s Management Report, 334. 
+https:/ /www.nyc.gov/assets/operations/downloads/pdf/pmmr2026/2026_pmmr.pdf. Note that the median time to lease-up a homeless 
+set-aside new construction unit is 235 days.
+4. Office of the Mayor of the City of New York. (2026, January 1). Executive order no. 5: Improving process to accelerate affordable 
+housing. https:/ /www.nyc.gov/mayors-office/news/2026/01/executive-order-05.
+3 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Overview of New York City’s  
+Affordable Rental Lotteries 
+First, we use a combination of public documents and detailed anonymous data to lay out the marketing 
+process for new income-restricted units in New York City. Then, using anonymized applicant data 
+from software that marketing agents use to review applicants, we analyze a sample of approximately 
+64,000 applications as they progressed through the lotteries for 101 buildings, starting from when each 
+application received a log number. These data focus on batches of applicants as they go through the 
+verification and offer steps with a marketing agent; our analysis does not cover appeals, complaints, or 
+HPD’s audit or review of applicants’ submitted documents. We find that:
+	■ The process is too long. The median time to complete the verification and offering process 
+and be approved is 118 days. Combined with the up to 76 days that pass between when a building’s 
+lottery opens and when applicants receive a log number and the unknown number of days it takes to 
+complete lease-signings, audits, appeals, and complaints, the length of the process almost certainly 
+contributes to delays occupying units for a portion of the applicants.
+	■ Applicants and marketing agents waste effort in the processing stage, and the vast majority of applicants 
+will not make it to the end of the verification and offer process. We observe that:
+	■ Approximately 49,000 applicants (just under 77%) will end up in a “rejected” status , either 
+through attrition (including not being meaningfully engaged) or explicit rejection (generally due 
+to a failure to provide documentation or being found ineligible).
+• Approximately 50% (nearly 32,000) do not appear to engage significantly with the verification process.
+• 27% (roughly 17,000) were rejected after “engaging meaningfully” with the verification process. 
+These applicants spent a median time of 29 days in the documentation stage before being rejected.
+	■ Approximately 5,000 applicants in total  (3,000 before engaging meaningfully with verification 
+and 2,000 after), or 8% of the total pool, withdrew their application.
+	■  Only about 9,000 applicants—roughly 15% of all applicants, or just under a third of those who 
+meaningfully engaged in verification—were ultimately approved.
+	■  Of those approved, approximately half (52%) did not have a unit attached to their application. We 
+assume that this result represents some attrition between approval and lease-signing, the placement 
+of some households on priority waitlists, and instances where a unit was not available or the applicant 
+was later found to be ineligible. 
+4 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+The most significant problem our analysis reveals is the tremendous number of applicants who drop out 
+of the verification process or are rejected. This inefficiency wastes the time and hopes of the ineligible 
+or never engaged applicant, the eligible applicants next in line, the marketing agents, and the owner 
+with units sitting vacant. 
+The evidence suggests that the current design of Housing Connect creates some of the delays in filling 
+units, which raises the overall cost—in both time and money—of providing affordable housing. Each 
+month that a completed affordable unit sits vacant is a waste of a valuable, publicly subsidized resource. 
+Less visible, but also important, are the costs a complex and burdensome process imposes on applicants, 
+marketers, developers, and the City’s housing agencies before a building is even ready to be occupied.
+Proposed Reforms
+After a summary of academic literature and other relevant content, the paper concludes by detailing a 
+set of proposed reforms. First, we propose a set of specific reforms to the design of Housing Connect and 
+the rules in the Marketing Handbook that could be implemented in the short-term.
+In the short-term, automating the process and moving some of the eligibility and matching work earlier 
+using structured data would help ensure the verification process is focused on a more limited set of 
+applicants who have been pre-screened and have expressed a preference for the specific type of unit 
+and location available. To address this problem, we propose two reforms:
+	■ Applicants should apply for types of units, not buildings, and should not be able to apply for 
+types of units for which they are “apparently ineligible”. This change would help structure the 
+verification process around applicants who have applied for types of units for which they are eligible 
+and for units that are a good match for their preferences based on self-reported information. A smaller 
+set of eligible applicants would then be added to a tailored “queue” for a review of their eligibility for 
+the type of unit they are more likely to accept. 
+	■ HPD should expand the information collected in the “My Household” profile about applicant’s 
+preferences. Housing Connect should ask more detailed, required questions about applicants’ 
+preferences. The data should then be used by marketing agents to structure their lease-up process 
+around applicants’ stated preferences earlier in the verification process. Applicants and marketing 
+agents could determine early-on whether the unit being offered is a good match before effort is expended.
+5 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Also in the short-term, we suggest changes to the Marketing Handbook to shorten and condense 
+certain stages, to provide minimum and maximum ranges for each stage and standards for 
+extensions from those maximums . This will help anchor the process for marketing agents and 
+applicants. Examples of timing constraints that could be amended in the Marketing Handbook include, 
+but are not limited to:
+	■ Shortening the length of time when lotteries are open and accepting applications (currently 60 days);
+	■ Requiring that applicants be provided clear constraints on the time they have to respond to the request 
+for verification documents (currently applicants must respond within 10 days) and a maximum amount 
+of time by which they must have submitted a complete set of documents (currently a minimum of 
+5 extra days); 
+	■ Reducing marketing agents’ discretion over extending deadlines for applicants to provide verification 
+documents by enumerating objective standards agents must adhere to when considering an extension. 
+Second, we propose a set of larger structural reforms to the documentation process. We propose that 
+the City actively work to integrate its systems that host household composition and income information 
+for the purpose of calculating incomes across HPD, NYCHA and DSS. The best structural, long-term change 
+would be to have all levels of government—city, state and federal—work to reconcile documentation 
+and income verification requirements so the rules are the same across all means-tested subsidy 
+programs (including for the Section 8 program if those rules will serve as the City’s foundational process 
+for verifying incomes in Housing Connect). Then, that income calculation could be used for a period 
+of time to determine whether an applicant is eligible for a range of programs, including an income-
+restricted unit in Housing Connect. 
+That is an enormous undertaking that cannot be accomplished by HPD alone. But it should be an aspiration 
+of the City and on the agenda for discussion with the state and federal governments. In the meantime, the 
+City can begin to support automating the income verification process across programs, whether 
+by developing its own in-house capabilities to automate the reading of documentation or by 
+incentivizing technology solutions that marketing agents could use. For example, the City could 
+lead pilot projects, sponsor innovation grants, create more automatable application APIs, or develop AI 
+and automation standards and guidelines.
+6 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Finally, our last proposal is broader, moving beyond the allocation of existing income-restricted units 
+to exploring how the City could use Housing Connect data to expand and change the overall supply of 
+income-restricted housing. By leveraging Housing Connect data on neighborhood preferences, unit 
+size preferences and other variables, HPD could detail out for the public the geography of demand for 
+income-restricted housing and the designs and unit sizes preferred by applicants. HPD could also enable 
+applicants struggling to obtain a unit to opt-in to get involved in the community engagement process 
+when the City is siting and approving affordable housing in their preferred neighborhoods.
+The paper also has a section that discusses how the City might think about adopting a “citywide” priority 
+system. We give a set of justifications for such an approach and also offer important operational 
+considerations for policymakers who may be thinking about this kind of shift.
+Introduction
+From 2010 to 2024, roughly 6,500 new units of income-restricted rental housing became available each 
+year in New York City through tax incentives, loans and other subsidies, and zoning density bonuses. 5 
+Some of these units are set aside for homeless households and are designated supportive housing units 
+allocated through a separate process. But, because new income-restricted rental units are a scarce and 
+highly sought-after resource, the City allocates the rest of the units by lottery, specifically through a 
+digital platform called NYC Housing Connect that launched in 2013 and was last updated in 2020.6 In 
+2024, Housing Connect distributed roughly 10,000 units across 300 buildings. Approximately 6 million 
+applications were filed for those buildings.7 
+As the City’s affordable housing shortage has intensified, so has scrutiny of the processes it uses to allocate 
+the scarce supply of new income-restricted units. Over the years, journalists have reported burdensome 
+application processes and seemingly arbitrary decision-making.8 Advocates have documented that Housing 
+5. This figure is an estimate. Between 2010 and 2024, 285,796 new multifamily units were completed in New York City. Of those, an 
+estimated 77,627 units (27.1 percent) were income-restricted and targeted to low-income households earning up to 80 percent of Area 
+Median Income (AMI). An additional 21,103 units (7.4 percent) were targeted to moderate- and middle-income households earning between 
+81 and 165 percent of AMI. Dividing the total number of income restricted units (98,730) by 15 years (2010 - 2024) yields approximately 
+6,500 per year. See: NYU Furman Center (updated 2026, February 6). State of New York City’s housing and neighborhoods in 2024: State 
+of the city’s housing stock. https:/ /www.furmancenter.org/soc-report/state-of-the-city-2024/state-of-the-citys-housing-stock-2024/. 
+6. New York City Department of Housing Preservation and Development. (2020, June 16). Mayor de Blasio launches new, improved 
+affordable housing application website. https:/ /www.nyc.gov/site/hpd/news/030-20/nyc-housing-connect-mayor-de-blasio-launches-
+new-improved-affordable-housing-application-website#/0. 
+7. Tigani, A. (2025, April 29). Testimony before the New York City Council Committee on Housing and Buildings. Citymeetings.nyc. https:/ /
+citymeetings.nyc/meetings/new-york-city-council/2025-04-29-1000-am-committee-on-housing-and-buildings.
+8. Navarro, M. (2015, January 29). Long lines, and odds, for New York’s subsidized housing lotteries. The New York Times. https:/ /web.
+archive.org/web/20150201042116/https:/ /www.nytimes.com/2015/01/30/nyregion/long-lines-and-low-odds-for-new-yorks-subsidized-
+housing-lotteries.html; Haag, M. (2020, June 15). 25 million applications: The scramble for N.Y.C. affordable housing. The New York Times. 
+https:/ /www.nytimes.com/2020/06/15/nyregion/nyc-affordable-housing-lottery.html. Note that because a household can apply to as 
+many buildings as they wish, the number of applications is higher than the number of households that applied. 
+7 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Connect units sit vacant for an average of 6.5 months and that participating buildings take an average 
+of 13.5 months to fully lease-up. 9 The City’s Department of Housing Preservation and Development 
+(HPD) says the median time to approve an applicant through the lottery process was 142 days in Fiscal 
+Year 2025, or approximately 4.7 months, which is down from more than 190 days, or approximately  
+6.3 months in 2023 and 2024.10 
+City Hall recently took special notice of the role of governmental procedure in constraining housing 
+supply. On January 1, 2026, Mayor Zohran Mamdani issued Executive Order 5, establishing an interagency 
+task force to propose reforms that would streamline “administrative and permitting processes of City 
+agencies, as well as policies and procedures of non-City entities, that affect the timely production and 
+availability of affordable housing…”.11
+To help policymakers in this effort, we examined how Housing Connect allocates affordable housing, 
+using a combination of public documents and anonymized data from software used by marketing agents. 
+Allocating a fixed set of scarce and highly desirable resources will always involve difficult tradeoffs. In 
+this case, policymakers have a range of potentially conflicting objectives as they work to quickly fill units, 
+select qualified tenants from a huge pool of applicants, and match eligible tenants to appropriate units. 
+The evidence suggests that the current design of Housing Connect, with its complex verification and 
+approval processes, can create long delays in filling units, which raises the overall cost, in both time and 
+money, of providing new affordable housing. Each month that a completed affordable unit sits vacant is a 
+waste of a valuable, publicly subsidized resource. Less visible, but also important, are the costs a complex 
+and burdensome process imposes on applicants, marketers, developers, and the City’s housing agencies.
+Our analysis shows that the current design of Housing Connect requires that an exceptionally high 
+volume of applicants be reviewed even though a significant proportion of those applicants will later be 
+found ineligible or will no longer be interested in the unit offered. This high volume of initial review 
+lengthens lease-up and processing times and frustrates applicants and marketing agents alike, potentially 
+contributing to distrust of or dissatisfaction with the City’s affordable housing programs. 
+9. Cabrera, D., & Katz, J. (2023, October). Brutal bureaucracy: Additional Housing Connect analysis. New York City Housing & Planning 
+Council. https:/ /chpcny.org/wp-content/uploads/2023/10/20231002_BB-Additional-Housing-Connect-Analysis.pdf. 
+10. New York City Department of Housing Preservation and Development (2026, March). Preliminary Mayor’s Management Report, 334. 
+https:/ /www.nyc.gov/assets/operations/downloads/pdf/pmmr2026/2026_pmmr.pdf. Note that the median time to lease-up a homeless 
+set-aside new construction unit is 235 days. 
+11. Office of the Mayor of the City of New York. (2026, January 1). Executive order no. 5: Improving process to accelerate affordable 
+housing. https:/ /www.nyc.gov/mayors-office/news/2026/01/executive-order-05.
+8 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Our findings suggest that both short-term, concrete reforms and longer-term, ideational reforms are 
+necessary. In the shorter term, and more tangibly, we propose changing how applicants apply for units, 
+collecting more information on eligibility and preferences before the verification process, and standardizing 
+timelines for verifying applicants’ eligibility. These reforms would speed up the allocation process and 
+help applicants apply for units that are better matches for their needs. Some of these reforms would 
+also potentially address fairness concerns by reducing marketing agents’ discretion over a large pool of 
+applications. In the longer term, we see value in considering adoption of some elements of a city-wide 
+lottery—assigning individuals a single, city-wide lottery number in particular—and recommend further 
+analysis of the substantial tradeoffs and coordination such a transition would entail.
+This paper has four sections. First, it uses a combination of public documents and a detailed analysis 
+of applicant data to provide an overview of the current lottery system. Second, the paper reviews the 
+potential for reform based on a survey of stakeholder interests and constraints. Third, the paper compares 
+the current system to theoretical ideals from the academic literature. Finally, the paper recommends 
+a set of tangible reforms to the marketing process as well as broader opportunities to further housing 
+production and streamline New York City’s affordable housing application processes.
+Overview of New York City’s  
+Affordable Rental Lotteries
+We used a combination of public documents and detailed anonymous data on how applicants are processed 
+to better understand the marketing process for new income-restricted units in New York City. A wide 
+range of income-restricted units are marketed through Housing Connect. Some units are produced using 
+low-income housing tax credits and other subsidy programs.12 Other units may be marketed on Housing 
+Connect because the income-restricted units are in a building that received a property tax exemption13  
+12. For tax credit units, the verification process is more intensive to monitor compliance against the Internal Revenue Services’ rules. 
+HPD’s Qualified Allocation Plan for tax credits currently requires a minimum set-aside of either (1) 25% of all units for households at or 
+below 60% of the area median income (AMI); or (2) 20% of all units for households at or below 50% of the AMI. In addition, HPD’s subsidy 
+programs will have term sheets and transaction-specific income ranges that depend on the program. HPD’s ELLA program requires that 
+a minimum of 80% of the units be affordable for households earning up to 80% of AMI while the New Construction Finance program 
+requires that 60% of the units be affordable to households earning 80% of AMI and 40% of the units be affordable to households earning 
+120% of AMI. See: New York City Department of Housing Preservation and Development (2020, March 10). Extremely Low & Low-Income 
+Affordability (ELLA) program term sheet. https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/services/ella-term-sheet-hpd.pdf; New York 
+City Department of Housing Preservation and Development (2025, July). New Construction Finance (NCF) program term sheet. https:/ /
+www.nyc.gov/assets/hpd/downloads/pdfs/services/hpd-ncf-term-sheet.pdf; New York City Department of Housing Preservation and 
+Development (2025, March). 2025 Low Income Housing Tax Credit Qualified Allocation Plan. https:/ /www.nyc.gov/assets/hpd/downloads/
+pdfs/services/2025-qualified-allocation-plan.pdf. 
+13. For units that receive a property tax exemption under the 485-x program, the income restrictions will vary based on the size and 
+location of the project. Modest rental projects with less than 100 units, for example, must set-aside 20% of the units for households 
+fitting within three tenant income bands with a weighted average of 80% of the area median income (and no band can exceed 100% 
+of the area median income). See: New York City Department of Housing Preservation and Development (2024, December 16). Notice of 
+adoption. https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/about/rptl485-xfinal-rules.pdf.
+9 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+or because they are mandatory or voluntary inclusionary housing units. 14 The rules and regulations 
+governing the income verification and documentation process vary based on the type of unit being marketed. 
+The public documents we rely on most are the official “Marketing Handbook” created by the New York City 
+Department of Housing Preservation and Development (HPD) and descriptions of the system provided 
+by experts and HPD employees in recent litigation related to the lottery system.15 The principal data we 
+rely on come from software used by many marketing agents to process applications. As shown in the 
+Appendix, this data is not representative of the lottery system as a whole, but it nonetheless provides an 
+important window into the bottlenecks and issues encountered as applications are processed.
+Overview of Each Stage of the Housing Lottery
+This section provides a detailed summary of the typical application process for rental units marketed 
+through Housing Connect. The figure below outlines the primary stages of this process, which we 
+subsequently detail.
+Figure 1: Housing Lottery Process Flow Chart 
+A1. 
+Creating  
+a Profile
+A2. 
+Applying
+A3. 
+Providing 
+Documents
+A4. 
+Viewing 
+Unit(s)
+A5. 
+Move In
+M1. 
+Marketing M2a. 
+Initial  
+Processing
+M2b. 
+The Offer  
+Order
+M2c. 
+Verifying  
+Batches
+M2d. 
+Verifying  
+Individuals
+M3a. 
+Initial  
+Offers
+M3b. 
+Audit and  
+Leasing
+M2. Processing Applications M3. Unit Offers
+Preparing
+Applicants
+Marketing 
+Agent
+Opening Verifying Eligibility Offer/Acceptance Move-in
+14. There are several compliance options for MIH. See: New York City Department of Housing Preservation and Development (2025, April). 
+Mandatory Inclusionary Housing [Fact sheet]. https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/services/MIH-FACT-SHEET-2025.pdf.
+15. N.Y.C. Dep’t of Hous. Pres. & Dev., Marketing Handbook: Policies and Procedures for Resident Selection and Occupancy (2025), https:/ /
+www.nyc.gov/assets/hpd/downloads/pdfs/services/marketing-handbook-8-21.pdf [hereinafter Marketing Handbook]; Noel v. City of 
+New York, No. 1:15-cv-05236-LTS (S.D.N.Y. Jan. 22, 2024).
+10 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Stage 1 - Preparing to Apply, Creating a ‘My Household’ Profile
+A1. 
+Creating  
+a Profile
+A2. 
+Applying
+A3. 
+Providing 
+Documents
+A4. 
+Viewing 
+Unit(s)
+A5. 
+Move In
+M1. 
+Marketing
+M2a. 
+Initial  
+Processing
+M2b. 
+The Offer  
+Order
+M2c. 
+Verifying  
+Batches
+M2d. 
+Verifying  
+Individuals
+M3a. 
+Initial  
+Offers
+M3b. 
+Audit and  
+Leasing
+M2. Processing Applications
+M3. Unit Offers
+Preparing
+Applicants
+Marketing 
+Agent
+Opening
+Verifying Eligibility
+Offer/Acceptance
+Move-in
+For applicants, the lottery process typically starts by making a “My Household” profile on Housing 
+Connect. Applicants provide information about their household and housing needs.16 They can update 
+their profile information at any time. According to HPD, there were more than 1 million registered users 
+on Housing Connect as of April 2023.17
+Stage 2 - Lottery Opening
+A1. 
+Creating  
+a Profile
+A2. 
+Applying
+A3. 
+Providing 
+Documents
+A4. 
+Viewing 
+Unit(s)
+A5. 
+Move In
+M1. 
+Marketing
+M2a. 
+Initial  
+Processing
+M2b. 
+The Offer  
+Order
+M2c. 
+Verifying  
+Batches
+M2d. 
+Verifying  
+Individuals
+M3a. 
+Initial  
+Offers
+M3b. 
+Audit and  
+Leasing
+M2. Processing Applications
+M3. Unit Offers
+Preparing
+Applicants
+Marketing 
+Agent
+Opening
+Verifying Eligibility
+Offer/Acceptance
+Move-in
+16. More specifically, applicants provide their current address, income (each type and source), assets (each account and amounts), 
+household size, ethnicity, race, disability status, preferred unit size, and whether they receive rental assistance (and if so, through which 
+program). See: New York City Housing Connect. NYC Housing Connect. https:/ /housingconnect.nyc.gov/PublicWeb/.
+17. Carrion, A., Jr. (2023, May 12). Testimony before the New York City Council Committee on Housing and Buildings. City of New York. 
+https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/fy24-exec-budget-testimony.pdf. Separately, in conversations with HPD, officials 
+estimated nearly 600,000 unique Housing Connect applicants. 
+11 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+M1. Marketing the Building Lotteries
+Developers initiate the lottery process by submitting a Notice of Intent when construction is approximately 
+70% complete (or about seven months prior to occupancy), based on the City’s guidance.18 The City adds a 
+building with income-restricted units to Housing Connect and structures a lottery for each new building 
+with income-restricted units, enabling the developer and/or their marketing agent to begin marketing 
+the building. Marketing consists of publishing the building description and eligibility requirements 
+on Housing Connect, publishing advertisements, and completing a set of required public notifications 
+based on an approved affirmative marketing plan geared towards reaching those potential tenants least 
+likely to apply.19  
+A2. Applying for Lotteries
+Housing Connect provides information on available building lotteries and facilitates electronic lottery 
+applications.20 For each available building, households can see the number of units available by unit size 
+(e.g., 81 one-bedrooms and 17 studios), the household sizes permitted for each unit size (e.g. 3 people), 
+the minimum and maximum annual household income (broken down by the number of people in the 
+household) to be eligible for the unit, and the monthly rents for each unit size based on the income 
+restriction.21 Figure 2 provides an example of the wide range of “unit types” that might be available in a 
+single building.
+18. Marketing Handbook, supra note 15, at 9. 
+19. Advertising must be done on Housing Connect, through a citywide, an “ethnic,” and a local newspaper, and with an on-site sign. 
+Outreach must include disability organizations, community boards, and elected officials. See: Marketing Handbook, supra note 15, at 18.
+20. For example, applicants can typically see the building’s location, the number and types of units available (number of bedrooms and 
+bathrooms), the monthly rent, any applicable limits on the applicant’s total assets, advertised amenities, digital renderings (usually of 
+the exterior, rarely of units), and which subway lines are nearby. See: New York City Housing Connect, supra note 16.
+21. Applicants receiving certain rental assistance like Project 8 vouchers are exempt from minimum income limits and need only 
+demonstrate that their subsidy’s payment standard, net of utility allowances, meets the unit’s rental requirement. See: New York City 
+Housing Connect. Frequently asked questions. https:/ /housingconnect.nyc.gov/PublicWeb/faq.
+12 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Figure 2: Example of Table Showing Unit Types Available for a Single Building
+Importantly, applicants apply at a lottery level, not by unit type. Lotteries can contain more than one 
+building, and applicants can withdraw their application at any time.22
+Those who wish to enter the building’s lottery can do so via an electronic application on Housing 
+Connect or via a paper application.23 There is no limit to the number of buildings an eligible applicant 
+may apply to, though they can only apply once per building. For electronic applications, the applicant 
+need only click “Apply Now” on Housing Connect for the building they are interested in, and the site 
+will automatically submit an application using the applicant’s “My Household” profile.24 If a household 
+submitting an electronic application does not appear to be eligible for any of the units in the building 
+they’re applying for based on their My Household information, Housing Connect will warn them before 
+confirming submission, but users can override the prompt and still apply.
+22. New York City Housing Connect. Frequently asked questions. https:/ /housingconnect.nyc.gov/PublicWeb/faq.
+23. One advantage of applying through Housing Connect is that the site allows applicants to create a profile that saves their information 
+(annual income, household size, assets, disability status, etc.) and allows them to apply to buildings with information they have already 
+saved using only a couple of clicks. The vast majority of households apply electronically—only 26,293 applications in 2023 were by paper 
+(which represents, assuming 2023 saw 25 million applications like in 2024, about 0.1% of applications). See Tigani, supra note 7.
+24. New York City Housing Connect, supra note 16.
+13 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Figure 3: Prompt on Eligibility When Applying
+Stage 3 - Verifying Eligibility
+Once the building’s lottery closes, generally 60 days after the building was first marketed, marketing 
+agents begin processing applications and contacting applicants, and contacted applicants provide 
+verification documents.25 Some smaller lotteries can be eligible for “modified marketing,” where the 
+advertising period is at least 21 days.26 
+A1. 
+Creating  
+a Profile
+A2. 
+Applying
+A3. 
+Providing 
+Documents
+A4. 
+Viewing 
+Unit(s)
+A5. 
+Move In
+M1. 
+Marketing
+M2a. 
+Initial  
+Processing
+M2b. 
+The Offer  
+Order
+M2c. 
+Verifying  
+Batches
+M2d. 
+Verifying  
+Individuals
+M3a. 
+Initial  
+Offers
+M3b. 
+Audit and  
+Leasing
+M2. Processing Applications
+M3. Unit Offers
+Preparing
+Applicants
+Marketing 
+Agent
+Opening
+Verifying Eligibility
+Offer/Acceptance
+Move-in
+M2. Processing Applications
+M2a. Initial Processing
+Applicant processing begins by assigning each applicant a unique random number called their “log 
+number” and sorting the applicants from lowest to highest log number to create the “log.”27 Any applicant 
+whose self-reported income and household size renders them ineligible for any units in the building is 
+25. Marketing Handbook, supra note 15, at 16, 22–23.
+26. At its discretion, the City may allow a modified marketing period of no less than 21 days. Marketing Handbook, supra note 15, at 16. 
+27. Marketing Handbook, supra note 15, at 21–23.
+14 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+deemed “apparently ineligible” and is removed from further consideration.28 For example, if a property 
+had only 60% AMI units, and a household self-reported that they had income equal to 80% AMI, the 
+household would not be contacted.
+M2b. The Offer Order
+From the set of remaining “apparently eligible” applicants, the developer/marketing agent uses the randomly 
+generated lottery log number and set-aside preference to determine the order in which applicants will 
+be offered units.29 An applicant’s prioritization for an offer depends on whether they are part of a “set-
+aside” group, whether they are a resident of the City, and their log number. There are three set-aside or 
+preference groups: people with disabilities, people currently living in the area the building is located in 
+(the “community preference” group), and municipal employees or military veterans. 30 The marketing 
+agent first tries to fill certain percentages of the building’s affordable units with people who belong to 
+these set-aside groups and then fills remaining units from the general applicant pool. 31 Within each 
+set-aside, as well as in the general pool, New York City residents are offered units before non-residents, 
+and, subject to this residency prioritization, applicants with lower log numbers are offered units before 
+those with higher log numbers.32
+M2c. Verifying Batches of Applicants
+Before a developer/agent can actually make an offer, the City requires the agent to verify the applicant’s 
+eligibility by reviewing documentation related to the applicant’s household size, income, assets, disability 
+status, and other items.33 Prior to the verification stage, but not after, changes an applicant makes to the 
+household information in their Housing Connect profile will be reflected in their building application.34
+Unlike actual offers, which must be made according to the above process, verification can be completed 
+by applicants in parallel. Agents have discretion over how to structure the verification process. According 
+to HPD, agents pull “batches” of applicants that are capped at 100 applications. Agents will often run 
+multiple batches per day, but they must review and take an “action” (e.g., request documents or send 
+rejection notices) for each applicant in a batch before moving to the next batch.
+28. Noel, supra note 15. 
+29. Marketing Handbook, supra note 15, at 22. 
+30. Marketing Handbook, supra note 15, at 22.
+31. More specifically, developers/their marketing agents first process all applicants with mobility and vision/hearing disabilities in order 
+of their log number. HUD requires 5% of units be designed accessibly for people with mobility disabilities and 2% for people with vision/
+hearing disabilities; once these units are filled or the list of relevantly disabled applicants is exhausted, the developer repeats this process 
+for the community preference group, trying to fill 20% (15% starting in 2029) of units with applicants currently living in the building’s 
+area. This process subsequently repeats for the City employee group (5% of units). The developer then moves to the general applicant 
+pool. See: New York City Mayor’s Office for People with Disabilities. Housing. https:/ /www.nyc.gov/site/mopd/resources/housing.page.
+32. Marketing Handbook, supra note 15, at 22.
+33. Marketing Handbook, supra note 15, at 27. 
+34. Paper applicants cannot change their household information but are permitted to appeal a wider variety of determinations,  
+as discussed below.
+15 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+At one extreme, agents can use the offer order to verify applicants’ information one-by-one, proceeding to 
+the next applicant only after verifying the information of the current applicant in the offer queue. At the 
+other extreme, agents could simultaneously request documents from a significant number of applicants 
+who are apparently eligible and proceed through batches of 100 relatively quickly. In practice, agents 
+are starting with applicants batched based on their set-aside eligibility, residency, and log number, and 
+they pull an initial number of applicants based on assumptions about how many offers the batch will 
+likely yield after verification is complete relative to the number of units available.35
+M2d. Verifying Individual Applicants
+The verification process itself begins when the agent contacts an applicant with a request for documentation 
+that verifies their eligibility. 36 Applicants who fail to prove their eligibility are rejected. Agents must 
+give applicants at least ten weekdays to respond to a request for documents, whether electronically or 
+in-person.37 If the applicant produces incomplete documents, the agent must send a follow-up request 
+and give at least five additional weekdays to respond. 38 If the applicant fails to complete document 
+verification within these timelines, the marketing handbook permits the agent to issue a rejection 
+notice,39 but it also gives them the discretion to provide extensions. The ten- and five-day timeframes 
+are alternatively treated in the marketing handbook as both a minimum floor and a maximum ceiling, 
+making it difficult to anchor the amount of time an applicant is expected to receive for verification. 
+There is nothing in the Marketing Handbook that limits the amount of time a marketing agent has to 
+review documentation provided by an applicant. 
+A3. Providing Documents
+Applicants must provide extensive documentation to verify their eligibility and are subject to a number 
+of requirements in addition to the deadlines described above. The Marketing Handbook tells users that 
+“income eligibility at admission is determined in the same way as it is determined under the federal 
+Section 8 program except where the Agency specifies that additional requirements or restrictions 
+apply.”40 The primary attributes that applicants and their would-be household members must verify are 
+35. Marketing Handbook, supra note 15, at 22. 
+36. Developers/agents must contact electronic applicants via Housing Connect and paper applicants via mail. See: Marketing Handbook, 
+supra note 15, at 30. 
+37. Developers/agents must give electronic applicants at least one option for submitting documents outside of Housing Connect (e.g., email 
+or in-person). It’s unclear what options paper applicants must be given. It’s likewise unclear if applicants must be given the opportunity 
+to provide their documents in person, but if they are, they must be given options outside of typical work hours at an accessible location 
+in NYC. See: Marketing Handbook, supra note 15, at 30. 
+38. Marketing Handbook, supra note 15, at 30. 
+39. Marketing Handbook, supra note 15, at 30. 
+40. Marketing Handbook, supra note 15, at 43. 
+16 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+any applicable priority statuses,41 income,42 assets,43 the household composition (including the ages of 
+children), and any other information that the marketing agent is directed by the developer to use and 
+is allowed by the City (e.g. credit and rental history).44
+Stage 4 - Offer/Acceptance
+Once the agent has both verified an applicant’s eligibility and reached them in the offer queue, the agent 
+offers a unit to the applicant, who then has the opportunity to accept or reject the offer.
+A1. 
+Creating  
+a Profile
+A2. 
+Applying
+A3. 
+Providing 
+Documents
+A4. 
+Viewing 
+Unit(s)
+A5. 
+Move In
+M1. 
+Marketing
+M2a. 
+Initial  
+Processing
+M2b. 
+The Offer  
+Order
+M2c. 
+Verifying  
+Batches
+M2d. 
+Verifying  
+Individuals
+M3a. 
+Initial  
+Offers
+M3b. 
+Audit and  
+Leasing
+M2. Processing Applications
+M3. Unit Offers
+Preparing
+Applicants
+Marketing 
+Agent
+Opening
+Verifying Eligibility Offer/Acceptance
+Move-in
+41. Disability status must be verified with an I-2 form, community board status with proof of community board residence, and municipal 
+employment with a city paystub. See: Marketing Handbook, supra note 15, at 38–39. 
+42. Income must be verified in accordance with the latest Code of Federal Regulations (24 CFR Part 5) and chapter 5 of a current copy 
+of the HUD Handbook 4350.3. See: Marketing Handbook, supra note 15, at 43. HPD expects applicants to provide two to four paystubs 
+to verify employment income but allows alternative verification through federal W-2s or 1099s, or through direct contact with the 
+employer. See: Marketing Handbook, supra note 15, at 47. HPD expects self-employment income to be documented using the applicant’s 
+most recent tax return and a certification of earnings (either self-certified or certified by a licensed accountant or tax preparer). If a tax 
+return is not available, the marketing agent must make “a reasonable attempt to calculate … self-employment income,” but ultimately 
+appears to have the discretion to disqualify an applicant if they cannot provide “sufficient documentation to support their estimate of 
+self-employment income.” See: Marketing Handbook, supra note 15, at 49–50. Income from other sources like recurring gifts, public 
+assistance, child support, and certain student financial assistance is also subject to verification, and sporadic or non-recurring income 
+is subject to required disclosure. See: Marketing Handbook, supra note 15, at 51–53.
+43. HPD expects applicants to provide a self-certification of assets and income generated from them. If certain asset classes exceed 
+specified thresholds, applicants must provide documents verifying the asset amounts. See: Marketing Handbook, supra note 15, at 
+53–54. These documents must be current within 120 calendar days of the move-in date. See: Marketing Handbook, supra note 15, at 54. 
+Guidance on the appropriate documents for verifying assets is available in the HUD Occupancy Handbook 4350.3 and 24 CFR § 5.609(b)
+(24). 5.609(b)(24). Certain other asset verification steps may be required to demonstrate ‘continuing need.’ See: Marketing Handbook, 
+supra note 15, at 55–57.
+44. Developers appear to have significant discretion over which factors they may direct marketing agents to review, with three important 
+limits. First, any such criteria must be approved by the City and applied “fairly and equitably.” See: Marketing Handbook, supra 
+note 15, at 27. Second, there are limits on the most stringent criteria marketing agents can use to evaluate rental and credit history.  
+See: Marketing Handbook, supra note 15, at 60. Third, there are limits on how marketing agents may consider criminal background.  
+See: Marketing Handbook, supra note 15, at 58–59.
+17 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+M3. Unit Offers 
+M3a. Initial Offers
+As a general matter, agents are expected to submit applications to HPD for approval and to work with 
+applicants to complete a set of certifications before making an offer. Then, the marketing agent offers the 
+applicant their choice of any unclaimed unit in the building for which the applicant is eligible, although 
+we were told that in practice most applicants are offered a specific unit.
+A4. Viewing and Selecting Units
+Applicants then have the opportunity to view the set of units offered to them in-person. Offerees have five 
+weekdays to respond to their offer and “a reasonable specific amount of time for a lease signing” before 
+the agent can offer that same unit to the next applicant.45 The Marketing Handbook does not explicitly 
+lay out how a showing of the unit (or a failure to show up for a showing) fits within these timeframes. 
+M3b. Audit and Leasing
+After offerees respond to their offer, and after providing a “reasonable” amount of time to sign their 
+lease, but before offerees can sign their lease and move into the unit, the City approves the certification 
+(as mentioned previously). The Handbook says, “HPD and HDC will conduct Audit-Based Reviews for a 
+percentage of randomly selected files after tenant selection has been completed to ensure compliance 
+with the Marketing Handbook, Regulatory Agreement and any statutory requirements of the affordable 
+housing or financing program,” 46 though we were also told that the City reviews every single file, not 
+a random sample.47 HPD told us that the agency moved to an audit-based review, which is reflected in 
+the April 2025 version of the Marketing Handbook. At the same time, HPD will also conduct a quicker 
+review process, with a targeted turnaround time of two days, for all applications to confirm the applicant 
+matches the available unit and the order of processing has been followed.48
+Offerees signing a lease for an IRS program unit (funded by LIHTC and/or tax-exempt bonds) must 
+additionally sign a final Reaffirmation of Income. 49 Offerees receiving rental assistance, including a 
+City FHEPS or Section 8 voucher, also need to separately finalize their documentation with the agency 
+administering the program. 
+A tenant who has signed a lease can move in as soon as the building receives its temporary certificate 
+of occupancy.50 
+45. See: Marketing Handbook, supra note 15, at 23. 
+46. See: Marketing Handbook, supra note 15, at 32.
+47. Marketing Agent official, personal communication, January 13, 2026. 
+48. HPD official, electronic communications, March 12, 2026. For example, HPD says they will review whether preferences have been 
+followed and whether a window to appeal was provided.
+49. See: Marketing Handbook, supra note 15, at 33.
+50. See: Marketing Handbook, supra note 15, at 9. 
+18 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Miscellaneous Additional Processes
+1. Removals and Penalties
+Throughout this process, an applicant can be removed from consideration for a building’s lottery in only 
+three circumstances: the applicant fails to respond in a timely manner, removes themselves from the 
+process at any stage, or is deemed apparently or actually ineligible..51 There are no penalties associated 
+with participating in a building’s lottery, except that if an applicant submits multiple applications for 
+the same building, all of their applications will be removed from consideration except the one with the 
+worst lottery number.52 Applicants who submit false or knowingly incomplete information may also be 
+reported for criminal prosecution.53
+2. Appeals
+Any rejected applicant can submit a written appeal of their rejection to a supervisor.54 Paper applicants 
+are allowed certain additional appeals. Applicants who file an appeal retain their place on the log during 
+review. The Marketing Handbook does not specify how many days an applicant has to file an appeal with 
+the agent or how many days an agent has to make a decision about an appeal. If the applicant’s appeal 
+is rejected by the agent, it must be accompanied by written reasons, and the applicant has five days to 
+subsequently submit a formal complaint to the City with documentation of the believed error.55 Whether a 
+unit is held for the applicant when the complaint is pending with the City is up to the discretion of the City.
+Analyzing Data from the Lottery Process  
+In general, advocates for reform detail three areas of concern around the current process: (1) the 
+documentation and verification process is burdensome for applicants and marketing agents; (2) marketing 
+agents’ decisionmaking can feel arbitrary; and allocations may be unfair; and (3) the process is inefficient, 
+with units sitting vacant and the marketing process imposing unnecessary costs. 56 The goal of this report 
+is to analyze whether the first and third concerns are well-founded. 
+51. See: Marketing Handbook, supra note 15, at 27-28. 
+52. See: Marketing Handbook, supra note 15, at 27.
+53. See: Marketing Handbook, supra note 15, at 59.
+54. They can appeal an ineligibility notice, no unit available notice, or low priority notice because they don’t have the opportunity that 
+electronic applicants have to update their application after submitting but prior to receiving a log number. See: Marketing Handbook, 
+supra note 15, at 33. 
+55. See: Marketing Handbook, supra note 15, at 34. 
+56. Cabrera, D., & Katz, J. (2023, October). Brutal bureaucracy: Additional Housing Connect analysis. New York City Housing & Planning 
+Council. https:/ /chpcny.org/wp-content/uploads/2023/10/20231002_BB-Additional-Housing-Connect-Analysis.pdf.
+19 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Using anonymized applicant data from software that marketing agents use to process applicants, we 
+analyzed a sample of approximately 64,000 applications as they progressed through the lotteries for 101 
+buildings, starting from when each application received a log number. The data are useful for analyzing 
+the first and third concerns mentioned above because they focus on the documentation and verification 
+steps, which are perceived by policymakers to be overly burdensome and a particularly inefficient  
+part of the process. 
+The data are not necessarily representative of the lottery process as a whole (see Appendix). The buildings 
+analyzed here are more likely to be buildings with units targeted to lower-incomes and are more likely to 
+have more total units relative to the full universe of buildings that are marketed using the Housing Connect 
+system. Directionally, we would hypothesize that this may mean we would expect the process to take longer 
+in these buildings compared to smaller buildings or buildings targeted to middle-income households.57 
+We also found that marketing agents were not always consistent in how they applied and updated statuses 
+in the software. Further, statuses and their definitions changed over time, and some users may have used 
+statuses improperly or not kept up with administrative data entry on a timely basis. These data do not 
+cover the entire Housing Connect process, instead focusing on batches of applicants as they go through 
+the verification and offer parts of the process with a marketing agent. The data do not cover appeals, 
+complaints, or HPD’s audit or review of applicants’ submitted documents. 
+Despite these limitations, the data speak to the experience of thousands of applicant households and 
+marketing agents who were working to move through the verification process. From these data, we are 
+also able to approximate the lottery process’s throughput, i.e how many applicants reach each stage of 
+the verification process and how long they spend there. We find that (1) the median time to complete the 
+verification and offering process and be approved is 118 days, which likely contributes to delays allocating 
+units, and (2) there is significant wasted effort by applicants who go on to be rejected or to self-remove 
+from the process, as evidenced by the approximately 6.2 applicants who meaningfully engage in the 
+process per available unit.58 
+57. Lower-income applicants are more likely to be renting a unit in a building that took advantage of the Low-Income Housing Tax Credit 
+program (which requires more intensive documentation), and may be relying on another source of rental assistance like a voucher, which we 
+expect would slow down the process. Depending on how marketing agents staff larger buildings, we might also expect that larger buildings 
+would take longer to lease-up because it is operationally more difficult and there are simply more applications and units to process. 
+58. 4,500 applicants (16.1%) are approved and receive a unit out of the approximately 28,000 applicants who meaningfully engage with 
+the process or are approved but do not move in. The rest of the applicants are rejected after engagement, withdraw in later parts of the 
+process, or are approved but do not move in and sign a lease.
+20 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+A Majority of the Applicants Logged Never Start  
+the Documentation Process 
+Of the 64,000 applicants we observe, approximately 50% (nearly 32,000) do not appear to engage 
+significantly with the verification process (Figure 4). We refer to this group as ‘unengaged.’ Based on our 
+conversations, we believe these applicants either never responded to the invitation to submit documents 
+for verification or were in batches that the marketing agent did not reach based on the applicant’s log 
+number. An applicant may not respond because they have found other housing, have moved from the City, 
+or have had some other change in circumstance that made them decide against pursuing verification. It 
+is also possible that the majority of applicants who were contacted did respond and that this ‘unengaged’ 
+universe is a set of people who were not reached by the marketing agent based on the applicant’s log number. 
+Many Applicants Who Start the Documentation 
+Process Do Not Receive a Final “Approved” or 
+“Rejected” Determination on their Documents
+We estimate that approximately 27% of the initial 64,000 applicants (roughly 17,000) were rejected after 
+“engaging meaningfully” with the verification process. We refer to this group as “engaged,” which we 
+understand to entail, at a minimum, responding to the marketing agent’s outreach; most applicants in this 
+group additionally began document intake and review (we estimate a lower bound of 11,000, but this number 
+could be significantly higher). Document review is typically the most intensive component of verification. 
+As Figure 5 shows, applicants who were ultimately approved spent a median of 43 days in the documentation 
+stage, and those who were ultimately rejected spent a median of 29 days in the documentation stage.59 
+Based on our conversations with people experienced with the lottery, we believe there are three primary 
+reasons an applicant would respond and even start the documentation process but then not receive 
+a formal final status of “rejected” or “approved” for their documents. First, they may have responded 
+to the initial solicitation for documents, but by the time a marketing agent solicited the full set of 
+documents, they were no longer interested. Second, they may have been unable to produce the required 
+documents. Third, the marketing agent may have reviewed partial documentation, deemed it incomplete 
+and then the applicant has not completed the documentation but the marketing agent has not yet 
+proceeded to reject the applicant and, for whatever reason, the review was not completed before the  
+building was fully occupied. 
+59. Approvals can take longer for many reasons. For example, it may be easier to quickly identify and reject an obviously sloppy or 
+incomplete application than to quickly identify and approve a complete one. HPD also requires that applicants be given a short period 
+to correct incomplete documents. The longer time for approvals can reflect both of these dynamics.
+21 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+The Vast Majority of Applicants Who Start are 
+Rejected, Some Withdraw, Very Few are Approved, 
+and Half of Those Approved Still Don’t Get a Unit
+Approximately 49,000 applicants (just under 77%) will end up with a “rejected” status either through 
+attrition (not being meaningfully engaged or dropping out of the process) or explicit rejection. Some 
+withdrew their applications—roughly 5,000 in total (3,000 before engaging meaningfully with verification 
+and 2,000 after), or 8% of the total applicant pool. Only about 9,000 applicants—roughly 15% of all 
+applicants, or just under a third of those who meaningfully engaged in verification—were ultimately 
+approved. Of those approved, approximately half (52%) did not have a unit attached to their application. 
+It is possible some of these applicants who were “approved” but had no unit available subsequently chose 
+not to sign the lease, did not pass a subsequent audit or review conducted by HPD, or did not have a 
+unit made available to them for another reason. There are also some applicants who are approved as 
+alternates and put on a waitlist in case other approved applicants drop out. 
+Applicants could be rejected for many reasons. Those rejected prior to meaningfully engaging with the 
+verification process most typically failed to respond to the marketing agent’s outreach. Those rejected 
+after meaningfully engaging most often failed to provide appropriate documentation, exceeded deadlines 
+for providing that documentation, or were found ineligible. 
+Figures 4–6  summarize these findings. Figures 4 and 6 show the share of applicants by their final disposition.
+Figure 4: Final dispositions of applicants.
+64,000  
+Applied 
+(100%)
+32,000  
+Rejected 
+(Unengaged) 
+(50%)
+3,000  
+Withdrew 
+Early 
+(5%)
+17,000  
+Rejected 
+(Engaged) 
+(27%)
+2,000  
+Withdrew 
+Late 
+(3%)
+4,700  
+Approved,  
+No Unit Attached 
+(8%)
+4,300  
+Approved,  
+Unit Attached 
+(7%)
+22 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Figure 5 shows the median time it takes for applicants to proceed through various stages of processing.60 
+As mentioned above, HPD says the median time to approve an applicant through the entire lottery process 
+was 142 days in Fiscal Year 2025, or approximately 4.7 months, which is down from more than 190 days, 
+or approximately 6.3 months in Fiscal Years 2023 and 2024 and 176 days in Fiscal Year 2022. 61 Even 
+with recent improvements, this timeline is still longer than it has been in the fairly recent past. In Fiscal 
+Year 2020, the median time was 104 days, and in Fiscal Year 2021, it had fallen to 88 days.62
+Figure 5: Median time to decision from receiving a log number and median time from document review to decision,  
+by approval or rejection status. 
+60. Note that, mathematically, the median processing time from one stage to another can generally be greater than, or less than, the 
+sum of the median processing times between intermediate stages depending on, for example, whether applicants with long early-
+stage processing times tend to also have relatively long later-stage processing times (maybe because the applicant has unusual or 
+complex needs), or instead have relatively short later-stage processing times (maybe because problems that would have come up 
+during finalization instead came up during initial review).
+61. New York City Department of Housing Preservation and Development (2026, March). Preliminary Mayor’s Management Report, 334. 
+https:/ /www.nyc.gov/assets/operations/downloads/pdf/pmmr2026/2026_pmmr.pdf. Note that the median time to lease-up a homeless 
+set-aside new construction unit is 235 days. 
+62. New York City Department of Housing Preservation and Development (2022, September). Mayor’s Management Report, 35. https:/ /
+www.nyc.gov/assets/operations/downloads/pdf/mmr2022/2022_mmr.pdf. 
+118 days
+43 days 29 days33 days
+Median Time from  
+Not Started to Decision
+Not Started  
+to Approved
+Not Started  
+to Rejected
+Under Review  
+to Approved
+Under Review  
+to Rejected
+Median Time from  
+Under Review to Decision
+23 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+The Problems the Data Identifies
+The data suggest two key issues. First, the verification process is taking too long. Second, there is wasted 
+effort, as shown by the roughly 30% of applicants who will ultimately be rejected (27%) or withdraw (3%) 
+despite their and their marketing agent’s engagement.
+The Process Takes Too Long
+A minimum of 76 days passes between when a building’s lottery opens and when applicants receive a 
+log number.63 Then, as we see in this data set (which begins when applicants receive a log number), the 
+median time to be verified and approved for an offer is approximately 118 days. Marketing agents begin 
+the lottery process roughly six to seven months before the new building receives a temporary certificate 
+of occupancy (TCO). But the median total of 194 days, or approximately 6.5 months, from lottery opening 
+to approval bumps up against that six to seven month timeframe. It is important to keep in mind that this 
+timeframe is the median one, but many applicants face significantly longer times (more generally, the 
+data is strongly right-skewed), and it does not even include subsequent stages of the process, including 
+signing leases and moving into an apartment.The data suggest that approval and lease-signing may not 
+be complete for a significant percentage of applicants when the TCO is received by the developer, leaving 
+a portion of the units unoccupied. 
+An applicant’s preferences, interest in a building relative to another housing opportunity, household 
+composition, and income are more likely to have changed the longer the process takes. A large proportion 
+of applicants are dropping out of the process or are failing to respond to requests for documents and 
+are getting rejected as the verification process moves forward. As the process unfolds, applicants may 
+be dropping out because they have moved into another unit or because their income and preferences 
+have changed over the course of several months. 
+The Process Wastes Effort and Frustrates Applicants
+As currently implemented, the application process wastes significant effort. Approximately 27% of applicants 
+engage meaningfully with the process—in the form of responding to marketing agents and submitting 
+documents for review—yet are ultimately rejected. This high rejection rate wastes the time of the applicant 
+and agent and holds up verification of batches of applicants next in line. Applicants who do not formally 
+63. The Marketing Handbook requires that a lottery accept applications for 60 days, that marketing agents collect paper applications seven 
+to ten business days from the application period’s close, and that they generate log numbers in seven days. See: Marketing Handbook, 
+supra note 15, at 9. The Handbook also appears to allow marketing agents discretion over the time it takes to enter paper applications 
+electronically after collecting them but before generating log numbers. See: Marketing Handbook, supra note 15, at 21.
+24 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+respond to document requests may also waste their time if they search for but cannot compile the documents. 
+Because these applicants still receive outreach and require marketing agents to adhere to the five day waiting 
+period, they also waste agents’ time and delay the verification process for other applicants. 
+The formal rejections described above are difficult to parse. Applicants selected in a building’s lottery are 
+apparently eligible for at least one unit type, but these applicants are generally rejected because they are 
+either actually ineligible for the unit or because they have chosen to self-remove from the process, have 
+failed to respond, or have not been able to submit a complete set of documents. The data show that a small 
+proportion of applicants are rejected for a complete “failure to qualify,” but we are unable to reliably identify 
+the precise reason most applicants are rejected. Nonetheless, we can conclude that the high rate of rejection, 
+whether before or after applicants engage, is a good proxy for waste in the application processing system. 
+Notably, there are also applicants who are approved but then a unit is not attached to their application. This 
+situation can happen when marketing agents underestimate the number of applicants who will be approved 
+to move-in or because of other challenges marketing agents are facing at the end of the process matching 
+units to approved applicants. Some applicants may also be approved and then placed on a waitlist, or, based 
+on our interviews, we understand there is another category of people who are found eligible but then drop 
+out of the process and end up not signing the lease. 
+The long process and the lack of opportunities in 
+early stages of the process for applicants to show 
+preferences for certain unit types may be causing 
+some of the drop-off and rejection rates we see later 
+in the process. Housing Connect allows applicants to 
+submit applications at a building level without pre-
+screening them for eligibility based on a preferred 
+unit type. Applicants may expect to receive offers 
+for larger unit types or may expect that they will 
+qualify for lower monthly rents, but once the 
+marketing agent reaches out or puts them through 
+the verification process, they may be surprised to 
+learn they are ineligible for that unit type or for 
+that rent level. In addition, the long process means 
+marketing agents are reaching out months after an 
+application was submitted, and an applicant may 
+have simply moved on to other housing options. 
+Approval (no unit attached)
+Approval (unit attached)
+High-engagement Rejection
+Late Withdrawl
+Low-engagement Rejection
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0 Early Withdrawl
+Figure 6: Share of applicants by final disposition.
+25 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Other Problems with the Current 
+System and Constraints 
+Stakeholder-identified Problems
+There are four primary stakeholders involved in the Housing Connect lottery system: applicants, owners/
+developers, marketing agents, and the City itself.
+1. Applicants: Applicants have identified a number of problems related to logistics, fairness concerns, 
+and inefficiencies in the system. Although there is no systematic and publicly available information 
+on applicants’ interactions with the lottery system, their perspectives can be gleaned from many 
+active online communities. We relied on Reddit’s /nychousinglottery—an online community with 
+37 thousand weekly visitors—for applicants’ perspectives as they navigate the Housing Connect 
+lottery.64 With respect to logistics, applicants write about the burden of maintaining and updating their 
+information, criticize the site as requiring too much ongoing monitoring given the low probability 
+of success, and express frustration with the prospect of needing to move quickly and relocate on a 
+short timeline (which may involve paying broken lease fees, pulling together first month’s rent and 
+the security deposit, changing kids’ school districts, etc.).65 With respect to fairness, applicants believe 
+that the people who most deserve the units (struggling NYC families) aren’t the ones getting them. 
+Applicants who fail to get an offer after years of trying are sometimes disheartened, and applicants 
+who do get offers are frequently disappointed with the unit’s poor fit for their needs. 
+2. Owners: Owners and developers we spoke with express frustration primarily with the cost of delays 
+associated with marketing. Owners directly incur costs from paying marketing agents. But they also 
+incur other costs from long lease-up times, including losses in operating income and delays to the 
+conversion from construction financing to permanent financing that charges lower interest. 
+3. Marketing Agents: Marketing agents face a variety of challenges. They work on short timelines with 
+intensive workflows and high volumes. These problems are exacerbated by staffing issues when, as 
+frequently happens, temporary certificates of occupancy (TCOs) are delayed. Marketing agents also  
+ 
+ 
+64. r/nychousinglottery. Reddit. https:/ /www.reddit.com/r/nychousinglottery/new/. We acknowledge there is inherent bias in the Reddit 
+forum and we assume individuals who participate in an online forum are more likely to have had a negative experience with the lottery. 
+We still found the volume of postings and the substance of these complaints valuable to understand issues users were encountering. 
+65. r/nychousinglottery. Reddit. https:/ /www.reddit.com/r/nychousinglottery/new/. 
+26 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+express frustration with the appeals and complaint process and the City’s audit-based reviews, which 
+they say cause significant delays for individual applicants and which made it difficult to lease-up a 
+building as they experienced these interruptions. 
+4. City Officials: City officials identify a much broader set of concerns. Most recently, at an April 2025 
+City Council committee hearing, policymakers identified many concerns related to Housing Connect’s 
+functionality—web outages, important but unimplemented filters (e.g., for voucher status), confusing 
+income requirements for voucher holders, and inaccessibility to senior citizens.66 Some policymakers 
+also have also pointed out the system’s inefficiencies, including redundancies in repetitive requests 
+for personal information across agencies, long processing times, high rejection rates, and an inability 
+to fill units faster.67 
+Constraints on Reform
+The primary constraints on reform lie with the City and its agencies that implement or interact with 
+the lottery system. In contemplating reforms, the agencies must remain within the constraints of their 
+missions, the law, and their administrative capacity. 
+The City and its agencies must comply with their numerous legal obligations. First, the City must 
+avoid due process violations and must weigh the risk of mistakes (like incorrectly denying someone’s 
+application without reason or post-deprivation relief) against the burdensome nature of the process. 
+Second, the City must abide by local, state, and federal non-discrimination requirements and obligations 
+to affirmatively further fair housing under the Fair Housing Act of 1968. Third, the City must adhere to 
+lengthy procedural requirements if they want to change their regulations.68 And fourth, the City must 
+comply with federal requirements that apply to units based on the source of funds (e.g. the Low-Income 
+Housing Tax Credit (LIHTC)).69
+The City also faces important administrative constraints. Even though expanding administrative 
+capacity is within the City’s control, it also must maintain a balanced budget, which constrains hiring, 
+and City officials may be constrained by civil service rules and approval processes that make hiring time- 
+ 
+66. New York City Council. (2025, April 29). Committee on Housing and Buildings. CityMeetings.nyc. https:/ /citymeetings.nyc/meetings/
+new-york-city-council/2025-04-29-1000-am-committee-on-housing-and-buildings.
+67. New York City Council. (2025, April 29). Committee on Housing and Buildings. CityMeetings.nyc. https:/ /citymeetings.nyc/meetings/
+new-york-city-council/2025-04-29-1000-am-committee-on-housing-and-buildings.
+68. New York City Charter §§ 1041–1047 (2023); New York City Office of the Comptroller. (2025). Contract primer. https:/ /comptroller.nyc.
+gov/reports/contract-primer/.
+69. See 26 US § 42(m)–(l); 26 CFR § 1.42-1 to 1.42-5 (1.42-5 in particular); 24 CFR 8.22 (requiring that federally-assisted new construction 
+include at least 5% of units accessible to people with mobility disabilities and at least 2% for people with vision/hearing disabilities, both 
+rounded up to the nearest whole number. Note that this requirement is about accessible design, not allocation).
+27 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+consuming. These rules, along with procurement rules, are self-imposed constraints that nevertheless 
+may be difficult to overcome. The City also has limited funding to retrain employees or pass retraining 
+costs on to marketing agents.
+Related Academic Literature  
+on Lotteries
+Lotteries are a common method for distributing scarce public resources like publicly-subsidized housing, 
+and there is a correspondingly significant body of scholarly work that studies them. This work is wide-
+ranging, from describing the contexts in which lotteries are normatively appropriate and evaluating the 
+tradeoffs between different lottery systems to optimizing the actual routines used to process applicants. 
+Scholars’ Normative View
+Broadly, scholars have been principally concerned with the contexts in which lotteries are most normatively 
+appealing, for example relative to alternative systems for allocating resources like markets, queues, 
+or screens.70 Immigration opportunities, life-saving medical treatment like organs and vaccines, and 
+resources during disaster are key examples for the literature. 71 The most widely discussed context is 
+one in which the resource to be allocated is scarce72 and indivisible,73 and the candidate recipients are 
+indistinguishable with respect to merit.74 In this context, lotteries provide a way to allocate the resource 
+with a certain kind of fairness in the form of equal probability of receipt, even if not equality of actual 
+70. Duxbury, N. (1999). Random justice: On lotteries and legal decision-making. Oxford University Press; Elster, J. (1989). Solomonic 
+judgements: Studies in the limitations of rationality. Cambridge University Press; Calabresi, G., & Bobbitt, P. (1978). Tragic choices. W.W. 
+Norton & Company; Daniels, N. (2012, June 5). Just health care. Cambridge University Press.
+71. Shachar, A. (2009). The birthright lottery. Citizenship and global inequality. Harvard University Press; Emanuel, E. J., Persad, G., Upshur, 
+R., Thome, B., Parker, M., Glickman, A., Zhang, C., Boyle, C., Smith, M., & Phillips, J. P. (2020, March 23). Fair allocation of scarce medical 
+resources in the time of COVID-19. The New England Journal of Medicine. https:/ /www.nejm.org/doi/full/10.1056/NEJMsb2005114; Mavrodes, 
+G. (1984). Choice and chance in the allocation of medical resources: A response to Kilner. Journal of Religious Ethics. 12(1), 97– 99; Biddison, 
+E. L. D., Gwon, H. S., Schoch-Spana, M., Regenberg, A. C., Juliano, C., Faden, R. R., & Toner, E. S. (2018). Scarce resource allocation during 
+disasters: A mixed-method community engagement study. Chest, 153(1), 187–195. https:/ /doi.org/10.1016/j.chest.2017.08.001; Brock, D. W., 
+& Wikler, D. (Eds.). (2002). From chance to choice: Genetics and justice. Philosophical Quarterly. https:/ /philpapers.org/rec/BUCFCT-4.
+72. Wolfle, D. (1980). Chance, or human judgment? Science. 167(3922), 1201; Sher, G. (1980). What makes a lottery fair? Noûs, 14(2), 203. 
+https:/ /doi.org/221486; Bruce J. Winick, Legal Limitations on Correctional Therapy and Research, 65 Minn. L. Rev. 331, 361 (1981); Kornhauser, 
+L. A., & Sager, L. G. (2004). The many as one: Integrity and group choice in paradoxical cases. Philosophy & Public Affairs, 32(3), 492. http:/ /
+www.jstor.org/stable/3557987.
+73. Kornhauser & Sager, supra note 71; Ronen Perry & Tal Zarsky, May the Odds be Ever in Your Favor: Lotteries in Law, 66 Ala. L. Rev 
+1035, 1055 (2015).
+74. E.g., Adam M. Samaha, Randomization and Adjudication, 51 Wm. & Mary L. Rev. 1, 20 (2009) (epistemically indistinguishable); Calabresi 
+& Bobbit, supra note 69, at 44; Perry & Zarsky, supra note 72 at 1057 (meritocratically indistinguishable).
+28 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+receipt.75 Lotteries can also be appealing where candidate recipients are mistrustful,76 reactive,77 or prone 
+to making judgments about others who do or don’t receive the resource, 78 or where deciding who gets 
+allocated what might be traumatic for the decider.79 
+Of course, by a similar token, lotteries sanitize responsibility for deciding who gets what, so they are 
+relatively less appealing where it’s important to hold decisionmakers accountable for allocation decisions 
+or for false scarcity. 80 Lotteries are also relatively less desirable where recipients are distinguishable 
+in some policy-relevant way, for example on the basis of merit (like financial need), 81 efficiency,82 or 
+accessibility.83
+Subsidized affordable housing in New York City has many of the features these scholars argue makes 
+lotteries normatively appealing. It is a very scarce resource and is largely indivisible (housing units 
+can sometimes be subdivided and could be shared across time, but these forms of division respectively 
+run up against concerns around living standards and require significant transition costs). In addition, 
+within the population the current lottery system serves (based on income, assets, household size, and 
+the various prioritizations), applicants are fairly indistinguishable. 
+75. Kornhauser & Sager, supra note 71, at 485–88.
+76. Lotteries are relatively resilient to manipulation/gaming so long as multiple entries are accounted for and the process is carried 
+out correctly, and allow those in charge of allocating the resource to claim a form of impartiality/neutrality/unbiasedness (though only 
+a form, because the choice of a lottery over an alternative allocation mechanism is a “non-random political decision with significant 
+distributional effect,” so can be impugned as biases). See Perry & Zarsky, supra note 72 at 1057–1060.
+77. Lotteries are thought to comport with ‘folk’ notions of fairness. See Perry & Zarsky, supra note 72 at 1046–49. But see, Biddison, et al., 
+supra note 70 at 187 (suggesting public discomfort with lotteries as an allocation mechanism, at least when the good being allocated is 
+life-saving). They may also reduce resentment among non-recipients, with the additional benefit of protecting those who make decisions 
+about how to allocate the resource. See: Wang, X. (2023) Intentions, impartiality, and the fairness of lotteries. Philosophia, 51, 1795–1810. 
+https:/ /doi.org/10.1007/s11406-023-00640-1; Perry & Zarsky, supra note 72 at 1064.
+78. For example, recipients could be stigmatized as not meriting the resource, or alternatively esteemed as being more meritorious than 
+they actually are. See Perry & Zarsky, supra note 72 at 1061.
+79. Perry & Zarsky, supra note 72 at 1061.
+80. Perry & Zarsky, supra note 72, at 1064 (though suggesting that this may be a feature more than a bug).
+81. Perry & Zarsky, supra note 72, at 1057 (arguing that where there are morally relevant differences between candidate recipients, “cannot 
+be justified in terms of equity”). See also: Perry & Zarsky, supra note 72, at 1062–64, 71 (noting that candidate recipients may experience 
+the illegibility of their deservingness to the state as a loss of dignity and agency).
+82. Perry & Zarsky, supra note 72, at 1068–69 (observing that the level of inefficiency in a lottery’s allocation will depend in part on 
+the heterogeneity of candidate recipients with respect to how much they value the resource); Koh, W. T. H., Yang, Z., & Zhu, L. (2006). 
+Lottery rather than waiting-line auction. Social Choice and Welfare, 27(2), 289–310. http:/ /www.jstor.org/stable/41106779 (making a 
+similar argument); Boyce, J. (1994). Allocation of goods by lottery. Economic Inquiry, 32(3), 457–469. https:/ /doi.org/10.111/j.1465-7295.1994.
+tb01343.x (noting the inefficient allocation of non-transferrable resources by lottery).
+83. Some recipients may be costlier to deliver the resource to. See, e.g., Boyce, supra note 81, at 472–73 (observing that barriers to entry 
+may unfairly screen out some applicants). See also: Brock, D. W., & Wikler, D. (2006). Ethical issues in resource allocation, research, and 
+new product development. In D. T. Jamison, et al. (Eds.), Disease control priorities in developing countries (2nd ed.). Oxford University 
+Press (noting that fair chance allocation will allocate resources to some of those who are costly to treat at the expense of allocating 
+them to many who are cheap to treat); Edlin, R., McCabe, C., Round, J., Wright, J. M., Claxton, K., Sculpher, M., & Cookson, R. (2013). 
+Understanding Harris’ understanding of CEA: Is cost effective resource allocation undone? Journal of Health Services Research & Policy, 
+18(1), 34–39. https:/ /doi.org/10.1258/jhsrp.2012.011057 (presenting a similar argument).
+29 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+On the other hand, some features of subsidized affordable housing in New York City make lotteries like 
+the current one less appealing. A lottery obscures real differences between applicants, for example in their 
+access to family support, their neighborhood’s cost of living, or how long they’ve been trying to obtain 
+affordable housing. And while the lottery may protect City administrators from making decisions directly, 
+its impersonal nature engenders other complaints and plausibly deflects accountability for misallocation.
+Economists’ Views on Tradeoffs
+Several theoretical papers have analyzed resource allocation problems motivated by the problem of 
+allocating affordable housing. These papers are distinguished by their focus on how the design of the 
+allocation process shapes applicants’ incentives to choose different types of housing. Applicants often 
+face a tradeoff between finding a home quickly (shorter waiting time) and receiving a home in their 
+preferred type of building or neighborhood. Different rules governing how applicants make housing 
+choices can change their incentives to wait for a preferred type of unit. These papers ask how the 
+allocation process affects various design goals, including minimizing waste, matching applicants to 
+their most desired type of unit (match quality), and giving housing to applicants with the greatest need 
+(targeting). Different systems are often compared according to a utilitarian welfare criteria, as well as 
+these more specific objectives.
+These papers offer a few high-level insights. First, because the allocation mechanism does not directly 
+affect the resources available for affordable housing, the primary way it affects scarcity is through the 
+amount of time it takes to assign applicants to vacant units. 84 In principle then, reducing the burden 
+and complexity of the process can decrease scarcity with minimal tradeoffs.
+Second, these papers highlight a tradeoff that can arise in lotteries between spending time and resources 
+to precisely target affordable housing to good matches as opposed to maximizing resources spent on 
+building housing while minimizing time and resources spent on encouraging better matches. 85 For 
+example, many allocation mechanisms that reduce waste to make more units available for those who 
+need them often do so by encouraging applicants to accept units that aren’t ideal matches for them. 86 
+Whether this outcome is desirable will often depend on how policymakers weigh these different objectives, 
+as well as on the extent to which applicants differ in their preferences and needs. 
+84. Leshno, J. D. (2022). Dynamic matching in overloaded waiting lists. The American Economic Review, 112(12), 3876–3910. https:/ /www.
+jstor.org/stable/27181546.
+85. Arnosti, N., & Shi, P. (2020). Design of lotteries and wait-lists for affordable housing allocation. Management Science, 66(6), 2291–2307. 
+https:/ /doi.org/10.1287/mnsc.2019.3311.
+86. Su, X., & Zenios, S. A. (2005). Patient choice in kidney allocation: A sequential stochastic assignment model. Operations Research, 
+53(3), 443–455. http:/ /www.jstor.org/stable/25146880.
+30 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Finally, economic theory provides some direct insight about the Housing Connect system and about 
+alternatives and reforms to that system. Because applicants to Housing Connect draw a new lottery 
+number for each building and can apply to an unlimited number of buildings, the system encourages 
+applicants to apply for many buildings rather than waiting for buildings they specifically prefer. This type 
+of system tends to allocate housing to a greater share of “high-need” applicants because these applicants 
+are typically more willing to put in the effort to keep reapplying, but it also typically yields lower match 
+quality because applicants will more likely be assigned to buildings they had less interest in. By contrast, 
+a first-come, first-served waitlist or citywide (“common”) lottery encourages applicants to wait for units 
+they have more interest in but also limits the ability of high need applicants to “pay with their time” for 
+more opportunities to be selected. Restricting the number of buildings each applicant may apply for in 
+a given year can affect the need-match quality tradeoff in a similar way.87 
+Optimizing the Actual Routines Used  
+to Process Applicants
+Statisticians and operations researchers have likewise contributed to analyses of resource allocation, but 
+their focus (under the heading of “queueing theory”) has largely been on the routines (the “queues”) used 
+to process allocations. For example, queueing theorists are interested in questions like when and how 
+queues can be sped up, when multiple queues are better than one, and when it’s better to have special 
+track processes (e.g., fast tracks).
+The literature is quite technical but offers at least two core insights for housing lotteries. First, more 
+efficient queueing generally requires having information about whatever is being processed—in this 
+case, an application by a household for a building—and how long processing it is likely to take.88 
+Second, better queueing generally requires treating applicants differently based on the information 
+available about them.89 This treatment can take a variety of forms, most commonly placing an applicant 
+in a specialized track, parallelizing applications, or re-routing them to a different resource. A specialized 
+track, like a fast-track or slow-track, typically involves tailoring either scrutiny of the application or the 
+resources available for processing an application based on predictable needs of that applicant. Parallelizing 
+typically involves processing batches of applications simultaneously as if they held the same place in  
+ 
+87. Arnosti & Shi, supra note 84. 
+88. Schrage, L. (1968). A proof of the optimality of the shortest remaining processing time discipline. Operations Research, 16(3), 687–690. 
+http:/ /www.jstor.org/stable/168596.
+89. Wierman, A. (2011). Fairness and scheduling in single server queues. Surveys in Operations Research and Management Science, 16(1), 
+39-48. https:/ /doi.org/10.1016/j.sorms.2010.07.002.
+31 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+the queue. This option avoids applications that take a long time to verify from hanging up processing, 
+but it risks asking more people to verify than there will be units available. Re-routing typically involves 
+tailoring the resource available to the applicant based on their expected processing time.
+The Housing Connect system fails to use significant information available about applicants. For example, 
+voucher holders, disabled applicants, larger households, and applicants to buildings that differ in size or 
+subsidy source all have predictably distinctive processing needs.90 This predictability could be used to 
+create specialized tracks better tailored to these applicants’ needs while also freeing up general processing 
+tracks for more routine applicants. Many marketing agents already choose to treat statistically similar 
+(but sequentially different) applicants the same way with batching. Applicants could also be batched at 
+a statistically optimized scale rather than at a discretionarily chosen one. Applicants who take too long 
+to verify for the current building could get bumped to the next available one, or those who verify sooner 
+could be given an earlier choice of units within a building. Whether employing such information to 
+improve queueing is valuable depends on whether the saved processing time is worth treating statistically 
+different (but normatively similar) applicants differently with tracks or re-routes. 
+Proposed Reforms
+Our analysis of the current lottery system, the problems that stakeholders and our data surfaced, and 
+the tradeoffs scholars have identified have led us to consider several possible reforms. First, we propose 
+a set of specific reforms to the design of Housing Connect and the rules in the Marketing Handbook that 
+could be implemented in the short-term. Second, we propose a set of larger reforms to the documentation 
+process that would require significant structural changes. Finally, our last proposal is broader, and rather 
+than being geared towards allocating the existing number of income-restricted units, details how the City 
+could use Housing Connect data to expand and change the overall supply of income-restricted housing. 
+90. Applicants with more adult household members may take longer to process than those with fewer because there are more potential 
+income streams and assets to verify. Applicants who will be using vouchers may take longer to process because there are special 
+requirements for verifying voucher receipt. And although applicants for buildings with fewer units may take less time to process because 
+there are fewer units for them to have to learn about and choose between, more applicants may have to be processed because it’s 
+harder to find good fits for applicants. 
+32 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Short-Term Reforms to Change Housing Connect’s 
+Design and the Marketing Handbook’s Rules
+Re-Designing Housing Connect Elements
+One of the most significant problems our analysis reveals is the tremendous number of applicants who 
+drop out of the verification process or are rejected, wasting the time and hopes of the ineligible applicant 
+and the time of the eligible applicants next in line, the marketing agents, and the developer with units 
+sitting vacant. In the short term, implementing reforms to automate the process and move some of the 
+eligibility and matching work earlier using structured data would help ensure the verification process is 
+focused on checking eligibility for a more limited set of applicants who have been screened for eligibility 
+and have expressed a preference for the specific type of unit and location available.
+To address this problem, we propose two reforms designed to better screen out ineligible applicants 
+without overly constraining applicants’ choices: 
+1. Applicants Should Apply for Types of Units, not Buildings, and Should Not Be Able to Apply 
+for Types of Units for which they are “Apparently Ineligible”: Applicants should apply for types of 
+unit (e.g. 1 bedrooms at 50% area median income and 2 bedrooms at 50% area median income) within 
+a building, not to the building at large. Where applicants are eligible for more than one type of unit, 
+they could apply for more than one type. This change will help structure the queuing process around 
+types of units and ensure marketing agents are aware of a resident’s preference for a specific type of 
+unit while also ensuring that residents are not applying for a building hoping to secure a type of unit 
+for which they are not eligible. When a resident clicks to “apply” for a unit type, they should also not be 
+able to override the prompt mentioned above and instead should be redirected to the “My Household” 
+portal to make changes to their self-reported income and household composition before they apply for 
+a unit for which they are apparently ineligible. This inability to override apparent ineligibility will help 
+structure the verification process around applicants who have applied for types of units for which they 
+are eligible and for units that are a good match for their preferences based on self-reported information. 
+These changes would also help encourage applicants to keep their information up-to-date. 
+2. Expand the Information Collected in the “My Household” Portal: Housing Connect should ask 
+more detailed questions about applicants’ preferences, including making existing questions about 
+pet policies and accessibility needs mandatory and adding questions about borough or neighborhood 
+preferences. Applicants should also select their preferred unit size from a menu of options that is 
+based on their household size and occupancy standards. Unlike income and household composition 
+data, these data related to preferences would not be used to restrict applicants from applying for 
+33 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+units that do not meet all their preferences. However, the data should be used by marketing agents 
+to structure their lease-up process around applicants’ stated preferences earlier in the verification 
+process. This change might ensure fewer applicants drop out of the process after significant effort has 
+already been expended. Instead, applicants and marketing agents could determine early on whether 
+the unit being offered is a good match. 
+Together, these changes would minimally intrude on applicants’ actual choices while helping to prevent 
+the too frequent mistakes of applicants applying to units they want but aren’t eligible for, or of marketing 
+agents offering residents units they don’t want but are eligible for at the late stages of the process. If 
+Housing Connect collected such data earlier, the system could then deploy some of the structured data 
+automatically in the application stage. Other data could be made available to marketing agents to allow 
+them to structure an efficient process in which the applicants being logged and entering the verification 
+process are grouped together and queued for a type of unit that is well matched to the applicants’ 
+preferences and eligibility. 
+Changing the Marketing Handbook to Shorten 
+and Condense the Time It Takes for Some 
+Stages, and to Anchor Other Stages to Clear 
+Expectations on Timing 
+As mentioned above, the median time from when an applicant is logged to when they are approved for a 
+unit is currently around 118 days in our data. Then, it takes even longer to actually sign the lease. A longer 
+process means applicants are more likely to drop-out either because they move somewhere else or lose 
+interest, or because contact information or household composition and income information have changed. 
+Shortening timelines and providing minimum and maximum ranges for each stage, as well as standards 
+for extensions from those maximums, will help anchor the process for marketing agents and applicants. 
+Providing clear boundaries and guidance on how long the process should take at each stage for both 
+the applicants and the marketing agents will also reduce the marketing agent’s discretion and make the 
+process potentially seem less unfair and less arbitrary.
+Examples of timing constraints that could be amended in the Marketing Handbook include: 
+	■ Shortening the length of time when lotteries are open and applications for a new lottery can be 
+accepted (currently 60 days). 
+	■ Requiring that applicants be provided clear time constraints on the time they have to respond to the 
+34 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+request (currently applicants must respond within 10 days) and a maximum amount of time by which 
+they must have submitted a complete set of documents (currently it is a minimum of 5 extra days). 
+	■ Reducing marketing agents’ discretion over extending deadlines for applicants to provide verification 
+documents by enumerating objective standards agents must adhere to when considering an extension. 
+These standards might include a set number of days for an extension as well as a standard set of 
+rationales about when extensions may be granted (there is currently no standard). 
+	■ Requiring that marketing agents review and then “reject” or “accept” documentation within a maximum 
+amount of time (there is currently no deadline). 
+	■ Defining the amount of time that is “reasonable” between an offer being accepted and a lease being 
+signed (there is currently no set number of days). 
+	■ Defining the amount of time the City can spend auditing applicant paperwork (there is current no 
+set number of days)
+These recommendations do involve some tradeoffs, but we see some clear advantages to our proposed 
+approach. A shorter application window before a building’s lottery closes ensures applicants’ interest and 
+information are more timely and more likely to be accurate in subsequent stages of the process. Likewise, 
+providing clear boundaries on how long each stage (document submissions, a marketing agent’s review, 
+and the agency’s reviews) should take would ensure better reporting against a performance metric. Then, 
+all stakeholders could understand whether a building’s verification process is taking longer than that 
+performance metric mandates and work to speed up the process. Clear timelines and objective standards 
+for extensions also would limit marketing agents’ discretion. There is a perception that some marketing 
+agents arbitrarily provide favorable treatment and longer extensions to some applicants than others. 
+Clear timelines would advance fairness by ensuring that the process is applied uniformly. 
+That said, providing applicants longer windows to apply and longer, looser windows to submit documentation 
+may help expand access. Some applicants may need more time because securing and submitting 
+documents is difficult and because they cannot move quickly into a new apartment. This challenge could 
+be addressed in two ways. First, the City could work to provide individuals whom it believes will need 
+assistance navigating the application and verification process with prompt and direct assistance from 
+trained providers. Second, the City could draft the objective standards for extensions in a manner that 
+makes marketing agents provide additional time to the populations it believes would be disadvantaged 
+by shorter, more defined timelines.  
+There is another consideration that also might weigh against these changes. If marketing agents are using 
+their discretion to give extensions to applicants who are almost finished with submitting documentation, 
+then tightening the timelines and limiting discretion may increase the number of applicants who fail to 
+35 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+complete the process. In that situation, marketing agents would need to go through more applications 
+to fill a given unit. To address this potential issue, HPD would need to regularly monitor metrics like the 
+share of rejections and the time it takes to fill units to make sure the timeline is not so restrictive that 
+it dramatically increases the number of applicants being “rejected”.
+Long-Term Reforms Requiring Significant 
+Structural Changes 
+Simplifying Documentation Requirements, Integrating Housing 
+Connect with Other Systems, and Automating Verification 
+Another significant problem confirmed by our analysis is the extended processing time that applicants 
+face to verify eligibility. This timeline taxes applicants’ and marketing agents’ energy and patience and 
+leaves units that could be housing New Yorkers in need vacant. 
+HPD has made addressing documentation for verification a priority recently. 91 The agency published 
+changes to the Marketing Handbook in April 2025 that included a safe harbor provision allowing applicants 
+to submit fewer documents if they had income calculated for other federal means-tested programs and 
+has advocated at the federal level for loosening federal documentation rules, like the requirement that 
+documents be no older than 120 days for the LIHTC program.92 
+Still, the Marketing Handbook tells users “income eligibility at admission is determined in the same way 
+as it is determined under the federal Section 8 program except where the Agency specifies that additional 
+requirements or restrictions apply.”93 To realize the benefit of the changes made in April 2025, the City 
+should actively work to integrate its systems that host household composition and income information 
+for the purpose of calculating incomes using Section 8 rules. If an applicant says they are receiving 
+rental assistance (especially a voucher), the applicant’s household information in Housing Connect 
+should be able to link to the applicant’s recertification process in NYCHA, DSS or HPD’s system. That 
+way, the Housing Connect verification process and the voucher certification process are integrated and 
+can happen in parallel; the processes would not be stuck waiting for each other during verification and 
+lease-up, and applicants would submit only one set of documents. 
+91. Maldonado, S. (2025, April 29). Affordable housing lottery chops paperwork pile for apartment applications. The City. https:/ /www.
+thecity.nyc/2025/04/29/housing-lottery-apartment-application-less-paperwork-rent/.
+92. Marketing Handbook, supra note 15, at 44. 
+93. Marketing Handbook, supra note 15, at 43. 
+36 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Even if that reform is implemented, the best long-term solution would be to work with the federal 
+government to meaningfully simplify the income verification process. The Section 8 income calculation 
+rules are an exceedingly technical and difficult method for calculating incomes. The process requires 
+the agent to reconcile multiple pay stubs, make projections, and look at granular information about 
+an applicant’s assets, among other tasks. Then, if a project uses low-income housing tax credits, city 
+subsidies, or a tax abatement program, the applicant or the marketing agent may need to complete separate 
+certifications and income verification requirements that are governed by different rules from Section 8.  
+Regulations governing everything from how many days old a document can be while still remaining a 
+permitted source for verification to how to treat different types of income may vary across programs. 
+We recognize that reconciling the rules for calculating income across several means-tested programs is 
+a thorny problem. It is perhaps thorniest in the affordable housing context, where one building may be 
+layering multiple subsidy types, each with different rules on how to verify incomes. Certainly, if a building 
+benefits from only a tax abatement program, it should require a less intensive eligibility process relative to 
+a building that also involves federal tax credits. But adjusting the rules for some buildings and not others 
+is also not a long-term solution and it may be difficult to train marketing agents on multiple processes. 
+The best structural, long-term change would be to have all levels of government—city, state and federal—
+work to reconcile documentation and income verification requirements so the rules are the same across 
+all means-tested subsidy programs (including for the Section 8 program if those rules will serve as the 
+City’s foundational process for verifying incomes in Housing Connect). The reconciled documentation and 
+income verification rules should be written to be uniform, consistent and easy to apply. Most importantly, 
+the goal of the rules should be to move towards using automation tools that can read documents and  
+assign an income to a household easily with standard inputs. Then, that income calculation could be 
+used for a period of time to determine whether an applicant is eligible for a range of programs, including 
+an income-restricted unit in Housing Connect. 
+This kind of change would require a very heavy lift to reconcile statutes and regulations across multiple 
+levels of government, deploy tools for automation, and create a centralized system to produce an income 
+calculation. That effort would be an enormous undertaking that cannot be accomplished by HPD 
+alone, but it should be an aspiration of the City and on the agenda for discussion with the state and 
+federal governments. 
+37 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+In the meantime, the City can begin to support automating the verification process, whether by developing 
+its own in-house capabilities to automate the reading of documentation or by incentivizing technology 
+solutions that marketing agents could use. For example, the City could lead pilot projects, sponsor 
+innovation grants, create more automatable application APIs, or develop AI and automation standards 
+and guidelines. Some marketing agents are already exploring these emerging technologies, and the 
+agencies should consider convening those that are to learn how the City can best provide support. 
+Broader Opportunities
+Additional Value of Gathering More Information About 
+Applicant’s Preferences 
+Though not explicit in most stakeholders’ concerns with the current lottery system, we additionally 
+believe the scarcity and absence of income-restricted housing in certain neighborhoods represents a 
+significant problem. To address this problem, we propose leveraging Housing Connect to increase supply 
+and improve the process for siting and approving affordable housing. 
+One of the short-term proposals mentioned above is for Housing Connect to solicit users’ housing 
+preferences when they first create, and subsequently update, their household information. These 
+preferences would include geography and the number of bedrooms they would prefer. This structured 
+data set is useful to better screen applicants, but it is also a powerful tool to understand affordable housing 
+demand (in the economic sense) and should be used by the City in other contexts.
+	■ Pipeline Planning and Geography of Demand: Understanding demand by geography would help 
+inform debates about which neighborhoods and council districts are not providing enough supply 
+because they are not approving enough affordable housing to meet demand for identified applicants 
+who want to live in that neighborhood as shown in Housing Connect.
+	■ Pipeline Planning and Design Uses: Understanding demand as shown in Housing Connect by unit 
+size (and whether applicants prefer elevator buildings or other design elements) would be a powerful 
+tool to (1) justify or change designs for specific projects and to (2) inform amendments to HPD’s Design 
+Guidelines or term sheets. The goal would be to encourage projects that meet the demands for identified 
+applicants seeking a mix of unit sizes or amenity preferences.
+	■ Constituency Building for Projects: Allowing applicants in Housing Connect to opt in or out of 
+alerts from HPD about proposed, but not yet approved, projects that would produce units that meet 
+their neighborhood and size preferences could be an effective tool to build a constituency for specific 
+38 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+projects.94 These applicants would then be able to choose whether to participate in the community 
+engagement process for housing that meets their preferences. This ability to opt in to HPD alerts about 
+proposed projects would help organize what is a relatively latent constituency for new affordable 
+housing construction.
+Conclusion
+Housing Connect is a critical system, used by marketing agents, owners, HPD, and hundreds of thousands 
+of applicants each year who are seeking an affordable unit in New York City. The current lottery process 
+takes too long—the whole process takes a median of more than 140 days based on HPD’s calculation, and 
+based on our calculation, the verification, approval and offer process alone takes a median of 118 days. 
+In addition, applicants and marketing agents waste effort in the processing stage working through 
+documentation for a tremendous volume of applicants who will not be approved. We found that the vast 
+majority of applicants will not make it to the end of the process, either because of attrition where the 
+applicant is not being meaningfully engaged or is dropping out or because of explicit rejection where 
+the applicant fails to provide documentation or is found ineligible. 
+This high likelihood of rejection wastes the time and hopes of the ineligible applicant, the eligible applicants 
+next in line, the marketing agents, and the owner left with vacant units. The evidence suggests that the 
+current design of Housing Connect creates long delays in filling units, which raises the overall cost—in 
+both time and money—of providing affordable housing. Each month that a completed affordable unit 
+sits vacant is a waste of a valuable, publicly subsidized resource. Less visible, but also important, are the 
+costs a complex and burdensome process imposes on applicants, marketers, developers, and the City’s 
+housing agencies before a building is even ready to be occupied.
+94. The choice between allowing applicants to opt in versus giving them the opportunity to opt out is a significant one. It could substantially 
+affect take-up. See, e.g., Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale 
+University Press. It may also implicate privacy laws and policies. For example, the City’s ‘identifying information’ laws would require 
+authorization “in writing” from the applicant to disclose identifying information like a phone number, as well as approval by HPD and/
+or HDC’s privacy officer. See: N.Y.C. Admin. Code § 23–1202. The City would need to ensure an opt-out form would satisfy the ‘in writing’ 
+standard. Even if it did, the agencies’ privacy officers may decline to approve it based on the current Agency Privacy Officer Toolkit, 
+which appears to recommend, though not require, that opt-out forms be used only where impracticable. See: New York City Office of 
+Technology and Innovation (2025). Agency privacy officer toolkit. https:/ /www.nyc.gov/assets/oti/downloads/pdf/reports/cpo/2025%20
+Agency%20Privacy%20Officer%20Toolkit%20_web.pdf (“Opt-out consent may be appropriate when opt-in consent is impracticable 
+and only non-sensitive identifying information is to be collected, used, or disclosed.”). Additionally, any uses which third parties made of 
+such information (for example, if HPD were to contract alerts to nonprofits or developers) should generally be disclosed to the applicant. 
+See: New York City Office of Technology and Innovation (2025, 13 June). Citywide privacy protection policies and protocols. https:/ /www.
+nyc.gov/assets/oti/downloads/pdf/reports/cpo/2025%20Citywide%20Privacy%20Protection%20Policies%20and%20Protocols_web.pdf 
+(“When obtaining consent, agencies should typically explain: … [t]he entities that will collect, use, or disclose the identifying information 
+.… [and t]he purpose and scope of the collection, use, or disclosure.).
+39 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Here we have suggested a set of common-sense reforms that might help alleviate these challenges: 
+	■ Collecting more structured data and requiring that applications be submitted at the unit type level. 
+The City could use these changes to automatically screen out applicants where appropriate and then 
+in the verification process to ensure marketing agents are queuing applicants to the units they prefer 
+before the documentation process unfolds. 
+	■ Providing shorter, clearer timelines in the Marketing Handbook for each step in the process for 
+applicants, marketing agents and HPD. Clear timelines and objective standards would anchor the 
+process to a set of performance metrics. 
+	■ Working both across City agencies and with the federal and state governments to automate and 
+reconcile the income verification process and documentation requirements. Even if documentation 
+requirements cannot be reconciled, in the short term, the City could begin to build a process for 
+automating the review of income verification documents. 
+	■ Using the data in Housing Connect as leverage to develop an affordable housing pipeline and engage 
+the community.  Applicant data is a powerful tool for the City to begin to present the demand for 
+housing and to bring applicants into the community engagement process. 
+40 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Should the City Adopt a  
+“Citywide Lottery” Approach?
+One often-discussed reform to the lottery system would entail shifting from building-by-building lotteries 
+to all buildings in a wider geographic area like a neighborhood or borough, or even to a citywide lottery 
+that happens periodically. One motivation for such a change flows from applicants having very limited 
+information about their chances to get housing, which tends to give applicants an incentive to apply to as 
+many buildings as possible. This incentive might explain why so many applicants apply to buildings but 
+later decline offers, are rejected, or drop-out of the process, all of which delays the process of filling units.
+A structural shift to a citywide priority system might address some of these concerns, depending on its 
+design. In this section, we discuss how such a system could be designed and some of the implementation 
+challenges and questions we anticipate that would require additional analysis by policymakers. 
+Examples of Similar Citywide Priority Systems 
+in New York City
+There are two existing examples in New York City that are structured like a citywide priority system. 
+One example is the centrally managed “waiting list” system used for allocating public housing units and 
+Housing Choice Vouchers citywide.95 Each of these systems maintain a central list, with households on 
+the list assigned to “preference” categories based on defined criteria. When a unit or a voucher becomes 
+available, a household is selected off the list based on a defined set of rules that take preference category 
+and length of time on the list into account. The selected applicant then submits the documents needed 
+to verify eligibility with documentation one time upon selection. Applicants for public housing thus have 
+less choice with respect to their assigned unit than if they were allowed to apply separately to any building. 
+Adopting a fully centralized “waiting list” system would be difficult in the Housing Connect context. 
+Here, there is greater variability in who is managing the resource (as opposed to vouchers, where the 
+subsidy is managed by one administrator, and public housing, where there is one entity managing the 
+portfolio) and also a wide range of income-restrictions and regulatory requirements applicable to different 
+buildings and each unit within a building. For that reason, coordination between marketing agents and 
+developers of different buildings participating in a citywide system may be necessary.  
+95. New York City Housing Authority (2024, January 1). Admissions and continued occupancy policy: Chapter 4: Waiting list management. 
+https:/ /www.nyc.gov/site/nycha/residents/acop/chapter-4.page; New York City Housing Authority (2025, June 1). Housing Choice Voucher 
+program administrative plan. https:/ /www.nyc.gov/assets/nycha/downloads/pdf/hcpvadministrative.pdf.
+41 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+A second example of a citywide priority system is the process used by the New York City Department 
+of Education to allocate slots in schools and preschools. In this system, each year, parents of eligible 
+children rank a list of schools in order of preference.96 Each account is assigned a number at random that 
+corresponds to a preference order. The system’s matching algorithm then takes each school’s available 
+slots, the preference lists of all families, and the randomly assigned order number of all families and 
+assigns out slots in a school to each family. Students then have the option to enroll or to stay on a waitlist 
+for another school where they have an assigned order number on that waitlist. 
+Adopting a fully centralized allocation system like the one used for schools would be difficult for housing 
+for two reasons. First, buildings become available continuously over time, and the exact timing is hard 
+to predict in advance, unlike schools’ annual cycle. Second, there are significantly fewer housing units 
+available than applicants, while schools can plan to ensure there are enough slots available citywide for 
+all eligible students. 
+Designing a Citywide Priority System for 
+Income-Restricted Units Marketed through 
+Housing Connect
+There are a number of important elements for policymakers if they consider using a citywide priority 
+system for affordable housing. The system would need to give applicants already using Housing Connect 
+a priority number immediately, and new applicants would be given a number when creating a profile. 
+This number could range from 0 to 100, with a lower number corresponding to higher priority. An 
+applicant with a number of 13.57, for example, would be told that approximately 13.57% of Housing 
+Connect profiles have a better priority number.
+From there, the system could operate similarly to current practice. Applicants could apply to any buildings 
+listed on Housing Connect. When the application window for a building closed, HPD would sort applicants 
+by their priority numbers and share the resulting list with the marketing agent. Marketing agents would 
+screen applicants as they currently do, filling set-aside preference categories before screening remaining 
+applicants in priority order.
+96. New York City Department of Education. The match: How students get offers. https:/ /www.schools.nyc.gov/enrollment/enroll-grade-
+by-grade/how-students-get-offers-to-doe-public-schools.
+42 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+The advantage of this approach is the effects it might have on applicant behavior. This change would 
+give applicants more information about their chances of success before they apply to any buildings, 
+potentially changing how or whether they decide to apply. For example:
+	■ Applicants with very good priority numbers would have a good chance of being selected wherever they 
+apply. We expect them to respond by applying to fewer buildings and waiting until a good fit becomes 
+available on Housing Connect.
+	■ Applicants with very bad priority numbers would know that they are unlikely to receive housing 
+through Housing Connect. We would expect that many of these applicants will stop applying for 
+Housing Connect buildings.
+	■ Applicants with middling priority numbers could continue applying to any building they wish but 
+would be most likely to be selected for less popular buildings.
+If applicants respond in this way, we expect the following consequences:
+	■ Applicants with very good priority numbers would be able to choose buildings well-suited to their needs.
+	■ Applicants with bad numbers would spend less time browsing listings on Housing Connect and 
+applying to buildings.
+	■ The total volume of applications would decrease (due to decreased applications from applicants with 
+good numbers as well as those with bad numbers). 
+	■ Developers might find that the applicants they screen—most of whom would have good priority 
+numbers—have intentionally chosen their building and are more likely to complete the lease-up process.
+The academic literature offers theoretical evidence that a centralized priority list leads to better outcomes 
+for applicants. The findings that a citywide lottery gives more applicants one of their top choices and 
+that the improvements are largest in markets where applicants outnumber positions are supported by 
+a paper by Arnosti and Shi (2020). 97 The authors conclude that using independent lotteries for each 
+building when allocating housing units results in many low quality matches which could be avoided by 
+using a citywide lottery. 
+Before adopting a citywide approach, policymakers should work with existing data to measure empirically 
+whether these desirable effects are likely to occur. After all, in 2024, Housing Connect distributed 
+roughly 10,000 units across 300 buildings but approximately 6 million applications were filed for those 
+buildings.98 With that level of scarcity and such high demand, applicants might justifiably only feel like 
+97. Arnosti & Shi, supra note 84. 
+98. Tigani, supra note 7. 
+43 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+they have a good enough priority number to be selective and still secure a unit if their priority number 
+is in the top 1% of all applicants citywide. If so, the vast majority of applicants (including those with a 
+median or only “good” number) would feel like they still need to apply for as many buildings as possible. 
+Details For Future Discussion
+The potential benefits of a citywide lottery depend on careful consideration of implementation-related 
+decisions and the many unintended consequences that might occur. We considered a range of risks that 
+policymakers may want to consider before moving to such a system:
+1. Applicants Altering their Behavior to Secure Better Numbers: Households would naturally realize 
+the value of having a very good priority number, and might try to “game” the system (for example by 
+creating many accounts and using the account with the best priority number to apply). HPD would 
+have to anticipate and prevent such behavior. It is important to note here that the New York City 
+Department of Education (DOE) moved away from sharing random admission priority numbers for 
+3-K, pre-K and kindergarten applicants before an application is submitted in order “to ensure that 
+only one random number is generated per child.”99 The DOE had previously shared these numbers 
+prior to the application deadline. As we explain above, sharing the number that corresponds to an 
+applicant’s chances is a critical step for achieving the change in applicant behavior that would lead 
+to lower volumes and better matching. 
+2. Giving Households Multiple Chances to Secure a Better Number: Policymakers likely would 
+not want to give an applicant a permanently poor priority number. One alternative is to “refresh” 
+all applicants’ numbers at a point in time. Another alternative is to “refresh” numbers after some 
+interval has passed (for example, quarterly or one year after the previous number was assigned). 
+However, it is important that the “refresh” happen infrequently enough that applicants with good 
+priority numbers who are actively searching can reasonably expect to find a suitable apartment 
+before their priority number changes. To minimize disruption, the “refresh” should also occur when 
+applicants are not applying for buildings or are not being verified for units based on an old number. 
+This outcome may be difficult to achieve in a system like Housing Connect where buildings become 
+available on a rolling basis. HPD would need to consider whether it has enough information to build 
+a structured process that resets on an interval. In that kind of system, applicants use new priority 
+numbers every quarter or every year for a new batch of buildings that HPD expects will complete 
+construction in that interval.
+99. New York City Department of Education. Random numbers in admissions. https:/ /www.schools.nyc.gov/enrollment/enroll-grade-
+by-grade/how-students-get-offers-to-doe-public-schools/random-numbers-in-admissions.
+44 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+3. Duplicated Screening Effort: If a high priority household applies to many buildings in a short 
+time period, we would expect that many developers will screen this household, resulting in wasted 
+effort. During the screening process, a household with a good priority number may also hold up the 
+queue as they wait for another building’s screening process to unfold or decide between multiple 
+offers. If households with good priority numbers respond by applying selectively, this situation 
+should be rare. Likewise, if households are restricted and can move forward with only one building 
+(their first choice), this wasted effort on the part of developers would not occur. This concern could 
+also be mitigated with improved sharing of information across developers to enable documents and 
+findings from one developer to be applied to other buildings or with centralized management of the 
+screening process by HPD. 
+4. Impacts to People’s Chances of Getting Housing: In aggregate, moving to a citywide priority system 
+should not change people’s chances of getting housing if the pool of applicants remained roughly 
+the same. However, it would affect individual applicants’ chances. Most likely, it will lower chances 
+of a successful match for applicants who currently apply to many developments while raising them 
+for applicants who are currently selective.
+5. Embedding Other Preferences Into the Priority Systems: HPD could determine applicants’ priority 
+numbers randomly or by taking other factors into account. For example, priority could be given to 
+households that have waited longest or have other particular attributes. We are not recommending 
+these changes but note that HPD would have centralized control over the priority numbers assigned 
+citywide and could embed other policy changes into that process over time. 
+45 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+References
+Arnosti, N., & Shi, P. (2020). Design of lotteries and wait-lists 
+for affordable housing allocation. Management Science, 66(6), 
+2291–2307. https:/ /doi.org/10.1287/mnsc.2019.3311
+Biddison, E. L. D., Gwon, H. S., Schoch-Spana, M., Regenberg, 
+A. C., Juliano, C., Faden, R. R., & Toner, E. S. (2018). Scarce 
+resource allocation during disasters: A mixed-method 
+community engagement study. Chest, 153(1), 187–195. https:/ /
+doi.org/10.1016/j.chest.2017.08.001
+Boyce, J. (1994). Allocation of goods by lottery. Economic Inquiry, 
+32(3), 457–469. https:/ /doi.org/10.111/j.1465-7295.1994.tb01343.x 
+Broadway Triangle Cmty. Coal. v. Bloomberg, No. 112799/09 
+(N.Y. Sup. Ct., N.Y. Cnty.), https:/ /ecbawm.com/wp-content/
+uploads/2017/12/BTCC.-Final-Settlement-Agreement-
+00310275x9CCC2.pdf 
+Brock, D. W., & Wikler, D. (2006). Ethical issues in resource 
+allocation, research, and new product development. In  
+D. T. Jamison, et al. (Eds.), Disease control priorities in 
+developing countries (2nd ed.). Oxford University Press.
+Brock, D. W., & Wikler, D. (Eds.). (2002). From chance to  
+choice: Genetics and justice. Philosophical Quarterly.  
+https:/ /philpapers.org/rec/BUCFCT-4
+Cabrera, D., & Katz, J. (2023, October). Brutal bureaucracy: 
+Additional Housing Connect analysis. New York City 
+Housing & Planning Council. https:/ /chpcny.org/wp-content/
+uploads/2023/10/20231002_BB-Additional-Housing-
+Connect-Analysis.pdf 
+Calabresi, G., & Bobbitt, P. (1978). Tragic choices.  
+W.W. Norton & Company.
+Carrion, A., Jr. (2023, May 12). Testimony before the New York 
+City Council Committee on Housing and Buildings. City of New 
+York. https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/fy24-
+exec-budget-testimony.pdf
+Daniels, N. (2012, June 5). Just health care. Cambridge 
+University Press.
+Duxbury, N. (1999). Random justice: On lotteries and legal 
+decision-making. Oxford University Press.
+Edlin, R., McCabe, C., Round, J., Wright, J. M., Claxton, K., 
+Sculpher, M., & Cookson, R. (2013). Understanding Harris’ 
+understanding of CEA: Is cost effective resource allocation 
+undone? Journal of Health Services Research & Policy, 18(1), 
+34–39. https:/ /doi.org/10.1258/jhsrp.2012.011057 
+Elster, J. (1989). Solomonic judgements: Studies in the 
+limitations of rationality. Cambridge University Press.
+Emanuel, E. J., Persad, G., Upshur, R., Thome, B., Parker, M., 
+Glickman, A., Zhang, C., Boyle, C., Smith, M., & Phillips, J. P. 
+(2020, March 23). Fair allocation of scarce medical resources 
+in the time of COVID-19. The New England Journal of Medicine. 
+https:/ /www.nejm.org/doi/full/10.1056/NEJMsb2005114
+Haag, M. (2020, June 15). 25 million applications: The scramble 
+for N.Y.C. affordable housing. The New York Times. https:/ /
+www.nytimes.com/2020/06/15/nyregion/nyc-affordable-
+housing-lottery.html
+Koh, W. T. H., Yang, Z., & Zhu, L. (2006). Lottery rather than 
+waiting-line auction. Social Choice and Welfare, 27(2), 289–310. 
+http:/ /www.jstor.org/stable/41106779 
+Kornhauser, L. A., & Sager, L. G. (2004). The many as one: 
+Integrity and group choice in paradoxical cases. Philosophy & 
+Public Affairs, 32(3), 492. http:/ /www.jstor.org/stable/3557987
+Leshno, J. D. (2022). Dynamic matching in overloaded waiting 
+lists. The American Economic Review, 112(12), 3876–3910. 
+https:/ /www.jstor.org/stable/27181546
+Maldonado, S. (2025, April 29). Affordable housing lottery chops 
+paperwork pile for apartment applicants. The City. https:/ /
+www.thecity.nyc/2025/04/29/housing-lottery-apartment-
+application-less-paperwork-rent/ 
+Mavrodes, G. (1984). Choice and chance in the allocation of 
+medical resources: A response to Kilner. Journal of Religious 
+Ethics. 12(1), 97– 99.
+Navarro, M. (2015, January 29). Long lines, and odds, for New 
+York’s subsidized housing lotteries. The New York Times. https:/ /
+web.archive.org/web/20150201042116/https:/ /www.nytimes.
+com/2015/01/30/nyregion/long-lines-and-low-odds-for-new-
+yorks-subsidized-housing-lotteries.html 
+New York City Council. (2025, April 29). Committee on Housing 
+and Buildings. CityMeetings.nyc. https:/ /citymeetings.nyc/
+meetings/new-york-city-council/2025-04-29-1000-am-
+committee-on-housing-and-buildings/ 
+New York City Council (2013, August 20). Speaker Quinn, HPD 
+Commissioner Wambua, HDC President Jahr announce official 
+launch of City’s new affordable housing lottery website [Press 
+release]. https:/ /council.nyc.gov/press/2013/08/20/448/
+New York City Department of Education. Random numbers in 
+admissions. https:/ /www.schools.nyc.gov/enrollment/enroll-
+grade-by-grade/how-students-get-offers-to-doe-public-
+schools/random-numbers-in-admissions 
+New York City Department of Education. The match: How 
+students get offers. https:/ /www.schools.nyc.gov/enrollment/
+enroll-grade-by-grade/how-students-get-offers-to-
+doe-public-schools 
+New York City Department of Homeless Services. Inside DHS. 
+https:/ /www.nyc.gov/site/dhs/about/inside-dhs.page 
+New York City Department of Housing Preservation and 
+Development. About HPD. https:/ /www.nyc.gov/site/hpd/
+about/about-hpd.page
+New York City Department of Housing Preservation and 
+Development (2020, March 10). Extremely Low & Low-
+Income Affordability (ELLA) program term sheet. https:/ /
+www.nyc.gov/assets/hpd/downloads/pdfs/services/ella-
+term-sheet-hpd.pdf
+New York City Department of Housing Preservation and 
+Development (2025, April). Marketing handbook: Policies 
+and procedures for resident selection and occupancy. 
+https:/ /www.nyc.gov/assets/hpd/downloads/pdfs/services/
+marketing-handbook.pdf
+New York City Department of Housing Preservation and 
+Development (2020, June 16). Mayor de Blasio launches new, 
+improved affordable housing application website. https:/ /www.
+nyc.gov/site/hpd/news/030-20/nyc-housing-connect-mayor-
+de-blasio-launches-new-improved-affordable-housing-
+application-website#/0
+46 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+New York City Department of Housing Preservation and 
+Development (2022, September). Mayor’s Management Report. 
+https:/ /www.nyc.gov/assets/operations/downloads/pdf/
+mmr2022/2022_mmr.pdf
+New York City Department of Housing Preservation and 
+Development (2025, April). Mandatory Inclusionary Housing 
+[Fact sheet]. https:/ /www.nyc.gov/assets/hpd/downloads/
+pdfs/services/MIH-FACT-SHEET-2025.pdf
+New York City Department of Housing Preservation and 
+Development (2025, July). New Construction Finance (NCF) 
+program term sheet. https:/ /www.nyc.gov/assets/hpd/
+downloads/pdfs/services/hpd-ncf-term-sheet.pdf
+New York City Department of Housing Preservation and 
+Development (2024, December 16). Notice of adoption. https:/ /
+www.nyc.gov/assets/hpd/downloads/pdfs/about/rptl485-
+xfinal-rules.pdf
+New York City Department of Housing Preservation and 
+Development (2026, March). Preliminary Mayor’s Management 
+Report. https:/ /www.nyc.gov/assets/operations/downloads/
+pdf/pmmr2026/2026_pmmr.pdf. 
+New York City Department of Housing Preservation and 
+Development (2025, March). 2025 Low Income Housing 
+Tax Credit Qualified Allocation Plan. https:/ /www.nyc.gov/
+assets/hpd/downloads/pdfs/services/2025-qualified-
+allocation-plan.pdf
+New York City Housing Authority (2024, January 1). Admissions 
+and continued occupancy policy: Chapter 4: Waiting list 
+management. https:/ /www.nyc.gov/site/nycha/residents/
+acop/chapter-4.page
+New York City Housing Authority (2025, June 1). Housing Choice 
+Voucher program administrative plan. https:/ /www.nyc.gov/
+assets/nycha/downloads/pdf/hcpvadministrative.pdf
+New York City Housing Connect. Frequently asked questions. 
+https:/ /housingconnect.nyc.gov/PublicWeb/faq
+New York City Housing Connect. NYC Housing Connect. https:/ /
+housingconnect.nyc.gov/PublicWeb/
+New York City Housing Development Corporation. Mission 
+statement. https:/ /www.nychdc.com/
+New York City Mayor’s Office for People with 
+Disabilities. Housing. https:/ /www.nyc.gov/site/mopd/
+resources/housing.page
+New York City Office of the Comptroller. (2025). Contract primer. 
+https:/ /comptroller.nyc.gov/reports/contract-primer/
+New York City Office of Technology and Innovation (2025). 
+Agency privacy officer toolkit. https:/ /www.nyc.gov/assets/oti/
+downloads/pdf/reports/cpo/2025%20Agency%20Privacy%20
+Officer%20Toolkit%20_web.pdf 
+New York City Office of Technology and Innovation (2025, 13 
+June). Citywide privacy protection policies and protocols. 
+https:/ /www.nyc.gov/assets/oti/downloads/pdf/reports/
+cpo/2025%20Citywide%20Privacy%20Protection%20
+Policies%20and%20Protocols_web.pdf
+New York City Open Data (2026, March 2). Advertised lotteries 
+on Housing Connect by building. https:/ /data.cityofnewyork.
+us/Housing-Development/Advertised-Lotteries-on-Housing-
+Connect-By-Buildin/nibs-na6y/about_data 
+NYU Furman Center (updated 2026, February 6). State of 
+New York City’s housing and neighborhoods in 2024: State 
+of the city’s housing stock. https:/ /www.furmancenter.org/
+soc-report/state-of-the-city-2024/state-of-the-citys-
+housing-stock-2024/ 
+Noel v. City of New York, Defendant’s Rule 56.1 Statement Of 
+Material Undisputed Facts In Support Of Its Crossmotion For 
+Summary Judgment, https:/ /storage.courtlistener.com/recap/
+gov.uscourts.nysd.444418/gov.uscourts.nysd.444418.904.0.pdf. 
+Noel v. City of New York, Memorandum Order and Opinion, 
+Apr. 28, 2023, Aug. 15, 2020, https:/ /storage.courtlistener.
+com/recap/gov.uscourts.nysd.444418/gov.uscourts.
+nysd.444418.970.0_7.pdf. 
+Noel v. City of New York, No. 1:15-cv-05236-LTS (S.D.N.Y. Jan. 22, 
+2024), https:/ /storage.courtlistener.com/recap/gov.uscourts.
+nysd.444418/gov.uscourts.nysd.444418.1002.0.pdf
+Office of the Mayor of the City of New York. (2026, January 
+1). Executive order no. 5: Improving process to accelerate 
+affordable housing. https:/ /www.nyc.gov/mayors-office/
+news/2026/01/executive-order-05
+Perry, R., & Zarsky, T. May the Odds be Ever in Your Favor: 
+Lotteries in Law, 66 Ala. L. Rev 1035, 1055 (2015)
+r/nychousinglottery. Reddit. https:/ /www.reddit.com/r/
+nychousinglottery/new/
+Samaha, A.M. Randomization and Adjudication, 51 Wm. & Mary 
+L. Rev. 1, 20 (2009)
+Schrage, L. (1968). A proof of the optimality of the shortest 
+remaining processing time discipline. Operations Research, 
+16(3), 687–690. http:/ /www.jstor.org/stable/168596
+Shachar, A. (2009). The birthright lottery: Citizenship and global 
+inequality. Harvard University Press.
+Sher, G. (1980). What makes a lottery fair? Noûs, 14(2), 203. 
+https://doi.org/221486
+Su, X., & Zenios, S. A. (2005). Patient choice in kidney 
+allocation: A sequential stochastic assignment model. 
+Operations Research, 53(3), 443–455. http:/ /www.jstor.org/
+stable/25146880
+Tigani, A. (2025, April 29). Testimony before the New 
+York City Council Committee on Housing and Buildings. 
+Citymeetings.nyc. https:/ /citymeetings.nyc/meetings/
+new-york-city-council/2025-04-29-1000-am-committee-
+on-housing-and-buildings/chapter/statistics-on-households-
+helped-through-housing-connect-and-homeless-subsidies/
+Wang, X. (2023) Intentions, impartiality, and the fairness of 
+lotteries. Philosophia, 51, 1795–1810. https:/ /doi.org/10.1007/
+s11406-023-00640-1
+Wierman, A. (2011). Fairness and scheduling in single server 
+queues. Surveys in Operations Research and Management 
+Science, 16(1), 39-48. https:/ /doi.org/10.1016/j.sorms.2010.07.002
+Winick, B.J. Legal Limitations on Correctional Therapy and 
+Research, 65 Minn. L. Rev. 331, 361 (1981)
+Wolfle, D. (1980). Chance, or human judgment? Science. 
+167(3922), 1201. 
+47 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Appendix
+To provide some sense for the ways this report’s application data may differ from the universe of 
+applications for the City’s lotteried rentals, we compared the bedroom composition of buildings in our 
+data with the composition of buildings in HPD’s lottery portfolio as a whole, the latter of which was 
+recently made available as an OpenData release.100 We also compared the income-restrictions applied 
+to the buildings in our data and the number of units in the buildings in our data with the composition 
+of buildings in HPD’s lottery portfolio as a whole. 
+Figure A1 below shows the distribution (average, upper and lower quartiles, and minima and maxima) 
+of the share of units in each portfolio that are studios, 1Br, 2Br, 3Br, or 4Br+. Reassuringly, the portfolios 
+are broadly similar. The primary difference is in the share of studios: our data’s portfolio includes more 
+buildings with a higher share of studios.
+Figure A1: Distributions of the share of units by number of bedrooms in our sample and the lottery system as a whole
+100. New York City Open Data (2026, March 2). Advertised lotteries on Housing Connect by building. https:/ /data.cityofnewyork.us/
+Housing-Development/Advertised-Lotteries-on-Housing-Connect-By-Buildin/nibs-na6y/about_data 
+48 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Figure A2 below shows the proportion of the buildings within each portfolio that have certain unit size 
+ranges: 1 to 5 units; 6 to 10 units, 11 to 29 units; 30 to 99 units; 100 to 149 units; and 150+ units. The 
+universe of buildings we analyzed were more likely to be larger than the HPD portfolio as a whole, which 
+has a higher proportion of buildings marketing fewer units. 
+Figure A2: Proportion of buildings within a total unit number range for our sample and the lottery system as a whole
+ 
+Figure A3 below shows the distribution (average, upper and lower quartiles, and minima and maxima) 
+of the share of units in each portfolio that are extremely low income (0-30% AMI); very low-income 
+(31-50% of AMI);  low-income (51-80% of AMI); moderate income (81-120% of AMI); and middle income 
+(121-165% of AMI). Where this no box plotted on the graph in a given category, up to 75% of the units 
+were not within that income range. The buildings we analyzed were more likely to have incomes targeted 
+at very-low and low-incomes while the lottery system as a whole was more likely to have units targeted 
+at middle-income households. 
+49 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Figure A3: Figure A3: Distributions of income-restrictions for units within buildings in our sample and the 
+lottery as a whole
+These differences could lead our results to either overestimate or underestimate processing times and 
+the share of final dispositions in different categories. We think it is more likely to result in overestimates 
+of processing times because lower-income households and larger buildings are likely more difficult to 
+lease-up due to additional documentation requirements, more operational complexity in the marketing 
+process, and other factors.
+50 The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It
+Acknowledgements
+We would like to thank Ingrid Gould Ellen and Hayley Raetz who expertly reviewed the brief. We would 
+like to thank Sophia Hughes for her excellent research assistance and Rohun Iyer and Henry Alonso for 
+their support with the data. We also thank Isabel Kirsch for helping to edit the report. We thank all the 
+experts who reviewed this brief for their thoughtful comments. 
+NYU Furman Center
+Established in 1995, the NYU Furman Center is a joint center of the New York University School of 
+Law and the Robert F. Wagner Graduate School of Public Service. We are named in honor of NYU Law 
+alumnus Jay Furman, class of ’71, a founding board member and longtime supporter of the Center. A 
+range of philanthropic, corporate, and government sponsors, as well as dedicated individuals, provide 
+generous financial support and vision for our ongoing work.

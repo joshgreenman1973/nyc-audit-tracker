@@ -1,0 +1,99 @@
+{
+  "id": "2026-08-01-cuf-10-ideas-expanding-equitable-access-natural",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "10 Ideas for Expanding Equitable Access to Natural Areas",
+  "plain_title": "Ten ideas to widen access to New York City's natural areas",
+  "agency": "New York City government",
+  "issued": "2026-08-01",
+  "url": "https://nycfuture.org/research/10-ideas-natural-areas",
+  "pdf": "https://nycfuture.org/pdf/CUF_NaturalAreas_PolicyIdeas_v4_8.6.26.pdf",
+  "what_they_audited": "A policy report from the Center for an Urban Future proposing ten ideas to expand access to the city's natural areas, especially for residents of low-income communities.",
+  "background": "The report says New York City's five boroughs have many wild spaces, but too many New Yorkers are cut off from them, especially in low-income communities where transportation barriers, limited programming and safety concerns are present. It says expanding access can be a relatively low-cost way to improve public health, strengthen communities and build climate resilience.",
+  "findings": [
+    {
+      "plain": "The report says a small staff cares for a very large area of natural land, and large portions of the system go uncared for each year.",
+      "quote": "about 100 staff care for more than 12,000 acres of city-managed forests, wetlands, and streams"
+    },
+    {
+      "plain": "Interviews for the report found that many residents, including longtime ones, do not know about nearby natural areas.",
+      "quote": "lack of awareness emerged as one of the most consistent barriers"
+    },
+    {
+      "plain": "The report says a quarter of New Yorkers live in neighborhoods without access to natural areas.",
+      "quote": "A quarter of New Yorkers live in neighborhoods without access to natural areas"
+    },
+    {
+      "plain": "The report names safety concerns as a major barrier to visiting natural areas, particularly for women and people of color.",
+      "quote": "Safety concerns remain a major barrier to visiting natural areas, particularly for women and people of color."
+    },
+    {
+      "plain": "The report says the city trains hundreds of residents for natural areas jobs each year but has far fewer stable positions for them.",
+      "quote": "New York City is training hundreds of residents each year for jobs in natural areas, but has far fewer stable positions to absorb them."
+    },
+    {
+      "plain": "The report says some trails are poorly maintained, hard to find, informal or harmful to the environment.",
+      "quote": "some routes are poorly maintained, difficult to find, informal, or ecologically harmful"
+    },
+    {
+      "plain": "The report says youth unemployment in the city is high and rising while natural areas need more hands-on care than current staffing can provide.",
+      "quote": "Youth unemployment in New York City remains more than double the citywide average and has risen in recent years"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "12,000 acres",
+      "label": "City-managed forests, wetlands and streams"
+    },
+    {
+      "value": "about 100 staff",
+      "label": "Current staff caring for natural areas"
+    },
+    {
+      "value": "140",
+      "label": "Proposed minimum staff within five years"
+    },
+    {
+      "value": "approximately $10 million",
+      "label": "Proposed increase in annual natural areas funding"
+    },
+    {
+      "value": "300 miles",
+      "label": "Trails across the city"
+    },
+    {
+      "value": "more than $200 million",
+      "label": "Annual Summer Youth Employment Program funding"
+    },
+    {
+      "value": "roughly 200 high school students",
+      "label": "Served yearly by Ranger Conservation Corps"
+    }
+  ],
+  "recommendations": [
+    "Pilot monthly citywide Nature Days in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events.",
+    "Create an NYC Youth Conservation Corps built on the Summer Youth Employment Program, with paid placements in natural areas care and links to year-round jobs, apprenticeships, college programs and credentials.",
+    "Launch a Nature for All NYC initiative so every public school student has a nature-based experience each year, possibly starting with fourth graders.",
+    "Launch an Explore Forever Wild NYC awareness campaign across subways, buses, LinkNYC kiosks, schools and digital platforms, paired with better wayfinding, updated trail maps and digital tools.",
+    "Fund and launch library-based Nature & Culture Hubs with the three public library systems, particularly in underserved communities, to provide information on nearby nature and cultural activities.",
+    "Grow the natural areas budget and workforce over five years to at least 140 staff, add about $10 million in annual funding, baseline that funding, convert seasonal roles to full-time and publish a five-year investment roadmap, while drawing on private, philanthropic and state support.",
+    "Launch an interagency Rewild NYC initiative using pocket forests, native plantings and micro-natural spaces on vacant lots, dead-end streets, medians, schools, libraries and public housing.",
+    "Reassess the existing trail system to decide which trails need maintenance, signage, rerouting or closure, explore carefully targeted new trails, and modernize trail maps and digital navigation tools with private-sector and nonprofit partners.",
+    "Strengthen the capacity and role of Urban Park Rangers with baselined funding and explore a dedicated natural areas safety team with consistent assignments.",
+    "Expand in-house NYC Parks staffing, reduce reliance on short-term contracts and launch an NYC Nature-Based Jobs Coalition to coordinate training, apprenticeships, credentials and hiring."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "health",
+    "labor"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

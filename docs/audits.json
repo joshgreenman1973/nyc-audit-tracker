@@ -1,7 +1,248 @@
 {
- "generated": "2026-10-05",
+ "generated": "2026-10-08",
  "cutoff": "2025-01-01",
  "audits": [
+  {
+   "id": "2026-10-01-citizensunion-citizens-union-recommends-yes-vote-five",
+   "source": "outside",
+   "auditor": "Citizens Union",
+   "title": "Citizens Union Recommends a Yes Vote on All Five 2026 Charter Proposals",
+   "plain_title": "Citizens Union voter guide to the five 2026 charter proposals",
+   "agency": "New York City government",
+   "issued": "2026-10-01",
+   "url": "https://citizensunion.org/document/2026-10-01/citizens-union-recommends-a-yes-vote-on-all-five-2026-charter-proposals/",
+   "pdf": "",
+   "what_they_audited": "A voter guide from Citizens Union explaining the five charter revision questions on the November 2026 ballot and giving the group's position on each. The questions were proposed by the Commission on Government Efficiency.",
+   "background": "The Commission on Government Efficiency, a panel appointed by Mayor Zohran Mamdani, proposed the five questions to streamline government processes. Citizens Union describes itself as New York City's oldest nonpartisan good government group.",
+   "findings": [
+    {
+     "plain": "Citizens Union says the commission was one of the shortest charter revision commissions in the city's history, with little time to gather and analyze public input.",
+     "quote": "It was also one of the shortest charter revision commissions in the city’s history."
+    },
+    {
+     "plain": "Question 1 would replace mandatory public hearings for revocable consents with a comment period and end the extra review of sidewalk cafes, including City Council call-up. Citizens Union says this could cut months from approvals.",
+     "quote": "These proposals could cut months from the approval process for local businesses."
+    },
+    {
+     "plain": "On Question 2, Citizens Union says the changes could improve procurement at the margins but raises concern about letting the Procurement Policy Board rewrite the vendor questionnaire, since some questions help ensure vendor integrity.",
+     "quote": "However, some questions help ensure vendor integrity, prevent corruption, or hold vendors accountable after potential violations."
+    },
+    {
+     "plain": "On Question 3, Citizens Union supports the substance but says it bundles unrelated policy areas into one question, which makes it hard for voters who support only part of it.",
+     "quote": "Regardless of substance, this question improperly bundles unrelated policy areas – street authority, land disposition, and office leasing – into a single question"
+    },
+    {
+     "plain": "Question 4 would create a single permitting hub run by the Department of Buildings and move waterfront permitting to that department. Citizens Union calls these positive modernization efforts.",
+     "quote": "These changes are positive modernization efforts that would make it easier to navigate the construction permitting process"
+    },
+    {
+     "plain": "On Question 5, Citizens Union supports the rainy day fund rules but notes the proposal does not require annual deposits and lets other reserve funds count toward the target.",
+     "quote": "Although it would establish a formula for deposits into the fund, it does not actually require annual deposits"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "15 day",
+     "label": "Proposed comment period replacing mandatory hearings"
+    },
+    {
+     "value": "$5 million",
+     "label": "Contracts above this could be approved by agency officials"
+    },
+    {
+     "value": "$100,000",
+     "label": "Contract threshold for comment periods instead of hearings"
+    },
+    {
+     "value": "12%",
+     "label": "Proposed rainy day fund reserve target"
+    },
+    {
+     "value": "50 percent",
+     "label": "Withdrawal cap absent mayoral certification"
+    },
+    {
+     "value": "Eight charter commissions",
+     "label": "Established in the last eight years"
+    }
+   ],
+   "recommendations": [
+    "Vote yes on Question 1 to speed up the process for granting a revocable consent to use public space.",
+    "Vote yes on Question 2 to reduce city contractor paperwork and require regular meetings of the Procurement Policy Board, with the Department of Investigation involved in developing the new vendor questionnaire.",
+    "Vote yes on Question 3 to speed up street safety projects, the disposition of unused city property and office leasing.",
+    "Vote yes on Question 4 to simplify building permitting and move waterfront permitting to the Department of Buildings.",
+    "Vote yes on Question 5 to set contribution targets for the rainy day fund.",
+    "Set guardrails, such as minimum timeframes, so rushed charter revision commissions cannot be created.",
+    "Change the law so charter revision commissions remain an extraordinary tool for structural reform rather than political maneuvering."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "transparency",
+    "money and contracts",
+    "housing"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Vote yes on Question 1 to speed up the process for granting a revocable consent to use public space."
+    },
+    {
+     "n": 2,
+     "text": "Vote yes on Question 2 to reduce city contractor paperwork and require regular meetings of the Procurement Policy Board, with the Department of Investigation involved in developing the new vendor questionnaire."
+    },
+    {
+     "n": 3,
+     "text": "Vote yes on Question 3 to speed up street safety projects, the disposition of unused city property and office leasing."
+    },
+    {
+     "n": 4,
+     "text": "Vote yes on Question 4 to simplify building permitting and move waterfront permitting to the Department of Buildings."
+    },
+    {
+     "n": 5,
+     "text": "Vote yes on Question 5 to set contribution targets for the rainy day fund."
+    },
+    {
+     "n": 6,
+     "text": "Set guardrails, such as minimum timeframes, so rushed charter revision commissions cannot be created."
+    },
+    {
+     "n": 7,
+     "text": "Change the law so charter revision commissions remain an extraordinary tool for structural reform rather than political maneuvering."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-28-cnycaffairs-labor-capital-inequality-functional-income-approach",
+   "source": "outside",
+   "auditor": "Center for New York City Affairs at The New School",
+   "title": "Labor, Capital, and Inequality in New York: A Functional Income Approach",
+   "plain_title": "How New York City's economic output splits between workers and owners",
+   "agency": "New York City government",
+   "issued": "2026-09-28",
+   "url": "http://www.centernyc.org/reports-briefs/functional-income-distribution-inequality-new-york-city",
+   "pdf": "http://www.centernyc.org/s/Labor-Capital-and-Inequality-in-New-York-City-CNYCA.pdf",
+   "what_they_audited": "A research report from the Center for New York City Affairs at The New School. It examines how New York City's economic output is divided between pay to workers (labor) and income to business owners (capital) from 2001 to 2024, and what that means for city policy.",
+   "background": "The report says New York City is one of the richest local economies in the United States, but gains from that wealth are not broadly shared. It treats functional income distribution as a different lens from wage inequality, which describes how pay is spread among workers.",
+   "findings": [
+    {
+     "plain": "From 2001 to 2024 the labor share fell and the capital share rose in the nation, the state and the city. The city had the largest decline in labor share and the largest increase in capital share.",
+     "quote": "New York City experienced the most striking decline in labor share - from 55.9 percent to 49.2 percent"
+    },
+    {
+     "plain": "Worker productivity in the city grew much faster than the average hourly wage of everyone outside the top 10 percent of earners.",
+     "quote": "While labor productivity increased by 36.3 percent from 2001 to 2024, average hourly wage excluding the top 10 percent wage earners increased by 22.5 percent only."
+    },
+    {
+     "plain": "The report links the shift to weaker worker bargaining power. It points to declining union membership (especially in the private sector), globalization and outsourcing, and the legacy of the 1970s fiscal crisis. It notes that some of these links are associations and not proven causes.",
+     "quote": ""
+    },
+    {
+     "plain": "The decline in labor share is spread across several private industries but is uneven. Health care, government and education stayed high or rose, while sectors such as transportation, construction and finance fell.",
+     "quote": ""
+    },
+    {
+     "plain": "The report finds the city's business tax system does not fully capture the growing capital share. Business income from partnerships, proprietorships and other unincorporated businesses is an important part of the economy that is not adequately taxed.",
+     "quote": "New York City’s current business taxation system does not adequately capture enough taxes from this growing capital share."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "55.9 percent",
+     "label": "City labor share of output in 2001"
+    },
+    {
+     "value": "49.2 percent",
+     "label": "City labor share of output in 2024"
+    },
+    {
+     "value": "39.8 percent",
+     "label": "City capital share of output in 2001"
+    },
+    {
+     "value": "46 percent",
+     "label": "City capital share of output in 2024"
+    },
+    {
+     "value": "36.3 percent",
+     "label": "Growth in labor productivity, 2001 to 2024"
+    },
+    {
+     "value": "22.5 percent",
+     "label": "Growth in average hourly wage excluding top 10 percent"
+    }
+   ],
+   "recommendations": [
+    "Strengthen labor protections for workers.",
+    "Support unionization.",
+    "Raise wage floors.",
+    "Step up enforcement against wage theft and worker misclassification.",
+    "Improve job standards in low-wage sectors.",
+    "Make public investment that strengthens workers' economic security and bargaining power.",
+    "Strengthen redistribution after production through more progressive city taxation.",
+    "Examine what income is taxed and how, so the tax base reflects where capital income is actually generated, including sourcing rules, entity form, tax expenditures, enforcement and fiscal reserves.",
+    "Pair redistribution with serious fiscal planning and a more stable business tax structure that reflects how modern business income is generated and organized."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "labor",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Strengthen labor protections for workers."
+    },
+    {
+     "n": 2,
+     "text": "Support unionization."
+    },
+    {
+     "n": 3,
+     "text": "Raise wage floors."
+    },
+    {
+     "n": 4,
+     "text": "Step up enforcement against wage theft and worker misclassification."
+    },
+    {
+     "n": 5,
+     "text": "Improve job standards in low-wage sectors."
+    },
+    {
+     "n": 6,
+     "text": "Make public investment that strengthens workers' economic security and bargaining power."
+    },
+    {
+     "n": 7,
+     "text": "Strengthen redistribution after production through more progressive city taxation."
+    },
+    {
+     "n": 8,
+     "text": "Examine what income is taxed and how, so the tax base reflects where capital income is actually generated, including sourcing rules, entity form, tax expenditures, enforcement and fiscal reserves."
+    },
+    {
+     "n": 9,
+     "text": "Pair redistribution with serious fiscal planning and a more stable business tax structure that reflects how modern business income is generated and organized."
+    }
+   ]
+  },
   {
    "id": "2026-09-25-actions-reduce-carbon-emissions-city-government-operations",
    "source": "osc",
@@ -92,6 +333,643 @@
     {
      "n": 4,
      "text": "Write procedures and a review process that track every project and check that the information is accurate and complete."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-22-cnycaffairs-potential-countercyclical-fiscal-policy",
+   "source": "outside",
+   "auditor": "Center for New York City Affairs at The New School",
+   "title": "The Potential of Countercyclical Fiscal Policy in New York City",
+   "plain_title": "Using city finances to cushion recessions in New York City",
+   "agency": "New York City government",
+   "issued": "2026-09-22",
+   "url": "http://www.centernyc.org/reports-briefs/countercyclical-fiscal-policy-recession-new-york-city",
+   "pdf": "http://www.centernyc.org/s/NYC-Countercyclical-Fiscal-Policy-Potential-CNYCA.pdf",
+   "what_they_audited": "A report from the Center for New York City Affairs, written by Amanda Page-Hoongrajok, examining how New York City could use spending, taxes, savings and borrowing to soften economic downturns.",
+   "background": "The report says New York City has had significant borrowing and spending constraints since the 1970s fiscal crisis, and that debate continues over how to pay for expanded social services given reduced federal support. Countercyclical fiscal policy means a government uses its own spending and taxation power to smooth out business cycle fluctuations.",
+   "findings": [
+    {
+     "plain": "The report says balanced budget rules, debt limits and operating limits constrain the city so that policymakers do not usually think about acting against the business cycle.",
+     "quote": "Countercyclical fiscal policy is not widely promoted at the local level, given that New York has had significant borrowing and spending constraints since the 1970s fiscal crisis."
+    },
+    {
+     "plain": "Comparing two recoveries, the report finds that real state and local spending took almost ten years to return to its pre-recession level after 2008, but barely dropped after the 2020 recession.",
+     "quote": ""
+    },
+    {
+     "plain": "Most city spending is classed by the report as multiplier spending, which helps stabilize incomes and demand. About 42 percent of the fiscal year (FY) 2027 adopted budget goes to salaries, wages and fringe benefits, while pensions and debt service make up 14 percent and are legally required.",
+     "quote": ""
+    },
+    {
+     "plain": "The report identifies savings vehicles that could fund countercyclical action, with the Rainy Day Fund as the main one going forward. The Rainy Day Fund stands at $2 billion as of FY 2027.",
+     "quote": ""
+    },
+    {
+     "plain": "The report argues the city pays pensions toward a 100 percent funding target that it says is not necessary for sustainability. As an illustration, paying 90 percent of the $10 billion contribution would free $1 billion, which the author calls a sense of the stakes and not a formal estimate.",
+     "quote": ""
+    },
+    {
+     "plain": "The report finds the city could legally borrow an additional $44 billion for capital projects as of June 2025, and argues deficit financing during a downturn has precedents such as the post-9/11 Recovery Bonds.",
+     "quote": ""
+    }
+   ],
+   "numbers": [
+    {
+     "value": "42 percent",
+     "label": "Share of FY 2027 budget on pay and fringe benefits"
+    },
+    {
+     "value": "14 percent",
+     "label": "Share of FY 2027 budget on pensions and debt service"
+    },
+    {
+     "value": "$125.8 billion",
+     "label": "Planned city spending on public goods and services, FY 2027"
+    },
+    {
+     "value": "$44 billion",
+     "label": "Additional capital borrowing room as of June 2025"
+    },
+    {
+     "value": "$2 billion",
+     "label": "Rainy Day Fund level as of FY 2027"
+    },
+    {
+     "value": "$10 billion",
+     "label": "City pension contribution in FY 2026"
+    },
+    {
+     "value": "$1 billion",
+     "label": "Freed if pension payment were 90 percent of the full amount"
+    }
+   ],
+   "recommendations": [
+    "Increase or at least maintain multiplier spending, such as salaries, wages, equipment and public assistance, during a downturn.",
+    "Stop the prepayment of future expenses through the Budget Stabilization Account during a downturn, and use that money to stabilize incomes and basic necessities.",
+    "Draw down available reserves as needed within legal limits, mainly the Rainy Day Fund.",
+    "Issue revenue anticipation notes and tax anticipation notes to help cover short-term revenue shortfalls.",
+    "Use long-term borrowing capacity to maintain capital project spending throughout a downturn.",
+    "Seek state approval to implement targeted, progressive tax increases.",
+    "Seek state approval to deficit finance during the next recession if the city decides the benefits outweigh the costs.",
+    "Identify spending that can be legally rerouted to multiplier spending during a downturn.",
+    "Explore metrics other than the funding ratio to assess the sustainability of public pension funds.",
+    "Create a committee within the Mayor's Office of Management and Budget to study the costs and benefits of full or partial pay-as-you-go funding for the city's pension funds."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "money and contracts",
+    "labor",
+    "social services"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Increase or at least maintain multiplier spending, such as salaries, wages, equipment and public assistance, during a downturn."
+    },
+    {
+     "n": 2,
+     "text": "Stop the prepayment of future expenses through the Budget Stabilization Account during a downturn, and use that money to stabilize incomes and basic necessities."
+    },
+    {
+     "n": 3,
+     "text": "Draw down available reserves as needed within legal limits, mainly the Rainy Day Fund."
+    },
+    {
+     "n": 4,
+     "text": "Issue revenue anticipation notes and tax anticipation notes to help cover short-term revenue shortfalls."
+    },
+    {
+     "n": 5,
+     "text": "Use long-term borrowing capacity to maintain capital project spending throughout a downturn."
+    },
+    {
+     "n": 6,
+     "text": "Seek state approval to implement targeted, progressive tax increases."
+    },
+    {
+     "n": 7,
+     "text": "Seek state approval to deficit finance during the next recession if the city decides the benefits outweigh the costs."
+    },
+    {
+     "n": 8,
+     "text": "Identify spending that can be legally rerouted to multiplier spending during a downturn."
+    },
+    {
+     "n": 9,
+     "text": "Explore metrics other than the funding ratio to assess the sustainability of public pension funds."
+    },
+    {
+     "n": 10,
+     "text": "Create a committee within the Mayor's Office of Management and Budget to study the costs and benefits of full or partial pay-as-you-go funding for the city's pension funds."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-01-cuf-5-ideas-reducing-bureaucratic-barriers",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "5 Ideas for Reducing Bureaucratic Barriers in NYC",
+   "plain_title": "Five ideas for cutting bureaucratic barriers in New York City",
+   "agency": "New York City government",
+   "issued": "2026-09-01",
+   "url": "https://nycfuture.org/research/5-ideas-for-reducing-bureaucratic-barriers-in-nyc",
+   "pdf": "https://nycfuture.org/pdf/5_Ideas_Reducing_for_Bureaucratic_Barriers_NYC.pdf",
+   "what_they_audited": "A policy report from the Center for an Urban Future describing five bureaucratic barriers in city government and proposing a reform for each. It covers plumbing code rules, affordable housing financial review, battery storage permitting, civil service technology hiring and joint bidding on infrastructure projects.",
+   "background": "The report says the Center for an Urban Future heard about dozens of rules, regulations and processes that add significant time and cost to projects. It is the latest in a series of policy reports and follows a February 2026 report on revenue-raising ideas.",
+   "findings": [
+    {
+     "plain": "The city's Plumbing Code sharply restricts polyvinyl chloride (PVC) piping, which is cheaper than cast iron. The report says this is stricter than nearly every other U.S. city and every other city in the state.",
+     "quote": "New York is still an outlier, imposing restrictions that are far more stringent than nearly every other U.S. city and every other city in the state."
+    },
+    {
+     "plain": "After the Department of Housing Preservation and Development (HPD) has approved an affordable housing project, the Office of Management and Budget (OMB) conducts another detailed financial review before the project can close on its financing. The report says this review can take months and cover the same questions.",
+     "quote": "That final review can take several months and revisit many of the same questions."
+    },
+    {
+     "plain": "Battery storage projects face permits that are not coordinated across agencies. The report also says approvals for residential battery products have lapsed and that Con Edison interconnection changes have raised costs.",
+     "quote": "A single community-scale installation can require as many as 16 permits from six city agencies"
+    },
+    {
+     "plain": "Civil service rules make it hard to hire people with current technology skills. The report says agencies have many vacancies and turn to outside consultants.",
+     "quote": "city agencies have hundreds of vacant technology-related positions"
+    },
+    {
+     "plain": "Joint bidding, where the city bids its own infrastructure work together with utility work, is credited by the Department of Design and Construction (DDC) with savings and shorter delays. It now depends on one-year extensions from the state rather than a long-term authorization.",
+     "quote": "saves the city more than $107 million annually and has reduced average utility-related delays from roughly 28 months to seven"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "16.7 percent",
+     "label": "Estimated savings from PVC in a 2017 Philadelphia report"
+    },
+    {
+     "value": "more than 40 questions",
+     "label": "Questions in each OMB project review document"
+    },
+    {
+     "value": "47 months",
+     "label": "Average HPD loan processing time in a 2025 survey"
+    },
+    {
+     "value": "16 permits",
+     "label": "Most permits one community battery installation may need"
+    },
+    {
+     "value": "36 percent",
+     "label": "NYC Cyber Command vacancy rate noted in 2022 report"
+    },
+    {
+     "value": "$107 million",
+     "label": "Annual joint bidding savings per DDC estimate"
+    }
+   ],
+   "recommendations": [
+    "Direct the Department of Buildings to review the Plumbing Code and assess raising the five-story limitation for PVC piping, then work with the City Council on any needed changes.",
+    "Reduce restrictions on nonmetallic sprinkler piping in taller residential buildings.",
+    "End the ban on PEX, a flexible plastic tubing, for potable water lines.",
+    "Replace routine project-by-project re-underwriting of affordable housing by the Office of Management and Budget with a two-track system, with an expedited path for projects that conform to current program rules and fuller review for exceptions.",
+    "Have the Department of Housing Preservation and Development and the Office of Management and Budget regularly update loan program term sheets, with the Office of Management and Budget approving annual funding levels and limiting its per-project role to confirming a deal fits approved terms.",
+    "Set firm deadlines for routine Certificate to Proceed reviews, require the Office of Management and Budget to raise substantive concerns in the first round of comments, and publish quarterly data on pending projects and whether review produces meaningful changes.",
+    "Direct the Fire Department and the Department of Buildings to create a single coordinated permitting pathway for battery storage, with concurrent review, a shared checklist and no duplicate technical review.",
+    "Permanently expand Fire Department civilian staff and Department of Buildings battery review capacity, set up a pool of qualified third-party engineers, and publish quarterly data with review targets for each stage.",
+    "Create an expedited pathway for smaller residential battery systems that use approved products and standardized designs.",
+    "Work with the state to resolve Con Edison interconnection barriers by removing inactive projects from the queue, allowing batteries to connect under enforceable charging limits and sharing grid upgrade costs fairly.",
+    "Direct the Department of Citywide Administrative Services and the Office of Technology and Innovation to create technology-specific civil service titles, update classifications regularly, use skills-based qualifications, expand non-exam hiring, create expedited hiring and allow direct recruiting from the labor market.",
+    "Seek common ground with municipal labor unions on technology hiring changes, and work with the City Council on related legislation and a broader digital transformation of city government.",
+    "Ask the Governor and State Legislature to make joint bidding permanent or at minimum restore a ten-year authorization, and make this a priority in the city's 2027 legislative agenda."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "money and contracts",
+    "technology"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Direct the Department of Buildings to review the Plumbing Code and assess raising the five-story limitation for PVC piping, then work with the City Council on any needed changes."
+    },
+    {
+     "n": 2,
+     "text": "Reduce restrictions on nonmetallic sprinkler piping in taller residential buildings."
+    },
+    {
+     "n": 3,
+     "text": "End the ban on PEX, a flexible plastic tubing, for potable water lines."
+    },
+    {
+     "n": 4,
+     "text": "Replace routine project-by-project re-underwriting of affordable housing by the Office of Management and Budget with a two-track system, with an expedited path for projects that conform to current program rules and fuller review for exceptions."
+    },
+    {
+     "n": 5,
+     "text": "Have the Department of Housing Preservation and Development and the Office of Management and Budget regularly update loan program term sheets, with the Office of Management and Budget approving annual funding levels and limiting its per-project role to confirming a deal fits approved terms."
+    },
+    {
+     "n": 6,
+     "text": "Set firm deadlines for routine Certificate to Proceed reviews, require the Office of Management and Budget to raise substantive concerns in the first round of comments, and publish quarterly data on pending projects and whether review produces meaningful changes."
+    },
+    {
+     "n": 7,
+     "text": "Direct the Fire Department and the Department of Buildings to create a single coordinated permitting pathway for battery storage, with concurrent review, a shared checklist and no duplicate technical review."
+    },
+    {
+     "n": 8,
+     "text": "Permanently expand Fire Department civilian staff and Department of Buildings battery review capacity, set up a pool of qualified third-party engineers, and publish quarterly data with review targets for each stage."
+    },
+    {
+     "n": 9,
+     "text": "Create an expedited pathway for smaller residential battery systems that use approved products and standardized designs."
+    },
+    {
+     "n": 10,
+     "text": "Work with the state to resolve Con Edison interconnection barriers by removing inactive projects from the queue, allowing batteries to connect under enforceable charging limits and sharing grid upgrade costs fairly."
+    },
+    {
+     "n": 11,
+     "text": "Direct the Department of Citywide Administrative Services and the Office of Technology and Innovation to create technology-specific civil service titles, update classifications regularly, use skills-based qualifications, expand non-exam hiring, create expedited hiring and allow direct recruiting from the labor market."
+    },
+    {
+     "n": 12,
+     "text": "Seek common ground with municipal labor unions on technology hiring changes, and work with the City Council on related legislation and a broader digital transformation of city government."
+    },
+    {
+     "n": 13,
+     "text": "Ask the Governor and State Legislature to make joint bidding permanent or at minimum restore a ten-year authorization, and make this a priority in the city's 2027 legislative agenda."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-01-cuf-portable-benefits-pilot-growing-freelance-creative",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "A Portable Benefits Pilot for NYC’s Growing Freelance Creative Workforce",
+   "plain_title": "Portable benefits pilot for New York City freelance artists",
+   "agency": "New York City government",
+   "issued": "2026-09-01",
+   "url": "https://nycfuture.org/research/a-portable-benefits-pilot-for-nycs-growing-freelance-creative-workforce",
+   "pdf": "",
+   "what_they_audited": "A report from the Center for an Urban Future examining how the rise of freelance and self-employed work is changing the economic realities facing New York City's artists and what policymakers can do about it. It draws on new analysis of employment and Census data, interviews with artists and experts, and a review of emerging portable benefits models.",
+   "background": "The report says the number of artists living in New York City grew nearly 35 percent from 2004 to 2019, then fell 4.4 percent from 2019 to 2024. It says employment across the city's creative industries is also down about 6 percent from before the pandemic.",
+   "findings": [
+    {
+     "plain": "Self-employment in the creative economy has grown since 2019 even as overall creative employment shrank, and it is growing faster than self-employment citywide.",
+     "quote": "Since 2019, the number of self-employed creative industry workers has risen 12 percent—nearly four times the 3.1 percent growth in self-employment citywide—even as the creative economy shrank overall."
+    },
+    {
+     "plain": "Self-employment is far more common among creative-industry workers than among private-sector workers citywide, and the shift spans most creative occupations.",
+     "quote": "Of the 27 occupations we tracked, 23 saw an increase in self-employment since 2019."
+    },
+    {
+     "plain": "Self-employed creative workers earn less than wage-employed workers, even when working full time.",
+     "quote": "Full-time self-employed workers in creative occupations earn a median of $60,000 a year, 34.1 percent less than full-time wage-employed workers ($91,100)."
+    },
+    {
+     "plain": "Artists have gaps in health coverage and employer benefits, based on a survey by Creatives Rebuild New York and other sources cited in the report.",
+     "quote": "A recent survey by Creatives Rebuild New York found that 18.4 percent of New York City artists lack health insurance"
+    },
+    {
+     "plain": "Self-employed creative workers are more likely to rely only on public health insurance, which leaves them more exposed when public coverage is cut back.",
+     "quote": "Fully 25 percent of self-employed workers in creative occupations rely exclusively on public coverage, compared with 9.3 percent of wage-employed workers in the same jobs."
+    },
+    {
+     "plain": "Freelancers describe handling taxes, insurance and benefits across many projects as a job in itself, and some say the lack of benefits affects career and family decisions.",
+     "quote": "“When you are freelance, you have to find work, do the work, and also be your own accountant and HR,”"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "16.1 percent",
+     "label": "Creative-industry workers who are self-employed"
+    },
+    {
+     "value": "6.9 percent",
+     "label": "Private-sector workers citywide who are self-employed"
+    },
+    {
+     "value": "26.8 percent",
+     "label": "Growth in independent artists since 2019"
+    },
+    {
+     "value": "34.1 percent",
+     "label": "Earnings gap for full-time self-employed creative workers"
+    },
+    {
+     "value": "18.4 percent",
+     "label": "New York City artists lacking health insurance"
+    },
+    {
+     "value": "25,000",
+     "label": "Freelancers Union members insured, at most, 2008 to 2015"
+    },
+    {
+     "value": "$65 a month",
+     "label": "Cost of Creatives Care Dallas benefits"
+    }
+   ],
+   "recommendations": [
+    "Launch a portable benefits pilot for artists and creative workers so independent workers keep essential benefits as they move between gigs, employers and sectors.",
+    "Use a pooled social insurance model rather than individual savings accounts, so workers share risk and the group has more leverage to negotiate affordable coverage.",
+    "Draw contributions from multiple sources, including employers, clients, philanthropy, individuals and the public sector.",
+    "Set eligibility rules that reflect freelance work, including fluctuating income and workers who receive both W-2 and 1099 income.",
+    "Design the legal and regulatory structure to protect participating employers from unintended tax liabilities or worker-misclassification penalties.",
+    "Involve state government to help provide funding and address regulatory questions the city cannot resolve on its own, particularly around insurance, taxation and the treatment of employer contributions.",
+    "Make enrollment simple and easy to navigate, and design it to reach workers across the creative sector, including those who have historically had little access to benefits infrastructure.",
+    "Include a clear evaluation plan from the start so the city can track results, fix problems and identify what it would take to scale the model."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "labor",
+    "health",
+    "small business"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Launch a portable benefits pilot for artists and creative workers so independent workers keep essential benefits as they move between gigs, employers and sectors."
+    },
+    {
+     "n": 2,
+     "text": "Use a pooled social insurance model rather than individual savings accounts, so workers share risk and the group has more leverage to negotiate affordable coverage."
+    },
+    {
+     "n": 3,
+     "text": "Draw contributions from multiple sources, including employers, clients, philanthropy, individuals and the public sector."
+    },
+    {
+     "n": 4,
+     "text": "Set eligibility rules that reflect freelance work, including fluctuating income and workers who receive both W-2 and 1099 income."
+    },
+    {
+     "n": 5,
+     "text": "Design the legal and regulatory structure to protect participating employers from unintended tax liabilities or worker-misclassification penalties."
+    },
+    {
+     "n": 6,
+     "text": "Involve state government to help provide funding and address regulatory questions the city cannot resolve on its own, particularly around insurance, taxation and the treatment of employer contributions."
+    },
+    {
+     "n": 7,
+     "text": "Make enrollment simple and easy to navigate, and design it to reach workers across the creative sector, including those who have historically had little access to benefits infrastructure."
+    },
+    {
+     "n": 8,
+     "text": "Include a clear evaluation plan from the start so the city can track results, fix problems and identify what it would take to scale the model."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-01-cuf-strengthening-entry-level-tech-pathways-age",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI",
+   "plain_title": "Entry-level tech jobs in New York City and the rise of AI",
+   "agency": "New York City government",
+   "issued": "2026-09-01",
+   "url": "https://nycfuture.org/research/nyc-entry-level-tech-pathways-in-the-age-of-ai",
+   "pdf": "https://nycfuture.org/pdf/Strengthening_NYC_EntryLevel_Tech_Pathways_in_the_Age_of_AI.pdf",
+   "what_they_audited": "A report from the Center for an Urban Future examining entry-level tech hiring in New York City using online job postings data and artificial intelligence (AI) exposure data. It proposes steps for policymakers.",
+   "background": "The report says New York City's tech sector has been a dependable source of middle- and high-wage jobs, with employment up more than 133 percent from 2004 to 2024. It says workforce training groups built on-ramps into these careers for New Yorkers from lower-income backgrounds. The report was supported by a grant from Pursuit, one of those training groups.",
+   "findings": [
+    {
+     "plain": "Entry-level tech job postings in the city have dropped sharply since 2022, more than in any other field.",
+     "quote": "entry-level tech job postings have plummeted 49 percent in New York City since 2022"
+    },
+    {
+     "plain": "Overall tech employment in the city has not fallen. Job growth has flattened since 2022 while entry-level openings have shrunk.",
+     "quote": "job gains in the city’s tech sector have essentially stalled since 2022"
+    },
+    {
+     "plain": "Since 2023 there have been more new computer science graduates than entry-level tech postings, which the report says makes it harder for training program graduates to compete.",
+     "quote": "there were 57 percent more graduates of CS-related programs than there were entry-level jobs"
+    },
+    {
+     "plain": "Jobs more exposed to generative AI saw bigger drops in entry-level postings, while jobs with minimal exposure saw increases. The report notes that correlation does not imply causation and that AI is not the only factor, citing interest rates and economic uncertainty as well.",
+     "quote": "Jobs with the highest AI exposure have seen entry-level job postings fall 29 percent since 2022."
+    },
+    {
+     "plain": "Entry-level postings that require AI skills have grown, and the report treats these as a bright spot amid the broader decline.",
+     "quote": "Since 2022, entry-level postings for jobs that require AI skills have grown 20 percent"
+    },
+    {
+     "plain": "Training providers interviewed reported weaker placement results and are redesigning programs, with several developing AI-focused training.",
+     "quote": "all expressed deep concern about the dramatic downturn in entry-level tech hiring over the past three years"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "49 percent",
+     "label": "Drop in entry-level tech postings since 2022"
+    },
+    {
+     "value": "29 percent",
+     "label": "Drop in entry-level postings, highest AI-exposure jobs"
+    },
+    {
+     "value": "21 percent",
+     "label": "Rise in entry-level postings, minimal AI-exposure jobs"
+    },
+    {
+     "value": "57 percent",
+     "label": "More computer science graduates than entry-level jobs, 2024"
+    },
+    {
+     "value": "20 percent",
+     "label": "Growth in entry-level postings requiring AI skills"
+    },
+    {
+     "value": "230 percent",
+     "label": "Rise in entry-level tech postings, public administration"
+    },
+    {
+     "value": "$10 million",
+     "label": "Proposed initial city funding for AI Service Corps"
+    }
+   ],
+   "recommendations": [
+    "Launch an NYC AI Service Corps, a paid six-month fellowship placing emerging technologists in small businesses, nonprofits and city agencies to deliver practical AI services, starting with an initial $10 million in city funding co-designed and co-invested with AI and tech firms and philanthropic groups.",
+    "Establish an NYC Workforce AI Readiness Fund, seeded with city dollars and co-invested by private partners, to support AI skills training, job-transition help for workers displaced by AI and rapid-response training, alongside a Mayoral AI Workforce Task Force that could be housed within the Workforce Development Board.",
+    "Recruit the next 100 large employers through a mayor-led initiative with the City University of New York and workforce providers, using challenge-based procurement to select employer-facing intermediaries and expand apprenticeships, paid internships and direct hiring pipelines.",
+    "Expand credit-bearing dual enrollment and Career and Professional Learning pathways so that industry-aligned training counts toward a college credential, with the City University of New York scaling credit-for-prior-learning policies and formalizing articulation agreements.",
+    "Significantly expand investment in wraparound supports such as childcare assistance, transportation support, stipends, emergency aid, mental health services and career navigation, tying funding to completion and employment outcomes.",
+    "Build an NYC Workforce Information Hub with the Workforce Development Board, starting as a public-facing dashboard, to provide real-time labor market information on in-demand occupations, emerging skills and aligned training programs."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "labor",
+    "technology",
+    "education"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Launch an NYC AI Service Corps, a paid six-month fellowship placing emerging technologists in small businesses, nonprofits and city agencies to deliver practical AI services, starting with an initial $10 million in city funding co-designed and co-invested with AI and tech firms and philanthropic groups."
+    },
+    {
+     "n": 2,
+     "text": "Establish an NYC Workforce AI Readiness Fund, seeded with city dollars and co-invested by private partners, to support AI skills training, job-transition help for workers displaced by AI and rapid-response training, alongside a Mayoral AI Workforce Task Force that could be housed within the Workforce Development Board."
+    },
+    {
+     "n": 3,
+     "text": "Recruit the next 100 large employers through a mayor-led initiative with the City University of New York and workforce providers, using challenge-based procurement to select employer-facing intermediaries and expand apprenticeships, paid internships and direct hiring pipelines."
+    },
+    {
+     "n": 4,
+     "text": "Expand credit-bearing dual enrollment and Career and Professional Learning pathways so that industry-aligned training counts toward a college credential, with the City University of New York scaling credit-for-prior-learning policies and formalizing articulation agreements."
+    },
+    {
+     "n": 5,
+     "text": "Significantly expand investment in wraparound supports such as childcare assistance, transportation support, stipends, emergency aid, mental health services and career navigation, tying funding to completion and employment outcomes."
+    },
+    {
+     "n": 6,
+     "text": "Build an NYC Workforce Information Hub with the Workforce Development Board, starting as a public-facing dashboard, to provide real-time labor market information on in-demand occupations, emerging skills and aligned training programs."
+    }
+   ]
+  },
+  {
+   "id": "2026-09-01-cuf-unlocking-public-private-partnerships-help-support",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "Unlocking Public-Private Partnerships to Help Support and Strengthen NYC’s Parks",
+   "plain_title": "Five ideas for public-private partnerships to support city parks",
+   "agency": "New York City government",
+   "issued": "2026-09-01",
+   "url": "https://nycfuture.org/research/public-private-partnerships-for-parks",
+   "pdf": "",
+   "what_they_audited": "A policy report from the Center for an Urban Future that examines how New York City could build a new generation of public-private partnerships to support its parks and open spaces. It offers five ideas for doing so.",
+   "background": "The report says the city faces a precarious fiscal situation and that parks have borne the brunt of many decades of crisis-fueled budget cuts. It notes that more than 1,000 parks and open space partner groups already work with NYC Parks.",
+   "findings": [
+    {
+     "plain": "Park quality varies by neighborhood, according to a Citizens Budget Commission residents' survey cited in the report, with Bronx residents rating their parks lower than Manhattan residents.",
+     "quote": "62 percent of Bronx residents rate their neighborhood parks and playgrounds as “fair” or “poor,” compared to 29 percent in Manhattan"
+    },
+    {
+     "plain": "The report says licensing, revenue, insurance and liability rules differ widely among parks partners, with some groups indemnified by the city and others expected to carry risk themselves.",
+     "quote": "Across the parks system, partners face strikingly different rules governing licensing, revenue, insurance, and liability."
+    },
+    {
+     "plain": "A 2025 survey of small and medium-sized parks nonprofits found that lack of indemnification was their top challenge in dealing with NYC Parks.",
+     "quote": "lack of indemnification was the number one issue cited in a 2025 survey"
+    },
+    {
+     "plain": "The report says upfront infrastructure costs keep many potential concessions from moving forward, and that only the most lucrative opportunities draw multiple bidders.",
+     "quote": "Installing gas service alone can run over $1 million."
+    },
+    {
+     "plain": "Partnerships for Parks, the program that supports neighborhood parks groups, is described as small relative to demand and unable to expand for several years because of too few staff.",
+     "quote": "The program has been unable to expand for several years, not because of a lack of community interest, but because there are too few staff to engage, support, and sustain additional volunteer groups."
+    },
+    {
+     "plain": "The report says city-run recreation programming has fallen since before the pandemic, and presents the health care sector as a possible source of support.",
+     "quote": "city-run recreational program sessions declining 45 percent from 2019 to 2024"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "62 percent",
+     "label": "Bronx residents rating local parks fair or poor"
+    },
+    {
+     "value": "29 percent",
+     "label": "Manhattan residents rating local parks fair or poor"
+    },
+    {
+     "value": "more than 1,000",
+     "label": "Parks and open space partner groups working with NYC Parks"
+    },
+    {
+     "value": "$11 million",
+     "label": "Added yearly parks concession revenue in executive budget"
+    },
+    {
+     "value": "45 percent",
+     "label": "Decline in city-run recreation sessions, 2019 to 2024"
+    },
+    {
+     "value": "$3 million",
+     "label": "Partnerships for Parks budget of city-funded positions"
+    },
+    {
+     "value": "$95 million",
+     "label": "If 1% of hospital community benefits went to parks"
+    }
+   ],
+   "recommendations": [
+    "Cut the bureaucratic and cost barriers facing community parks partners by directing the Law Department, Office of Management and Budget and NYC Parks to standardize license templates by partner tier, let partners retain revenue, reduce or subsidize insurance requirements, offer guidance and workshops and add partnership staff.",
+    "Pilot multi-site Concessions Kits with four to six respondents running pilots of at least ten parks each, supported by modular infrastructure, a possible Concessions Investment Fund with the New York City Economic Development Corporation, simple revenue-sharing agreements and a Parks Improvement Trust that reinvests concession revenue in parks.",
+    "Launch an ambitious public-private campaign to strengthen grassroots park stewardship, using public and philanthropic dollars as a challenge grant, with Partnerships for Parks as the platform, and double the community engagement staff of Partnerships for Parks under its Parks Equity Initiative.",
+    "Create indexed city matching funds and microgrants that encourage contributions to parks, with higher match ratios for lower-income communities, easy ways for residents and businesses to give, a secondary citywide regrant fund and faster small-grant procurement through City Parks Foundation and Citizens Committee.",
+    "Partner with hospitals, insurers and health institutions to support recreation and wellness in nearby parks, through a pilot with menus of sponsorable programming packages, possible parks prescriptions and a cohort of nonprofit hospitals and other health providers, with results tracked by university researchers."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "money and contracts",
+    "environment",
+    "health"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Cut the bureaucratic and cost barriers facing community parks partners by directing the Law Department, Office of Management and Budget and NYC Parks to standardize license templates by partner tier, let partners retain revenue, reduce or subsidize insurance requirements, offer guidance and workshops and add partnership staff."
+    },
+    {
+     "n": 2,
+     "text": "Pilot multi-site Concessions Kits with four to six respondents running pilots of at least ten parks each, supported by modular infrastructure, a possible Concessions Investment Fund with the New York City Economic Development Corporation, simple revenue-sharing agreements and a Parks Improvement Trust that reinvests concession revenue in parks."
+    },
+    {
+     "n": 3,
+     "text": "Launch an ambitious public-private campaign to strengthen grassroots park stewardship, using public and philanthropic dollars as a challenge grant, with Partnerships for Parks as the platform, and double the community engagement staff of Partnerships for Parks under its Parks Equity Initiative."
+    },
+    {
+     "n": 4,
+     "text": "Create indexed city matching funds and microgrants that encourage contributions to parks, with higher match ratios for lower-income communities, easy ways for residents and businesses to give, a secondary citywide regrant fund and faster small-grant procurement through City Parks Foundation and Citizens Committee."
+    },
+    {
+     "n": 5,
+     "text": "Partner with hospitals, insurers and health institutions to support recreation and wellness in nearby parks, through a pilot with menus of sponsorable programming packages, possible parks prescriptions and a cohort of nonprofit hospitals and other health providers, with results tracked by university researchers."
     }
    ]
   },
@@ -432,6 +1310,522 @@
     {
      "n": 3,
      "text": "Develop written procedures for disbursing auction proceeds and for recording and reconciling the revenue collected, and train the appropriate staff."
+    }
+   ]
+  },
+  {
+   "id": "2026-08-01-cuf-10-ideas-expanding-equitable-access-natural",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "10 Ideas for Expanding Equitable Access to Natural Areas",
+   "plain_title": "Ten ideas to widen access to New York City's natural areas",
+   "agency": "New York City government",
+   "issued": "2026-08-01",
+   "url": "https://nycfuture.org/research/10-ideas-natural-areas",
+   "pdf": "https://nycfuture.org/pdf/CUF_NaturalAreas_PolicyIdeas_v4_8.6.26.pdf",
+   "what_they_audited": "A policy report from the Center for an Urban Future proposing ten ideas to expand access to the city's natural areas, especially for residents of low-income communities.",
+   "background": "The report says New York City's five boroughs have many wild spaces, but too many New Yorkers are cut off from them, especially in low-income communities where transportation barriers, limited programming and safety concerns are present. It says expanding access can be a relatively low-cost way to improve public health, strengthen communities and build climate resilience.",
+   "findings": [
+    {
+     "plain": "The report says a small staff cares for a very large area of natural land, and large portions of the system go uncared for each year.",
+     "quote": "about 100 staff care for more than 12,000 acres of city-managed forests, wetlands, and streams"
+    },
+    {
+     "plain": "Interviews for the report found that many residents, including longtime ones, do not know about nearby natural areas.",
+     "quote": "lack of awareness emerged as one of the most consistent barriers"
+    },
+    {
+     "plain": "The report says a quarter of New Yorkers live in neighborhoods without access to natural areas.",
+     "quote": "A quarter of New Yorkers live in neighborhoods without access to natural areas"
+    },
+    {
+     "plain": "The report names safety concerns as a major barrier to visiting natural areas, particularly for women and people of color.",
+     "quote": "Safety concerns remain a major barrier to visiting natural areas, particularly for women and people of color."
+    },
+    {
+     "plain": "The report says the city trains hundreds of residents for natural areas jobs each year but has far fewer stable positions for them.",
+     "quote": "New York City is training hundreds of residents each year for jobs in natural areas, but has far fewer stable positions to absorb them."
+    },
+    {
+     "plain": "The report says some trails are poorly maintained, hard to find, informal or harmful to the environment.",
+     "quote": "some routes are poorly maintained, difficult to find, informal, or ecologically harmful"
+    },
+    {
+     "plain": "The report says youth unemployment in the city is high and rising while natural areas need more hands-on care than current staffing can provide.",
+     "quote": "Youth unemployment in New York City remains more than double the citywide average and has risen in recent years"
+    }
+   ],
+   "numbers": [
+    {
+     "value": "12,000 acres",
+     "label": "City-managed forests, wetlands and streams"
+    },
+    {
+     "value": "about 100 staff",
+     "label": "Current staff caring for natural areas"
+    },
+    {
+     "value": "140",
+     "label": "Proposed minimum staff within five years"
+    },
+    {
+     "value": "approximately $10 million",
+     "label": "Proposed increase in annual natural areas funding"
+    },
+    {
+     "value": "300 miles",
+     "label": "Trails across the city"
+    },
+    {
+     "value": "more than $200 million",
+     "label": "Annual Summer Youth Employment Program funding"
+    },
+    {
+     "value": "roughly 200 high school students",
+     "label": "Served yearly by Ranger Conservation Corps"
+    }
+   ],
+   "recommendations": [
+    "Pilot monthly citywide Nature Days in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events.",
+    "Create an NYC Youth Conservation Corps built on the Summer Youth Employment Program, with paid placements in natural areas care and links to year-round jobs, apprenticeships, college programs and credentials.",
+    "Launch a Nature for All NYC initiative so every public school student has a nature-based experience each year, possibly starting with fourth graders.",
+    "Launch an Explore Forever Wild NYC awareness campaign across subways, buses, LinkNYC kiosks, schools and digital platforms, paired with better wayfinding, updated trail maps and digital tools.",
+    "Fund and launch library-based Nature & Culture Hubs with the three public library systems, particularly in underserved communities, to provide information on nearby nature and cultural activities.",
+    "Grow the natural areas budget and workforce over five years to at least 140 staff, add about $10 million in annual funding, baseline that funding, convert seasonal roles to full-time and publish a five-year investment roadmap, while drawing on private, philanthropic and state support.",
+    "Launch an interagency Rewild NYC initiative using pocket forests, native plantings and micro-natural spaces on vacant lots, dead-end streets, medians, schools, libraries and public housing.",
+    "Reassess the existing trail system to decide which trails need maintenance, signage, rerouting or closure, explore carefully targeted new trails, and modernize trail maps and digital navigation tools with private-sector and nonprofit partners.",
+    "Strengthen the capacity and role of Urban Park Rangers with baselined funding and explore a dedicated natural areas safety team with consistent assignments.",
+    "Expand in-house NYC Parks staffing, reduce reliance on short-term contracts and launch an NYC Nature-Based Jobs Coalition to coordinate training, apprenticeships, credentials and hiring."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "environment",
+    "health",
+    "labor"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Pilot monthly citywide Nature Days in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events."
+    },
+    {
+     "n": 2,
+     "text": "Create an NYC Youth Conservation Corps built on the Summer Youth Employment Program, with paid placements in natural areas care and links to year-round jobs, apprenticeships, college programs and credentials."
+    },
+    {
+     "n": 3,
+     "text": "Launch a Nature for All NYC initiative so every public school student has a nature-based experience each year, possibly starting with fourth graders."
+    },
+    {
+     "n": 4,
+     "text": "Launch an Explore Forever Wild NYC awareness campaign across subways, buses, LinkNYC kiosks, schools and digital platforms, paired with better wayfinding, updated trail maps and digital tools."
+    },
+    {
+     "n": 5,
+     "text": "Fund and launch library-based Nature & Culture Hubs with the three public library systems, particularly in underserved communities, to provide information on nearby nature and cultural activities."
+    },
+    {
+     "n": 6,
+     "text": "Grow the natural areas budget and workforce over five years to at least 140 staff, add about $10 million in annual funding, baseline that funding, convert seasonal roles to full-time and publish a five-year investment roadmap, while drawing on private, philanthropic and state support."
+    },
+    {
+     "n": 7,
+     "text": "Launch an interagency Rewild NYC initiative using pocket forests, native plantings and micro-natural spaces on vacant lots, dead-end streets, medians, schools, libraries and public housing."
+    },
+    {
+     "n": 8,
+     "text": "Reassess the existing trail system to decide which trails need maintenance, signage, rerouting or closure, explore carefully targeted new trails, and modernize trail maps and digital navigation tools with private-sector and nonprofit partners."
+    },
+    {
+     "n": 9,
+     "text": "Strengthen the capacity and role of Urban Park Rangers with baselined funding and explore a dedicated natural areas safety team with consistent assignments."
+    },
+    {
+     "n": 10,
+     "text": "Expand in-house NYC Parks staffing, reduce reliance on short-term contracts and launch an NYC Nature-Based Jobs Coalition to coordinate training, apprenticeships, credentials and hiring."
+    }
+   ]
+  },
+  {
+   "id": "2026-08-01-cuf-harnessing-natural-areas",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "Harnessing NYC’s Natural Areas",
+   "plain_title": "Getting more New Yorkers into the city's natural areas",
+   "agency": "New York City government",
+   "issued": "2026-08-01",
+   "url": "https://nycfuture.org/research/harnessing-nycs-natural-areas",
+   "pdf": "https://nycfuture.org/pdf/Harnessing_NYCs_Natural_Areas.pdf",
+   "what_they_audited": "A report from the Center for an Urban Future examining how New Yorkers use and access the city's natural areas such as forests, wetlands and streams, and what limits their care and use. It draws on interviews with more than 65 parks leaders, advocates and nonprofits plus an analysis of public data from NYC Parks and other sources.",
+   "background": "The report says New York City has more than 12,000 acres of city-managed forests, wetlands, streams and other wild landscapes across the five boroughs. It says these spaces can improve public health, strengthen communities and build climate resilience, yet remain largely invisible and underused.",
+   "findings": [
+    {
+     "plain": "Only a small share of New Yorkers take part in nature-based programming, and many young people rarely reach green space.",
+     "quote": "Only about 380,000 New Yorkers—about 4.5 percent of the city’s population—participated in nature-based programming in 2024"
+    },
+    {
+     "plain": "Fewer than half of New Yorkers live within a 10-minute walk of a natural area, compared with a much larger share who live near a park.",
+     "quote": "fewer than half of all New Yorkers—47.7 percent, or about 4.2 million people—live within a 10-minute walk of a natural area"
+    },
+    {
+     "plain": "Natural areas receive a small share of the parks operating budget relative to their size, and the acres maintained have fallen sharply over two years.",
+     "quote": "Although these landscapes make up roughly one-third of all parkland, they receive just 2 percent of the city’s parks operating budget."
+    },
+    {
+     "plain": "The Natural Resources Group, the division of NYC Parks that stewards natural areas, has a small staff, so most natural areas get little or no regular maintenance.",
+     "quote": "the NRG has a staff of just 102 employees—about one for every 120 acres"
+    },
+    {
+     "plain": "Concerns about safety and belonging, along with difficult transit connections, discourage many New Yorkers from visiting natural areas.",
+     "quote": "Concerns about safety and belonging discourage many New Yorkers from visiting natural areas."
+    },
+    {
+     "plain": "Nonprofits and volunteers fill many gaps in programming and trail care, but the report describes their capacity as limited and uneven, and demand often exceeds what they can offer.",
+     "quote": "But these efforts are uneven and limited in scale."
+    },
+    {
+     "plain": "The report notes recent progress, including the baselining of Urban Park Ranger funding and the city's first Urban Forest Plan, while saying significant gaps remain.",
+     "quote": "In FY 2027, those roles have finally been baselined, rather than being funding one year at a time."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "12,000 acres",
+     "label": "City-managed natural areas across the five boroughs"
+    },
+    {
+     "value": "4.5 percent",
+     "label": "Share of New Yorkers in nature-based programming in 2024"
+    },
+    {
+     "value": "47.7 percent",
+     "label": "Share living within a 10-minute walk of a natural area"
+    },
+    {
+     "value": "2 percent",
+     "label": "Share of parks operating budget going to natural areas"
+    },
+    {
+     "value": "4.7 percent",
+     "label": "Share of natural areas with any maintenance last year"
+    },
+    {
+     "value": "102",
+     "label": "Staff managing the natural areas system"
+    },
+    {
+     "value": "94 Rangers",
+     "label": "Urban Park Rangers citywide today"
+    }
+   ],
+   "recommendations": [
+    "Create a \"Nature for All NYC\" initiative so every public school student takes part in a nature-based experience each year, possibly starting with fourth graders.",
+    "Strengthen the role and capacity of Urban Park Rangers in natural areas and explore a dedicated natural areas safety team to increase perceptions of safety and belonging.",
+    "Pilot monthly citywide \"Nature Days\" in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events.",
+    "Develop a five-year roadmap for the long-term care of natural areas that draws on public-private partnerships, philanthropic support and state tourism and environmental funding streams.",
+    "Reassess the city's trail system of 300-plus miles, and partner with private sector firms and nonprofit experts to modernize trail maps, digital navigation tools and wayfinding.",
+    "Create a larger \"NYC Youth Conservation Corps\" that connects paid youth placements to natural areas stewardship and to year-round jobs, apprenticeships and credentials.",
+    "Set up library-based \"Nature & Culture Hubs\" that give information about local nature activities, transit routes and volunteer opportunities, and later offer lendable equipment and small grants.",
+    "Form a \"NYC Nature-Based Jobs Coalition\" to coordinate training, apprenticeships, credentials and hiring, and expand stable long-term roles in natural areas stewardship.",
+    "Launch a five-borough awareness campaign called \"Explore Forever Wild NYC\", working with Empire State Development and tapping existing state tourism dollars.",
+    "Launch an interagency \"Rewild NYC\" initiative to add pocket forests, native plantings and micronatural spaces closer to where New Yorkers live."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "environment",
+    "health",
+    "children and youth"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Create a \"Nature for All NYC\" initiative so every public school student takes part in a nature-based experience each year, possibly starting with fourth graders."
+    },
+    {
+     "n": 2,
+     "text": "Strengthen the role and capacity of Urban Park Rangers in natural areas and explore a dedicated natural areas safety team to increase perceptions of safety and belonging."
+    },
+    {
+     "n": 3,
+     "text": "Pilot monthly citywide \"Nature Days\" in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events."
+    },
+    {
+     "n": 4,
+     "text": "Develop a five-year roadmap for the long-term care of natural areas that draws on public-private partnerships, philanthropic support and state tourism and environmental funding streams."
+    },
+    {
+     "n": 5,
+     "text": "Reassess the city's trail system of 300-plus miles, and partner with private sector firms and nonprofit experts to modernize trail maps, digital navigation tools and wayfinding."
+    },
+    {
+     "n": 6,
+     "text": "Create a larger \"NYC Youth Conservation Corps\" that connects paid youth placements to natural areas stewardship and to year-round jobs, apprenticeships and credentials."
+    },
+    {
+     "n": 7,
+     "text": "Set up library-based \"Nature & Culture Hubs\" that give information about local nature activities, transit routes and volunteer opportunities, and later offer lendable equipment and small grants."
+    },
+    {
+     "n": 8,
+     "text": "Form a \"NYC Nature-Based Jobs Coalition\" to coordinate training, apprenticeships, credentials and hiring, and expand stable long-term roles in natural areas stewardship."
+    },
+    {
+     "n": 9,
+     "text": "Launch a five-borough awareness campaign called \"Explore Forever Wild NYC\", working with Empire State Development and tapping existing state tourism dollars."
+    },
+    {
+     "n": 10,
+     "text": "Launch an interagency \"Rewild NYC\" initiative to add pocket forests, native plantings and micronatural spaces closer to where New Yorkers live."
+    }
+   ]
+  },
+  {
+   "id": "2026-08-01-cuf-strengthening-cunys-computer-science-faculty-prepare",
+   "source": "outside",
+   "auditor": "Center for an Urban Future",
+   "title": "Strengthening CUNY’s Computer Science Faculty to Prepare Students for NYC’s Changing Tech Economy",
+   "plain_title": "Strengthening CUNY's computer science faculty for the tech economy",
+   "agency": "New York City government",
+   "issued": "2026-08-01",
+   "url": "https://nycfuture.org/research/strengthening-cuny-CS-faculty",
+   "pdf": "https://nycfuture.org/pdf/Strengthening_CUNYs_Computer_Science_Faculty.pdf",
+   "what_they_audited": "A report from the Center for an Urban Future examining whether the City University of New York (CUNY) has enough computer science (CS) faculty with the right experience to prepare students for New York City's tech economy. It draws on more than 75 interviews and an analysis of CUNY data on enrollment, faculty hiring, course offerings, budgets and student outcomes.",
+   "background": "The report says CS enrollment at CUNY has grown while overall enrollment declined, and entry-level tech jobs in New York City have fallen since 2022. It describes CUNY as a main route to well-paying careers for its largely low-income and first-generation students.",
+   "findings": [
+    {
+     "plain": "CS enrollment at CUNY rose sharply over the decade while full-time CS faculty grew only modestly at senior colleges and shrank at community colleges.",
+     "quote": "Faculty growth has lagged far behind the surge in student demand over the past decade"
+    },
+    {
+     "plain": "Student-to-faculty ratios in CS have grown at most campuses. At Hunter College the ratio went from 8:1 in 2014 to 31:1 in 2024, and introductory courses can enroll hundreds of students.",
+     "quote": "Hunter College’s student-to-faculty ratio ballooned from 8:1 in 2014 to 31:1 in 2024"
+    },
+    {
+     "plain": "CUNY's advertised CS faculty pay is the lowest among comparable New York City institutions, and start-up research support is limited.",
+     "quote": "CUNY advertised by far the lowest median salary among comparable New York City institutions, at roughly $79,000"
+    },
+    {
+     "plain": "Slow hiring and approval processes cause departments to lose candidates, and delays can also hold up access to research funds and equipment after faculty are hired.",
+     "quote": "a slow, bureaucratic hiring process frequently causes departments to lose strong candidates before offers can be made"
+    },
+    {
+     "plain": "Few CS faculty have industry experience. In a review of four colleges, 19 of 79 full-time CS faculty had worked in industry before joining CUNY, which the report links to a gap between what students learn and what employers expect.",
+     "quote": ""
+    },
+    {
+     "plain": "Access to artificial intelligence (AI) instruction is limited. In fall 2025 only eight AI or machine learning courses with 255 seats were offered across CUNY, and the median course requires six prerequisites.",
+     "quote": ""
+    }
+   ],
+   "numbers": [
+    {
+     "value": "146 percent",
+     "label": "Growth in CUNY CS enrollment, 2014 to 2024"
+    },
+    {
+     "value": "49 percent",
+     "label": "Fall in NYC entry-level tech jobs since 2022"
+    },
+    {
+     "value": "21 percent",
+     "label": "Growth in full-time CS faculty at senior colleges"
+    },
+    {
+     "value": "22 percent",
+     "label": "Decline in full-time CS faculty at community colleges"
+    },
+    {
+     "value": "$79,000",
+     "label": "Roughly CUNY's median advertised CS faculty salary"
+    },
+    {
+     "value": "31:1",
+     "label": "Hunter College student-to-faculty ratio in 2024"
+    },
+    {
+     "value": "$10 million",
+     "label": "Proposed minimum annual city funding for new faculty lines"
+    }
+   ],
+   "recommendations": [
+    "Expand faculty capacity in high-demand fields starting with CS, through a systemwide plan with multiyear hiring targets, a stronger pipeline into faculty roles and possibly cluster hiring such as an AI cohort.",
+    "Increase city funding for faculty, with at least $10 million annually for new faculty lines in CS and related fields, and ask state leaders to update funding formulas to reflect the higher cost of educating CS students.",
+    "Launch a CUNY Faculty Hiring Acceleration Initiative that maps hiring and start-up approval steps, sets target timelines, assigns responsibility and streamlines research procurement.",
+    "Make faculty capacity central to CUNY's AI strategy by recruiting applied AI faculty, expanding professional development and extending AI instruction across disciplines. The state should adopt challenge-based procurement, and CUNY should consider adapting its tenure and promotion guidelines.",
+    "Create a CS@CUNY Faculty Investment Fund of roughly $5 million over three years, backed by public funding, philanthropy and industry partnerships, to provide competitive start-up packages and research support.",
+    "Expand the Practitioners-in-Residence Corps (PiRC) and similar initiatives by recruiting private-sector and philanthropic partners, working with city leaders.",
+    "Pilot a CUNY Industry Fellows program in which selected faculty spend a defined portion of their time embedded with a partner company, supported by cost-sharing agreements with employers."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "education",
+    "labor",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Expand faculty capacity in high-demand fields starting with CS, through a systemwide plan with multiyear hiring targets, a stronger pipeline into faculty roles and possibly cluster hiring such as an AI cohort."
+    },
+    {
+     "n": 2,
+     "text": "Increase city funding for faculty, with at least $10 million annually for new faculty lines in CS and related fields, and ask state leaders to update funding formulas to reflect the higher cost of educating CS students."
+    },
+    {
+     "n": 3,
+     "text": "Launch a CUNY Faculty Hiring Acceleration Initiative that maps hiring and start-up approval steps, sets target timelines, assigns responsibility and streamlines research procurement."
+    },
+    {
+     "n": 4,
+     "text": "Make faculty capacity central to CUNY's AI strategy by recruiting applied AI faculty, expanding professional development and extending AI instruction across disciplines. The state should adopt challenge-based procurement, and CUNY should consider adapting its tenure and promotion guidelines."
+    },
+    {
+     "n": 5,
+     "text": "Create a CS@CUNY Faculty Investment Fund of roughly $5 million over three years, backed by public funding, philanthropy and industry partnerships, to provide competitive start-up packages and research support."
+    },
+    {
+     "n": 6,
+     "text": "Expand the Practitioners-in-Residence Corps (PiRC) and similar initiatives by recruiting private-sector and philanthropic partners, working with city leaders."
+    },
+    {
+     "n": 7,
+     "text": "Pilot a CUNY Industry Fellows program in which selected faculty spend a defined portion of their time embedded with a partner company, supported by cost-sharing agreements with employers."
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-cnycaffairs-introducing-universal-child-care-cost-model",
+   "source": "outside",
+   "auditor": "Center for New York City Affairs at The New School",
+   "title": "Introducing a Universal Child Care Cost Model for New York",
+   "plain_title": "A cost model for universal child care in New York",
+   "agency": "New York City government",
+   "issued": "2026-07-31",
+   "url": "http://www.centernyc.org/reports-briefs/universal-child-care-cost-model-new-york",
+   "pdf": "http://www.centernyc.org/s/Introducing-a-Universal-Child-Care-Cost-Model-for-New-York-CNYCA.pdf",
+   "what_they_audited": "A report from the Center for New York City Affairs at The New School that introduces a cost model for universal child care for children from six weeks to five years old. It estimates costs and capacity statewide and in New York City and compares them with current city spending and rates.",
+   "background": "The mayor and governor committed to universal child care and took first steps in the state and city fiscal year 2027 budgets, including a 2-K pilot. The report says questions remain about how much a universal, high-quality, stable system will cost and who will pay for it.",
+   "findings": [
+    {
+     "plain": "The model estimates that universal child care in New York City would need $8.7 to $9.3 billion each year, depending on assumed uptake rates.",
+     "quote": ""
+    },
+    {
+     "plain": "In fiscal year 2025 the city budgeted far less for child care service delivery than it spent, which the report describes as a pattern of underestimating costs. The report says the city must identify at least an additional $4.9 to $5.5 billion for a fully universal system.",
+     "quote": ""
+    },
+    {
+     "plain": "Existing capacity is large. Using the higher uptake rate, a universal system would need only 10,475 more seats in 1,182 more programs, so the report says no new facilities are needed now.",
+     "quote": ""
+    },
+    {
+     "plain": "The city has 50,328 center and home-based staff and the model says it would need 23,640 more workers to staff a fully universal system.",
+     "quote": ""
+    },
+    {
+     "plain": "Infant care is the most expensive because of its staffing ratios, and current contract and voucher rates fall short of the model's results. Group family child care programs would be paid $7,680 less per three-year-old than the model recommends under New York City Public Schools rates in the adopted fiscal year 2027 budget.",
+     "quote": ""
+    },
+    {
+     "plain": "The report says the 2-K plan, which requires a network affiliation that 80 percent of home-based providers lack, could leave home-based programs providing only infant care at rates that do not cover operating costs.",
+     "quote": ""
+    }
+   ],
+   "numbers": [
+    {
+     "value": "$8.7 to $9.3 billion",
+     "label": "Estimated yearly cost of universal care in the city"
+    },
+    {
+     "value": "$4.9 to $5.5 billion",
+     "label": "Additional city funding the report says is needed"
+    },
+    {
+     "value": "10,475",
+     "label": "Additional seats needed (higher uptake)"
+    },
+    {
+     "value": "1,182",
+     "label": "Additional programs needed (higher uptake)"
+    },
+    {
+     "value": "50,328",
+     "label": "Current center and home-based staff in the city"
+    },
+    {
+     "value": "23,640",
+     "label": "Additional workers needed in the city"
+    },
+    {
+     "value": "$7,680",
+     "label": "Per-child gap for group family child care, age three"
+    }
+   ],
+   "recommendations": [
+    "Invest more at the state and city level to implement fully universal child care.",
+    "Amend current public contract and voucher rates so they cover the operating costs and salary needs of child care programs today.",
+    "Implement a sector-wide salary scale for child care workers.",
+    "Create a wage subsidy to guarantee better wages during the transition to free universal care, while the system still relies on a mix of public and private revenue.",
+    "Consolidate all child care system administration in the city under one agency."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "children and youth",
+    "money and contracts",
+    "labor"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Invest more at the state and city level to implement fully universal child care."
+    },
+    {
+     "n": 2,
+     "text": "Amend current public contract and voucher rates so they cover the operating costs and salary needs of child care programs today."
+    },
+    {
+     "n": 3,
+     "text": "Implement a sector-wide salary scale for child care workers."
+    },
+    {
+     "n": 4,
+     "text": "Create a wage subsidy to guarantee better wages during the transition to free universal care, while the system still relies on a mix of public and private revenue."
+    },
+    {
+     "n": 5,
+     "text": "Consolidate all child care system administration in the city under one agency."
     }
    ]
   },
@@ -4493,6 +5887,128 @@
     {
      "n": 9,
      "text": "Have the lead agency review the reforms already implemented to determine whether the financial savings actually benefited small businesses."
+    }
+   ]
+  },
+  {
+   "id": "2026-04-02-furman-house-doesnt-always-win-understanding-housing",
+   "source": "outside",
+   "auditor": "NYU Furman Center",
+   "title": "The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It",
+   "plain_title": "How to improve the Housing Connect affordable housing lottery",
+   "agency": "New York City Department of Housing Preservation and Development",
+   "issued": "2026-04-02",
+   "url": "https://www.furmancenter.org/publication/the-house-doesnt-always-win-understanding-nycs-housing-connect-lottery-system-and-how-to-improve-it/",
+   "pdf": "https://www.furmancenter.org/wp-content/uploads/2026/04/The-House-Doesnt-Always-Win_508.pdf",
+   "what_they_audited": "A report from the NYU Furman Center examining how NYC Housing Connect allocates income-restricted rental housing by lottery. It uses public documents and anonymized data from software used by marketing agents.",
+   "background": "In 2024, Housing Connect distributed roughly 10,000 units across 300 buildings, and approximately 6 million applications were filed for those buildings. The platform launched in 2013 and was last updated in 2020.",
+   "findings": [
+    {
+     "plain": "The authors say the verification and offer process is too long. Applicants in their data waited a median of 118 days to be approved, after a wait before receiving a log number.",
+     "quote": "A minimum of 76 days passes between when a building’s lottery opens"
+    },
+    {
+     "plain": "From lottery opening to approval, the median total time was about 6.5 months. This comes close to the six to seven months before a new building receives its temporary certificate of occupancy.",
+     "quote": "the median total of 194 days, or approximately 6.5 months, from lottery opening"
+    },
+    {
+     "plain": "Most applicants in the sample ended up with a rejected status, either through attrition or explicit rejection.",
+     "quote": "Approximately 49,000 applicants (just under 77%) will end up in a “rejected” status"
+    },
+    {
+     "plain": "About half of the applicants in the sample did not engage significantly with verification.",
+     "quote": "Approximately 50% (nearly 32,000) do not appear to engage significantly with the verification process."
+    },
+    {
+     "plain": "Only a small share of applicants were approved, and about half of those approved had no unit attached to their application.",
+     "quote": "Only about 9,000 applicants—roughly 15% of all applicants"
+    },
+    {
+     "plain": "The authors say the data are not representative of the whole system. The sampled buildings skew toward lower-income targeting and larger size, which they think more likely overestimates processing times.",
+     "quote": "The data are not necessarily representative of the lottery process as a whole (see Appendix)."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "10,000",
+     "label": "Units distributed through Housing Connect in 2024"
+    },
+    {
+     "value": "300",
+     "label": "Buildings those units were in"
+    },
+    {
+     "value": "6 million",
+     "label": "Applications filed for those buildings in 2024"
+    },
+    {
+     "value": "64,000",
+     "label": "Applications in the authors' sample"
+    },
+    {
+     "value": "118 days",
+     "label": "Median time to verify and approve, in the sample"
+    },
+    {
+     "value": "142 days",
+     "label": "Median approval time reported by the city, fiscal year 2025"
+    },
+    {
+     "value": "49,000",
+     "label": "Sampled applicants who ended in a rejected status"
+    }
+   ],
+   "recommendations": [
+    "Let applicants apply for types of units within a building rather than the building as a whole, and stop them from applying for unit types for which they are apparently ineligible.",
+    "Expand the information collected in the My Household profile, including making pet policy and accessibility questions mandatory and adding borough or neighborhood preferences, so marketing agents can use it earlier in verification.",
+    "Change the Marketing Handbook to shorten timelines, set minimum and maximum ranges for each stage, and set objective standards for deadline extensions.",
+    "Integrate city systems that hold household and income information across the Department of Housing Preservation and Development, the New York City Housing Authority and the Department of Social Services, and work with state and federal governments to reconcile income verification rules across means-tested programs.",
+    "Support automating income verification in the meantime, for example through pilot projects, innovation grants, more automatable application programming interfaces, or artificial intelligence and automation standards and guidelines.",
+    "Use Housing Connect preference data to show the geography of demand and preferred unit designs, and let applicants opt in to alerts and community engagement for proposed projects.",
+    "Before adopting a citywide lottery that gives each applicant one priority number, use existing data to test whether it would deliver the expected benefits, and weigh the implementation risks the report lists."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "technology",
+    "transparency"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Let applicants apply for types of units within a building rather than the building as a whole, and stop them from applying for unit types for which they are apparently ineligible."
+    },
+    {
+     "n": 2,
+     "text": "Expand the information collected in the My Household profile, including making pet policy and accessibility questions mandatory and adding borough or neighborhood preferences, so marketing agents can use it earlier in verification."
+    },
+    {
+     "n": 3,
+     "text": "Change the Marketing Handbook to shorten timelines, set minimum and maximum ranges for each stage, and set objective standards for deadline extensions."
+    },
+    {
+     "n": 4,
+     "text": "Integrate city systems that hold household and income information across the Department of Housing Preservation and Development, the New York City Housing Authority and the Department of Social Services, and work with state and federal governments to reconcile income verification rules across means-tested programs."
+    },
+    {
+     "n": 5,
+     "text": "Support automating income verification in the meantime, for example through pilot projects, innovation grants, more automatable application programming interfaces, or artificial intelligence and automation standards and guidelines."
+    },
+    {
+     "n": 6,
+     "text": "Use Housing Connect preference data to show the geography of demand and preferred unit designs, and let applicants opt in to alerts and community engagement for proposed projects."
+    },
+    {
+     "n": 7,
+     "text": "Before adopting a citywide lottery that gives each applicant one priority number, use existing data to test whether it would deliver the expected benefits, and weigh the implementation risks the report lists."
     }
    ]
   },

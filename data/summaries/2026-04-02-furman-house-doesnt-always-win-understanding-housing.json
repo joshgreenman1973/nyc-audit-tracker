@@ -1,0 +1,92 @@
+{
+  "id": "2026-04-02-furman-house-doesnt-always-win-understanding-housing",
+  "source": "outside",
+  "auditor": "NYU Furman Center",
+  "title": "The House Doesn’t Always Win: Understanding NYC’s Housing Connect Lottery System and How to Improve It",
+  "plain_title": "How to improve the Housing Connect affordable housing lottery",
+  "agency": "New York City Department of Housing Preservation and Development",
+  "issued": "2026-04-02",
+  "url": "https://www.furmancenter.org/publication/the-house-doesnt-always-win-understanding-nycs-housing-connect-lottery-system-and-how-to-improve-it/",
+  "pdf": "https://www.furmancenter.org/wp-content/uploads/2026/04/The-House-Doesnt-Always-Win_508.pdf",
+  "what_they_audited": "A report from the NYU Furman Center examining how NYC Housing Connect allocates income-restricted rental housing by lottery. It uses public documents and anonymized data from software used by marketing agents.",
+  "background": "In 2024, Housing Connect distributed roughly 10,000 units across 300 buildings, and approximately 6 million applications were filed for those buildings. The platform launched in 2013 and was last updated in 2020.",
+  "findings": [
+    {
+      "plain": "The authors say the verification and offer process is too long. Applicants in their data waited a median of 118 days to be approved, after a wait before receiving a log number.",
+      "quote": "A minimum of 76 days passes between when a building’s lottery opens"
+    },
+    {
+      "plain": "From lottery opening to approval, the median total time was about 6.5 months. This comes close to the six to seven months before a new building receives its temporary certificate of occupancy.",
+      "quote": "the median total of 194 days, or approximately 6.5 months, from lottery opening"
+    },
+    {
+      "plain": "Most applicants in the sample ended up with a rejected status, either through attrition or explicit rejection.",
+      "quote": "Approximately 49,000 applicants (just under 77%) will end up in a “rejected” status"
+    },
+    {
+      "plain": "About half of the applicants in the sample did not engage significantly with verification.",
+      "quote": "Approximately 50% (nearly 32,000) do not appear to engage significantly with the verification process."
+    },
+    {
+      "plain": "Only a small share of applicants were approved, and about half of those approved had no unit attached to their application.",
+      "quote": "Only about 9,000 applicants—roughly 15% of all applicants"
+    },
+    {
+      "plain": "The authors say the data are not representative of the whole system. The sampled buildings skew toward lower-income targeting and larger size, which they think more likely overestimates processing times.",
+      "quote": "The data are not necessarily representative of the lottery process as a whole (see Appendix)."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "10,000",
+      "label": "Units distributed through Housing Connect in 2024"
+    },
+    {
+      "value": "300",
+      "label": "Buildings those units were in"
+    },
+    {
+      "value": "6 million",
+      "label": "Applications filed for those buildings in 2024"
+    },
+    {
+      "value": "64,000",
+      "label": "Applications in the authors' sample"
+    },
+    {
+      "value": "118 days",
+      "label": "Median time to verify and approve, in the sample"
+    },
+    {
+      "value": "142 days",
+      "label": "Median approval time reported by the city, fiscal year 2025"
+    },
+    {
+      "value": "49,000",
+      "label": "Sampled applicants who ended in a rejected status"
+    }
+  ],
+  "recommendations": [
+    "Let applicants apply for types of units within a building rather than the building as a whole, and stop them from applying for unit types for which they are apparently ineligible.",
+    "Expand the information collected in the My Household profile, including making pet policy and accessibility questions mandatory and adding borough or neighborhood preferences, so marketing agents can use it earlier in verification.",
+    "Change the Marketing Handbook to shorten timelines, set minimum and maximum ranges for each stage, and set objective standards for deadline extensions.",
+    "Integrate city systems that hold household and income information across the Department of Housing Preservation and Development, the New York City Housing Authority and the Department of Social Services, and work with state and federal governments to reconcile income verification rules across means-tested programs.",
+    "Support automating income verification in the meantime, for example through pilot projects, innovation grants, more automatable application programming interfaces, or artificial intelligence and automation standards and guidelines.",
+    "Use Housing Connect preference data to show the geography of demand and preferred unit designs, and let applicants opt in to alerts and community engagement for proposed projects.",
+    "Before adopting a citywide lottery that gives each applicant one priority number, use existing data to test whether it would deliver the expected benefits, and weigh the implementation risks the report lists."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "technology",
+    "transparency"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

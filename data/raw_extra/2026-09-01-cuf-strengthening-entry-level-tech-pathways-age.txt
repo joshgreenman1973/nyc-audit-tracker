@@ -1,0 +1,1196 @@
+===== SOURCE: landing page =====
+Innovative Ideas. Independent Policy.
+•
+Home
+•
+About
+•
+Research
+•
+Events
+•
+Press
+•
+Impact
+•
+Support
+•
+Contact
+Report
+- September 2026
+Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI
+The tech sector remains a vital source of well-paying jobs in NYC, but entry-level hiring for tech positions has plummeted in recent years, impacting college grads and tech training participants. With the first rung of the ladder under pressure in today’s AI era, city leaders should help reimagine on-ramps to tech careers for low-income New Yorkers.
+by Will Markow and Eli Dvorkin
+Tags:
+ai
+entry-level jobs
+employment
+tech
+• Read the full report here.
+• Read the report's recommendations here.
+F or more than two decades, New York City's tech sector has been one of the city's most dependable engines of middle- and high-wage job growth. Employment surged by more than 133 percent from 2004 to 2024, while tech roles expanded across healthcare, finance, media, and beyond. At the same time, a new generation of workforce organizations—Pursuit, Per Scholas, NPower, The Marcy Lab School, and others—built powerful on-ramps into these careers, opening doors for thousands of New Yorkers from lower-income backgrounds to access family-sustaining wages.
+But in the AI era, the first rung of the ladder is under growing pressure. A new analysis by the Center for an Urban Future reveals that entry-level tech job postings have plummeted 49 percent in New York City since 2022—a greater drop in the total number of jobs posted than any other field. While many other parts of the city’s economy are also experiencing notable declines in entry-level hiring, likely due in part to the rise of generative AI, our analysis finds that tech roles have been hit the hardest. This shock to entry-level tech jobs is not only contributing to a slowdown in the city’s economy; it also has the potential for a calamitous impact on the city’s tech training ecosystem.
+The same workforce organizations that have helped thousands of New Yorkers access better jobs through innovative training models—many of which have been emulated across the country—are now experiencing significant reductions in placement opportunities for their graduates. Employers that until recently hired dozens of their students have sharply curtailed entry-level hiring, in some cases bringing it to a near standstill. At the same time, where employers are still hiring in tech, training program graduates are facing a surge in competition—from Ivy League graduates to recently laid-off workers with two to three years of experience. In interviews with local training providers, all expressed deep concern about the dramatic downturn in entry-level tech hiring over the past three years, with several citing declines in employment rates for program participants of one-third or more.
+Overall, our first-of-its-kind analysis reveals that the occupations most impacted by generative AI in New York City have faced the steepest declines in hiring. Jobs with the highest AI exposure have seen entry-level job postings fall 29 percent since 2022. By contrast, jobs with minimal exposure to generative AI saw a 21 percent increase in entry-level postings during the same period. While AI is not the only factor driving the entry-level jobs pullback, the correlation between AI exposure and decreased early-career opportunity is a major trend poised to accelerate, with serious consequences for New York City’s economy and for the mayor and City Council’s policy goal of expanding access to good jobs.
+Amid these challenges, opportunities are emerging in roles driven by the AI boom. Since 2022, entry-level postings for jobs that require AI skills have grown 20 percent—a significant jump during a time when most tech jobs were in retreat. The growth in entry-level AI jobs is also spreading across industries, from professional services and finance to healthcare and education. Job prospects are similarly on the rise for tech workers with skills in fields such as security and data analysis, and training providers are adapting to target new industries and overlay AI-related skills across existing programs or build entirely new ones.
+These tech training pathways are not broken, but they are under major strain. At the same time, employers are responding to real pressures—including higher capital costs, economic uncertainty, and rapid changes in how entry-level work is being organized and automated—which helps explain why hiring has slowed even as demand for more senior-level tech-enabled talent remains strong. With AI adoption accelerating rapidly—and potentially far bigger disruptions on the horizon—New York cannot afford to let its most effective entry points into tech careers wither.
+City and state government will have to play a decisive role. To get ahead of what’s coming, the Mamdani administration should act now to launch an “AI Service Corps” that creates paid, hands-on pathways into emerging tech roles while helping public agencies and small businesses deploy AI responsibly; establish a “Workforce AI Readiness Fund” to support upskilling, reskilling, and displacement response; and convene a Mayoral AI Workforce Task Force to align industry, CUNY, and training providers around a shared strategy.
+If entry-level tech pathways dry up, thousands of New Yorkers will lose access to family-sustaining careers, and the city will lose the diverse, homegrown talent base its tech economy depends on. The moment to reinforce and reimagine these on-ramps is now.
+This report, supported by a grant from Pursuit, examines the current state of entry-level tech hiring in New York City. By combining online job postings data from Lightcast, employment and graduation data from the Department of Education’s IPEDS, and AI exposure data from the Anthropic Economic Index, this report analyzes the impact of AI on early career opportunities, details the challenges posed to aspiring tech workers and training organizations, identifies bright spots across the tech workforce, and puts forward a set of five practical recommendations for policymakers to renew and bolster pathways into tech-powered careers.
+Read the full PDF of the report here.
+Six Ideas to Strengthen NYC’s Tech Workforce Pathways in the AI Era
+1. Launch an “NYC AI Service Corps” to create paid, hands-on AI work experience while expanding access to AI services.
+To help create a bridge to employment for more early-career, underrepresented talent, city leaders should launch an “NYC AI Service Corps”—a paid, six-month fellowship placing emerging technologists in small businesses, nonprofits, and city agencies to deliver practical AI transformation services. Fellows would gain hands-on experience building AI tools, improving data systems, and solving real operational challenges for organizations that lack the resources of larger firms.
+This initiative would simultaneously expand access to applied AI services across the city and rebuild a critical early-career entry point into tech. An initial $10 million in city funding—co-designed and co-invested with major AI and tech firms and philanthropic organizations—could launch the program at scale. Over time, the model could evolve into a pay-it-forward structure in which employers that hire fellows contribute a portion of wages to sustain future cohorts.
+2. Establish an “NYC Workforce AI Readiness Fund” to support upskilling, job transition, and rapid-response training.
+To prepare for the labor market disruptions posed by artificial intelligence, New York City should launch the nation’s first “Workforce AI Readiness Fund,” alongside a high-level Mayoral AI Workforce Task Force.
+Seeded with city dollars—and co-designed and co-invested with major AI and tech companies, impact investors, and philanthropic partners—the Fund would support industry-informed AI skills training across CUNY and nonprofit providers, upskilling and job-transition assistance for workers displaced or at risk of displacement by AI, and rapid-response training in occupations and industries most exposed to AI disruption. By anchoring investments in demonstrated employer demand and measurable career outcomes, the Fund would mobilize private co-investment while ensuring access and equity.
+The accompanying Mayoral AI Workforce Task Force should bring together leaders in AI, economic policy, workforce agencies, employers, and frontline practitioners to guide strategy and anticipate risk. The Task Force would develop AI Workforce Preparation Plans—from exposure and applied use to advanced technical training and displaced-worker response—ensuring that the city’s policies and investments get ahead of the massive labor market transitions likely to unfold over the next four years. This work could be housed within the city’s Workforce Development Board, building its capacity to coordinate across agencies, strengthen employer partnerships, and align workforce investments with the rapidly changing needs of the AI economy.
+By lowering the risk of retraining for both workers and employers, and by coordinating action across sectors, the Workforce AI Readiness Fund would help ensure that AI-driven change expands opportunity rather than accelerates economic exclusion.
+3. Recruit the next 100 large employers to expand apprenticeships, paid internships, and direct hiring pipelines.
+No other city has as many large employers as New York City—not just Fortune 500 companies, but hundreds of private firms that employ thousands of workers across the five boroughs. These larger employers account for a disproportionate share of the city’s net job growth in recent years. Yet too many New Yorkers, especially those from lower-income backgrounds, lack clear, reliable pathways into them. The success of the New York Jobs CEO Council—launched six years ago by JPMorganChase’s Jamie Dimon and CEOs from roughly 25 of the city’s largest companies—demonstrates what is possible when employers are meaningfully engaged. Jobs Council member companies have hired more than 65,000 low-income New Yorkers into living-wage jobs since 2021 and are committed to hiring 100,000 by 2030.
+Mayor Zohran Mamdani should build on this model by launching a mayor-led initiative to spur collective action among the next 100 large and mid-sized employers, CUNY, and trusted workforce providers. Using challenge-based procurement, the city should select and support one or more employer-facing intermediaries to make it easier for companies to signal talent needs, coordinate asks and points of contact, and connect with skilled candidates across CUNY and the workforce training ecosystem. This is especially important for employers outside the city’s largest companies, which often lack extensive campus recruiting teams or formal internship programs and face too much friction in navigating multiple institutions and providers. The goal should be to build a more coordinated talent system—one that connects employers to workers with the skills they need, helps providers align training with real demand, and moves more lower-income New Yorkers into middle- and high-wage careers over the next decade. This effort should include a renewed focus on apprenticeship pathways into technology careers, drawing on prior apprenticeship planning work by Pursuit, the Partnership for New York City, the New York Jobs CEO Council, and other ecosystem partners as an important foundation.
+At a moment when AI-assisted job applications are flooding employers with thousands of résumés per opening, structured partnerships that align talent with opportunity offer real value. By leveraging the convening power of City Hall and tying public support to clear, measurable hiring outcomes, the mayor can rebuild the first rungs of the career ladder and ensure that New York’s largest employers are active partners in expanding economic mobility.
+4. Expand credit-bearing dual enrollment and Career and Professional Learning (CPL) pathways.
+As artificial intelligence reshapes occupational tasks, narrow technical skills may become outdated more quickly while durable skills such as critical thinking, problem-solving, communication, and contextual judgment grow in importance. In this environment, a college credential may matter more, not less. At the same time, a college degree alone is no longer sufficient: students increasingly need access to the employer-connected, applied learning models pioneered by high-performing workforce organizations. Yet today, New York City’s workforce system offers limited pathways for combining nondegree training with college credit, forcing too many learners to choose between short-term job training and long-term academic advancement.
+To change this, city and state leaders should expand credit-bearing dual enrollment and Career and Professional Learning (CPL) pathways so that high-quality, industry-aligned training counts toward a college credential—allowing more CUNY students to access nimble, employer-connected programs. This will require CUNY, in partnership with the State Education Department and trusted nonprofit providers, to scale credit-for-prior-learning policies, formalize articulation agreements, and align funding incentives with credit portability and placement outcomes. The mayor should work with CUNY leadership to reward campuses that integrate workforce partnerships into credit-bearing programs rather than siloing them in noncredit divisions.
+By bridging applied training with academic credentials, the city can ensure that learners build both immediate job-ready skills and durable competencies that remain valuable as technology evolves—strengthening entry into the labor market today while preserving upward mobility over time.
+5. Strengthen wraparound supports as core workforce infrastructure.
+New York City should significantly expand investment in wraparound supports that reduce the financial and logistical barriers to completing training and sustaining early-career employment. Childcare assistance, transportation support (including OMNY subsidies), stipends, emergency aid, mental health services, and career navigation should be treated as core components of workforce policy—not optional add-ons.
+Already, some of the city’s training providers have realized the importance of wraparound support and are working to provide it. In January of 2026, CUNY’s University Dean for Technology and Computer & Information Sciences announced a partnership with Last Mile Education Fund—which provides financial support for college students to finish a degree in high-demand STEM fields—to start an “NYC Talent Innovation Fund” offering wraparound supports for CUNY computing students.
+The city should adopt a similar model, partnering with training organizations to offer wraparounds for their students. Funding should be tied to completion and employment outcomes, incentivizing providers to design programs that are realistic for working adults and career switchers. By addressing non-tuition costs directly, the city can improve persistence, narrow equity gaps, and ensure that public investments in training translate into sustained wage gains.
+6. Build an “NYC Workforce Information Hub” to provide real-time labor market intelligence.
+In a labor market being reshaped by AI at unprecedented speed, lagging indicators and static reports are no longer sufficient. Students and training providers are unsure which fields remain viable, employers are recalibrating job requirements, and policymakers risk investing in programs that prepare workers for yesterday’s roles rather than tomorrow’s opportunities.
+The mayor should work with the Workforce Development Board—potentially in partnership with NYCEDC—to establish a “Workforce Information Hub” that provides real-time, accessible labor market intelligence to guide decision-making across the ecosystem. Initially structured as a public-facing dashboard, the Hub would track in-demand occupations, emerging skills, task-level changes, and aligned training programs across the city. It should also support internal coordination, helping agencies, CUNY, nonprofit providers, and employer-facing intermediaries align investments around verified demand signals rather than anecdotes.
+Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI is a publication of the Center for an Urban Future. Researched and written by Will Markow and Eli Dvorkin. Additional research by Alejandra Díaz-Pizarro and Rachel Neches. Edited by Eli Dvorkin and Ava Manson. Designed by Stislow Design.
+Center for an Urban Future (CUF) is a leading think tank focused on building a stronger and more equitable economy in New York City and expanding economic opportunity for all New Yorkers.
+The authors thank the Partnership for New York City and the New York Jobs CEO Council for providing perspective on employer engagement and workforce trends. The findings, conclusions, and recommendations are solely those of the Center for an Urban Future and should not be attributed to the Partnership, the Jobs Council, or its members.
+General operating support for the Center for an Urban Future has been provided by The Clark Foundation , Robin Hood , and the Altman Foundation .
+Related Press
+New York City to Hold AI Hearing Next Month; Calls on OpenAI and Anthropic to Attend
+SBS News ,
+by Jang Min-seong,
+September 17, 2026
+NYC Is Not Ready for the AI That’s Already Here
+Office of the NYC Comptroller Mark Levine ,
+by Mark Levine,
+September 24, 2026
+AI Really is Eviscerating Entry-Level Jobs, New Data Shows
+Futurism ,
+by Joe Wilkins,
+September 16, 2026
+New York City Council Unveils Legislative Proposals to Safeguard New Yorkers from Potential Risks of AI
+New York City Council ,
+September 25, 2026
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline ,
+by Quinn Mercer,
+September 16, 2026
+N.Y. governor candidates stake out AI stances
+Spectrum News NY1 ,
+by Bernadette Hogan,
+September 25, 2026
+‘Off a Cliff’: AI Devours Entry-Level Tech Jobs, As Experienced Workers Hold On
+The City Reporter ,
+by Greg David,
+September 14, 2026
+New York City entry-level tech jobs have nearly halved, new analysis shows
+Softonic ,
+by Jesús Pina,
+September 16, 2026
+Entry-Level Pay in AI-Exposed Fields Has Fallen 13% — Computer Science Graduates Are Feeling It Most
+Ad Hoc News ,
+September 27, 2026
+How the AI jobspocolypse is playing out for young NYC tech workers
+Business Insider ,
+by Martina Nacach Cowan Ros,
+September 15, 2026
+The Other AI Apocalypse
+Imperialist Realism ,
+by Daniel Bessner,
+September 17, 2026
+Entry-level tech jobs in NYC plummet by nearly 50%—and other fields battered, too; new study
+New York Post ,
+by Anthony Blair,
+September 14, 2026
+The Shrinking First Rung: How AI Is Disrupting Entry-Level Work in NYC Tech
+Searchlight ,
+by Eli Dvorkin and Robert A. George,
+September 22, 2026
+Should AI Be Regulated City by City? New York Should Think Carefully Before Answering
+AlleyWatch ,
+by Reza Chowdhury,
+October 04, 2026
+New York City entry-level tech hiring contracts as AI shift reshapes job demand
+Traders Union ,
+by Elena Nikulina,
+September 15, 2026
+Entry-level tech jobs in NYC are being cut in half by the AI boom
+Fast Company ,
+by Pavithra Mohan,
+September 24, 2026
+A.I. Threat Will Be Focus of Special Hearing of N.Y. City Council
+The New York Times ,
+by Dana Rubinstein,
+September 16, 2026
+AI-skilled workers earn 62% more. And 10 more AI trends this week.
+Infinite Ideas AI ,
+by Paul Shirer,
+September 24, 2026
+Can CUNY’s Computer Science Programs Adapt for the AI Workplace?
+Columbia News Service ,
+by Heather Chen,
+September 29, 2026
+This report is supported by a grant from Pursuit .
+Related Publications
+7903|7629|7837|7384|7411
+•
+Reimagining On-ramps to entry-level jobs in an AI-Powered era
+•
+From Degree to Career
+•
+Strengthening CUNY’s Computer Science Faculty to Prepare Students for NYC’s Changing Tech Economy
+•
+Preparing Every NYC Student for an AI-Powered Future
+•
+Sustaining NYC’s Tech Edge
+Related Press
+New York City to Hold AI Hearing Next Month; Calls on OpenAI and Anthropic to Attend
+SBS News
+NYC Is Not Ready for the AI That’s Already Here
+Office of the NYC Comptroller Mark Levine
+AI Really is Eviscerating Entry-Level Jobs, New Data Shows
+Futurism
+New York City Council Unveils Legislative Proposals to Safeguard New Yorkers from Potential Risks of AI
+New York City Council
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline
+View More Related Press
+Related Press
+New York City to Hold AI Hearing Next Month; Calls on OpenAI and Anthropic to Attend
+SBS News
+NYC Is Not Ready for the AI That’s Already Here
+Office of the NYC Comptroller Mark Levine
+AI Really is Eviscerating Entry-Level Jobs, New Data Shows
+Futurism
+New York City Council Unveils Legislative Proposals to Safeguard New Yorkers from Potential Risks of AI
+New York City Council
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline
+We're Hiring
+Managing Editor
+Search
+@nycfuture
+Follow @nycfuture
+CUF in the News
+Changing Careers: New York City Expands Free College Tuition Program for Adults
+Forum Daily New York
+Mayor Zohran Mamdani doubles individual artist grants in New York City to $10,000
+Artsy
+New York expands free SUNY and CUNY tuition to those with college degrees
+News 10 ABC
+Should AI Be Regulated City by City? New York Should Think Carefully Before Answering
+AlleyWatch
+New York’s retail storefront strategy: cut it in half
+The Real Deal
+Mamdani Doubles Grants for NYC Artists
+Hyperallergic
+Cost of retirement on Long Island squeezing seniors, forcing them to cut back
+Newsday
+View More Press
+•
+© All Rights Reserved.
+Content
+• Reports • Commentary/Op-Ed • Testimony • Data • Events • Impact
+Topics
+• Economic Growth • Economic Opportunity • Entrepreneurship • Immigrants • Boroughs • Small Business • Human Capital • Higher Education • Creative Economy • Tech
+Follow
+Support
+• Internships
+• Support the Center
+• Contact
+Center for an
+Urban Future
+80 Eighth Avenue, Suite 704
+New York, NY 10011
+212-479-3344
+[email protected]
+© All Rights Reserved.
+x
+
+===== SOURCE: report PDF =====
+SEPTEMBER 2026
+
+Strengthening NYC’s Entry-Level Tech 
+Pathways in the Age of AI is a publication  
+of the Center for an Urban Future. Researched 
+and written by Will Markow and Eli Dvorkin. 
+Additional research by Alejandra Díaz-Pizarro  
+and Rachel Neches. Edited by Eli Dvorkin and Ava 
+Manson. Designed by Stislow Design.
+Center for an Urban Future (CUF) is a  
+leading think tank focused on building a  
+stronger and more equitable economy in 
+New York City and expanding economic 
+opportunity for all New Yorkers.
+This report is supported by a grant from Pursuit.
+The authors thank the Partnership for New York City 
+and the New York Jobs CEO Council for providing 
+perspective on employer engagement and  
+workforce trends. The findings, conclusions, and 
+recommendations are solely those of the Center  
+for an Urban Future and should not be attributed to 
+the Partnership, the Jobs Council, or its members.
+General operating support for the Center 
+for an Urban Future has been provided  
+by The Clark Foundation, Robin Hood,   
+and the Altman Foundation.
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+CHIEF OF STAFF
+Stephanie Arevalo
+SENIOR DATA & POLICY RESEARCHER
+Rachel Neches 
+POLICY RESEARCHER
+Alejandra Díaz-Pizarro
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo 
+BOARD OF DIRECTORS
+Gifford Miller (Chairman)
+Jonathan Bowles 
+Rafael E. Cestero 
+Russell Dubner 
+Garnesha Ezediaro 
+Susan Fine 
+Kyle Kimball 
+Katy Knight 
+Jessie Lazarus 
+David Lebenstein 
+Eric S. Lee 
+Josh Moskowitz 
+Monisha Nariani 
+Max Neukirchen 
+Andrew Reicher 
+Peter Schubert 
+John Siegal 
+Thomas Vecchione 
+Sherry Wang 
+Kate Wittels
+Cover: John Stislow 
+
+Strengthening NYC’s Entry-Level Tech Pathways  
+in the Age of AI 
+Introduction ..............................................................  1
+New York City’s Entry-Level Tech Career Opportunities are Shrinking— 
+Threatening a Key Pathway to the Middle Class  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+New York City’s Entry-Level Tech Job Market Has Plunged Since 2022 .............  7
+Understanding the Impact of AI on Entry-Level Tech Pathways in New York City  .....  8
+AI-Powered Opportunities Amid an Entry-Level Downturn  ......................  11
+What the Closing Entry-Level Tech Pathway Means for Workforce Organizations  
+and Policymakers, and How To Respond  ....................................  13
+Recommendations  ......................................................  15
+Table of Contents
+1
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI1
+Strengthening NYC’s Entry-Level Tech 
+Pathways in the Age of AI
+1
+FOR MORE THAN TWO DECADES, NEW YORK CITY’S TECH SECTOR HAS BEEN ONE OF THE CITY’S MOST DEPENDABLE  
+engines of middle- and high-wage job growth. Employment surged by more than 133 percent from 2004 to 2024, while tech 
+roles expanded across healthcare, finance, media, and beyond. At the same time, a new generation of workforce organiza-
+tions—Pursuit, Per Scholas, NPower, The Marcy Lab School, and others—built powerful on-ramps into these careers, opening 
+doors for thousands of New Yorkers from lower-income backgrounds to access family-sustaining wages.
+But in the AI era, the first rung of the ladder is under growing pressure. A new analysis by the Center for an Urban Future 
+reveals that entry-level tech job postings have plummeted 49 percent in New York City since 2022—a greater drop in the 
+total number of jobs posted than any other field. While many other parts of the city’s economy are also experiencing notable 
+declines in entry-level hiring, likely due in part to the rise of generative AI, our analysis finds that tech roles have been hit 
+the hardest. This shock to entry-level tech jobs is not only contributing to a slowdown in the city’s economy; it also has the 
+potential for a calamitous impact on the city’s tech training ecosystem. 
+The same workforce organizations that have helped thousands of New Yorkers access better jobs through innovative 
+training models—many of which have been emulated across the country—are now experiencing significant reductions in 
+placement opportunities for their graduates. Employers that until recently hired dozens of their students have sharply  
+curtailed entry-level hiring, in some cases bringing it to a near standstill. At the same time, where employers are still hiring 
+in tech, training program graduates are facing a surge in competition—from Ivy League graduates to recently laid-off workers 
+with two to three years of experience. In interviews with local training providers, all expressed deep concern about the  
+dramatic downturn in entry-level tech hiring over the past three years, with several citing declines in employment rates for 
+program participants of one-third or more.
+Overall, our first-of-its-kind analysis reveals that the occupations most impacted by generative AI in New York City have 
+faced the steepest declines in hiring. Jobs with the highest AI exposure have seen entry-level job postings fall 29 percent 
+since 2022. By contrast, jobs with minimal exposure to generative AI saw a 21 percent increase in entry-level postings 
+during the same period. While AI is not the only factor driving the entry-level jobs pullback, the correlation between AI  
+exposure and decreased early-career opportunity is a major trend poised to accelerate, with serious consequences for New 
+York City’s economy and for the mayor and City Council’s policy goal of expanding access to good jobs.
+Amid these challenges, opportunities are emerging in roles driven by the AI boom. Since 2022, entry-level postings for 
+jobs that require AI skills have grown 20 percent—a significant jump during a time when most tech jobs were in retreat. The 
+growth in entry-level AI jobs is also spreading across industries, from professional services and finance to healthcare and 
+education. Job prospects are similarly on the rise for tech workers with skills in fields such as security and data analysis, 
+and training providers are adapting to target new industries and overlay AI-related skills across existing programs or build 
+entirely new ones.
+These tech training pathways are not broken, but they are under major strain. At the same time, employers are respond-
+ing to real pressures—including higher capital costs, economic uncertainty, and rapid changes in how entry-level work is 
+being organized and automated—which helps explain why hiring has slowed even as demand for more senior-level tech-  
+enabled talent remains strong. With AI adoption accelerating rapidly—and potentially far bigger disruptions on the horizon—
+New York cannot afford to let its most effective entry points into tech careers wither.
+City and state government will have to play a decisive role. To get ahead of what’s coming, the Mamdani administration 
+should act now to launch an “AI Service Corps” that creates paid, hands-on pathways into emerging tech roles while helping 
+public agencies and small businesses deploy AI responsibly; establish a “Workforce AI Readiness Fund” to support upskilling, 
+reskilling, and displacement response; and convene a Mayoral AI Workforce Task Force to align industry, CUNY, and training 
+providers around a shared strategy.
+If entry-level tech pathways dry up, thousands of New Yorkers will lose access to family-sustaining careers, and the city 
+will lose the diverse, homegrown talent base its tech economy depends on. The moment to reinforce and reimagine these 
+on-ramps is now.
+2
+This report, supported by a grant from Pursuit, examines 
+the current state of entry-level tech hiring in New York City. 
+By combining online job postings data from Lightcast,  
+employment and graduation data from the Department of 
+Education’s IPEDS, and AI exposure data from the Anthropic 
+Economic Index, this report analyzes the impact of AI on 
+early career opportunities, details the challenges posed to 
+aspiring tech workers and training organizations, identifies 
+bright spots across the tech workforce, and puts forward a 
+set of five practical recommendations for policymakers to 
+renew and bolster pathways into tech-powered careers. 
+These recommendations include:
+1. LAUNCH AN “NYC AI SERVICE CORPS” to  
+create paid, hands-on AI work experiences and 
+apprenticeships that help participants secure  
+their first full-time roles in the field—while 
+delivering accessible AI services to nonprofits, 
+small businesses, and government agencies that 
+lack in-house capacity.
+2. ESTABLISH AN “NYC WORKFORCE AI READINESS 
+FUND,” seeded with city dollars and matched  
+by both private sector actors driving AI adoption  
+and civic investors—including major employers, 
+frontier labs, tech companies, impact investors,  
+and philanthropic organizations. The fund would 
+support AI skills training across CUNY and nonprofit 
+providers, finance upskilling and job-transition 
+assistance for workers displaced by automation,  
+and enable rapid-response training in occupations 
+most disrupted by AI.
+3. RECRUIT THE NEXT 100 LARGE EMPLOYERS  
+to partner with nonprofit training providers and 
+CUNY, leveraging existing employer-facing 
+intermediaries and using challenge-based 
+procurement to incentivize greater scale. This 
+would expand apprenticeships, paid internships,  
+and direct hiring pipelines, allowing more New 
+Yorkers to convert their training into real jobs.
+4. EXPAND CREDIT-BEARING DUAL ENROLLMENT 
+AND CAREER AND PROFESSIONAL LEARNING 
+(CPL) PATHWAYS  so more nondegree trainings  
+count toward a college credential. More CUNY 
+students would benefit from employer-connected 
+programs that accelerate placement.
+5. STRENGTHEN WRAPAROUND SUPPORTS   
+to tackle the biggest barriers to completion, job 
+placement, and retention—including non-tuition 
+expenses like childcare and transportation (e.g., 
+OMNY cards)—so public investments in training 
+translate into sustained wage gains.
+6.  BUILD AN “NYC WORKFORCE INFORMATION HUB,”  
+housed within the NYC Workforce Development 
+Board or the NYC Economic Development 
+Corporation, to provide real-time, reliable labor 
+market data, align workforce stakeholders around 
+emerging demand, and counter misinformation 
+about the future of work.
+3
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+New York City’s Entry-Level Tech Career 
+Opportunities are Shrinking—Threatening 
+a Key Pathway to the Middle Class
+FOR OVER TWO DECADES, THE TECH ECONOMY HAS BEEN 
+a powerful engine for economic prosperity in New York City. 
+From 2010 until 2024, tech employment in the city nearly 
+doubled, adding over 100,000 jobs in fields like software 
+engineering, IT, and cybersecurity.1 Better still, these jobs were 
+well-paying, commanding a median salary of $138,021. ² 
+And as tech hiring expanded, training providers found that 
+new pathways were also available to workers without four-
+year college degrees.
+During this time, New York gave rise to several new 
+training organizations offering high-quality, short-term tech 
+training. These programs are more flexible and accessible 
+than most traditional college programs. Often tuition-free, 
+they are ideal for working adults and New Yorkers from under-
+served communities looking to launch into new careers. 
+Take Per Scholas, for example. Founded in the Bronx 
+before the turn of the millennium, Per Scholas pioneered 
+tuition-free tech training in areas such as IT support, cyber -
+security, and software development. The organization also 
+provides professional skill development and job placement 
+services, forging deep ties with local employers and commu-
+nity partners. Per Scholas has enrolled over 10,000 learn -
+ers in New York City since 1998, the vast majority of whom 
+identify as people of color. It also boasts strong graduation 
+and placement rates, and has expanded to other sites 
+across the five boroughs. Its recent satellite campus model, 
+launched in Queens and Staten Island in 2021, achieved an 
+87 percent graduation rate and 83 percent job attainment 
+rate within 12 months of completion.3 
+Pursuit, launched in 2013 with a cohort of just 23  
+fellows—and now having trained more than 1,000 New  
+Yorkers—has seen similar success in building tech pathways 
+for underrepresented talent. Its intensive year-long fellow -
+ship and multi-year career support model have historically 
+generated significant income gains: graduates have seen 
+their annual incomes increase from around $18,000 
+pre-program to about $85,000 post-program, and are pro -
+jected to earn more than $2 million more over their lifetimes 
+than they would have otherwise. Fellows come from low-in -
+come, immigrant, and other underrepresented communities 
+and have gone on to jobs at leading companies across sectors.
+However, in recent years, the pathways into well-paying 
+tech jobs have narrowed significantly, and reports of declining 
+job prospects and unemployed graduates abound—as well 
+as growing concern about the impact of AI on current models 
+and curricula, and its longer-term impact on tech hiring 
+needs. To be sure, overall employment in the city's tech  
+sector has not declined in recent years. In fact, tech sector 
+jobs in the city have increased by 23.7 percent since 2019, 
+rising from 168,319 positions in 2019 to 208,166 in 2025.4  
+But after years of meteoric growth, job gains in the city’s 
+tech sector have essentially stalled since 2022—going from 
+204,062 jobs in 2022 to 208,310 in 2023, 208,400 in 
+2024, and 208,166 in 2025. 
+While tech employment overall has gone sideways, entry 
+level positions in tech have practically fallen off a cliff, with 
+new job postings for entry level tech roles in the city declining 
+by 49 percent since 2022. 5 This has left New York City’s 
+best-in-class tech training organizations grappling with a  
+rapidly changing early-career hiring landscape that threatens 
+to erode the effectiveness of these vital mobility programs.
+“Our outcomes began to decline in 2023,” says Reuben 
+Ogbonna, executive director of The Marcy Lab School, a tech 
+training organization with fellowship programs in software 
+engineering and data analytics. “From our peak, we saw as 
+high as a 35 percent decrease in employment rates for our 
+students.”
+At the same time employment outcomes are dwindling, 
+longstanding sources of funding are also drying up. As  
+Ogbonna explains, “We were previously funded for multiple 
+years from a New York-based employer for about $1 million 
+a year, but . . . we received our last grant from them and our 
+contact told us they would be winding down funding, effec -
+tive immediately.” This is tightening the squeeze on training 
+providers, reducing their ability to invest in stronger student 
+outcomes precisely when those investments are most needed.
+These challenges are forcing training organizations to 
+work harder to recruit and place students than ever before. 
+They must invest in entirely new capabilities, creating addi -
+tional operational strain without being able to guarantee 
+that it will reproduce prior success rates. 
+“Our goal is to place 85 percent of our graduates in tech 
+jobs, and we always met our goal in the past,” says Helen 
+Kogan, executive director for the New York and New Jersey 
+metro regions at NPower, a tech training provider focused on 
+underserved and military-connected communities. “Now, 
+4
+we have to work harder than we ever have: we’ve invested in 
+sales training for our career placement team over several 
+months, we’ve invested in account management software, 
+we’re doing more outreach to industry partners.” Yet Kogan 
+says their placement rate has declined from that goal by 
+more than 10 percentage points. “We are working harder to 
+place fewer students.”
+Other technology-focused training organizations report 
+similar challenges. “We have seen fewer IT internships and 
+jobs, similar with software development, and a harder hiring 
+environment,” says Susan Murray, CEO of Year Up United, a 
+national workforce development organization with tracks in 
+business, customer experience, IT, and software. In their  
+national portfolio, Year Up United estimates that customer 
+experience roles have doubled, while IT roles are half of 
+what they were six years ago.
+Nearly every training provider is now introducing new 
+programs—multiple providers interviewed said they are  
+developing AI-focused training—or they are offering upskilling 
+to alumni and current workers to help them remain relevant 
+in a changing tech landscape. “In this challenging job market, 
+we’re seeing longer times to hire as employers are evaluating 
+their talent needs to meet the moment,” says Caitlyn Brazill, 
+president of Per Scholas. Per Scholas has added AI skills to 
+all of its curricula, including its Career Accelerator program, 
+which offers courses for graduates to continue developing 
+their technical skills post-program. “We’ve found that this 
+upskilling leads to a significant increase in earnings for our 
+alumni,” says Brazill.
+Faced with a decline in employer demand for many 
+tech-focused roles, training providers are actively redesigning 
+programs to align with the changing hiring landscape. This 
+includes shifting toward new roles, industries, and skill  
+mixes, even if it means moving away from the hard tech 
+tracks that initially distinguished them. “The fastest-rising 
+training job type for us is customer experience,” says Murray 
+of Year Up United. “When we started to see these signals in the 
+economy, we thought, we’re not going to win on high-quality 
+technical training . . . Where we think we can be differentiated 
+to get better job outcomes is on these human skills.” 
+To guide these shifts, and the policy changes and public 
+investments they will require, it is essential to better under-
+stand the labor market changes already underway. And few 
+trends are more consequential than the sharp decline in 
+entry-level tech hiring.
+Taken together, these shifts suggest that the central 
+challenge is not only expanding access to training, but  
+ensuring that training models are aligned with how employers 
+are redefining entry-level roles—and that policy supports the 
+adaptation necessary to renew and strengthen these vital 
+career pathways.
+5
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+New York City’s Entry-Level Tech  
+Job Market Has Plunged Since 2022
+ENTERING THE 2020S, NEW YORK CITY’S TECH ECONOMY  
+seemed invincible. Tech jobs had seen decades of unabated 
+growth and were widely seen as a ticket to economic mobility. 
+The tech sector powered the city’s recovery from the pandemic, 
+accounting for 41 percent of all net new jobs gained from 
+2019 to 2023, while tech hiring increased in nearly every 
+major industry. However, this period has been anything  
+but smooth. Beginning in 2020, the tech workforce has 
+Demand for entry-level jobs in the core tech sector has plummeted since 2022 
+Entry-level tech job postings in computer & mathematical occupations have decreased  
+by 49 percent since 2022—the most drastic decline of any occupation family.
+ 
+               
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset. Created with Datawrapper
+
+6
+whiplashed from a brief, precipitous drop in hiring during 
+the pandemic to blistering job growth amid pandemic-fueled 
+digital transformation, followed by sustained stagnation  
+beginning in 2022.
+Entry-level tech pathways in particular—especially 
+those for workers without a college degree—have narrowed 
+dramatically. Since 2022, demand for entry-level jobs in  
+the core tech sector has plummeted, with job postings for  
+early-career tech workers dropping 49 percent. 6 This is  
+the steepest entry-level job decline of any career family in 
+New York City.
+Over the past decade, tech roles have expanded far  
+beyond the core tech sector, becoming embedded across 
+industries from finance and healthcare to retail and  
+education. But in the past two years, that broad-based 
+growth has reversed.
+This decline has been widespread, touching nearly  
+every industry in New York City. Some sectors have seen 
+even steeper declines than the core tech sector: for example, 
+entry-level tech job postings in Accommodation and Food 
+Services, Retail Trade, and Educational Services have fallen 
+61 percent, 67 percent, and 69 percent, respectively. The one 
+notable exception is public administration, which has seen 
+dramatic growth in entry-level tech job postings since 2022. 
+This suggests that government is a rare outlier propping up 
+early-career tech demand in New York City, albeit at a small 
+scale and without confidence that this level of public-sector 
+hiring will be sustainable into the future.
+Just as demand for tech jobs began to decline, graduates 
+of computer science programs started to spike. In response to 
+the post-pandemic tech boom, students flocked to computer 
+science and related programs expecting strong job prospects 
+Entry-level tech jobs have declined in nearly every industry in NYC 
+Since 2022, all but two New York City industries have seen a decline in entry-level tech job 
+postings. Public administration has seen the biggest growth, with a 230 percent increase 
+in entry-level tech jobs in the past three years.
+ 
+               
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset. Created with Datawrapper
+
+7
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+upon graduation. These graduates are now flooding the mar-
+ket precisely as demand is receding, driving up competition 
+for an ever-smaller pool of entry-level jobs. As a result, the 
+supply of new college graduates with computer science de -
+grees in New York City eclipsed entry-level tech job postings 
+in 2023 for the first time since data collection began in 
+2010. The oversupply continued to swell in 2024, the latest 
+year on record, when there were 57 percent more graduates 
+of CS-related programs than there were entry-level jobs.7 
+The glut of computer science graduates is crowding out 
+nondegree candidates, making it harder for training providers 
+to deliver on their mobility mission. Adding to the challenge, 
+these students are also competing with early-career workers 
+who are either switching jobs or recently unemployed. As a 
+result, many candidates from non-degree backgrounds who 
+are trying to break into tech are finding it harder to do so.
+In NYC, there are now more new college graduates with computer science degrees than 
+there are entry-level tech jobs 
+The supply of new college graduates with computer science and related degrees in New 
+York City eclipsed entry-level tech job postings in 2023 for the first time since data 
+collection began in 2010.
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset and IPEDS graduation data.
+
+8
+Understanding the Impact of AI on Entry- 
+Level Tech Pathways in New York City
+THE DISCOURAGING STATE OF ENTRY-LEVEL TECH HIRING  
+in New York City raises fundamental questions about the 
+forces behind it. While numerous factors are at play, one 
+concern that looms especially large is artificial intelligence, 
+particularly generative AI. The rise of generative AI as a  
+common tool, accelerated by the release of ChatGPT in late 
+2022, coincides with reduced employer demand. This has 
+led to broad concern that reduced entry-level tech hiring is 
+In career areas where entry-level job postings have declined since 2022, the average 
+percentage of work automated or augmented by generative Al has grown 
+Three of the four career areas most exposed to generative Al saw entry-level job postings 
+drop at least 20 percent since 2022. Computer and mathematical jobs, the core tech 
+sector with the fastest declines in the entire market, have seen 33 percent of their work 
+automated or augmented by generative Al.
+ 
+               
+ 
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Anthropic Economic Index data and Lightcast  
+Q4 2025 dataset. Created with Datawrapper
+
+9
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+not just a cyclical downturn but instead reflects a funda -
+mental transformation in the tech hiring market.
+To investigate generative AI’s impact on New York City’s 
+labor market, this report uses an innovative new index to 
+measure an occupation’s exposure to generative AI. This  
+index leverages novel data from Anthropic, a leading AI  
+company, that quantifies how their AI tools are being used to 
+either automate or augment different tasks within various 
+roles, using the occupational classification system O*NET. 
+The index then looks at the share of work tasks that are 
+currently being automated or augmented with generative AI 
+on an occupation-by-occupation basis.
+The results show a strong correlation between increased 
+exposure to generative AI and decreased entry-level hiring, 
+especially for entry-level tech jobs. Computer and mathe -
+matical jobs—the same tech-centric career family that is 
+seeing the fastest declines in the entire market—have seen 
+a third of their work automated or augmented by generative 
+AI, the most of any field. In total, three of the four career  
+areas most exposed to generative AI—computer and mathe-
+matical, educational instruction and library, and business 
+and financial operations—saw entry-level job postings drop 
+at least 20 percent since 2022.8 
+Across New York City’s job market, increased exposure 
+to generative AI is consistently associated with decreased 
+entry-level hiring. Jobs with the highest exposure to genera-
+tive AI have seen entry-level job postings drop 29 percent 
+since 2022 in New York City; by contrast, jobs with minimal 
+exposure to generative AI saw entry-level job postings  
+increase 21 percent. While correlation does not imply 
+causation, there appears to be a clear link between genera-
+tive AI exposure and decreased hiring demand.
+In practice, generative AI’s impact on the workforce to 
+date may be less about replacing workers and more about a 
+broader shift in hiring priorities, especially for early-career 
+talent. 
+“There’s a lot of CEO- and board-level mandates to be 
+leveraging AI. The low-hanging fruit for those opportunities 
+is the [type of work] you would typically hire an entry-level 
+person for,” says an executive at a late-stage New York City 
+start-up. “The first question so many hiring managers are 
+getting now when they try to ask for a new role is, can you do 
+this with AI?”
+This analysis also finds that the jobs most exposed to 
+AI—such as software developers, IT support specialists, or 
+network administrators—were historically among the most 
+powerful drivers of economic opportunity for New Yorkers. 
+The average entry-level salaries for jobs with moderate and 
+high levels of exposure to generative AI are well over 
+$80,0009—and these opportunities are becoming increas -
+ingly elusive. This suggests that longstanding pathways into 
+middle-wage career options for New Yorkers are dispropor -
+tionately threatened in the age of AI. 
+Our analysis also suggests that AI exposure may take 
+two distinct forms: roles where much of the work can be 
+automated—like entry-level software developers or data  
+analysts—and roles where much of the work can be aug -
+mented—like management jobs, face-to-face roles, and 
+roles with a high degree of strategy and planning. Our analysis 
+reveals that for jobs in New York City where more work is 
+The jobs most exposed to Al have historically carried high entry-level salaries— 
+but they are becoming more elusive 
+ 
+ 
+ 
+               
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Anthropic Economic Index data and Lightcast  
+Q4 2025 dataset.
+
+10
+automated than augmented by generative AI, postings 
+dropped 20 percent since 2022. However, for jobs where AI 
+augments more work than it automates, postings actually 
+grew 3 percent.
+AI is not the only force reshaping entry-level tech hiring. 
+Rising interest rates beginning in March 2022 cooled tech 
+investment and pushed companies to prioritize profitability 
+over growth; when ChatGPT was introduced in late 2022, 
+the decline in entry-level tech hiring had already begun.10 As 
+margins tightened, the AI arms race redirected capital away 
+from headcount and toward data centers and compute  
+infrastructure. Across industries, AI has also become a  
+rationale for tighter staffing models, slower hiring, and 
+greater reliance on managed services and offshore talent. 
+Combined with broader economic uncertainty—from infla -
+tion and tariffs to geopolitical instability—these forces have 
+created a perfect storm for early-career tech jobs.
+Many tech leaders think the impact is likely to acceler-
+ate, and is being exacerbated by the cost of hiring in New 
+York City. This is causing many founders and larger firms to 
+consider every option for containing costs—like AI-powered 
+automation, offshoring, and hiring in lower-cost U.S. markets 
+—before committing to increasing headcount locally.
+“The teams we have today are no longer the teams we 
+had in 2021 . . . we had an 80-person customer success 
+team, now we’re asking each person to do about eight  
+people’s jobs with AI,” says the leader of a health tech 
+start-up, who was previously an executive at a midsized 
+tech firm. “I am now eight employees. Five or six years ago, 
+I would have hired three people by now. But today, I might 
+not need someone on the ground in New York City. We have 
+engineers in Egypt, Brazil, and South Africa.”
+Across these trends, a clearer picture is emerging  
+of how entry-level roles are being redefined. Employers  
+increasingly expect early-career hires to apply AI tools in real- 
+world workflows, contribute more quickly with less on-the-job 
+training, and combine technical skills with the ability to  
+navigate business context, communicate across teams, and 
+solve applied problems. These shifts are raising the bar for 
+entry-level hiring, even as overall demand has slowed.
+Generative Al accelerated an ongoing decline in entry-level tech jobs 
+The introduction of ChatGPT in November 2022 accelerated a decline in entry-level hiring 
+that began with rising interest rates in the first quarter of that year.
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset. Created with Datawrapper
+
+11
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+AI-Powered Opportunities Amid  
+an Entry-Level Downturn
+DESPITE THESE CHALLENGES, THERE ARE GLIMMERS OF 
+opportunity for New York’s entry-level tech pathways and 
+the organizations that support them. Tech jobs still provide 
+some of the most lucrative entry-level opportunities in New 
+York City, and interest rates have begun to decline. This 
+could boost the economy and cause employer demand to 
+rebound. At the same time, opportunities are popping up in 
+emerging fields, especially related to AI. 
+Since 2022, entry-level job postings requesting AI skills 
+grew 20 percent—one of the few bright spots amid the 
+broader tech hiring slowdown.11 (In-demand skills range from 
+machine learning, computer vision, and natural language 
+processing to specific tools like ChatGPT, Claude, and Lang-
+Chain, as well as prompt engineering, retrieval-augmented 
+generation, and other techniques for grounding AI systems 
+in real-world data, AI agents, and ethical AI.) In fact, demand 
+for AI-skilled workers is increasing. Nearly every industry  
+in New York City is seeing growing demand for AI jobs,  
+with particularly strong growth in sectors such as transpor -
+tation and warehousing, wholesale trade, information, and 
+health care.12 
+The fastest-growing tech roles in the city are also related 
+to AI, including generative AI engineers, data center techni-
+cians, natural language processing engineers, and machine 
+learning engineers. Collectively, these four roles accounted 
+for 391 entry-level job postings in New York City between 
+November 2024 and October 2025—an increase of 85 per-
+cent from 2022.13
+Nearly every industry in New York City has seen growing demand for entry-level Al jobs 
+since 2022 
+Since 2022, there has been a 20 percent increase in entry-level Al jobs across all NYC 
+industries, with 4,500 entry-level Al job postings between Nov. 2024 and Oct. 2025 alone.
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset. Created with Datawrapper
+
+12
+Likewise, demand for specific skills continues to grow 
+in entry-level tech jobs that exist in high-value fields.  
+Unsurprisingly, the fastest-growing skills in entry-level tech 
+jobs are related to generative AI and large language modeling, 
+but demand is also growing for skills related to data analysis, 
+security management, access controls, software testing, 
+and observability. 14 Workers and training providers can  
+target these high-growth skills to maximize employment  
+opportunities in high-value fields.
+Beyond the growing opportunities in emerging fields for 
+workers and educators, there is also a practical business 
+case for employers to invest in entry-level AI talent. In recent 
+years, New York City employers have shifted a growing share 
+of tech job openings toward mid-career and senior-level 
+roles. Since 2022, the share of tech job postings in New 
+York City seeking workers with 0 to 3 years of experience 
+has dropped from 37 percent to 31 percent. In a low-hire, 
+low-fire labor market shaped by economic uncertainty, tighter 
+budgets, and rapid technological change, many employers 
+are cautious about adding new headcount—especially for 
+roles that may require significant training. But if too many 
+employers pull back from entry-level hiring, they risk becoming 
+increasingly dependent on recruiting from the same limited 
+pool of experienced candidates. This intensifies competition 
+for talent while weakening the pipeline of workers who can 
+grow into the roles companies will need next.
+This is especially important as AI becomes a baseline 
+skill across more jobs and business functions. The most 
+valuable AI capabilities will not come from technical skills 
+alone, but from workers who can apply AI tools to an organi-
+zation’s specific workflows, data, customers, compliance 
+requirements, and operational pain points. Other recent labor- 
+market analysis suggests that employers are increasingly 
+seeking AI-skilled workers with stakeholder, operational,  
+and trust-related skills—workers who can bridge teams,  
+operationalize AI systems, improve efficiency, and build con-
+fidence in AI-enabled tools. 15 Structured entry-level hiring 
+and training can help employers build this firm-specific AI 
+capacity from the ground up, rather than relying entirely on 
+experienced hires who may be costly to recruit and less  
+familiar with the organization’s needs. But this shift is unlikely 
+to happen at scale without a stronger push from policymakers, 
+funders, and training providers, who can help reduce the 
+costs and risks of entry-level hiring through employer part -
+nerships, apprenticeships, shared training models, and 
+clearer pathways from AI training programs into paid roles.
+The fastest-growing skills for entry-level tech jobs are related to Al 
+Employers are increasingly listing Al-related skills in entry-level tech job postings. Since 
+2022, demand for skills in generative Al has grown by 8,525 percent, and demand for skills 
+in large language models like ChatGPT, Claude, or Gemini has grown by 4,133 percent.
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future/FourOne Insights analysis of Lightcast Q4 2025 dataset. Created with Datawrapper
+
+13
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+What the Closing Entry-Level  
+Tech Pathway Means for Workforce  
+Organizations and Policymakers,  
+and How To Respond
+BOTH THE CHALLENGES AND OPPORTUNITIES FOR  
+entry-level tech hiring raise a fundamental question: how 
+should workforce organizations and policymakers respond? 
+Interviews with local training providers offer a window into 
+early efforts to pivot and highlight an emerging set of best 
+practices. All of the organizations interviewed said they are 
+recalibrating around more realistic goals, adapting curricula 
+to align with emerging employer needs, creating more  
+opportunities for workers to gain paid work experience while 
+in training, and directing their students to a shifting array of 
+roles and industries.
+One of the most dramatic integrations of AI into a tech 
+training program was undertaken by Pursuit, which has sig-
+nificantly overhauled their curriculum to align with the new 
+realities of the entry-level tech landscape. According to David 
+Yang, co-founder and chief product officer at Pursuit,  
+“Pursuit shifted to completely AI last year. We tried a few 
+models where we tried to overlay AI as a module, but we  
+realized that’s not the future. So in January 2025 we made 
+the decision to launch an AI curriculum as quickly as possible.”
+The result was the creation of Pursuit’s AI-native program, 
+an immersive training program that teaches participants to 
+leverage AI as a core skill—not just a technical add-on—and 
+use it as a launchpad to new career opportunities. The  
+program emphasizes hands-on learning and collaborative 
+problem-solving with peers, industry professionals, and other 
+stakeholders. A core feature is “building in public,” which 
+involves publicly sharing project outcomes to demonstrate 
+learners’ skills to employers. Students have begun to show-
+case their AI-powered solutions publicly, such as a fully  
+automated order management system for a local family-run 
+manufacturing business. The program is also attracting 
+funding from prominent tech firms. Amazon and Google  
+announced an investment of $250,000 to connect program 
+participants with small and medium-sized businesses in 
+New York City, enabling learners to gain hands-on experi -
+ence while accelerating AI adoption among local businesses.
+The Marcy Lab School is also executing a pivot in  
+response to these major shifts. “We started seeing signs in 
+late 2022, early 2023, that it was time to retrench,” says 
+Ogbonna, the School’s executive director. “We responded by 
+being more cautious with growth projections, lowering our 
+enrollment targets, and being thoughtful about our fundraising 
+pipeline. We cut our enrollment projection by 25 percent.” 
+At the same time, they became more creative with their 
+placement strategy. “Part of what we’ve done to increase our 
+employment rate is to target sector and role types we haven’t 
+before,” says Ogbonna. “A significantly higher percentage of 
+our students in 2021 and 2022 were hired into software 
+engineer or data engineer roles. Since then, we have found 
+success hiring into technical roles in non-technical compa -
+nies, where software engineers or data analytics support 
+specific business needs.”
+Similarly, training providers have begun to embrace 
+emerging fields and integrate them into their curricula. This 
+is especially true of AI, which is now a major focus for all the 
+training providers interviewed. According to Caitlyn Brazill of 
+Per Scholas, the organization now ensures all their students 
+have exposure to AI, regardless of their program. “We’ve 
+deeply integrated AI content and tools into all of our courses,” 
+says Brazill. “In doing so, we are helping employers bring on 
+emerging AI-native talent in a broad cross-section of roles.” Per 
+Scholas is also increasing focus on other job categories and 
+industries, from building systems automation to energy tech.
+Just as training providers are rapidly adapting to a 
+changing labor market, city and state leaders should also 
+rethink their approach to workforce policy. Without intentional 
+public action, the traditional on-ramps into tech careers risk 
+shrinking or disappearing altogether. To strengthen these 
+pathways, New York City and State policymakers will have to 
+play a catalytic role in addressing the entry-level jobs problem 
+and enabling the tech workforce sector to adapt to these 
+dramatic changes in the economy.
+That begins with expanding access to apprenticeship 
+pathways and other forms of meaningful, paid work-based 
+learning. In an AI-driven economy, classroom instruction 
+alone is insufficient. Employers increasingly seek AI-fluent 
+hires with proven applied skills, but many have limited appetite 
+to teach new workers the fundamentals of applied AI on the 
+job. Apprenticeships are especially well-suited to the AI  
+14
+moment because applied AI skills are still evolving, highly 
+context-specific, and best learned through real workplace 
+use. Unlike more settled technical fields, AI adoption  
+depends on how tools are integrated into an employer’s 
+workflows, data systems, customer needs, compliance  
+requirements, and risk controls. Apprenticeships give employers 
+a structured way to co-design training around those real use 
+cases, while giving workers paid experience, mentorship, 
+and industry-recognized credentials that can evolve as AI 
+roles and skill requirements change.
+Public leadership can help bridge this gap by partnering 
+with the private sector to create and fund structured, paid 
+opportunities for emerging technologists who already have 
+foundational AI knowledge to apply those skills in real-world 
+settings, particularly in nonprofits, small businesses, and 
+public agencies that lack in-house capacity. By reducing risk 
+for employers and increasing experience for workers, govern-
+ment can help restore more functional early-career pipelines.
+At the same time, access to opportunity is constrained 
+by more than skills alone. For many New Yorkers, the biggest 
+barriers to completing training or sustaining early-career 
+roles are financial and logistical, including childcare, trans -
+portation, caregiving responsibilities, and income volatility. 
+These are not peripheral concerns. They directly determine 
+who can persist long enough to convert training into stable 
+employment. If the city is serious about expanding access to 
+middle-wage careers, wraparound supports should be treated 
+as essential infrastructure for success, not optional add-ons.
+Finally, New York should ensure that the institutions 
+largely responsible for preparing and connecting underrepre-
+sented talent—including nonprofit training organizations, the 
+City University of New York (CUNY), and employer-facing  
+intermediaries—are equipped to pivot alongside the economy. 
+Today, these organizations operate with fragmented funding 
+and limited ability to scale promising models. Sustained public 
+investment, coupled with mechanisms that incentivize private- 
+sector co-investment, can help stabilize and modernize the 
+ecosystem that underpins upward mobility.
+Without decisive action, the city risks simply watching as 
+one of its most reliable career pathways contracts, leaving 
+thousands of New Yorkers stranded in their pursuit of 
+well-paying careers.
+Rebuilding entry-level pathways will depend not only on 
+public action, but on a clearer business case for employers. 
+As experienced talent becomes more costly and AI reshapes 
+how work is organized, employers have an opportunity to 
+build firm-specific AI capability by investing earlier in the talent 
+pipeline. Without renewed entry-level hiring, firms risk  
+becoming more reliant on a narrow pool of experienced 
+workers while underinvesting in the next generation of talent.
+15
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+Recommendations 
+Six Ideas to Strengthen NYC’s  
+Tech Workforce Pathways in the AI Era
+1. Launch an “NYC AI Service Corps” to create paid, hands-on AI work 
+experience while expanding access to AI services.
+To help create a bridge to employment for more early-career, underrepresented talent, city leaders should launch an “NYC 
+AI Service Corps”—a paid, six-month fellowship placing emerging technologists in small businesses, nonprofits, and city 
+agencies to deliver practical AI transformation services. Fellows would gain hands-on experience building AI tools, improving 
+data systems, and solving real operational challenges for organizations that lack the resources of larger firms.
+This initiative would simultaneously expand access to applied AI services across the city and rebuild a critical early-  
+career entry point into tech. An initial $10 million in city funding—co-designed and co-invested with major AI and tech firms 
+and philanthropic organizations—could launch the program at scale. Over time, the model could evolve into a pay-it-forward 
+structure in which employers that hire fellows contribute a portion of wages to sustain future cohorts.
+2. Establish an “NYC Workforce AI Readiness Fund” to support upskilling, 
+job transition, and rapid-response training.
+To prepare for the labor market disruptions posed by artificial intelligence, New York City should launch the nation’s first 
+“Workforce AI Readiness Fund,” alongside a high-level Mayoral AI Workforce Task Force.
+Seeded with city dollars—and co-designed and co-invested with major AI and tech companies, impact investors, and 
+philanthropic partners—the Fund would support industry-informed AI skills training across CUNY and nonprofit providers, 
+upskilling and job-transition assistance for workers displaced or at risk of displacement by AI, and rapid-response training 
+in occupations and industries most exposed to AI disruption. By anchoring investments in demonstrated employer demand 
+and measurable career outcomes, the Fund would mobilize private co-investment while ensuring access and equity.
+The accompanying Mayoral AI Workforce Task Force should bring together leaders in AI, economic policy, workforce 
+agencies, employers, and frontline practitioners to guide strategy and anticipate risk. The Task Force would develop AI  
+Workforce Preparation Plans—from exposure and applied use to advanced technical training and displaced-worker  
+response—ensuring that the city’s policies and investments get ahead of the massive labor market transitions likely to  
+unfold over the next four years. This work could be housed within the city’s Workforce Development Board, building 
+its capacity to coordinate across agencies, strengthen employer partnerships, and align workforce investments 
+with the rapidly changing needs of the AI economy.
+By lowering the risk of retraining for both workers and employers, and by coordinating action across sectors, the  
+Workforce AI Readiness Fund would help ensure that AI-driven change expands opportunity rather than accelerates  
+economic exclusion.
+16
+3. Recruit the next 100 large employers to expand apprenticeships,  
+paid internships, and direct hiring pipelines.
+No other city has as many large employers as New York City—not just Fortune 500 companies, but hundreds of private firms 
+that employ thousands of workers across the five boroughs. These larger employers account for a disproportionate share  
+of the city’s net job growth in recent years. Yet too many New Yorkers, especially those from lower-income backgrounds,  
+lack clear, reliable pathways into them. The success of the New York Jobs CEO Council—launched six years ago by  
+JPMorganChase’s Jamie Dimon and CEOs from roughly 25 of the city’s largest companies—demonstrates what is possible 
+when employers are meaningfully engaged. Jobs Council member companies have hired more than 65,000 low-income 
+New Yorkers into living-wage jobs since 2021 and are committed to hiring 100,000 by 2030. 
+Mayor Zohran Mamdani should build on this model by launching a mayor-led initiative to spur collective action among 
+the next 100 large and mid-sized employers, CUNY, and trusted workforce providers. Using challenge-based procurement, 
+the city should select and support one or more employer-facing intermediaries to make it easier for companies to signal 
+talent needs, coordinate asks and points of contact, and connect with skilled candidates across CUNY and the workforce 
+training ecosystem. This is especially important for employers outside the city’s largest companies, which often lack  
+extensive campus recruiting teams or formal internship programs and face too much friction in navigating multiple institutions 
+and providers. The goal should be to build a more coordinated talent system—one that connects employers to workers with 
+the skills they need, helps providers align training with real demand, and moves more lower-income New Yorkers into  
+middle- and high-wage careers over the next decade. This effort should include a renewed focus on apprenticeship pathways 
+into technology careers, drawing on prior apprenticeship planning work by Pursuit, the Partnership for New York City, the 
+New York Jobs CEO Council, and other ecosystem partners as an important foundation. 
+At a moment when AI-assisted job applications are flooding employers with thousands of résumés per opening, structured 
+partnerships that align talent with opportunity offer real value. By leveraging the convening power of City Hall and tying 
+public support to clear, measurable hiring outcomes, the mayor can rebuild the first rungs of the career ladder and ensure 
+that New York’s largest employers are active partners in expanding economic mobility.
+4. Expand credit-bearing dual enrollment and Career and  
+Professional Learning (CPL) pathways.
+As artificial intelligence reshapes occupational tasks, narrow technical skills may become outdated more quickly while  
+durable skills such as critical thinking, problem-solving, communication, and contextual judgment grow in importance. In 
+this environment, a college credential may matter more, not less. At the same time, a college degree alone is no longer 
+sufficient: students increasingly need access to the employer-connected, applied learning models pioneered by high-  
+performing workforce organizations. Yet today, New York City’s workforce system offers limited pathways for combining 
+nondegree training with college credit, forcing too many learners to choose between short-term job training and long-term 
+academic advancement.
+To change this, city and state leaders should expand credit-bearing dual enrollment and Career and Professional  
+Learning (CPL) pathways so that high-quality, industry-aligned training counts toward a college credential—allowing more 
+CUNY students to access nimble, employer-connected programs. This will require CUNY, in partnership with the State  
+Education Department and trusted nonprofit providers, to scale credit-for-prior-learning policies, formalize articulation 
+agreements, and align funding incentives with credit portability and placement outcomes. The mayor should work with 
+CUNY leadership to reward campuses that integrate workforce partnerships into credit-bearing programs rather than siloing 
+them in noncredit divisions.
+By bridging applied training with academic credentials, the city can ensure that learners build both immediate job-ready 
+skills and durable competencies that remain valuable as technology evolves—strengthening entry into the labor market  
+today while preserving upward mobility over time.
+17
+STRENGTHENING NYC’S ENTRY-LEVEL TECH PATHWAYS IN THE AGE OF AI
+5. Strengthen wraparound supports as core workforce infrastructure.
+New York City should significantly expand investment in wraparound supports that reduce the financial and logistical barriers 
+to completing training and sustaining early-career employment. Childcare assistance, transportation support (including 
+OMNY subsidies), stipends, emergency aid, mental health services, and career navigation should be treated as core  
+components of workforce policy—not optional add-ons.
+Already, some of the city’s training providers have realized the importance of wraparound support and are working to 
+provide it. In January of 2026, CUNY’s University Dean for Technology and Computer & Information Sciences announced a 
+partnership with Last Mile Education Fund—which provides financial support for college students to finish a degree in high-demand 
+STEM fields—to start an “NYC Talent Innovation Fund” offering wraparound supports for CUNY computing students.
+The city should adopt a similar model, partnering with training organizations to offer wraparounds for their students. 
+Funding should be tied to completion and employment outcomes, incentivizing providers to design programs that are realistic 
+for working adults and career switchers. By addressing non-tuition costs directly, the city can improve persistence, narrow 
+equity gaps, and ensure that public investments in training translate into sustained wage gains.
+6. Build an “NYC Workforce Information Hub” to provide real-time labor 
+market intelligence.
+In a labor market being reshaped by AI at unprecedented speed, lagging indicators and static reports are no longer sufficient. 
+Students and training providers are unsure which fields remain viable, employers are recalibrating job requirements, and 
+policymakers risk investing in programs that prepare workers for yesterday’s roles rather than tomorrow’s opportunities.
+The mayor should work with the Workforce Development Board—potentially in partnership with NYCEDC—to establish a 
+“Workforce Information Hub” that provides real-time, accessible labor market intelligence to guide decision-making across 
+the ecosystem. Initially structured as a public-facing dashboard, the Hub would track in-demand occupations, emerging 
+skills, task-level changes, and aligned training programs across the city. It should also support internal coordination, helping 
+agencies, CUNY, nonprofit providers, and employer-facing intermediaries align investments around verified demand signals 
+rather than anecdotes.
+18
+Endnotes
+1.  Center for an Urban Future analysis of labor market data 
+from the New York State Department of Labor, QCEW. This 
+analysis defines the core tech sector as seven industries 
+“in which firms use technology as their core business 
+strategy:” Computer Manufacturing, Software Publishing, 
+Data Processing & Hosting, Media Streaming Distribution 
+Services, Social Networks, and Other Media Networks 
+and Content Providers, Web Search Portals and All Other 
+Information Services, Computer Systems Design, and 
+Scientific R&D Services.
+2.  Center for an Urban Future/FourOne Insights analysis of 
+Lightcast Q4 2025 dataset.
+3.  Per Scholas, 2024 Annual Report: Unlocking Potential, 
+Changing the Face of Tech, https://perscholas.
+org/2024-annual-report/. 
+4.  Center for an Urban Future analysis of labor market data 
+from the New York State Department of Labor, QCEW. This 
+analysis defines the core tech sector as seven industries 
+“in which firms use technology as their core business 
+strategy:” Computer Manufacturing, Software Publishing, 
+Data Processing & Hosting, Media Streaming Distribution 
+Services, Social Networks, and Other Media Networks and 
+Content Providers, Web Search Portals and All Other 
+Information Services, Computer Systems Design, and 
+Scientific R&D Services.
+5. Center for an Urban Future/FourOne Insights analysis of 
+Lightcast Q4 2025 dataset.
+6.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+7.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset and IPEDS graduation data.
+8.  Center for an Urban Future/FourOne Insights analysis  
+of Anthropic Economic Index data and Lightcast  
+Q4 2025 dataset.
+9.  Center for an Urban Future/FourOne Insights analysis  
+of Anthropic Economic Index data and Lightcast  
+Q4 2025 dataset.
+10.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+11.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+12.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+13.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+14.  Center for an Urban Future/FourOne Insights analysis  
+of Lightcast Q4 2025 dataset.
+15.  Elena Magrini, “Emerging Skills in AI Jobs,”  
+Lightcast, May 27, 2026, https://lightcast.io/resources/
+blog/emerging-skills-in-ai-jobs.

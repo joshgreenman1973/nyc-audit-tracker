@@ -1,0 +1,99 @@
+{
+  "id": "2026-08-01-cuf-harnessing-natural-areas",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Harnessing NYC’s Natural Areas",
+  "plain_title": "Getting more New Yorkers into the city's natural areas",
+  "agency": "New York City government",
+  "issued": "2026-08-01",
+  "url": "https://nycfuture.org/research/harnessing-nycs-natural-areas",
+  "pdf": "https://nycfuture.org/pdf/Harnessing_NYCs_Natural_Areas.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future examining how New Yorkers use and access the city's natural areas such as forests, wetlands and streams, and what limits their care and use. It draws on interviews with more than 65 parks leaders, advocates and nonprofits plus an analysis of public data from NYC Parks and other sources.",
+  "background": "The report says New York City has more than 12,000 acres of city-managed forests, wetlands, streams and other wild landscapes across the five boroughs. It says these spaces can improve public health, strengthen communities and build climate resilience, yet remain largely invisible and underused.",
+  "findings": [
+    {
+      "plain": "Only a small share of New Yorkers take part in nature-based programming, and many young people rarely reach green space.",
+      "quote": "Only about 380,000 New Yorkers—about 4.5 percent of the city’s population—participated in nature-based programming in 2024"
+    },
+    {
+      "plain": "Fewer than half of New Yorkers live within a 10-minute walk of a natural area, compared with a much larger share who live near a park.",
+      "quote": "fewer than half of all New Yorkers—47.7 percent, or about 4.2 million people—live within a 10-minute walk of a natural area"
+    },
+    {
+      "plain": "Natural areas receive a small share of the parks operating budget relative to their size, and the acres maintained have fallen sharply over two years.",
+      "quote": "Although these landscapes make up roughly one-third of all parkland, they receive just 2 percent of the city’s parks operating budget."
+    },
+    {
+      "plain": "The Natural Resources Group, the division of NYC Parks that stewards natural areas, has a small staff, so most natural areas get little or no regular maintenance.",
+      "quote": "the NRG has a staff of just 102 employees—about one for every 120 acres"
+    },
+    {
+      "plain": "Concerns about safety and belonging, along with difficult transit connections, discourage many New Yorkers from visiting natural areas.",
+      "quote": "Concerns about safety and belonging discourage many New Yorkers from visiting natural areas."
+    },
+    {
+      "plain": "Nonprofits and volunteers fill many gaps in programming and trail care, but the report describes their capacity as limited and uneven, and demand often exceeds what they can offer.",
+      "quote": "But these efforts are uneven and limited in scale."
+    },
+    {
+      "plain": "The report notes recent progress, including the baselining of Urban Park Ranger funding and the city's first Urban Forest Plan, while saying significant gaps remain.",
+      "quote": "In FY 2027, those roles have finally been baselined, rather than being funding one year at a time."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "12,000 acres",
+      "label": "City-managed natural areas across the five boroughs"
+    },
+    {
+      "value": "4.5 percent",
+      "label": "Share of New Yorkers in nature-based programming in 2024"
+    },
+    {
+      "value": "47.7 percent",
+      "label": "Share living within a 10-minute walk of a natural area"
+    },
+    {
+      "value": "2 percent",
+      "label": "Share of parks operating budget going to natural areas"
+    },
+    {
+      "value": "4.7 percent",
+      "label": "Share of natural areas with any maintenance last year"
+    },
+    {
+      "value": "102",
+      "label": "Staff managing the natural areas system"
+    },
+    {
+      "value": "94 Rangers",
+      "label": "Urban Park Rangers citywide today"
+    }
+  ],
+  "recommendations": [
+    "Create a \"Nature for All NYC\" initiative so every public school student takes part in a nature-based experience each year, possibly starting with fourth graders.",
+    "Strengthen the role and capacity of Urban Park Rangers in natural areas and explore a dedicated natural areas safety team to increase perceptions of safety and belonging.",
+    "Pilot monthly citywide \"Nature Days\" in the warmer months, with NYC Parks working with the Department of Transportation and the Metropolitan Transportation Authority on shuttle buses, expanded transit service, guided hikes and family events.",
+    "Develop a five-year roadmap for the long-term care of natural areas that draws on public-private partnerships, philanthropic support and state tourism and environmental funding streams.",
+    "Reassess the city's trail system of 300-plus miles, and partner with private sector firms and nonprofit experts to modernize trail maps, digital navigation tools and wayfinding.",
+    "Create a larger \"NYC Youth Conservation Corps\" that connects paid youth placements to natural areas stewardship and to year-round jobs, apprenticeships and credentials.",
+    "Set up library-based \"Nature & Culture Hubs\" that give information about local nature activities, transit routes and volunteer opportunities, and later offer lendable equipment and small grants.",
+    "Form a \"NYC Nature-Based Jobs Coalition\" to coordinate training, apprenticeships, credentials and hiring, and expand stable long-term roles in natural areas stewardship.",
+    "Launch a five-borough awareness campaign called \"Explore Forever Wild NYC\", working with Empire State Development and tapping existing state tourism dollars.",
+    "Launch an interagency \"Rewild NYC\" initiative to add pocket forests, native plantings and micronatural spaces closer to where New Yorkers live."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "environment",
+    "health",
+    "children and youth"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

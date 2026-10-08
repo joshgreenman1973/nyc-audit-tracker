@@ -1,0 +1,85 @@
+{
+  "id": "2026-09-28-cnycaffairs-labor-capital-inequality-functional-income-approach",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs at The New School",
+  "title": "Labor, Capital, and Inequality in New York: A Functional Income Approach",
+  "plain_title": "How New York City's economic output splits between workers and owners",
+  "agency": "New York City government",
+  "issued": "2026-09-28",
+  "url": "http://www.centernyc.org/reports-briefs/functional-income-distribution-inequality-new-york-city",
+  "pdf": "http://www.centernyc.org/s/Labor-Capital-and-Inequality-in-New-York-City-CNYCA.pdf",
+  "what_they_audited": "A research report from the Center for New York City Affairs at The New School. It examines how New York City's economic output is divided between pay to workers (labor) and income to business owners (capital) from 2001 to 2024, and what that means for city policy.",
+  "background": "The report says New York City is one of the richest local economies in the United States, but gains from that wealth are not broadly shared. It treats functional income distribution as a different lens from wage inequality, which describes how pay is spread among workers.",
+  "findings": [
+    {
+      "plain": "From 2001 to 2024 the labor share fell and the capital share rose in the nation, the state and the city. The city had the largest decline in labor share and the largest increase in capital share.",
+      "quote": "New York City experienced the most striking decline in labor share - from 55.9 percent to 49.2 percent"
+    },
+    {
+      "plain": "Worker productivity in the city grew much faster than the average hourly wage of everyone outside the top 10 percent of earners.",
+      "quote": "While labor productivity increased by 36.3 percent from 2001 to 2024, average hourly wage excluding the top 10 percent wage earners increased by 22.5 percent only."
+    },
+    {
+      "plain": "The report links the shift to weaker worker bargaining power. It points to declining union membership (especially in the private sector), globalization and outsourcing, and the legacy of the 1970s fiscal crisis. It notes that some of these links are associations and not proven causes.",
+      "quote": ""
+    },
+    {
+      "plain": "The decline in labor share is spread across several private industries but is uneven. Health care, government and education stayed high or rose, while sectors such as transportation, construction and finance fell.",
+      "quote": ""
+    },
+    {
+      "plain": "The report finds the city's business tax system does not fully capture the growing capital share. Business income from partnerships, proprietorships and other unincorporated businesses is an important part of the economy that is not adequately taxed.",
+      "quote": "New York City’s current business taxation system does not adequately capture enough taxes from this growing capital share."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "55.9 percent",
+      "label": "City labor share of output in 2001"
+    },
+    {
+      "value": "49.2 percent",
+      "label": "City labor share of output in 2024"
+    },
+    {
+      "value": "39.8 percent",
+      "label": "City capital share of output in 2001"
+    },
+    {
+      "value": "46 percent",
+      "label": "City capital share of output in 2024"
+    },
+    {
+      "value": "36.3 percent",
+      "label": "Growth in labor productivity, 2001 to 2024"
+    },
+    {
+      "value": "22.5 percent",
+      "label": "Growth in average hourly wage excluding top 10 percent"
+    }
+  ],
+  "recommendations": [
+    "Strengthen labor protections for workers.",
+    "Support unionization.",
+    "Raise wage floors.",
+    "Step up enforcement against wage theft and worker misclassification.",
+    "Improve job standards in low-wage sectors.",
+    "Make public investment that strengthens workers' economic security and bargaining power.",
+    "Strengthen redistribution after production through more progressive city taxation.",
+    "Examine what income is taxed and how, so the tax base reflects where capital income is actually generated, including sourcing rules, entity form, tax expenditures, enforcement and fiscal reserves.",
+    "Pair redistribution with serious fiscal planning and a more stable business tax structure that reflects how modern business income is generated and organized."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "money and contracts"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

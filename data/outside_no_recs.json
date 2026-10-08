@@ -770,5 +770,45 @@
     "publisher": "islg",
     "issued": "2025-05-07",
     "reason": "No recommendations: a court-ordered empirical study of body-worn camera encounters filed in Floyd v. City of New York; reports compliance rates and racial disparities with no recommendations section."
+  },
+  {
+    "title": "How Accident-Prone Is America’s Housing Finance System? Assessing Its Stability Circa 2022 (Part 1 of 2)",
+    "url": "https://www.furmancenter.org/publication/us-housing-finance-system-stability-2022-part-1/",
+    "publisher": "furman",
+    "issued": "2026-09-10",
+    "reason": "Not NYC government: analysis of the national housing finance system (Fannie Mae, Freddie Mac, federal regulators); does not mention New York City.",
+    "ai_triaged": true
+  },
+  {
+    "title": "Watching the Numbers 2026",
+    "url": "http://www.centernyc.org/reports-briefs/watching-the-numbers-2026",
+    "publisher": "cnycaffairs",
+    "issued": "2026-08-05",
+    "reason": "No recommendations: annual data-monitoring report on the child protective system covering six years through City Fiscal Year 2025; presents trends only, like the 2025 edition.",
+    "ai_triaged": true
+  },
+  {
+    "title": "The Bronx is Burning: Urban Disinvestment Effects of Fair Access to Insurance Requirements",
+    "url": "https://www.furmancenter.org/publication/bronx-burning-fair-plans-urban-disinvestment/",
+    "publisher": "furman",
+    "issued": "2026-07-21",
+    "reason": "No recommendations: academic working paper on how 1960s and 1970s FAIR insurance plans affected neighborhoods in 26 U.S. cities; makes no recommendations to city government.",
+    "ai_triaged": true
+  },
+  {
+    "title": "The Effects of RAD Conversion on Eviction Patterns",
+    "url": "https://www.furmancenter.org/publication/rad-conversion-public-housing-evictions/",
+    "publisher": "furman",
+    "issued": "2026-07-08",
+    "reason": "No recommendations: academic study of eviction filings after Rental Assistance Demonstration conversions; ends with a call for further research, not recommendations.",
+    "ai_triaged": true
+  },
+  {
+    "title": "What New Interactive Maps Reveal About the Development Potential of New York City’s City-Owned Land",
+    "url": "https://www.furmancenter.org/publication/what-new-interactive-maps-reveal-about-the-development-potential-of-new-york-citys-city-owned-land/",
+    "publisher": "furman",
+    "issued": "2026-04-21",
+    "reason": "No recommendations: data brief introducing four interactive maps of city-owned and leased land; describes the land without recommending action.",
+    "ai_triaged": true
   }
 ]

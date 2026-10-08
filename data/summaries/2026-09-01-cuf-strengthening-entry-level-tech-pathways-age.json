@@ -1,0 +1,91 @@
+{
+  "id": "2026-09-01-cuf-strengthening-entry-level-tech-pathways-age",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI",
+  "plain_title": "Entry-level tech jobs in New York City and the rise of AI",
+  "agency": "New York City government",
+  "issued": "2026-09-01",
+  "url": "https://nycfuture.org/research/nyc-entry-level-tech-pathways-in-the-age-of-ai",
+  "pdf": "https://nycfuture.org/pdf/Strengthening_NYC_EntryLevel_Tech_Pathways_in_the_Age_of_AI.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future examining entry-level tech hiring in New York City using online job postings data and artificial intelligence (AI) exposure data. It proposes steps for policymakers.",
+  "background": "The report says New York City's tech sector has been a dependable source of middle- and high-wage jobs, with employment up more than 133 percent from 2004 to 2024. It says workforce training groups built on-ramps into these careers for New Yorkers from lower-income backgrounds. The report was supported by a grant from Pursuit, one of those training groups.",
+  "findings": [
+    {
+      "plain": "Entry-level tech job postings in the city have dropped sharply since 2022, more than in any other field.",
+      "quote": "entry-level tech job postings have plummeted 49 percent in New York City since 2022"
+    },
+    {
+      "plain": "Overall tech employment in the city has not fallen. Job growth has flattened since 2022 while entry-level openings have shrunk.",
+      "quote": "job gains in the city’s tech sector have essentially stalled since 2022"
+    },
+    {
+      "plain": "Since 2023 there have been more new computer science graduates than entry-level tech postings, which the report says makes it harder for training program graduates to compete.",
+      "quote": "there were 57 percent more graduates of CS-related programs than there were entry-level jobs"
+    },
+    {
+      "plain": "Jobs more exposed to generative AI saw bigger drops in entry-level postings, while jobs with minimal exposure saw increases. The report notes that correlation does not imply causation and that AI is not the only factor, citing interest rates and economic uncertainty as well.",
+      "quote": "Jobs with the highest AI exposure have seen entry-level job postings fall 29 percent since 2022."
+    },
+    {
+      "plain": "Entry-level postings that require AI skills have grown, and the report treats these as a bright spot amid the broader decline.",
+      "quote": "Since 2022, entry-level postings for jobs that require AI skills have grown 20 percent"
+    },
+    {
+      "plain": "Training providers interviewed reported weaker placement results and are redesigning programs, with several developing AI-focused training.",
+      "quote": "all expressed deep concern about the dramatic downturn in entry-level tech hiring over the past three years"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "49 percent",
+      "label": "Drop in entry-level tech postings since 2022"
+    },
+    {
+      "value": "29 percent",
+      "label": "Drop in entry-level postings, highest AI-exposure jobs"
+    },
+    {
+      "value": "21 percent",
+      "label": "Rise in entry-level postings, minimal AI-exposure jobs"
+    },
+    {
+      "value": "57 percent",
+      "label": "More computer science graduates than entry-level jobs, 2024"
+    },
+    {
+      "value": "20 percent",
+      "label": "Growth in entry-level postings requiring AI skills"
+    },
+    {
+      "value": "230 percent",
+      "label": "Rise in entry-level tech postings, public administration"
+    },
+    {
+      "value": "$10 million",
+      "label": "Proposed initial city funding for AI Service Corps"
+    }
+  ],
+  "recommendations": [
+    "Launch an NYC AI Service Corps, a paid six-month fellowship placing emerging technologists in small businesses, nonprofits and city agencies to deliver practical AI services, starting with an initial $10 million in city funding co-designed and co-invested with AI and tech firms and philanthropic groups.",
+    "Establish an NYC Workforce AI Readiness Fund, seeded with city dollars and co-invested by private partners, to support AI skills training, job-transition help for workers displaced by AI and rapid-response training, alongside a Mayoral AI Workforce Task Force that could be housed within the Workforce Development Board.",
+    "Recruit the next 100 large employers through a mayor-led initiative with the City University of New York and workforce providers, using challenge-based procurement to select employer-facing intermediaries and expand apprenticeships, paid internships and direct hiring pipelines.",
+    "Expand credit-bearing dual enrollment and Career and Professional Learning pathways so that industry-aligned training counts toward a college credential, with the City University of New York scaling credit-for-prior-learning policies and formalizing articulation agreements.",
+    "Significantly expand investment in wraparound supports such as childcare assistance, transportation support, stipends, emergency aid, mental health services and career navigation, tying funding to completion and employment outcomes.",
+    "Build an NYC Workforce Information Hub with the Workforce Development Board, starting as a public-facing dashboard, to provide real-time labor market information on in-demand occupations, emerging skills and aligned training programs."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "labor",
+    "technology",
+    "education"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

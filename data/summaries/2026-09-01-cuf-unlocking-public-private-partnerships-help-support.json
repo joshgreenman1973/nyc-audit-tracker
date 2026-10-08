@@ -1,0 +1,90 @@
+{
+  "id": "2026-09-01-cuf-unlocking-public-private-partnerships-help-support",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Unlocking Public-Private Partnerships to Help Support and Strengthen NYC’s Parks",
+  "plain_title": "Five ideas for public-private partnerships to support city parks",
+  "agency": "New York City government",
+  "issued": "2026-09-01",
+  "url": "https://nycfuture.org/research/public-private-partnerships-for-parks",
+  "pdf": "",
+  "what_they_audited": "A policy report from the Center for an Urban Future that examines how New York City could build a new generation of public-private partnerships to support its parks and open spaces. It offers five ideas for doing so.",
+  "background": "The report says the city faces a precarious fiscal situation and that parks have borne the brunt of many decades of crisis-fueled budget cuts. It notes that more than 1,000 parks and open space partner groups already work with NYC Parks.",
+  "findings": [
+    {
+      "plain": "Park quality varies by neighborhood, according to a Citizens Budget Commission residents' survey cited in the report, with Bronx residents rating their parks lower than Manhattan residents.",
+      "quote": "62 percent of Bronx residents rate their neighborhood parks and playgrounds as “fair” or “poor,” compared to 29 percent in Manhattan"
+    },
+    {
+      "plain": "The report says licensing, revenue, insurance and liability rules differ widely among parks partners, with some groups indemnified by the city and others expected to carry risk themselves.",
+      "quote": "Across the parks system, partners face strikingly different rules governing licensing, revenue, insurance, and liability."
+    },
+    {
+      "plain": "A 2025 survey of small and medium-sized parks nonprofits found that lack of indemnification was their top challenge in dealing with NYC Parks.",
+      "quote": "lack of indemnification was the number one issue cited in a 2025 survey"
+    },
+    {
+      "plain": "The report says upfront infrastructure costs keep many potential concessions from moving forward, and that only the most lucrative opportunities draw multiple bidders.",
+      "quote": "Installing gas service alone can run over $1 million."
+    },
+    {
+      "plain": "Partnerships for Parks, the program that supports neighborhood parks groups, is described as small relative to demand and unable to expand for several years because of too few staff.",
+      "quote": "The program has been unable to expand for several years, not because of a lack of community interest, but because there are too few staff to engage, support, and sustain additional volunteer groups."
+    },
+    {
+      "plain": "The report says city-run recreation programming has fallen since before the pandemic, and presents the health care sector as a possible source of support.",
+      "quote": "city-run recreational program sessions declining 45 percent from 2019 to 2024"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "62 percent",
+      "label": "Bronx residents rating local parks fair or poor"
+    },
+    {
+      "value": "29 percent",
+      "label": "Manhattan residents rating local parks fair or poor"
+    },
+    {
+      "value": "more than 1,000",
+      "label": "Parks and open space partner groups working with NYC Parks"
+    },
+    {
+      "value": "$11 million",
+      "label": "Added yearly parks concession revenue in executive budget"
+    },
+    {
+      "value": "45 percent",
+      "label": "Decline in city-run recreation sessions, 2019 to 2024"
+    },
+    {
+      "value": "$3 million",
+      "label": "Partnerships for Parks budget of city-funded positions"
+    },
+    {
+      "value": "$95 million",
+      "label": "If 1% of hospital community benefits went to parks"
+    }
+  ],
+  "recommendations": [
+    "Cut the bureaucratic and cost barriers facing community parks partners by directing the Law Department, Office of Management and Budget and NYC Parks to standardize license templates by partner tier, let partners retain revenue, reduce or subsidize insurance requirements, offer guidance and workshops and add partnership staff.",
+    "Pilot multi-site Concessions Kits with four to six respondents running pilots of at least ten parks each, supported by modular infrastructure, a possible Concessions Investment Fund with the New York City Economic Development Corporation, simple revenue-sharing agreements and a Parks Improvement Trust that reinvests concession revenue in parks.",
+    "Launch an ambitious public-private campaign to strengthen grassroots park stewardship, using public and philanthropic dollars as a challenge grant, with Partnerships for Parks as the platform, and double the community engagement staff of Partnerships for Parks under its Parks Equity Initiative.",
+    "Create indexed city matching funds and microgrants that encourage contributions to parks, with higher match ratios for lower-income communities, easy ways for residents and businesses to give, a secondary citywide regrant fund and faster small-grant procurement through City Parks Foundation and Citizens Committee.",
+    "Partner with hospitals, insurers and health institutions to support recreation and wellness in nearby parks, through a pilot with menus of sponsorable programming packages, possible parks prescriptions and a cohort of nonprofit hospitals and other health providers, with results tracked by university researchers."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "environment",
+    "health"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,1404 @@
+===== SOURCE: landing page =====
+Innovative Ideas. Independent Policy.
+•
+Home
+•
+About
+•
+Research
+•
+Events
+•
+Press
+•
+Impact
+•
+Support
+•
+Contact
+Report
+- August 2026
+Strengthening CUNY’s Computer Science Faculty to Prepare Students for NYC’s Changing Tech Economy
+Computer science enrollment at CUNY has more than doubled over the past decade, but faculty capacity has not kept pace. To bolster this vital pathway to the middle class, policymakers should help CUNY recruit and retain enough faculty with applied expertise and industry experience to equip students with the skills and experiences employers increasingly demand.
+by Eli Dvorkin, Alejandra Díaz-Pizarro, and Andrew Bauld
+Tags:
+stem
+cuny
+economic opportunity
+• Read the full report here.
+• Read the report's recommendations here.
+O ver the past decade, computer science (CS) enrollment at the City University of New York (CUNY) has surged—up 146 percent, from 4,639 students in 2014 to 11,431 in 2024, even as overall enrollment declined. 1 That growth has been fueled by a powerful promise: that a CS degree can open the door to a well-paying career and a pathway into the middle class, especially for CUNY’s largely low-income and first-generation students.
+But that promise is now colliding with a tougher economic reality. Entry-level tech jobs in New York City have fallen by 49 percent since 2022, and the number of traditional coding roles may continue to shrink. At the same time, demand is growing for applied computing skills—especially in areas like artificial intelligence (AI), cybersecurity, and data engineering— across industries. The question is whether CUNY graduates will be prepared to fill those jobs.
+For most CUNY students, the answer depends on what happens in the classroom—and the faculty who lead it. But today, CUNY is struggling to hire and retain enough faculty—and the right faculty—to meet this moment.
+Faculty growth has lagged far behind the surge in student demand over the past decade, with the number of full-time CS faculty increasing by just 21 percent at senior colleges and declining by 22 percent at community colleges. At some campuses, introductory CS courses now enroll hundreds of students—sometimes more than 700 at a time—while faculty struggle to keep up.
+The result is overcrowded classrooms, excessive course loads, limited access to in-demand courses, and fewer opportunities for mentorship and career-connected learning. At the same time, demand for computing expertise is rising across the university, in disciplines from finance and healthcare to urban planning and beyond, placing new strain on a limited pool of faculty with relevant expertise.
+Several factors are driving this challenge. Salaries for CS faculty lag far behind those offered by peer institutions and private industry: Between 2015 and 2025, CUNY advertised by far the lowest median salary among comparable New York City institutions, at roughly $79,000. Research support is also limited: One new faculty member received just $20,000 in start-up funding to support initial research and establish a lab, a small fraction of what other universities offer. And a slow, bureaucratic hiring process frequently causes departments to lose strong candidates before offers can be made, with some searches delayed months past peak hiring season.
+CUNY has taken some promising steps in recent years, launching new efforts to strengthen computing and AI capacity, invest in faculty development, and expand proven initiatives like the Practitioners-in-Residence Corps. But much more will be needed to ensure that CUNY can keep pace with rising student demand and a rapidly evolving tech economy.
+Going forward, city and state leaders should invest in rebuilding and expanding faculty capacity in high-demand computing fields, from AI to cybersecurity, and better align funding with the higher cost of educating CS majors. CUNY should pair these investments with a systemwide effort to accelerate hiring and research processes, reducing delays that cost departments strong candidates. At the same time, deeper partnerships with industry and philanthropy can help support competitive research funding, start-up packages, and stronger connections to the workforce. Taken together, these actions can help ensure that CUNY has the faculty capacity and industry alignment needed to prepare students for an increasingly AI-driven economy.
+Over the past decade, the technology sector has been one of the most reliable engines of new middle- and high-wage job growth in New York City—and CUNY has responded in kind. Since 2016, CUNY has expanded its CS offerings, adding new degree programs across multiple campuses as student demand has surged.
+That demand reflects the powerful role CUNY plays as the city’s primary engine of economic mobility. “Many of the students we serve come from low-income backgrounds,” says Ping Ji, chair of the CS department at Hunter College. “With computing offering one of the largest and fastest-growing job markets, computer science provides one of the most powerful pathways to advancing CUNY's mission of social mobility.”
+But as the tech sector evolves, that pathway is becoming more difficult to navigate. Entry-level tech hiring has dropped sharply in recent years, and employers are raising expectations for new hires. Students increasingly need not just foundational knowledge, but hands-on experience and the ability to apply computing skills in real-world context—opportunities that faculty are critical to providing.
+This report examines whether CUNY is positioned to meet this moment, and what it will take to strengthen the system’s faculty capacity in CS. Supported by a grant from the Alfred P. Sloan Foundation, it draws on more than 75 interviews with CUNY leaders, department chairs, faculty, students, tech industry leaders, higher education policy experts, and leaders from other major public university systems. The report also includes an extensive analysis of CUNY data on enrollment, faculty hiring, course offerings, budgets, and student outcomes. The report concludes with seven concrete recommendations for strengthening CUNY’s faculty capacity in CS to bolster student outcomes.
+For most CUNY students, gaining experience outside the classroom is not a realistic option. More than half of CUNY students are working while in school, and many juggle family responsibilities alongside their studies. As a result, the classroom is often the only place where they can build the skills needed to launch a career in tech. Faculty play a central role in this process, shaping not only what students learn, but how well they are prepared to enter the workforce.
+Students know this, and consistently turn to faculty as a critical resource. While relatively few CUNY students engage with formal career services or internships—for instance, just 12 percent report participating in a paid internship—all students interact with faculty. And surveys show that students trust faculty more than any other source of advice. 2
+But across CUNY, the student experience—especially in CS—is increasingly shaped by a shortage of faculty.
+At Hunter College, introductory CS courses regularly enroll hundreds of students. One recent graduate, Oluebube Onwuamaegbu, described taking a Python course with 750 students—so large it had to be taught online—followed by a C++ course with 300 students. Even advanced courses often enroll more than 100 students, leaving little opportunity for interaction with instructors.
+“You can’t really excel in that kind of environment,” Onwuamaegbu says. “There’s not really one-on-one time with that professor.” Over time, she found it harder to stay engaged: “If I feel like my professor doesn’t know me, I can’t ask questions…I’m not going to want to engage any further.”
+With too few instructors to meet rising demand, many faculty are teaching well above their expected course loads, managing hundreds of students and struggling to provide meaningful mentorship or career guidance outside the classroom. Faculty cannot be required to teach above their required course loads, but many do for several reasons: a sense of duty to students, the difficulty of finding adjuncts, or the additional compensation for teaching extra classes. At Lehman College, 6 out of 10 faculty members in the CS department are currently teaching above their required load; the department chair, whose role typically requires teaching one course per year, is teaching eight. “No one is forced to teach the extra classes for which they receive adjunct pay,” says Brian Murphy, the chair. “However, it would be very difficult to offer the students the courses they need if they didn’t.”
+These pressures result not only from rising demand, but also from what college administrators say are deeper structural barriers to hiring and retaining faculty. “When we do a search for professors, there’s dozens of people that we could potentially hire,” says Murphy. “It’s just a matter of we’re not fast enough, and we’re not offering enough money sometimes.”
+While it is possible for CUNY to approve salaries above base for new hires, CS departments have been reluctant to do so out of a sense of fairness to senior faculty. However, as the focus of a CS degree shifts from the theoretical to the applied, departments may have to reconsider hiring above base if they want to attract top candidates in applied CS, where industry salaries pose stronger competition.
+These constraints are already affecting both learning and career outcomes, and their consequences are especially visible in today’s more challenging job market. According to the Center for an Urban Future’s analysis of the U.S. Census Bureau’s postsecondary employment outcomes data, 12 percent of CUNY students who earned a bachelor’s degree in CS between 2019 and 2021 were working in retail or food service one year after graduation. 3 And between 2019 and 2025, just over 40 percent of CUNY CS graduates were working in a computing field one year after graduation. 4
+“CUNY grads are on the edge of the table,” says Elise Harris, faculty director of Hunter College’s Daedalus Scholar Program. “If you went to MIT or Carnegie Mellon or an Ivy League school, you’re going to be on the table. My students are on the very edge—and when there’s a bad job market, they fall off.”
+In response to both surging enrollment and these emerging challenges, CUNY has taken important steps. In 2024, CUNY appointed an inaugural university dean for technology and computer and information sciences to oversee computing programs across the university. It has also launched several initiatives to strengthen faculty preparedness, including the Faculty Fellows professional development program, and grown the Practitioners-in-Residence Corps, which brings industry professionals into the classroom. Since 2016, CUNY has added five new CS degree programs across four colleges. In 2024, the university received a historic $75 million gift from the Simons Foundation to advance research computing and AI and hire up to 25 new faculty members. And CUNY recently launched Tech Futures, a $5.3 million city investment in new AI degree programs and experiential learning opportunities across 12 CUNY campuses.
+These efforts are promising, but they are not yet enough to meet the scale of student demand or the pace of change in the tech economy.
+Without new investment from city and state leaders, faculty shortages are likely to persist, with consequences that extend well beyond the classroom. Faculty who are stretched thin have little time to organize extracurricular programming, support research opportunities, or build partnerships with employers. At Lehman College, a once-thriving hackathon that connected students directly with companies like Goldman Sachs and JPMorgan—often leading to on-the-spot job offers—has been discontinued due to a lack of faculty capacity.
+At the same time, the demands on faculty are evolving. Students increasingly need exposure to applied computing skills, industry practices, and emerging fields like AI. But many faculty lack the time, resources, or industry experience to adapt their courses accordingly, leaving gaps between what students learn and what employers expect.
+Taken together, these challenges point to a central constraint. Without enough faculty—and the right faculty—CUNY cannot fully deliver on its promise to serve as a pathway into computing careers.
+To read the full PDF of the report go here.
+7 Ideas for Strengthening CUNY’s Computer Science Faculty
+No other institution plays a more important role for low-income New Yorkers to access high-paying jobs jobs in tech than CUNY. But that economic engine is at threat of stalling as the path to those jobs has become less clear-cut. CUNY grads are increasingly facing stiffer competition from grads of other New York City educational institutions, not to mention the increasing pool of laid-off New Yorkers with years of work experience.
+While the city and CUNY will have to find multiple ways to address the challenges facing its CS students, one of their core objectives should be to strengthen CUNY’s CS faculty, who remain the principal resource in many students’ journeys towards a tech career.
+Our recommendations offer ways CUNY can ensure it has enough—and the right—faculty to prepare its students for the job market of the future.
+1. Expand faculty capacity in high-demand fields, starting with CS.  CUNY should establish a clear, systemwide plan to rebuild and expand its faculty—particularly in high-demand fields like CS—after several years of contraction. The university remains down roughly 500 full-time faculty positions compared to 2021, and in CS, losses in part-time instructors have further reduced instructional capacity. At the same time, many faculty are already stretched thin, teaching well above expected course loads—sometimes managing hundreds of students or taking on multiple additional courses. Without adding faculty, these conditions will continue to undermine both student outcomes and long-term faculty retention.
+To reverse this trend, CUNY should set explicit multiyear hiring targets tied to enrollment growth, course demand, and workforce needs, beginning with CS and adjacent computing fields. This plan should identify how many new faculty lines are needed, where they are most urgently needed, and what mix of expertise is required—from AI and cybersecurity to applied software development. In addition, CUNY should strengthen its pipeline into faculty roles by expanding teaching fellowships, creating clearer pathways from adjunct to full-time positions, and cultivating future instructors from its own graduate programs. Expanding CUNY’s capacity to produce PhDs in CS and related fields—particularly in applied and interdisciplinary areas—will also be essential to building a more sustainable, long-term pipeline of faculty.
+While it is important that hiring remains agile at the department level, leaders could consider the strategic approach of cluster hiring, bringing on a set of faculty from different disciplines but with complementary skills as part of one cohort. Cluster-hired faculty could work in their individual departments but also collaborate with each other, boosting faculty capacity to prepare students for increasingly interdisciplinary high-demand fields. CUNY could begin with an “AI cohort,” hiring a cluster of faculty with AI skills across CS, finance, medicine, digital humanities, and other fields.
+2. Increase city funding for faculty and modernize state funding formulas to reflect the higher cost of educating CS students.  Restoring faculty capacity will require new investment, and both the city and the state have a role to play. While New York State has recently increased funding for CUNY, its existing funding formulas do not adequately account for the higher cost of educating students in fields like CS, which require smaller class sizes, specialized faculty, lab space, and computing infrastructure. Treating all majors equally in per-student funding puts high-cost, high-demand programs like CS at a structural disadvantage.
+The city should follow the state’s lead by increasing its investment and earmarking new funding specifically for faculty hiring in high-demand fields. As a starting point, New York City should commit at least $10 million annually to support new faculty lines in CS and related disciplines—enough to begin reversing recent losses and expanding capacity in the highest-demand programs. At the same time, state leaders should update funding formulas to better reflect program costs, ensuring that CUNY has the resources needed to sustain and grow high-opportunity programs that are critical to the state and city economy.
+3. Launch a CUNY faculty hiring acceleration initiative to modernize hiring and research processes.  Across CUNY, departments identified excessive bureaucracy as one of the most significant barriers to hiring and retaining faculty. In a competitive market where salaries and start-up packages already lag, speed is one of the few advantages CUNY can realistically leverage, but current processes routinely undermine it. Job postings are often delayed by months, offers are approved too late in the hiring cycle, and decisions on start-up funding can stall long enough that candidates accept positions elsewhere. Even when faculty are successfully hired, slow and fragmented procurement systems can delay access to research equipment for months, limiting productivity and undermining recruitment.
+CUNY should launch a “Faculty Hiring Acceleration Initiative” to identify and reduce these bottlenecks in both hiring and research processes. Within a defined timeframe, the university should map each step of the hiring and start-up approval process; establish target timelines for posting positions, making offers, and approving funding; and assign clear responsibility for meeting those benchmarks at both the campus and system levels. The initiative should also streamline research procurement and provide administrative support to help faculty access start-up funds and equipment more quickly. The goal should be a measurable reduction in time-to-hire and faster activation of research resources, ensuring that existing investments translate into successful recruitment, retention, and research productivity.
+4. Make faculty capacity central to CUNY's AI strategy and expand applied AI expertise across the system.  As demand for AI skills grows across industries, CUNY has an opportunity to lead in preparing students for an AI-driven economy. The university has already secured significant funding, including a $75 million grant from the Simons Foundation, and launched efforts to integrate AI across the curriculum. But these efforts will fall short without sufficient faculty capacity—particularly faculty with applied AI experience who can translate theory into real-world applications.
+CUNY should make faculty hiring and development a central pillar of its AI strategy. This includes recruiting new faculty with applied AI expertise, expanding professional development so existing faculty can integrate AI into their teaching, and ensuring that AI instruction reaches students across disciplines—from healthcare and business to urban planning and engineering. Aligning AI investments with faculty capacity will be essential to ensuring that “AI across the curriculum” becomes a reality rather than an aspiration.
+The state also has a role to play in expanding CUNY’s capacity for AI innovation. State procurement policy currently blocks CUNY faculty from doing research with cutting-edge open AI tools. New York State should follow New York City’s lead in adopting challenge-based procurement, which would allow CUNY to work with smaller, nimbler vendors in bringing emerging AI technologies into the classroom.
+To encourage AI innovation, CUNY should also consider adapting its tenure and promotion guidelines to consider work done outside the traditional scope of a department’s responsibilities, including work done cross-departmentally and faculty efforts to integrate innovative technology into teaching and learning.
+5. Create a "CS@CUNY Faculty Investment Fund" to offset salary constraints and strengthen recruitment.  CUNY faces a significant challenge in recruiting and retaining CS faculty due to uncompetitive salaries, which are constrained in part by systemwide pay structures and pay bands. While raising salaries across the board may be difficult in the near term, strengthening research support—particularly through start-up packages—offers a practical way to improve competitiveness.
+CUNY should establish a “CS@CUNY Faculty Investment Fund,” supported through a combination of public funding, philanthropy, and industry partnerships, to provide competitive start-up packages and research support. In 2021, the median start-up package for CS faculty at public universities was approximately $250,000, typically deployed over several years. A targeted fund of roughly $5 million over three years could enable departments to offer more competitive packages, helping attract and retain faculty in high-demand areas while supporting research productivity and grant competitiveness.
+6. Expand the PiRC and leverage private-sector partnerships to scale impact. The PiRC has demonstrated the value of bringing industry expertise into the classroom, but its reach remains limited. At the same time, New York City’s tech sector represents a major untapped resource for strengthening instruction, expanding career exposure, and supporting faculty capacity—especially given the city’s constrained fiscal outlook.
+CUNY, in partnership with city leaders, should work to recruit private-sector and philanthropic partners to expand PiRC and similar initiatives. Pairing practitioners with faculty in high-enrollment courses would extend industry-relevant instruction to more students, strengthen curriculum alignment, and allow faculty to focus more on advanced coursework and mentorship. Deeper engagement from industry will be essential to scaling these efforts and ensuring that students gain both the skills and connections needed to succeed.
+7. Launch "CUNY Industry Fellows" to deepen faculty-industry collaboration.  Dual appointments—where faculty split time between academia and industry—offer a promising way to strengthen connections between CUNY and the tech sector. These models are becoming increasingly common nationally: As of 2024, approximately 10 percent of CS faculty held dual appointments, up from about 6 percent a decade earlier. These appointments can help faculty stay current with industry practices while bringing real-world experience directly into the classroom, particularly in rapidly evolving fields like AI and data engineering.
+CUNY should pilot a “CUNY Industry Fellows” program in partnership with employers, not just in the city’s tech sector but across sectors that require computing knowledge. Under this model, selected faculty would spend a defined portion of their time—such as one day per week or a summer term—embedded with a partner company, supported by cost-sharing agreements between CUNY and participating employers.
+While dual appointments depend on industry needs and faculty skill sets, there are a number of ways CUNY could implement a fellowship program. Dual appointments could be structured into the hiring of new faculty members. Lecturers, who tend to have lighter teaching loads than professors, could be embedded part-time in the workplace. Such a program would offer faculty industry experience that they could then integrate into coursework, curriculum development, and student mentorship, strengthening both faculty development and student career outcomes.
+ 
+Endnotes
+1. Center for an Urban Future analysis of CUNY enrollment data 2014–24.
+2. City University of New York, FY 2025 University Budget Request, https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/trustees/meetings-of-the-board/FY2025-University-Budget-Request.pdf.
+3. Center for an Urban Future analysis of data from the U.S. Census Bureau’s Post-Secondary Employment Outcomes, https://lehd.ces.census.gov/applications/pseo/state=36&type=flows&specificity=2&institution=00268800&degreelevel=05&gradcohort=0000-3&filter=5&display=count&destination=industry&program=11.
+4. Center for an Urban Future analysis of profile analytics data from Lightcast.
+Strengthening CUNY’s Computer Science Faculty is a publication of the Center for an Urban Future. Researched and written by Eli Dvorkin, Alejandra Díaz-Pizarro, and Andrew Bauld. Edited by Dorian Block and Irene Connelly. Designed by Stislow Design.
+Center for an Urban Future (CUF) is a leading New York City-based think tank that generates smart and sustainable public policies to reduce inequality, increase economic mobility, and grow the economy.
+General operating support for the Center for an Urban Future has been provided by The Clark Foundation , Robin Hood , and the Altman Foundation . We are also grateful for support from Fisher Brothers Foundation for the Center for an Urban Future’s Middle Class Jobs Project, and ongoing support from a number of other philanthropic funders.
+Related Press
+CUNY’s Computer Science Growing Pains
+Inside Higher Ed ,
+by Joshua Bay,
+August 17, 2026
+5 Ways Colleges Are Reshaping STEM Education
+Inside Higher Ed ,
+by Joshua Bay,
+August 25, 2026
+Can CUNY’s Computer Science Programs Adapt for the AI Workplace?
+Columbia News Service ,
+by Heather Chen,
+September 29, 2026
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline ,
+by Quinn Mercer,
+September 16, 2026
+This report is supported by a grant from the Alfred P. Sloan Foundation .
+Related Publications
+7842|7384|7463|7411
+•
+Strengthening NYC’s Entry-Level Tech Pathways in the Age of AI
+•
+Preparing Every NYC Student for an AI-Powered Future
+•
+Closing New York State’s Computing Education Gaps
+•
+Sustaining NYC’s Tech Edge
+Related Press
+CUNY’s Computer Science Growing Pains
+Inside Higher Ed
+5 Ways Colleges Are Reshaping STEM Education
+Inside Higher Ed
+Can CUNY’s Computer Science Programs Adapt for the AI Workplace?
+Columbia News Service
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline
+View More Related Press
+Related Press
+CUNY’s Computer Science Growing Pains
+Inside Higher Ed
+5 Ways Colleges Are Reshaping STEM Education
+Inside Higher Ed
+Can CUNY’s Computer Science Programs Adapt for the AI Workplace?
+Columbia News Service
+NYC’s Entry-Level Tech Market Tightens as Graduate Pipeline Grows
+Hoodline
+We're Hiring
+Managing Editor
+Search
+@nycfuture
+Follow @nycfuture
+CUF in the News
+Changing Careers: New York City Expands Free College Tuition Program for Adults
+Forum Daily New York
+Mayor Zohran Mamdani doubles individual artist grants in New York City to $10,000
+Artsy
+New York expands free SUNY and CUNY tuition to those with college degrees
+News 10 ABC
+Should AI Be Regulated City by City? New York Should Think Carefully Before Answering
+AlleyWatch
+New York’s retail storefront strategy: cut it in half
+The Real Deal
+Mamdani Doubles Grants for NYC Artists
+Hyperallergic
+Cost of retirement on Long Island squeezing seniors, forcing them to cut back
+Newsday
+View More Press
+•
+© All Rights Reserved.
+Content
+• Reports • Commentary/Op-Ed • Testimony • Data • Events • Impact
+Topics
+• Economic Growth • Economic Opportunity • Entrepreneurship • Immigrants • Boroughs • Small Business • Human Capital • Higher Education • Creative Economy • Tech
+Follow
+Support
+• Internships
+• Support the Center
+• Contact
+Center for an
+Urban Future
+80 Eighth Avenue, Suite 704
+New York, NY 10011
+212-479-3344
+[email protected]
+© All Rights Reserved.
+x
+
+===== SOURCE: report PDF =====
+AUGUST 2026
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY  
+TO PREPARE STUDENTS FOR NYC’S CHANGING TECH ECONOMY
+Strengthening CUNY’s Computer Science 
+Faculty is a publication of the Center for  
+an Urban Future. Researched and written  
+by Eli Dvorkin, Alejandra Díaz-Pizarro, and  
+Andrew Bauld. Edited by Dorian Block and  
+Irene Connelly.  Designed by Stislow Design.
+Center for an Urban Future (CUF) is a  
+leading think tank focused on building a  
+stronger and more equitable economy in  
+New York City, and expanding economic 
+opportunity for all New Yorkers.
+ 
+ 
+ 
+ 
+This report is supported by a grant  
+from the Alfred P. Sloan Foundation.
+General operating support for the Center  
+for an Urban Future has been provided  
+by The Clark Foundation,  Robin Hood ,  
+and the Altman Foundation.
+EXECUTIVE DIRECTOR
+Jonathan Bowles
+EDITORIAL & POLICY DIRECTOR
+Eli Dvorkin
+CHIEF OF STAFF
+Stephanie Arevalo
+SENIOR DATA & POLICY RESEARCHER
+Rachel Neches 
+POLICY RESEARCHER
+Alejandra Díaz-Pizarro
+RESEARCH AND OPERATIONS ASSOCIATE
+Sophia Tumolo 
+BOARD OF DIRECTORS
+Gifford Miller (Chairman)
+Jonathan Bowles 
+Rafael E. Cestero 
+Russell Dubner 
+Garnesha Ezediaro 
+Susan Fine 
+Kyle Kimball 
+Katy Knight 
+Jessie Lazarus 
+David Lebenstein 
+Eric S. Lee 
+Josh Moskowitz 
+Monisha Nariani 
+Max Neukirchen 
+Andrew Reicher 
+Peter Schubert 
+John Siegal 
+Thomas Vecchione 
+Sherry Wang 
+Kate Wittels
+
+Strengthening CUNY’s Computer Science Faculty  
+to Prepare Students for NYC’s Changing Tech Economy
+Introduction .............................................................   1
+Enrollment Is Surging—Faculty Capacity Is Not Keeping Pace  ...................   4
+The Need for Faculty Aligned with Today’s Tech Economy .......................   7
+Barriers to Hiring and Retention  ............................................   9
+Promising Models and Opportunities at CUNY  ...............................  13
+Recommendations: Seven Ideas for Strengthening  
+CUNY’s Computer Science Faculty  .........................................  15
+Table of Contents
+1
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY1
+Strengthening CUNY’s Computer  
+Science Faculty to Prepare Students  
+for NYC’s Changing Tech Economy
+1
+OVER THE PAST DECADE, COMPUTER SCIENCE (CS) ENROLLMENT AT THE CITY UNIVERSITY OF NEW YORK (CUNY) 
+has surged—up 146 percent, from 4,639 students in 2014 to 11,431 in 2024, even as overall enrollment declined. 1 That 
+growth has been fueled by a powerful promise: that a CS degree can open the door to a well-paying career and a pathway 
+into the middle class, especially for CUNY’s largely low-income and first-generation students.
+But that promise is now colliding with a tougher economic reality. Entry-level tech jobs in New York City have fallen by 
+49 percent since 2022, and the number of traditional coding roles may continue to shrink. At the same time, demand is 
+growing for applied computing skills—especially in areas like artificial intelligence (AI), cybersecurity, and data engineering—
+across industries. The question is whether CUNY graduates will be prepared to fill those jobs.
+For most CUNY students, the answer depends on what happens in the classroom—and the faculty who lead it. But  
+today, CUNY is struggling to hire and retain enough faculty—and the right faculty—to meet this moment.
+Faculty growth has lagged far behind the surge in student demand over the past decade, with the number of full-time 
+CS faculty increasing by just 21 percent at senior colleges and declining by 22 percent at community colleges. At some 
+campuses, introductory CS courses now enroll hundreds of students—sometimes more than 700 at a time—while faculty 
+struggle to keep up.
+The result is overcrowded classrooms, excessive course loads, limited access to in-demand courses, and fewer  
+opportunities for mentorship and career-connected learning. At the same time, demand for computing expertise is rising 
+across the university, in disciplines from finance and healthcare to urban planning and beyond, placing new strain on a 
+limited pool of faculty with relevant expertise.
+Several factors are driving this challenge. Salaries for CS faculty lag far behind those offered by peer institutions and 
+private industry: Between 2015 and 2025, CUNY advertised by far the lowest median salary among comparable New York 
+City institutions, at roughly $79,000. Research support is also limited: One new faculty member received just $20,000 in 
+start-up funding to support initial research and establish a lab, a small fraction of what other universities offer. And a slow, 
+bureaucratic hiring process frequently causes departments to lose strong candidates before offers can be made, with some 
+searches delayed months past peak hiring season.
+CUNY has taken some promising steps in recent years, launching new efforts to strengthen computing and AI capacity, 
+invest in faculty development, and expand proven initiatives like the Practitioners-in-Residence Corps. But much more will 
+be needed to ensure that CUNY can keep pace with rising student demand and a rapidly evolving tech economy. 
+Going forward, city and state leaders should invest in rebuilding and expanding faculty capacity in high-demand com -
+puting fields, from AI to cybersecurity, and better align funding with the higher cost of educating CS majors. CUNY should 
+pair these investments with a systemwide effort to accelerate hiring and research processes, reducing delays that cost 
+departments strong candidates. At the same time, deeper partnerships with industry and philanthropy can help support 
+competitive research funding, start-up packages, and stronger connections to the workforce. Taken together, these actions 
+can help ensure that CUNY has the faculty capacity and industry alignment needed to prepare students for an increasingly  
+AI-driven economy.
+2
+Over the past decade, the technology sector has been one 
+of the most reliable engines of new middle- and high-wage 
+job growth in New York City—and CUNY has responded in 
+kind. Since 2016, CUNY has expanded its CS offerings,  
+adding new degree programs across multiple campuses as 
+student demand has surged.
+That demand reflects the powerful role CUNY plays as 
+the city’s primary engine of economic mobility. “Many of the 
+students we serve come from low-income backgrounds,” says 
+Ping Ji, chair of the CS department at Hunter College. “With 
+computing offering one of the largest and fastest-growing job 
+markets, computer science provides one of the most powerful 
+pathways to advancing CUNY's mission of social mobility.”
+But as the tech sector evolves, that pathway is becoming 
+more difficult to navigate. Entry-level tech hiring has dropped 
+sharply in recent years, and employers are raising expecta -
+tions for new hires. Students increasingly need not just foun-
+dational knowledge, but hands-on experience and the ability 
+to apply computing skills in real-world contexts—opportunities 
+that faculty are critical to providing.
+This report examines whether CUNY is positioned to 
+meet this moment, and what it will take to strengthen the 
+system’s faculty capacity in CS. Supported by a grant from 
+the Alfred P. Sloan Foundation, it draws on more than 75 
+interviews with CUNY leaders, department chairs, faculty, 
+students, tech industry leaders, higher education policy  
+experts, and leaders from other major public university  
+systems. The report also includes an extensive analysis of 
+CUNY data on enrollment, faculty hiring, course offerings, 
+budgets, and student outcomes. The report concludes with 
+seven concrete recommendations for strengthening CUNY’s 
+faculty capacity in CS to bolster student outcomes.
+For most CUNY students, gaining experience outside the 
+classroom is not a realistic option. More than half of CUNY 
+students are working while in school, and many juggle family 
+responsibilities alongside their studies. As a result, the class-
+room is often the only place where they can build the skills 
+needed to launch a career in tech. Faculty play a central role 
+in this process, shaping not only what students learn, but how 
+well they are prepared to enter the workforce.
+Students know this, and consistently turn to faculty as a 
+critical resource. While relatively few CUNY students engage 
+with formal career services or internships—for instance, just 
+12 percent report participating in a paid internship—all  
+students interact with faculty. And surveys show that students 
+trust faculty more than any other source of advice.2
+But across CUNY, the student experience—especially 
+in CS—is increasingly shaped by a shortage of faculty.
+At Hunter College, introductory CS courses regularly  
+enroll hundreds of students. One recent graduate, Oluebube 
+Onwuamaegbu, described taking a Python course with 750 
+students—so large it had to be taught online—followed by a 
+C++ course with 300 students. Even advanced courses often 
+enroll more than 100 students, leaving little opportunity for 
+interaction with instructors.
+“You can’t really excel in that kind of environment,”  
+Onwuamaegbu says. “There’s not really one-on-one time with 
+that professor.” Over time, she found it harder to stay engaged: 
+“If I feel like my professor doesn’t know me, I can’t ask ques-
+tions … I’m not going to want to engage any further.”
+With too few instructors to meet rising demand, many 
+faculty are teaching well above their expected course loads, 
+managing hundreds of students and struggling to provide 
+meaningful mentorship or career guidance outside the 
+classroom. Faculty cannot be required to teach above their 
+required course loads, but many do for several reasons:  
+CUNY grads are on the edge of the table. If you went to 
+MIT or Carnegie Mellon or an Ivy League school, you’re 
+going to be on the table. My students are on the very 
+edge—and when there’s a bad job market, they fall off.”
+— ELISE HARRIS, FACULTY DIRECTOR OF HUNTER COLLEGE’S DAEDALUS SCHOLAR PROGRAM 
+3
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+a sense of duty to students, the difficulty of finding adjuncts, 
+or the additional compensation for teaching extra classes. 
+At Lehman College, 6 out of 10 faculty members in the CS 
+department are currently teaching above their required 
+load; the department chair, whose role typically requires 
+teaching one course per year, is teaching eight. “No one is 
+forced to teach the extra classes for which they receive  
+adjunct pay,” says Brian Murphy, the chair. “However, it would 
+be very difficult to offer the students the courses they need 
+if they didn’t.”
+These pressures result not only from rising demand, 
+but also from what college administrators say are deeper 
+structural barriers to hiring and retaining faculty. “When we 
+do a search for professors, there’s dozens of people that we 
+could potentially hire,” says Murphy. “It’s just a matter of 
+we’re not fast enough, and we’re not offering enough money 
+sometimes.”
+While it is possible for CUNY to approve salaries above 
+base for new hires, CS departments have been reluctant to 
+do so out of a sense of fairness to senior faculty. However, 
+as the focus of a CS degree shifts from the theoretical to the 
+applied, departments may have to reconsider hiring above 
+base if they want to attract top candidates in applied CS, 
+where industry salaries pose stronger competition.
+These constraints are already affecting both learning 
+and career outcomes, and their consequences are especially 
+visible in today’s more challenging job market. According to 
+the Center for an Urban Future’s analysis of the U.S. Census 
+Bureau’s postsecondary employment outcomes data, 12 
+percent of CUNY students who earned a bachelor’s degree 
+in CS between 2019 and 2021 were working in retail or food 
+service one year after graduation. 3 And between 2019 and 
+2025, just over 40 percent of CUNY CS graduates were 
+working in a computing field one year after graduation.4
+“CUNY grads are on the edge of the table,” says Elise 
+Harris, faculty director of Hunter College’s Daedalus Scholar 
+Program. “If you went to MIT or Carnegie Mellon or an Ivy 
+League school, you’re going to be on the table. My students 
+are on the very edge—and when there’s a bad job market, 
+they fall off.”
+In response to both surging enrollment and these 
+emerging challenges, CUNY has taken important steps. In 
+2024, CUNY appointed an inaugural university dean for 
+technology and computer and information sciences to oversee 
+computing programs across the university. It has also  launched 
+several initiatives to strengthen faculty preparedness,  
+including the Faculty Fellows professional development  
+program, and grown the Practitioners-in-Residence Corps, 
+which brings industry professionals into the classroom. 
+Since 2016, CUNY has added five new CS degree programs 
+across four colleges. In 2024, the university received a  
+historic $75 million gift from the Simons Foundation to  
+advance research computing and AI and hire up to 25 new 
+faculty members. And CUNY recently launched Tech Futures, 
+a $5.3 million city investment in new AI degree programs and 
+experiential learning opportunities across 12 CUNY campuses.
+These efforts are promising, but they are not yet enough 
+to meet the scale of student demand or the pace of change 
+in the tech economy.
+Without new investment from city and state leaders, 
+faculty shortages are likely to persist, with consequences 
+that extend well beyond the classroom. Faculty who are 
+stretched thin have little time to organize extracurricular  
+programming, support research opportunities, or build part-
+nerships with employers. At Lehman College, a once-thriving 
+hackathon that connected students directly with companies 
+like Goldman Sachs and JPMorgan—often leading to on-  
+the-spot job offers—has been discontinued due to a lack of  
+faculty capacity.
+At the same time, the demands on faculty are evolving. 
+Students increasingly need exposure to applied computing 
+skills, industry practices, and emerging fields like AI. But many 
+faculty lack the time, resources, or industry experience to 
+adapt their courses accordingly, leaving gaps between what 
+students learn and what employers expect.
+Taken together, these challenges point to a central  
+constraint. Without enough faculty—and the right faculty—
+CUNY cannot fully deliver on its promise to serve as a path -
+way into computing careers.
+4
+EVEN AS OVERALL ENROLLMENT AT CUNY HAS DECLINED,  
+demand for CS has surged, creating a growing mismatch  
+between the number of students seeking CS degrees and 
+the faculty available to teach them.
+Between 2014 and 2024, the number of full-time CS 
+faculty increased by just 21 percent at senior colleges—and 
+declined by 22 percent at community colleges—even as  
+enrollment soared.
+Driven by an overwhelming demand from undergraduates, 
+campuses across CUNY have seen enormous growth in en-
+rollment in CS degree programs over the last decade—  
+including at Hunter College (501 percent growth), at John 
+Jay College of Criminal Justice (314 percent growth), and at 
+Queens College (197 percent growth). And student interest 
+isn’t exclusive to CUNY’s senior colleges. Community colleges 
+saw the largest increase in CS degrees completed, with 456 
+percent more degrees granted in 2024 than in 2014.5 
+Yet, “across all the campuses, there is a shortage  
+of faculty in computer science,” says Robert Domanski, 
+dean of academic innovation and outcomes at Hunter  
+College. The school has seen some of the largest growth in  
+CS students—from 285 in 2014 to 1,714 in 2024—yet over 
+that same period, it hired only seven new full-time  
+faculty. Counting both adjunct and full-time faculty, Hunter 
+College’s student-to-faculty ratio ballooned from 8:1 in 
+2014 to 31:1 in 2024.    
+The gap between students and faculty is growing across 
+nearly every CS department at the 18 CUNY colleges that 
+offer CS degrees. Over the past decade, only five colleges—
+City College, Lehman College, City Tech, Borough of Manhattan 
+Community College, and Guttman Community College—have 
+reduced their student-to-faculty ratios. At most campuses, 
+the ratio has increased significantly. At Baruch College, the 
+ratio nearly doubled from 11:1 to 23:1; at Brooklyn College, 
+Enrollment Is Surging—Faculty  
+Capacity Is Not Keeping Pace
+At CUNY, growth in computer science enrollment has far outpaced growth  
+in computer science faculty 
+In the last decade, enrollment in computer programs has skyrocketed, but the  
+number of faculty teaching in those programs has not grown at the same pace.
+ 
+               
+ 
+ 
+Source: Center for an Urban Future analysis of CUNY enrollment data and CUNY faculty data, 2014–2024.
+
+5
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+it rose from 17:1 to 32:1; and at Queens College, it more 
+than doubled from 16:1 to 40:1. This is almost three times 
+CUNY’s target student-to-faculty ratio for all STEM fields 
+(100 students per 7 faculty members, or roughly 14:1).
+CUNY’s limited faculty growth stands in stark contrast 
+to investments at peer institutions in New York and across 
+the country.
+  In fall 2025, the University of Central Florida’s 
+College of Engineering and Computer Science  
+broke a hiring record with the addition of  
+39 new faculty members.
+  In 2024, the University of Maryland hired 40  
+new faculty to support the school’s new Artificial 
+Intelligence Interdisciplinary Institute at Maryland. 
+  In 2022, the University of Albany, part of the State 
+University of New York (SUNY), hired 27 new faculty 
+members specializing in AI. 
+  NYU recently announced the formation of the 
+Courant Institute School of Mathematics, Computing, 
+and Data Science, which will link the two CS 
+departments in the university’s Tandon School of 
+Engineering and the former Courant Institute of 
+Mathematical Sciences—merging the theoretical 
+foundation at Courant with the practical applications 
+of Tandon, pooling resources, and allowing the school 
+to hire additional new faculty.
+At CUNY, faculty investment has not kept pace with surging 
+enrollment, and the consequences are already being felt by 
+students and faculty alike.
+At the five senior colleges where computer science enrollment has more than doubled in 
+the last decade, student-to-faculty ratios have ballooned 
+Since 2014, as department growth has failed to keep pace with enrollment, the number  
+of students per faculty member (counting both full-time and adjunct faculty) has exploded.
+ 
+               
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future analysis of CUNY enrollment data and CUNY faculty data, 2014–2024.
+
+6
+Students struggle with overcrowded 
+classrooms and limited options.
+One of the most immediate consequences of limited faculty 
+capacity is large class sizes, which make it harder for  
+students to learn and prepare for careers in tech.
+At CUNY, introductory CS courses are often large lec -
+tures with hundreds of students, leaving little opportunity 
+for hands-on learning or one-on-one engagement with  
+professors or peers.
+“It’s a problem,” says Domanski of Hunter College. 
+“Hunter College has over 2,000 CS majors, as well as  
+hundreds of additional students who enroll in various CS-  
+related classes. The shortage of CS faculty leads to the college 
+needing to run almost every CS class in a large lecture model. 
+While our faculty do a tremendous job of adjusting their 
+teaching to fit students’ needs as best they can, every single 
+one of our students is nevertheless directly impacted.”
+Limited faculty capacity also restricts access to the 
+elective courses students need to graduate and specialize 
+in high-demand areas. “Students literally need electives to 
+graduate and every single one is full,” says Raj Korpan, an 
+assistant professor of computer science at Hunter College. 
+In his view, a major reason for this problem is that CUNY 
+does not have enough faculty to teach the full range of 
+courses students need.
+As a result, many students are forced to learn critical skills 
+outside the classroom. Crosve Lucero, who landed a job at 
+an AI start-up, says he picked up most of the skills he now 
+uses at work through YouTube, personal projects, and  
+extracurricular programs like CUNY Tech Prep and CodePath. 
+While some students are able to supplement their 
+learning this way, that approach is far less viable for many 
+CUNY students, who are balancing coursework with jobs—
+often working 20 or more hours per week—and family  
+responsibilities. For these students, extracurricular learning 
+opportunities are not a reliable substitute for access to 
+courses during the academic day, and missing out on key 
+electives can mean falling behind on critical skills needed to 
+succeed in the job market.
+
+7
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+THE CHALLENGE AT CUNY IS NOT ONLY THE NUMBER OF FACULTY, 
+but whether they have the experience and expertise needed 
+to prepare students for today’s tech economy. In a labor market 
+where students increasingly need applied skills and real-world 
+experience to compete, CUNY faces a growing gap between 
+what many faculty can offer and what employers expect.
+Faculty with industry experience remain the minority at 
+CUNY. A Center for an Urban Future analysis of four colleges—
+Queens College, Borough of Manhattan Community College, 
+Brooklyn College, and Lehman College—found that only 19 of 
+the 79 full-time CS faculty currently at those colleges had 
+prior industry experience before joining CUNY. Just over half—
+43 out of 79—work on applied tech subjects, and only 15 of 
+those 43 have been hired since 2020, even as AI and other 
+applied technologies have rapidly reshaped the skills students 
+need to compete.
+Students notice the difference. Miguel Luna, who grad-
+uated from City College in 2025, says only a small share of 
+his professors had real-world experience—but those who did 
+had an outsized impact. One course taught by a professor 
+with government and defense-sector experience stood out 
+for its focus on technical interviews, public speaking, and 
+the day-to-day realities of software engineering.
+“[That professor] definitely showed that he cared a bit 
+more about our futures, and he wanted to make sure we 
+knew what we were getting into in our career,” Luna says. By 
+comparison, he felt, some other professors just “delivered 
+the information” on the syllabus. 
+Faculty constraints limit 
+alignment with workforce needs.
+Students consistently report a disconnect between what 
+they are taught and what employers expect. Many say that 
+courses prioritize academic concepts over the applied skills 
+needed to succeed in today’s workforce.
+For example, most CUNY campuses emphasize C++, a 
+language valued for teaching programming fundamentals, 
+while many other programs outside the system focus on  
+Python and Java—languages that are more widely used in 
+the workplace and easier to apply to emerging technologies 
+and tools. Aankit Patel, CUNY’s university dean for technology 
+and computer and information sciences, estimates that only 
+about one-fifth of CS programs nationwide still teach primarily 
+in C++, and that CUNY accounts for a significant share of 
+that group.
+There are valid reasons for this approach. C++ provides 
+fine-grained control and helps students build a strong  
+foundation in computing, and it remains valuable in certain 
+fields. But for many students—especially those seeking roles 
+at start-ups or in applied settings—the emphasis on C++ can 
+create a mismatch with employer expectations.
+CUNY graduate Onwuamaegbu found that her knowl -
+edge of C++ often put her at a disadvantage in job inter -
+views, where companies struggled to find interviewers famil-
+iar with the language. Though she ultimately secured a role 
+at Amazon, she says C++ was not among the skills that 
+helped her get there: “I mastered this skill, and it’s never 
+going to be used again.”
+But the issue extends beyond programming languages. 
+More broadly, many students report that their coursework 
+emphasizes theory over applied skills and career preparation.
+“We really emphasize the theory and foundations, and 
+much less the practical, software engineering, software  
+development side of things,” says Korpan of Hunter College. 
+“So, students often don’t really get exposed to software  
+development until they’re seniors.” That late exposure  
+can leave students at a disadvantage when competing for 
+internships and entry-level roles.
+Luna, the recent City College graduate, says he did not 
+feel prepared to enter the job market. “A lot of the experi -
+ence I had with CUNY faculty, it’s not really about preparing 
+you for your job, it’s more about just getting you through your 
+classes,” he says.
+CUNY has made important progress in expanding  
+career-connected supports, in part through city-backed  
+initiatives like the Inclusive Economy Initiative, which has  
+enabled the university to embed hybrid academic-career  
+advisors in nearly 40 academic departments. These roles 
+are helping reduce student-to-advisor ratios and, critically, 
+deepen employer engagement within departments.
+But these efforts are not yet reaching all students. 
+Funding remains insufficient to embed these roles across 
+every academic department or college, including those  
+with large and growing CS programs. And for many CUNY 
+students—who are balancing coursework with jobs and family 
+responsibilities—standalone advising is not a reliable substi-
+The Need for Faculty Aligned  
+with Today’s Tech Economy
+
+8
+tute for career-connected learning built into the classroom.
+CUNY is already making progress toward boosting  
+career-classroom connections. The CUNY Beyond initiative, 
+launched in October 2025, aims to integrate career educa-
+tion and work experience into every degree program by 
+2030. For CS, already one of the most credit-intensive  
+majors at CUNY, this effort should mean streamlining existing 
+requirements to fit this need rather than simply adding new 
+courses, which will also require faculty coordination.
+In tandem with these initiatives, what is clear is that if 
+students are to be prepared to compete in today’s work -
+force, faculty will need to play a larger role in integrating 
+career-connected learning into the classroom.
+“From my experience, faculty tend to focus on technical 
+skills and leave the rest to student services,” says Craig  
+von Collenberg, formerly the skills to jobs lead for Amazon 
+Web Services. “But as AI advances and begins to replicate 
+some of those technical skills, it’s the human-centered skills 
+that will set students apart.”
+Building AI capacity across 
+departments will require  
+expanding and upskilling faculty.
+As AI reshapes the economy, CUNY faces a growing chal -
+lenge: ensuring that all students, not just CS majors, gain 
+the AI skills they will need to compete in the workforce. But 
+doing so will require significantly expanding AI capacity 
+across the system’s faculty.
+“The biggest impact of generative AI is on our computer 
+science programs,” says Dean Patel. “And thus far, we have 
+only begun to respond.”
+Even as entry-level tech hiring has declined, demand 
+for AI skills across industries is rising. But access to AI learning 
+at CUNY remains extremely limited. In the fall 2025 term, just 
+eight AI or machine learning courses were offered across 
+CUNY, with a total of 255 seats—meaning the majority of 
+campuses had no courses offered and only a small share of 
+CS majors had the opportunity to deepen their AI skills in 
+the classroom.
+Access is further constrained by course prerequisites. 
+The median number of prerequisites required to enroll in an 
+AI or machine learning course at CUNY is six, often including 
+advanced CS courses.6 By comparison, at Columbia Univer-
+sity, even the most advanced AI courses typically require 
+just three prerequisites, often with greater flexibility.
+As a result, many students are effectively locked out of 
+in-class AI learning. “There’s no reason you need to have 
+taken advanced [economics] to take the AI in business 
+course I teach,” says Theresa Fesinstine, a human resources 
+practitioner who teaches as an adjunct at City College. She 
+notes that students frequently express interest in her course 
+but are unable to enroll due to prerequisite requirements 
+that are beyond her control.
+Expanding access to AI will require more than just new 
+programs—it will require building faculty capacity. With more 
+faculty teaching, more courses and prerequisite pathways 
+can be offered, enabling more students to access these  
+opportunities.
+At the same time, CUNY will need to invest in develop -
+ing faculty expertise in AI. For AI skills to reach all students, 
+they cannot be confined to a small number of electives or 
+extracurricular programs. Instead, they will need to be inte-
+grated into coursework across departments, a shift that will 
+require both hiring faculty with AI experience and investing 
+in professional development so current faculty can adapt. 
+
+9
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+CUNY’S ABILITY TO HIRE AND RETAIN THE CS FACULTY IT 
+needs is constrained by several structural barriers, including 
+fewer faculty positions; uncompetitive salaries; limited research 
+support; and a slow, bureaucratic hiring process. Together, 
+these challenges make it difficult for CUNY to compete with 
+peer institutions and private industry for top talent.
+In recent years, CUNY has faced multiple rounds of 
+budget cuts and hiring freezes, driven in part by declining 
+post-pandemic enrollment and successive city cuts through 
+Mayor Eric Adams’s Programs to Eliminate the Gap (PEGs), 
+which reduced CUNY’s budget by $41.3 million annually 
+from 2023 to 2026.7 
+Although enrollment is beginning to recover and PEG  
+funding was restored in 2025, the effects of these cuts  
+persist. CUNY remains down roughly 500 full-time instruc -
+tional positions compared to 2021, limiting its ability to  
+expand faculty capacity, even in high-demand fields like CS.8   
+Rebuilding faculty numbers will take time, especially in 
+fields like CS, where departments were already struggling  
+to keep pace with enrollment growth before the cuts. And 
+while New York City itself can be an attraction for potential 
+faculty, that advantage only goes so far in the face of deeper 
+structural challenges.  
+Among peer institutions, CUNY 
+offers the lowest salaries for  
+CS faculty—a major barrier to 
+recruitment and retention.
+While many potential CS faculty are drawn to CUNY for the 
+chance to live in New York City and are excited by CUNY’s 
+mission of social mobility, the system’s low salaries make it 
+highly challenging for many prospective faculty to accept  
+an offer. This problem exists across the university, but it’s 
+especially acute in CS, where CUNY is competing with both 
+better-funded universities and highly paid private sector jobs.      
+Barriers to Hiring  
+and Retention
+In the search for computer science faculty, other NYC schools are seriously  
+outcompeting CUNY. 
+Between 2015 and 2025, CUNY listed more job openings for CS faculty  
+than any other university in the city, but offered the lowest salary.
+ 
+               
+ 
+ 
+Source: Center for an Urban Future analysis of job posting data from Lightcast.
+
+10
+“One of our greatest challenges is competing for top 
+computer science faculty in a highly competitive market,” 
+says Hunter’s Ji. “Competitive compensation and research 
+resource supports are therefore critical. While many people 
+are drawn to our mission and to New York City, those factors 
+alone are not enough.” 
+A Center for an Urban Future analysis of Lightcast job 
+postings data finds that between September 2015 and  
+September 2025, CUNY posted more openings for CS faculty 
+than any comparable New York City institution (71 postings), 
+but offered the lowest median advertised annual salary  
+at $79,104.9 
+In part, this mismatch stems from fixed salary structures 
+that treat all academic fields equally. While this approach 
+may be equitable from an academic perspective, it is in -
+creasingly out of step with labor market realities—especially 
+in fields like CS, where other colleges have the flexibility to 
+offer higher salaries to stay competitive with private industry.  
+“The private colleges, they pay less for English professors 
+than we do,” says Murphy of Lehman College. “But they pay 
+a lot more for computer science professors than we do.”
+CUNY’s benefits package does add meaningful value 
+beyond base salary, including health insurance and pension 
+benefits. But for prospective CS faculty weighing competing 
+offers, those benefits may not be enough to overcome a 
+large salary gap—especially when peer institutions can offer 
+higher salaries, stronger research support, and other bene-
+fits of their own. 
+The gap is even more pronounced when compared to 
+private industry. In the New York metro area, the median 
+advertised salary for CUNY CS faculty in 2024 was roughly 
+$79,000—far below salaries for computer and information 
+research scientists ($176,896), software developers 
+($150,272), and database architects ($145,152).10
+The consequences of this gap are 
+evident in recent hiring searches.
+That gap in salaries has had major repercussions for CUNY’s 
+CS departments. In the spring of 2024, Lehman College lost 
+a candidate to Google, which was able to offer nearly four 
+For full-time computer science faculty, CUNY’s offered pay is well below the  
+10th percentile for salaries at comparable institutions nationwide 
+In 2024, job postings for full-time CS faculty at CUNY advertised salaries that were 
+significantly below the 10th percentile for starting salaries offered by CS departments  
+at public universities in large U.S. cities.
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Center for an Urban Future analysis of job posting data from Lightcast and faculty salaries data in the Computer 
+Research Association’s Taulbee Survey 2024.
+
+11
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+times the salary. Brian Murphy recalls another candidate 
+who was weighing a $99,000 offer from Lehman College 
+against a $130,000 offer from a private university. Although 
+the candidate was strongly considering Lehman, the private 
+university raised their offer to $150,000. There was no 
+competing after that. 
+Low salaries also persist beyond initial hiring, making 
+retention equally difficult. Even the highest-paid CUNY faculty 
+fall near or below the 10th percentile of salaries at comparable 
+institutions nationwide.11 In 2024, the best-paid assistant 
+professor at CUNY would have made $105,593—below the 
+10th percentile ($109,241) of assistant professor salaries 
+at public universities in large U.S. cities overall. For an  
+assistant professor on the lowest end of the pay range  
+—$55,450 a year—that disparity is even starker.12
+Limited research support and 
+start-up funding make hiring  
+CS faculty harder.
+In addition to low salaries, CUNY offers limited start-up re -
+search support—another major disadvantage in recruiting 
+and retaining faculty.
+At many institutions, start-up packages and grant oppor-
+tunities to help faculty establish labs and begin research help 
+offset lower salaries and provide faculty with the resources 
+needed to begin their work at a new institution. At CUNY, how-
+ever, such support is often minimal or unavailable.  
+This lack of support shapes hiring decisions. “We’ve 
+been told in the past, ‘There’s no money for start-up, so you 
+need to find people who don’t need lots of equipment,’” 
+says Lehman’s Murphy. Even when faculty do manage to se-
+cure start-up packages, they are often a fraction of what is 
+offered by other institutions. 
+When Korpan was hired as an assistant professor of 
+computer science at Hunter College in 2023, he was told to 
+budget for a $100,000 start-up package. But upon  
+appointment, he was told the funding had already been  
+allocated elsewhere. In the end, Hunter College was able to 
+provide just $20,000—far short of what he needed for his 
+research in human-robot interaction, where a single robot 
+can cost up to $40,000.
+Limited research funding also affects faculty advance -
+ment. Without adequate resources, faculty may struggle to 
+meet expectations for tenure and promotion or to compete 
+for external grants. As Murphy explains, grant-making orga-
+nizations often look for evidence of prior research capacity, 
+something that is difficult to demonstrate without access to 
+equipment or funding. 
+“When you’re looking for a grant, [the] National Science 
+Foundation and other agencies want to know, what does 
+your lab look like?” Murphy says. “Your lab is a laptop. That’s 
+not going to impress them much.” 
+Taken together, low salaries and limited research support 
+make it difficult for CUNY to compete with other  
+academic institutions—and even more so with private industry. 
+Even faculty who believe deeply in CUNY’s mission can find 
+it hard to turn down those opportunities.
+Michael Mandel joined Brooklyn College as an assistant 
+professor in 2015 but left in 2020 to join Meta’s Reality Labs. 
+While he valued teaching at CUNY and serving its students, 
+he found it far easier to do his work in industry. “If you could 
+find the right person at CUNY, they would tell you how to do 
+things,” he says. “But if you didn’t have that person, it made 
+it very difficult to achieve what you wanted to achieve.”
+CUNY’s administrative burdens 
+make it challenging to hire and 
+retain faculty.
+CUNY’s administrative processes often make it difficult to 
+move quickly—even when faculty lines are open, candidates 
+are available, and departments are ready to hire. Even when 
+searches are approved, delays in the hiring process can  
+significantly slow timelines and shrink the pool of qualified 
+applicants.
+At Lehman College, a recent faculty search illustrates 
+the challenge. The CS department had two open positions, 
+and planned to post positions in May and begin interviews 
+in October. But the postings—which had to move through 
+multiple layers of administrative review—did not go live until 
+September. Offers were ultimately delayed until the follow -
+ing April, by which point most qualified candidates had al -
+ready accepted other positions, many of them by January.
+These delays are a recurring issue, resulting in a candi-
+date pool that has all but vanished by the time departments 
+are finally ready to hire. In a competitive hiring market, tim-
+ing is critical. Already hindered by low salaries, hiring early is 
+one of the few advantages CUNY has—but protracted search 
+procedures often erase even that narrow window.
+Administrative barriers can also derail hiring even when 
+departments identify strong candidates and make offers.
+At Lehman College, the CS department conducted a 
+search for a new faculty member under the administration’s 
+assurance that it could offer start-up funding, and extended 
+offers to two AI industry professionals looking to transition 
+into academia. Hiring both candidates would have signifi -
+cantly strengthened the department’s capacity in a high-de-
+mand field. The candidates requested $80,000 and 
+12
+$40,000 in start-up funding, well below the roughly $250,000 
+median start-up package offered by CS departments at public 
+universities in 2021.13
+But when the department brought the offers to the  
+administration, “the gears just ground to a halt on those 
+numbers,” says Murphy, and the hiring process paused for 
+more than two months while the administration determined 
+whether it could make good on the earlier commitment.
+In the end, Lehman College lost both candidates. Murphy 
+recalls one of them saying she would have liked to teach, 
+but was concerned about what the research process would 
+be like once she arrived if the university could not make a 
+decision on $80,000 after more than a month and a half.
+Even when faculty accept offers and secure research 
+funding, administrative barriers can make it overwhelmingly 
+difficult to access those resources.
+After Korpan received less start-up funding than ex -
+pected, his department chair encouraged him to apply for  
+additional support through CUNY’s Graduate Research 
+Technology Initiative, which allows departments to request 
+up to $50,000 in equipment funding. He was  
+approved—but “it took them so long to process my request 
+that, in that time, the manufacturer stopped selling the 
+thing that I was trying to buy,” he says.
+After six months, CUNY told him he would have to restart 
+the process entirely. Korpan ultimately hired a student  
+assistant just to manage the administrative requirements.  
+Although he has purchased computers and two robots, he still 
+has not been able to meet all the research needs outlined in 
+his start-up negotiations, including securing lab space.
+“You can give us money,” he says, “but then where’s 
+the support to actually be able to do things with it?”
+State policies and approval 
+processes limit CUNY’s ability  
+to adapt—and make it harder to 
+attract and support faculty.
+Unlike private institutions, CUNY relies on New York State 
+funding for a majority of its operating budget, and its opera-
+tions are subject to statewide rules governing spending,  
+procurement, and academic programs. While these policies 
+are designed to ensure accountability, they can also limit 
+CUNY’s ability to respond quickly to technological change—
+particularly in fast-moving fields like CS and AI—and make it 
+more difficult to attract and support faculty working at the 
+cutting edge.
+One example is New York State’s May 2025 policy on AI 
+procurement, which restricts the types of AI tools that can 
+be used with New York State funds. The policy is designed to 
+address legitimate concerns about data security, but in 
+practice, it often assumes that all AI use involves sensitive 
+data—limiting faculty’s ability to experiment with widely 
+used, open AI tools even for non-sensitive applications. As  
+a result, some faculty report being unable to fully deliver  
+on innovation grants, or resorting to personal accounts to 
+access tools that are standard at other universities. These 
+constraints not only slow innovation, but can discourage 
+faculty from coming to or staying at CUNY.
+State approval processes can also make it difficult to 
+update academic programs in response to changing  
+workforce needs. CUNY senior leaders say that changing an 
+academic program is a complicated, bureaucratic process, 
+one in which rigidity suppresses updates necessary to keep 
+pace with emerging technologies and trends. At a university 
+where faculty are central to aligning education with economic 
+opportunity, these barriers can limit both program respon -
+siveness and the ability to recruit faculty eager to innovate.
+Faculty incentives and promotion 
+structures can discourage  
+innovation—and weaken retention.
+At the same time, internal policies related to tenure and pro-
+motion can make it more difficult for faculty to adapt their 
+teaching and research to a rapidly evolving tech landscape. 
+Faculty who want to go beyond traditional coursework—by 
+developing interdisciplinary programs, collaborating across 
+departments, or integrating applied and industry-facing 
+work—often find that these efforts are not fully recognized in 
+promotion decisions.
+In CUNY’s CS departments, criteria for tenure and  
+promotion are limited to what faculty do within a depart -
+ment, including teaching and publication, with little reward 
+for external collaboration or work outside the department. 
+As a result, faculty have fewer incentives to pursue cross-dis-
+ciplinary work or invest time in applied, career-connected 
+learning, even as fields like AI increasingly demand exactly 
+those approaches.
+These dynamics do not prevent innovation, but they can 
+make it harder to sustain—and can contribute to frustration 
+among faculty who are eager to evolve their teaching and 
+research. Over time, this can become a retention challenge, 
+as faculty weigh whether they have the support and incen -
+tives needed to do their best work at CUNY.
+13
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+WHILE SIGNIFICANT BARRIERS TO HIRING AND RETENTION  
+remain, CUNY has also developed several promising models 
+that demonstrate how the university can strengthen its  
+faculty capacity and better align instruction with workforce 
+needs. These initiatives—ranging from bringing industry  
+professionals into the classroom to supporting faculty  
+development and embedding career preparation into course-
+work—offer a blueprint for how CUNY can scale what works.
+Practitioners-in-Residence Corps
+One of the most effective ways CUNY has addressed gaps in 
+faculty capacity and industry alignment is through the  
+Practitioners-in-Residence Corps (PiRC). Formerly known as 
+Tech-in-Residence, the program brings industry profession-
+als into the classroom to teach students the skills needed in 
+today’s workforce.
+The benefits for students are clear: According to CUNY, 
+students who took at least one PiRC course were twice as 
+likely to secure a job offer. PiRC courses also support  
+departments by reducing the burden on full-time faculty 
+while modernizing course content. Hunter’s Rob Domanski 
+says the program has helped transform existing courses by 
+“bringing in practitioners who are aligning their teaching  
+methods and assignments with what students will likely  
+encounter in the workplace.”
+In some cases, practitioners collaborate directly with  
+full-time faculty to update a curriculum. At Baruch College, a  
+software engineer co-taught a required data warehousing 
+course alongside a professor, aligning assignments with indus-
+try standards and incorporating tools used in her company.
+PiRC instructors also serve as a critical bridge between 
+academia and industry. At Baruch College, that same prac -
+titioner hosted recurring virtual panels with data analysts, data 
+scientists, and software engineers from her company, giving 
+students direct exposure to career pathways and professional 
+expectations. By embedding this exposure into coursework, 
+PiRC strengthens students’ industry readiness without  
+requiring departments to overextend existing faculty.
+Since its launch in 2017, the program has brought in 
+more than 100 instructors from 65 companies, taught over 
+400 courses and sections across 12 CUNY colleges, and 
+provided more than 6,000 students with semester-long  
+exposure to industry skills and knowledge. In today’s tech 
+job market, where this exposure is essential, programs like 
+PiRC demonstrate how bringing industry expertise directly 
+into the classroom can help close gaps in both faculty  
+capacity and workforce alignment—and suggest a scalable 
+model for strengthening CUNY’s CS programs.
+Faculty Fellows
+CUNY has also begun investing in faculty development as a 
+way to strengthen instructional capacity and better connect 
+coursework to emerging fields. Programs like the Career 
+Success Fellows and Faculty Fellows in the Office of  
+Promising Models  
+and Opportunities at CUNY
+FACULTY FELLOWS IN CS-CONNECTED FIELDS
+Dr. Katie Cumiskey, a professor of psychology at the College of Staten Island, is the AI Development Fellow in the 
+Office of the University Dean for Technology, Computer, and Information Sciences. She is the founding director 
+of the CUNY Public Interest Technology Lab.
+Dr. Naresh Devineni, a professor of civil engineering at City College, is a Research Development Fellow. He is the 
+creator of the Data Analysis Classroom, which makes statistics and data science accessible to learners of all back-
+grounds. He also uses statistical and machine learning methods in his study of hydroclimate systems.
+Dr. Sean S. Smith, an associate professor of accounting at Lehman College, is a CUNY Online Faculty Fellow. He 
+works with cryptocurrency and AI and serves on the advisory board of the Wall Street Blockchain Alliance.
+14
+Academic Affairs provide faculty with the opportunity to  
+undertake innovative projects while integrating career-con -
+nected learning into their teaching.
+Fellowships allow faculty to pursue initiatives that  
+individual campuses may not be able to support on their 
+own, and help position CUNY as a site of innovation in New 
+York’s tech ecosystem. For example, Katie Cumiskey, a  
+professor of psychology at the College of Staten Island,  
+received a Fellowship in AI Development that enabled her to 
+expand the work of her Public Interest Technology (PIT) Lab 
+beyond campus, including organizing an 11-day “NYC PIT 
+Pop-Up” in a storefront at the Oculus, where students and 
+collaborators showcased 42 technology projects. Since that 
+first pop-up, the initiative has continued hosting additional  
+pop-ups and many more projects, extending CUNY’s pres -
+ence in the city’s broader tech ecosystem.
+Since launching in 2021, the program has grown from 
+supporting 1 fellow each year to 14, with 26 faculty members 
+having participated to date. CUNY has also begun integrating 
+technology into the program, including the creation of a 
+fellowship within the Office of the University Dean for  
+Technology, Computer, and Information Sciences.
+However, participation from CS faculty remains limited. 
+Expanding these efforts—particularly by bringing more CS  
+faculty into fellowship programs—could help CUNY build  
+internal capacity in high-demand areas like AI and data  
+science, while supporting faculty in adapting their teaching 
+to a rapidly changing economy.
+Career-Infused Degree Maps
+One of CUNY’s most effective tools for integrating career 
+preparation into the classroom has been the Career-Infused 
+Degree Maps, which help faculty embed career-connected 
+learning into their teaching.
+Originally developed in 2020 at the College of Staten 
+Island, the maps pair academic coursework with key career 
+milestones, giving students a clear road map for building 
+skills and experience throughout their degree. The results 
+have been significant: In the three years after implementation, 
+CS students participated in 43 percent more internships, 
+secured 144 percent more full-time jobs after graduating, 
+and saw starting salaries increase by 34 percent.
+While the maps have improved outcomes for students, 
+they have also proven valuable for faculty. “Faculty aren’t 
+career counselors,” says Kristi Brescia, an advisement  
+specialist at CUNY who developed the maps, though students 
+often turn to their professors for career guidance. In those 
+moments, “the map is a nice tool for [faculty], that they can 
+just refer to and say, ‘Did you do this yet?’”
+Beyond answering student questions, the maps have 
+helped faculty incorporate career preparation directly into 
+their courses, from dedicating time to resume-building and 
+project-based learning to bringing industry professionals 
+into the classroom. One faculty member began using job 
+simulation software to assign coursework aligned with  
+real-world tasks.
+By making career milestones visible and actionable, 
+the maps create a structure that enables faculty to align 
+their teaching with workforce expectations without signifi -
+cantly increasing their workload. As Brescia notes, “What 
+changed is a chairperson and faculty who believed in it.”
+Following early success, the program has begun to scale. 
+With support from a $700,000 grant from the Robin Hood 
+Foundation, Career-Infused Degree Maps have expanded to 
+179 degree programs across nine CUNY colleges, with a 
+goal of reaching every undergraduate program by 2030.14
+MARTIN S. SPERGEL INITIATIVE IN COMPUTATIONAL SCIENCES
+Perhaps the clearest example of what meaningful investment in faculty capacity can look like is the Martin S. Spergel 
+Initiative in Computational Sciences.
+Announced in 2024, the initiative is supported by a $75 million grant from the Simons Foundation, including 
+$50 million dedicated to bolstering CUNY’s research capacity in the computational sciences.15
+The initiative will fund the hiring of 25 new faculty members whose work combines computational sciences or 
+AI with fields such as biomedical research, public health, urban planning, astrophysics, and photonics. These hires 
+will teach in a new M.S. in Computational Science at the CUNY Graduate Center.
+Crucially, the grant covers both salary and start-up funding for the first five years, addressing two of the most 
+significant barriers to hiring identified in this report. By enabling faculty to conduct cutting-edge research and en -
+gage students in hands-on work, the initiative represents a comprehensive investment in both faculty capacity and 
+student opportunity.
+While the 25 new faculty positions are not sufficient to meet systemwide demand, the initiative demonstrates 
+the scale and type of investment required to meaningfully expand CUNY’s capacity in emerging fields—and under-
+scores the central role faculty play in preparing students for an AI-driven economy. Scaling this kind of faculty  
+investment to serve undergraduates would be a meaningful step in the right direction.
+15
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+NO OTHER INSTITUTION PLAYS A MORE IMPORTANT ROLE FOR LOW-INCOME NEW YORKERS TO ACCESS HIGH-PAYING  
+jobs in tech than CUNY. But that economic engine is at threat of stalling as the path to those jobs has become less clear-cut. 
+CUNY grads are increasingly facing stiffer competition from grads of other New York City educational institutions, not to 
+mention the increasing pool of laid-off New Yorkers with years of work experience. 
+While the city and CUNY will have to find multiple ways to address the challenges facing its CS students, one of their 
+core objectives should be to strengthen CUNY’s CS faculty, who remain the principal resource in many students’ journeys 
+towards a tech career. 
+Our recommendations offer ways CUNY can ensure it has enough—and the right—faculty to prepare its students for the 
+job market of the future. 
+1. EXPAND FACULTY CAPACITY IN HIGH-DEMAND FIELDS, STARTING WITH CS.
+CUNY should establish a clear, systemwide plan to rebuild and expand its faculty—particularly in high-demand fields like 
+CS—after several years of contraction. The university remains down roughly 500 full-time faculty positions compared to 
+2021, and in CS, losses in part-time instructors have further reduced instructional capacity. At the same time, many facul-
+ty are already stretched thin, teaching well above expected course loads—sometimes managing hundreds of students or 
+taking on multiple additional courses. Without adding faculty, these conditions will continue to undermine both student 
+outcomes and long-term faculty retention.
+To reverse this trend, CUNY should set explicit multiyear hiring targets tied to enrollment growth, course demand, and 
+workforce needs, beginning with CS and adjacent computing fields. This plan should identify how many new faculty lines are 
+needed, where they are most urgently needed, and what mix of expertise is required—from AI and cybersecurity to  
+applied software development. In addition, CUNY should strengthen its pipeline into faculty roles by expanding teaching 
+fellowships, creating clearer pathways from adjunct to full-time positions, and cultivating future instructors from its own 
+graduate programs. Expanding CUNY’s capacity to produce PhDs in CS and related fields—particularly in applied and inter-
+disciplinary areas—will also be essential to building a more sustainable, long-term pipeline of faculty.
+While it is important that hiring remains agile at the department level, leaders could consider the strategic  
+approach of cluster hiring, bringing on a set of faculty from different disciplines but with complementary skills as part 
+of one cohort. Cluster-hired faculty could work in their individual departments but also collaborate with each other, boosting 
+faculty capacity to prepare students for increasingly interdisciplinary high-demand fields. CUNY could begin with an “AI  
+cohort,” hiring a cluster of faculty with AI skills across CS, finance, medicine, digital humanities, and other fields.
+2. INCREASE CITY FUNDING FOR FACULTY AND MODERNIZE STATE FUNDING FORMULAS TO REFLECT THE HIGHER 
+COST OF EDUCATING CS STUDENTS.
+Restoring faculty capacity will require new investment, and both the city and the state have a role to play. While New York 
+State has recently increased funding for CUNY, its existing funding formulas do not adequately account for the higher cost 
+of educating students in fields like CS, which require smaller class sizes, specialized faculty, lab space, and computing  
+infrastructure. Treating all majors equally in per-student funding puts high-cost, high-demand programs like CS at a  
+structural disadvantage.
+The city should follow the state’s lead by increasing its investment and earmarking new funding specifically for faculty 
+hiring in high-demand fields. As a starting point, New York City should commit at least $10 million annually to support  
+new faculty lines in CS and related disciplines—enough to begin reversing recent losses and expanding capacity in the  
+ highest-demand programs. At the same time, state leaders should update funding formulas to better reflect program costs, 
+ensuring that CUNY has the resources needed to sustain and grow high-opportunity programs that are critical to the state 
+and city economy.
+Recommendations 
+7 Ideas for Strengthening  
+CUNY’s Computer Science Faculty 
+16
+3. LAUNCH A CUNY FACULTY HIRING ACCELERATION INITIATIVE TO MODERNIZE HIRING AND RESEARCH PROCESSES.
+Across CUNY, departments identified excessive bureaucracy as one of the most significant barriers to hiring and retaining 
+faculty. In a competitive market where salaries and start-up packages already lag, speed is one of the few advantages CUNY 
+can realistically leverage, but current processes routinely undermine it. Job postings are often delayed by months, offers are 
+approved too late in the hiring cycle, and decisions on start-up funding can stall long enough that candidates accept  
+positions elsewhere. Even when faculty are successfully hired, slow and fragmented procurement systems can delay access 
+to research equipment for months, limiting productivity and undermining recruitment.
+CUNY should launch a “Faculty Hiring Acceleration Initiative” to identify and reduce these bottlenecks in both hiring and 
+research processes. Within a defined timeframe, the university should map each step of the hiring and start-up approval 
+process; establish target timelines for posting positions, making offers, and approving funding; and assign clear responsibility 
+for meeting those benchmarks at both the campus and system levels. The initiative should also streamline research  
+procurement and provide administrative support to help faculty access start-up funds and equipment more quickly. The 
+goal should be a measurable reduction in time-to-hire and faster activation of research resources, ensuring that existing 
+investments translate into successful recruitment, retention, and research productivity.
+4. MAKE FACULTY CAPACITY CENTRAL TO CUNY’S AI STRATEGY AND EXPAND APPLIED AI EXPERTISE ACROSS THE SYSTEM.
+As demand for AI skills grows across industries, CUNY has an opportunity to lead in preparing students for an AI-driven 
+economy. The university has already secured significant funding, including a $75 million grant from the Simons Foundation, 
+and launched efforts to integrate AI across the curriculum. But these efforts will fall short without sufficient faculty capacity— 
+particularly faculty with applied AI experience who can translate theory into real-world applications.
+CUNY should make faculty hiring and development a central pillar of its AI strategy. This includes recruiting new faculty 
+with applied AI expertise, expanding professional development so existing faculty can integrate AI into their teaching, and 
+ensuring that AI instruction reaches students across disciplines—from healthcare and business to urban planning and  
+engineering. Aligning AI investments with faculty capacity will be essential to ensuring that “AI across the curriculum” becomes 
+a reality rather than an aspiration. 
+The state also has a role to play in expanding CUNY’s capacity for AI innovation. State procurement policy currently 
+blocks CUNY faculty from doing research with cutting-edge open AI tools. New York State should follow New York City’s lead in 
+adopting challenge-based procurement, which would allow CUNY to work with smaller, nimbler vendors in bringing emerging 
+AI technologies into the classroom. 
+To encourage AI innovation, CUNY should also consider adapting its tenure and promotion guidelines to consider work 
+done outside the traditional scope of a department’s responsibilities, including work done cross-departmentally and faculty 
+efforts to integrate innovative technology into teaching and learning.
+5. CREATE A “CS@CUNY FACULTY INVESTMENT FUND” TO OFFSET SALARY CONSTRAINTS AND STRENGTHEN RECRUITMENT.
+CUNY faces a significant challenge in recruiting and retaining CS faculty due to uncompetitive salaries, which are  
+constrained in part by systemwide pay structures and pay bands. While raising salaries across the board may be difficult 
+in the near term, strengthening research support—particularly through start-up packages—offers a practical way to  
+improve competitiveness.
+CUNY should establish a “CS@CUNY Faculty Investment Fund,” supported through a combination of public funding, 
+philanthropy, and industry partnerships, to provide competitive start-up packages and research support. In 2021, the  
+median start-up package for CS faculty at public universities was approximately $250,000, typically deployed over several 
+years. A targeted fund of roughly $5 million over three years could enable departments to offer more competitive packages, 
+helping attract and retain faculty in high-demand areas while supporting research productivity and grant competitiveness.
+17
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+6. EXPAND THE PIRC AND LEVERAGE PRIVATE-SECTOR PARTNERSHIPS TO SCALE IMPACT.
+The PiRC has demonstrated the value of bringing industry expertise into the classroom, but its reach remains limited.  
+At the same time, New York City’s tech sector represents a major untapped resource for strengthening instruction,  
+expanding career exposure, and supporting faculty capacity—especially given the city’s constrained fiscal outlook.
+CUNY, in partnership with city leaders, should work to recruit private-sector and philanthropic partners to expand PiRC 
+and similar initiatives. Pairing practitioners with faculty in high-enrollment courses would extend industry-relevant instruction 
+to more students, strengthen curriculum alignment, and allow faculty to focus more on advanced coursework and mentorship. 
+Deeper engagement from industry will be essential to scaling these efforts and ensuring that students gain both the skills 
+and connections needed to succeed.
+7. LAUNCH “CUNY INDUSTRY FELLOWS” TO DEEPEN FACULTY–INDUSTRY COLLABORATION.
+Dual appointments—where faculty split time between academia and industry—offer a promising way to strengthen connections 
+between CUNY and the tech sector. These models are becoming increasingly common nationally: As of 2024, approximately 
+10 percent of CS faculty held dual appointments, up from about 6 percent a decade earlier. These appointments can help 
+faculty stay current with industry practices while bringing real-world experience directly into the classroom, particularly in 
+rapidly evolving fields like AI and data engineering.
+CUNY should pilot a “CUNY Industry Fellows” program in partnership with employers, not just in the city’s tech sector 
+but across sectors that require computing knowledge. Under this model, selected faculty would spend a defined portion of 
+their time—such as one day per week or a summer term—embedded with a partner company, supported by cost-sharing agree-
+ments between CUNY and participating employers. 
+While dual appointments depend on industry needs and faculty skill sets, there are a number of ways CUNY could  
+implement a fellowship program. Dual appointments could be structured into the hiring of new faculty members. Lecturers, 
+who tend to have lighter teaching loads than professors, could be embedded part-time in the workplace. Such a program 
+would offer faculty industry experience that they could then integrate into coursework, curriculum development, and  
+student mentorship, strengthening both faculty development and student career outcomes.
+18
+OVER THE COURSE OF OUR RESEARCH, WE HEARD FROM STUDENTS, FACULTY, STAFF, AND NATIONAL EXPERTS  about 
+the programs and approaches that can most enhance CS majors’ learning experience and make them more competitive in 
+the job market. In addition to strengthening CS faculty, CUNY leaders and policymakers should consider implementing one 
+or more of these ideas across CUNY’s CS departments and colleges.
+Revise the CS curriculum to rethink necessary credits: CS is already one of the most credit-intensive majors at 
+CUNY. Yet its credit requirements have ballooned in recent years as more courses are added without reevaluating 
+existing ones, even as it is not clear that all of these credits are necessary to be successful in the workforce. This 
+bloating strains both students, who have more requirements to meet, and faculty, who have reduced bandwidth  
+to teach electives in their area of expertise. While curricular reform is a complex process, CS departments should 
+evaluate their curricula to streamline degree programs, rethinking existing courses to reflect the changing CS 
+landscape, as opposed to just adding more requirements.
+Make electives more accessible: Electives are where students learn in-demand skills and gain experience with a 
+CS specialty. Yet electives can be prohibitive: There are few sections and few seats, so registration can be cutthroat, 
+and the sheer number of prerequisites means electives can come too late in students’ coursework for them to apply 
+skills learned in these classes to internships. While it would require significant curricular reform, expanding elective 
+offerings and reducing prerequisites so students can access them earlier, would get students on the path to career 
+skills sooner and reduce the bottleneck at the end of their academic programs, when they’re scrambling for 
+electives to let them graduate.
+Count experiential learning for credit: Students and employers both say that internships, or at least some work 
+experience, are increasingly vital to be competitive in the job market. However, CUNY students—more than half  
+of whom work 20+ hours per week in addition to their schoolwork—can struggle to balance these demands with  
+a full course load.16 To allow students to gain this crucial experience without adding to their credit pressure, CS 
+departments should get creative with counting experiential learning for credit—which not many of them currently  
+do. Departments could count internships and tech skills bootcamps—which students stress they need and are often 
+already pursuing—for credit. CUNY should expand its Credit for Prior Learning policy to award students credit for 
+experiences during their degree program, not just those acquired before starting it, and to do so automatically 
+rather than by application. This could start by automatically counting already-popular extension programs, like CUNY 
+Tech Prep or Break Through Tech, for credit. Departments could also automatically award students credit for being 
+research assistants or tap in students to help with CS needs in other departments at their college for credit. 
+STRENGTHENING  
+CUNY’S COMPUTER  
+SCIENCE DEPARTMENTS
+19
+STRENGTHENING CUNY’S COMPUTER SCIENCE FACULTY
+Implement project-based learning: Employers also want to see projects, portfolios, or examples of student work. 
+Students who complete internships generally have something to show from them, but CUNY students who can’t  
+do internships should be able to get hands-on experience in the classroom. CS departments should implement 
+project-based learning: They could add projects in classes, made easy by in-class trips to makerspaces or project 
+labs, or build capstone projects into the CS major. This approach is already in use at CUNY Tech Prep, where 
+students create culminating projects that they can then add to a work portfolio.
+Strengthen partnerships between industry and individual CS departments: Experts in and out of CUNY agree that 
+effective industry-academia relationships are forged at the department level, not at the level of higher administration. 
+One model CUNY’s CS departments could follow is the CS Advisory Committee at the University of Delaware. 
+Launched in 2022, the committee included all the major tech employers in Delaware, including Microsoft, IBM, and 
+Intel. Eventually, industry learned more about faculty projects and department initiatives, and faculty learned about 
+the needs of industry and any gaps between what they were teaching and what was expected of students in the 
+workplace. Though it has only been a few years, University of Delaware graduates are already reaping the benefits: 
+Approximately 84 percent of University of Delaware graduates last year got jobs, and many alumni now in industry 
+have come back to mentor current students. 
+Expand options for online/asynchronous learning: According to senior CUNY leadership, CS has been one of  
+the most difficult fields in which to expand online offerings, largely owing to faculty resistance. But with much of  
+the tech workspace operating remote or asynchronously, an online option would not only make it easier for parents, 
+working, and part-time students to earn their degree, but could provide transferable skills for a CS workplace.  
+To meet students where they are—and offer some workforce training—CUNY should offer a path to a CS degree that 
+is fully online and/or asynchronous.
+20
+Endnotes
+1.  Center for an Urban Future analysis of CUNY enrollment 
+data 2014–24.
+2.  City University of New York, FY 2025 University Budget 
+Request, https://www.cuny.edu/wp-content/uploads/
+sites/4/page-assets/about/trustees/meetings-of-the-
+board/FY2025-University-Budget-Request.pdf.
+3.  Center for an Urban Future analysis of data from the 
+U.S. Census Bureau’s Post-Secondary Employment 
+Outcomes, https://lehd.ces.census.gov/applications/
+pseo/?state=36&type=flows&specificity=2&in-
+stitution=00268800&degreelevel=05&gradco-
+hort=0000-3&filter=5&display=count&destination=in-
+dustry&program=11. 
+4.  Center for an Urban Future analysis of profile analytics 
+data from Lightcast.
+5.  Center for an Urban Future analysis of CUNY enrollment 
+and degree trends data 2014–24.
+6.  Center for an Urban Future analysis of fall 2025 course 
+data from CUNY Global Search.
+7.  Office of the New York City Comptroller Brad Lander, 
+Cuts to CUNY: An analysis of financial risks posed by 
+cuts to the City University of New York in NYC’s FY 2024 
+Executive Plan, May 2023, https://comptroller.nyc.gov/
+wp-content/uploads/documents/Cuts-to-CUNY.pdf#:~:-
+text=The%20City’s%20Programs%20to%20Eliminate%20
+the%20Gap,million%20of%20these%20$41.3%20mil-
+lion%20in%20cuts. 
+8.  Professional Staff Congress, “Statement on Mayor 
+Adams’ Restoration of CUNY Funding,” May 1, 2025, 
+https://psc-cuny.org/news-events/statement-on-mayor-
+adams-restoration-of-cuny-funding/.
+9.  Center for an Urban Future analysis of job postings  
+data from Lightcast.
+10.  Center for an Urban Future analysis of profile analytics 
+data from Lightcast.
+11.  Katie Siek and Jasmine Batten, Taulbee Survey 2024:  
+Annual Report, Computer Research Association (CRA), 
+June 23, 2025, https://datavisualization.cra.org/
+TaulbeeSurvey/CRA_Taulbee_Survey_Report_2024.
+html#Introduction. 
+12.  Center for an Urban Future analysis of PSC/CUNY salary 
+schedules (https://psc-cuny.org/issues/contract-apeo-
+plescuny/ta-2023-2027/salary-schedules/) and faculty 
+salaries data from the CRA’s Taulbee Survey 2024.
+13. Stuart Zweben and Betsey Bizot, “CRA 2021 Taulbee  
+Survey: CS Enrollment Grows at All Degree Levels,  
+With Increased Gender Diversity,” Computing Research 
+News 34, no. 5 (2022), https://cra.org/crn/2022/05/
+cra-2021-taulbee-survey-cs-enrollment-grows-at-all-
+degree-levels-with-increased-gender-diversity/. 2021 
+is the last year for which the median start-up package 
+number is available.
+14.  CUNY Office of Careers and Industry Partnerships,  
+“Career-Infused Degree Maps,” https://www.cuny.edu/
+about/administration/offices/ocip/cuny-beyond/ca-
+reer-infused-degree-maps/#fast-facts.  
+15.  CUNY Graduate Center, “Historic $75M Gift to  
+CUNY Launches Computational Science Program,”  
+January 17, 2024, https://www.gc.cuny.edu/news/histor-
+ic-75m-gift-cuny-launches-computational-science-program. 
+16.  City University of New York, FY 2025 University Budget 
+Request, https://www.cuny.edu/wp-content/uploads/
+sites/4/page-assets/about/trustees/meetings-of-the-
+board/FY2025-University-Budget-Request.pdf.

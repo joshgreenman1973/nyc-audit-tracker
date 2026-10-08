@@ -1,0 +1,160 @@
+===== SOURCE: landing page =====
+Innovative Ideas. Independent Policy.
+•
+Home
+•
+About
+•
+Research
+•
+Events
+•
+Press
+•
+Impact
+•
+Support
+•
+Contact
+Report
+- September 2026
+A Portable Benefits Pilot for NYC’s Growing Freelance Creative Workforce
+Amid a rise in freelance work, New York City's artists face an urgent challenge: a benefits system still largely built around traditional employment. This report examines the economic changes in the city's creative sector, and proposes a portable benefits pilot to help more working artists build sustainable careers in New York.
+by Rachel Neches and Eli Dvorkin
+Tags:
+creative economy
+creative sector
+portable benefits
+artists
+arts
+I n recent years, it has become painfully clear that New York City’s affordability crisis is hitting artists and cultural workers especially hard. As the city’s arts sector struggles to adapt to these cost pressures, New York risks losing the New Yorkers who animate neighborhoods, bring communities together, support thousands of jobs and businesses, and create the cultural energy that makes New York a magnet for people from around the world.
+For years, this creative ecosystem grew dramatically. Then the pandemic broke that trajectory. Our 2025 Creative New York report found that the number of artists living in New York City grew nearly 35 percent from 2004 to 2019, then fell 4.4 percent from 2019 to 2024. Employment across the city’s creative industries is also down about 6 percent from before the pandemic.
+One of the clearest signs of that strain is the sharp shift away from traditional employment and toward freelance and self-employed work across the city’s creative economy. Since 2019, the number of self-employed creative industry workers has risen 12 percent—nearly four times the 3.1 percent growth in self-employment citywide—even as the creative economy shrank overall. The number of independent artists grew 26.8 percent over the same period.
+Freelance work has always been common in the arts. What has changed is how quickly it is growing while traditional creative employment is shrinking. Today, 16.1 percent of creative-industry workers are self-employed, more than twice the 6.9 percent rate among private-sector workers citywide. And 15 percent of working artists report both wages from an employer and self-employment income in the same year, compared with just 3.4 percent of workers citywide.
+That shift carries real costs. Even among full-time workers in creative occupations, self-employed workers earn 34.1 percent less than wage-employed workers. Many also lack the health insurance, paid leave, retirement savings, and other protections that still come mainly through a conventional job. A recent survey by Creatives Rebuild New York found that 18.4 percent of New York City artists lack health insurance; among teaching artists, just 6 percent receive benefits through an employer.
+Our research suggests that one of the most practical steps policymakers can take to address this growing economic insecurity is to launch a portable benefits pilot for artists and creative workers. Portable benefits stay with workers as they move among gigs, contracts, and employers, making them a particularly good fit for a workforce where independent and mixed employment are unusually common. By taking this step, city and state leaders can help more working artists build sustainable careers in New York—and begin adapting the benefits system to the way a growing share of New Yorkers actually works.
+This report, supported by grants from the Rockefeller Brothers Fund and the Howard Gilman Foundation, examines how the rise of freelance and self-employed work is changing the economic realities facing New York City’s artists—and what policymakers can do about it. Drawing on new analysis of employment and Census data, interviews with artists and experts, and a review of emerging portable benefits models, we focus on addressing one increasingly urgent challenge: a benefits system still largely built around traditional employment.
+As creative jobs decline, freelance work is growing
+Freelance work has always been part of New York’s creative economy. What is new is the scale and speed of the shift, with growth since the pandemic overwhelmingly concentrated among freelancers and self-employed workers. In 2025, 16.1 percent of creative-industry workers were self-employed, more than twice the 6.9 percent rate among private-sector workers citywide. Over the past decade, the number of independent artists in New York City increased 64.4 percent. Working artists are also more than four times as likely as workers overall to report both wage and self-employment income in the same year (15 percent vs. 3.4 percent). 1
+• The shift accelerated after the pandemic. Since 2019, total employment in New York’s creative industries fell 6 percent, while the number of self-employed creative workers grew 12 percent and independent artists grew 26.8 percent. By comparison, self-employment citywide grew just 3.1 percent.
+• The shift is happening across nearly every major creative occupation. Of the 27 occupations we tracked, 23 saw an increase in self-employment since 2019. Among film and video editors, the share rose from 22 percent to 29.4 percent. Nearly half of choreographers are now self-employed, up from 28.5 percent. Among fine artists—including painters, sculptors, and illustrators—the share increased from 75.4 percent to 86.6 percent.
+• The same pattern is evident across creative industries. Of the city’s ten major creative industries, six have seen self-employment grow as a share of the workforce since 2019, including film, music, design, advertising, and visual arts. In music publishing, the self-employed share grew from 16.2 percent to 25.8 percent. In graphic design, more than half of workers are now self-employed (53.9 percent), up from 42.2 percent. In film and television, the share rose from 11.5 percent to 14.6 percent, with an especially sharp increase in postproduction.
+ 
+ 
+ 
+ 
+Freelance creative workers earn less and get fewer benefits
+This shift matters because self-employed creative workers generally earn less yet have to shoulder more of the cost and complexity of benefits themselves.
+• The earnings gap persists even among full-time workers. Full-time self-employed workers in creative occupations earn a median of $60,000 a year, 34.1 percent less than full-time wage-employed workers ($91,100). Full-time self-employed workers in creative industries earn a median of $75,000—still 19.3 percent less than full-time wage-employed workers.
+• Artists also face significant gaps in health coverage and employer benefits. A recent survey by Creatives Rebuild New York found that 18.4 percent of New York City artists lack health insurance—more than triple the 6 percent uninsured rate citywide. 2 Among teaching artists, just 6 percent receive benefits through an employer. 3 The gap is especially stark for musicians and singers: 10.6 percent of those who are self-employed lack health insurance, compared with 3.7 percent of their wage-employed peers. 4
+• Self-employed creative workers are also much more likely to rely only on public health insurance. Fully 25 percent of self-employed workers in creative occupations rely exclusively on public coverage, compared with 9.3 percent of wage-employed workers in the same jobs. Among workers in creative industries, the comparable figures are 23.8 percent and 7.8 percent. That leaves independent workers more exposed when public coverage is cut back—as it was this summer, when federal changes to New York’s Expanded Essential Plan affected roughly 450,000 New Yorkers. 5
+ 
+ 
+ 
+ 
+The benefits gap shapes careers and lives
+The core problem is simple: Benefits are still designed around traditional employment, even as more creative workers earn a living across multiple jobs, gigs, and contracts—making them more likely to miss out on employer-sponsored protections. “The existing employer-based benefits system does not align with how many creative workers actually work,” says Shelly Steward, Chief Research Officer at The Workers Lab, a national organization focused on worker-centered innovation.
+For many artists and creatives, the lack of benefits has become a major factor shaping career decisions. In some cases, the stakes are high enough to push workers out of the creative sector altogether. “We aren’t just losing artists to other cities,” says Lucy Sexton, a performing artist and executive director of New Yorkers for Culture and Arts. “Artists are moving into other sectors entirely.”
+Kate-Pride Muse spent two years working as a freelance creative producer. The challenges of navigating benefits eventually compelled her to take a full-time job outside of producing. “It was a challenging period, and I went health insurance-less for long stretches of time,” says Muse. “Breaking my foot after securing insurance with my full-time job revealed to me just how dangerous that was.” She continues to pursue creative production but has to find time outside of her full-time job.
+For others, the benefits gaps shape major life decisions. Louisa Fulkerson, a freelance set designer working on editorial and commercial projects, says the realities of freelance work have forced her and her partner to rethink family planning. “Both my partner and I are freelance, and as we think ahead to having kids, we have had to consider what our time off would look like with no income,” she says. “There is no automatic maternity or paternity leave when you are freelance.”
+Without stronger supports, New York risks losing more artists and cultural workers as freelance work becomes more common. “We are losing people in our workforce,” says Kimberly Olsen, executive director of the NYC Arts in Education Roundtable. “This is an emergency.”
+ 
+For freelancers, getting benefits can be a job of its own
+Even when benefits are available, freelancers often have to navigate them largely on their own. “When you are freelance, you have to find work, do the work, and also be your own accountant and HR,” says Auden Barbour, a freelance filmmaker specializing in camera work and lighting. “The biggest challenge is understanding this stuff. It takes so much time and energy, and if you don’t figure it out, you can get screwed.”
+The complexity compounds quickly. In a typical month, Barbour may work on five to fifteen projects, from single-day assignments to multi-week shoots, each with different payment schedules and tax classifications. Managing taxes, insurance, and other benefits across that patchwork of W-2 and 1099 work, she says, “becomes a job in itself.” That patchwork is unusually common among working artists: 15 percent report both wage and self-employment income, compared with just 3.4 percent of workers citywide. 6
+Income swings can also change what a freelancer qualifies for from one year to the next. “What I qualify for changes year-to-year,” says Fulkerson. “It’s hard to navigate, opaque, and often for low-quality insurance.”
+Cost makes the problem worse. “I pay a few hundred dollars a month for health insurance—yet so much isn't covered,” she says. “The next available tiered plan is something like $1,200, which I don't see how is possible for any freelancer.”
+These barriers often discourage workers from seeking care altogether. “Unfortunately, these barriers result in freelancers avoiding engaging with the health care system entirely,” says freelance photographer Fyodor Shiryaev. Faced with a frustrating system, inconsistent coverage, and significant out-of-pocket costs, Shiryaev has watched peers delay or forgo medical care.
+For many freelancers, the benefits gap shapes where they work, whether they start families, whether they can save for the future, when they seek medical care, and whether they can sustain a creative career at all. As freelance work becomes more common, New York risks losing talented workers because the systems meant to support them were built for a different kind of employment.
+ 
+A portable benefits pilot for artists and creative workers
+That is why portable benefits are such a good fit for the creative workforce. New York City should launch a pilot that allows independent workers to keep essential benefits as they move between gigs, employers, and sectors. Health coverage, paid leave, retirement savings, and other supports should be able to follow the worker rather than disappear when a job ends.
+The idea is already gaining traction in New York City among arts organizations, advocates, researchers, and creative workers. The National Arts Policy Alliance and the Freelancers Union jointly released a new report outlining findings from a participatory design study exploring what independent workers actually need from a modern safety net. The Mamdani administration has also indicated support: the latest Citywide Racial Equity Plan, released in September 2026, includes a commitment by the Mayor’s Office of Media and Entertainment, in partnership with the Department of Cultural Affairs, to advocate for a portable benefits program for freelance workers in the creative sector. Teaching artists offer an especially practical place to start: just 6 percent receive benefits through an employer. “The time is right,” says Ann Boger, a freelance workforce leader and former chief operating officer for the Freelancers Union. “The way people work is shifting, as is the way they are accessing benefits—and we need to shift with that.”
+What a successful pilot should do
+A well-designed portable benefits program should follow a few core principles.
+• The program should use a pooled social insurance model rather than individual savings accounts, allowing workers to share risk and giving the group more leverage to negotiate affordable coverage.
+• Contributions should come from multiple sources—including employers, clients, philanthropy, individuals, and the public sector—reflecting a workforce in which no single employer can reliably anchor a benefits package.
+• Eligibility rules should reflect the realities of freelance work, including fluctuating income and workers who receive both W-2 and 1099 income.
+• The legal and regulatory design should protect participating employers from unintended tax liabilities or worker-misclassification penalties.
+• State government can help provide funding and address regulatory questions the city cannot resolve on its own, particularly around insurance, taxation, and the treatment of employer contributions.
+• Enrollment should be simple, easy to navigate, and designed to reach workers across the creative sector, including those who have historically had little access to benefits infrastructure.
+• The pilot should include a clear evaluation plan from the start so the city can track results, fix problems, and identify what it would take to scale the model.
+Building on what works
+The idea is not without precedent. From 2008 to 2015, the Freelancers Union provided health insurance to as many as 25,000 members in New York State through its Freelancers Union Insurance Company. The program was ultimately discontinued after the Affordable Care Act imposed new limitations on non-employer groups offering health plans, but it demonstrated that broad-based coverage for independent workers is both viable and in demand.
+Other cities have also begun experimenting with ways to fill the benefits gap for creative freelancers. Creatives Care Dallas, a partnership between the Dallas Music Office and Arete Health Shield, offers creative professionals virtual primary care, 24/7 urgent telemedicine, behavioral health services, and access to common prescriptions for $65 a month with no copay. The model shows that benefits for independent creative workers can be designed to be simple and affordable.
+A focused pilot gives New York City a practical starting point: test what works in a sector where freelance work is especially common and growing fast, then build toward something larger. By making benefits easier to carry from job to job, city leaders can help more artists build sustainable careers in New York—and shore up a creative economy whose long-term strength depends on keeping creative workers here.
+Endnotes
+• Center for an Urban Future analysis of data from Lightcast and 2024 American Community Survey 5-Year Estimates.
+• Shelly Steward, “Exploring Workplace Benefits for New York City's Arts Workers,” The Workers Lab, December 2025; Center for an Urban Future analysis of 2024 American Community Survey 1-Year Estimates.
+• NYC Arts in Education Roundtable. Paying for Professionalism 2025: A Report on New York City Teaching Artist Compensation & Employment , July 23, 2025. https://nycaieroundtable.org/advocacy/paying-for-professionalism-2025/ .
+• Center for an Urban Future analysis of 2024 American Community Survey 5-Year Estimates.
+• Center for an Urban Future analysis of 2024 American Community Survey 5-Year Estimates.
+• Center for an Urban Future analysis of 2024 American Community Survey 5-Year Estimates.
+A Portable Benefits Pilot for NYC’s Growing Freelance Creative Workforce is a publication of the Center for an Urban Future. Researched and written by Rachel Neches and Eli Dvorkin. Edited by Alejandra Díaz-Pizarro. Photo by Gaetania F. A.
+Center for an Urban Future (CUF) is a leading think tank focused on building a stronger and more equitable economy in New York City, and expanding economic opportunity for all New Yorkers.
+This report is supported by grants from the Rockefeller Brothers Fund and the Howard Gilman Foundation . General operating support for the Center for an Urban Future has been provided by The Clark Foundation , Robin Hood , and the Altman Foundation .
+Related Press
+NYC’s creative workers are increasingly self-employed, report says
+Gothamist ,
+by Hannah Frishberg,
+September 22, 2026
+This report is supported by grants from the Rockefeller Brothers Fund and the Howard Gilman Foundation .
+Related Publications
+7562|7643|7584|7641|7445
+•
+Creative New York
+•
+Strengthening the Arts and Culture Sector Amid Mounting Affordability Challenges
+•
+Integrating Artists into NYC’s Affordable Housing Strategy
+•
+Tackling Affordability Challenges in NYC’s Arts and Culture Sector
+•
+New York’s Creative Spark: 10 Data Snapshots of the Arts Across New York State
+Related Press
+NYC’s creative workers are increasingly self-employed, report says
+Gothamist
+View More Related Press
+Related Press
+NYC’s creative workers are increasingly self-employed, report says
+Gothamist
+We're Hiring
+Managing Editor
+Search
+@nycfuture
+Follow @nycfuture
+CUF in the News
+Changing Careers: New York City Expands Free College Tuition Program for Adults
+Forum Daily New York
+Mayor Zohran Mamdani doubles individual artist grants in New York City to $10,000
+Artsy
+New York expands free SUNY and CUNY tuition to those with college degrees
+News 10 ABC
+Should AI Be Regulated City by City? New York Should Think Carefully Before Answering
+AlleyWatch
+New York’s retail storefront strategy: cut it in half
+The Real Deal
+Mamdani Doubles Grants for NYC Artists
+Hyperallergic
+Cost of retirement on Long Island squeezing seniors, forcing them to cut back
+Newsday
+View More Press
+•
+© All Rights Reserved.
+Content
+• Reports • Commentary/Op-Ed • Testimony • Data • Events • Impact
+Topics
+• Economic Growth • Economic Opportunity • Entrepreneurship • Immigrants • Boroughs • Small Business • Human Capital • Higher Education • Creative Economy • Tech
+Follow
+Support
+• Internships
+• Support the Center
+• Contact
+Center for an
+Urban Future
+80 Eighth Avenue, Suite 704
+New York, NY 10011
+212-479-3344
+[email protected]
+© All Rights Reserved.
+x

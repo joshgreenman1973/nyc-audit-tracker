@@ -1,0 +1,90 @@
+{
+  "id": "2026-09-01-cuf-5-ideas-reducing-bureaucratic-barriers",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "5 Ideas for Reducing Bureaucratic Barriers in NYC",
+  "plain_title": "Five ideas for cutting bureaucratic barriers in New York City",
+  "agency": "New York City government",
+  "issued": "2026-09-01",
+  "url": "https://nycfuture.org/research/5-ideas-for-reducing-bureaucratic-barriers-in-nyc",
+  "pdf": "https://nycfuture.org/pdf/5_Ideas_Reducing_for_Bureaucratic_Barriers_NYC.pdf",
+  "what_they_audited": "A policy report from the Center for an Urban Future describing five bureaucratic barriers in city government and proposing a reform for each. It covers plumbing code rules, affordable housing financial review, battery storage permitting, civil service technology hiring and joint bidding on infrastructure projects.",
+  "background": "The report says the Center for an Urban Future heard about dozens of rules, regulations and processes that add significant time and cost to projects. It is the latest in a series of policy reports and follows a February 2026 report on revenue-raising ideas.",
+  "findings": [
+    {
+      "plain": "The city's Plumbing Code sharply restricts polyvinyl chloride (PVC) piping, which is cheaper than cast iron. The report says this is stricter than nearly every other U.S. city and every other city in the state.",
+      "quote": "New York is still an outlier, imposing restrictions that are far more stringent than nearly every other U.S. city and every other city in the state."
+    },
+    {
+      "plain": "After the Department of Housing Preservation and Development (HPD) has approved an affordable housing project, the Office of Management and Budget (OMB) conducts another detailed financial review before the project can close on its financing. The report says this review can take months and cover the same questions.",
+      "quote": "That final review can take several months and revisit many of the same questions."
+    },
+    {
+      "plain": "Battery storage projects face permits that are not coordinated across agencies. The report also says approvals for residential battery products have lapsed and that Con Edison interconnection changes have raised costs.",
+      "quote": "A single community-scale installation can require as many as 16 permits from six city agencies"
+    },
+    {
+      "plain": "Civil service rules make it hard to hire people with current technology skills. The report says agencies have many vacancies and turn to outside consultants.",
+      "quote": "city agencies have hundreds of vacant technology-related positions"
+    },
+    {
+      "plain": "Joint bidding, where the city bids its own infrastructure work together with utility work, is credited by the Department of Design and Construction (DDC) with savings and shorter delays. It now depends on one-year extensions from the state rather than a long-term authorization.",
+      "quote": "saves the city more than $107 million annually and has reduced average utility-related delays from roughly 28 months to seven"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "16.7 percent",
+      "label": "Estimated savings from PVC in a 2017 Philadelphia report"
+    },
+    {
+      "value": "more than 40 questions",
+      "label": "Questions in each OMB project review document"
+    },
+    {
+      "value": "47 months",
+      "label": "Average HPD loan processing time in a 2025 survey"
+    },
+    {
+      "value": "16 permits",
+      "label": "Most permits one community battery installation may need"
+    },
+    {
+      "value": "36 percent",
+      "label": "NYC Cyber Command vacancy rate noted in 2022 report"
+    },
+    {
+      "value": "$107 million",
+      "label": "Annual joint bidding savings per DDC estimate"
+    }
+  ],
+  "recommendations": [
+    "Direct the Department of Buildings to review the Plumbing Code and assess raising the five-story limitation for PVC piping, then work with the City Council on any needed changes.",
+    "Reduce restrictions on nonmetallic sprinkler piping in taller residential buildings.",
+    "End the ban on PEX, a flexible plastic tubing, for potable water lines.",
+    "Replace routine project-by-project re-underwriting of affordable housing by the Office of Management and Budget with a two-track system, with an expedited path for projects that conform to current program rules and fuller review for exceptions.",
+    "Have the Department of Housing Preservation and Development and the Office of Management and Budget regularly update loan program term sheets, with the Office of Management and Budget approving annual funding levels and limiting its per-project role to confirming a deal fits approved terms.",
+    "Set firm deadlines for routine Certificate to Proceed reviews, require the Office of Management and Budget to raise substantive concerns in the first round of comments, and publish quarterly data on pending projects and whether review produces meaningful changes.",
+    "Direct the Fire Department and the Department of Buildings to create a single coordinated permitting pathway for battery storage, with concurrent review, a shared checklist and no duplicate technical review.",
+    "Permanently expand Fire Department civilian staff and Department of Buildings battery review capacity, set up a pool of qualified third-party engineers, and publish quarterly data with review targets for each stage.",
+    "Create an expedited pathway for smaller residential battery systems that use approved products and standardized designs.",
+    "Work with the state to resolve Con Edison interconnection barriers by removing inactive projects from the queue, allowing batteries to connect under enforceable charging limits and sharing grid upgrade costs fairly.",
+    "Direct the Department of Citywide Administrative Services and the Office of Technology and Innovation to create technology-specific civil service titles, update classifications regularly, use skills-based qualifications, expand non-exam hiring, create expedited hiring and allow direct recruiting from the labor market.",
+    "Seek common ground with municipal labor unions on technology hiring changes, and work with the City Council on related legislation and a broader digital transformation of city government.",
+    "Ask the Governor and State Legislature to make joint bidding permanent or at minimum restore a ten-year authorization, and make this a priority in the city's 2027 legislative agenda."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "housing",
+    "money and contracts",
+    "technology"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

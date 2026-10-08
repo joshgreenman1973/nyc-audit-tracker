@@ -1,0 +1,92 @@
+{
+  "id": "2026-08-01-cuf-strengthening-cunys-computer-science-faculty-prepare",
+  "source": "outside",
+  "auditor": "Center for an Urban Future",
+  "title": "Strengthening CUNY’s Computer Science Faculty to Prepare Students for NYC’s Changing Tech Economy",
+  "plain_title": "Strengthening CUNY's computer science faculty for the tech economy",
+  "agency": "New York City government",
+  "issued": "2026-08-01",
+  "url": "https://nycfuture.org/research/strengthening-cuny-CS-faculty",
+  "pdf": "https://nycfuture.org/pdf/Strengthening_CUNYs_Computer_Science_Faculty.pdf",
+  "what_they_audited": "A report from the Center for an Urban Future examining whether the City University of New York (CUNY) has enough computer science (CS) faculty with the right experience to prepare students for New York City's tech economy. It draws on more than 75 interviews and an analysis of CUNY data on enrollment, faculty hiring, course offerings, budgets and student outcomes.",
+  "background": "The report says CS enrollment at CUNY has grown while overall enrollment declined, and entry-level tech jobs in New York City have fallen since 2022. It describes CUNY as a main route to well-paying careers for its largely low-income and first-generation students.",
+  "findings": [
+    {
+      "plain": "CS enrollment at CUNY rose sharply over the decade while full-time CS faculty grew only modestly at senior colleges and shrank at community colleges.",
+      "quote": "Faculty growth has lagged far behind the surge in student demand over the past decade"
+    },
+    {
+      "plain": "Student-to-faculty ratios in CS have grown at most campuses. At Hunter College the ratio went from 8:1 in 2014 to 31:1 in 2024, and introductory courses can enroll hundreds of students.",
+      "quote": "Hunter College’s student-to-faculty ratio ballooned from 8:1 in 2014 to 31:1 in 2024"
+    },
+    {
+      "plain": "CUNY's advertised CS faculty pay is the lowest among comparable New York City institutions, and start-up research support is limited.",
+      "quote": "CUNY advertised by far the lowest median salary among comparable New York City institutions, at roughly $79,000"
+    },
+    {
+      "plain": "Slow hiring and approval processes cause departments to lose candidates, and delays can also hold up access to research funds and equipment after faculty are hired.",
+      "quote": "a slow, bureaucratic hiring process frequently causes departments to lose strong candidates before offers can be made"
+    },
+    {
+      "plain": "Few CS faculty have industry experience. In a review of four colleges, 19 of 79 full-time CS faculty had worked in industry before joining CUNY, which the report links to a gap between what students learn and what employers expect.",
+      "quote": ""
+    },
+    {
+      "plain": "Access to artificial intelligence (AI) instruction is limited. In fall 2025 only eight AI or machine learning courses with 255 seats were offered across CUNY, and the median course requires six prerequisites.",
+      "quote": ""
+    }
+  ],
+  "numbers": [
+    {
+      "value": "146 percent",
+      "label": "Growth in CUNY CS enrollment, 2014 to 2024"
+    },
+    {
+      "value": "49 percent",
+      "label": "Fall in NYC entry-level tech jobs since 2022"
+    },
+    {
+      "value": "21 percent",
+      "label": "Growth in full-time CS faculty at senior colleges"
+    },
+    {
+      "value": "22 percent",
+      "label": "Decline in full-time CS faculty at community colleges"
+    },
+    {
+      "value": "$79,000",
+      "label": "Roughly CUNY's median advertised CS faculty salary"
+    },
+    {
+      "value": "31:1",
+      "label": "Hunter College student-to-faculty ratio in 2024"
+    },
+    {
+      "value": "$10 million",
+      "label": "Proposed minimum annual city funding for new faculty lines"
+    }
+  ],
+  "recommendations": [
+    "Expand faculty capacity in high-demand fields starting with CS, through a systemwide plan with multiyear hiring targets, a stronger pipeline into faculty roles and possibly cluster hiring such as an AI cohort.",
+    "Increase city funding for faculty, with at least $10 million annually for new faculty lines in CS and related fields, and ask state leaders to update funding formulas to reflect the higher cost of educating CS students.",
+    "Launch a CUNY Faculty Hiring Acceleration Initiative that maps hiring and start-up approval steps, sets target timelines, assigns responsibility and streamlines research procurement.",
+    "Make faculty capacity central to CUNY's AI strategy by recruiting applied AI faculty, expanding professional development and extending AI instruction across disciplines. The state should adopt challenge-based procurement, and CUNY should consider adapting its tenure and promotion guidelines.",
+    "Create a CS@CUNY Faculty Investment Fund of roughly $5 million over three years, backed by public funding, philanthropy and industry partnerships, to provide competitive start-up packages and research support.",
+    "Expand the Practitioners-in-Residence Corps (PiRC) and similar initiatives by recruiting private-sector and philanthropic partners, working with city leaders.",
+    "Pilot a CUNY Industry Fellows program in which selected faculty spend a defined portion of their time embedded with a partner company, supported by cost-sharing agreements with employers."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "education",
+    "labor",
+    "money and contracts"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

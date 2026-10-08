@@ -1,0 +1,90 @@
+{
+  "id": "2026-07-31-cnycaffairs-introducing-universal-child-care-cost-model",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs at The New School",
+  "title": "Introducing a Universal Child Care Cost Model for New York",
+  "plain_title": "A cost model for universal child care in New York",
+  "agency": "New York City government",
+  "issued": "2026-07-31",
+  "url": "http://www.centernyc.org/reports-briefs/universal-child-care-cost-model-new-york",
+  "pdf": "http://www.centernyc.org/s/Introducing-a-Universal-Child-Care-Cost-Model-for-New-York-CNYCA.pdf",
+  "what_they_audited": "A report from the Center for New York City Affairs at The New School that introduces a cost model for universal child care for children from six weeks to five years old. It estimates costs and capacity statewide and in New York City and compares them with current city spending and rates.",
+  "background": "The mayor and governor committed to universal child care and took first steps in the state and city fiscal year 2027 budgets, including a 2-K pilot. The report says questions remain about how much a universal, high-quality, stable system will cost and who will pay for it.",
+  "findings": [
+    {
+      "plain": "The model estimates that universal child care in New York City would need $8.7 to $9.3 billion each year, depending on assumed uptake rates.",
+      "quote": ""
+    },
+    {
+      "plain": "In fiscal year 2025 the city budgeted far less for child care service delivery than it spent, which the report describes as a pattern of underestimating costs. The report says the city must identify at least an additional $4.9 to $5.5 billion for a fully universal system.",
+      "quote": ""
+    },
+    {
+      "plain": "Existing capacity is large. Using the higher uptake rate, a universal system would need only 10,475 more seats in 1,182 more programs, so the report says no new facilities are needed now.",
+      "quote": ""
+    },
+    {
+      "plain": "The city has 50,328 center and home-based staff and the model says it would need 23,640 more workers to staff a fully universal system.",
+      "quote": ""
+    },
+    {
+      "plain": "Infant care is the most expensive because of its staffing ratios, and current contract and voucher rates fall short of the model's results. Group family child care programs would be paid $7,680 less per three-year-old than the model recommends under New York City Public Schools rates in the adopted fiscal year 2027 budget.",
+      "quote": ""
+    },
+    {
+      "plain": "The report says the 2-K plan, which requires a network affiliation that 80 percent of home-based providers lack, could leave home-based programs providing only infant care at rates that do not cover operating costs.",
+      "quote": ""
+    }
+  ],
+  "numbers": [
+    {
+      "value": "$8.7 to $9.3 billion",
+      "label": "Estimated yearly cost of universal care in the city"
+    },
+    {
+      "value": "$4.9 to $5.5 billion",
+      "label": "Additional city funding the report says is needed"
+    },
+    {
+      "value": "10,475",
+      "label": "Additional seats needed (higher uptake)"
+    },
+    {
+      "value": "1,182",
+      "label": "Additional programs needed (higher uptake)"
+    },
+    {
+      "value": "50,328",
+      "label": "Current center and home-based staff in the city"
+    },
+    {
+      "value": "23,640",
+      "label": "Additional workers needed in the city"
+    },
+    {
+      "value": "$7,680",
+      "label": "Per-child gap for group family child care, age three"
+    }
+  ],
+  "recommendations": [
+    "Invest more at the state and city level to implement fully universal child care.",
+    "Amend current public contract and voucher rates so they cover the operating costs and salary needs of child care programs today.",
+    "Implement a sector-wide salary scale for child care workers.",
+    "Create a wage subsidy to guarantee better wages during the transition to free universal care, while the system still relies on a mix of public and private revenue.",
+    "Consolidate all child care system administration in the city under one agency."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "children and youth",
+    "money and contracts",
+    "labor"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}

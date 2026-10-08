@@ -1,0 +1,95 @@
+{
+  "id": "2026-09-22-cnycaffairs-potential-countercyclical-fiscal-policy",
+  "source": "outside",
+  "auditor": "Center for New York City Affairs at The New School",
+  "title": "The Potential of Countercyclical Fiscal Policy in New York City",
+  "plain_title": "Using city finances to cushion recessions in New York City",
+  "agency": "New York City government",
+  "issued": "2026-09-22",
+  "url": "http://www.centernyc.org/reports-briefs/countercyclical-fiscal-policy-recession-new-york-city",
+  "pdf": "http://www.centernyc.org/s/NYC-Countercyclical-Fiscal-Policy-Potential-CNYCA.pdf",
+  "what_they_audited": "A report from the Center for New York City Affairs, written by Amanda Page-Hoongrajok, examining how New York City could use spending, taxes, savings and borrowing to soften economic downturns.",
+  "background": "The report says New York City has had significant borrowing and spending constraints since the 1970s fiscal crisis, and that debate continues over how to pay for expanded social services given reduced federal support. Countercyclical fiscal policy means a government uses its own spending and taxation power to smooth out business cycle fluctuations.",
+  "findings": [
+    {
+      "plain": "The report says balanced budget rules, debt limits and operating limits constrain the city so that policymakers do not usually think about acting against the business cycle.",
+      "quote": "Countercyclical fiscal policy is not widely promoted at the local level, given that New York has had significant borrowing and spending constraints since the 1970s fiscal crisis."
+    },
+    {
+      "plain": "Comparing two recoveries, the report finds that real state and local spending took almost ten years to return to its pre-recession level after 2008, but barely dropped after the 2020 recession.",
+      "quote": ""
+    },
+    {
+      "plain": "Most city spending is classed by the report as multiplier spending, which helps stabilize incomes and demand. About 42 percent of the fiscal year (FY) 2027 adopted budget goes to salaries, wages and fringe benefits, while pensions and debt service make up 14 percent and are legally required.",
+      "quote": ""
+    },
+    {
+      "plain": "The report identifies savings vehicles that could fund countercyclical action, with the Rainy Day Fund as the main one going forward. The Rainy Day Fund stands at $2 billion as of FY 2027.",
+      "quote": ""
+    },
+    {
+      "plain": "The report argues the city pays pensions toward a 100 percent funding target that it says is not necessary for sustainability. As an illustration, paying 90 percent of the $10 billion contribution would free $1 billion, which the author calls a sense of the stakes and not a formal estimate.",
+      "quote": ""
+    },
+    {
+      "plain": "The report finds the city could legally borrow an additional $44 billion for capital projects as of June 2025, and argues deficit financing during a downturn has precedents such as the post-9/11 Recovery Bonds.",
+      "quote": ""
+    }
+  ],
+  "numbers": [
+    {
+      "value": "42 percent",
+      "label": "Share of FY 2027 budget on pay and fringe benefits"
+    },
+    {
+      "value": "14 percent",
+      "label": "Share of FY 2027 budget on pensions and debt service"
+    },
+    {
+      "value": "$125.8 billion",
+      "label": "Planned city spending on public goods and services, FY 2027"
+    },
+    {
+      "value": "$44 billion",
+      "label": "Additional capital borrowing room as of June 2025"
+    },
+    {
+      "value": "$2 billion",
+      "label": "Rainy Day Fund level as of FY 2027"
+    },
+    {
+      "value": "$10 billion",
+      "label": "City pension contribution in FY 2026"
+    },
+    {
+      "value": "$1 billion",
+      "label": "Freed if pension payment were 90 percent of the full amount"
+    }
+  ],
+  "recommendations": [
+    "Increase or at least maintain multiplier spending, such as salaries, wages, equipment and public assistance, during a downturn.",
+    "Stop the prepayment of future expenses through the Budget Stabilization Account during a downturn, and use that money to stabilize incomes and basic necessities.",
+    "Draw down available reserves as needed within legal limits, mainly the Rainy Day Fund.",
+    "Issue revenue anticipation notes and tax anticipation notes to help cover short-term revenue shortfalls.",
+    "Use long-term borrowing capacity to maintain capital project spending throughout a downturn.",
+    "Seek state approval to implement targeted, progressive tax increases.",
+    "Seek state approval to deficit finance during the next recession if the city decides the benefits outweigh the costs.",
+    "Identify spending that can be legally rerouted to multiplier spending during a downturn.",
+    "Explore metrics other than the funding ratio to assess the sustainability of public pension funds.",
+    "Create a committee within the Mayor's Office of Management and Budget to study the costs and benefits of full or partial pay-as-you-go funding for the city's pension funds."
+  ],
+  "agency_response": "",
+  "implementation_note": "",
+  "compliance_note": "",
+  "topics": [
+    "money and contracts",
+    "labor",
+    "social services"
+  ],
+  "is_followup": false,
+  "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-10-08",
+    "human_reviewed": false
+  }
+}
