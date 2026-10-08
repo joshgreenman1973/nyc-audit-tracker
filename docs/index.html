@@ -98,6 +98,8 @@ input[type="search"]:focus { box-shadow: 3px 3px 0 rgba(168,35,42,.35); }
   margin-top: 12px; font-size: 13px; color: var(--ink-soft);
   border-left: 3px solid var(--outside); padding: 4px 0 4px 12px; max-width: 60em;
 }
+.autonote { margin-top: 10px; font-size: 12.5px; color: var(--ink-soft); }
+.autonote a { color: var(--ink-soft); }
 .file.is-outside .file-body { background: #f7f4ef; border-style: solid; }
 .file.is-outside .file-tab { background: #ded4e4; }
 .resultline { font-family: "Courier Prime", monospace; font-size: 13px; color: var(--ink-soft); margin: 16px 0 4px; }
@@ -316,7 +318,7 @@ ol.recs li.recflash { border-radius: 2px; }
     <button class="ai-btn" id="aiBtn">AI caution</button>
   </div>
   <div class="ai-pop" id="aiPop">
-    This tracker was built with AI assistance. Report lists, dates, agencies, source links and implementation statuses come directly from official government websites, and every summary is written from the text of the official reports, but AI-written summaries can contain errors of emphasis or interpretation. Before relying on any figure or finding, read the official report linked on each card.
+    This tracker was built with AI assistance. Report lists, dates, agencies, source links and implementation statuses come directly from official government websites, and every summary is written from the text of the official reports, but AI-written summaries can contain errors of emphasis or interpretation. Newer reports may carry a summary that was drafted and checked automatically and not yet read by a person; those cards say so. Before relying on any figure or finding, read the official report linked on each card.
   </div>
   <p>Built by Josh Greenman. Data from <a href="https://comptroller.nyc.gov/reports/?report-type=audit">comptroller.nyc.gov</a>, <a href="https://www.osc.ny.gov/state-agencies/audits">osc.ny.gov</a>, <a href="https://www.nyc.gov/site/doi/newsroom/press-releases.page">nyc.gov/doi</a>, <a href="https://www.nypdmonitor.org/resources-reports/">nypdmonitor.org</a>, <a href="https://tillidgroup.com/projects/nunez-monitorship/">tillidgroup.com</a>, <a href="https://www.nychamonitor.com/reports">nychamonitor.com</a>, <a href="https://advocatesforchildren.org/case/l-v-v-nyc-department-of-education/">advocatesforchildren.org</a>, <a href="https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page">nyc.gov/boc</a> and <a href="https://www.nyc.gov/site/ccpc/reports/annual-reports.page">nyc.gov/ccpc</a>.</p>
 </footer>
@@ -662,6 +664,7 @@ function card(a) {
       <p class="whatline">${esc(a.what_they_audited)}</p>
       ${nums ? `<div class="numbers">${nums}</div>` : ""}
       ${statusLine(a)}
+      ${a.ai_draft && !a.ai_draft.human_reviewed ? `<p class="autonote">Summary drafted automatically by an AI model and machine-checked against the report, not yet reviewed by a person. <a href="methodology.html#summaries">How</a></p>` : ""}
       <button class="openbtn" aria-expanded="false">Open the file +</button>
       <div class="detail">
         <h3>Background</h3>

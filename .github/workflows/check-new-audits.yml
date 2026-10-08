@@ -24,6 +24,20 @@ jobs:
       - name: Refresh implementation statuses from comptroller tracker
         run: python3 scripts/fetch_rec_status.py
 
+      # Drafts a summary for each new audit with the Claude API and publishes
+      # only drafts that pass every check; the rest go to data/drafts/ for a
+      # person. Without the ANTHROPIC_API_KEY secret it does nothing and exits 0.
+      - name: Draft summaries for new audits (skipped without ANTHROPIC_API_KEY)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          pip install --quiet "anthropic>=1.9,<2" "pypdf>=6"
+          python3 scripts/draft_summaries.py --comptroller --max-cost 3
+
+      - name: Verify every quote and number against its source
+        run: python3 scripts/verify_summaries.py
+
       - name: Rebuild site data (fails if new audits lack summaries)
         id: build
         run: python3 scripts/build_site.py
@@ -33,9 +47,20 @@ jobs:
         run: |
           git config user.name "audit-files-bot"
           git config user.email "actions@github.com"
-          git add data/audits_raw.json data/nyc_rec_status.json docs/audits.json
+          git add data/audits_raw.json data/nyc_rec_status.json docs/audits.json data/summaries
           git diff --cached --quiet || git commit -m "Weekly refresh: implementation statuses and audit list"
           git push
+
+      # When an audit is still missing a summary the refresh is held back, but
+      # any automated drafts (passed or failed) are kept for the person who
+      # finishes the job.
+      - name: Keep automated drafts when the build is held back
+        if: failure() && steps.build.outcome == 'failure'
+        run: |
+          git config user.name "audit-files-bot"
+          git config user.email "actions@github.com"
+          for p in data/summaries data/drafts; do if [ -e "$p" ]; then git add "$p"; fi; done
+          git diff --cached --quiet || { git commit -m "Automated summary drafts for new audits" && git push; }
 
       - name: Open issue when new audits need summaries
         if: failure()
@@ -53,6 +78,9 @@ jobs:
           missing=[a for a in raw if not pathlib.Path(f"data/summaries/{slug_of(a['url'])}.json").exists()]
           for a in missing:
               print(f"- {a['issued']} {a.get('title','')} {a['url']}")
+              d=pathlib.Path(f"data/drafts/{slug_of(a['url'])}.json")
+              if d.exists():
+                  print(f"  - the automated draft failed its checks; draft and problems in {d}")
           EOF
           )
           if [ -n "$BODY" ]; then

@@ -24,16 +24,43 @@ jobs:
         continue-on-error: true
         run: python3 scripts/ingest_outside.py
 
-      - name: Commit the refreshed crawl index
+      # Drafts summaries for reports on the worklist with the Claude API and
+      # publishes only drafts that pass every check. Reports the model would
+      # rule out are recorded as suggestions in data/outside_triage.json, never
+      # ruled out automatically. Without the ANTHROPIC_API_KEY secret it does
+      # nothing and exits 0.
+      - name: Draft summaries for new outside reports (skipped without ANTHROPIC_API_KEY)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          pip install --quiet "anthropic>=1.9,<2" "pypdf>=6"
+          python3 scripts/draft_summaries.py --outside --max-cost 3
+
+      - name: Rebuild the worklist after drafting
+        id: worklist
+        continue-on-error: true
+        run: python3 scripts/ingest_outside.py --no-crawl
+
+      - name: Verify every quote and number against its source
+        run: python3 scripts/verify_summaries.py
+
+      - name: Rebuild site data
+        run: python3 scripts/build_site.py
+
+      - name: Commit the crawl index, worklist and any new summaries
         run: |
           git config user.name "audit-files-bot"
           git config user.email "actions@github.com"
-          git add data/outside_index.json data/outside_new.md || true
+          for p in data/outside_index.json data/outside_new.md data/summaries data/raw_extra \
+                   data/drafts data/outside_triage.json docs/audits.json; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
           git diff --cached --quiet || git commit -m "Fortnightly outside crawl"
-          git push || true
+          git push
 
       - name: Open an issue listing the new reports
-        if: steps.ingest.outcome == 'failure'
+        if: always() && steps.worklist.outcome == 'failure'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

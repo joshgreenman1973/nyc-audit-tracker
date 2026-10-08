@@ -60,8 +60,9 @@ a { color:var(--ink); }
 <h2>How the data is gathered</h2>
 <p>Scrapers fetch each watchdog's public listing pages, follow each report to its official page or PDF and extract the report text. Dates, titles, agencies and links come directly from those pages. The pipeline is built to fail loudly: if a source returns zero reports or a report yields no text, the update stops rather than silently publishing incomplete data.</p>
 
-<h2>How the plain-language summaries are written</h2>
+<h2 id="summaries">How the plain-language summaries are written</h2>
 <p>Summaries are AI-assisted, written only from the text of each official report under rules that bar adding any fact, name or figure not present in the source, and are verified afterward by a script that checks every quoted phrase and every dollar figure against the source text. Findings and recommendations are restatements, so wording differs from the official documents; the official report is always one click away and is the authoritative version.</p>
+<p>Since October 2026, new reports can also be summarized automatically when the scheduled checks find them. The pipeline sends the report's text to Anthropic's Claude (the Sonnet 5.5 model) with the same written rules, then publishes the draft only if it clears every check: each quote and each listed figure must appear word for word in the report text, every figure in the plain-language prose must appear in the report text, field lengths and topics must follow the rules, a city comptroller audit's recommendation count must match the comptroller's own tracker when the audit is listed there, and a second, separate Claude pass must find no statement the report does not support, no missing or merged recommendation, no editorializing and no unexplained acronym. A draft that fails any check is not published; it is set aside for a person. The pipeline never decides on its own that an outside report should be left out; it only suggests that, and a person decides. Cards with an automated summary that no person has yet read against the report say so. The code is <a href="https://github.com/joshgreenman1973/nyc-audit-tracker/blob/main/scripts/draft_summaries.py">scripts/draft_summaries.py</a>.</p>
 
 <h2>How implementation status is tracked</h2>
 <p>Whether a recommendation was actually carried out is reported differently by each watchdog, and the tracker keeps those meanings distinct:</p>
@@ -76,7 +77,7 @@ a { color:var(--ink); }
 <p>Counts shown in the tracker are counts of items in these summaries, not official tallies. Reviews and letter reports sometimes present key takeaways and suggestions rather than formal findings and recommendations; the tracker treats them the same way. Full reports contain more detail, sub-findings and formal agency response letters than any summary can carry.</p>
 
 <h2>Updates</h2>
-<p>An automated weekly check re-runs the comptroller scrapers. If new reports appear, they are flagged for summarizing and added; the "last updated" date on the front page reflects the most recent data build. Department of Investigation and monitor reports are added on the same cadence as they are published.</p>
+<p>An automated weekly check re-runs the comptroller scrapers. If new reports appear, they are summarized automatically where the drafts pass the checks described above, and flagged for a person otherwise; the "last updated" date on the front page reflects the most recent data build. Outside groups' publications are re-crawled twice a month in the same way. Department of Investigation and monitor reports are added on the same cadence as they are published.</p>
 
 <h2>Limitations</h2>
 <ul>

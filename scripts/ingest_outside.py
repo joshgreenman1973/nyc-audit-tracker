@@ -17,6 +17,7 @@ fail visibly rather than silently going stale.
                (used after scripts/draft_summaries.py has cleared items)
 """
 import json
+import re
 import subprocess
 import sys
 from datetime import date
@@ -78,17 +79,38 @@ def automation_notes():
     notes = {}
     if TRIAGE.exists():
         for t in json.loads(TRIAGE.read_text()):
-            notes[t["url"].rstrip("/")] = (
-                f"automated triage suggests ruling out ({t['decision'].replace('_', ' ')}): "
-                f"{t['reason']} To confirm, move the entry to data/outside_no_recs.json.")
+            if t["decision"] == "source_incomplete":
+                note = (f"automated drafting could not judge it from the text it could fetch: "
+                        f"{t['reason']}")
+            else:
+                note = (f"automated triage suggests ruling out "
+                        f"({t['decision'].replace('_', ' ')}): {t['reason']} To confirm, move "
+                        f"the entry from data/outside_triage.json to data/outside_no_recs.json.")
+            notes[t["url"].rstrip("/")] = note
     if DRAFTS.exists():
         for f in DRAFTS.glob("*.json"):
             d = json.loads(f.read_text())
-            url = (d.get("summary") or {}).get("url", "").rstrip("/")
+            url = (d.get("url") or (d.get("summary") or {}).get("url") or "").rstrip("/")
             if url:
                 notes[url] = (f"automated draft failed its checks; draft and problems in "
                               f"data/drafts/{f.name}")
     return notes
+
+
+def fail(msg):
+    """Exit nonzero, leaving a worklist that says why, so a later --no-crawl
+    rebuild (and the issue) carries the failure instead of masking it."""
+    OUT.write_text(f"# Outside reports needing review ({date.today().isoformat()})\n\n"
+                   f"## Crawl failures\n- {msg}\n")
+    sys.exit(f"FAIL: {msg}")
+
+
+def previous_failures():
+    """Crawl failures listed in the existing worklist (used with --no-crawl)."""
+    if not OUT.exists():
+        return []
+    m = re.search(r"^## Crawl failures\n(.*?)(?=^## |\Z)", OUT.read_text(), re.S | re.M)
+    return [ln[2:].strip() for ln in m.group(1).splitlines() if ln.startswith("- ")] if m else []
 
 
 def crawl():
@@ -113,16 +135,19 @@ def main():
     no_crawl = "--no-crawl" in sys.argv[1:]
     if not REG.exists():
         sys.exit(f"FAIL: no publisher registry at {REG}")
+    # Without a crawl, the last crawl's failures still stand; carry them over.
+    failures = previous_failures() if no_crawl else []
     # A stale worklist from a previous run must never be mistaken for this run's.
     if OUT.exists():
         OUT.unlink()
 
-    failures = [] if no_crawl else crawl()
+    if not no_crawl:
+        failures = crawl()
     if not INDEX.exists():
-        sys.exit("FAIL: crawl produced no index")
+        fail("crawl produced no index")
     items = json.loads(INDEX.read_text())
     if not items:
-        sys.exit("FAIL: crawl returned zero candidates across all publishers")
+        fail("crawl returned zero candidates across all publishers")
 
     reg = json.loads(REG.read_text())
     manual = manual_publishers(reg)
