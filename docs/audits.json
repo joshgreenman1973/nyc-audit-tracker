@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-12",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -1914,54 +1914,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 7
-   },
-   "status_as_of": "2026-07-29",
    "rec_display": [
     {
      "n": 1,
@@ -3795,55 +3747,55 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-05-11",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-05-11",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-05-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-05-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-05-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-05-11",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-05-11",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-05-11",
      "agency_response": "Agreed With"
     },
     {
-     "n": 9,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-05-11",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-05-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-05-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-05-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
      "status": "Pending",
      "status_date": "2026-05-11",
      "agency_response": "Disagreed With"
@@ -4679,44 +4631,6 @@
    "is_followup": false,
    "implementation_note": "",
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Not Implemented",
-     "status_date": "2026-08-21",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 2,
-     "status": "Not Implemented",
-     "status_date": "2026-08-21",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Not Implemented",
-     "status_date": "2026-08-21",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
-     "status": "Partially Implemented",
-     "status_date": "2026-08-21",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2026-08-21",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Not Implemented": 3,
-    "Partially Implemented": 1,
-    "Implemented": 1
-   },
-   "status_as_of": "2026-08-21",
    "rec_display": [
     {
      "n": 1,
@@ -5415,436 +5329,436 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Pending",
-     "status_date": "2026-04-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2026-04-07",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
      "agency_response": "Not Addressed"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
@@ -8727,69 +8641,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-05-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-05-29",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-05-29",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 4,
-     "status": "Partially Implemented",
-     "status_date": "2026-05-28",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-05-29",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2026-05-29",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Implemented",
-     "status_date": "2026-05-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Implemented",
-     "status_date": "2026-05-29",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 9,
-     "status": "N/A",
-     "status_date": "2026-05-29",
-     "agency_response": "Not Addressed"
-    }
-   ],
-   "status_tally": {
-    "Pending": 4,
-    "Partially Implemented": 1,
-    "Implemented": 3,
-    "N/A": 1
-   },
-   "status_as_of": "2026-05-29",
    "rec_display": [
     {
      "n": 1,
@@ -8913,29 +8764,29 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Partially Implemented",
-     "status_date": "2026-04-30",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2026-04-30",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-04-30",
+     "status_date": "2026-05-05",
      "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-05-05",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Partially Implemented",
+     "status_date": "2026-05-05",
+     "agency_response": "Partially Agreed With"
     }
    ],
    "status_tally": {
-    "Partially Implemented": 1,
-    "Implemented": 2
+    "Implemented": 2,
+    "Partially Implemented": 1
    },
-   "status_as_of": "2026-04-30",
+   "status_as_of": "2026-05-05",
    "rec_display": [
     {
      "n": 1,
@@ -9020,42 +8871,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-14",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-14",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-04-14",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-04-14",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-04-14",
-     "agency_response": "Partially Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 5
-   },
-   "status_as_of": "2026-04-14",
    "rec_display": [
     {
      "n": 1,
@@ -9143,49 +8958,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-05-15",
-     "agency_response": "Not Addressed"
-    }
-   ],
-   "status_tally": {
-    "Pending": 2,
-    "Implemented": 4
-   },
-   "status_as_of": "2026-05-15",
    "rec_display": [
     {
      "n": 1,
@@ -9554,31 +9326,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-24",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-24",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-04-24",
-     "agency_response": "Not Addressed"
-    }
-   ],
-   "status_tally": {
-    "Pending": 2,
-    "Implemented": 1
-   },
-   "status_as_of": "2026-04-24",
    "rec_display": [
     {
      "n": 1,
@@ -9683,74 +9430,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Partially Implemented",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Pending",
-     "status_date": "2026-07-30",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 10,
-     "status": "Pending",
-     "status_date": "2026-07-29",
-     "agency_response": "Not Addressed"
-    }
-   ],
-   "status_tally": {
-    "Pending": 7,
-    "Implemented": 2,
-    "Partially Implemented": 1
-   },
-   "status_as_of": "2026-07-30",
    "rec_display": [
     {
      "n": 1,
@@ -9875,48 +9554,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2025-12-26",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 6
-   },
-   "status_as_of": "2025-12-26",
    "rec_display": [
     {
      "n": 1,
@@ -10457,82 +10094,64 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-08-26",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-09-02",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-09-02",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-08-28",
      "agency_response": "Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2025-12-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-12-11",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-08-28",
      "agency_response": "Agreed With"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-09-02",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 10,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-08-27",
      "agency_response": "Agreed With"
     },
     {
-     "n": 11,
+     "n": null,
      "status": "Pending",
-     "status_date": "2025-12-11",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 12,
-     "status": "Pending",
-     "status_date": "2025-12-11",
+     "status_date": "2026-09-02",
      "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-26",
+     "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 12
+    "Pending": 9
    },
-   "status_as_of": "2025-12-11",
+   "status_as_of": "2026-09-02",
    "rec_display": [
     {
      "n": 1,
@@ -10817,27 +10436,27 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-04-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
+     "status_date": "2026-04-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
      "status_date": "2026-04-09",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 2,
-    "Implemented": 1
+    "Implemented": 1,
+    "Pending": 2
    },
    "status_as_of": "2026-04-09",
    "rec_display": [
@@ -10931,49 +10550,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2025-12-05",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-04-07",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 4,
-    "Implemented": 2
-   },
-   "status_as_of": "2026-04-07",
    "rec_display": [
     {
      "n": 1,
@@ -12621,88 +12197,88 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2026-03-06",
      "agency_response": "Agreed With"
     },
     {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-06",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-03-06",
      "agency_response": "Agreed With"
     },
     {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Pending",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 10,
-     "status": "Pending",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 11,
-     "status": "Implemented",
-     "status_date": "2026-03-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 12,
+     "n": null,
      "status": "Not Implemented",
      "status_date": "2026-03-09",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 13,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-03-06",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-06",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Partially Implemented": 1,
     "Pending": 6,
     "Implemented": 5,
+    "Partially Implemented": 1,
     "Not Implemented": 1
    },
    "status_as_of": "2026-03-09",
@@ -13375,24 +12951,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Partially Implemented",
-     "status_date": "2026-09-30",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Partially Implemented",
-     "status_date": "2026-09-30",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Partially Implemented": 2
-   },
-   "status_as_of": "2026-09-30",
    "rec_display": [
     {
      "n": 1,
@@ -13720,31 +13278,31 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Agreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Agreed With"
@@ -13895,30 +13453,6 @@
    ],
    "is_followup": true,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-06-25",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-06-25",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-06-25",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 3
-   },
-   "status_as_of": "2026-06-25",
    "rec_display": [
     {
      "n": 1,
@@ -14435,49 +13969,49 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-01-16",
      "agency_response": "Not Addressed"
@@ -14604,98 +14138,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 1,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 5,
-     "status": "Partially Implemented",
-     "status_date": "2026-05-07",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Partially Implemented",
-     "status_date": "2026-05-07",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 6,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 7,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 7,
-     "status": "Not Implemented",
-     "status_date": "2026-02-09",
-     "agency_response": "Disagreed With"
-    }
-   ],
-   "status_tally": {
-    "Not Implemented": 10,
-    "Implemented": 2,
-    "Partially Implemented": 2
-   },
-   "status_as_of": "2026-05-07",
    "rec_display": [
     {
      "n": 1,
@@ -14806,47 +14248,46 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-28",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-02-26",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-02-27",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2026-02-27",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-02-27",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-02-27",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2026-02-28",
-     "agency_response": "Agreed With"
+     "status_date": "2026-08-25",
+     "agency_response": "Not Addressed"
     }
    ],
    "status_tally": {
-    "Implemented": 2,
-    "Pending": 4
+    "Implemented": 6
    },
-   "status_as_of": "2026-02-28",
+   "status_as_of": "2026-08-25",
    "rec_display": [
     {
      "n": 1,
@@ -14957,63 +14398,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-02-19",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-02-18",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-09-25",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "N/A",
-     "status_date": "2026-02-18",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2026-02-18",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-02-18",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Partially Implemented",
-     "status_date": "2026-02-18",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Implemented",
-     "status_date": "2026-02-19",
-     "agency_response": "Disagreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 3,
-    "Implemented": 3,
-    "N/A": 1,
-    "Partially Implemented": 1
-   },
-   "status_as_of": "2026-02-19",
    "rec_display": [
     {
      "n": 1,
@@ -15257,38 +14641,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Partially Implemented",
-     "status_date": "2026-01-17",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Not Implemented",
-     "status_date": "2026-01-16",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-01-16",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2026-01-16",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Partially Implemented": 1,
-    "Not Implemented": 1,
-    "Implemented": 2
-   },
-   "status_as_of": "2026-01-17",
    "rec_display": [
     {
      "n": 1,
@@ -15662,74 +15014,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Not Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Pending",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 10,
-     "status": "Implemented",
-     "status_date": "2026-02-03",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Pending": 4,
-    "Implemented": 5,
-    "Not Implemented": 1
-   },
-   "status_as_of": "2026-02-03",
    "rec_display": [
     {
      "n": 1,
@@ -15833,24 +15117,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2026-01-16",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-01-16",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 2
-   },
-   "status_as_of": "2026-01-16",
    "rec_display": [
     {
      "n": 1,
@@ -17317,52 +16583,28 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2026-05-04",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-05-04",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-10-23",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2025-10-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-10-23",
+     "status_date": "2026-04-21",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2025-10-23",
+     "status_date": "2026-04-21",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2026-05-04",
+     "status_date": "2026-05-05",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Implemented": 7
+    "Implemented": 3
    },
-   "status_as_of": "2026-05-04",
+   "status_as_of": "2026-05-05",
    "rec_display": [
     {
      "n": 1,
@@ -17471,56 +16713,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Not Implemented",
-     "status_date": "2025-12-02",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 2,
-     "status": "Not Implemented",
-     "status_date": "2025-12-02",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-12-02",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Not Implemented",
-     "status_date": "2025-12-02",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-10-15",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2025-12-02",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2026-10-15",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Not Implemented": 3,
-    "Implemented": 2,
-    "Pending": 2
-   },
-   "status_as_of": "2026-10-15",
    "rec_display": [
     {
      "n": 1,
@@ -17631,51 +16823,51 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2026-03-04",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-03-04",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
+     "n": null,
      "status": "Not Implemented",
      "status_date": "2026-03-04",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2026-03-04",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-03-04",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-03-04",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-03-04",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-04",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-03-04",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Pending",
      "status_date": "2026-03-04",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 4,
     "Not Implemented": 1,
+    "Pending": 4,
     "Implemented": 2
    },
    "status_as_of": "2026-03-04",
@@ -17777,24 +16969,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-12-01",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2025-12-01",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 2
-   },
-   "status_as_of": "2025-12-01",
    "rec_display": [
     {
      "n": 1,
@@ -17885,76 +17059,76 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-04-09",
      "agency_response": "Agreed With"
     },
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2026-08-25",
-     "agency_response": "Partially Agreed With"
+     "status_date": "2025-04-09",
+     "agency_response": "Agreed With"
     },
     {
-     "n": 2,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-04-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-04-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Not Implemented",
      "status_date": "2025-04-09",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-08-25",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-04-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-25",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
-     "status_date": "2025-04-09",
-     "agency_response": "Agreed With"
+     "status_date": "2026-08-25",
+     "agency_response": "Partially Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-25",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-25",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-10-28",
      "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-04-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-25",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2026-08-25",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Implemented",
-     "status_date": "2026-08-25",
-     "agency_response": "Partially Agreed With"
     }
    ],
    "status_tally": {
@@ -18075,61 +17249,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2025-10-29",
-     "agency_response": "Partially Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 4,
-    "Pending": 4
-   },
-   "status_as_of": "2025-10-29",
    "rec_display": [
     {
      "n": 1,
@@ -18241,54 +17360,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2026-09-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Implemented",
-     "status_date": "2025-10-29",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 7
-   },
-   "status_as_of": "2026-09-23",
    "rec_display": [
     {
      "n": 1,
@@ -18610,39 +17681,39 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-09",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-07-09",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2026-03-02",
      "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-07-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-07-09",
-     "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Partially Implemented": 2,
-    "Pending": 3
+    "Pending": 3,
+    "Partially Implemented": 2
    },
    "status_as_of": "2026-07-09",
    "rec_display": [
@@ -18902,48 +17973,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-09-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2025-09-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-09-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2025-09-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-09-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2025-09-22",
-     "agency_response": "Disagreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 6
-   },
-   "status_as_of": "2025-09-23",
    "rec_display": [
     {
      "n": 1,
@@ -19062,172 +18091,172 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Agreed With"
     },
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Agreed With"
     },
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Agreed With"
     },
     {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 5,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-05-22",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
+     "agency_response": "Partially Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Pending",
-     "status_date": "2025-05-22",
-     "agency_response": "Agreed With"
+     "agency_response": "Partially Agreed With"
     }
    ],
    "status_tally": {
@@ -19621,52 +18650,52 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-09-19",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Pending",
-     "status_date": "2026-08-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2026-08-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Pending",
-     "status_date": "2026-08-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2026-08-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Pending",
-     "status_date": "2026-08-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
+     "n": null,
      "status": "Not Implemented",
      "status_date": "2025-09-22",
      "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-17",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-17",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-17",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-17",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-17",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-09-19",
+     "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Implemented": 2,
+    "Not Implemented": 1,
     "Pending": 4,
-    "Not Implemented": 1
+    "Implemented": 2
    },
    "status_as_of": "2026-08-17",
    "rec_display": [
@@ -19998,65 +19027,65 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-08-07",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2026-08-07",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Not Implemented",
-     "status_date": "2026-08-07",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
      "status_date": "2026-08-07",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Not Implemented",
+     "status_date": "2026-08-07",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Not Implemented",
+     "status_date": "2026-08-07",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-08-07",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-08-07",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2026-08-07",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-08-07",
      "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Not Implemented",
-     "status_date": "2026-08-07",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Implemented",
-     "status_date": "2026-08-07",
-     "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
     "Implemented": 4,
     "Not Implemented": 2,
-    "Partially Implemented": 1,
-    "Pending": 2
+    "Pending": 2,
+    "Partially Implemented": 1
    },
    "status_as_of": "2026-08-07",
    "rec_display": [
@@ -20469,109 +19498,109 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 1,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 9,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-07-30",
      "agency_response": "Agreed With"
@@ -21862,43 +20891,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-08-28",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Implemented",
-     "status_date": "2025-08-28",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Pending",
-     "status_date": "2025-03-18",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2025-08-06",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Pending",
-     "status_date": "2025-08-05",
-     "agency_response": "Not Addressed"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 3,
-    "Pending": 2
-   },
-   "status_as_of": "2025-08-28",
    "rec_display": [
     {
      "n": 1,
@@ -22325,49 +21317,49 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 2,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 4,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 5,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Pending",
      "status_date": "2025-10-28",
      "agency_response": "Not Addressed"
@@ -23319,123 +22311,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": 1,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
-     "status": "Not Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 3,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 6,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 7,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Pending",
-     "status_date": "2026-02-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 9,
-     "status": "Partially Implemented",
-     "status_date": "2025-06-26",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 10,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 11,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 12,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 13,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 14,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 15,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 16,
-     "status": "Pending",
-     "status_date": "2026-02-17",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 17,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 18,
-     "status": "Implemented",
-     "status_date": "2025-06-23",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 14,
-    "Not Implemented": 1,
-    "Pending": 2,
-    "Partially Implemented": 1
-   },
-   "status_as_of": "2026-02-17",
    "rec_display": [
     {
      "n": 1,
@@ -23687,75 +22562,75 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Partially Implemented",
-     "status_date": "2025-06-30",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-10-30",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
+     "n": null,
+     "status": "Partially Implemented",
+     "status_date": "2025-06-29",
+     "agency_response": "Not Addressed"
+    },
+    {
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2025-06-30",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-10-30",
+     "agency_response": "Not Addressed"
+    },
+    {
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2025-06-29",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 6,
-     "status": "Partially Implemented",
-     "status_date": "2025-06-29",
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-10-30",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-10-30",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 7,
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2025-10-30",
      "agency_response": "Agreed With"
     },
     {
-     "n": 8,
+     "n": null,
      "status": "Partially Implemented",
      "status_date": "2025-06-29",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 10,
-     "status": "Implemented",
-     "status_date": "2025-10-30",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 11,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-10-30",
      "agency_response": "Not Addressed"
     },
     {
-     "n": 12,
-     "status": "Implemented",
-     "status_date": "2025-10-30",
-     "agency_response": "Not Addressed"
-    },
-    {
-     "n": 13,
-     "status": "Implemented",
-     "status_date": "2025-10-30",
+     "n": null,
+     "status": "Partially Implemented",
+     "status_date": "2025-06-30",
      "agency_response": "Not Addressed"
     },
     {
@@ -23766,8 +22641,8 @@
     }
    ],
    "status_tally": {
-    "Partially Implemented": 6,
-    "Implemented": 7
+    "Implemented": 7,
+    "Partially Implemented": 6
    },
    "status_as_of": "2025-10-30",
    "rec_display": [
@@ -24392,57 +23267,57 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
-     "status": "Pending",
-     "status_date": "2025-06-13",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 2,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-13",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 3,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-13",
      "agency_response": "Agreed With"
     },
     {
-     "n": 4,
-     "status": "Implemented",
-     "status_date": "2025-06-13",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 5,
-     "status": "Implemented",
-     "status_date": "2025-06-13",
-     "agency_response": "Partially Agreed With"
-    },
-    {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-16",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-06-13",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-06-13",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-13",
      "agency_response": "Agreed With"
     },
     {
-     "n": 8,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-06-13",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-06-13",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 1,
-    "Implemented": 7
+    "Implemented": 7,
+    "Pending": 1
    },
    "status_as_of": "2025-06-16",
    "rec_display": [
@@ -25322,58 +24197,58 @@
    "compliance_note": "",
    "rec_statuses": [
     {
-     "n": 1,
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-05-16",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2025-05-16",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
      "status": "Not Implemented",
      "status_date": "2025-05-16",
      "agency_response": "Disagreed With"
     },
     {
-     "n": 2,
-     "status": "Not Implemented",
-     "status_date": "2025-05-16",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 3,
-     "status": "Not Implemented",
-     "status_date": "2025-05-16",
-     "agency_response": "Disagreed With"
-    },
-    {
-     "n": 4,
+     "n": null,
      "status": "Pending",
      "status_date": "2026-09-02",
      "agency_response": "Partially Agreed With"
     },
     {
-     "n": 5,
+     "n": null,
+     "status": "Not Implemented",
+     "status_date": "2025-05-16",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-05-16",
      "agency_response": "Agreed With"
     },
     {
-     "n": 6,
+     "n": null,
      "status": "Implemented",
      "status_date": "2025-05-16",
      "agency_response": "Agreed With"
     },
     {
-     "n": 7,
-     "status": "Implemented",
+     "n": null,
+     "status": "Not Implemented",
      "status_date": "2025-05-16",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": 8,
-     "status": "Implemented",
-     "status_date": "2025-05-16",
-     "agency_response": "Agreed With"
+     "agency_response": "Disagreed With"
     }
    ],
    "status_tally": {
+    "Implemented": 4,
     "Not Implemented": 3,
-    "Pending": 1,
-    "Implemented": 4
+    "Pending": 1
    },
    "status_as_of": "2026-09-02",
    "rec_display": [
