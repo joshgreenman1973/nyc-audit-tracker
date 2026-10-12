@@ -66,8 +66,11 @@ def decode(d):
     out, prev = [], [None] * ncol
     for r in rows:
         C, Rbits, ci, vals = r.get("C", []), r.get("R", 0), 0, []
+        Nbits = r.get("Ø", 0)  # Power BI's null bitmask: these columns are empty
         for i in range(ncol):
-            if Rbits & (1 << i):
+            if Nbits & (1 << i):
+                vals.append(None)
+            elif Rbits & (1 << i):
                 vals.append(prev[i])
             else:
                 vals.append(C[ci]); ci += 1
