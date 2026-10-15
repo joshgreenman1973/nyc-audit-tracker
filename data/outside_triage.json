@@ -18,5 +18,35 @@
     "reason": "only 1213 characters of text could be fetched",
     "model": "claude-sonnet-5-5",
     "date": "2026-10-08"
+  },
+  {
+    "title": "Delays, Discretion, and Denials: State Legislative Reforms to Local Land Use Processes",
+    "url": "https://www.furmancenter.org/publication/state-land-use-process-reforms-housing-delays/",
+    "publisher": "furman",
+    "issued": "2026-10-13",
+    "decision": "not_nyc_government",
+    "reason": "The brief surveys state legislative reforms across many states and offers considerations to state policymakers, with no recommendations addressed to New York City government.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "The Builder’s Remedy: Key Considerations for Enforcing Pro-Housing Policies",
+    "url": "https://www.furmancenter.org/publication/builders-remedy-pro-housing-policy-enforcement/",
+    "publisher": "furman",
+    "issued": "2026-10-13",
+    "decision": "not_nyc_government",
+    "reason": "The brief reviews builder's remedy policies in eight other states and offers considerations for states weighing such a policy; it is not substantially about New York City and addresses no recommendations to city agencies, the mayor or the City Council.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "State-Level Reforms to Local Land Use Planning: Strategies for Addressing Housing Needs",
+    "url": "https://www.furmancenter.org/publication/state-land-use-planning-housing-reforms/",
+    "publisher": "furman",
+    "issued": "2026-10-13",
+    "decision": "not_nyc_government",
+    "reason": "The brief reviews state-level land use planning reforms in other states and offers considerations to state policymakers; it is not substantially about New York City and makes no recommendations to New York City government.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-10-15"
   }
 ]
