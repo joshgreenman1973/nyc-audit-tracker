@@ -2216,8 +2216,8 @@
   "issued": "2025-12-02",
   "recommendation": "LPC should ensure that all permits have the LPC approval stamp before being issued.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-09"
+  "response_status": "Implemented",
+  "status_date": "2026-10-15"
  },
  {
   "title": "Audit of the Processing of Permit Applications by the Landmarks Preservation Commission",
@@ -3097,7 +3097,7 @@
   "recommendation": "NYCHA should develop a mechanism for soliciting and tracking resident feedback on repairs and maintenance of work performed, and for capturing and sharing the evaluation of micro and small vendors.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-02-13"
+  "status_date": "2026-10-15"
  },
  {
   "title": "Audit on the NYC Housing Authority's Selection and Monitoring of Contractors",
@@ -3107,7 +3107,7 @@
   "recommendation": "NYCHA should develop a standard format with standard criteria for rating vendors in evaluations, covering the areas of timeliness of performance, fiscal administration and accountability, and overall quality of performance.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-02-13"
+  "status_date": "2026-10-15"
  },
  {
   "title": "Audit on the NYC Housing Authority's Selection and Monitoring of Contractors",
@@ -3127,7 +3127,7 @@
   "recommendation": "NYCHA should ensure that contractor evaluations are conducted in a timely manner and that they demonstrate in sufficient detail the vendor’s performance.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-02-13"
+  "status_date": "2026-10-15"
  },
  {
   "title": "Audit on the NYC Housing Authority's Selection and Monitoring of Contractors",
@@ -3187,7 +3187,7 @@
   "recommendation": "NYCHA should require that prior work performed by prospective vendors be formally considered and documented in all subsequent contract award decisions.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-02-13"
+  "status_date": "2026-10-15"
  },
  {
   "title": "Audit on the NYC Housing Authority's Selection and Monitoring of Contractors",
@@ -8070,6 +8070,66 @@
   "status_date": "2023-12-27"
  },
  {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Consider increasing its use of M/WBE contractors and encourage the agency's prime vendors to increase their use of M/WBE subcontractors.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-07-28"
+ },
+ {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Document the process of vetting and conducting background checks of the proposed subcontractors.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-07-28"
+ },
+ {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Ensure that prime vendors are submitting subcontractors' information including sub agreements and payment information as required in PASSPort (previously PIP and HHS systems).ACS should ensure that prime contractors record subcontractors in the system and that ACS approves the subcontracts in a timely manner as required, especially when dealing with a vulnerable population of children who depend on the services provided by subcontractors.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-07-28"
+ },
+ {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Implement DOI's 2021 recommendations to City agencies. Comply with MOCS and MORMC policies and directives created to provide guidance in the implementation of the recommendations.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-07-28"
+ },
+ {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Prevent payments to unapproved subcontractors by periodically reviewing prime vendors' general ledgers and include as part of its examination of subcontractors' agreements and invoices.Ensure that prime vendors are submitting subcontractors' information including sub agreements and payment information as required in PASSPort (previously PIP and HHS systems).To prevent payments to primes for unapproved subcontractors, ACS should also periodically review prime vendors' general ledgers to better ensure that (1) the agency is aware of all subcontractors used by primes on contracts; (2) only approved subcontractors are hired, invoiced to ACS, and paid; and (3) that prime vendors are submitting such documentation as required in PASSPort (previously PIP and HHS systems).",
+  "response": "Disagreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-06-30"
+ },
+ {
+  "title": "Prime Vendor's Use of Subcontractors on HHS Contracts",
+  "audit_num": "P25Vendor0087/FP24-067A",
+  "agency": "Administration for Children's Services",
+  "issued": "2025-09-25",
+  "recommendation": "Review subcontract agreements for prompt payment stipulation and ensure that prime contractors are providing prompt payments to their subcontractors.For the sake of transparency and tracking, ACS should put in place mechanisms to ensure that subcontractors are being paid in a timely manner for essential services provided.",
+  "response": "Not Addressed",
+  "response_status": "Implemented",
+  "status_date": "2026-07-28"
+ },
+ {
   "title": "Prime Vendors' Use of Subcontractors on HHS Contracts",
   "audit_num": "P25Vendor0088/FP24-068A",
   "agency": "Department of Health and Mental Hygiene",
@@ -8796,8 +8856,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should aggregate the results of its various BWC reviews (e.g., ICAD reviews, Self-Inspections, 802 Worksheets, etc.) to identify anomalies or trends and address them accordingly.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8816,8 +8876,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should ensure independent reviews of Self-Inspections are conducted by PSD.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8826,8 +8886,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should ensure that 802 Worksheets are completed monthly as required.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8836,8 +8896,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should ensure that Self-Inspections are completed monthly as required.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8856,8 +8916,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should formalize a policy for conducting ICAD reviews including the number, frequency, and sampling plan of reviews, and include in the methodology that ICAD interactions that are not required to be recorded be excluded from the reviews and replaced with additional samples.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8866,8 +8926,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should increase Legal Bureau staffing levels and make additional efforts to address FOIL requests timely.",
   "response": "Agreed With",
-  "response_status": "Partially Implemented",
-  "status_date": "2026-03-06"
+  "response_status": "Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8886,8 +8946,8 @@
   "issued": "2025-10-03",
   "recommendation": "NYPD should provide timely notice to requesters that a required 160.50 waiver document is missing.",
   "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-06"
+  "response_status": "Partially Implemented",
+  "status_date": "2026-10-14"
  },
  {
   "title": "Review of the Effectiveness of NYPD's Implementation of its Body-Worn Camera Program",
@@ -8921,720 +8981,720 @@
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Buildings",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Consumer and Worker Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Environmental Protection",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Health and Mental Hygiene",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Sanitation",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Department of Small Business Services",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Fire Department of New York",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tAgencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
+  "issued": "2026-04-07",
+  "recommendation": "Agencies should prioritize violations and reforms based on their potential impact on businesses that fit within the adopted definition. The selection process should move beyond general business benefits to address the unique regulatory and financial challenges faced by smaller entities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should adopt a uniform \"small business\" definition used by all participating agencies.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should adopt a uniform 'small business' definition used by all participating agencies.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should create a formal, documented methodology for assessing the impact of SBF reforms, establishing a transparent framework for calculating projected and realized savings. This would equip City officials with the data necessary to inform future policy decisions, prioritize effective reforms, and ensure fiscal accountability.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should develop a framework for monitoring and assessing both financial savings and non-financial impacts, such as reductions in administrative burden and time savings for business owners.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should implement a formal protocol to monitor the impact of regulatory relief on public health and safety. This framework should track whether reduced penalties or extended cure periods affect the timeliness of violations remediation.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-27"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe City should provide regular public reporting on the SBF initiative’s progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
+  "issued": "2026-04-07",
+  "recommendation": "The City should provide regular public reporting on the SBF initiative's progress, realized savings for small businesses, and overall compliance rates. To maintain integrity, these reports should clearly define performance indicators, data sources and scope, explain calculation methodologies, and acknowledge any data limitations.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
+  "issued": "2026-04-07",
+  "recommendation": "The designated lead agency should conduct a comprehensive review of the previously implemented reforms to determine if the financial savings benefited small businesses. This evaluation would help the City determine if the program is helping the intended recipients.",
   "response": "Not Addressed",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe Mayor’s Office should formally designate a lead agency (e.g., the Mayor’s Office or SBS) responsible for overseeing and coordinating the SBF initiative’s progress, tracking savings, and ensuring ongoing effectiveness.",
+  "issued": "2026-04-07",
+  "recommendation": "The Mayor's Office should formally designate a lead agency (e.g., the Mayor's Office or SBS) responsible for overseeing and coordinating the SBF initiative's progress, tracking savings, and ensuring ongoing effectiveness.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-07"
+  "status_date": "2026-08-26"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
-  "audit_num": "MJ25-080S",
+  "audit_num": "J25PAR10039/MJ25-080S",
   "agency": "Mayor's Office",
-  "issued": "2026-03-18",
-  "recommendation": "\tThe regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific “small business” identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
+  "issued": "2026-04-07",
+  "recommendation": "The regulatory agencies (DCWP, DEP, DOB, DOHMH, DSNY, and FDNY) should consider integrating a specific \"small business\" identifier in their systems to track violation issuances, fine reductions, waivers, and cure periods specifically for small entities.",
   "response": "Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
@@ -9808,66 +9868,6 @@
   "response": "Agreed With",
   "response_status": "Implemented",
   "status_date": "2022-06-30"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should consider increasing its use of M/WBE contractors and encourage the agency’s prime vendors to increase their use of M/WBE subcontractors.",
-  "response": "Agreed With",
-  "response_status": "Implemented",
-  "status_date": "2026-02-28"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should document the process of vetting and conducting background checks of the proposed subcontractors.",
-  "response": "Agreed With",
-  "response_status": "Implemented",
-  "status_date": "2026-08-25"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should ensure that prime vendors are submitting subcontractors’ information including sub agreements and payment information as required in PASSPort (previously PIP and HHS systems).",
-  "response": "Agreed With",
-  "response_status": "Implemented",
-  "status_date": "2026-08-25"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should implement DOI’s 2021 recommendations to City agencies. Comply with MOCS and MORMC policies and directives created to provide guidance in the implementation of the recommendations.",
-  "response": "Agreed With",
-  "response_status": "Implemented",
-  "status_date": "2026-08-25"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should prevent payments to unapproved subcontractors by periodically reviewing prime vendors’ general ledgers and include as part of its examination of subcontractors’ agreements and invoices.",
-  "response": "Disagreed With",
-  "response_status": "Implemented",
-  "status_date": "2026-02-26"
- },
- {
-  "title": "The Administration for Children's Services Oversight of Prime Vendors' Use of Subcontractors on Health and Human Services Contracts",
-  "audit_num": "FP24-067A",
-  "agency": "Administration for Children's Services",
-  "issued": "2025-07-02",
-  "recommendation": "ACS should review subcontract agreements for prompt payment stipulation and ensure that prime contractors are providing prompt payments to their subcontractors.",
-  "response": "Not Addressed",
-  "response_status": "Implemented",
-  "status_date": "2026-08-25"
  },
  {
   "title": "The Board of Election’s (BOE’s) Oversight over Absentee Ballot Distribution and Processing",
