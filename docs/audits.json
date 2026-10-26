@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19",
+ "generated": "2026-10-26",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -9996,31 +9996,6 @@
    ],
    "is_followup": false,
    "compliance_note": "",
-   "rec_statuses": [
-    {
-     "n": null,
-     "status": "Implemented",
-     "status_date": "2026-04-09",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": null,
-     "status": "Implemented",
-     "status_date": "2026-10-15",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": null,
-     "status": "Pending",
-     "status_date": "2026-04-09",
-     "agency_response": "Agreed With"
-    }
-   ],
-   "status_tally": {
-    "Implemented": 2,
-    "Pending": 1
-   },
-   "status_as_of": "2026-10-15",
    "rec_display": [
     {
      "n": 1,

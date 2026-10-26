@@ -2201,33 +2201,23 @@
  },
  {
   "title": "Audit of the Processing of Permit Applications by the Landmarks Preservation Commission",
-  "audit_num": "FL25-058A",
+  "audit_num": "FL25PAR30022/FL25-058A",
   "agency": "Landmarks Preservation Commission",
-  "issued": "2025-12-02",
+  "issued": "2025-12-09",
   "recommendation": "LPC should consider establishing percentage goals for the number of PMWs to be issued within established timeframes.",
   "response": "Agreed With",
   "response_status": "Implemented",
-  "status_date": "2026-04-09"
+  "status_date": "2026-09-16"
  },
  {
   "title": "Audit of the Processing of Permit Applications by the Landmarks Preservation Commission",
-  "audit_num": "FL25-058A",
+  "audit_num": "FL25PAR30022/FL25-058A",
   "agency": "Landmarks Preservation Commission",
-  "issued": "2025-12-02",
+  "issued": "2025-12-09",
   "recommendation": "LPC should ensure that all permits have the LPC approval stamp before being issued.",
   "response": "Agreed With",
   "response_status": "Implemented",
-  "status_date": "2026-10-15"
- },
- {
-  "title": "Audit of the Processing of Permit Applications by the Landmarks Preservation Commission",
-  "audit_num": "FL25-058A",
-  "agency": "Landmarks Preservation Commission",
-  "issued": "2025-12-02",
-  "recommendation": "LPC should make efforts to ensure that COFAs are issued within 10 business days.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-09"
+  "status_date": "2026-09-16"
  },
  {
   "title": "Audit of the Queens Borough Public Library's Emergency Preparedness",
@@ -8978,6 +8968,126 @@
   "response": "Agreed With",
   "response_status": "Implemented",
   "status_date": "2026-03-06"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Aggregate the results of its various BWC reviews (e.g., ICAD reviews, Self-Inspections, 802 Worksheets, etc.) to identify anomalies or trends and address them accordingly.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Ensure independent reviews of Self-Inspections are conducted by PSD.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Ensure that 802 Worksheets are completed monthly as required.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Ensure that Self-Inspections are completed monthly as required.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Ensure that TRI reports are completed for all use-of-force incidents.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-03-09"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Formalize a policy for conducting ICAD reviews including the number, frequency, and sampling plan of reviews, and include in the methodology that ICAD interactions that are not required to be recorded be excluded from the reviews and replaced with additional samples.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Increase Legal Bureau staffing levels and make additional efforts to address FOIL requests timely.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Investigate causes of lower activation rates in certain boroughs and precincts and take steps to ensure they continue to improve across the City.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-03-09"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Provide timely notice to requesters that a required 160.50 waiver document is missing.",
+  "response": "Agreed With",
+  "response_status": "Partially Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Review a sample of BWC footage from Level 2 and Level 3 Investigative Encounters to determine whether force was used and whether a TRI Report was completed, as required.",
+  "response": "Partially Agreed With",
+  "response_status": "Not Implemented",
+  "status_date": "2026-08-03"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Take additional steps to ensure compliance with its Stop/Frisk policy by identifying improper stops.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-03-09"
+ },
+ {
+  "title": "Review of the Effectiveness of the New York City Police Department's Implementation of its Body-Worn Camera Program",
+  "audit_num": "D25PAR30076",
+  "agency": "New York City Police Department",
+  "issued": "2025-10-28",
+  "recommendation": "Take steps to ensure that all officers who perform patrol duties are immediately provided with cameras.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-03-09"
  },
  {
   "title": "Review of the Impact of Violation Enforcement on Small Businesses",
