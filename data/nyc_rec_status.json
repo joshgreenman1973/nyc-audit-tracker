@@ -74,49 +74,9 @@
   "audit_num": "SR25PAR20014/SR25-059A",
   "agency": "Board of Correction",
   "issued": "2025-12-31",
-  "recommendation": "Codify rules for each standing and ad hoc committee detailing the scope of their authority, roles and responsibilities of members and officers, how often they should meet, and requirements for meeting agendas, notices, and minutes.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
-  "status_date": "2026-06-08"
- },
- {
-  "title": "Audit of New York City Board of Correction's Governance Structure",
-  "audit_num": "SR25PAR20014/SR25-059A",
-  "agency": "Board of Correction",
-  "issued": "2025-12-31",
-  "recommendation": "Conduct Board committee meetings in compliance with the New York State Open Meetings Law. This includes making committee meetings open to the public, providing notice of meetings, and preparing and posting meeting minutes or recordings within prescribed timeframes.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-08"
- },
- {
-  "title": "Audit of New York City Board of Correction's Governance Structure",
-  "audit_num": "SR25PAR20014/SR25-059A",
-  "agency": "Board of Correction",
-  "issued": "2025-12-31",
   "recommendation": "Immediately transition to an accessible virtual meeting platform.",
   "response": "Partially Agreed With",
   "response_status": "Implemented",
-  "status_date": "2026-06-08"
- },
- {
-  "title": "Audit of New York City Board of Correction's Governance Structure",
-  "audit_num": "SR25PAR20014/SR25-059A",
-  "agency": "Board of Correction",
-  "issued": "2025-12-31",
-  "recommendation": "Review digital content and coordinate with the Mayor's Office of People with Disabilities (MOPD) and the City's Office of Innovation and Technology to remediate accessibility errors and ensure compliance with City standards.",
-  "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-08"
- },
- {
-  "title": "Audit of New York City Board of Correction's Governance Structure",
-  "audit_num": "SR25PAR20014/SR25-059A",
-  "agency": "Board of Correction",
-  "issued": "2025-12-31",
-  "recommendation": "Revisit the BOC Rules for establishing committees and appointing committee members and officers, and consider reinstating collective decision-making by the full Board, to ensure that each of the appointing authorities is involved in setting Board priorities.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
   "status_date": "2026-06-08"
  },
  {
@@ -908,46 +868,6 @@
   "response": "Partially Agreed With",
   "response_status": "Pending",
   "status_date": "2026-08-07"
- },
- {
-  "title": "Audit of the Department of Education's Compliance with Regulations Concerning English Language Learners",
-  "audit_num": "SR25PAR20013/SR23-057A",
-  "agency": "Department of Education",
-  "issued": "2025-09-08",
-  "recommendation": "DOE should develop and implement a centralized tracking system for waitlist and transfer requests in ATS and enhance oversight to ensure all bilingual program preferences are honored timely.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-26"
- },
- {
-  "title": "Audit of the Department of Education's Compliance with Regulations Concerning English Language Learners",
-  "audit_num": "SR25PAR20013/SR23-057A",
-  "agency": "Department of Education",
-  "issued": "2025-09-08",
-  "recommendation": "DOE should establish a centralized process to collect, analyze, and act on data from the Parent Survey and Program Agreement Forms across all schools.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-24"
- },
- {
-  "title": "Audit of the Department of Education's Compliance with Regulations Concerning English Language Learners",
-  "audit_num": "SR25PAR20013/SR23-057A",
-  "agency": "Department of Education",
-  "issued": "2025-09-08",
-  "recommendation": "DOE should finalize rules for implementing a tracking and monitoring system for Bilingual Education and English as a New Language Programs to ensure students are being adequately served.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-24"
- },
- {
-  "title": "Audit of the Department of Education's Compliance with Regulations Concerning English Language Learners",
-  "audit_num": "SR25PAR20013/SR23-057A",
-  "agency": "Department of Education",
-  "issued": "2025-09-08",
-  "recommendation": "DOE should implement and further develop a system to monitor ENL units of study to ensure that students are receiving all required ENL minutes by a certified ENL teacher, in compliance with CR Part 154.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-24"
  },
  {
   "title": "Audit of the Department of Education's Oversight over its Contracted School Bus Services",
@@ -3478,6 +3398,106 @@
   "response": "Agreed With",
   "response_status": "Implemented",
   "status_date": "2026-09-18"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should continue their efforts to recruit more qualified teachers for English Language Learners program classes and encourage current DOE personnel to obtain the required certifications to become ELL certified educators.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should continue to conduct regular audits and inspections during ML/ELL School Support Survey visits to ensure that all required school level ELL-critical documentation is completed, retained in students’ cumulative records, and accurately entered in ATS.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should develop a centralized system for tracking teachers’ Continuing Teacher and Leader Education (CTLE) hours, to ensure that they are receiving the minimum 50% of required professional development hours, as outlined in CR Part 154. Additionally, DOE should designate a team to monitor CTLE compliance and provide periodic status reports.",
+  "response": "Disagreed With",
+  "response_status": "Not Implemented",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should develop and implement a centralized tracking system for waitlist and transfer requests in ATS and enhance oversight to ensure all bilingual program preferences are honored timely.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should establish a centralized process to collect, analyze, and act on data from the Parent Survey and Program Agreement Forms across all schools.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should finalize rules for implementing a tracking and monitoring system for Bilingual Education and English as a New Language Programs to ensure students are being adequately served.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should implement a school level monitoring system to ensure that the ELL identification process is being completed in accordance with their Policy and Reference Guide and CR Part 154.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should implement and further develop a system to monitor ENL units of study to ensure that students are receiving all required ENL minutes by a certified ENL teacher, in compliance with CR Part 154.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should implement standardized procedures to ensure that all schools provide complete and accurate ELL program information to parents/guardians in Parent Survey and Program Agreement Forms.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-02-03"
+ },
+ {
+  "title": "Audit Report of the Department of Education’s Compliance with Regulations Concerning English Language Learners",
+  "audit_num": "SR23-057A",
+  "agency": "Department of Education",
+  "issued": "2025-09-05",
+  "recommendation": "DOE should improve oversight of waiver requests, evaluate recruitment efforts, and expand bilingual programs in high-demand districts to reduce reliance on waivers and ensure ELL students receive appropriate language services.",
+  "response": "Agreed With",
+  "response_status": "Implemented",
+  "status_date": "2026-02-03"
  },
  {
   "title": "Audit Report on Bronx County Public Administrator Office's Estate Assets Identification and Management Practices",
@@ -7401,63 +7421,93 @@
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Conduct periodic reviews of provider licensure and NPI information for existing employees and establish procedures to promptly correct inaccurate or incomplete provider records in NYCPS systems.",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should conduct periodic reviews of provider licensure and NPI information for existing employees and establish procedures to promptly correct inaccurate or incomplete provider records in NYCPS systems.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Continue efforts to obtain parental consent forms, and again, establish monitoring controls, such as sample-based reviews, to monitor compliance.",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should continue efforts to obtain parental consent forms, and again, establish monitoring controls, such as sample-based reviews, to monitor compliance.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Develop and implement an interim action plan, with milestones and timelines, to strengthen existing claim validation controls and reduce unclaimed service encounters pending full implementation of MedSys.",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should develop and implement an interim action plan, with milestones and timelines, to strengthen existing claim validation controls and reduce unclaimed service encounters pending full implementation of MedSys.",
   "response": "Partially Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Perform a cost-benefit analysis to assess the sources of foregone Medicaid reimbursement revenue, determine resources needed to expand claiming, determine whether it is fiscally reasonable to do so, and develop a plan for staged expansion of claiming.",
-  "response": "Partially Agreed With",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should establish routine monitoring controls, such as sample-based reviews, to ensure that all OT, PT, and ST service encounters are supported by required written orders or referrals prior to submission for Medicaid reimbursement.",
+  "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Promptly provide information and documents that are necessary for the auditors to complete legally authorized audits, in the interest of ensuring transparency for all New Yorkers.",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should perform a cost-benefit analysis to assess the sources of foregone Medicaid reimbursement revenue, determine resources needed to expand claiming, determine whether it is fiscally reasonable to do so, and develop a plan for staged expansion of claiming.",
   "response": "Partially Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
-  "audit_num": "N25Vendor0008/FN24-058F",
+  "audit_num": "FN24-058F",
   "agency": "Department of Education",
-  "issued": "2026-07-22",
-  "recommendation": "Reassess the feasibility of implementing the recommendations that remain not implemented once the Medicaid claiming team is fully staffed and operational and the new Special Education system has been rolled out.",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should promptly provide information and documents that are necessary for the auditors to complete legally authorized audits, in the interest of ensuring transparency for all New Yorkers.",
   "response": "Partially Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-22"
+ },
+ {
+  "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
+  "audit_num": "FN24-058F",
+  "agency": "Department of Education",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should reassess the feasibility of implementing the recommendations that remain not implemented once the Medicaid claiming team is fully staffed and operational and the new Special Education system has been rolled out.",
+  "response": "Partially Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-07-22"
+ },
+ {
+  "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
+  "audit_num": "FN24-058F",
+  "agency": "Department of Education",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should record all service sessions in EasyTrac and SESIS. In relation to the service encounters found not to be recorded during the audit, NYCPS should conduct reviews to determine if services were provided but not recorded or not provided in accordance with IEP mandates. If provided but not recorded, NYCPS should take steps to ensure schools and providers are aware of the problem. If mandated services were not provided, NYCPS should investigate why not and take appropriate action.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-07-22"
+ },
+ {
+  "title": "Follow-up Audit Report on the Department of Education's Efforts to Maximize Medicaid Reimbursement Claims for Special Education Services",
+  "audit_num": "FN24-058F",
+  "agency": "Department of Education",
+  "issued": "2026-07-16",
+  "recommendation": "NYCPS should take all necessary steps to ensure that Medicaid documentation and claiming requirements are met for all covered services for K-12 and for all eligible preschool-age students and submit Medicaid reimbursement claims for those services where appropriate within the billable window and resubmit correctable claims. This is necessary to maximize Medicaid reimbursement for the City.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-07-22"
  },
  {
   "title": "Follow-up Audit Report on the Financial and Operating Practices of the 47th Street Business Improvement District",
@@ -7794,46 +7844,6 @@
   "audit_num": "E25Vendor0082/SE23-073A",
   "agency": "Department of Design and Construction",
   "issued": "2025-12-26",
-  "recommendation": "Create a dedicated project cost management team to track and report on cost overruns in the aggregate, while planning upgrades to Benchmark to enable comprehensive project cost management.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-12"
- },
- {
-  "title": "Mitigation of Delays and Cost Overruns on Capital Construction Projects",
-  "audit_num": "E25Vendor0082/SE23-073A",
-  "agency": "Department of Design and Construction",
-  "issued": "2025-12-26",
-  "recommendation": "Improve the construction schedule prepared at project initiation to more accurately reflect the constraints of designing and constructing a public works project in NYC. If it is not possible to project a completion date at project initiation, then DDC should consider not providing a construction completion date until the end of the design phase.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-12"
- },
- {
-  "title": "Mitigation of Delays and Cost Overruns on Capital Construction Projects",
-  "audit_num": "E25Vendor0082/SE23-073A",
-  "agency": "Department of Design and Construction",
-  "issued": "2025-12-26",
-  "recommendation": "Launch Virtual Design and Construction (VDC) practice, including updates to BIM standards.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-12"
- },
- {
-  "title": "Mitigation of Delays and Cost Overruns on Capital Construction Projects",
-  "audit_num": "E25Vendor0082/SE23-073A",
-  "agency": "Department of Design and Construction",
-  "issued": "2025-12-26",
-  "recommendation": "Report in the MMR the full extent of cost and time overruns, from the first baseline, and establish causation categories to better track and report on the specific causes or time and cost changes, as they occur. This should be done on each individual project and in the aggregate for all projects under DDC's management.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-12"
- },
- {
-  "title": "Mitigation of Delays and Cost Overruns on Capital Construction Projects",
-  "audit_num": "E25Vendor0082/SE23-073A",
-  "agency": "Department of Design and Construction",
-  "issued": "2025-12-26",
   "recommendation": "Work with City Hall to compel the private utility companies to provide better documentation and engineering of their systems (\"pre-engineering\") during the design phase. Support a permanent or long-term extension of the Joint Bidding Law, which allows City work and utility work to be bid within the same contract.",
   "response": "Agreed With",
   "response_status": "Implemented",
@@ -8134,42 +8144,12 @@
   "audit_num": "P25Vendor0088/FP24-068A",
   "agency": "Department of Health and Mental Hygiene",
   "issued": "2025-09-25",
-  "recommendation": "Document the process of vetting and conducting background checks of proposed subcontractors.Ensure that competitive bidding is conducted by prime vendors when selecting subcontractors.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-03"
- },
- {
-  "title": "Prime Vendors' Use of Subcontractors on HHS Contracts",
-  "audit_num": "P25Vendor0088/FP24-068A",
-  "agency": "Department of Health and Mental Hygiene",
-  "issued": "2025-09-25",
-  "recommendation": "Ensure that payments on contracts for subcontracting expenses are for vendors that have been approved by DOHMH to be subcontractors on those contracts.Prevent payments to unapproved subcontractors by carefully reviewing HHS invoices submitted by the primes. Continue to periodically review prime vendors' general ledgers and request and review subcontractors' agreements and invoices.To prevent payments to primes for unapproved subcontractors, DOHMH should carefully review information entered into the system and ensure that the subcontractors are approved and paid under the correct contract numbers and correct classifications.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-03-18"
- },
- {
-  "title": "Prime Vendors' Use of Subcontractors on HHS Contracts",
-  "audit_num": "P25Vendor0088/FP24-068A",
-  "agency": "Department of Health and Mental Hygiene",
-  "issued": "2025-09-25",
   "recommendation": "Ensure that prime vendors are submitting subcontractors' information including sub agreements and payment information as required in PASSPort (previously PIP and HHS systems).Make all reasonable efforts to ensure that FMS accurately reflects subcontractor approvals and industry classificationsFor the sake of transparency and tracking, DOHMH should establish mechanisms for enforcing the requirement that prime vendors report payments and submit proof of payment to subcontractors in PASSPort (previously PIP).",
   "response": "Agreed With",
   "response_status": "Not Implemented",
   "status_date": "2026-03-03"
  },
  {
-  "title": "Prime Vendors' Use of Subcontractors on HHS Contracts",
-  "audit_num": "P25Vendor0088/FP24-068A",
-  "agency": "Department of Health and Mental Hygiene",
-  "issued": "2025-09-25",
-  "recommendation": "Review sub agreements and ensure that prime contractors are providing prompt payments to its subcontractors.",
-  "response": "Agreed With",
-  "response_status": "Partially Implemented",
-  "status_date": "2026-03-18"
- },
- {
   "title": "Review of City Agencies' Compliance with Terms and Conditions of Award Method 72",
   "audit_num": "FP24-078S",
   "agency": "Board of Elections",
@@ -8610,64 +8590,74 @@
   "status_date": "2025-02-18"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Analyze skills gaps between job opportunities and job seeker skills and develop a strategy for addressing them.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should analyze skills gaps between job opportunities and job seeker skills and develop a strategy for addressing them.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Conduct annual surveys of participants to assess success from their perspectives.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should conduct annual surveys of participants to assess success from their perspectives.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Ensure that the newly adopted Worksource 1 database captures key performance indicators to evaluate the effectiveness of the program.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should ensure that the newly adopted Worksource1 database captures key performance indicators to evaluate the effectiveness of the program.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Increase Spanish language outreach to relevant job seekers.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should increase Spanish language outreach to relevant job seekers.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Work with other city agencies and employer partners to effectively reduce identified barriers to employment for job seekers with disabilities.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should minimize any misunderstanding between job seekers’ expectations and program services by adding the following statement to the Job Seeker Acknowledgement form: “I understand that interviews with prospective employers and/or employment are not guaranteed.”",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
  },
  {
-  "title": "Review of Mayor's Office for People with Disabilities ATWORK Program",
-  "audit_num": "E25PAR10037/ME25-079S",
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
   "agency": "Mayor's Office",
-  "issued": "2026-07-29",
-  "recommendation": "Work with the City Council to obtain additional funding to enhance the effectiveness of the ATWORK program and provide additional services to meet the needs of job seekers with disabilities.",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should work with other city agencies and employer partners to effectively reduce identified barriers to employment for job seekers with disabilities.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2026-07-29"
+ },
+ {
+  "title": "Review of Mayor's Office for People with Disabilities (MOPD) ATWORK Program",
+  "audit_num": "ME25-079S",
+  "agency": "Mayor's Office",
+  "issued": "2026-04-08",
+  "recommendation": "MOPD should work with the City Council to obtain additional funding to enhance the effectiveness of the ATWORK program and provide additional services to meet the needs of job seekers with disabilities.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-07-29"
  },
  {
   "title": "Review of New York City Housing Authority's Calculation on Rent Increment on Public Housing Tenants Reside at the Red Hood Houses",

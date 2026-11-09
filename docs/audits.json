@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-09",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -1914,6 +1914,54 @@
    ],
    "is_followup": false,
    "compliance_note": "",
+   "rec_statuses": [
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-07-29",
+     "agency_response": "Agreed With"
+    }
+   ],
+   "status_tally": {
+    "Pending": 7
+   },
+   "status_as_of": "2026-07-29",
    "rec_display": [
     {
      "n": 1,
@@ -14508,6 +14556,74 @@
    ],
    "is_followup": false,
    "compliance_note": "",
+   "rec_statuses": [
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Not Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Implemented",
+     "status_date": "2026-02-03",
+     "agency_response": "Agreed With"
+    }
+   ],
+   "status_tally": {
+    "Implemented": 5,
+    "Not Implemented": 1,
+    "Pending": 4
+   },
+   "status_as_of": "2026-02-03",
    "rec_display": [
     {
      "n": 1,
