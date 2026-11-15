@@ -48,5 +48,25 @@
     "reason": "The brief reviews state-level land use planning reforms in other states and offers considerations to state policymakers; it is not substantially about New York City and makes no recommendations to New York City government.",
     "model": "claude-sonnet-5-5",
     "date": "2026-10-15"
+  },
+  {
+    "title": "Built to Last: Designing a Financially Sustainable, Long-Term Operating Model to Maintain the Nation’s Aging Housing Stock",
+    "url": "https://www.furmancenter.org/publication/operational-sustainability-aging-housing-stock/",
+    "publisher": "furman",
+    "issued": "2026-11-09",
+    "decision": "not_nyc_government",
+    "reason": "The white paper is a national analysis whose policy considerations are addressed to local, state and federal governments in general, not to New York City government, and New York City is mentioned only in passing.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-11-15"
+  },
+  {
+    "title": "Hidden Digital Skills: Training Resource Guide",
+    "url": "https://nycfuture.org/research/hidden-digital-skills-training-resource-guide",
+    "publisher": "cuf",
+    "issued": "2026-11-01",
+    "decision": "no_recommendations",
+    "reason": "The text is a resource guide that lists 29 youth and 43 adult digital skills training programs with descriptions and contact details, and it makes no recommendations to New York City government.",
+    "model": "claude-sonnet-5-5",
+    "date": "2026-11-15"
   }
 ]

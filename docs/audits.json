@@ -1,7 +1,109 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-15",
  "cutoff": "2025-01-01",
  "audits": [
+  {
+   "id": "2026-11-10-furman-home-equity-risk-data-vulnerable-homeowners",
+   "source": "outside",
+   "auditor": "NYU Furman Center",
+   "title": "Home Equity at Risk: New Data on Vulnerable Homeowners in New York City",
+   "plain_title": "Homeowners at risk of title problems and lost home equity in the city",
+   "agency": "New York City government",
+   "issued": "2026-11-10",
+   "url": "https://www.furmancenter.org/publication/home-equity-at-risk-vulnerable-homeowners-nyc/",
+   "pdf": "https://www.furmancenter.org/wp-content/uploads/2026/11/Home-Equity-at-Risk_508-1-1.pdf",
+   "what_they_audited": "A data brief from the NYU Furman Center that uses property records to estimate how many 1-3 unit homes in New York City (excluding Staten Island) are at high risk of title problems. It also looks at transfers of homes from people to companies that may signal scams.",
+   "background": "The brief updates a 2025 analysis and was shaped by focus groups with government officials, legal services providers, nonprofit partners and law enforcement. It defines a high-risk property as one with at least one deceased owner of record and either no recorded deed or a most recent deed from 1996 or earlier.",
+   "findings": [
+    {
+     "plain": "The brief counts 2,300 high-risk properties among 447,239 human-owned 1-3 family homes, with the Bronx having the highest share at 0.54 percent.",
+     "quote": "We find a total of 2,300 high-risk properties in New York City"
+    },
+    {
+     "plain": "High-risk properties show much more financial distress than other human-owned homes, including owing more than $500 in property taxes and appearing on the tax lien sale list.",
+     "quote": "12.87 percent of high-risk properties owed more than $500 in property taxes at the beginning of Fiscal Year 27, compared to just 1.93 percent of all 1-3 unit residential properties with human owners"
+    },
+    {
+     "plain": "Contrary to what focus group partners expected, high-risk properties are less likely than other human-owned homes to have recent code violations.",
+     "quote": "only 9.00 percent of high-risk properties had violations"
+    },
+    {
+     "plain": "Community districts with the most high-risk properties have higher shares of Black, Asian and foreign-born residents than the rest of the city.",
+     "quote": "Community districts in the top, highest-risk tercile have higher shares of Black, Asian, and foreign-born residents and lower shares of white and Hispanic residents than the rest of the city."
+    },
+    {
+     "plain": "Transfers from a person to a company where the seller did not match the buyer on the prior deed reached their highest share in the period studied in 2025.",
+     "quote": "In 2025, the percentage of grantor/grantee mismatch transfers reached 34.5 percent."
+    },
+    {
+     "plain": "Use of Transfer on Death Deeds, a low-cost estate planning tool that avoids probate, has grown since 2024 but remains low in volume.",
+     "quote": "Uptake of Transfer on Death Deeds has risen since their introduction in 2024, though the overall volume is low."
+    }
+   ],
+   "numbers": [
+    {
+     "value": "2,300",
+     "label": "High-risk properties identified"
+    },
+    {
+     "value": "447,239",
+     "label": "Human-owned 1-3 family homes analyzed"
+    },
+    {
+     "value": "0.54 percent",
+     "label": "Share of Bronx homes at high risk"
+    },
+    {
+     "value": "12.87 percent",
+     "label": "High-risk homes owing over $500 in property taxes"
+    },
+    {
+     "value": "1.93 percent",
+     "label": "All human-owned homes owing over $500 in taxes"
+    },
+    {
+     "value": "34.5 percent",
+     "label": "Person-to-company transfers with a mismatch in 2025"
+    },
+    {
+     "value": "1,380",
+     "label": "Transfer on Death Deeds filed July 2024 to July 2026"
+    }
+   ],
+   "recommendations": [
+    "Update publicly readable property record data to specify the deed type and whether properties go through Surrogate's Court.",
+    "Collect machine-readable information on the notaries or attorneys who presented recorded documents, so patterns of repeated suspicious conduct can be identified.",
+    "Carry out homeowner outreach through trusted local organizations with deep community relationships, in a multilingual and culturally competent way, covering estate planning, scam warnings, legal providers and financial support programs."
+   ],
+   "agency_response": "",
+   "implementation_note": "",
+   "compliance_note": "",
+   "topics": [
+    "housing",
+    "transparency",
+    "money and contracts"
+   ],
+   "is_followup": false,
+   "ai_draft": {
+    "model": "claude-sonnet-5-5",
+    "drafted": "2026-11-15",
+    "human_reviewed": false
+   },
+   "rec_display": [
+    {
+     "n": 1,
+     "text": "Update publicly readable property record data to specify the deed type and whether properties go through Surrogate's Court."
+    },
+    {
+     "n": 2,
+     "text": "Collect machine-readable information on the notaries or attorneys who presented recorded documents, so patterns of repeated suspicious conduct can be identified."
+    },
+    {
+     "n": 3,
+     "text": "Carry out homeowner outreach through trusted local organizations with deep community relationships, in a multilingual and culturally competent way, covering estate planning, scam warnings, legal providers and financial support programs."
+    }
+   ]
+  },
   {
    "id": "2026-10-01-citizensunion-citizens-union-recommends-yes-vote-five",
    "source": "outside",

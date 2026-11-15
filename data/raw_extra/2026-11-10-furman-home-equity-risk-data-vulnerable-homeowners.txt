@@ -1,0 +1,1220 @@
+===== SOURCE: landing page =====
+Introduction
+For many New Yorkers, homeownership represents their most significant investment and a valuable asset to pass on to the next generation. As homeowners age and home values appreciate rapidly, incomplete property records and title issues may make some homeowners vulnerable to exploitation. When ownership or other property records are unclear, residents may be more susceptible to title-related complications, legal challenges, or pressure to sell under unfavorable terms.
+In partnership with a number of organizations and government agencies that work closely with homeowners, this brief leverages large data sets to track how many homeowners in New York City are at risk of title problems and other issues that may lead to a loss of equity. This analysis provides an updated look at the potential scale of the problem and the extent to which title issues overlap with other indicators of homeowner financial distress. It also provides insights on which neighborhoods may be most at risk.
+This data brief builds on earlier work to better understand the risks facing long-time New York City homeowners and inform policy responses. In our 2025 brief, Using Data to Prevent the Loss of Home Equity in New York City , the NYU Furman Center estimated the number and geographic distribution of 1-3 family homes in New York City with indicators that suggested vulnerability to predatory tactics or title-related issues. Since then, the NYU Furman Center has met with government officials, legal services providers, nonprofit partners, and law enforcement officials to understand how additional risk indicators should be included in the analysis. Simultaneously, the NYU Furman Center created a restricted-access mapping tool that uses these data to help these institutions provide support to at-risk homeowners. This data brief both updates the data published last year and explains and estimates the prevalence of additional indicators that could signal homeowner risk.
+In our analysis of 1-3 unit homes in New York City (excluding Staten Island), we find the following:
+• The Bronx has the highest prevalence of properties at high risk of title issues, at 0.54 percent of human-owned 1-3 unit homes.
+• Signs of financial distress (including being on the tax lien sale list) are seven times higher among properties at high risk of title issues than for all human-owned single-family homes.
+• The percentage of all human-to-entity property transfers that were deemed to have a broken chain of title because the grantor on the new deed did not match the grantee on the previous deed or because there was no prior recorded deed reached its highest level in the last decade.
+• Between 2015 and 2025, human-to-entity transfers with a broken chain of title were mostly located in eastern Queens, the north Bronx, and southeastern Brooklyn.
+• Community districts with the highest number of properties that are at high risk of title issues and human-to-entity transfers with a broken chain of title also have higher shares of Black, Asian, and foreign-born residents.
+Targeted outreach, legal assistance, law enforcement, and financial support for homeowners are essential to address vulnerabilities and prevent future home equity loss. It is our hope that this analysis, alongside the restricted data tool shared with partner organizations, can inform outreach efforts, track the prevalence of certain fraudulent schemes, and provide policymakers with the information needed to target their interventions most effectively. 
+The analysis that follows first reviews the policy landscape and relevant recent research on New York City’s response to deed theft and title issues. It then presents our findings, focusing first on properties at high risk of title issues, second on uptake of a new estate planning tool called transfer on death deeds, and third we discuss the prevalence of flagged human-to-entity transfers. Next, we discuss data transparency considerations and conclusions from our research. Finally, we provide an appendix with details about our methodology and data analysis.
+If you believe you are the victim of deed theft, the New York State Attorney General’s Office recommends that you file a complaint with law enforcement and contact an attorney. For more information, please review the resources provided by the New York State Attorney General’s Office .
+Recent Policy and Research on Deed Theft and Title Issues
+In recent years, policymakers have prioritized addressing and preventing deed theft, heirs’ property partition actions, and other title-related issues. In one notable example, in April of this year, Mayor Mamdani established the Mayor’s Office of Deed Theft Prevention, housed in the Department of Finance. This new office is tasked with coordinating an interagency effort to prevent, detect, investigate, and respond to deed theft. 1
+Elected officials in New York have also enacted a number of laws targeting specific heirs’ property and deed theft scenarios and protecting vulnerable populations. New York’s state-level heirs’ property legislation, enacted in 2019, 2 is based on the Uniform Partition of Heirs Property Act (UPHPA), which was approved by the Uniform Law Commission in 2010. 3
+In 2024, New York State enacted the Heirs Property Protection and Deed Theft Prevention Act.  This legislation strengthened the 2019 law by expanding protections for heirs’ property owners and barring non-heir purchasers with a fractional interest in heirs’ property from initiating a partition action. The act also increased penalties for deed theft and introduced Transfer on Death Deeds (TODDs). 4 A TODD is a low-cost estate planning tool that allows property owners to designate a beneficiary to automatically inherit the property upon the owner’s death, with no need to go through probate for the transferred property. 5 Other recent state-level legislation also focuses on deed theft. 6
+Alongside this continued legislative interest in protecting heirs’ property owners and preventing deed theft of vulnerable properties, recent research explores the prevalence of title issues and heirs’ property in New York City. In our 2025 brief , we drew on public and proprietary data to identify 1-3 unit residential properties with either at least one deceased owner or no recorded ownership transfers or mortgage activity since 1995. Properties that exhibited one of these indicators were flagged as “at risk,” while properties that exhibited both indicators were defined as “high risk” for title-related vulnerability. The report, which covered all of New York City except Staten Island, identified approximately 45,000 properties, worth an estimated $34.7 billion, that exhibited at least one risk indicator. A subset of approximately 3,700 properties, worth an estimated $3.0 billion, met both risk indicators. 7
+In April 2026, the Center for New York City Neighborhoods analyzed claims for partition cases filed between March and July of 2024. By flagging indicator phrases (such as “partition,” “deceased,” and “heirs”) and LLC purchases, the report identified 182 likely heirs’ property partition cases with a mean value of $1.14 million per property.  The Center estimated that approximately 350 heirs’ property partition lawsuits are filed annually in New York City. 8
+Findings
+Title-Related Vulnerabilities
+This section focuses on properties that are at high risk of title-related vulnerabilities (including heirs’ property issues 9 and cases where title may be unclear).
+When a title is unclear, it can be difficult for owners to lay claim to and fully leverage the value of their home. A clear title is often required to use the property as collateral for a loan, enroll in tax relief programs, or otherwise use the home as a financial asset, and properties with unclear title cannot receive FEMA disaster recovery funds or enroll in many home repair programs.
+Additionally, given New York City’s tight real estate market and price appreciation over time, many of these properties have significantly increased in value since they were purchased. Aging longtime residents or recent inheritors of a fractional interest in the property may not know the current market value of their home and, because of unclear title, they may be more vulnerable to scams when presented with lower offers from a predatory actor.
+We analyzed the prevalence of properties with unclear title, classifying properties as “high risk” if (1) an owner of record is deceased, and (2) either no deed was recorded against the property at all, or the most recent deed is at least 30 years old (from 1996 or earlier). 10 We note that these homes are not necessarily “heirs’ property,” but they are at a higher risk of having unclear title and likely require an intervention to stabilize the property’s ownership. 
+We then examined whether these properties also had other indicators of financial distress, including being on the tax lien sale list or having property tax debts that exceeded certain thresholds. We find that financial distress indicators are much more prevalent among the high-risk properties with unclear titles than among all 1-3 unit residential properties with a human owner.
+The Bronx and Queens have the highest prevalence of properties at high risk of having unclear titles.
+Table 1 shows the number and percentage of properties at high risk of title issues citywide and within each New York City borough, excluding Staten Island. We find a total of 2,300 high-risk properties in New York City. 11 Over 50 percent of the city’s high-risk properties are located in Queens; however, the Bronx has the highest share of 1-3 unit properties that are at high risk (0.52% compared to 0.54%, respectively). Manhattan has both the lowest number and share of high-risk properties, which is largely driven by the fact that the borough has fewer 1-3 family homes with human owners.
+Table 1
+High-Risk Property Count and Prevalence by Geography (2026)
+Property Universe: Number of 1-3 Family Properties With a Human Owner
+Number of High-Risk Properties
+Share of High-Risk Properties by Borough
+Share of Property Universe That is High-Risk
+New York City
+447,239
+2,300
+100.0%
+0.51%
+Queens
+235,080
+1,226
+53.3%
+0.52%
+Brooklyn
+156,931
+775
+33.7%
+0.49%
+The Bronx
+52,328
+285
+12.4%
+0.54%
+Manhattan
+2,900
+14
+0.6%
+0.48%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s PLUTO 26v1, Melissa Data Deceased Suppression, NYU Furman Center.
+Community districts with the highest number of properties that are at high risk of title issues also have higher shares of Black, Asian, and foreign-born residents.
+To compare the demographics of the neighborhoods with more high-risk properties against the rest of the city, we ranked community districts by the number of high-risk properties and broke the community districts into three equal groups. Community districts in the top, highest-risk tercile have higher shares of Black, Asian, and foreign-born residents and lower shares of white and Hispanic residents than the rest of the city. They also have much higher homeownership rates, which is likely due in part to the fact that we limit our analysis of high-risk properties to 1-3 unit homes.
+Table 2
+Demographic Indicators – High-Risk Properties
+High-Risk Properties
+Citywide
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+–
+% NH White
+23.1%
+30.4%
+34.9%
+30.7%
+% NH Black
+26.1%
+19.4%
+16.8%
+21.6%
+% NH Asian
+20.0%
+11.7%
+9.3%
+15.3%
+% Hispanic (Any Race)
+24.0%
+33.6%
+34.4%
+28.7%
+% Foreign Born
+44.0%
+35.9%
+28.5%
+36.7%
+% Homeowners
+46.2%
+25.4%
+20.0%
+32.7%
+% Below Poverty Line
+14.7%
+20.7%
+21.3%
+18.0%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), American Community Survey (2020-2024), Melissa Data Deceased Suppression, NYU Furman Center
+Properties at high risk of title issues are seven times more likely to appear on the tax lien sale list or have delinquent property taxes than all human-owned single family homes.
+We find that properties at a high risk for unclear title issues are also more likely to exhibit other indicators of financial distress, highlighting the vulnerability of the owners of these homes. For example, compared to the full universe of human-owned 1-3 unit properties, the high-risk properties are almost seven times more likely to be included on the tax lien sale list in 2025 (0.24% compared to 1.57%) for property tax debt, water and sewer debt, and other related fees and charges. 12 In addition, 12.87 percent of high-risk properties owed more than $500 in property taxes at the beginning of Fiscal Year 27, compared to just 1.93 percent of all 1-3 unit residential properties with human owners.
+The total number of 1-3 unit properties owing more than $500 in property taxes has been relatively stable over the last several years. However, the 2026 total of 8,618 properties is the lowest number since the COVID-19 pandemic. At the end of Fiscal Year 2021, we found 8,937 properties owing more than $500, and then the number increased by 5.4 percent, peaking at 9,421 properties in Fiscal Year 2022. Last year, at the end of Fiscal Year 2025, we found 9,276 properties that owed more than $500 in property taxes.
+Table 3
+Number and Shares of All 1-3 Unit Properties and High-Risk Properties Showing Indicators of Financial Distress (2026)
+Total Properties
+Properties in the 2025 Tax Lien Sale
+Properties That Owed >$500 in Property Taxes at the Beginning of FY27
+Properties With Any Financial Distress Indicator
+Property Universe: 1-3 Family Properties With a Human Owner
+447,239
+1,081
+(0.24%)
+8,618
+(1.93%)
+9,546
+(2.13%)
+High-Risk Properties
+2,300
+36
+(1.57%)
+296
+(12.87%)
+324
+(14.09%)
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s PLUTO 26v1, Melissa Data Deceased Suppression, NYU Furman Center.
+Compared to all human-owned single family homes, high-risk properties are less likely to have recorded violations within the last year.
+We hosted a series of focus groups to inform this research, and partner organizations that work closely with households dealing with title issues posited that these properties may see higher rates of code violations due to financial distress or because predatory actors called 311 to register violations as a form of harassment. However, we find that properties at risk of title issues actually have lower rates of code violations. While 11.56 percent of all 1-3 unit residential properties with human owners had at least one Department of Housing Preservation and Development (HPD), Department of Buildings (DOB), or Environmental Control Board (ECB) violation filed within the last year, only 9.00 percent of high-risk properties had violations. High-risk properties also have a lower rate of violations than all 1-3 unit properties owned by a human (154 compared to 175 violations per 1,000 units).
+Table 4
+Violation Rates for All 1-3 Unit Properties and High-Risk Properties (July 2025 – July 2026)
+Total Properties
+Properties With HPD Violations
+Properties With DOB/ECB Violations
+Properties With Any Violations
+Violations per 1,000 Units
+Property Universe: 1-3 Family Properties With a Human Owner
+447,239
+37,221
+(8.32%)
+22,237
+(4.97%)
+51,707
+(11.56%)
+175
+High-Risk Properties
+2,300
+140
+(6.09%)
+106
+(4.61%)
+207
+(9.00%)
+154
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of Housing Preservation and Development, NYC Department of Buildings, Melissa Data Deceased Suppression, NYU Furman Center.
+Transfer on Death Deeds
+Transfer on Death Deeds are an important new tool in estate planning that became available in 2024 as part of the Heirs Property Protection and Deed Theft Prevention Act. During our focus groups, practitioners noted that it would be useful to track uptake of this option, especially among homeowners at high risk of having unclear titles.
+When an owner records a TODD, heirs will directly inherit a property without having to go through probate upon the owner’s death. This form of estate planning is a low-cost way to ensure that a property passes directly and securely to designated beneficiaries, avoiding potentially complicated and expensive court proceedings and helping to prevent tangled title issues.
+Uptake of Transfer on Death Deeds has risen since their introduction in 2024, though the overall volume is low.
+Figure 1 shows the number of TODDs recorded across New York City and its boroughs, not including Staten Island, on a monthly basis, from the introduction of TODDs in July 2024 to July 2026. In the second half of 2024, 181 TODDs were recorded citywide; over 2025, a total of 713 TODDs were filed. Between January and July 2026, 486 TODDs had been filed. It is not immediately clear why recorded TODDs spiked in some spring or summer months in 2025 and 2026. Note that, in our prior work, we found approximately 45,000 properties for which there was no recorded deed or mortgage activity since 1995 or at least one deceased owner was still listed as an owner of record. Based on those indicators, we might assume the homeowners for those 45,000 properties are older or that the home was, for example, previously passed to an aging spouse. Though still underinclusive of the overall need, this data point still suggests there may be a substantial number of homes in need of further outreach about the TODD option.
+At a borough level, TODD uptake follows the distribution of 1-3 unit properties, with Queens and Brooklyn recording far more TODDs than Manhattan. TODD numbers may rise as legal services organizations and government officials continue to introduce this new estate planning option to homeowners.
+Figure 1
+Human-to-Entity Transfers
+This section introduces new scenarios and a different but related set of issues identified by the practitioners in our focus groups—transfers from a human owner to an entity (including an LLC) that could signal homeowner vulnerability. Not all human-to-entity property transfers reflect suspicious activity, but certain types of human-to-entity transfers may signal that a scam or fraudulent scheme targeting vulnerable homeowners has already taken place, including after a tangled title or heirs’ property issue. 
+Informed by focus group conversations, we reviewed and flagged two types of human-to-entity transfers:
+• Grantor/Grantee Mismatch: We flagged human-to-entity transfers where the name of the grantor (seller) to an entity did not match the name of the listed grantee (buyer) on the property’s previous deed, such as cases where the seller in a 2026 transaction is not the same as the buyer in a prior deed, causing an apparent break in the chain of title. Focus group participants indicated that this gap in the documented ownership chain could indicate that a bad actor has transferred fractional interests to an LLC, or that another type of scam has taken place. This category may also capture other types of transfers, such as a referee’s deed post-foreclosure. 
+• No Prior Deed: We also identified human-to-entity transfers where the transferred property had no deed on record before the deed that transferred ownership to the entity. As with the previous category, this identified gap in documentation raises red flags.
+We also analyzed all human-to-entity transfers across each community district to understand how many of these transfers occur, trends in this practice over time, and where these transfers are most common. 
+The total number of all human-to-entity transfers in New York City dropped sharply in 2020, likely due to pandemic disruptions, and has since increased but remains below pre-pandemic levels.
+In the five years before the pandemic, there were between 5,500 and 6,500 human-to-entity transfers each year. The number of transfers dipped to just 4,246 in 2020, but has been slowly increasing since then (with a slight dip in 2023). In 2025, there were more than 6,000 human-to-entity transfers for the first time since the pandemic. Importantly, human-to-entity transfers on their own are not an indicator of predatory activity and may be legitimate sales.
+Figure 2
+Human-to-entity transfers are concentrated in eastern Queens and central Brooklyn.
+The map below identifies the number of all human-to-entity deed transfers in New York City between 2015 and 2025. Over that period, these transfers were primarily found in the community districts of Jamaica/Hollis (6,000 transfers) and Queens Village (3,867 transfers) in Queens, as well as Bedford-Stuyvesant (2,690) and East New York/Cypress Hills (2,671) in Brooklyn. There were also transfers during this time in other neighborhoods, including elsewhere in Brooklyn and in the Bronx. This map shows that there is a geographic pattern to where these transfers are happening. Below, we also explore the racial and ethnic composition of the neighborhoods with a higher volume of human-to-entity transfers. These areas might be appropriate for focused attention. 13
+Figure 3
+The percentage of all human-to-entity property transfers where there was a break in the chain of title because of a mismatch between the grantor on the new deed and the grantee on the previous deed has outpaced pre-pandemic levels.
+Before the pandemic, 30.2 percent of all human-to-entity transfers in New York City featured a mismatch–the grantor on the deed transferring ownership to the entity did not match the grantee on the previous deed recorded against the property. This percentage fell to its lowest level, 26.8 percent, following the pandemic in 2021 and has been rising since. In 2025, the percentage of grantor/grantee mismatch transfers reached 34.5 percent.
+Figure 4
+Between 2015 and 2025, human-to-entity transfers with a mismatch between the new deed’s grantor and the previous grantee were mostly located in eastern Queens, the north Bronx, and southeastern Brooklyn.
+The map below tracks the number of human-to-entity deed transfers that had a mismatch between the grantor and the previous grantee between 2015 and 2025. These flagged transfers were concentrated in the community districts of Jamaica/Hollis (1,984 transfers) and Queens Village (1,238 transfers) in Queens. Other neighborhoods in outer Queens and Brooklyn, as well as the more centrally located Bedford-Stuyvesant neighborhood in Brooklyn and Williamsbridge/Baychester in the Bronx, all had higher numbers of grantee/grantor mismatch transfers in this time period. This map indicates that flagged transfers are most prevalent in a handful of neighborhoods, raising concerns about higher levels of risk in those communities and pointing to areas where additional community outreach and legal services may be warranted.
+Figure 5
+Human-to-entity transfers with no prior deed recorded have risen over the last decade, reaching 1.4 percent of all human-to-entity transfers in 2025.
+Human-to-entity transfers with no prior deed recorded make up a much smaller share of all human-to-entity transfers when compared with grantor/grantee mismatch transfers. After a peak of 1.2 percent in 2018, the share dropped to 0.69 percent in 2019 before climbing in subsequent years to reach 1.4 percent in 2025. While this category of flagged transfers still makes up a smaller share of all transfers than those with grantor/grantee mismatch, its share is rising. Taken together, the two types of flagged human-to-entity transfer categories are increasing as a share of all human-to-entity transfers.
+Figure 6
+Between 2015 and 2025, human-to-entity transfers with no prior deed recorded were most prevalent in neighborhoods in eastern Queens and outer Brooklyn and the Bronx.
+Human-to-entity transfers with no prior recorded deed are relatively rare. However, Jamaica/Hollis and Flushing/Whitestone in Queens had the most such transfers between 2015 and 2025. 14 Other neighborhoods with high numbers of transfers included Williamsbridge/Baychester in the Bronx; Bayside/Little Neck, Astoria, and Ridgewood/Maspeth in Queens; and Sheepshead Bay and Bedford-Stuyvesant in Brooklyn. Some of the same neighborhoods that had high numbers of flagged human-to-entity transfers based on the lack of a prior deed also saw high concentrations of grantee/grantee mismatch transfers (Jamaica/Hollis, Williamsbridge/Baychester, and Bedford-Stuyvesant). Again, neighborhoods with high levels of flagged transfers may benefit from targeted resources.
+Figure 7
+Among properties that were transferred from human to entity ownership, those that were transferred with a gap in the chain of title were more likely to have also had a prior indication of financial distress.
+Human-to-entity transfers with a gap in the chain of title were more likely to show indicators of financial distress. Properties with human-to-entity transfers where the grantee does not match the grantor were more likely to be eligible for the tax lien sale prior to the transfer compared to all properties with a human-to-entity transfer. 15 Human-to-entity transfers with no previous deed were not more likely to be eligible for the tax lien sale. Both types of flagged human-to-entity transfers with a gap in the chain of ownership were more likely to owe more than $500 in property taxes compared to all properties with a human-to-entity transfer.
+Overall, almost 14 percent of grantee/grantor mismatch properties and nearly 12 percent of properties with no previous deed had at least one indicator of financial distress, compared to 11 percent of all human-to-entity transfers. A much larger share of human-to-entity transfer properties had a prior indicator of financial distress compared to all other 1-3 unit human-owned properties (11% for all human-to-entity transfer properties compared to 2% for all human-owned properties).
+Table 5
+Shares of All Human-to-Entity Transfer and Flagged Human-to-Entity Transfer Properties Showing Indicators of Financial Distress (2015-2025)
+Total Properties
+Properties on the Tax Lien Sale Prior to Transfer 1
+Properties That Owed >$500 in Property Taxes at the Beginning of FY27
+Properties With Any Financial Distress Indicator
+All Human-to-Entity Transfers
+61,653
+3,933
+(6.38%)
+2,302
+(3.73%)
+6,440
+(10.45%)
+Grantor/Grantee Mismatch Subtype
+18,528
+1,430
+(7.72%)
+1,053
+(5.68%)
+2,501
+(13.50%)
+No Previous Deed Subtype
+614
+35
+(5.70%)
+44
+(7.17%)
+73
+(11.89%)
+1 We reviewed the following tax lien sales: 2011-2019, 2021, and 2025.
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC DOF Property Tax System, NYU Furman Center.
+Community districts with the most human-to-entity transfers with a gap in ownership also have larger shares of Black, Asian, and foreign-born residents.
+By ranking community districts according to the number of flagged entity transfers, we explore the characteristics of the neighborhoods where these transfers were most likely to occur. We find that the top third of neighborhoods in terms of flagged human-to-entity transfers have higher shares of Black, Asian, and foreign-born residents compared with the middle and lowest third groups of neighborhoods. The top third of community districts conversely have populations with lower shares of white and Hispanic people than the lower two thirds (and the city as a whole). In addition, those areas have a higher share of the population that are homeowners, perhaps unsurprisingly given that this analysis centers on 1-3 unit homes.
+Table 6
+Demographic Indicators – Flagged Entity Transfers
+Flagged Entity Transfers
+Citywide
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+–
+% NH White
+25.1%
+30.3%
+34.8%
+30.7%
+% NH Black
+27.9%
+17.2%
+15.7%
+21.6%
+% NH Asian
+17.3%
+15.8%
+9.7%
+15.3%
+% Hispanic (Any Race)
+22.7%
+31.8%
+35.2%
+28.7%
+% Foreign Born
+40.5%
+38.8%
+30.7%
+36.7%
+% Homeowners
+45.3%
+28.5%
+20.0%
+32.7%
+% Below Poverty Line
+15.8%
+18.8%
+20.3%
+18.0%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), American Community Survey (2020-2024), NYU Furman Center
+Data Transparency and Other Considerations
+Our analysis tracks indicators of vulnerability for property owners, including risk of title issues and deed theft. Based on focus group conversations with stakeholders, we were able to identify a number of such scenarios in the data. However, those conversations also surfaced a number of scenarios and indicators that we cannot identify given currently available data. To gain more insight into these scenarios, we recommend updating the publicly readable data to specify the deed type and whether properties go through Surrogate’s Court. In addition, it would be helpful to collect machine-readable information on the notaries or attorneys who presented the recorded document so we could identify patterns and help determine whether specific networks or actors are repetitively engaging in suspicious conduct. In order to avoid compromising the effectiveness of these recommendations, we do not outline them in detail here. We will share our recommendations for improving data transparency directly with the relevant agencies.
+We created our interactive map and dashboard detailing at-risk households to assist government officials, legal service providers and law enforcement in identifying the scale of the issue at a neighborhood level. The protected map includes property-level information to help partners target their outreach. As we outlined in our 2025 brief, Using Data to Prevent the Loss of Home Equity in New York City , that outreach should be performed by trusted organizations that have deep local relationships with the communities that we have identified as at risk. Local organizations can help ensure that outreach is also carried out in a multilingual and culturally competent manner. Outreach can inform homeowners of the need for estate planning (including tools like TODDs), warn them of scams, and connect them with trusted legal providers. Furthermore, outreach can direct homeowners to programs that provide financial support for property taxes, water charges, home repairs, and disaster relief.
+Directing homeowners to current resources and programs, while effective in many ways, is not enough to protect vulnerable homeowners. For a more comprehensive discussion of policy recommendations and data considerations that can help protect at-risk homeowners, see our 2025 brief.
+Conclusion
+Our analysis leverages updated data to better understand the scale and geography of properties that are vulnerable to or may have experienced equity stripping, a topic we first explored in our 2025 brief. We identify thousands of properties at risk of tangled title issues. Those properties also show heightened signs of financial distress, raising concerns about underlying challenges these homeowners are facing. High-risk properties are seven times more likely to show up on the City’s most recent tax lien sale list and six times more likely to be delinquent on property taxes than all 1-3 unit properties owned by individuals. In an encouraging sign, we find that 1,380 Transfer on Death Deeds that can help lower homeowner risk have been filed between July 2024, when the tool was implemented, and July 2026. 
+Across four focus groups with legal services providers, city government leaders, nonprofit partners, and law enforcement agencies, we consistently heard about types of human-to-entity property transfers that raise concerns about potential scams or other schemes targeting homeowners. Our analysis shows that these transfers have risen over the last few years. They are heavily concentrated in a few neighborhoods, including Jamaica/Hollis and Queens Village in Queens. Similar to high-risk properties, we find that properties with human-to-entity transfers where there is a gap in the chain of title are also much more likely to have an indicator of financial distress. Finally, neighborhoods with the highest concentrations of flagged transfers also have higher shares of Black, Asian, and foreign-born residents than other parts of the city.
+Our data show that the risk of unclear title issues remains significant, and the data also help identify the most vulnerable neighborhoods so our partners can better target resources and outreach. The same data underlying this analysis are currently available in a restricted, detailed dashboard and mapping tool for our partner organizations engaging in critical legal assistance and enforcement activities. By surfacing patterns in the data, the tool is intended to help organizations better target outreach, refine assistance, and identify perpetrators of equity stripping and deed theft scams. Furthermore, our conversations with partner organizations raised additional opportunities for increased data transparency to uncover fraudulent activity with timely data updates. More detailed data can help unlock more systematic outreach and enforcement efforts.
+Acknowledgements
+We thank Nicole Burek and Eliza Cash for their excellent research assistance. We are also grateful to the legal advocates, practitioners, government officials, and other experts who generously shared their time and expertise to inform this research.
+Technical Appendix
+Scope and Methodology
+This analysis covers 1-3 unit properties in New York City, excluding Staten Island, condominiums, and cooperative housing due to data limitations. 
+The analysis is informed by engagement with partner organizations that work with homeowners on title and other related issues. Through focus groups, partners provided feedback on scenarios we should incorporate into our work.
+Identifying High-Risk Properties and Flagged Transfers
+Within this universe, we define high-risk properties as properties with a human owner that have at least one listed owner who is deceased and have either no deed recorded against the property at all or a most recent deed that is at least 30 years old (from 1996 or earlier). We identify these properties as at an elevated risk of title issues and other factors that may complicate future ownership and leave these properties vulnerable to predatory tactics. We also include a close analysis of certain types of human-to-entity transfers, which move some or all ownership from an individual to an entity or LLC. 16 Because many such transfers occur legitimately, in this analysis we focus on transfer patterns discussed with practitioners familiar with scenarios that would indicate a suspicious transaction.
+Human Ownership
+To identify properties with a human owner, we developed a name-classification model utilizing ownership data from a combination of the NYC Department of Finance’s Automated City Register Information System (ACRIS) and Department of City Planning’s (DCP) PLUTO. The model is a class-balanced logistic Regression that uses TF-IDF 17 alongside a set of key terms and character combinations (e.g., LLC, INC, CORP, LLP, LTD) to determine whether the listed owner is a person or an organization. Given a name, the model outputs a binary classification (PERSON or ORGANIZATION) accompanied by a confidence score. Names with a confidence level below 90 percent are flagged for manual review by our team.
+Deceased Owners
+To identify deceased owners, we take properties we have determined are human-owned and use the Melissa deceased suppression service to flag deceased owners within our data. Due to data constraints, we are only provided with a binary indicator of whether an owner is deceased, not when they may have passed.
+Violations
+To assess the extent of physical distress in our properties of interest, we rely on complaint and violation data collected by the New York City Department of Housing Preservation and Development (HPD) and Department of Buildings (DOB) and DOB’s Environmental Control Board (ECB). We report violations based on the date they were filed, whether they remain open or have since been closed.
+Violations issued by HPD inspectors are for conditions that have been confirmed to violate the New York City Housing Maintenance Code (HMC) or New York State Multiple Dwelling Law (MDL). Violations are issued in four classes: Class A (non-hazardous), Class B (hazardous), Class C (immediately hazardous), and Class I (information orders). DOB and ECB violations are issued for conditions that do not comply with the city’s Construction Code, such as boiler, facade, and fire safety violations.
+Tax Delinquencies and Tax Lien Sale Status
+To determine tax delinquencies, we use DOF’s Property Charges Balance data. A given property is classified as tax delinquent if it has a combined open charge of over $500 for at least 1 year. To determine tax lien sale status, we reviewed all properties that appeared on the 90-day, 60-day, 30-day, and 10-day notices and the final sale list for the following tax lien sales: 2011-2019, 2021, and 2025 (the analysis of tax lien status for high-risk properties is limited to the 2025 tax lien sale).
+Data and Analysis Limitations
+Focus group participants raised some scenarios that could not be reviewed due to the structure of the available data. For example, we could not filter transactions by the type of deed used (e.g., quitclaim vs. warranty deeds), nor could we incorporate information from Surrogate’s Court proceedings about a property. We were also unable to include sales or transfers of condominium or cooperative units, for reasons we discuss thoroughly in our prior publication.
+Appendix
+Table 1
+Demographic Indicators – Tax Lien Sales and Tax Delinquencies
+Tax Lien Sale Properties
+Properties Delinquent on Property Taxes
+Citywide
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+–
+% NH White
+21.7%
+27.4%
+42.9%
+25.8%
+41.9%
+20.2%
+30.7%
+% NH Black
+31.1%
+19.2%
+8.8%
+28.9%
+14.6%
+16.9%
+21.6%
+% NH Asian
+14.1%
+13.8%
+16.7%
+14.6%
+17.7%
+11.5%
+15.3%
+% Hispanic (Any Race)
+26.1%
+35.0%
+26.7%
+23.7%
+20.4%
+47.6%
+28.7%
+% Foreign Born
+39.1%
+38.7%
+33.1%
+38.7%
+34.2%
+38.7%
+36.7%
+% Homeowners
+40.7%
+24.8%
+30.9%
+40.9%
+34.8%
+18.4%
+32.7%
+% Below Poverty Line
+17.8%
+21.0%
+14.9%
+17.2%
+13.6%
+24.4%
+18.0%
+Sources: NYC Department of Finance, American Community Survey (2020-2024), NYU Furman Center
+Table 2
+Demographic Indicators – HPD, DOB & ECB Violations
+HPD Violations Properties (per 1000 units)
+DOB & ECB Violations Properties (per 1000 units)
+Citywide
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+Top Third CDs
+Middle Third CDs
+Bottom Third CDs
+–
+% NH White
+13.5%
+34.8%
+40.3%
+33.8%
+26.7%
+27.1%
+30.7%
+% NH Black
+35.7%
+13.1%
+15.7%
+17.0%
+24.5%
+22.3%
+21.6%
+% NH Asian
+5.0%
+19.7%
+18.9%
+16.6%
+12.9%
+14.5%
+15.3%
+% Hispanic (Any Race)
+40.6%
+27.3%
+18.3%
+26.9%
+30.5%
+30.3%
+28.7%
+% Foreign Born
+34.9%
+39.5%
+36.9%
+35.4%
+37.6%
+39.4%
+36.7%
+% Homeowners
+19.4%
+34.8%
+46.0%
+32.9%
+30.1%
+36.4%
+32.7%
+% Below Poverty Line
+25.0%
+17.2%
+11.0%
+16.5%
+19.5%
+18.2%
+18.0%
+Sources: NYC Department of Housing Preservation & Development, NYC Department of Buildings, American Community Survey (2020-2024), NYU Furman Center
+Footnotes
+Footnotes
+• [1] Mayor Mamdani Establishes Mayor’s Office of Deed Theft Prevention, Appoints Peter White as Director. New York City. (April 2026). https://www.nyc.gov/mayors-office/news/2026/04/mayor-mamdani-establishes-mayor-s-office-of-deed-theft-preventio
+• [2]  Provisions included prioritizing buyout rights in favor of heir occupants, and authorizing courts to consider how a third-party investor acquired their share and other equity concerns when presiding over heirs’ property proceedings. Act effective Dec. 6, 2019, ch. 596, sec. 1, § 993, 2019 N.Y. Laws (codified as amended at N.Y. Real Prop. Acts. Law § 993).
+• [3]  Support for the uniform partition of heirs property act . New York City Bar Association. (2019, May). https://www.nycbar.org/reports/support-for-the-uniform-partition-of-heirs-property-act/
+• [4] N.Y. Real Prop. Acts. Law § 993 (Consol. 2024).
+• [5]  Wright, D. C., & Emrick, S. (2019). Tearing Down the Wall: How Transfer-on-Death Real-Estate Deeds Challenge the Inter Vivos/Testamentary Divide, Maryland Law Review, 78 , 511–562. https://scholarship.law.ufl.edu/facultypub/894/
+• [6] For example, in November 2023, Governor Kathy Hochul signed Senate Bill S6577 into law. The law allows certain agencies to request a pause in eviction ownership proceedings when a disputed title is under investigation, extends protections to homeowners with utility liens, and expands the list of crimes that allow prosecutors to invalidate fraudulent sale and loan documents. S.B. 6577, 2023-2024 Leg., Reg. Sess. (N.Y. 2024).
+• [7] Been, V., Murphy, M., Raetz, H., Miller, E. N., & Kirsch, I. (2025). Using data to prevent the loss of home equity in New York City . NYU Furman Center. https://www.furmancenter.org/publication/using-data-to-prevent-the-loss-of-home-equity-in-new-york-city/
+• [8] Bazile, Sabrina, (2026). Understanding and Quantifying Heirs’ Property in New York City . Center for NYC Neighborhoods. https://blog.cnycn.org/wp-content/uploads/2026/04/heirs-propertyreport-Apr-2026-final.pdf
+• [9] “Heirs’ property” is a subset of a larger universe of “tangled title” scenarios. Heirs’ property specifically concerns property inherited by heirs upon an owner’s intestate death. Heirs’ property is an inherently unstable form of property ownership, as all eligible heirs receive an undivided fractional interest in the property that enables them to trigger a partition sale of the property to a single buyer, no matter the size of their fractional interest, whether they reside at the property, or whether they want to sell their interest. New York’s 2024 legislation prevented non-heir purchasers of fractional ownership shares from initiating such a partition sale, but instability remains at properties with heir ownership because any one heir can partition the property. 
+• [10] By including properties with at least one deceased owner of record, our definition of high-risk properties could still include properties with some number of living owners of record. This definition is in keeping with our April 2025 report for consistency but could be narrowed in future research to include only properties with all owners of record confirmed to be deceased.
+• [11] In our 2025 report, we found that 3,700 properties were at high risk of title-related complications in New York City. Our latest count is smaller in scope in part because we were able to improve our identification of human owners (rather than entity owners), and in part because previous high-risk properties have since transferred to new ownership.
+• [12] For more information on the lien sale, see New York City Department of Finance. (n.d.). Lien sales . https://www.nyc.gov/site/finance/property/property-lien-sales.page
+• [13] We note that Manhattan and other community districts with a lower volume of human-to-entity transfers have fewer transfers of 1-3 family homes, in general. When we looked at the share of human-to-entity transfers as a percentage of all transfers of 1-3 family homes, we found that some neighborhoods (Midtown/Flatiron/Union Square in Manhattan; Bay Ridge/Dyker Heights and Bensonhurst/Bath Beach in Brooklyn; and Forest Hills/Rego Park, Flushing/Murray Hill/Whitestone, Auburndale/Bayside/Douglaston, and Ridgewood/Maspeth/Middle Village in Queens) had 11 percent or fewer of the transfers of 1-3 family homes qualify as a human to entity transfer. In other neighborhoods (Greenwich Village/SoHo, Chelsea/Hell’s Kitchen, the Upper West Side, and the Upper East Side in Manhattan) the share of transfers to an entity is 26.5 percent or higher, but there were fewer than 1,000 total transfers over the time period. On the other hand, in other community districts where the share of transfers to an entity was 27 percent or higher, there were many more 1-3 unit transfers overall (e.g. in Bedford-Stuyvesant there were more than 9,700 total 1-3 unit transfers, and in Ocean Hill/Brownsville there were more than 4,200 transfers).
+• [14] In Flushing/Whitestone, the share exceeded the citywide percentage, and almost 2.0 percent of the human-to-entity transfers had no prior deed. In Jamaica/Hollis, the share was below the citywide percentage, and 0.77 percent of the human-to-entity transfers had no prior deed. However, because the overall volume of human-to-entity transfers was highest in Jamaica/Hollis over the time period, there was still a high volume of transactions with no prior deed.
+• [15] Measured as all properties that appeared on the 90-day, 60-day, 30-day, 10-day notices and the final sale list for the following tax lien sales: 2011-2019, 2021, and 2025. It is worth noting, too, that properties would likely be sold to an entity during the tax lien sale, which may help explain the high share of human-to-entity transfer properties eligible for the sale.
+• [16] Based on practitioner feedback, we limit our analysis to “high-risk” properties, those with both at least one deceased homeowner and no recorded documents in the last 30 years. We do not cover the “at-risk” category which we explored in our original analysis, homes which met only one of the risk criteria, due to the concern that it is overly broad.
+• [17] Term Frequency-Inverse Document Frequency (TF-IDF) is a natural language processing (NLP) method used in topic modeling and text analysis that quantifies a word’s importance in a given document. To calculate importance, the method takes the frequency of a word in a document—in this case, names of  listed owners of 1-3 residential unit properties in New York City—and divides that value by the number of documents in a given corpus that contain that word. Through this process, names using “LLC,” “Inc.,” or “Corporation,” will be weighted less than a unique first and last name. Common surnames were sent through additional screenings to adjust the weights of their names. As the first step of the modeling, TF-IDF allows for the model to filter out the most common entity indicators. For more information, see Spärck Jones, K. (1972). A statistical interpretation of term specificity and its application in retrieval. Journal of Documentation, 28(1), 11–21. https://www.staff.city.ac.uk/~sbrp622/idfpapers/ksj_orig.pdf .
+
+===== SOURCE: report PDF =====
+Home Equity   at Risk: 
+New Data on Vulnerable Homeowners  
+in New York City
+By Brad Greenburg, Rohun Iyer, Isabel Kirsch, and Hayley Raetz
+2 HOME EQUITY AT RISK
+Introduction
+For many New Yorkers, homeownership represents their most significant investment 
+and a valuable asset to pass on to the next generation. As homeowners age and home 
+values appreciate rapidly, incomplete property records and title issues may make 
+some homeowners vulnerable to exploitation. When ownership or other property 
+records are unclear, residents may be more susceptible to title-related complications,  
+legal challenges, or pressure to sell under unfavorable terms. 
+In partnership with a number of organizations and government agencies that work closely with homeowners, 
+this brief leverages large data sets to track how many homeowners in New York City are at risk of title 
+problems and other issues that may lead to a loss of equity. This analysis provides an updated look at 
+the potential scale of the problem and the extent to which title issues overlap with other indicators of 
+homeowner financial distress. It also provides insights on which neighborhoods may be most at risk.
+This data brief builds on earlier work to better understand the risks facing long-time New York City 
+homeowners and inform policy responses. In our 2025 brief, Using Data to Prevent the Loss of Home 
+Equity in New York City , the NYU Furman Center estimated the number and geographic distribution 
+of 1-3 family homes in New York City with indicators that suggested vulnerability to predatory tactics 
+or title-related issues. Since then, the NYU Furman Center has met with government officials, legal 
+services providers, nonprofit partners, and law enforcement officials to understand how additional 
+risk indicators should be included in the analysis. Simultaneously, the NYU Furman Center created a 
+restricted-access mapping tool that uses these data to help these institutions provide support to at-risk 
+homeowners. This data brief both updates the data published last year and explains and estimates the 
+prevalence of additional indicators that could signal homeowner risk. 
+3 HOME EQUITY AT RISK
+In our analysis of 1-3 unit homes in New York City (excluding Staten Island), we find the following:
+	■ The Bronx has the highest prevalence of properties at high risk of title issues, at 0.54 percent of 
+human-owned 1-3 unit homes.
+	■ Signs of financial distress (including being on the tax lien sale list) are seven times higher among 
+properties at high risk of title issues than for all human-owned single-family homes.
+	■ The percentage of all human-to-entity property transfers that were deemed to have a broken chain of 
+title because the grantor on the new deed did not match the grantee on the previous deed or because 
+there was no prior recorded deed reached its highest level in the last decade.
+	■ Between 2015 and 2025, human-to-entity transfers with a broken chain of title were mostly located 
+in eastern Queens, the north Bronx, and southeastern Brooklyn.
+	■ Community districts with the highest number of properties that are at high risk of title issues and 
+human-to-entity transfers with a broken chain of title also have higher shares of Black, Asian, and 
+foreign-born residents.
+Targeted outreach, legal assistance, law enforcement, and financial support for homeowners are essential 
+to address vulnerabilities and prevent future home equity loss. It is our hope that this analysis, alongside 
+the restricted data tool shared with partner organizations, can inform outreach efforts, track the prevalence 
+of certain fraudulent schemes, and provide policymakers with the 
+information needed to target their interventions most effectively. 
+The analysis that follows first reviews the policy landscape and relevant 
+recent research on New York City’s response to deed theft and title 
+issues. It then presents our findings, focusing first on properties at 
+high risk of title issues, second on uptake of a new estate planning tool 
+called transfer on death deeds, and third we discuss the prevalence of 
+flagged human-to-entity transfers. Next, we discuss data transparency 
+considerations and conclusions from our research. Finally, we provide 
+an appendix with details about our methodology and data analysis. 
+If you believe you are 
+the victim of deed theft, 
+the New York State 
+Attorney General’s Office 
+recommends that you 
+file a complaint with 
+law enforcement and 
+contact an attorney.  
+For more information, 
+please review  
+the resources provided 
+by the New York State 
+Attorney General’s Office.
+4 HOME EQUITY AT RISK
+Recent Policy and Research on  
+Deed Theft and Title Issues
+In recent years, policymakers have prioritized addressing and preventing deed theft, heirs’ property 
+partition actions, and other title-related issues. In one notable example, in April of this year, Mayor 
+Mamdani established the Mayor’s Office of Deed Theft Prevention, housed in the Department of 
+Finance. This new office is tasked with coordinating an interagency effort to prevent, detect, investigate,  
+and respond to deed theft.1 
+Elected officials in New York have also enacted a number of laws targeting specific heirs’ property 
+and deed theft scenarios and protecting vulnerable populations. New York’s state-level heirs’ property  
+legislation, enacted in 2019,2 is based on the Uniform Partition of Heirs Property Act (UPHPA), which 
+was approved by the Uniform Law Commission in 2010.3  
+In 2024, New York State enacted the Heirs Property Protection and Deed Theft Prevention Act. This 
+legislation strengthened the 2019 law by expanding protections for heirs’ property owners and barring 
+non-heir purchasers with a fractional interest in heirs’ property from initiating a partition action. The 
+act also increased penalties for deed theft and introduced Transfer on Death Deeds (TODDs).4 A TODD 
+is a low-cost estate planning tool that allows property owners to designate a beneficiary to automatically 
+inherit the property upon the owner’s death, with no need to go through probate for the transferred 
+property.5 Other recent state-level legislation also focuses on deed theft.6 
+Alongside this continued legislative interest in protecting heirs’ property owners and preventing deed 
+theft of vulnerable properties, recent research explores the prevalence of title issues and heirs’ property in 
+New York City. In our 2025 brief, we drew on public and proprietary data to identify 1-3 unit residential 
+properties with either at least one deceased owner or no recorded ownership transfers or mortgage activity 
+since 1995. Properties that exhibited one of these indicators were flagged as “at risk,” while properties 
+1. Mayor Mamdani Establishes Mayor’s Office of Deed Theft Prevention, Appoints Peter White as Director. New York City. (April 2026). 
+https://www.nyc.gov/mayors-office/news/2026/04/mayor-mamdani-establishes-mayor-s-office-of-deed-theft-preventio
+2. Provisions included prioritizing buyout rights in favor of heir occupants and authorizing courts to consider how a third-party investor 
+acquired their share and other equity concerns when presiding over heirs’ property proceedings. Act effective Dec. 6, 2019, ch. 596,  
+sec. 1, § 993, 2019 N.Y. Laws (codified as amended at N.Y. Real Prop. Acts. Law § 993).
+3. Support for the uniform partition of heirs property act. New York City Bar Association. (2019, May). https://www.nycbar.org/reports/
+support-for-the-uniform-partition-of-heirs-property-act/ 
+4. N.Y. Real Prop. Acts. Law § 993 (Consol. 2024).
+5. Wright, D. C., & Emrick, S. (2019). Tearing Down the Wall: How Transfer-on-Death Real-Estate Deeds Challenge the Inter Vivos/
+Testamentary Divide, Maryland Law Review, 78, 511–562. https://scholarship.law.ufl.edu/facultypub/894/ 
+6. For example, in November 2023, Governor Kathy Hochul signed Senate Bill S6577 into law. The law allows certain agencies to request 
+a pause in eviction ownership proceedings when a disputed title is under investigation, extends protections to homeowners with utility 
+liens, and expands the list of crimes that allow prosecutors to invalidate fraudulent sale and loan documents. S.B. 6577, 2023-2024 
+Leg., Reg. Sess. (N.Y. 2024).
+5 HOME EQUITY AT RISK
+that exhibited both indicators were defined as “high risk” for title-related vulnerability. The report, 
+which covered all of New York City except Staten Island, identified approximately 45,000 properties, 
+worth an estimated $34.7 billion, that exhibited at least one risk indicator. A subset of approximately  
+3,700 properties, worth an estimated $3.0 billion, met both risk indicators.7 
+In April 2026, the Center for New York City Neighborhoods analyzed claims for partition cases filed 
+between March and July of 2024. By flagging indicator phrases (such as “partition,” “deceased,” and 
+“heirs”) and LLC purchases, the report identified 182 likely heirs’ property partition cases with a mean 
+value of $1.14 million per property. The Center estimated that approximately 350 heirs’ property partition 
+lawsuits are filed annually in New York City.8 
+Findings 
+Title-Related Vulnerabilities
+This section focuses on properties that are at high risk of title-related vulnerabilities (including heirs’ 
+property issues9 and cases where title may be unclear). 
+When a title is unclear, it can be difficult for owners to lay claim to and fully leverage the value of their 
+home. A clear title is often required to use the property as collateral for a loan, enroll in tax relief programs, 
+or otherwise use the home as a financial asset, and properties with unclear title cannot receive FEMA 
+disaster recovery funds or enroll in many home repair programs. 
+Additionally, given New York City’s tight real estate market and price appreciation over time, many 
+of these properties have significantly increased in value since they were purchased. Aging longtime 
+residents or recent inheritors of a fractional interest in the property may not know the current market 
+value of their home and, because of unclear title, they may be more vulnerable to scams when presented 
+with lower offers from a predatory actor. 
+7. Been, V., Murphy, M., Raetz, H., Miller, E. N., & Kirsch, I. (2025). Using data to prevent the loss of home equity in New York City.  
+NYU Furman Center. https://www.furmancenter.org/publication/using-data-to-prevent-the-loss-of-home-equity-in-new-york-city/ 
+8. Bazile, Sabrina, (2026). Understanding and Quantifying Heirs’ Property in New York City. Center for NYC Neighborhoods. https://blog.
+cnycn.org/wp-content/uploads/2026/04/heirs-propertyreport-Apr-2026-final.pdf 
+9. “Heirs’ property” is a subset of a larger universe of “tangled title” scenarios. Heirs’ property specifically concerns property inherited by 
+heirs upon an owner’s intestate death. Heirs’ property is an inherently unstable form of property ownership, as all eligible heirs receive 
+an undivided fractional interest in the property that enables them to trigger a partition sale of the property to a single buyer, no matter 
+the size of their fractional interest, whether they reside at the property, or whether they want to sell their interest. New York’s 2024 
+legislation prevented non-heir purchasers of fractional ownership shares from initiating such a partition sale, but instability remains at 
+properties with heir ownership because any one heir can partition the property. 
+6 HOME EQUITY AT RISK
+We analyzed the prevalence of properties with unclear title, classifying properties as “high risk” if  
+(1) an owner of record is deceased, and (2) either no deed was recorded against the property at all, or 
+the most recent deed is at least 30 years old (from 1996 or earlier).10 We note that these homes are not 
+necessarily “heirs’ property,” but they are at a higher risk of having unclear title and likely require an 
+intervention to stabilize the property’s ownership. 
+We then examined whether these properties also had other indicators of financial distress, including 
+being on the tax lien sale list or having property tax debts that exceeded certain thresholds. We find that 
+financial distress indicators are much more prevalent among the high-risk properties with unclear titles 
+than among all 1-3 unit residential properties with a human owner. 
+The Bronx and Queens have the highest prevalence of properties  
+at high risk of having unclear title.
+Table 1 shows the number and percentage of properties at high risk of title issues citywide and within 
+each New York City borough, excluding Staten Island. We find a total of 2,300 high-risk properties in  
+New York City.11 Over 50 percent of the city’s high-risk properties are located in Queens; however,  
+the Bronx has the highest share of 1-3 unit properties that are at high risk (0.52% compared to 0.54%, 
+respectively). Manhattan has both the lowest number and share of high-risk properties, which is largely driven  
+by the fact that the borough has fewer 1-3 family homes with human owners.
+Table 1: High-Risk Property Count and Prevalence by Geography (2026)
+Property Universe:  
+Number of 1-3 
+Family Properties 
+With a Human 
+Owner
+Number of  
+High-Risk  
+Properties
+Share of  
+High-Risk  
+Properties  
+by Borough
+Share of Property 
+Universe That is 
+High-Risk
+New York City 447,239 2,300 100.0% 0.51%
+Queens 235,080 1,226 53.3% 0.52%
+Brooklyn 156,931 775 33.7% 0.49%
+The Bronx 52,328 285 12.4% 0.54%
+Manhattan 2,900 14 0.6% 0.48%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s PLUTO 26v1,  
+Melissa Data Deceased Suppression, NYU Furman Center.
+10. By including properties with at least one deceased owner of record, our definition of high-risk properties could still include properties 
+with some number of living owners of record. This definition is in keeping with our April 2025 report for consistency but could be narrowed 
+in future research to include only properties with all owners of record confirmed to be deceased.
+11. In our 2025 report, we found that 3,700 properties were at high risk of title-related complications in New York City. Our latest count 
+is smaller in scope in part because we were able to improve our identification of human owners (rather than entity owners) and in part 
+because previous high-risk properties have since transferred to new ownership. 
+7 HOME EQUITY AT RISK
+Community districts with the highest number of properties that  
+are at high risk of title issues also have higher shares of Black, Asian, 
+and foreign-born residents.
+To compare the demographics of the neighborhoods with more high-risk properties against the rest of 
+the city, we ranked community districts by the number of high-risk properties and broke the community 
+districts into three equal groups. Community districts in the top, highest-risk tercile have higher shares 
+of Black, Asian, and foreign-born residents and lower shares of white and Hispanic residents than the 
+rest of the city. They also have much higher homeownership rates, which is likely due in part to the fact 
+that we limit our analysis of high-risk properties to 1-3 unit homes.
+Table 2: Demographic Indicators—High-Risk Properties
+High-Risk Properties  Citywide
+Top Third CDs Middle Third CDs Bottom Third CDs -
+% NH White 23.1% 30.4% 34.9% 30.7%
+% NH Black 26.1% 19.4% 16.8% 21.6%
+% NH Asian 20.0% 11.7% 9.3% 15.3%
+% Hispanic (Any Race) 24.0% 33.6% 34.4% 28.7%
+% Foreign Born 44.0% 35.9% 28.5% 36.7%
+% Homeowners 46.2% 25.4% 20.0% 32.7%
+% Below Poverty Line 14.7% 20.7% 21.3% 18.0%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), American Community Survey (2020-2024),  
+Melissa Data Deceased Suppression, NYU Furman Center
+8 HOME EQUITY AT RISK
+Properties at high risk of title issues are seven times more likely to 
+appear on the tax lien sale list or have delinquent property taxes  
+than all human-owned single family homes.
+We find that properties at a high risk for unclear title issues are also more likely to exhibit other indicators 
+of financial distress, highlighting the vulnerability of the owners of these homes. For example, compared 
+to the full universe of human-owned 1-3 unit properties, the high-risk properties are almost seven times 
+more likely to be included on the tax lien sale list in 2025 (0.24% compared to 1.57%) for property tax 
+debt, water and sewer debt, and other related fees and charges.12 In addition, 12.87 percent of high-risk 
+properties owed more than $500 in property taxes at the beginning of Fiscal Year 27, compared to  
+just 1.93 percent of all 1-3 unit residential properties with human owners.
+The total number of 1-3 unit properties owing more than $500 in property taxes has been relatively stable 
+over the last several years. However, the 2026 total of 8,618 properties is the lowest number since the 
+COVID-19 pandemic. At the end of Fiscal Year 2021, we found 8,937 properties owing more than $500, 
+and then the number increased by 5.4 percent, peaking at 9,421 properties in Fiscal Year 2022. Last year, 
+at the end of Fiscal Year 2025, we found 9,276 properties that owed more than $500 in property taxes.   
+Table 3: Number and Shares of All 1-3 Unit Properties and High-Risk Properties Showing Indicators of 
+Financial Distress (2026)
+Total 
+Properties
+Properties in the  
+2025 Tax Lien Sale
+Properties That Owed 
+>$500 in Property Taxes 
+at the Beginning of FY27
+Properties With Any 
+Financial Distress 
+Indicator
+Property Universe:  
+1-3 Family Properties 
+With a Human Owner
+447,239 1,081 
+(0.24%)
+8,618 
+(1.93%)
+9,546 
+(2.13%)
+High-Risk Properties 2,300 36 
+(1.57%)
+296 
+(12.87%)
+324 
+(14.09%)
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s PLUTO 26v1,  
+Melissa Data Deceased Suppression, NYU Furman Center.
+12. For more information on the lien sale, see New York City Department of Finance. (n.d.). Lien sales. https://www.nyc.gov/site/finance/
+property/property-lien-sales.page.
+9 HOME EQUITY AT RISK
+Compared to all human-owned single family homes,  
+high-risk properties are less likely to have recorded violations  
+within the last year. 
+We hosted a series of focus groups to inform this research, and partner organizations that work closely 
+with households dealing with title issues posited that these properties may see higher rates of code 
+violations due to financial distress or because predatory actors called 311 to register violations as a 
+form of harassment. However, we find that properties at risk of title issues actually have lower rates 
+of code violations. While 11.56 percent of all 1-3 unit residential properties with human owners had 
+at least one Department of Housing Preservation and Development (HPD), Department of Buildings 
+(DOB), or Environmental Control Board (ECB) violation filed within the last year, only 9.00 percent 
+of high-risk properties had violations. High-risk properties also have a lower rate of violations than all  
+1-3 unit properties owned by a human (154 compared to 175 violations per 1,000 units). 
+Table 4: Violation Rates for All 1-3 Unit Properties and High-Risk Properties (July 2025-July 2026)
+Total 
+Properties
+Properties With 
+HPD Violations
+Properties 
+With DOB/ECB 
+Violations
+Properties With 
+Any Violations
+Violations per 
+1,000 Units
+Property Universe:  
+1-3 Family Properties 
+With a Human Owner
+447,239 37,221 
+(8.32%)
+22,237 
+(4.97%)
+51,707 
+(11.56%)
+175
+High-Risk Properties 2,300 140 
+(6.09%)
+106 
+(4.61%)
+207 
+(9.00%)
+154
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of Housing Preservation and 
+Development, NYC Department of Buildings, Melissa Data Deceased Suppression, NYU Furman Center.
+Transfer on Death Deeds
+Transfer on Death Deeds are an important new tool in estate planning that became available in 2024 as  
+part of the Heirs Property Protection and Deed Theft Prevention Act. During our focus groups, practitioners 
+noted that it would be useful to track uptake of this option, especially among homeowners at high risk 
+of having unclear titles. 
+When an owner records a TODD, heirs will directly inherit a property without having to go through 
+probate upon the owner’s death. This form of estate planning is a low-cost way to ensure that a property 
+passes directly and securely to designated beneficiaries, avoiding potentially complicated and expensive 
+court proceedings and helping to prevent tangled title issues.
+10 HOME EQUITY AT RISK
+Uptake of Transfer on Death Deeds has risen since their introduction 
+in 2024, though the overall volume is low. 
+Figure 1 shows the number of TODDs recorded across New York City and its boroughs, not including Staten 
+Island, on a monthly basis, from the introduction of TODDs in July 2024 to July 2026. In the second half 
+of 2024, 181 TODDs were recorded citywide; over 2025, a total of 713 TODDs were filed. Between January 
+and July 2026, 486 TODDs had been filed. It is not immediately clear why recorded TODDs spiked in 
+some spring or summer months in 2025 and 2026. Note that in our prior work, we found approximately 
+45,000 properties for which there was no recorded deed or mortgage activity since 1995 or at least one 
+deceased owner was still listed as an owner of record. Based on those indicators, we might assume the 
+homeowners for those 45,000 properties are older or that the home was, for example, previously passed 
+to an aging spouse. Though still underinclusive of the overall need, this data point still suggests there 
+may be a substantial number of homes in need of further outreach about the TODD option. 
+At a borough level, TODD uptake follows the distribution of 1-3 unit properties, with Queens and Brooklyn 
+recording far more TODDs than Manhattan. TODD numbers may rise as legal services organizations 
+and government officials continue to introduce this new estate planning option to homeowners. 
+Figure 1: Transfer of Death Deeds by Borough and Citywide (July 2024-September 2026)
+ New York City  Manhattan  The Bronx  Brooklyn  Queens
+Human-to-Entity Transfers
+This section introduces new scenarios and a different but related set of issues identified by the practitioners 
+in our focus groups—transfers from a human owner to an entity (including an LLC) that could signal 
+homeowner vulnerability. Not all human-to-entity property transfers reflect suspicious activity, but 
+certain types of human-to-entity transfers may signal that a scam or fraudulent scheme targeting 
+vulnerable homeowners has already taken place, including after a tangled title or heirs’ property issue. 
+7/2024 9/2024 11/2024 1/2025 3/2025 5/2025 7/2025 9/2025 11/2025 1/2026 3/2026 5/2026 7/2026
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYU Furman Center.
+100
+80
+60
+40
+20
+0
+11 HOME EQUITY AT RISK
+Informed by focus group conversations, we reviewed and flagged two types of human-to-entity transfers:
+	■ Grantor/Grantee Mismatch: We flagged human-to-entity transfers where the name of the grantor 
+(seller) to an entity did not match the name of the listed grantee (buyer) on the property’s previous 
+deed, such as cases where the seller in a 2026 transaction is not the same as the buyer in a prior deed, 
+causing an apparent break in the chain of title. Focus group participants indicated that this gap in 
+the documented ownership chain could indicate that a bad actor has transferred fractional interests 
+to an LLC or that another type of scam has taken place. This category may also capture other types of 
+transfers, such as a referee’s deed post-foreclosure. 
+	■ No Prior Deed: We also identified human-to-entity transfers where the transferred property had no 
+deed on record before the deed that transferred ownership to the entity. As with the previous category, 
+this identified gap in documentation raises red flags. 
+We also analyzed all human-to-entity transfers across each community district to understand how many 
+of these transfers occur, trends in this practice over time, and where these transfers are most common. 
+The total number of all human-to-entity transfers in New York City 
+dropped sharply in 2020, likely due to pandemic disruptions, and 
+has since increased but remains below pre-pandemic levels. 
+In the five years before the pandemic, there were between 5,500 and 6,500 human-to-entity transfers 
+each year. The number of transfers dipped to just 4,246 in 2020 but has been slowly increasing since 
+then (with a slight dip in 2023). In 2025, there were more than 6,000 human-to-entity transfers for the 
+first time since the pandemic. Importantly, human-to-entity transfers on their own are not an indicator 
+of predatory activity and may be legitimate sales. 
+Figure 2: Human-to-Entity Transfers (2015-2025)
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+5,734
+6,052 6,212 6,427 6,209
+4,246
+4,737
+5,411 5,179
+5,327
+6,119
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s MapPluto 26v1,  
+NYU Furman Center.
+12 HOME EQUITY AT RISK
+Human-to-entity transfers are concentrated in eastern Queens  
+and central Brooklyn. 
+The map below identifies the number of all human-to-entity deed transfers in New York City between 
+2015 and 2025. Over that period, these transfers were primarily found in the community districts of 
+Jamaica/Hollis (6,000 transfers) and Queens Village (3,867 transfers) in Queens, as well as Bedford-
+Stuyvesant (2,690) and East New York/Cypress Hills (2,671) in Brooklyn. There were also transfers during 
+this time in other neighborhoods, including elsewhere in Brooklyn and in the Bronx. This map shows 
+that there is a geographic pattern to where these transfers are happening. Below, we also explore the 
+racial and ethnic composition of the neighborhoods with a higher volume of human-to-entity transfers. 
+These areas might be appropriate for focused attention.13 
+Figure 3: Human-to-Entity Transfers, Community Districts, New York City, 2015-2025)
+Number of Transfers
+ —6,000
+ —5,000
+ —4,000
+ —3,000
+ —2,000
+ —1,000
+13. We note that Manhattan and other community districts with a lower volume of human-to-entity transfers have fewer transfers of 1-3 
+family homes in general. When we looked at the share of human-to-entity transfers as a percentage of all transfers of 1-3 family homes, 
+we found that some neighborhoods (Midtown/Flatiron/Union Square in Manhattan; Bay Ridge/Dyker Heights and Bensonhurst/Bath Beach 
+in Brooklyn; and Forest Hills/Rego Park, Flushing/Murray Hill/Whitestone, Auburndale/Bayside/Douglaston, and Ridgewood/Maspeth/Middle 
+Village in Queens) had 11 percent or fewer of the transfers of 1-3 family homes qualify as a human to entity transfer. In other neighborhoods 
+(Greenwich Village/SoHo, Chelsea/Hell’s Kitchen, the Upper West Side, and the Upper East Side in Manhattan) the share of transfers to an 
+entity is 26.5 percent or higher, but there were fewer than 1,000 total transfers over the time period. On the other hand, in other community 
+districts where the share of transfers to an entity was 27 percent or higher, there were many more 1-3 unit transfers overall (e.g. in Bedford-
+Stuyvesant there were more than 9,700 total 1-3 unit transfers, and in Ocean Hill/Brownsville there were more than 4,200 transfers). 
+Sources: NYC Department of Finance’s Automated City Register information system (ACRIS),  
+NYC Department of City Planning’s MapPluto 26V1, NYU Furman Center 
+13 HOME EQUITY AT RISK
+The percentage of all human-to-entity property transfers where there 
+was a break in the chain of title because of a mismatch between the 
+grantor on the new deed and the grantee on the previous deed has 
+outpaced pre-pandemic levels.
+Before the pandemic, 30.2 percent of all human-to-entity transfers in New York City featured a mismatch—
+the grantor on the deed transferring ownership to the entity did not match the grantee on the previous 
+deed recorded against the property. This percentage fell to its lowest level, 26.8 percent, following the 
+pandemic in 2021 and has been rising since. In 2025, the percentage of grantor/grantee mismatch 
+transfers reached 34.5 percent. 
+Figure 4: Human-to-Entity Transfers with a Grantor/Grantee Mismatch as a Share of All Human-to-Entity 
+Transfers in New York City (2015-2025)
+29.75%
+28.70% 28.57%
+30.48% 30.20%
+29.44%
+26.77%
+28.26%
+30.55%
+32.65%
+34.45%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s MapPluto 26v1,  
+NYU Furman Center.
+14 HOME EQUITY AT RISK
+Between 2015 and 2025, human-to-entity transfers with a  
+mismatch between the new deed’s grantor and the previous  
+grantee were mostly located in eastern Queens, the north Bronx,  
+and southeastern Brooklyn. 
+The map below tracks the number of human-to-entity deed transfers that had a mismatch between the 
+grantor and the previous grantee between 2015 and 2025. These flagged transfers were concentrated 
+in the community districts of Jamaica/Hollis (1,984 transfers) and Queens Village (1,238 transfers) 
+in Queens. Other neighborhoods in outer Queens and Brooklyn, as well as the more centrally located 
+Bedford-Stuyvesant neighborhood in Brooklyn and Williamsbridge/Baychester in the Bronx, all had 
+higher numbers of grantee/grantor mismatch transfers in this time period. This map indicates that 
+flagged transfers are most prevalent in a handful of neighborhoods, raising concerns about higher 
+levels of risk in those communities and pointing to areas where additional community outreach and 
+legal services may be warranted.
+Figure 5: Human-to-Entity Transfers with a Grantor/Grantee Mismatch, Community Districts,  
+New York City, 2015-2025
+Number of Transfers
+ —1,500
+ —1,000
+ —500
+Sources: NYC Department of Finance’s Automated City Register information system (ACRIS),  
+NYC Department of City Planning’s MapPluto 26V1, NYU Furman Center 
+15 HOME EQUITY AT RISK
+Human-to-entity transfers with no prior deed recorded have risen 
+over the last decade, reaching 1.4 percent of all human-to-entity 
+transfers in 2025. 
+Human-to-entity transfers with no prior deed recorded make up a much smaller share of all human-
+to-entity transfers when compared with grantor/grantee mismatch transfers. After a peak of 1.2 percent 
+in 2018, the share dropped to 0.69 percent in 2019 before climbing in subsequent years to reach  
+1.4 percent in 2025. While this category of flagged transfers still makes up a smaller share of all transfers 
+than those with grantor/grantee mismatch, its share is rising. Taken together, the two types of flagged 
+human-to-entity transfer categories are increasing as a share of all human-to-entity transfers. 
+Figure 6: Human-to-Entity Transfers with No Prior Deed as a Share of Al Human-to-Entity Transfers  
+in New York City (2015-2025)
+0.72% 0.74%
+0.87%
+1.15%
+0.69%
+0.82%
+1.01%
+0.98%
+1.35%
+1.22%
+1.41%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC Department of City Planning’s MapPluto 26v1,  
+NYU Furman Center.
+16 HOME EQUITY AT RISK
+Between 2015 and 2025, human-to-entity transfers with no prior 
+deed recorded were most prevalent in neighborhoods in eastern 
+Queens and outer Brooklyn and the Bronx. 
+Human-to-entity transfers with no prior recorded deed are relatively rare. However, Jamaica/Hollis and 
+Flushing/Whitestone in Queens had the most such transfers between 2015 and 2025.14 Other neighborhoods 
+with high numbers of transfers included Williamsbridge/Baychester in the Bronx; Bayside/Little Neck, 
+Astoria, and Ridgewood/Maspeth in Queens; and Sheepshead Bay and Bedford-Stuyvesant in Brooklyn. 
+Some of the same neighborhoods that had high numbers of flagged human-to-entity transfers based on 
+the lack of a prior deed also saw high concentrations of grantee/grantee mismatch transfers (Jamaica/
+Hollis, Williamsbridge/Baychester, and Bedford-Stuyvesant). Again, neighborhoods with high levels of 
+flagged transfers may benefit from targeted resources.
+Figure 7: Human-to-Entity Transfers with No Prior Deed, Community Districts, New York City, 2015-2025
+Number of Transfers
+ —40
+ —30
+ —20
+ —10
+14. In Flushing/Whitestone, the share exceeded the citywide percentage, and almost 2.0 percent of the human-to-entity transfers had  
+no prior deed. In Jamaica/Hollis, the share was below the citywide percentage, and 0.77 percent of the human-to-entity transfers  
+had no prior deed. However, because the overall volume of human-to-entity transfers was highest in Jamaica/Hollis over the time period, 
+there was still a high volume of transactions with no prior deed. 
+Sources: NYC Department of Finance’s Automated City Register information system (ACRIS),  
+NYC Department of City Planning’s MapPluto 26V1, NYU Furman Center 
+17 HOME EQUITY AT RISK
+Among properties that were transferred from human to entity 
+ownership, those that were transferred with a gap in the chain of 
+title were more likely to have also had a prior indication of  
+financial distress.
+Human-to-entity transfers with a gap in the chain of title were more likely to show indicators of financial 
+distress. Properties with human-to-entity transfers where the grantee does not match the grantor were 
+more likely to be eligible for the tax lien sale prior to the transfer compared to all properties with a 
+human-to-entity transfer.15 Human-to-entity transfers with no previous deed were not more likely to 
+be eligible for the tax lien sale. Both types of flagged human-to-entity transfers with a gap in the chain 
+of ownership were more likely to owe more than $500 in property taxes compared to all properties with 
+a human-to-entity transfer. 
+Overall, almost 14 percent of grantee/grantor mismatch properties and nearly 12 percent of properties 
+with no previous deed had at least one indicator of financial distress, compared to 11 percent of all human-
+to-entity transfers. A much larger share of human-to-entity transfer properties had a prior indicator of 
+financial distress compared to all other 1-3 unit human-owned properties (11% for all human-to-entity 
+transfer properties compared to 2% for all human-owned properties). 
+Table 5: Shares of All Human-to-Entity Transfer and Flagged Human-to-Entity  
+Transfer Properties Showing Indicators of Financial Distress (2015-2025)
+Total Properties
+Properties on the 
+Tax Lien Sale Prior 
+to Transfer1
+Properties That Owed 
+>$500 in Property Taxes 
+at the Beginning of FY27
+Properties With Any 
+Financial Distress 
+Indicator
+All Human-to-Entity 
+Transfers
+61,653 3,933 
+(6.38%)
+2,302 
+(3.73%)
+6,440 
+(10.45%)
+Grantor/Grantee 
+Mismatch Subtype
+18,528 1,430 
+(7.72%)
+1,053 
+(5.68%)
+2,501 
+(13.50%)
+No Previous  
+Deed Subtype
+614 35 
+(5.70%)
+44 
+(7.17%)
+73 
+(11.89%)
+1. We reviewed the following tax lien sales: 2011-2019, 2021, and 2025. 
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), NYC DOF Property Tax System, NYU Furman Center.
+15. Measured as all properties that appeared on the 90-day, 60-day, 30-day, 10-day notices and the final sale list for the following tax lien 
+sales: 2011-2019, 2021, and 2025. It is worth noting, too, that properties would likely be sold to an entity during the tax lien sale, which 
+may help explain the high share of human-to-entity transfer properties eligible for the sale.
+18 HOME EQUITY AT RISK
+Community districts with the most human-to-entity transfers  
+with a gap in ownership also have larger shares of Black, Asian,  
+and foreign-born residents.
+By ranking community districts according to the number of flagged entity transfers, we explore the 
+characteristics of the neighborhoods where these transfers were most likely to occur. We find that the top 
+third of neighborhoods in terms of flagged human-to-entity transfers have higher shares of Black, Asian, 
+and foreign-born residents compared with the middle and lowest third groups of neighborhoods. The 
+top third of community districts conversely have populations with lower shares of white and Hispanic 
+people than the lower two thirds (and the city as a whole). In addition, those areas have a higher share 
+of the population that are homeowners, perhaps unsurprisingly given that this analysis centers on  
+1-3 unit homes.
+Table 6: Demographic Indicators—Flagged Entity Transfers
+Flagged Entity Transfers   Citywide
+Top Third CDs Middle Third CDs Bottom Third CDs -
+% NH White 25.1% 30.3% 34.8% 30.7%
+% NH Black 27.9% 17.2% 15.7% 21.6%
+% NH Asian 17.3% 15.8% 9.7% 15.3%
+% Hispanic (Any Race) 22.7% 31.8% 35.2% 28.7%
+% Foreign Born 40.5% 38.8% 30.7% 36.7%
+% Homeowners 45.3% 28.5% 20.0% 32.7%
+% Below Poverty Line 15.8% 18.8% 20.3% 18.0%
+Sources: NYC Department of Finance’s Automated City Register Information System (ACRIS), American Community Survey (2020-2024),  
+NYU Furman Center
+19 HOME EQUITY AT RISK
+Data Transparency and Other 
+Considerations
+Our analysis tracks indicators of vulnerability for property owners, including risk of title issues and deed 
+theft. Based on focus group conversations with stakeholders, we were able to identify a number of such 
+scenarios in the data. However, those conversations also surfaced a number of scenarios and indicators 
+that we cannot identify given currently available data. To gain more insight into these scenarios, we 
+recommend updating the publicly readable data to specify the deed type and whether properties go 
+through Surrogate’s Court. In addition, it would be helpful to collect machine-readable information on 
+the notaries or attorneys who presented the recorded document so we could identify patterns and help 
+determine whether specific networks or actors are repetitively engaging in suspicious conduct. In order 
+to avoid compromising the effectiveness of these recommendations, we do not outline them in detail here. 
+We will share our recommendations for improving data transparency directly with the relevant agencies. 
+We created our interactive map and dashboard detailing at-risk households to assist government officials, 
+legal service providers and law enforcement in identifying the scale of the issue at a neighborhood level. 
+The protected map includes property-level information to help partners target their outreach. As we 
+outlined in our 2025 brief, Using Data to Prevent the Loss of Home Equity in New York City, that outreach 
+should be performed by trusted organizations that have deep local relationships with the communities 
+that we have identified as at risk. Local organizations can help ensure that outreach is also carried out 
+in a multilingual and culturally competent manner. Outreach can inform homeowners of the need for 
+estate planning (including tools like TODDs), warn them of scams, and connect them with trusted legal 
+providers. Furthermore, outreach can direct homeowners to programs that provide financial support 
+for property taxes, water charges, home repairs, and disaster relief.
+Directing homeowners to current resources and programs, while effective in many ways, is not enough 
+to protect vulnerable homeowners. For a more comprehensive discussion of policy recommendations 
+and data considerations that can help protect at-risk homeowners, see our 2025 brief.
+20 HOME EQUITY AT RISK
+Conclusion
+Our analysis leverages updated data to better understand the scale and geography of properties that 
+are vulnerable to or may have experienced equity stripping, a topic we first explored in our 2025 brief.  
+We identify thousands of properties at risk of tangled title issues. Those properties also show heightened 
+signs of financial distress, raising concerns about underlying challenges these homeowners are facing. 
+High-risk properties are seven times more likely to show up on the City’s most recent tax lien sale list and 
+six times more likely to be delinquent on property taxes than all 1-3 unit properties owned by individuals. 
+In an encouraging sign, we find that 1,380 Transfer on Death Deeds that can help lower homeowner risk  
+have been filed between July 2024, when the tool was implemented, and July 2026. 
+Across four focus groups with legal services providers, city government leaders, nonprofit partners, and 
+law enforcement agencies, we consistently heard about types of human-to-entity property transfers 
+that raise concerns about potential scams or other schemes targeting homeowners. Our analysis 
+shows that these transfers have risen over the last few years. They are heavily concentrated in a few 
+neighborhoods, including Jamaica/Hollis and Queens Village in Queens. Similar to high-risk  properties, 
+we find that properties with human-to-entity transfers where there is a gap in the chain of title are also 
+much more likely to have an indicator of financial distress. Finally, neighborhoods with the highest 
+concentrations of flagged transfers also have higher shares of Black, Asian, and foreign-born residents than  
+other parts of the city.
+Our data show that the risk of unclear title issues remains significant, and the data also help identify 
+the most vulnerable neighborhoods so our partners can better target resources and outreach. The same 
+data underlying this analysis are currently available in a restricted, detailed dashboard and mapping 
+tool for our partner organizations engaging in critical legal assistance and enforcement activities. 
+By surfacing patterns in the data, the tool is intended to help organizations better target outreach, 
+refine assistance, and identify perpetrators of equity stripping and deed theft scams. Furthermore, our 
+conversations with partner organizations raised additional opportunities for increased data transparency 
+to uncover fraudulent activity with timely data updates. More detailed data can help unlock more  
+systematic outreach and enforcement efforts.
+21 HOME EQUITY AT RISK
+Technical Appendix
+Scope and Methodology
+This analysis covers 1-3 unit properties in New York City, excluding Staten Island, condominiums, and 
+cooperative housing due to data limitations. 
+The analysis is informed by engagement with partner organizations that work with homeowners on 
+title and other related issues. Through focus groups, partners provided feedback on scenarios we should 
+incorporate into our work.
+Identifying High-Risk Properties and Flagged Transfers
+Within this universe, we define high-risk properties as properties with a human owner that have at 
+least one listed owner who is deceased and have either no deed recorded against the property at all or a 
+most recent deed that is at least 30 years old (from 1996 or earlier). We identify these properties as at 
+an elevated risk of title issues and other factors that may complicate future ownership and leave these 
+properties vulnerable to predatory tactics. We also include a close analysis of certain types of human-
+to-entity transfers, which move some or all ownership from an individual to an entity or LLC.16 Because 
+many such transfers occur legitimately, in this analysis we focus on transfer patterns discussed with 
+practitioners familiar with scenarios that would indicate a suspicious transaction. 
+Human Ownership
+To identify properties with a human owner, we developed a name-classification model utilizing ownership 
+data from a combination of the NYC Department of Finance’s Automated City Register Information 
+System (ACRIS) and Department of City Planning’s (DCP) PLUTO. The model is a class-balanced logistic 
+Regression that uses TF-IDF17 alongside a set of key terms and character combinations (e.g., LLC, INC, 
+CORP, LLP, LTD) to determine whether the listed owner is a person or an organization. Given a name, 
+the model outputs a binary classification (PERSON or ORGANIZATION) accompanied by a confidence 
+score. Names with a confidence level below 90 percent are flagged for manual review by our team. 
+16. Based on practitioner feedback, we limit our analysis to “high-risk” properties, those with both at least one deceased homeowner and 
+no recorded documents in the last 30 years. We do not cover the “at-risk” category which we explored in our original analysis, homes 
+which met only one of the risk criteria, due to the concern that it is overly broad. 
+17. Term Frequency-Inverse Document Frequency (TF-IDF) is a natural language processing (NLP) method used in topic modeling and 
+text analysis that quantifies a word’s importance in a given document. To calculate importance, the method takes the frequency of a 
+word in a document—in this case, names of listed owners of 1-3 residential unit properties in New York City—and divides that value by 
+the number of documents in a given corpus that contain that word. Through this process, names using “LLC,” “Inc.,” or “Corporation,” 
+will be weighted less than a unique first and last name. Common surnames were sent through additional screenings to adjust the 
+weights of their names. As the first step of the modeling, TF-IDF allows for the model to filter out the most common entity indicators. 
+For more information, see Spärck Jones, K. (1972). A statistical interpretation of term specificity and its application in retrieval. Journal 
+of Documentation, 28(1), 11–21. https://www.staff.city.ac.uk/~sbrp622/idfpapers/ksj_orig.pdf.
+22 HOME EQUITY AT RISK
+Deceased Owners
+To identify deceased owners, we take properties we have determined are human-owned and use the Melissa 
+deceased suppression service to flag deceased owners within our data. Due to data constraints, we are 
+only provided with a binary indicator of whether an owner is deceased, not when they may have passed. 
+Violations
+To assess the extent of physical distress in our properties of interest, we rely on complaint and violation 
+data collected by the New York City Department of Housing Preservation and Development (HPD) and 
+Department of Buildings (DOB) and DOB’s Environmental Control Board (ECB). We report violations 
+based on the date they were filed, whether they remain open or have since been closed.
+Violations issued by HPD inspectors are for conditions that have been confirmed to violate the New York 
+City Housing Maintenance Code (HMC) or New York State Multiple Dwelling Law (MDL). Violations are 
+issued in four classes: Class A (non-hazardous), Class B (hazardous), Class C (immediately hazardous), 
+and Class I (information orders). DOB and ECB violations are issued for conditions that do not comply 
+with the city’s Construction Code, such as boiler, facade, and fire safety violations. 
+Tax Delinquencies and Tax Lien Sale Status
+To determine tax delinquencies, we use DOF’s Property Charges Balance data. A given property is classified 
+as tax delinquent if it has a combined open charge of over $500 for at least 1 year. To determine tax lien 
+sale status, we reviewed all properties that appeared on the 90-day, 60-day, 30-day, and 10-day notices 
+and the final sale list for the following tax lien sales: 2011-2019, 2021, and 2025 (the analysis of tax lien 
+status for high-risk properties is limited to the 2025 tax lien sale). 
+Data and Analysis Limitations
+Focus group participants raised some scenarios that could not be reviewed due to the structure of the 
+available data. For example, we could not filter transactions by the type of deed used (e.g., quitclaim 
+vs. warranty deeds), nor could we incorporate information from Surrogate’s Court proceedings about 
+a property. We were also unable to include sales or transfers of condominium or cooperative units  
+for reasons we discuss thoroughly in our prior publication.
+23 HOME EQUITY AT RISK
+Appendix
+Table 1: Demographic Indicators—Tax Lien Sales and Tax Delinquencies
+Tax Lien Sale  
+Properties
+Properties Delinquent  
+on Property Taxes Citywide
+Top Third 
+CDs
+Middle 
+Third CDs
+Bottom 
+Third CDs
+Top Third 
+CDs
+Middle 
+Third CDs
+Bottom 
+Third CDs
+-
+% NH White 21.7% 27.4% 42.9% 25.8% 41.9% 20.2% 30.7%
+% NH Black 31.1% 19.2% 8.8% 28.9% 14.6% 16.9% 21.6%
+% NH Asian 14.1% 13.8% 16.7% 14.6% 17.7% 11.5% 15.3%
+% Hispanic  
+(Any Race)
+26.1% 35.0% 26.7% 23.7% 20.4% 47.6% 28.7%
+% Foreign Born 39.1% 38.7% 33.1% 38.7% 34.2% 38.7% 36.7%
+% Homeowners 40.7% 24.8% 30.9% 40.9% 34.8% 18.4% 32.7%
+% Below Poverty Line 17.8% 21.0% 14.9% 17.2% 13.6% 24.4% 18.0%
+Sources: NYC Department of Finance, American Community Survey (2020-2024), NYU Furman Center
+Table 2: Demographic Indicators—HPD, DOB & ECB Violations
+HPD Violations Properties  
+(per 1,000 units)
+DOB & ECB Violations Properties 
+(per 1,000 units) Citywide
+Top Third 
+CDs
+Middle 
+Third CDs
+Bottom 
+Third CDs
+Top Third 
+CDs
+Middle 
+Third CDs
+Bottom 
+Third CDs
+-
+% NH White 13.5% 34.8% 40.3% 33.8% 26.7% 27.1% 30.7%
+% NH Black 35.7% 13.1% 15.7% 17.0% 24.5% 22.3% 21.6%
+% NH Asian 5.0% 19.7% 18.9% 16.6% 12.9% 14.5% 15.3%
+% Hispanic 
+(Any Race)
+40.6% 27.3% 18.3% 26.9% 30.5% 30.3% 28.7%
+% Foreign Born 34.9% 39.5% 36.9% 35.4% 37.6% 39.4% 36.7%
+% Homeowners 19.4% 34.8% 46.0% 32.9% 30.1% 36.4% 32.7%
+% Below Poverty Line 25.0% 17.2% 11.0% 16.5% 19.5% 18.2% 18.0%
+Sources: NYC Department of Housing Preservation & Development, NYC Department of Buildings, American Community Survey 
+(2020-2024), NYU Furman Center
+24 HOME EQUITY AT RISK
+Acknowledgements
+We thank Nicole Burek and Eliza Cash for their excellent research assistance. 
+We are also grateful to the legal advocates, practitioners, government officials, and other experts  
+who generously shared their time and expertise to inform this research.

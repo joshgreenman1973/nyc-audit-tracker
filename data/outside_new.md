@@ -1,13 +1,15 @@
-# Outside reports needing review (2026-11-01)
+# Outside reports needing review (2026-11-15)
 
 ## Crawl failures
 These publishers could not be crawled this run, so their new reports (if any) are missing from the list below:
 
 - cnycaffairs: HTTPError HTTP Error 404: Not Found
 
-5 candidate reports published since 2026-03-30 are not yet summarized or ruled out:
+7 candidate reports published since 2026-03-30 are not yet summarized or ruled out:
 
-## NYU Furman Center (5)
+## NYU Furman Center (6)
+- 2026-11-09 [Built to Last: Designing a Financially Sustainable, Long-Term Operating Model to Maintain the Nation’s Aging Housing Stock](https://www.furmancenter.org/publication/operational-sustainability-aging-housing-stock/)
+  - automated triage suggests ruling out (not nyc government): The white paper is a national analysis whose policy considerations are addressed to local, state and federal governments in general, not to New York City government, and New York City is mentioned only in passing. To confirm, move the entry from data/outside_triage.json to data/outside_no_recs.json.
 - 2026-10-13 [Delays, Discretion, and Denials: State Legislative Reforms to Local Land Use Processes](https://www.furmancenter.org/publication/state-land-use-process-reforms-housing-delays/)
   - automated triage suggests ruling out (not nyc government): The brief surveys state legislative reforms across many states and offers considerations to state policymakers, with no recommendations addressed to New York City government. To confirm, move the entry from data/outside_triage.json to data/outside_no_recs.json.
 - 2026-10-13 [The Builder’s Remedy: Key Considerations for Enforcing Pro-Housing Policies](https://www.furmancenter.org/publication/builders-remedy-pro-housing-policy-enforcement/)
@@ -18,6 +20,10 @@ These publishers could not be crawled this run, so their new reports (if any) ar
   - automated triage suggests ruling out (not a report): The text is a first-person essay ("After three years leading the nation's largest homeless services agency, I believe...") that offers general reflections and themes rather than a report with findings and formal recommendations to New York City government, so it reads as commentary. To confirm, move the entry from data/outside_triage.json to data/outside_no_recs.json.
 - 2026-04-30 [The Impact of Natural Disasters on Rental Markets: Heterogeneous Effects, Rental Subsidies, and Equity in Disaster Recovery](https://www.furmancenter.org/publication/the-impact-of-natural-disasters-on-rental-markets-heterogeneous-effects-rental-subsidies-and-equity-in-disaster-recovery/)
   - automated drafting could not judge it from the text it could fetch: only 1213 characters of text could be fetched
+
+## Center for an Urban Future (1)
+- 2026-11-01 [Hidden Digital Skills: Training Resource Guide](https://nycfuture.org/research/hidden-digital-skills-training-resource-guide)
+  - automated triage suggests ruling out (no recommendations): The text is a resource guide that lists 29 youth and 43 adult digital skills training programs with descriptions and contact details, and it makes no recommendations to New York City government. To confirm, move the entry from data/outside_triage.json to data/outside_no_recs.json.
 
 ## Needs a browser pass (Cloudflare-blocked, not crawled here)
 cbc
