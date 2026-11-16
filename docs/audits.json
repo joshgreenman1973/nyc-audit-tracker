@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15",
+ "generated": "2026-11-16",
  "cutoff": "2025-01-01",
  "audits": [
   {
@@ -8583,6 +8583,42 @@
    ],
    "is_followup": false,
    "compliance_note": "",
+   "rec_statuses": [
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-14",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-14",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-14",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-14",
+     "agency_response": "Partially Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2026-04-14",
+     "agency_response": "Partially Agreed With"
+    }
+   ],
+   "status_tally": {
+    "Pending": 5
+   },
+   "status_as_of": "2026-04-14",
    "rec_display": [
     {
      "n": 1,
@@ -9808,62 +9844,80 @@
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-08-26",
+     "status_date": "2025-12-11",
      "agency_response": "Disagreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-09-02",
+     "status_date": "2025-12-11",
      "agency_response": "Disagreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-09-02",
+     "status_date": "2025-12-11",
      "agency_response": "Disagreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-08-28",
+     "status_date": "2025-12-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-12-11",
      "agency_response": "Agreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-08-28",
-     "agency_response": "Agreed With"
-    },
-    {
-     "n": null,
-     "status": "Pending",
-     "status_date": "2026-09-02",
+     "status_date": "2025-12-11",
      "agency_response": "Disagreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-08-27",
+     "status_date": "2025-12-11",
      "agency_response": "Agreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-09-02",
+     "status_date": "2025-12-11",
      "agency_response": "Disagreed With"
     },
     {
      "n": null,
      "status": "Pending",
-     "status_date": "2026-08-26",
+     "status_date": "2025-12-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-12-11",
+     "agency_response": "Agreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-12-11",
+     "agency_response": "Disagreed With"
+    },
+    {
+     "n": null,
+     "status": "Pending",
+     "status_date": "2025-12-11",
      "agency_response": "Agreed With"
     }
    ],
    "status_tally": {
-    "Pending": 9
+    "Pending": 12
    },
-   "status_as_of": "2026-09-02",
+   "status_as_of": "2025-12-11",
    "rec_display": [
     {
      "n": 1,

@@ -24,36 +24,6 @@
   "audit_num": "P25Vendor0043/FP25-066A",
   "agency": "Department of Veterans' Services",
   "issued": "2025-12-26",
-  "recommendation": "Ensure that it accurately tracks and reports on the number of veterans that it provides with homelessness prevention and aftercare assistance services in the annual Mayor's Management Report; or ensure that it changes the performance indicator to indicate that it reflects the number of requests.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-26"
- },
- {
-  "title": "Audit of DVS' Coordination of Housing Assistance",
-  "audit_num": "P25Vendor0043/FP25-066A",
-  "agency": "Department of Veterans' Services",
-  "issued": "2025-12-26",
-  "recommendation": "Ensure timely submission of the DVS Services and Performance Annual Report and biannual DVS Veterans Resource Center Reports as required under Local Laws 44 of 2019 and 215 of 2018, respectively.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-26"
- },
- {
-  "title": "Audit of DVS' Coordination of Housing Assistance",
-  "audit_num": "P25Vendor0043/FP25-066A",
-  "agency": "Department of Veterans' Services",
-  "issued": "2025-12-26",
-  "recommendation": "Implement a mechanism to ensure effective tracking and timely processing of veteran housing assistance requests within five business days.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-26"
- },
- {
-  "title": "Audit of DVS' Coordination of Housing Assistance",
-  "audit_num": "P25Vendor0043/FP25-066A",
-  "agency": "Department of Veterans' Services",
-  "issued": "2025-12-26",
   "recommendation": "Initiate a complete and accurate transfer of data from the Aftercare Tracker for FY2025 to the VetConnectNYC system to ensure that veteran housing outcomes are correctly recorded.",
   "response": "Agreed With",
   "response_status": "Pending",
@@ -884,16 +854,6 @@
   "audit_num": "FM25PAR20002/FM23-077A",
   "agency": "Department of Education",
   "issued": "2025-12-17",
-  "recommendation": "Collect CTS route information, including pick-up and drop-off times, from the vendor at the beginning of each school year and not solely depend on the vendor to maintain this information.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-04-28"
- },
- {
-  "title": "Audit of the Department of Education's Oversight over its Contracted School Bus Services",
-  "audit_num": "FM25PAR20002/FM23-077A",
-  "agency": "Department of Education",
-  "issued": "2025-12-17",
   "recommendation": "Consider implementing enhanced minimum performance standards for timely and reliable service and adding minimum performance standards related to ride times and complaints in its new school bus vendor contracts. This should includea. Setting minimum monthly performance metrics for on-time performance, no service, and ride times based on GPS data, and complaints relative to the number of routes, scheduled trips, or completed trips;b. Establishing a structure that incentivizes good performance and provides greater accountability for poor performance and escalation including a tiered scale of penalties based on monthly performance metrics and increased penalties for repeated violations;andd. Taking routes away from the poorest performers or terminating their contracts.",
   "response": "Partially Agreed With",
   "response_status": "Implemented",
@@ -914,29 +874,9 @@
   "audit_num": "FM25PAR20002/FM23-077A",
   "agency": "Department of Education",
   "issued": "2025-12-17",
-  "recommendation": "Ensure that it is recovering any monies distributed to Via Transportation for required work that was not performed.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
-  "status_date": "2026-05-18"
- },
- {
-  "title": "Audit of the Department of Education's Oversight over its Contracted School Bus Services",
-  "audit_num": "FM25PAR20002/FM23-077A",
-  "agency": "Department of Education",
-  "issued": "2025-12-17",
   "recommendation": "Establish comprehensive policies and procedures that provide guidance on (1) the methods and tools staff should use and consider when reviewing complaints, and (2) requiring supervisory review before resolving complaints.",
   "response": "Agreed With",
   "response_status": "Implemented",
-  "status_date": "2026-05-18"
- },
- {
-  "title": "Audit of the Department of Education's Oversight over its Contracted School Bus Services",
-  "audit_num": "FM25PAR20002/FM23-077A",
-  "agency": "Department of Education",
-  "issued": "2025-12-17",
-  "recommendation": "Formally document amendments made to Via Transportation's new delivery dates and work plan and submit that amendment for registration.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
   "status_date": "2026-05-18"
  },
  {
@@ -1450,6 +1390,56 @@
   "status_date": "2024-06-21"
  },
  {
+  "title": "Audit of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
+  "audit_num": "MG25-062A",
+  "agency": "Business Integrity Commission",
+  "issued": "2025-12-22",
+  "recommendation": "BIC should adopt formal, risk-based criteria for selecting companies to audit and develop a written audit procedures manual to standardize audit steps and ensure consistent quality.",
+  "response": "Partially Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-04-14"
+ },
+ {
+  "title": "Audit of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
+  "audit_num": "MG25-062A",
+  "agency": "Business Integrity Commission",
+  "issued": "2025-12-22",
+  "recommendation": "BIC should develop and implement comprehensive Standard Operating Procedures that define when and how BIC should escalate enforcement. These procedures should establish clear, consistent criteria for all enforcement actions—including audits, monitorships, and license revocations—and include quantitative and qualitative benchmarks (e.g., number of crashes, integrity-related violations, or repeated inspection failures) that trigger review for higher-level sanctions.",
+  "response": "Disagreed With",
+  "response_status": "Pending",
+  "status_date": "2026-04-14"
+ },
+ {
+  "title": "Audit of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
+  "audit_num": "MG25-062A",
+  "agency": "Business Integrity Commission",
+  "issued": "2025-12-22",
+  "recommendation": "BIC should group and analyze violations by risk and severity and set clear risk-based thresholds for when repeated, high-risk, and/or safety or integrity related violations and/or crashes should trigger consideration of enhanced oversight. Ensure consideration and decisions are documented.",
+  "response": "Disagreed With",
+  "response_status": "Pending",
+  "status_date": "2026-04-14"
+ },
+ {
+  "title": "Audit of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
+  "audit_num": "MG25-062A",
+  "agency": "Business Integrity Commission",
+  "issued": "2025-12-22",
+  "recommendation": "BIC should review the 140 companies identified as chronic violators in this audit against the newly established criteria to determine whether additional enforcement actions or post-monitorship follow-up reviews are warranted.",
+  "response": "Partially Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-04-14"
+ },
+ {
+  "title": "Audit of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
+  "audit_num": "MG25-062A",
+  "agency": "Business Integrity Commission",
+  "issued": "2025-12-22",
+  "recommendation": "BIC should set annual audit targets focused on high-risk companies and repeat offenders and seek adequate staffing and resources to support greater coverage and improve timeliness of audit completion.",
+  "response": "Partially Agreed With",
+  "response_status": "Pending",
+  "status_date": "2026-04-14"
+ },
+ {
   "title": "Audit of the New York City Department of Environmental Protection's Water Main Break Prevention Program",
   "audit_num": "MG25PAR30025/SE25-076A",
   "agency": "Department of Environmental Protection",
@@ -1467,26 +1457,6 @@
   "recommendation": "Create a formal process for scheduling and tracking survey coverage so that work is spread across all grids, avoids unnecessary repeats, and ensures every grid is inspected within the annual and three-year cycles.",
   "response": "Not Addressed",
   "response_status": "Implemented",
-  "status_date": "2026-06-11"
- },
- {
-  "title": "Audit of the New York City Department of Environmental Protection's Water Main Break Prevention Program",
-  "audit_num": "MG25PAR30025/SE25-076A",
-  "agency": "Department of Environmental Protection",
-  "issued": "2025-12-26",
-  "recommendation": "Develop and implement a structured, risk-based survey planning process. This includes establishing written procedures for selecting survey grids using measurable risk indicators such as the age, size, and material of water mains; prior leak history; recent construction or excavation activity; and proximity to critical infrastructure.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
-  "status_date": "2026-06-11"
- },
- {
-  "title": "Audit of the New York City Department of Environmental Protection's Water Main Break Prevention Program",
-  "audit_num": "MG25PAR30025/SE25-076A",
-  "agency": "Department of Environmental Protection",
-  "issued": "2025-12-26",
-  "recommendation": "Ensure that its computer system—whether updated or new—allows for improved useability and direct traceability from survey to scan to repair, including the ability to link proactive detection results to follow-up actions and repair outcomes. The computer platform should include performance dashboards and reporting tools for program-level monitoring.",
-  "response": "Not Addressed",
-  "response_status": "Pending",
   "status_date": "2026-06-11"
  },
  {
@@ -1990,56 +1960,6 @@
   "status_date": "2026-06-18"
  },
  {
-  "title": "Audit of the of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
-  "audit_num": "MG25PAR30024/MG25-062A",
-  "agency": "Business Integrity Commission",
-  "issued": "2025-12-26",
-  "recommendation": "Adopt formal, risk-based criteria for selecting companies to audit and develop a written audit procedures manual to standardize audit steps and ensure consistent quality.",
-  "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-18"
- },
- {
-  "title": "Audit of the of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
-  "audit_num": "MG25PAR30024/MG25-062A",
-  "agency": "Business Integrity Commission",
-  "issued": "2025-12-26",
-  "recommendation": "Develop and implement comprehensive Standard Operating Procedures that define when and how BIC should escalate enforcement. These procedures should establish clear, consistent criteria for all enforcement actions—including audits, monitorships, and license revocations—and include quantitative and qualitative benchmarks (e.g., number of crashes, integrity-related violations, or repeated inspection failures) that trigger review for higher-level sanctions.",
-  "response": "Disagreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-18"
- },
- {
-  "title": "Audit of the of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
-  "audit_num": "MG25PAR30024/MG25-062A",
-  "agency": "Business Integrity Commission",
-  "issued": "2025-12-26",
-  "recommendation": "Group and analyze violations by risk and severity and set clear risk-based thresholds for when repeated, high-risk, and/or safety or integrity related violations and/or crashes should trigger consideration of enhanced oversight. Ensure consideration and decisions are documented.",
-  "response": "Disagreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-18"
- },
- {
-  "title": "Audit of the of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
-  "audit_num": "MG25PAR30024/MG25-062A",
-  "agency": "Business Integrity Commission",
-  "issued": "2025-12-26",
-  "recommendation": "Review the 140 companies identified as chronic violators in this audit against the newly established criteria to determine whether additional enforcement actions or post-monitorship follow-up reviews are warranted.",
-  "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-18"
- },
- {
-  "title": "Audit of the of the Monitoring of the City's Trade Waste Industry by the Business Integrity Commission",
-  "audit_num": "MG25PAR30024/MG25-062A",
-  "agency": "Business Integrity Commission",
-  "issued": "2025-12-26",
-  "recommendation": "Set annual audit targets focused on high-risk companies and repeat offenders and seek adequate staffing and resources to support greater coverage and improve timeliness of audit completion.",
-  "response": "Partially Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-06-18"
- },
- {
   "title": "Audit of the Office of Collective Bargaining's Responses to Public Requests",
   "audit_num": "H25PAR10036/MH25-070A",
   "agency": "Office of Collective Bargaining",
@@ -2451,93 +2371,123 @@
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Assign administrative staff to review PMS for the remaining backlog cases to determine whether individuals are still employed by the City and, if not, administratively close their cases.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should assign administrative staff to review PMS for the remaining backlog cases to determine whether individuals are still employed by the City and, if not, administratively close their cases.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-26"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Conduct periodic reviews to ensure agencies are submitting all required candidates for background investigations.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should conduct periodic reviews to ensure agencies are submitting all required candidates for background investigations.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-09-02"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Consider creating additional closing types or creating levels for the \"Other\" category, such as Level 1 for less serious findings and Level 3 for the most serious.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should consider creating additional closing types or creating levels for the “Other” category, such as Level 1 for less serious findings and Level 3 for the most serious.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-09-02"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Consider tracking appointment dates to determine whether agencies are submitting applications for background investigations within required timeframes.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should consider making recommendations or providing some other kind of guidance to agencies regarding the impact of certain types of adverse information on the suitability of appointments.",
+  "response": "Disagreed With",
+  "response_status": "Pending",
+  "status_date": "2025-12-11"
+ },
+ {
+  "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
+  "audit_num": "MD25-055A",
+  "agency": "Department of Investigation",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should consider tracking appointment dates to determine whether agencies are submitting applications for background investigations within required timeframes.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-28"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Ensure that fingerprints and results are removed from background investigation files within required timeframes. Establish monitoring activities on a periodic sample basis to ensure they are removed and destroyed.",
-  "response": "Agreed With",
-  "response_status": "Pending",
-  "status_date": "2026-08-28"
- },
- {
-  "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
-  "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Ensure that Kaseware has adequate documentation, including a data dictionary.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should consider tracking whether candidates are retained or terminated based on background investigations that identify adverse information.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-09-02"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Issue updated memos or guidance to City agencies at least every two years to help ensure they are aware of their responsibilities for submitting background investigation packages.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should ensure that fingerprints and results are removed from background investigation files within required timeframes. Establish monitoring activities on a periodic sample basis to ensure they are removed and destroyed.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-27"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Report separately on completion timelines for routine, expedited, priority, and backlog investigations in the MMR to provide a complete and accurate picture of DOI's performance.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should ensure that Kaseware has adequate documentation, including a data dictionary.",
   "response": "Disagreed With",
   "response_status": "Pending",
-  "status_date": "2026-09-02"
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
-  "audit_num": "MD25PAR30019/MD25-055A",
+  "audit_num": "MD25-055A",
   "agency": "Department of Investigation",
-  "issued": "2025-12-16",
-  "recommendation": "Require the use of checklists and review forms to ensure all applicable investigation steps are conducted and documented.",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should establish written timeframes for completing expedited, priority, and backlog investigations.",
+  "response": "Disagreed With",
+  "response_status": "Pending",
+  "status_date": "2025-12-11"
+ },
+ {
+  "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
+  "audit_num": "MD25-055A",
+  "agency": "Department of Investigation",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should issue updated memos or guidance to City agencies at least every two years to help ensure they are aware of their responsibilities for submitting background investigation packages.",
   "response": "Agreed With",
   "response_status": "Pending",
-  "status_date": "2026-08-26"
+  "status_date": "2025-12-11"
+ },
+ {
+  "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
+  "audit_num": "MD25-055A",
+  "agency": "Department of Investigation",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should report separately on completion timelines for routine, expedited, priority, and backlog investigations in the MMR to provide a complete and accurate picture of DOI’s performance.",
+  "response": "Disagreed With",
+  "response_status": "Pending",
+  "status_date": "2025-12-11"
+ },
+ {
+  "title": "Audit on the Department of Investigation's Background Investigations for City Employees",
+  "audit_num": "MD25-055A",
+  "agency": "Department of Investigation",
+  "issued": "2025-12-12",
+  "recommendation": "DOI should require the use of checklists and review forms to ensure all applicable investigation steps are conducted and documented.",
+  "response": "Agreed With",
+  "response_status": "Pending",
+  "status_date": "2025-12-11"
  },
  {
   "title": "Audit on the Department of Parks and Recreation’s Maintenance of Its Recreation Centers",
